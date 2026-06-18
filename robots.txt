@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /support/
+
+Sitemap: https://jobslist.dev/sitemap.xml
