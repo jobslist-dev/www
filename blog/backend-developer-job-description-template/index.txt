@@ -1,0 +1,84 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T1b10,<p>Backend candidates read job posts looking for one thing above all: what the actual system looks like. Not the framework list — the shape of the problem. Is this a well-factored service with real traffic, or a decade-old monolith nobody understands? Is the interesting work data modeling, distributed systems, or gluing third-party APIs together? All of those are good jobs. They attract completely different people.</p>
+<p>Here&#39;s a template that says which one you&#39;re offering.</p>
+<h2>The template</h2>
+<h3>Backend Developer at [Company]</h3>
+<p><strong>Location:</strong> [City / Remote — [region] / Hybrid]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus]
+<strong>Level:</strong> [Mid-level / Senior / Staff]</p>
+<h3>About the role</h3>
+<p>[Company] runs [what the system does] for [who]. Today that means [an honest, concrete description of scale — requests per day, data volume, number of customers, or &quot;small but growing fast&quot;].</p>
+<p>We&#39;re hiring a backend developer to own [the specific system or problem]. The first six months are mostly [the actual near-term work — building X, splitting Y, making Z reliable].</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Design, build, and operate services in [language / framework].</li>
+<li>Own [a specific service or domain] in production — including the parts that break.</li>
+<li>Model data and evolve schemas without taking the product down.</li>
+<li>Design APIs that frontend and third-party consumers can actually use.</li>
+<li>Improve reliability, observability, and performance of [the system].</li>
+<li>Take part in [on-call rotation]: [state the real frequency and how often it fires].</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years building and running production backend systems.</li>
+<li>Strong [language] experience, or deep expertise in a comparable language — we hire for engineering ability, not syntax.</li>
+<li>Real database competence: schema design, indexing, and the ability to work out why a query is slow.</li>
+<li>Experience operating what you build — deployments, monitoring, debugging live incidents.</li>
+<li>Clear written communication. Design decisions here get written down.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>[Message queues / event-driven architecture / caching layers], depending on what you actually run.</li>
+<li>Experience with [cloud provider] and infrastructure-as-code.</li>
+<li>Background in [your domain] — [fintech, healthcare, logistics] where correctness rules are unforgiving.</li>
+</ul>
+<h3>Our stack</h3>
+<p>[Language, framework, database(s), queue, cache, cloud, deployment, monitoring.] [One honest sentence about technical debt — &quot;the payments service is clean; the legacy importer is not, and replacing it is part of this role.&quot;]</p>
+<p>That honesty sentence is worth more than anything else in the post. Senior backend engineers assume debt exists; naming it makes everything else you say credible.</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call.</li>
+<li><strong>[60 min]</strong> Technical conversation about systems you&#39;ve built and run — including something that went wrong.</li>
+<li><strong>[90 min]</strong> Practical session: [design a system with us / paid take-home / walkthrough of your own code].</li>
+<li><strong>[45 min]</strong> Meet the team.</li>
+</ol>
+<h3>Benefits and how to apply</h3>
+<p>[Benefits.] [Application link.] We reply to every applicant within [n] days.</p>
+<p>[Company] is an equal opportunity employer.</p>
+<h2>Hiring backend engineers: what&#39;s different</h2>
+<h3>Be specific about scale — in both directions</h3>
+<p>Vague scale claims cost you candidates at both ends. &quot;Massive scale&quot; attracts distributed-systems specialists who will be bored by your traffic and leave; understating it loses the people who&#39;d find your problems interesting.</p>
+<p>Give a real number. &quot;Forty thousand requests a minute at peak&quot; and &quot;two hundred customers but each one&#39;s data is enormous&quot; are both compelling to the right person, and both are more attractive than &quot;high-scale environment.&quot;</p>
+<h3>Say what the interesting problem is</h3>
+<p>Backend covers wildly different work: data modeling, distributed systems, performance, integrations, correctness in a regulated domain, or migrating a legacy system. Candidates self-select hard on this. Name the problem you&#39;re actually hiring someone to solve, and you&#39;ll get applications from people who want to solve it.</p>
+<h3>Treat on-call as a headline term</h3>
+<p>On-call is a material part of compensation and one of the top reasons experienced engineers turn down offers. Being straight about it is a competitive advantage, because so few posts are:</p>
+<ul>
+<li>How often is the rotation, and how many people are in it?</li>
+<li>How often does it actually page someone outside working hours?</li>
+<li>Is there time-off or extra pay for it?</li>
+<li>What&#39;s the expectation on response time?</li>
+</ul>
+<p>An honest &quot;one week in six, pages roughly twice a month&quot; beats silence. Candidates who&#39;ve been burned assume the worst when you say nothing.</p>
+<h3>Screen for operations, not just construction</h3>
+<p>The gap between engineers who can build a service and engineers who can run one is the widest gap in backend hiring. Probe it directly: ask about a production incident they handled, how they found the cause, and what they changed afterward. Ask what they monitor and why. Ask about the worst data migration they&#39;ve done. The answers separate candidates far more reliably than an algorithm question.</p>
+<h2>What to delete</h2>
+<ul>
+<li><strong>&quot;Must know [ten technologies].&quot;</strong> Backend engineers transfer between stacks routinely. Long lists just narrow your pool.</li>
+<li><strong>Algorithm-puzzle screening</strong> for a role that&#39;s actually about schema design and integrations — you&#39;ll filter for interview practice rather than the job.</li>
+<li><strong>&quot;Wear many hats&quot;</strong> without specifics, which experienced candidates translate as &quot;you&#39;ll also be doing DevOps, support, and QA.&quot;</li>
+<li><strong>Silence about on-call.</strong> It&#39;s the single most common omission and the most corrosive one.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Backend engineers choose jobs based on the shape of the system and the honesty of the description. Give real scale numbers, name the specific problem, admit where the debt is, publish the on-call terms, and screen for operational experience rather than puzzle fluency. The post that tells the truth about a messy system will out-recruit the post that pretends everything is greenfield.</p>
+<p><em>Hiring backend engineers? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers directly.</em></p>
+5:["slug","backend-developer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"backend-developer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Backend Developer Job Description Template (With Screening Tips)\",\"description\":\"A copy-paste backend developer job description template — plus how to describe scale, on-call, and data ownership honestly so the right engineers apply.\",\"datePublished\":\"2026-07-08T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"Backend Developer Job Description Template (With Screening Tips)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-08T00:00:00.000Z","children":"July 8, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Backend Developer Job Description Template (With Screening Tips) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A copy-paste backend developer job description template — plus how to describe scale, on-call, and data ownership honestly so the right engineers apply."}],["$","meta","4",{"property":"og:title","content":"Backend Developer Job Description Template (With Screening Tips)"}],["$","meta","5",{"property":"og:description","content":"A copy-paste backend developer job description template — plus how to describe scale, on-call, and data ownership honestly so the right engineers apply."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-07-08T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Backend Developer Job Description Template (With Screening Tips)"}],["$","meta","11",{"name":"twitter:description","content":"A copy-paste backend developer job description template — plus how to describe scale, on-call, and data ownership honestly so the right engineers apply."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

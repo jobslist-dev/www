@@ -1,0 +1,94 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T1f05,<p>Mobile engineering has constraints no other specialty carries: you ship through a gatekeeper, you can&#39;t hotfix a bad release, and every bug lives on devices you don&#39;t control until users choose to update. Mobile developers evaluate job posts against those realities, and most posts don&#39;t mention any of them.</p>
+<p>Here&#39;s a template that does, adaptable for native iOS, native Android, or cross-platform.</p>
+<h2>The template</h2>
+<h3>[iOS / Android / Mobile] Developer at [Company]</h3>
+<p><strong>Location:</strong> [City / Remote — [region] / Hybrid]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus]
+<strong>Level:</strong> [Mid-level / Senior]</p>
+<h3>About the role</h3>
+<p>[Company]&#39;s app is [what it does] for [users]. We have [n] downloads / [n] monthly active users, ship roughly [every n weeks], and hold a [n]-star rating.</p>
+<p>We&#39;re hiring a mobile developer to own [the specific area — the new booking flow, our offline mode, the rewrite from hybrid to native].</p>
+<p><strong>Platform:</strong> [Native Swift / Native Kotlin / React Native / Flutter]. [If cross-platform, say whether native modules are part of the job. If native, say whether the other platform exists and who owns it.]</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Build and ship features in [platform / language], from design through App Store or Play Store release.</li>
+<li>Own the release process for [platform]: builds, review submissions, phased rollouts, and rollbacks.</li>
+<li>Keep the app fast and stable — startup time, memory, battery, and crash-free rate.</li>
+<li>Handle the hard parts of mobile: offline behaviour, background work, permissions, deep links, and push notifications.</li>
+<li>Work with backend engineers to shape APIs that suit a client with unreliable connectivity.</li>
+<li>Support [n] OS versions back and [the device range you actually care about].</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years building mobile apps, with at least one shipped to a public store and maintained afterwards.</li>
+<li>Strong [Swift / Kotlin / React Native / Flutter] experience.</li>
+<li>Solid grasp of the platform&#39;s lifecycle, memory model, and threading — not just the UI framework.</li>
+<li>Experience debugging issues you can&#39;t reproduce, using crash reports and analytics from real devices.</li>
+<li>Familiarity with store review, versioning, and phased release.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with [your architecture pattern], [your DI framework], or [your testing setup].</li>
+<li>Accessibility work — [VoiceOver / TalkBack].</li>
+<li>Performance profiling with [Instruments / Android Studio Profiler].</li>
+<li>Some familiarity with the other platform, for cross-team conversation.</li>
+</ul>
+<h3>Our setup</h3>
+<p>[Language, architecture, dependency manager, CI, crash reporting, analytics, release cadence, current crash-free rate.] [One honest line about the codebase — &quot;the newer modules are clean; the checkout flow is five years old and replacing it is part of this role.&quot;]</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call.</li>
+<li><strong>[60 min]</strong> Walk through an app you shipped — architecture, hardest bug, what you&#39;d change.</li>
+<li><strong>[90 min]</strong> Practical session: build or debug a small feature with us, or a paid take-home.</li>
+<li><strong>[45 min]</strong> Meet the team.</li>
+</ol>
+<h3>Benefits and how to apply</h3>
+<p>[Benefits.] [Application link.] If you have an app in a store, send us the link — we&#39;ll install it.</p>
+<p>[Company] is an equal opportunity employer.</p>
+<h2>Hiring mobile engineers: what&#39;s different</h2>
+<h3>Say which platform, and mean it</h3>
+<p>The most common mistake is advertising &quot;Mobile Developer&quot; for a role that is entirely iOS, then screening out strong Android candidates who applied in good faith. Native iOS and native Android are different jobs with different labour markets. Name the platform in the title.</p>
+<p>If you&#39;re cross-platform, say which framework, and be specific about how much native work is involved. &quot;React Native, with roughly a quarter of the work in native modules&quot; attracts a very different candidate from &quot;React Native only.&quot;</p>
+<h3>Publish your release cadence and quality bar</h3>
+<p>These are the numbers mobile engineers actually want:</p>
+<ul>
+<li><strong>How often you ship.</strong> Weekly and quarterly are different jobs. Quarterly means every release carries more risk and more process.</li>
+<li><strong>Your crash-free rate.</strong> Publishing it signals that you measure quality at all, which most posts don&#39;t.</li>
+<li><strong>Your store rating</strong>, if it&#39;s decent.</li>
+<li><strong>Minimum OS version and device support.</strong> Supporting five years of OS versions is real, ongoing work.</li>
+</ul>
+<h3>Ask for the app</h3>
+<p>Mobile is like frontend in one useful respect: the work is publicly downloadable. Always invite links to shipped apps, and actually install them. Ten minutes with a candidate&#39;s app tells you more about their standards than an hour of questions — how it handles a dropped connection, what happens on first launch, whether it&#39;s accessible.</p>
+<p>If their work is behind a corporate account or under NDA, ask them to walk you through it on a call instead. That&#39;s a normal situation and shouldn&#39;t disadvantage anyone.</p>
+<h3>Screen for the platform, not the UI layer</h3>
+<p>The distinguishing skill in mobile is understanding the environment your code runs in. Useful probes:</p>
+<ul>
+<li><strong>&quot;Tell me about a crash you could only reproduce on real devices.&quot;</strong> Tests debugging with incomplete information.</li>
+<li><strong>&quot;How do you handle a feature that has to work offline?&quot;</strong> Sync, conflict resolution, and local state are where mobile gets genuinely hard.</li>
+<li><strong>&quot;Walk me through a release that went wrong.&quot;</strong> Rollout strategy, rollback options, and what they changed afterwards.</li>
+<li><strong>&quot;How do you keep startup time down?&quot;</strong> Performance awareness separates senior mobile engineers quickly.</li>
+<li><strong>&quot;What&#39;s your approach when a store review rejects a build?&quot;</strong> Everyone experienced has a story.</li>
+</ul>
+<h3>Be honest about the release bottleneck</h3>
+<p>If shipping requires a two-week QA cycle, a compliance review, and a marketing sign-off, say so. Mobile engineers accept that shipping is slower than web; what frustrates them is discovering a process nobody mentioned. Naming it up front costs you nothing with the candidates who can live with it.</p>
+<h2>What to delete</h2>
+<ul>
+<li><strong>&quot;Mobile Developer&quot;</strong> as a title when you mean one specific platform.</li>
+<li><strong>Requiring both native platforms plus a cross-platform framework.</strong> That&#39;s three specialisms and a very small candidate pool.</li>
+<li><strong>Silence on release cadence and crash rate</strong> — the two things candidates most want to know.</li>
+<li><strong>&quot;Must have apps in the App Store&quot;</strong> as a hard requirement. Plenty of excellent mobile engineers work on apps published under a company account.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Mobile candidates are judging whether your app is a pleasure or a liability to work on. Name the platform in the title, publish your release cadence and crash-free rate, admit which parts of the codebase are old, and invite links to shipped work you&#39;ll actually install. Then interview for platform judgment — offline behaviour, releases, crashes on devices you don&#39;t own — rather than UI framework trivia.</p>
+<p><em>Hiring mobile engineers? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers directly.</em></p>
+5:["slug","mobile-developer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"mobile-developer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)\",\"description\":\"A copy-paste mobile developer job description template — plus how to describe platform choice, release cadence, and app quality so the right engineers apply.\",\"datePublished\":\"2026-06-19T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-06-19T00:00:00.000Z","children":"June 19, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[6," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A copy-paste mobile developer job description template — plus how to describe platform choice, release cadence, and app quality so the right engineers apply."}],["$","meta","4",{"property":"og:title","content":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)"}],["$","meta","5",{"property":"og:description","content":"A copy-paste mobile developer job description template — plus how to describe platform choice, release cadence, and app quality so the right engineers apply."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-06-19T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)"}],["$","meta","11",{"name":"twitter:description","content":"A copy-paste mobile developer job description template — plus how to describe platform choice, release cadence, and app quality so the right engineers apply."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

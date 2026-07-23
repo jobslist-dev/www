@@ -1,0 +1,81 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T190e,<p>Most software engineer job descriptions are assembled from whatever the last one said, which is why most of them read identically and convert poorly. Below is a complete template you can copy and adapt in about fifteen minutes, followed by notes on what to change, what to cut, and why each section is there.</p>
+<h2>The template</h2>
+<p>Copy everything from here to the end of the section, then replace the bracketed parts.</p>
+<h3>Software Engineer at [Company]</h3>
+<p><strong>Location:</strong> [City, or &quot;Remote — [region]&quot;, or &quot;Hybrid, [n] days in [city]&quot;]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus / benefits summary]
+<strong>Level:</strong> [Mid-level / Senior / Staff]</p>
+<h3>About us</h3>
+<p>[Company] builds [what you build] for [who uses it]. We&#39;re a team of [n] people, [n] of them engineers, and we&#39;re [funded / profitable / bootstrapped]. [One concrete sentence about traction — customers, scale, or growth.]</p>
+<p>We&#39;re hiring a [level] software engineer to [the single most important outcome this person owns].</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Build and ship features across [the parts of the product this role touches].</li>
+<li>Own [a specific system, service, or area] end to end — design, implementation, testing, and production.</li>
+<li>Work directly with [design / product / customers] to turn problems into working software.</li>
+<li>Review code, write tests, and help keep our [codebase / deployment pipeline] healthy.</li>
+<li>Participate in [on-call rotation / incident response], which currently means [an honest description of the load].</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years building production software, in any language.</li>
+<li>Strong experience with [1–2 core technologies you genuinely need].</li>
+<li>Comfort owning work with limited supervision — you can take an ambiguous problem, ask the right questions, and deliver.</li>
+<li>Clear written communication; we make most decisions in writing.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with [adjacent technology].</li>
+<li>Background in [your domain].</li>
+<li>Open-source contributions, side projects, or anything you can show us.</li>
+</ul>
+<p>We don&#39;t expect every box ticked. If you meet most of this and the work sounds interesting, apply.</p>
+<h3>Our stack</h3>
+<p>[List the actual stack: language, framework, database, infrastructure.] You don&#39;t need experience in all of it.</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call with [name / role].</li>
+<li><strong>[60 min]</strong> Technical conversation about your past work — no whiteboard puzzles.</li>
+<li><strong>[90 min]</strong> Practical session: [pairing on a realistic problem / walkthrough of a take-home you&#39;re paid for].</li>
+<li><strong>[45 min]</strong> Meet the team and ask us anything.</li>
+</ol>
+<p>We aim to go from application to decision in [n] working days and will tell you where you stand at every stage.</p>
+<h3>Benefits</h3>
+<p>[Health cover, PTO policy with the actual number, remote/equipment budget, learning budget, parental leave, pension/401k.]</p>
+<h3>How to apply</h3>
+<p>[Application link.] [Any specific instruction — e.g. &quot;tell us about something you built and what you&#39;d change about it.&quot;] We read every application and reply to everyone.</p>
+<p>[Company] is an equal opportunity employer. We welcome applicants from every background.</p>
+<h2>What to change first</h2>
+<p>The template is a skeleton. Four fields do most of the work:</p>
+<ul>
+<li><strong>The compensation range.</strong> The single highest-impact line. Candidates increasingly filter out posts without one, and publishing it removes the misalignment that kills offers in the final week.</li>
+<li><strong>The opening outcome sentence.</strong> &quot;To own our billing system&#39;s move off the monolith&quot; beats &quot;to join our fast-paced team&quot; by an enormous margin. Name the actual work.</li>
+<li><strong>The years-of-experience number.</strong> Inflated requirements filter out capable people and attract nobody extra. If a strong three-year engineer could do this job, don&#39;t write eight.</li>
+<li><strong>The interview process.</strong> Publishing it is rare enough to be a differentiator, and it pre-empts the top question every candidate has.</li>
+</ul>
+<h2>What to delete</h2>
+<ul>
+<li><strong>&quot;Rockstar,&quot; &quot;ninja,&quot; &quot;wizard,&quot; &quot;guru.&quot;</strong> These read as dated at best.</li>
+<li><strong>&quot;Fast-paced environment.&quot;</strong> Every candidate reads this as &quot;understaffed and disorganized.&quot;</li>
+<li><strong>&quot;We&#39;re like a family.&quot;</strong> Families don&#39;t run layoffs, and experienced candidates know it.</li>
+<li><strong>A requirements list longer than eight items.</strong> Long lists don&#39;t raise quality; they suppress applications, disproportionately from candidates who self-assess conservatively.</li>
+<li><strong>&quot;Competitive salary.&quot;</strong> It communicates nothing and signals you&#39;d rather not say.</li>
+<li><strong>Unpaid multi-day take-homes.</strong> Mention one and you lose most senior candidates before the first call.</li>
+</ul>
+<h2>Why the structure works</h2>
+<p>Candidates skim job posts in well under a minute, in a predictable order: title, location, money, then what the job actually is. The template front-loads exactly that. Everything a candidate needs in order to decide <em>whether to keep reading</em> appears before they scroll.</p>
+<p>The second half — stack, process, benefits, how to apply — is for the candidate who has already decided they&#39;re interested and is now looking for reasons to disqualify you. Give them straight answers there and you keep the people most likely to have other options.</p>
+<h2>The takeaway</h2>
+<p>A good job description isn&#39;t a legal document or a wish list; it&#39;s a sales page for a specific piece of work. Lead with the outcome and the number, keep requirements honest and short, publish your process, and delete every phrase that appears in a thousand other posts. Fifteen minutes of editing here changes the quality of every application that follows.</p>
+<p><em>Ready to publish? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers directly.</em></p>
+5:["slug","software-engineer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"software-engineer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Software Engineer Job Description Template (Copy, Paste, Customize)\",\"description\":\"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete.\",\"datePublished\":\"2026-07-03T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-03T00:00:00.000Z","children":"July 3, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[4," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Software Engineer Job Description Template (Copy, Paste, Customize) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","meta","4",{"property":"og:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","5",{"property":"og:description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-07-03T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","11",{"name":"twitter:description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

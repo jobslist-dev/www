@@ -1,0 +1,92 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T1e3a,<p>&quot;Data engineer&quot; covers at least four distinct jobs: building ingestion pipelines, modelling a warehouse for analysts, running the platform those pipelines sit on, and supporting machine learning in production. Candidates specialise, employers rarely specify, and the result is interview loops where both sides discover a mismatch in round two.</p>
+<p>The template below forces the specificity that fixes it.</p>
+<h2>The template</h2>
+<h3>Data Engineer at [Company]</h3>
+<p><strong>Location:</strong> [City / Remote — [region] / Hybrid]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus]
+<strong>Level:</strong> [Mid-level / Senior]</p>
+<h3>About the role</h3>
+<p>[Company] collects [what data, from where] and uses it for [what purpose — customer-facing features, internal analytics, ML models, regulatory reporting]. Today that&#39;s roughly [volume: rows per day, terabytes stored, number of sources].</p>
+<p>We&#39;re hiring a data engineer to own [the specific mandate — build our ingestion layer, model the warehouse, make our pipelines reliable enough to trust].</p>
+<p><strong>What this role focuses on:</strong> [Pick one and say so. For example: &quot;This is primarily pipeline and warehouse modelling work. We have a separate ML team; you&#39;d support them but not build models.&quot;]</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Build and maintain pipelines moving data from [sources] into [warehouse or lake].</li>
+<li>Model data for the people who consume it — [analysts, product teams, ML engineers].</li>
+<li>Own data quality: validation, monitoring, and being the person who knows when a number is wrong.</li>
+<li>Improve reliability and cost of the platform.</li>
+<li>Manage schema evolution without breaking downstream consumers.</li>
+<li>Document what each dataset means and where it came from.</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years in data engineering or a closely related role.</li>
+<li>Strong SQL — genuinely strong, including window functions, query plans, and performance work.</li>
+<li>Solid [Python / Scala / Java] for pipeline code.</li>
+<li>Experience with [your orchestration tool] and [your warehouse].</li>
+<li>Dimensional or analytical data modelling experience.</li>
+<li>An instinct for data quality. You&#39;ve been the person who found out why a dashboard was wrong.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Streaming experience with [Kafka / Kinesis / Pub-Sub].</li>
+<li>[dbt / Spark / your transformation stack].</li>
+<li>Infrastructure-as-code and cloud cost management.</li>
+<li>Experience in a regulated domain — [GDPR, HIPAA, financial reporting].</li>
+</ul>
+<h3>Our stack</h3>
+<p>[Sources, ingestion tooling, warehouse, transformation layer, orchestration, BI tool, cloud.] [One honest line about the current state — &quot;the core pipelines are solid; the marketing data is a mess and cleaning it up is the first project.&quot;]</p>
+<h3>Who you&#39;ll work with</h3>
+<p>[Number of analysts, data scientists, product engineers, and who currently owns what.] [Say plainly whether this role is on-call for pipeline failures and what that looks like.]</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call.</li>
+<li><strong>[60 min]</strong> Technical conversation: a pipeline you built, a data quality incident, modelling decisions.</li>
+<li><strong>[90 min]</strong> Practical session: SQL and modelling against a realistic problem, or a paid take-home.</li>
+<li><strong>[45 min]</strong> Meet the analysts and engineers who&#39;d depend on you.</li>
+</ol>
+<h3>Benefits and how to apply</h3>
+<p>[Benefits.] [Application link.] We reply to everyone.</p>
+<p>[Company] is an equal opportunity employer.</p>
+<h2>Hiring data engineers: what&#39;s different</h2>
+<h3>Say which of the four jobs it is</h3>
+<p>This is the single highest-value line in the post. Candidates who want to build streaming infrastructure and candidates who want to model a warehouse for analysts are different people with different skills, and both call themselves data engineers.</p>
+<p>Name the primary focus, name what&#39;s adjacent, and name what&#39;s explicitly someone else&#39;s job. A pipeline specialist who discovers the role is 70% writing dashboard queries will leave, and reasonably so.</p>
+<h3>Give real volume numbers</h3>
+<p>&quot;Big data&quot; is meaningless. Rows per day, total storage, number of source systems, and query concurrency are all meaningful. Be honest in both directions — a candidate who joins expecting petabyte-scale streaming and finds a nightly batch job over a few million rows will be disappointed, and one who expects a modest warehouse and inherits a real-time system will struggle.</p>
+<p>Note that modest volume is not a weak pitch. Plenty of excellent data engineers would rather solve gnarly modelling and quality problems than operate large clusters.</p>
+<h3>Describe who consumes the data</h3>
+<p>Data engineering is a service role, and the consumers define the job. Building for analysts running exploratory SQL, for a product feature with latency requirements, or for a model retraining nightly are three different sets of constraints. Say who you&#39;re serving and what they need.</p>
+<h3>Screen for data quality instincts above tooling</h3>
+<p>Tools change every couple of years; the underlying judgment doesn&#39;t. The questions that separate candidates:</p>
+<ul>
+<li><strong>&quot;Tell me about a time bad data reached a dashboard or a customer. How did you find out?&quot;</strong> You want to hear monitoring and validation, not &quot;someone complained.&quot;</li>
+<li><strong>&quot;How do you handle a schema change in an upstream source you don&#39;t control?&quot;</strong> The everyday reality of the job.</li>
+<li><strong>&quot;How would you model [a real entity from your business] for analysts?&quot;</strong> Uses your actual domain and reveals modelling judgment fast.</li>
+<li><strong>&quot;When would you use streaming rather than batch?&quot;</strong> Tests whether they reach for complexity by default. &quot;Most things should be batch&quot; is often the senior answer.</li>
+<li><strong>&quot;How do you backfill without disrupting downstream consumers?&quot;</strong> Practical, and everyone experienced has done it.</li>
+<li><strong>&quot;What does a pipeline failing at 3am look like for you?&quot;</strong> Surfaces their operational expectations and yours.</li>
+</ul>
+<h3>Test SQL properly</h3>
+<p>SQL is the core skill and the one most under-tested. A realistic exercise — a messy schema, a genuine business question, and a follow-up asking them to make it faster — is worth more than any number of tool-familiarity questions.</p>
+<h2>What to delete</h2>
+<ul>
+<li><strong>A stack list of fifteen tools.</strong> Data tooling turns over fast; hire for fundamentals.</li>
+<li><strong>&quot;Data engineer&quot;</strong> for a job that&#39;s really analytics or business intelligence. Title it accurately.</li>
+<li><strong>&quot;Data-driven company&quot;</strong> with no detail. Everyone says it.</li>
+<li><strong>Requiring ML experience</strong> for a role that never touches models.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Data engineering hiring fails on ambiguity more than on standards. Say which of the four jobs you&#39;re hiring for, publish real volumes, describe who consumes the data, and admit which parts of the pipeline are messy. Then interview for SQL depth, modelling judgment, and data-quality instincts — the skills that transfer no matter which tools you&#39;re running next year.</p>
+<p><em>Hiring data engineers? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach engineers directly.</em></p>
+5:["slug","data-engineer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","data-engineer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"data-engineer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","data-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Data Engineer Job Description Template (With Screening Tips)\",\"description\":\"A copy-paste data engineer job description template — plus how to separate pipeline work from analytics and ML so you attract the right specialist.\",\"datePublished\":\"2026-06-22T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"Data Engineer Job Description Template (With Screening Tips)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-06-22T00:00:00.000Z","children":"June 22, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Data Engineer Job Description Template (With Screening Tips) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A copy-paste data engineer job description template — plus how to separate pipeline work from analytics and ML so you attract the right specialist."}],["$","meta","4",{"property":"og:title","content":"Data Engineer Job Description Template (With Screening Tips)"}],["$","meta","5",{"property":"og:description","content":"A copy-paste data engineer job description template — plus how to separate pipeline work from analytics and ML so you attract the right specialist."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-06-22T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Data Engineer Job Description Template (With Screening Tips)"}],["$","meta","11",{"name":"twitter:description","content":"A copy-paste data engineer job description template — plus how to separate pipeline work from analytics and ML so you attract the right specialist."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

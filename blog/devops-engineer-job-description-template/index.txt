@@ -1,0 +1,89 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T1e81,<p>DevOps is the job title most likely to mean something different at every company. To one team it&#39;s a platform engineer building self-service tooling. To another it&#39;s the person who owns Kubernetes. To a third, it&#39;s whoever gets paged at 3am for everything nobody else wants to own. Experienced infrastructure engineers have learned to assume the third one unless a job post proves otherwise.</p>
+<p>Your post&#39;s main task, then, is proving otherwise.</p>
+<h2>The template</h2>
+<h3>DevOps Engineer at [Company]</h3>
+<p><strong>Location:</strong> [City / Remote — [region] / Hybrid]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus / on-call compensation]
+<strong>Level:</strong> [Mid-level / Senior / Staff]</p>
+<h3>About the role</h3>
+<p>[Company] runs [what the platform does] on [cloud provider]. Today that&#39;s [n] services, [n] engineers deploying [n] times a week, with [an honest description of the current state — &quot;a mature platform,&quot; &quot;a working setup with real gaps,&quot; &quot;a lot of manual steps we need to automate&quot;].</p>
+<p>We&#39;re hiring a DevOps engineer to own [the specific mandate — build our deployment platform, cut deploy times, get us to reliable multi-region, replace the manual release process].</p>
+<p><strong>This is a platform role, not a helpdesk role.</strong> [Say which it truly is. If the job includes internal support, say what share.]</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Own and evolve our [CI/CD] pipeline so engineers can ship safely without you in the loop.</li>
+<li>Manage infrastructure as code with [Terraform / Pulumi / CloudFormation].</li>
+<li>Build observability — metrics, logs, tracing, and alerts people actually trust.</li>
+<li>Improve reliability: capacity, failure modes, incident response, and the follow-up that stops repeats.</li>
+<li>Reduce toil. Anything done manually twice is a candidate for automation.</li>
+<li>Partner with product engineers on deployment, scaling, and cost.</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years in DevOps, SRE, platform, or infrastructure engineering.</li>
+<li>Strong [AWS / GCP / Azure] experience.</li>
+<li>Infrastructure as code in practice, not just in principle.</li>
+<li>Container orchestration with [Kubernetes / ECS / Nomad] — including what goes wrong with it.</li>
+<li>Comfortable writing real code in [Python / Go / Bash], not only configuration.</li>
+<li>Incident experience: you&#39;ve debugged production under pressure and improved things afterward.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>[Service mesh / secrets management / policy as code].</li>
+<li>Cost optimization at meaningful scale.</li>
+<li>Security and compliance work — [SOC 2, HIPAA, PCI] if relevant.</li>
+<li>Database operations: backups, replication, and restores you&#39;ve actually tested.</li>
+</ul>
+<h3>On-call</h3>
+<p>We run a [n]-person rotation, [n] week[s] at a time. It currently pages roughly [n] times per month outside working hours. [State compensation or time off in lieu.] Every page gets reviewed, and reducing them is explicitly part of this job.</p>
+<h3>Our current setup</h3>
+<p>[Cloud, orchestration, IaC tool, CI system, monitoring stack, deployment model.] [One honest line about the worst part — &quot;our staging environment is unreliable and fixing it is your first project.&quot;]</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call.</li>
+<li><strong>[60 min]</strong> Systems and infrastructure conversation, including an incident you&#39;ve handled.</li>
+<li><strong>[90 min]</strong> Practical session: debug a realistic failure with us, or design a deployment pipeline together. No trivia quizzes.</li>
+<li><strong>[45 min]</strong> Meet the engineers you&#39;d support.</li>
+</ol>
+<h3>Benefits and how to apply</h3>
+<p>[Benefits.] [Application link.] We reply to everyone.</p>
+<p>[Company] is an equal opportunity employer.</p>
+<h2>Hiring infrastructure engineers: what&#39;s different</h2>
+<h3>Name the mandate, or you&#39;ll get nobody good</h3>
+<p>&quot;Maintain our infrastructure&quot; attracts nobody. &quot;Cut our deploy time from forty minutes to five&quot; attracts exactly the person who finds that satisfying. Infrastructure engineers are unusually motivated by a concrete mess to fix — give them one to picture.</p>
+<h3>On-call terms belong in the post, not the offer call</h3>
+<p>For this role in particular, on-call is not a footnote; it&#39;s a core term of employment. Candidates who&#39;ve been burned will assume the worst, and the only way to beat that assumption is specifics: rotation size, frequency, real page volume, and compensation. Publishing honest numbers — even unflattering ones — will win you more candidates than omitting them, because it signals you&#39;re measuring at all.</p>
+<h3>Be clear about the support boundary</h3>
+<p>The fastest way to lose a platform hire in year one is to hire them for automation and hand them a ticket queue. If part of the role is internal support, say what proportion. Some strong candidates are happy with it; all of them resent discovering it later.</p>
+<h3>Screen for judgment over tool inventory</h3>
+<p>Tool lists age badly and transfer easily. What distinguishes strong infrastructure candidates is judgment:</p>
+<ul>
+<li><strong>&quot;Tell me about your worst outage.&quot;</strong> You&#39;re listening for honest ownership, a real diagnostic path, and a systemic fix rather than a heroic story.</li>
+<li><strong>&quot;What have you deliberately chosen not to automate?&quot;</strong> Great candidates have a considered answer; weaker ones automate reflexively.</li>
+<li><strong>&quot;When would you not use Kubernetes?&quot;</strong> Tests whether they reach for complexity by default.</li>
+<li><strong>&quot;How do you decide what deserves an alert?&quot;</strong> Alert design reveals how someone thinks about signal, noise, and the humans carrying the pager.</li>
+<li><strong>&quot;Walk me through a migration you did with no downtime.&quot;</strong> Planning, sequencing, and rollback thinking all surface at once.</li>
+</ul>
+<h3>Expect to compete on quality of life</h3>
+<p>Infrastructure engineers are scarce and are frequently recruited away from teams that page them constantly. The strongest recruiting pitch in this specialty isn&#39;t compensation — it&#39;s a credible claim that the environment is calm, improving, and that reliability work is genuinely resourced. If that&#39;s true where you are, say so with evidence. If it isn&#39;t, the honest version (&quot;it&#39;s noisy right now; fixing it is the job, and here&#39;s the budget&quot;) still recruits well.</p>
+<h2>What to delete</h2>
+<ul>
+<li><strong>&quot;DevOps engineer&quot;</strong> for a job that&#39;s really internal IT support — mislabeling wastes everyone&#39;s time.</li>
+<li><strong>A twenty-item tool list.</strong> It reads as a wish list assembled from other job posts.</li>
+<li><strong>&quot;Fast-paced, high-pressure environment&quot;</strong> in a role that&#39;s already about carrying a pager.</li>
+<li><strong>No mention of on-call at all.</strong> Silence is the loudest thing in an infrastructure job post.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Infrastructure candidates are screening you harder than you&#39;re screening them, and they&#39;re screening on one axis above all: will this job wreck my sleep? Name a concrete mandate, publish real on-call numbers, draw the support boundary clearly, admit what&#39;s broken, and interview for judgment rather than tool trivia. Honesty here is not a risk — it&#39;s the differentiator.</p>
+<p><em>Hiring for DevOps or SRE? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach infrastructure engineers directly.</em></p>
+5:["slug","devops-engineer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"devops-engineer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"DevOps Engineer Job Description Template (With Screening Tips)\",\"description\":\"A copy-paste DevOps and SRE job description template — plus how to describe on-call, toil, and platform ownership so experienced infrastructure engineers apply.\",\"datePublished\":\"2026-07-10T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"DevOps Engineer Job Description Template (With Screening Tips)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-10T00:00:00.000Z","children":"July 10, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"DevOps Engineer Job Description Template (With Screening Tips) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A copy-paste DevOps and SRE job description template — plus how to describe on-call, toil, and platform ownership so experienced infrastructure engineers apply."}],["$","meta","4",{"property":"og:title","content":"DevOps Engineer Job Description Template (With Screening Tips)"}],["$","meta","5",{"property":"og:description","content":"A copy-paste DevOps and SRE job description template — plus how to describe on-call, toil, and platform ownership so experienced infrastructure engineers apply."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-07-10T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"DevOps Engineer Job Description Template (With Screening Tips)"}],["$","meta","11",{"name":"twitter:description","content":"A copy-paste DevOps and SRE job description template — plus how to describe on-call, toil, and platform ownership so experienced infrastructure engineers apply."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

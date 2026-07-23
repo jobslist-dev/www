@@ -1,0 +1,82 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T19e6,<p>Frontend roles are the easiest to describe badly. Post a list of framework names and you&#39;ll get a pile of applications from people who have used those frameworks and can&#39;t build an interface anyone wants to use. The candidates worth hiring are filtering for something else: who owns design decisions, how much say they&#39;ll have, and whether the codebase is a pleasure or a punishment.</p>
+<p>Here&#39;s a template that answers those questions, followed by the parts specific to hiring frontend engineers.</p>
+<h2>The template</h2>
+<h3>Frontend Developer at [Company]</h3>
+<p><strong>Location:</strong> [City / Remote — [region] / Hybrid]
+<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus]
+<strong>Level:</strong> [Mid-level / Senior]</p>
+<h3>About the role</h3>
+<p>[Company] builds [product] for [users]. Our interface is [the primary surface customers use / the thing customers judge us on], and we&#39;re hiring a frontend developer to own [the specific area — the new dashboard, the design system, the customer-facing app].</p>
+<p>You&#39;ll work closely with [n] designers and [n] backend engineers. [State plainly whether frontend here means product engineering, design-system work, or both.]</p>
+<h3>What you&#39;ll do</h3>
+<ul>
+<li>Build user-facing features in [framework], from design handoff through production.</li>
+<li>Turn design files into interfaces that match the intent — and push back when something won&#39;t work in a real browser.</li>
+<li>Own [the design system / component library], keeping it consistent and documented.</li>
+<li>Improve performance and accessibility across [the app] — we care about both and measure them.</li>
+<li>Work with backend engineers on API shape rather than accepting whatever gets returned.</li>
+</ul>
+<h3>What we&#39;re looking for</h3>
+<ul>
+<li>[n]+ years building production frontends.</li>
+<li>Deep [JavaScript / TypeScript] fundamentals — not just framework familiarity.</li>
+<li>Solid [React / Vue / Svelte] experience, or the ability to demonstrate equivalent depth elsewhere.</li>
+<li>Real CSS ability: layout, responsive design, and comfort debugging cross-browser issues.</li>
+<li>Working knowledge of accessibility — semantic HTML, keyboard navigation, ARIA where appropriate.</li>
+<li>An eye for detail. You notice when spacing is off by four pixels and you care.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with [your build tooling / SSR framework / testing library].</li>
+<li>Performance work: bundle size, Core Web Vitals, rendering.</li>
+<li>Design ability, or a track record of working closely with designers.</li>
+</ul>
+<h3>Our stack</h3>
+<p>[Framework, language, styling approach, build tool, testing setup, hosting.] Be specific about styling — &quot;we use Tailwind&quot; and &quot;we use CSS-in-JS&quot; attract different people.</p>
+<h3>Interview process</h3>
+<ol>
+<li><strong>[30 min]</strong> Intro call.</li>
+<li><strong>[60 min]</strong> Walk us through frontend work you&#39;ve built — decisions, trade-offs, what you&#39;d change.</li>
+<li><strong>[90 min]</strong> Practical session: build or extend a small interface, either paired with us or as a paid exercise.</li>
+<li><strong>[45 min]</strong> Meet the design and engineering team.</li>
+</ol>
+<h3>Benefits and how to apply</h3>
+<p>[Benefits.] [Application link.] Send anything you&#39;ve built that we can look at — a live site, a component library, a side project. We read every application.</p>
+<p>[Company] is an equal opportunity employer.</p>
+<h2>Hiring frontend engineers: what&#39;s different</h2>
+<h3>Ask for things you can look at</h3>
+<p>Frontend is the one specialty where the work is publicly inspectable. A live URL tells you more in two minutes than an hour of questions: does it work on a phone, does it survive keyboard navigation, does it load quickly, does it fall apart at 320 pixels wide? Always invite links, and always open them.</p>
+<h3>Screen for fundamentals, not framework trivia</h3>
+<p>Framework knowledge is learnable in weeks; the underlying skills take years. Weight your evaluation toward the things that transfer:</p>
+<ul>
+<li><strong>CSS and layout ability</strong> — still the most consistently underrated frontend skill, and the most common real-world gap.</li>
+<li><strong>Browser fundamentals</strong> — the event loop, rendering, network waterfalls, why something is slow.</li>
+<li><strong>Accessibility instincts</strong> — whether they reach for a semantic element before a <code>div</code> with a click handler.</li>
+<li><strong>Judgment about state</strong> — knowing when something needs a global store and when it obviously doesn&#39;t.</li>
+</ul>
+<p>An engineer strong in all four will be productive in your framework within a month. The reverse is not true.</p>
+<h3>Describe the design relationship honestly</h3>
+<p>This is the detail experienced frontend candidates care most about and the one job posts almost always omit. There&#39;s a wide gap between &quot;designers hand over finished files and you implement them,&quot; &quot;you and a designer figure it out together,&quot; and &quot;there&#39;s no designer and you&#39;ll be making these calls.&quot; All three are legitimate roles. Only one of them matches any given candidate. Say which it is.</p>
+<h3>Don&#39;t disguise a full-stack role</h3>
+<p>If the job is sixty percent backend, saying so costs you a few applications and saves you a resignation at month five. Candidates who applied to build interfaces and ended up writing services do not stay.</p>
+<h2>What to delete</h2>
+<ul>
+<li><strong>A list of ten frameworks.</strong> Nobody is expert in all of them, and asking signals you don&#39;t know what you need.</li>
+<li><strong>&quot;Pixel-perfect&quot;</strong> paired with an impossible deadline — candidates recognize the contradiction.</li>
+<li><strong>&quot;Must have an eye for design&quot;</strong> with no designer on staff and no design budget.</li>
+<li><strong>jQuery in the requirements</strong> unless you genuinely mean it, in which case say why.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Great frontend hires are evaluated on fundamentals — CSS, browser behavior, accessibility, and taste — not framework checklists. Write the post to reflect that: name the specific surface they&#39;ll own, be honest about the design relationship and the backend split, publish the range, and invite links to real work. Then actually go and look at what they send.</p>
+<p><em>Hiring for frontend? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers directly.</em></p>
+5:["slug","frontend-developer-job-description-template","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","frontend-developer-job-description-template","d"],{"children":["__PAGE__?{\"slug\":\"frontend-developer-job-description-template\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","frontend-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Frontend Developer Job Description Template (With Screening Tips)\",\"description\":\"A copy-paste frontend developer job description template — plus how to describe the design relationship and screen for fundamentals, not framework lists.\",\"datePublished\":\"2026-07-06T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"Frontend Developer Job Description Template (With Screening Tips)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-06T00:00:00.000Z","children":"July 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Frontend Developer Job Description Template (With Screening Tips) | JobsList.dev"}],["$","meta","3",{"name":"description","content":"A copy-paste frontend developer job description template — plus how to describe the design relationship and screen for fundamentals, not framework lists."}],["$","meta","4",{"property":"og:title","content":"Frontend Developer Job Description Template (With Screening Tips)"}],["$","meta","5",{"property":"og:description","content":"A copy-paste frontend developer job description template — plus how to describe the design relationship and screen for fundamentals, not framework lists."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-07-06T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Frontend Developer Job Description Template (With Screening Tips)"}],["$","meta","11",{"name":"twitter:description","content":"A copy-paste frontend developer job description template — plus how to describe the design relationship and screen for fundamentals, not framework lists."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null

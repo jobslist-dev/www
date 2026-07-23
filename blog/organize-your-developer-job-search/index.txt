@@ -1,0 +1,87 @@
+2:I[25250,["5250","static/chunks/5250-35a8480211578ee9.js","308","static/chunks/app/blog/%5Bslug%5D/page-b3abbe793b37fded.js"],""]
+4:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Analytics"]
+8:I[71625,["5250","static/chunks/5250-35a8480211578ee9.js","963","static/chunks/963-adc137b201f79a80.js","1749","static/chunks/1749-85f6713de3886cd6.js","3490","static/chunks/3490-c0c448054bf056b1.js","3185","static/chunks/app/layout-33edf62d0464ae7d.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","7601","static/chunks/app/error-0881edf4ab70eda6.js"],""]
+a:I[81749,["5250","static/chunks/5250-35a8480211578ee9.js","1749","static/chunks/1749-85f6713de3886cd6.js","9160","static/chunks/app/not-found-725e159b74271550.js"],"Image"]
+3:T1ec1,<p>Most advice about job searching covers the artefacts — the CV, the portfolio, the interview answers. Very little covers the thing that actually determines the outcome: how you run the search itself over the weeks or months it takes.</p>
+<p>That&#39;s where searches fail. People start with a burst of two hundred applications, hear almost nothing, lose confidence, and slow to a stop right when a steadier approach would have started producing interviews.</p>
+<h2>Decide what you&#39;re looking for first</h2>
+<p>An hour spent here saves weeks later. Write down:</p>
+<ul>
+<li><strong>Two or three role types</strong> you&#39;re genuinely targeting. &quot;Any developer job&quot; produces generic applications that convert badly.</li>
+<li><strong>Your constraints</strong>: location or remote, salary floor, company size, domains you&#39;d rather avoid.</li>
+<li><strong>Your non-negotiables</strong> versus your preferences. Knowing the difference stops you agonising later over an offer that was always going to be wrong.</li>
+</ul>
+<p>The point isn&#39;t to be picky. It&#39;s that a defined target lets you write specific applications, which is the entire difference in response rate.</p>
+<h2>Quality over volume, with numbers</h2>
+<p>The single most common mistake is mass-applying. It feels productive, it&#39;s emotionally easier than tailoring, and it converts terribly.</p>
+<p>A more effective shape:</p>
+<ul>
+<li><strong>Five to ten well-targeted applications a week</strong>, each with a CV adjusted to the posting and a short specific note.</li>
+<li><strong>Prioritise roles posted in the last few days.</strong> Applying early measurably improves your odds; positions posted a month ago are often already at final stages.</li>
+<li><strong>Spend your effort on the top of the list.</strong> For a role you&#39;d genuinely love, spend an hour. For a maybe, spend fifteen minutes. For a no, don&#39;t apply.</li>
+</ul>
+<p>Twenty tailored applications will nearly always beat two hundred generic ones, and take less total time.</p>
+<h2>Use more than one channel</h2>
+<p>Job boards are the obvious channel and shouldn&#39;t be the only one:</p>
+<ul>
+<li><strong>Developer-focused boards</strong>, where listings are fewer and the audience is technical.</li>
+<li><strong>Set alerts rather than browsing.</strong> Speed matters, and browsing consumes hours without producing applications.</li>
+<li><strong>Company career pages</strong> for teams you specifically want.</li>
+<li><strong>Your network</strong> — former colleagues, people you&#39;ve worked with, communities around your stack. Referred applications convert at a far higher rate than cold ones.</li>
+<li><strong>Inbound.</strong> A profile that surfaces in recruiter searches works while you sleep, which is worth an hour of setup.</li>
+</ul>
+<p>Roughly: a majority of your effort on applications, a meaningful minority on network and inbound. The second part feels less productive and often produces the offer.</p>
+<h2>Track everything, simply</h2>
+<p>A spreadsheet is enough. One row per application:</p>
+<ul>
+<li>Company, role, date applied, channel or referral.</li>
+<li>Current stage, and the date of the last contact.</li>
+<li>Whose name you have, and what they told you about timing.</li>
+<li>Your notes after each conversation — what they asked, what you&#39;d answer better.</li>
+</ul>
+<p>Two reasons this matters. Practically, you will otherwise lose track, miss follow-ups, and walk into a second interview having forgotten what the first one covered. Psychologically, it converts a vague sense of failure into visible data — and after four weeks you can see where you&#39;re actually losing people, which tells you what to fix.</p>
+<h2>Read your funnel</h2>
+<p>Your tracker turns a stalled search into a diagnosable problem:</p>
+<ul>
+<li><strong>Applying a lot, no first-round calls?</strong> The problem is the CV, the targeting, or the channel. Not your ability.</li>
+<li><strong>Getting screens but no technical rounds?</strong> The problem is how you talk about your experience.</li>
+<li><strong>Failing technical rounds?</strong> Specific practice needed — and note which type, since the fix for coding rounds is different from the fix for system design.</li>
+<li><strong>Reaching finals but no offers?</strong> Usually the softer signals: enthusiasm, questions asked, fit. Ask for feedback, and take it seriously.</li>
+</ul>
+<p>Fix one stage at a time. Changing everything at once tells you nothing about what worked.</p>
+<h2>Structure the weeks</h2>
+<p>An unstructured search expands to fill every waking hour and produces guilt rather than applications.</p>
+<ul>
+<li><strong>Set fixed hours</strong>, especially if you&#39;re not currently working. Three or four focused hours a day is plenty; eight is neither possible nor useful.</li>
+<li><strong>Batch similar work.</strong> One session for finding roles, one for applications, one for interview prep. Context switching is expensive.</li>
+<li><strong>Keep building.</strong> Two hours a week on a project preserves your skills, gives you something new to talk about, and — importantly — means you&#39;re doing something other than being evaluated.</li>
+<li><strong>Take actual days off.</strong> Weekends without applications. The search is a marathon and nobody is hiring at 11pm on a Sunday.</li>
+</ul>
+<h2>Handle the rejection without absorbing it</h2>
+<p>You will be rejected far more often than accepted, including by companies you were well suited to. This is structural, not personal: roles get filled internally, budgets vanish, someone had a referral.</p>
+<ul>
+<li><strong>Expect silence.</strong> Most applications get no response at all. It&#39;s a comment on hiring processes, not on you.</li>
+<li><strong>Don&#39;t wait on any single outcome.</strong> Keep applying while you&#39;re in a final round. The one you&#39;re sure about will sometimes evaporate.</li>
+<li><strong>Ask for feedback</strong>, briefly and gracefully. Some give it, and it&#39;s the most valuable information available.</li>
+<li><strong>Separate the search from your self-assessment.</strong> Your worth as an engineer is not being measured here; your fit for specific roles at a specific moment is.</li>
+<li><strong>Tell someone how it&#39;s going.</strong> Searching alone is much harder than searching with a friend who checks in.</li>
+</ul>
+<h2>When it&#39;s dragging on</h2>
+<p>Long searches happen, particularly in slow markets. If you&#39;re a couple of months in with little movement:</p>
+<ul>
+<li><strong>Change one variable</strong> — the CV, the roles you target, the channel — and give it two weeks before judging.</li>
+<li><strong>Widen the target</strong>, deliberately rather than desperately. Adjacent roles, adjacent industries, contract work.</li>
+<li><strong>Consider contract or short-term work.</strong> It pays, it adds recent experience, and it frequently converts to permanent.</li>
+<li><strong>Get a second opinion</strong> on your CV and how you talk about your work from someone who hires.</li>
+<li><strong>Rule out the boring explanations</strong> first: an application that never sends, a filtered email folder, a phone number with a typo. These are more common than people expect.</li>
+</ul>
+<h2>The takeaway</h2>
+<p>Treat the search as a process you run, not a series of hopeful lunges. Define what you want, apply to fewer roles with more care, work several channels, and track every application so you can see which stage is actually failing. Then keep sane hours, keep building something, and take the rejections as data rather than verdicts. Searches that succeed are usually the ones that were still going steadily in month three.</p>
+<p><em>Ready to start? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a> and set alerts so new roles come to you.</em></p>
+5:["slug","organize-your-developer-job-search","d"]
+0:["zRX6HWcoAueBDnjq_oXDS",[[["",{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__?{\"slug\":\"organize-your-developer-job-search\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Run a Developer Job Search Without Burning Out\",\"description\":\"For job seekers: how to structure a job search, track applications, avoid the volume trap, and stay steady when the process takes months.\",\"datePublished\":\"2026-07-19T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"How to Run a Developer Job Search Without Burning Out"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-19T00:00:00.000Z","children":"July 19, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[6," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"object-src 'none'; base-uri 'self'; frame-ancestors 'self'"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/logo.svg","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"dark:invert "}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f58b832c2fd55402.css","precedence":"next","crossOrigin":""}]],"$Lb"]]]]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"How to Run a Developer Job Search Without Burning Out | JobsList.dev"}],["$","meta","3",{"name":"description","content":"For job seekers: how to structure a job search, track applications, avoid the volume trap, and stay steady when the process takes months."}],["$","meta","4",{"property":"og:title","content":"How to Run a Developer Job Search Without Burning Out"}],["$","meta","5",{"property":"og:description","content":"For job seekers: how to structure a job search, track applications, avoid the volume trap, and stay steady when the process takes months."}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2026-07-19T00:00:00.000Z"}],["$","meta","8",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"How to Run a Developer Job Search Without Burning Out"}],["$","meta","11",{"name":"twitter:description","content":"For job seekers: how to structure a job search, track applications, avoid the volume trap, and stay steady when the process takes months."}],["$","link","12",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/icon.svg?12a726c3c73c1974","type":"image/svg+xml","sizes":"any"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?0f8fc656ddacbcc8","type":"image/png","sizes":"180x180"}],["$","meta","15",{"name":"next-size-adjust"}]]
+1:null
