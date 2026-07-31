@@ -1,6 +1,14 @@
 User-Agent: *
 Allow: /
+Disallow: /account/
 Disallow: /admin/
+Disallow: /assessment/
+Disallow: /auth/
+Disallow: /company/
+Disallow: /embed/
+Disallow: /employee/
+Disallow: /notifications/
+Disallow: /sample-runner.html
 Disallow: /support/
 
 Sitemap: https://jobslist.dev/sitemap.xml

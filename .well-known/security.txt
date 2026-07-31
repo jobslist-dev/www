@@ -1,0 +1,7 @@
+# JobsList.dev security contact (RFC 9116). Reports are routed through the public contact form;
+# please add "SECURITY" to your message so it reaches the right people.
+Contact: https://jobslist.dev/contact/
+Policy: https://jobslist.dev/security/
+Preferred-Languages: en
+Canonical: https://jobslist.dev/.well-known/security.txt
+Expires: 2027-07-30T00:00:00.000Z

@@ -1,0 +1,27 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' blob:; worker-src blob:; connect-src 'none'; frame-ancestors 'self'; base-uri 'none'; form-action 'none'">
+<title>JobsList sample runner</title></head>
+<body>
+<script>
+(function(){
+  function reply(m){ parent.postMessage(m, '*'); }
+  window.addEventListener('message', function(ev){
+    var m = ev.data;
+    if(!m || m.__ns !== 'jl-sample' || m.type !== 'run') return;
+    var worker = null, url = null, done = false;
+    function cleanup(){ try{ if(worker) worker.terminate(); }catch(_){} try{ if(url) URL.revokeObjectURL(url); }catch(_){} }
+    try {
+      url = URL.createObjectURL(new Blob([m.workerSource], {type:'text/javascript'}));
+      worker = new Worker(url);
+    } catch(bootErr){ reply({__ns:'jl-sample', type:'result', id:m.id, errored:true, stderr:'WORKER_BOOT'}); return; }
+    var timer = setTimeout(function(){ if(done) return; done = true; cleanup(); reply({__ns:'jl-sample', type:'result', id:m.id, timedOut:true}); }, m.timeoutMs);
+    worker.onmessage = function(we){ if(done) return; done = true; clearTimeout(timer); cleanup(); var r = we.data || {}; reply({__ns:'jl-sample', type:'result', id:m.id, stdout:r.stdout, stderr:r.stderr, errored:!!r.errored, durationMs:r.durationMs}); };
+    worker.onerror = function(oe){ if(done) return; done = true; clearTimeout(timer); cleanup(); reply({__ns:'jl-sample', type:'result', id:m.id, errored:true, stderr:(oe && oe.message) || 'worker error'}); };
+    worker.postMessage({ id:m.id, source:m.source, stdin:m.stdin, args:m.args });
+  });
+  reply({__ns:'jl-sample', type:'ready'});
+})();
+</script>
+</body></html>
