@@ -1,46 +1,324 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T11f1,<p>A skills assessment is only worth using if it improves your hiring <em>and</em> your candidates still want the job afterward. Both are achievable — but the difference between an assessment that strengthens your funnel and one that drains it comes down to how you place, size, and frame it. Here&#39;s how to use assessments so they earn their keep without costing you the people you&#39;re trying to hire.</p>
-<h2>Send it at the right moment</h2>
-<p>Timing shapes how an assessment lands:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T347b,<h1>Using Assessments Without Losing Candidates</h1>
+<p>A well-designed skills assessment can dramatically improve hiring decisions. A poorly designed one can quietly drive away the exact developers you were hoping to hire.</p>
+<p>Candidates today have more choices than ever. Experienced engineers are often interviewing with multiple companies simultaneously, and junior developers already spend dozens of hours every week tailoring applications, completing coding challenges, and preparing for interviews. Every additional request you make competes for their limited time and energy.</p>
+<p>The goal of an assessment should never be to make candidates &quot;prove themselves.&quot;</p>
+<p>The goal is to replace résumé guessing with demonstrated ability while respecting the candidate&#39;s time.</p>
+<p>When assessments are relevant, concise, transparent, and thoughtfully placed within the hiring process, candidates generally appreciate them because they create a more objective path into the interview process.</p>
+<p>Here&#39;s how to build an assessment process that strengthens your hiring pipeline instead of shrinking it.</p>
+<hr>
+<h1>Why Companies Lose Great Candidates</h1>
+<p>Very few candidates withdraw because they&#39;re afraid of being evaluated.</p>
+<p>Most leave because the process feels unreasonable.</p>
+<p>Common reasons include:</p>
 <ul>
-<li><strong>Auto-send on apply</strong> works well when the assessment is short and clearly relevant. It gives every applicant a fair shot to prove ability regardless of résumé, and it produces a ranked shortlist without manual triage. On JobsList.dev you can configure a job to send the assessment automatically the moment someone applies.</li>
-<li><strong>Manual send after a first review</strong> works well for senior or specialized roles, where you want a human to look first and only invest the candidate&#39;s time when there&#39;s genuine mutual interest. Here you review the application, then press <em>Send assessment</em> when it&#39;s warranted.</li>
+<li>Four-hour take-home projects.</li>
+<li>Assessments before candidates even know what the job involves.</li>
+<li>No estimate of how long the assessment will take.</li>
+<li>Generic tests unrelated to the actual role.</li>
+<li>Multiple rounds of nearly identical assessments.</li>
+<li>Long periods of silence afterward.</li>
+<li>Never hearing the outcome.</li>
 </ul>
-<p>Neither is universally right. Pick per role, and lean toward manual for the most senior candidates, who have the most options and the least patience for hoops.</p>
-<h2>Keep it short</h2>
-<p>The fastest way to lose strong candidates is to ask for too much of their time. A focused assessment that respects an hour of someone&#39;s evening earns goodwill; a sprawling one that eats a weekend screens <em>out</em> exactly the people with other offers. Test the core judgment the role needs and stop. If you find yourself adding questions &quot;just to be thorough,&quot; you&#39;re trading candidates for marginal signal — a bad trade.</p>
-<h2>Frame it as an opportunity, not a hurdle</h2>
-<p>How you introduce the assessment matters as much as the assessment itself. Tell candidates:</p>
+<p>Candidates are constantly asking themselves one question:</p>
+<blockquote>
+<p>&quot;Does this company respect my time?&quot;</p>
+</blockquote>
+<p>Everything about your assessment should answer &quot;yes.&quot;</p>
+<hr>
+<h1>Remember What an Assessment Is For</h1>
+<p>A good assessment exists to answer one question:</p>
+<p><strong>Can this person demonstrate the skills this role actually requires?</strong></p>
+<p>It should not exist to:</p>
 <ul>
-<li><strong>Why</strong> you use it — that it gives everyone a fair, skills-based shot, not just the best résumé writers.</li>
-<li><strong>What</strong> it covers and roughly how long it takes.</li>
-<li><strong>That it&#39;s respectful</strong> — no webcam, no surveillance, no gotchas; they can move backward, revise answers, and it autosaves.</li>
-<li><strong>What happens next</strong> with their result.</li>
+<li>catch people out</li>
+<li>create unnecessary pressure</li>
+<li>eliminate candidates through exhaustion</li>
+<li>reward memorization</li>
+<li>reward test-taking tricks</li>
 </ul>
-<p>A candidate who understands the assessment is there to give them a fair hearing approaches it very differently from one who feels they&#39;re being hazed.</p>
-<h2>Make the experience calm</h2>
-<p>The assessment is a preview of your company. A hostile, stressful test says &quot;this is what working here feels like.&quot; A calm, well-built one says the opposite. The runner your candidates use is deliberately unhurried — one question per screen, an always-visible but never-dramatized timer, free navigation backward and forward, autosave on every change, and resume-exactly-where-you-were if their laptop dies mid-question. You don&#39;t have to build any of that; you just benefit from candidates finishing in a good mood.</p>
-<h2>Read the results like a hiring aid, not an oracle</h2>
-<p>An assessment sharpens your shortlist; it doesn&#39;t make the decision for you.</p>
+<p>Instead, it should help answer questions like:</p>
 <ul>
-<li><strong>Lead with section scores</strong>, not a single overall number — they tell you <em>where</em> someone is strong.</li>
-<li><strong>Treat integrity metadata as neutral context</strong>, never an automatic disqualification. A tab-switch is not a confession.</li>
-<li><strong>Use it to decide who to interview</strong>, then let interviews do what assessments can&#39;t: judgment, collaboration, and selling the role.</li>
+<li>Can they read existing code?</li>
+<li>Can they debug realistically?</li>
+<li>Can they reason through engineering trade-offs?</li>
+<li>Can they solve problems thoughtfully?</li>
+<li>Can they communicate technical decisions?</li>
 </ul>
-<h2>Close the loop with everyone</h2>
-<p>Every candidate who takes your assessment invested real effort — honor it. Move quickly to a decision, and tell people where they stand either way. A candidate who took your test and then got ghosted is a candidate telling their network to avoid you. A prompt, respectful &quot;yes, let&#39;s talk&quot; or &quot;not this time, thank you&quot; turns the assessment into a positive brand moment even for the people you don&#39;t hire.</p>
-<h2>The short version</h2>
-<p>Place the assessment where it fits the role, keep it short, frame it as a fair shot rather than a hazing, make the experience calm, and use the results to focus your interviews instead of replacing them. Do that, and testing candidates becomes something that makes people <em>more</em> likely to join — which is exactly what a good assessment should do.</p>
+<p>The closer the assessment resembles real work, the more candidates tend to trust it.</p>
+<hr>
+<h1>Choose the Right Time in the Hiring Process</h1>
+<p>There isn&#39;t one correct answer.</p>
+<p>Different hiring situations benefit from different assessment timing.</p>
+<h2>Option 1: Immediately After Applying</h2>
+<p>This works especially well when:</p>
+<ul>
+<li>the assessment takes under an hour</li>
+<li>many candidates apply</li>
+<li>résumé quality varies widely</li>
+<li>you&#39;re hiring junior or mid-level developers</li>
+<li>skills matter more than credentials</li>
+</ul>
+<p>Benefits include:</p>
+<ul>
+<li>everyone receives the same opportunity</li>
+<li>hidden talent becomes visible</li>
+<li>recruiters spend less time screening résumés</li>
+<li>companies can prioritize demonstrated ability</li>
+</ul>
+<p>On JobsList.dev, companies can automatically send assessments the moment someone applies, allowing candidates to immediately showcase their skills instead of waiting days for an initial review.</p>
+<hr>
+<h2>Option 2: After an Initial Human Review</h2>
+<p>For senior positions, architects, managers, and highly specialized roles, reviewing applications first often creates a better experience.</p>
+<p>Candidates appreciate knowing there&#39;s already genuine interest before investing additional time.</p>
+<p>This approach works well when:</p>
+<ul>
+<li>hiring Staff or Principal engineers</li>
+<li>recruiting Engineering Managers</li>
+<li>filling niche technical roles</li>
+<li>conducting executive searches</li>
+<li>assessments require domain-specific expertise</li>
+</ul>
+<p>Human review first.
+Assessment second.</p>
+<hr>
+<h2>Option 3: After the Recruiter Screen</h2>
+<p>Some companies prefer using assessments after an introductory conversation.</p>
+<p>This gives candidates the opportunity to:</p>
+<ul>
+<li>understand the role</li>
+<li>ask questions</li>
+<li>learn about the company</li>
+<li>determine whether they&#39;re interested</li>
+</ul>
+<p>Only then do they decide whether completing an assessment makes sense.</p>
+<p>This often increases completion rates because candidates already feel invested.</p>
+<hr>
+<h1>Keep Assessments Focused</h1>
+<p>More questions rarely produce better hiring decisions.</p>
+<p>They usually produce more candidate drop-off.</p>
+<p>Instead, ask yourself:</p>
+<blockquote>
+<p>&quot;If we could only measure five or six important skills for this role, what would they be?&quot;</p>
+</blockquote>
+<p>Everything else belongs in later interviews.</p>
+<p>For example:</p>
+<p><strong>Backend Developer</strong></p>
+<p>Assess:</p>
+<ul>
+<li>debugging</li>
+<li>API reasoning</li>
+<li>SQL</li>
+<li>architecture basics</li>
+<li>performance</li>
+</ul>
+<p>Don&#39;t assess:</p>
+<ul>
+<li>frontend frameworks</li>
+<li>UI design</li>
+<li>DevOps</li>
+<li>machine learning</li>
+<li>every language under the sun</li>
+</ul>
+<p>Likewise, a frontend engineer shouldn&#39;t spend half an hour answering Linux administration questions.</p>
+<p>Relevant assessments feel fair.</p>
+<p>Generic assessments feel lazy.</p>
+<hr>
+<h1>Respect the Candidate&#39;s Time</h1>
+<p>Every minute you ask a candidate to spend should have a purpose.</p>
+<p>Good practices include:</p>
+<ul>
+<li>Tell candidates how long the assessment takes.</li>
+<li>Design it to fit within that estimate.</li>
+<li>Avoid unnecessary repetition.</li>
+<li>Let candidates complete it on their own schedule.</li>
+<li>Save progress automatically.</li>
+<li>Allow navigation between questions.</li>
+<li>Clearly communicate any deadlines.</li>
+</ul>
+<p>Candidates are much more willing to invest forty-five focused minutes than an unknown amount of time.</p>
+<p>Predictability reduces anxiety.</p>
+<hr>
+<h1>Explain Why You&#39;re Using an Assessment</h1>
+<p>Candidates are far more receptive when they understand your reasoning.</p>
+<p>Tell them:</p>
+<ul>
+<li>why the assessment exists</li>
+<li>what skills it measures</li>
+<li>approximately how long it takes</li>
+<li>how results are used</li>
+<li>when they&#39;ll hear back</li>
+<li>what happens next</li>
+</ul>
+<p>For example:</p>
+<blockquote>
+<p>&quot;We use this assessment because we believe demonstrated skills provide a fairer opportunity than résumé keywords alone. It takes approximately 45 minutes and focuses on real engineering judgment rather than trick questions or algorithm puzzles.&quot;</p>
+</blockquote>
+<p>That single paragraph can significantly improve completion rates because candidates understand the purpose.</p>
+<hr>
+<h1>Make the Assessment Experience Calm</h1>
+<p>The assessment itself is part of your employer brand.</p>
+<p>A rushed, stressful interface sends a message about what working at your company might feel like.</p>
+<p>Instead, create an experience that&#39;s:</p>
+<ul>
+<li>clean</li>
+<li>focused</li>
+<li>distraction-free</li>
+<li>easy to navigate</li>
+<li>forgiving of interruptions</li>
+<li>technically reliable</li>
+</ul>
+<p>Candidates shouldn&#39;t be worrying about:</p>
+<ul>
+<li>browser crashes</li>
+<li>losing answers</li>
+<li>accidentally clicking Next</li>
+<li>confusing navigation</li>
+<li>unclear instructions</li>
+</ul>
+<p>Technology should disappear into the background.</p>
+<hr>
+<h1>Don&#39;t Treat Assessments Like Surveillance</h1>
+<p>Modern candidates increasingly dislike hiring processes built around suspicion.</p>
+<p>Rather than assuming candidates are trying to cheat, design assessments that reward genuine understanding.</p>
+<p>Judgment-based questions naturally resist memorized answers because they require reasoning rather than recall.</p>
+<p>Candidates appreciate processes that focus on:</p>
+<ul>
+<li>demonstrated ability</li>
+<li>engineering judgment</li>
+<li>problem solving</li>
+<li>thoughtful explanations</li>
+</ul>
+<p>instead of:</p>
+<ul>
+<li>webcam monitoring</li>
+<li>invasive browser restrictions</li>
+<li>constant suspicion</li>
+<li>unnecessary stress</li>
+</ul>
+<p>Respect tends to generate better candidate experiences—and better hiring outcomes.</p>
+<hr>
+<h1>Read the Results Properly</h1>
+<p>Assessment scores should guide interviews, not replace them.</p>
+<p>A candidate isn&#39;t just an overall percentage.</p>
+<p>Instead, look for patterns.</p>
+<p>Examples:</p>
+<p>Candidate A</p>
+<ul>
+<li>Excellent debugging</li>
+<li>Strong backend knowledge</li>
+<li>Average database design</li>
+<li>Weaker architecture</li>
+</ul>
+<p>Candidate B</p>
+<ul>
+<li>Outstanding system design</li>
+<li>Strong communication</li>
+<li>Average coding speed</li>
+</ul>
+<p>Those profiles tell you where to focus interview questions.</p>
+<p>Section scores are usually far more valuable than a single combined score.</p>
+<hr>
+<h1>Combine Assessments with Interviews</h1>
+<p>Assessments answer some questions.</p>
+<p>Interviews answer others.</p>
+<p>A balanced hiring process often looks like:</p>
+<ol>
+<li>Application</li>
+<li>Skills assessment</li>
+<li>Recruiter conversation</li>
+<li>Technical interview</li>
+<li>Team interview</li>
+<li>Final discussion</li>
+<li>Offer</li>
+</ol>
+<p>Each stage should answer different questions rather than repeating previous ones.</p>
+<p>Avoid making candidates solve the same problems multiple times.</p>
+<hr>
+<h1>Move Quickly After the Assessment</h1>
+<p>Nothing damages candidate experience more than silence.</p>
+<p>Once someone has invested their time:</p>
+<ul>
+<li>review results promptly</li>
+<li>communicate clearly</li>
+<li>schedule interviews quickly</li>
+<li>reject respectfully</li>
+<li>explain timelines honestly</li>
+</ul>
+<p>Even candidates who aren&#39;t selected often speak positively about companies that communicate well.</p>
+<p>Great communication turns rejection into employer branding.</p>
+<p>Ghosting turns it into negative publicity.</p>
+<hr>
+<h1>Track Your Assessment Funnel</h1>
+<p>Like every hiring stage, assessments should be measured.</p>
+<p>Useful metrics include:</p>
+<ul>
+<li>Invitation rate</li>
+<li>Completion rate</li>
+<li>Average completion time</li>
+<li>Candidate satisfaction</li>
+<li>Interview conversion rate</li>
+<li>Offer conversion rate</li>
+<li>Offer acceptance rate</li>
+<li>Candidate drop-off rate</li>
+</ul>
+<p>If only half your candidates complete the assessment, investigate why.</p>
+<p>Perhaps it&#39;s:</p>
+<ul>
+<li>too long</li>
+<li>poorly explained</li>
+<li>sent too early</li>
+<li>technically difficult</li>
+<li>not relevant</li>
+</ul>
+<p>Candidate behavior is valuable feedback.</p>
+<hr>
+<h1>Common Mistakes</h1>
+<p>Avoid these common pitfalls:</p>
+<ul>
+<li>Sending every candidate a three-hour assessment.</li>
+<li>Testing technologies unrelated to the role.</li>
+<li>Hiding how long it takes.</li>
+<li>Requiring multiple overlapping assessments.</li>
+<li>Delaying feedback for weeks.</li>
+<li>Automatically rejecting candidates based on one score.</li>
+<li>Treating assessments as the final hiring decision.</li>
+<li>Ignoring candidate feedback about the process.</li>
+<li>Designing tests around trivia instead of engineering judgment.</li>
+<li>Forgetting that the assessment is part of your employer brand.</li>
+</ul>
+<hr>
+<h1>Best Practices Checklist</h1>
+<p>Before publishing an assessment, ask yourself:</p>
+<ul>
+<li>Does every question relate directly to the job?</li>
+<li>Can candidates realistically finish within the stated time?</li>
+<li>Do candidates know why they&#39;re taking it?</li>
+<li>Is the experience respectful and easy to use?</li>
+<li>Are results used to improve interviews rather than replace them?</li>
+<li>Will every candidate receive timely communication afterward?</li>
+<li>Would you personally feel this process respected your own time?</li>
+</ul>
+<p>If the answer is &quot;yes&quot; to each question, you&#39;re likely building a hiring process candidates will remember for the right reasons.</p>
+<hr>
+<h1>The Bottom Line</h1>
+<p>Skills assessments shouldn&#39;t feel like obstacles. They should feel like opportunities.</p>
+<p>When they&#39;re relevant, concise, transparent, and respectful, assessments help companies discover talented developers who might otherwise be overlooked while giving candidates a fair chance to demonstrate what they can actually do.</p>
+<p>Treat every assessment as the beginning of a professional relationship, not merely another screening step.</p>
+<p>Candidates who feel respected are more likely to complete the assessment, recommend your company to others, accept your offer if they receive one, and return for future opportunities.</p>
+<p>A great assessment doesn&#39;t just identify great engineers—it leaves them excited about the possibility of joining your team.</p>
+<hr>
+<p><strong>Looking for a hiring platform that puts skills and candidate experience first?</strong> Create a company account on <strong>JobsList.dev</strong> and build hiring workflows that developers actually enjoy completing.</p>
 5:["locale","el","d"]
 6:["slug","using-assessments-without-losing-candidates","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","using-assessments-without-losing-candidates","d"],{"children":["__PAGE__?{\"locale\":\"el\",\"slug\":\"using-assessments-without-losing-candidates\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","using-assessments-without-losing-candidates","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Using Assessments Without Losing Candidates\",\"description\":\"How to place a skills assessment in your hiring flow so it sharpens your shortlist instead of scaring off strong people — timing, length, framing, and automation.\",\"datePublished\":\"2026-07-25T00:00:00.000Z\",\"inLanguage\":\"el\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Using Assessments Without Losing Candidates","date":"2026-07-25T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Using Assessments Without Losing Candidates | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"How to place a skills assessment in your hiring flow so it sharpens your shortlist instead of scaring off strong people — timing, length, framing, and automation."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Using Assessments Without Losing Candidates"}],["$","meta","15",{"property":"og:description","content":"How to place a skills assessment in your hiring flow so it sharpens your shortlist instead of scaring off strong people — timing, length, framing, and automation."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-25T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Using Assessments Without Losing Candidates"}],["$","meta","25",{"name":"twitter:description","content":"How to place a skills assessment in your hiring flow so it sharpens your shortlist instead of scaring off strong people — timing, length, framing, and automation."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","using-assessments-without-losing-candidates","d"],{"children":["__PAGE__?{\"locale\":\"el\",\"slug\":\"using-assessments-without-losing-candidates\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","using-assessments-without-losing-candidates","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Using Assessments Without Losing Candidates\",\"description\":\"How to use skills assessments to improve hiring without increasing candidate drop-off. Learn when to send assessments, how long they should be, how to communicate them, and how to create a candidate experience that attracts great developers.\",\"datePublished\":\"2026-07-25T00:00:00.000Z\",\"inLanguage\":\"el\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Using Assessments Without Losing Candidates","date":"2026-07-25T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":8,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Using Assessments Without Losing Candidates | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"How to use skills assessments to improve hiring without increasing candidate drop-off. Learn when to send assessments, how long they should be, how to communicate them, and how to create a candidate experience that attracts great developers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Using Assessments Without Losing Candidates"}],["$","meta","15",{"property":"og:description","content":"How to use skills assessments to improve hiring without increasing candidate drop-off. Learn when to send assessments, how long they should be, how to communicate them, and how to create a candidate experience that attracts great developers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-25T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Using Assessments Without Losing Candidates"}],["$","meta","25",{"name":"twitter:description","content":"How to use skills assessments to improve hiring without increasing candidate drop-off. Learn when to send assessments, how long they should be, how to communicate them, and how to create a candidate experience that attracts great developers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

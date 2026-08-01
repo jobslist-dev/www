@@ -1,56 +1,1574 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:Te55,<p>You worked hard to hire a great developer. Then what? The first 90 days decide whether that hire becomes a productive, committed team member — or a frustrated one who quietly starts looking again. Onboarding is the most overlooked, highest-ROI part of hiring. Here&#39;s a plan that works.</p>
-<h2>Why onboarding matters more than you think</h2>
-<p>A structured onboarding experience dramatically improves both productivity and retention. New hires who feel lost in their first weeks form a quiet doubt that&#39;s hard to reverse. New hires who feel supported and effective become advocates. The cost of getting this wrong is the entire cost of the hire — twice.</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Tdeb8,<hr>
+<p>Hiring a strong developer is only the beginning.</p>
+<p>The value of that hire depends on what happens next.</p>
+<p>A carefully selected engineer can still struggle when they arrive to:</p>
+<ul>
+<li>a laptop that has not been configured;</li>
+<li>missing repository access;</li>
+<li>unclear responsibilities;</li>
+<li>outdated documentation;</li>
+<li>contradictory instructions;</li>
+<li>an overloaded first-week calendar;</li>
+<li>no assigned mentor;</li>
+<li>no meaningful work;</li>
+<li>no feedback;</li>
+<li>a manager who assumes they will “figure it out.”</li>
+</ul>
+<p>These problems are often treated as minor inconveniences.</p>
+<p>They are not.</p>
+<p>They shape how quickly the developer becomes productive, how confidently they ask questions, how much trust they place in the organization, and whether they begin imagining a future at the company.</p>
+<p>A good onboarding program does more than teach someone how to run the application locally.</p>
+<p>It helps them understand:</p>
+<ul>
+<li>what the company is trying to accomplish;</li>
+<li>how customers use the product;</li>
+<li>how the engineering system works;</li>
+<li>how decisions are made;</li>
+<li>where to find information;</li>
+<li>who owns what;</li>
+<li>how quality is evaluated;</li>
+<li>how to get help;</li>
+<li>what success looks like;</li>
+<li>how their work contributes to the larger mission.</li>
+</ul>
+<p>The first 90 days should therefore be treated as a deliberate transition from promising candidate to trusted contributor.</p>
+<p>This guide provides a practical framework for making that transition successful.</p>
+<h2>Onboarding begins before the start date</h2>
+<p>The new developer’s experience starts before their first morning.</p>
+<p>The period between accepting the offer and joining the company is sometimes treated as administrative downtime. In reality, it is part of onboarding.</p>
+<p>The candidate may still be:</p>
+<ul>
+<li>finishing work at their previous employer;</li>
+<li>declining other opportunities;</li>
+<li>wondering whether they made the right decision;</li>
+<li>preparing for a new routine;</li>
+<li>arranging equipment or workspace;</li>
+<li>managing uncertainty about the team.</li>
+</ul>
+<p>Thoughtful preboarding reduces that uncertainty.</p>
+<h2>Keep communication warm after acceptance</h2>
+<p>Do not allow communication to disappear between the signed offer and the start date.</p>
+<p>Useful updates may include:</p>
+<ul>
+<li>confirmation that the signed documents were received;</li>
+<li>equipment-shipping information;</li>
+<li>first-day timing;</li>
+<li>workplace or remote-access instructions;</li>
+<li>a brief welcome from the manager;</li>
+<li>an introduction to the onboarding buddy;</li>
+<li>a high-level first-week schedule;</li>
+<li>any optional reading that would provide context.</li>
+</ul>
+<p>Keep pre-start material optional unless it is part of paid working time.</p>
+<p>A new hire should not be expected to complete unpaid training before joining.</p>
+<h2>Prepare a preboarding checklist</h2>
+<p>Assign clear ownership for every item.</p>
+<h3>Employment and administrative setup</h3>
+<p>Confirm:</p>
+<ul>
+<li>signed agreements;</li>
+<li>payroll information;</li>
+<li>tax forms;</li>
+<li>benefits enrollment instructions;</li>
+<li>emergency contact procedures;</li>
+<li>background checks where applicable;</li>
+<li>work authorization documentation;</li>
+<li>required policy acknowledgments.</li>
+</ul>
+<h3>Hardware</h3>
+<p>Prepare:</p>
+<ul>
+<li>laptop;</li>
+<li>monitors;</li>
+<li>keyboard and mouse;</li>
+<li>headset;</li>
+<li>security key;</li>
+<li>mobile device where required;</li>
+<li>adapters;</li>
+<li>other role-specific equipment.</li>
+</ul>
+<p>The device should arrive early enough for problems to be resolved before the first working session.</p>
+<h3>Accounts and access</h3>
+<p>Create or prepare access for:</p>
+<ul>
+<li>company identity provider;</li>
+<li>email;</li>
+<li>messaging;</li>
+<li>calendar;</li>
+<li>source repositories;</li>
+<li>issue tracking;</li>
+<li>documentation;</li>
+<li>design tools;</li>
+<li>cloud environments;</li>
+<li>observability platforms;</li>
+<li>password manager;</li>
+<li>virtual private network;</li>
+<li>development tools;</li>
+<li>learning systems;</li>
+<li>expense and benefits systems.</li>
+</ul>
+<p>Use role-based, least-privilege access rather than copying another employee’s entire permission set.</p>
+<h3>Security</h3>
+<p>Prepare:</p>
+<ul>
+<li>multifactor authentication;</li>
+<li>device-management enrollment;</li>
+<li>secure password guidance;</li>
+<li>acceptable-use policies;</li>
+<li>data-handling expectations;</li>
+<li>incident-reporting instructions;</li>
+<li>phishing-awareness training;</li>
+<li>production-access procedures;</li>
+<li>secret-management practices.</li>
+</ul>
+<p>Security onboarding should explain why controls exist, not merely present a list of prohibitions.</p>
+<h3>First-week plan</h3>
+<p>Create a written schedule that includes:</p>
+<ul>
+<li>manager welcome;</li>
+<li>team introduction;</li>
+<li>onboarding-buddy meeting;</li>
+<li>product overview;</li>
+<li>architecture introduction;</li>
+<li>security orientation;</li>
+<li>development-environment setup;</li>
+<li>first task;</li>
+<li>protected learning time;</li>
+<li>end-of-week check-in.</li>
+</ul>
+<p>A plan reduces anxiety and prevents the first week from becoming an improvised collection of meetings.</p>
+<h2>Tell the team who is joining</h2>
+<p>The existing team should understand:</p>
+<ul>
+<li>the person’s name;</li>
+<li>their role;</li>
+<li>their start date;</li>
+<li>what they will initially work on;</li>
+<li>who their manager is;</li>
+<li>who their onboarding buddy is;</li>
+<li>how teammates can help.</li>
+</ul>
+<p>Avoid sharing private personal information without permission.</p>
+<p>A brief, respectful introduction helps the team prepare and ensures the new developer is not treated as a surprise arrival.</p>
+<h2>Assign an onboarding owner</h2>
+<p>Onboarding frequently fails because responsibility is distributed so widely that nobody owns the whole experience.</p>
+<p>The onboarding owner may be:</p>
+<ul>
+<li>the manager;</li>
+<li>a dedicated onboarding coordinator;</li>
+<li>an engineering leader;</li>
+<li>a designated teammate.</li>
+</ul>
+<p>This person should verify that:</p>
+<ul>
+<li>equipment is ready;</li>
+<li>access works;</li>
+<li>meetings are scheduled;</li>
+<li>the onboarding plan is current;</li>
+<li>blockers are resolved;</li>
+<li>feedback is collected;</li>
+<li>progress is reviewed.</li>
+</ul>
+<p>The onboarding owner does not need to teach every topic personally.</p>
+<p>They need to ensure that the complete system works.</p>
+<h2>Assign an onboarding buddy</h2>
+<p>The manager and onboarding buddy serve different purposes.</p>
+<p>The manager is responsible for:</p>
+<ul>
+<li>expectations;</li>
+<li>priorities;</li>
+<li>performance;</li>
+<li>feedback;</li>
+<li>career support;</li>
+<li>organizational context.</li>
+</ul>
+<p>The buddy helps with everyday questions such as:</p>
+<ul>
+<li>Where is this documented?</li>
+<li>Which channel should I use?</li>
+<li>Who owns this service?</li>
+<li>Is this meeting optional?</li>
+<li>How do we usually review changes?</li>
+<li>What does this internal term mean?</li>
+<li>How do I request access?</li>
+<li>Who should I ask before deploying?</li>
+</ul>
+<p>Choose a buddy who:</p>
+<ul>
+<li>understands the team;</li>
+<li>communicates patiently;</li>
+<li>has enough calendar capacity;</li>
+<li>enjoys helping others;</li>
+<li>models healthy working habits;</li>
+<li>will be available during the new hire’s first weeks.</li>
+</ul>
+<p>Do not assign the nearest available person without considering whether they have time to do the job well.</p>
+<h2>Build an onboarding document</h2>
+<p>A useful onboarding guide may include:</p>
+<ul>
+<li>company mission;</li>
+<li>product overview;</li>
+<li>customer groups;</li>
+<li>team structure;</li>
+<li>organizational map;</li>
+<li>development setup;</li>
+<li>repository map;</li>
+<li>architecture overview;</li>
+<li>system ownership;</li>
+<li>deployment process;</li>
+<li>testing standards;</li>
+<li>security practices;</li>
+<li>observability;</li>
+<li>incident response;</li>
+<li>communication norms;</li>
+<li>meeting guide;</li>
+<li>glossary;</li>
+<li>frequently asked questions;</li>
+<li>useful contacts;</li>
+<li>first 90-day plan.</li>
+</ul>
+<p>The document should help the developer navigate the organization rather than replace human support.</p>
+<p>No document can anticipate every question.</p>
+<h2>Make documentation easy to improve</h2>
+<p>New employees are uniquely qualified to identify onboarding gaps because they have not yet learned to work around them.</p>
+<p>Encourage them to record:</p>
+<ul>
+<li>missing setup steps;</li>
+<li>confusing terminology;</li>
+<li>outdated links;</li>
+<li>undocumented permissions;</li>
+<li>contradictory instructions;</li>
+<li>unclear ownership;</li>
+<li>assumptions that experienced employees no longer notice.</li>
+</ul>
+<p>Allow the new developer to submit documentation improvements during onboarding.</p>
+<p>This turns each onboarding cycle into an improvement opportunity for the next one.</p>
+<h1>Day one: create clarity, safety, and momentum</h1>
+<p>The first day should help the new developer answer five questions:</p>
+<ol>
+<li>Am I expected here?</li>
+<li>Do I have what I need?</li>
+<li>Who can help me?</li>
+<li>What will I be working on?</li>
+<li>What should I do next?</li>
+</ol>
+<p>It should not attempt to teach the entire company in eight hours.</p>
+<h2>Begin with a human welcome</h2>
+<p>The manager should meet with the developer early.</p>
+<p>Discuss:</p>
+<ul>
+<li>why the company is glad they joined;</li>
+<li>what stood out during the hiring process;</li>
+<li>the purpose of the role;</li>
+<li>how the first week will work;</li>
+<li>who will support them;</li>
+<li>how to raise concerns or blockers.</li>
+</ul>
+<p>A personalized welcome connects the hiring process to the employee experience.</p>
+<p>For example:</p>
+<blockquote>
+<p>We were impressed by how you approached the debugging exercise and communicated trade-offs. That kind of production judgment is important for the platform work you will gradually own here.</p>
+</blockquote>
+<p>Specific recognition is more meaningful than a generic welcome message.</p>
+<h2>Introduce the team with context</h2>
+<p>Do not simply read names from an organization chart.</p>
+<p>Explain:</p>
+<ul>
+<li>what each person owns;</li>
+<li>how they will work with the new developer;</li>
+<li>which subjects they can help with;</li>
+<li>where important dependencies exist.</li>
+</ul>
+<p>For example:</p>
+<ul>
+<li>Priya owns the frontend platform and design-system integration.</li>
+<li>Marcus leads the billing services.</li>
+<li>Elena is the product manager for subscriptions.</li>
+<li>Devon manages production infrastructure and deployment support.</li>
+</ul>
+<p>Context makes names easier to remember.</p>
+<h2>Explain the company and product</h2>
+<p>A developer needs business context to make sound technical decisions.</p>
+<p>Cover:</p>
+<ul>
+<li>the company mission;</li>
+<li>major customer groups;</li>
+<li>the primary product;</li>
+<li>how the company makes money;</li>
+<li>important user workflows;</li>
+<li>major business risks;</li>
+<li>current strategic priorities;</li>
+<li>how engineering contributes.</li>
+</ul>
+<p>Avoid presenting only a marketing pitch.</p>
+<p>Explain real constraints and current challenges.</p>
+<h2>Review the onboarding plan</h2>
+<p>Show the developer:</p>
+<ul>
+<li>what is planned for the first week;</li>
+<li>the goals for the first month;</li>
+<li>the likely responsibilities for days 31–60;</li>
+<li>the expected outcomes by day 90;</li>
+<li>how the plan may change;</li>
+<li>how progress will be discussed.</li>
+</ul>
+<p>The plan should create direction without becoming an inflexible contract.</p>
+<h2>Confirm that the setup works</h2>
+<p>By the end of the first day, the developer should ideally be able to:</p>
+<ul>
+<li>access communication tools;</li>
+<li>access documentation;</li>
+<li>access the required repositories;</li>
+<li>authenticate securely;</li>
+<li>begin configuring the development environment;</li>
+<li>identify whom to contact for support.</li>
+</ul>
+<p>Do not send the new hire from team to team to negotiate every permission independently.</p>
+<p>The onboarding owner should coordinate access.</p>
+<h2>Avoid a full day of presentations</h2>
+<p>A long sequence of orientation meetings produces fatigue and weak retention.</p>
+<p>Balance meetings with:</p>
+<ul>
+<li>setup time;</li>
+<li>reading time;</li>
+<li>breaks;</li>
+<li>informal conversation;</li>
+<li>hands-on exploration;</li>
+<li>a small task.</li>
+</ul>
+<p>People learn through use, repetition, and context—not by receiving every available slide deck at once.</p>
+<h1>Week one: learn the environment and complete a real contribution</h1>
+<p>The first week should combine orientation with action.</p>
+<p>The goal is not maximum output.</p>
+<p>The goal is to help the developer experience the complete path from understanding a task to contributing a change.</p>
+<h2>Select a good first task</h2>
+<p>A useful first task is:</p>
+<ul>
+<li>real;</li>
+<li>small;</li>
+<li>clearly scoped;</li>
+<li>low risk;</li>
+<li>documented enough to begin;</li>
+<li>connected to the product;</li>
+<li>reviewable by a teammate;</li>
+<li>capable of reaching production or a real user.</li>
+</ul>
+<p>Examples include:</p>
+<ul>
+<li>correcting a small bug;</li>
+<li>improving an error message;</li>
+<li>adding a missing test;</li>
+<li>updating documentation;</li>
+<li>adding a metric;</li>
+<li>improving a development script;</li>
+<li>making a small accessibility fix;</li>
+<li>resolving an internal-tool issue.</li>
+</ul>
+<p>Avoid tasks that are:</p>
+<ul>
+<li>meaningless busywork;</li>
+<li>blocked by many dependencies;</li>
+<li>buried in an unfamiliar legacy area;</li>
+<li>operationally dangerous;</li>
+<li>expected to take several weeks;</li>
+<li>chosen solely because nobody else wants them.</li>
+</ul>
+<p>The task should teach the workflow.</p>
+<h2>Use the first contribution to validate the system</h2>
+<p>The first task can reveal whether the developer can:</p>
+<ul>
+<li>create a branch;</li>
+<li>run the application;</li>
+<li>run tests;</li>
+<li>access required services;</li>
+<li>open a pull request;</li>
+<li>receive review;</li>
+<li>use the deployment pipeline;</li>
+<li>observe the result;</li>
+<li>update documentation.</li>
+</ul>
+<p>If any step is unnecessarily difficult, improve the onboarding process.</p>
+<h2>Pair during the first contribution</h2>
+<p>Pairing can help explain:</p>
+<ul>
+<li>repository conventions;</li>
+<li>local tooling;</li>
+<li>test strategy;</li>
+<li>review expectations;</li>
+<li>architectural boundaries;</li>
+<li>deployment;</li>
+<li>terminology.</li>
+</ul>
+<p>The experienced teammate should guide without taking over.</p>
+<p>The objective is to help the new developer build a mental model.</p>
+<h2>Explain how code review works</h2>
+<p>Clarify:</p>
+<ul>
+<li>who reviews changes;</li>
+<li>expected response times;</li>
+<li>required approvals;</li>
+<li>automated checks;</li>
+<li>how comments are resolved;</li>
+<li>when to request synchronous discussion;</li>
+<li>what counts as blocking;</li>
+<li>how tone should be interpreted;</li>
+<li>when changes may be merged.</li>
+</ul>
+<p>Without this context, ordinary review comments can feel like unexpected criticism.</p>
+<h2>Review how software reaches production</h2>
+<p>Show the path from code to users.</p>
+<p>Cover:</p>
+<ul>
+<li>continuous integration;</li>
+<li>test environments;</li>
+<li>deployment approvals;</li>
+<li>feature flags;</li>
+<li>monitoring;</li>
+<li>rollback;</li>
+<li>incident response;</li>
+<li>change communication.</li>
+</ul>
+<p>Even if the new developer will not deploy immediately, understanding the lifecycle makes the codebase easier to reason about.</p>
+<h2>Protect time for exploration</h2>
+<p>Give the developer time to:</p>
+<ul>
+<li>browse the repository;</li>
+<li>run the application;</li>
+<li>trace a request;</li>
+<li>read architecture notes;</li>
+<li>inspect logs;</li>
+<li>review recent pull requests;</li>
+<li>understand current priorities.</li>
+</ul>
+<p>Do not fill every hour with meetings and then expect technical learning to happen after work.</p>
+<h2>End the first week with a check-in</h2>
+<p>Discuss:</p>
+<ul>
+<li>What is clear?</li>
+<li>What is confusing?</li>
+<li>Which access is missing?</li>
+<li>Which documentation was inaccurate?</li>
+<li>Who has been especially helpful?</li>
+<li>How did the first task feel?</li>
+<li>Is the pace too slow, too fast, or appropriate?</li>
+<li>What should change next week?</li>
+</ul>
+<p>This conversation should be practical and psychologically safe.</p>
+<h1>Days 1–30: learn, connect, and establish early confidence</h1>
+<p>The first month should help the developer build context and complete several meaningful contributions.</p>
+<p>The goal is not full independence.</p>
+<p>The goal is informed participation.</p>
+<h2>First-month outcomes</h2>
+<p>By the end of day 30, the developer should generally be able to:</p>
+<ul>
+<li>explain the company’s product and primary users;</li>
+<li>identify the team’s major responsibilities;</li>
+<li>navigate the main codebase;</li>
+<li>run the relevant systems locally;</li>
+<li>understand the ordinary development workflow;</li>
+<li>submit and respond to code reviews;</li>
+<li>complete small production changes;</li>
+<li>identify key owners and stakeholders;</li>
+<li>understand how to ask for help;</li>
+<li>describe the next stage of their onboarding.</li>
+</ul>
+<p>The exact outcomes should reflect the role and seniority.</p>
+<h2>Build a product mental model</h2>
+<p>Technical onboarding should include customer and product context.</p>
+<p>Useful activities may include:</p>
+<ul>
+<li>product demonstrations;</li>
+<li>customer-support shadowing;</li>
+<li>reviewing common user journeys;</li>
+<li>reading customer feedback;</li>
+<li>observing sales or implementation calls;</li>
+<li>reviewing product analytics;</li>
+<li>using the product as a customer would.</li>
+</ul>
+<p>Developers make better decisions when they understand the people affected by their work.</p>
+<h2>Introduce the system architecture gradually</h2>
+<p>Do not try to teach every service in one meeting.</p>
+<p>Begin with:</p>
+<ul>
+<li>the most important user flow;</li>
+<li>the components the developer will touch;</li>
+<li>major data boundaries;</li>
+<li>external dependencies;</li>
+<li>security boundaries;</li>
+<li>deployment model;</li>
+<li>ownership map.</li>
+</ul>
+<p>Then deepen the explanation as the developer encounters real work.</p>
+<p>Architecture is easier to learn when connected to a concrete task.</p>
+<h2>Teach where information lives</h2>
+<p>Explain the purpose of each system.</p>
+<p>For example:</p>
+<ul>
+<li>Documentation: durable knowledge and procedures</li>
+<li>Issue tracker: planned work and ownership</li>
+<li>Chat: temporary coordination</li>
+<li>Architecture records: significant technical decisions</li>
+<li>Repository: code and local development instructions</li>
+<li>Status page: customer-visible incidents</li>
+<li>Observability platform: runtime evidence</li>
+</ul>
+<p>New hires waste time when they do not know which source is authoritative.</p>
+<h2>Introduce communication norms</h2>
+<p>Clarify expectations around:</p>
+<ul>
+<li>synchronous versus asynchronous communication;</li>
+<li>response times;</li>
+<li>status updates;</li>
+<li>meeting participation;</li>
+<li>direct messages versus shared channels;</li>
+<li>escalation;</li>
+<li>decision documentation;</li>
+<li>availability;</li>
+<li>focus time;</li>
+<li>working across time zones.</li>
+</ul>
+<p>Do not assume these norms are obvious.</p>
+<h2>Establish recurring one-to-ones</h2>
+<p>The manager should hold regular one-to-one conversations from the beginning.</p>
+<p>Useful first-month topics include:</p>
+<ul>
+<li>blockers;</li>
+<li>learning;</li>
+<li>workload;</li>
+<li>relationships;</li>
+<li>role clarity;</li>
+<li>feedback;</li>
+<li>concerns;</li>
+<li>motivation;</li>
+<li>support needs.</li>
+</ul>
+<p>The meeting should not be limited to task status.</p>
+<p>Project status can often be communicated elsewhere.</p>
+<h2>Give early feedback</h2>
+<p>Do not wait until day 90 to tell the developer how they are doing.</p>
+<p>Provide specific feedback such as:</p>
+<ul>
+<li>Your pull-request summaries make review easier.</li>
+<li>You are asking useful questions before implementation.</li>
+<li>Please raise environment blockers earlier rather than waiting until the next meeting.</li>
+<li>The test coverage was strong, but the operational rollout plan needs more detail.</li>
+<li>Your customer-support questions helped clarify the issue.</li>
+</ul>
+<p>Early feedback helps the developer adjust before habits become established.</p>
+<h2>Invite feedback on the organization</h2>
+<p>Ask:</p>
+<ul>
+<li>Which process is harder than expected?</li>
+<li>Which documentation is missing?</li>
+<li>Where did ownership feel unclear?</li>
+<li>Which tool created unnecessary friction?</li>
+<li>What surprised you?</li>
+<li>What should we change for the next new hire?</li>
+</ul>
+<p>Do not ask for feedback unless the team is willing to consider it seriously.</p>
+<h2>Calibrate workload carefully</h2>
+<p>A new developer may appear highly productive while working unsustainably long hours to make a strong impression.</p>
+<p>Managers should reinforce that:</p>
+<ul>
+<li>questions are expected;</li>
+<li>learning takes time;</li>
+<li>normal working hours are sufficient;</li>
+<li>asking for help is not failure;</li>
+<li>sustainable progress matters more than performance theater.</li>
+</ul>
+<p>The company should not reward hidden overwork during onboarding.</p>
+<h2>Adapt for senior hires</h2>
+<p>Senior developers still need onboarding.</p>
+<p>Their experience may allow them to learn faster, but it does not provide automatic knowledge of:</p>
+<ul>
+<li>your customers;</li>
+<li>your architecture;</li>
+<li>your internal history;</li>
+<li>your risk tolerance;</li>
+<li>your decision process;</li>
+<li>your organizational relationships.</li>
+</ul>
+<p>A senior hire may need less instruction on coding and more context on:</p>
+<ul>
+<li>technical strategy;</li>
+<li>business priorities;</li>
+<li>organizational constraints;</li>
+<li>architecture history;</li>
+<li>stakeholder relationships;</li>
+<li>decision authority.</li>
+</ul>
+<p>Do not confuse seniority with mind reading.</p>
+<h1>Days 31–60: increase ownership and deepen context</h1>
+<p>The second month should move the developer from guided contribution toward meaningful ownership.</p>
+<p>They should begin to operate with less procedural support while still receiving active feedback.</p>
+<h2>Second-month outcomes</h2>
+<p>By the end of day 60, the developer may be expected to:</p>
+<ul>
+<li>own a scoped feature or component;</li>
+<li>estimate and plan routine work;</li>
+<li>contribute to design discussions;</li>
+<li>handle code review confidently;</li>
+<li>understand the most relevant production signals;</li>
+<li>collaborate with product and adjacent teams;</li>
+<li>recognize common risks in the domain;</li>
+<li>communicate progress and blockers independently;</li>
+<li>improve at least one part of the development system.</li>
+</ul>
+<p>Expectations should be adjusted for level.</p>
+<h2>Assign a scoped ownership area</h2>
+<p>A good second-month assignment may be:</p>
+<ul>
+<li>a complete feature;</li>
+<li>a service improvement;</li>
+<li>an internal workflow;</li>
+<li>a reliability initiative;</li>
+<li>a documentation overhaul;</li>
+<li>a testing improvement;</li>
+<li>a small migration.</li>
+</ul>
+<p>The assignment should have:</p>
+<ul>
+<li>a clear purpose;</li>
+<li>a known stakeholder;</li>
+<li>defined boundaries;</li>
+<li>an opportunity for technical judgment;</li>
+<li>regular review;</li>
+<li>measurable completion.</li>
+</ul>
+<p>Do not assign ownership without clarifying authority.</p>
+<p>The developer should know which decisions they can make independently and which require consultation.</p>
+<h2>Introduce planning and estimation</h2>
+<p>Show how the team:</p>
+<ul>
+<li>breaks down work;</li>
+<li>identifies dependencies;</li>
+<li>evaluates risk;</li>
+<li>estimates effort;</li>
+<li>negotiates scope;</li>
+<li>communicates uncertainty;</li>
+<li>updates plans.</li>
+</ul>
+<p>Do not judge the new hire harshly for inaccurate early estimates in an unfamiliar system.</p>
+<p>Estimation improves with context.</p>
+<h2>Introduce production responsibility gradually</h2>
+<p>Depending on the role, this may include:</p>
+<ul>
+<li>reading dashboards;</li>
+<li>reviewing alerts;</li>
+<li>observing incident response;</li>
+<li>joining an on-call shadow rotation;</li>
+<li>reviewing runbooks;</li>
+<li>participating in deployment;</li>
+<li>investigating noncritical issues.</li>
+</ul>
+<p>Do not place a new hire into unsupported on-call responsibility merely because a calendar threshold has passed.</p>
+<p>Production access should follow demonstrated readiness.</p>
+<h2>Deepen business context</h2>
+<p>Arrange conversations with:</p>
+<ul>
+<li>product managers;</li>
+<li>designers;</li>
+<li>customer support;</li>
+<li>sales;</li>
+<li>security;</li>
+<li>operations;</li>
+<li>finance;</li>
+<li>legal or compliance where relevant.</li>
+</ul>
+<p>The purpose is not to schedule a tour of every department.</p>
+<p>Focus on the relationships that affect the developer’s work.</p>
+<h2>Encourage cross-functional questions</h2>
+<p>A developer should understand:</p>
+<ul>
+<li>how requirements are created;</li>
+<li>how customer feedback reaches the team;</li>
+<li>how priorities are selected;</li>
+<li>how incidents affect customers;</li>
+<li>how technical work is evaluated;</li>
+<li>how business trade-offs are made.</li>
+</ul>
+<p>This context helps them make better independent decisions.</p>
+<h2>Ask the developer to improve something</h2>
+<p>By the second month, ask the new hire to identify one meaningful improvement.</p>
+<p>Examples include:</p>
+<ul>
+<li>correcting onboarding documentation;</li>
+<li>simplifying a development command;</li>
+<li>improving a test fixture;</li>
+<li>adding missing monitoring;</li>
+<li>clarifying ownership;</li>
+<li>reducing a repeated manual step;</li>
+<li>documenting a common incident.</li>
+</ul>
+<p>This creates visible ownership and captures the value of a fresh perspective.</p>
+<h2>Review progress around day 45</h2>
+<p>Discuss:</p>
+<ul>
+<li>progress against the plan;</li>
+<li>confidence;</li>
+<li>technical context;</li>
+<li>relationships;</li>
+<li>blockers;</li>
+<li>feedback from both sides;</li>
+<li>whether goals remain appropriate;</li>
+<li>what ownership should increase next.</li>
+</ul>
+<p>Do not treat the review as a hidden performance test.</p>
+<p>The developer should already know how the manager perceives their progress.</p>
+<h1>Days 61–90: operate independently and prepare for long-term impact</h1>
+<p>The final month of the initial onboarding period should help the developer become a trusted contributor with clear next-stage goals.</p>
+<p>“Fully onboarded” does not mean they understand every system or no longer need help.</p>
+<p>It means they can contribute effectively within their scope and know how to navigate what they do not know.</p>
+<h2>Third-month outcomes</h2>
+<p>By day 90, a developer may be expected to:</p>
+<ul>
+<li>deliver scoped work with appropriate independence;</li>
+<li>navigate relevant systems confidently;</li>
+<li>understand team priorities;</li>
+<li>make sound routine technical decisions;</li>
+<li>participate meaningfully in planning and review;</li>
+<li>operate or support relevant production systems safely;</li>
+<li>communicate risks and blockers early;</li>
+<li>collaborate effectively across roles;</li>
+<li>understand their performance expectations;</li>
+<li>have a clear plan for the next three to six months.</li>
+</ul>
+<h2>Expand independent delivery</h2>
+<p>The developer should begin owning work end to end:</p>
+<ul>
+<li>understanding the requirement;</li>
+<li>clarifying ambiguity;</li>
+<li>proposing an approach;</li>
+<li>implementing;</li>
+<li>testing;</li>
+<li>coordinating review;</li>
+<li>planning release;</li>
+<li>observing the result;</li>
+<li>documenting changes.</li>
+</ul>
+<p>The manager should remain available without controlling every step.</p>
+<h2>Evaluate judgment, not just output</h2>
+<p>By this stage, look for whether the developer:</p>
+<ul>
+<li>asks useful questions;</li>
+<li>identifies risk;</li>
+<li>chooses appropriate complexity;</li>
+<li>tests meaningful behavior;</li>
+<li>communicates trade-offs;</li>
+<li>responds to feedback;</li>
+<li>understands customer impact;</li>
+<li>follows through after release.</li>
+</ul>
+<p>A large number of completed tickets does not automatically mean successful onboarding.</p>
+<h2>Introduce longer-term responsibilities</h2>
+<p>Begin discussing:</p>
+<ul>
+<li>system ownership;</li>
+<li>roadmap involvement;</li>
+<li>technical debt;</li>
+<li>mentoring;</li>
+<li>architecture;</li>
+<li>production support;</li>
+<li>skill development;</li>
+<li>cross-team contribution.</li>
+</ul>
+<p>The exact responsibilities should match the role’s level.</p>
+<h2>Create a post-onboarding development plan</h2>
+<p>The 90-day point should lead into the next stage, not end support abruptly.</p>
+<p>Set goals for the next period.</p>
+<p>Examples include:</p>
+<ul>
+<li>own a service;</li>
+<li>lead a feature;</li>
+<li>improve one reliability measure;</li>
+<li>deepen knowledge of a domain;</li>
+<li>mentor an intern;</li>
+<li>contribute to architecture;</li>
+<li>reduce deployment friction;</li>
+<li>improve accessibility;</li>
+<li>complete an agreed learning objective.</li>
+</ul>
+<p>Goals should connect employee growth with team outcomes.</p>
+<h1>The 90-day review</h1>
+<p>The 90-day review should summarize learning, recognize progress, address gaps, and align on the future.</p>
+<p>There should be no major surprise.</p>
+<h2>Review the original plan</h2>
+<p>Discuss each expected outcome:</p>
+<ul>
+<li>completed;</li>
+<li>progressing;</li>
+<li>changed;</li>
+<li>blocked;</li>
+<li>no longer relevant.</li>
+</ul>
+<p>The plan may have changed because:</p>
+<ul>
+<li>priorities moved;</li>
+<li>access was delayed;</li>
+<li>the role evolved;</li>
+<li>the developer learned faster or slower in certain areas;</li>
+<li>the team discovered a better assignment.</li>
+</ul>
+<p>Evaluate progress in context.</p>
+<h2>Ask the developer to reflect</h2>
+<p>Useful questions include:</p>
+<ul>
+<li>What are you most proud of?</li>
+<li>What do you understand well now?</li>
+<li>Where do you still need context?</li>
+<li>Which relationships have been most helpful?</li>
+<li>What has been harder than expected?</li>
+<li>Which process should the team improve?</li>
+<li>What work would you like to own next?</li>
+<li>What support would make you more effective?</li>
+<li>Does the role match what was described during hiring?</li>
+</ul>
+<p>This last question is especially important.</p>
+<p>A mismatch between the promised role and actual work can quickly damage trust.</p>
+<h2>Provide evidence-based feedback</h2>
+<p>Discuss specific behaviors and outcomes.</p>
+<p>Weak:</p>
+<ul>
+<li>You are doing great.</li>
+<li>You need to be more senior.</li>
+<li>You should show more initiative.</li>
+</ul>
+<p>Stronger:</p>
+<ul>
+<li>You independently delivered the notification-preference feature and coordinated the rollout with support.</li>
+<li>Your technical plans are clear, but risks should be raised earlier when another service is involved.</li>
+<li>You improved the setup guide after identifying three missing steps.</li>
+<li>You are contributing well in code review; the next growth area is taking clearer ownership of deployment verification.</li>
+</ul>
+<p>Specific feedback creates action.</p>
+<h2>Confirm role expectations</h2>
+<p>Review:</p>
+<ul>
+<li>scope;</li>
+<li>level;</li>
+<li>ownership;</li>
+<li>communication;</li>
+<li>quality;</li>
+<li>production responsibility;</li>
+<li>collaboration;</li>
+<li>growth.</li>
+</ul>
+<p>The developer should know how success will be evaluated beyond onboarding.</p>
+<h2>Celebrate progress</h2>
+<p>Recognition does not need to be elaborate.</p>
+<p>Acknowledge:</p>
+<ul>
+<li>first production contribution;</li>
+<li>first completed feature;</li>
+<li>documentation improvements;</li>
+<li>useful questions;</li>
+<li>customer impact;</li>
+<li>team support;</li>
+<li>successful ownership.</li>
+</ul>
+<p>Celebrate progress without creating pressure for performative heroics.</p>
+<h1>A role-specific onboarding plan</h1>
+<p>A single onboarding template should not be applied identically to every developer.</p>
+<p>Adjust the program for role, discipline, and level.</p>
+<h2>Frontend developer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>product journeys;</li>
+<li>design system;</li>
+<li>component architecture;</li>
+<li>accessibility;</li>
+<li>browser support;</li>
+<li>state management;</li>
+<li>frontend testing;</li>
+<li>performance monitoring;</li>
+<li>collaboration with design.</li>
+</ul>
+<p>A useful early task might be a small accessibility or user-interface improvement.</p>
+<h2>Backend developer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>service architecture;</li>
+<li>APIs;</li>
+<li>data models;</li>
+<li>queues;</li>
+<li>failure handling;</li>
+<li>authorization;</li>
+<li>testing;</li>
+<li>deployment;</li>
+<li>observability;</li>
+<li>incident procedures.</li>
+</ul>
+<p>A useful early task might involve a small endpoint, validation improvement, or missing metric.</p>
+<h2>Platform or infrastructure developer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>environments;</li>
+<li>deployment architecture;</li>
+<li>identity and access;</li>
+<li>networking;</li>
+<li>observability;</li>
+<li>infrastructure as code;</li>
+<li>cost;</li>
+<li>incident response;</li>
+<li>disaster recovery.</li>
+</ul>
+<p>Production access should be introduced carefully.</p>
+<h2>Mobile developer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>application architecture;</li>
+<li>platform release process;</li>
+<li>device support;</li>
+<li>offline behavior;</li>
+<li>analytics;</li>
+<li>crash reporting;</li>
+<li>accessibility;</li>
+<li>store submission;</li>
+<li>feature flags.</li>
+</ul>
+<p>A small bug fix that passes through the full release pipeline may be a strong first contribution.</p>
+<h2>Data engineer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>data sources;</li>
+<li>schemas;</li>
+<li>pipelines;</li>
+<li>orchestration;</li>
+<li>quality checks;</li>
+<li>lineage;</li>
+<li>access governance;</li>
+<li>reporting consumers;</li>
+<li>incident response.</li>
+</ul>
+<p>The first task might improve a test, lineage record, or small pipeline component.</p>
+<h2>Security engineer</h2>
+<p>Early learning may include:</p>
+<ul>
+<li>threat model;</li>
+<li>product architecture;</li>
+<li>incident process;</li>
+<li>vulnerability handling;</li>
+<li>identity;</li>
+<li>data classification;</li>
+<li>secure-development standards;</li>
+<li>risk ownership;</li>
+<li>disclosure procedures.</li>
+</ul>
+<p>Security onboarding should clarify authority, escalation, and executive support.</p>
+<h2>Engineering manager</h2>
+<p>A manager’s onboarding should include:</p>
+<ul>
+<li>team history;</li>
+<li>employee goals;</li>
+<li>delivery commitments;</li>
+<li>technical risks;</li>
+<li>stakeholder relationships;</li>
+<li>hiring plans;</li>
+<li>performance processes;</li>
+<li>organizational expectations;</li>
+<li>management culture.</li>
+</ul>
+<p>Do not evaluate a new manager only through immediate delivery metrics.</p>
+<p>They need time to understand people and systems.</p>
+<h2>Staff or principal engineer</h2>
+<p>A senior individual contributor needs broad organizational context.</p>
+<p>Focus on:</p>
+<ul>
+<li>strategy;</li>
+<li>architecture across teams;</li>
+<li>decision history;</li>
+<li>technical risk;</li>
+<li>team boundaries;</li>
+<li>stakeholder relationships;</li>
+<li>influence mechanisms;</li>
+<li>long-term initiatives.</li>
+</ul>
+<p>Avoid forcing them to propose major changes before they understand why the current system exists.</p>
+<h1>Remote developer onboarding</h1>
+<p>Remote onboarding requires additional intentionality because the developer cannot absorb context through physical proximity.</p>
+<h2>Ship equipment early</h2>
+<p>Confirm:</p>
+<ul>
+<li>delivery;</li>
+<li>device condition;</li>
+<li>required accessories;</li>
+<li>connectivity;</li>
+<li>return procedures;</li>
+<li>support contact.</li>
+</ul>
+<p>Do not schedule critical setup sessions before confirming the hardware arrived.</p>
+<h2>Document asynchronous workflows</h2>
+<p>Remote developers need clear information about:</p>
+<ul>
+<li>communication channels;</li>
+<li>response expectations;</li>
+<li>working hours;</li>
+<li>overlap requirements;</li>
+<li>meeting norms;</li>
+<li>decision records;</li>
+<li>focus time;</li>
+<li>escalation;</li>
+<li>availability indicators.</li>
+</ul>
+<h2>Create planned social contact</h2>
+<p>Remote employees may need structured opportunities to build relationships.</p>
+<p>Useful activities include:</p>
+<ul>
+<li>buddy conversations;</li>
+<li>small-group introductions;</li>
+<li>optional social sessions;</li>
+<li>pair programming;</li>
+<li>team demonstrations;</li>
+<li>cross-functional meetings;</li>
+<li>informal manager check-ins.</li>
+</ul>
+<p>Avoid filling the calendar with forced social events.</p>
+<p>Connection should support work and belonging, not become another performance requirement.</p>
+<h2>Avoid remote invisibility</h2>
+<p>Managers should not infer that silence means progress or that frequent messages mean productivity.</p>
+<p>Use:</p>
+<ul>
+<li>clear goals;</li>
+<li>written updates;</li>
+<li>regular one-to-ones;</li>
+<li>visible blockers;</li>
+<li>documented decisions;</li>
+<li>outcome-based evaluation.</li>
+</ul>
+<p>Remote employees should not need to demonstrate constant online presence to prove they are working.</p>
+<h2>Record important sessions where appropriate</h2>
+<p>Recorded architecture or product walkthroughs can help with:</p>
+<ul>
+<li>time-zone differences;</li>
+<li>repetition;</li>
+<li>review;</li>
+<li>future onboarding.</li>
+</ul>
+<p>Provide captions or transcripts where possible.</p>
+<p>Do not record sensitive conversations automatically.</p>
+<h1>Hybrid and on-site onboarding</h1>
+<p>Hybrid onboarding can fail when the new hire comes to the office but the people they need are remote.</p>
+<p>Coordinate attendance intentionally.</p>
+<p>For important early sessions, confirm that:</p>
+<ul>
+<li>the right teammates are available;</li>
+<li>meeting rooms work;</li>
+<li>remote participants can join equally;</li>
+<li>the new hire knows which days are most useful on-site;</li>
+<li>travel or commuting expectations are clear.</li>
+</ul>
+<p>Avoid giving office-based employees access to more information simply because they overhear conversations.</p>
+<p>Document important decisions for everyone.</p>
+<h1>International onboarding</h1>
+<p>International hires may require additional support around:</p>
+<ul>
+<li>payroll;</li>
+<li>benefits;</li>
+<li>local holidays;</li>
+<li>equipment shipping;</li>
+<li>time zones;</li>
+<li>currency;</li>
+<li>tax documentation;</li>
+<li>immigration;</li>
+<li>employment agreements;</li>
+<li>data access;</li>
+<li>travel;</li>
+<li>communication norms.</li>
+</ul>
+<p>Do not assume policies designed for one country transfer cleanly to another.</p>
+<p>Explain:</p>
+<ul>
+<li>who handles local employment questions;</li>
+<li>how leave works;</li>
+<li>which holidays apply;</li>
+<li>when compensation is paid;</li>
+<li>how expenses are reimbursed;</li>
+<li>which working hours overlap;</li>
+<li>how support is requested.</li>
+</ul>
+<h1>Accessibility and inclusive onboarding</h1>
+<p>Onboarding should work for developers with different needs, communication styles, and circumstances.</p>
+<p>Possible accommodations may include:</p>
+<ul>
+<li>captioning;</li>
+<li>screen-reader-compatible documents;</li>
+<li>additional breaks;</li>
+<li>alternative meeting formats;</li>
+<li>written instructions;</li>
+<li>flexible scheduling;</li>
+<li>assistive technology;</li>
+<li>adjusted lighting or workspace;</li>
+<li>reduced sensory load;</li>
+<li>ergonomic equipment.</li>
+</ul>
+<p>Make the accommodation process visible and private.</p>
+<p>Do not require the developer to repeatedly explain the same need to every teammate.</p>
+<h2>Avoid information delivery in only one format</h2>
+<p>Use a combination of:</p>
+<ul>
+<li>written guides;</li>
+<li>live demonstrations;</li>
+<li>recorded walkthroughs;</li>
+<li>diagrams;</li>
+<li>hands-on exercises;</li>
+<li>pair sessions;</li>
+<li>reference documents.</li>
+</ul>
+<p>People process information differently.</p>
+<p>Multiple formats also make onboarding more resilient.</p>
+<h2>Explain unwritten cultural rules</h2>
+<p>Employees from different professional or cultural backgrounds may interpret workplace behavior differently.</p>
+<p>Clarify:</p>
+<ul>
+<li>how disagreement works;</li>
+<li>when directness is expected;</li>
+<li>how decisions are challenged;</li>
+<li>how meeting participation works;</li>
+<li>how feedback is delivered;</li>
+<li>how urgency is communicated;</li>
+<li>which social activities are optional;</li>
+<li>how status and hierarchy operate.</li>
+</ul>
+<p>Do not penalize someone for failing to infer norms the company never explained.</p>
+<h1>Psychological safety during onboarding</h1>
+<p>New developers need to feel safe admitting what they do not know.</p>
+<p>A team can encourage this by:</p>
+<ul>
+<li>welcoming questions;</li>
+<li>acknowledging that documentation is incomplete;</li>
+<li>admitting historical decisions were imperfect;</li>
+<li>explaining acronyms;</li>
+<li>rewarding early risk identification;</li>
+<li>responding constructively to mistakes;</li>
+<li>avoiding ridicule;</li>
+<li>distinguishing learning errors from negligence.</li>
+</ul>
+<p>Managers should model questions themselves.</p>
+<p>For example:</p>
+<blockquote>
+<p>I do not know the answer to that. Let us find the owner and document it.</p>
+</blockquote>
+<p>This demonstrates that uncertainty is normal.</p>
+<h1>Common onboarding mistakes</h1>
+<h2>Waiting until day one to prepare</h2>
+<p>The new hire spends valuable time without equipment, accounts, or direction.</p>
+<h2>Treating setup as the employee’s problem</h2>
+<p>The company owns the system. The employee should not have to navigate organizational dysfunction alone.</p>
+<h2>Scheduling too many introductory meetings</h2>
+<p>The new hire receives names and slides but retains little context.</p>
+<h2>Giving no real work</h2>
+<p>The developer feels unnecessary and cannot validate the workflow.</p>
+<h2>Assigning a critical project immediately</h2>
+<p>The person is expected to make high-risk decisions before understanding the system.</p>
+<h2>Using outdated documentation</h2>
+<p>The developer learns to distrust official information.</p>
+<h2>Failing to assign a buddy</h2>
+<p>Routine questions become harder to ask and take longer to resolve.</p>
+<h2>Assuming senior hires need no onboarding</h2>
+<p>Experience does not provide company-specific context.</p>
+<h2>Providing no feedback</h2>
+<p>The developer has to guess whether expectations are being met.</p>
+<h2>Waiting 90 days to discuss problems</h2>
+<p>Correctable issues become established patterns.</p>
+<h2>Evaluating activity rather than progress</h2>
+<p>Meeting attendance, message volume, and visible busyness are mistaken for contribution.</p>
+<h2>Treating questions as weakness</h2>
+<p>The new hire learns to hide uncertainty.</p>
+<h2>Overloading the developer with access</h2>
+<p>Security and cognitive load both suffer.</p>
+<h2>Giving access too slowly</h2>
+<p>The person cannot perform expected work.</p>
+<h2>Failing to explain the business</h2>
+<p>Technical decisions remain disconnected from customer and company outcomes.</p>
+<h2>Ignoring belonging</h2>
+<p>A technically productive person may still feel isolated and leave.</p>
+<h2>Ending support abruptly after 90 days</h2>
+<p>Onboarding becomes a temporary program rather than a transition into ongoing management.</p>
+<h1>Measuring onboarding success</h1>
+<p>Measurement should help improve the system, not create pressure for the new hire to reach arbitrary velocity.</p>
+<p>Useful measures may include:</p>
+<ul>
+<li>time to working development environment;</li>
+<li>time to first reviewed change;</li>
+<li>time to first production contribution;</li>
+<li>access-related delays;</li>
+<li>documentation gaps;</li>
+<li>onboarding-task completion;</li>
+<li>manager check-in completion;</li>
+<li>buddy engagement;</li>
+<li>role clarity;</li>
+<li>developer confidence;</li>
+<li>early retention;</li>
+<li>satisfaction with support;</li>
+<li>readiness for expected responsibilities.</li>
+</ul>
+<h2>Time to first contribution</h2>
+<p>This can help identify process friction.</p>
+<p>However, it should not become a competition between new hires.</p>
+<p>Different roles and assignments require different ramp periods.</p>
+<h2>Access delay</h2>
+<p>Track how many working hours or days are lost to:</p>
+<ul>
+<li>missing permissions;</li>
+<li>hardware problems;</li>
+<li>account creation;</li>
+<li>security approvals;</li>
+<li>environment setup.</li>
+</ul>
+<p>This is a direct measure of onboarding-system quality.</p>
+<h2>Developer confidence</h2>
+<p>Ask the developer to rate or discuss confidence in areas such as:</p>
+<ul>
+<li>understanding the product;</li>
+<li>navigating the codebase;</li>
+<li>knowing where to find information;</li>
+<li>asking for help;</li>
+<li>understanding expectations;</li>
+<li>contributing to production;</li>
+<li>collaborating with the team.</li>
+</ul>
+<p>Confidence does not replace performance evidence, but it can reveal hidden uncertainty.</p>
+<h2>Role clarity</h2>
+<p>Ask whether the developer understands:</p>
+<ul>
+<li>why the role exists;</li>
+<li>what they own;</li>
+<li>what success means;</li>
+<li>what priorities matter;</li>
+<li>who makes decisions;</li>
+<li>how performance is evaluated.</li>
+</ul>
+<p>Low role clarity should trigger management action.</p>
+<h2>Onboarding feedback</h2>
+<p>Collect feedback after:</p>
+<ul>
+<li>the first week;</li>
+<li>day 30;</li>
+<li>day 60;</li>
+<li>day 90.</li>
+</ul>
+<p>Questions may include:</p>
+<ul>
+<li>What helped most?</li>
+<li>What slowed you down?</li>
+<li>Which information arrived too early?</li>
+<li>Which information arrived too late?</li>
+<li>Which meeting was unnecessary?</li>
+<li>Which document was missing?</li>
+<li>Did the role match what was described?</li>
+<li>What should change before the next person joins?</li>
+</ul>
+<h2>Early retention</h2>
+<p>A departure during the first months may reveal problems with:</p>
+<ul>
+<li>role accuracy;</li>
+<li>management;</li>
+<li>onboarding;</li>
+<li>compensation;</li>
+<li>culture;</li>
+<li>workload;</li>
+<li>expectations;</li>
+<li>hiring.</li>
+</ul>
+<p>Do not assume every departure was caused by onboarding, but investigate respectfully.</p>
+<h1>A reusable 90-day onboarding template</h1>
 <h2>Before day one</h2>
-<p>The best onboarding starts before the new hire arrives:</p>
+<h3>Company responsibilities</h3>
 <ul>
-<li><strong>Have everything ready.</strong> Accounts, hardware, access, and a working dev environment. Nothing says &quot;we&#39;re disorganized&quot; like spending day one filing IT tickets.</li>
-<li><strong>Write the first week down.</strong> A simple plan they can follow removes anxiety.</li>
-<li><strong>Tell the team.</strong> Make sure everyone knows who&#39;s joining and who&#39;s helping them settle in.</li>
+<li>Complete employment setup.</li>
+<li>Ship and configure equipment.</li>
+<li>Create required accounts.</li>
+<li>Prepare security access.</li>
+<li>Publish the first-week schedule.</li>
+<li>Assign the onboarding owner.</li>
+<li>Assign the buddy.</li>
+<li>Select the first task.</li>
+<li>Notify the team.</li>
+<li>Confirm manager availability.</li>
 </ul>
-<h2>Days 1–30: Orient and contribute</h2>
-<p>The goal of the first month is for the new hire to understand the landscape and ship something small.</p>
+<h3>New-hire communication</h3>
 <ul>
-<li><strong>Assign an onboarding buddy</strong> — a peer they can ask &quot;dumb&quot; questions without friction.</li>
-<li><strong>Ship a small change in the first week.</strong> A tiny, real PR builds confidence and proves the pipeline works end to end.</li>
-<li><strong>Document as they go.</strong> New eyes catch gaps in your docs — have them improve the onboarding guide for the next person.</li>
-<li><strong>Set clear, small goals.</strong> Early wins matter more than big ones.</li>
+<li>Confirm start date and time.</li>
+<li>Explain first-day access.</li>
+<li>Share equipment status.</li>
+<li>Introduce the manager and buddy.</li>
+<li>Provide optional context.</li>
+<li>Explain who to contact with questions.</li>
 </ul>
-<h2>Days 31–60: Build momentum</h2>
-<p>By the second month, they should be taking on real work with less hand-holding.</p>
+<h2>Day one</h2>
 <ul>
-<li>Give them <strong>ownership of a feature or area</strong>, with support available.</li>
-<li>Establish a <strong>regular 1:1</strong> to surface blockers and give feedback early.</li>
-<li>Introduce them to the <strong>wider context</strong> — how the team&#39;s work connects to the business and the users.</li>
+<li>Manager welcome</li>
+<li>Team introductions</li>
+<li>Company and product overview</li>
+<li>Role mission</li>
+<li>90-day plan</li>
+<li>Security setup</li>
+<li>Tool access</li>
+<li>Development-environment start</li>
+<li>Buddy check-in</li>
+<li>End-of-day support check</li>
 </ul>
-<h2>Days 61–90: Full contribution</h2>
-<p>By 90 days, a well-onboarded developer should be operating independently.</p>
+<h2>Week one</h2>
 <ul>
-<li>They should be <strong>shipping meaningful work</strong> at a normal cadence.</li>
-<li>They should understand the <strong>codebase, the team&#39;s norms, and the priorities</strong>.</li>
-<li>Run a <strong>check-in conversation</strong>: how&#39;s it going, what&#39;s unclear, what would make them more effective?</li>
+<li>Complete core setup.</li>
+<li>Review the primary product flow.</li>
+<li>Explore the relevant architecture.</li>
+<li>Begin a small real task.</li>
+<li>Open the first pull request.</li>
+<li>Learn code-review expectations.</li>
+<li>Review deployment and observability.</li>
+<li>Record documentation gaps.</li>
+<li>Hold the first manager one-to-one.</li>
+<li>Conduct the end-of-week review.</li>
 </ul>
-<h2>Common onboarding mistakes</h2>
+<h2>Days 8–30</h2>
 <ul>
-<li><strong>Throwing them in with no plan</strong> — sink-or-swim wastes talent and breeds resentment.</li>
-<li><strong>Overloading week one</strong> — pace the information; people can&#39;t absorb everything at once.</li>
-<li><strong>No feedback loop</strong> — silence makes new hires anxious. Tell them how they&#39;re doing.</li>
-<li><strong>Ignoring the human side</strong> — belonging matters as much as productivity.</li>
+<li>Complete several scoped contributions.</li>
+<li>Learn relevant customer workflows.</li>
+<li>Meet key stakeholders.</li>
+<li>Deepen codebase understanding.</li>
+<li>Participate in planning and review.</li>
+<li>Receive early feedback.</li>
+<li>Improve onboarding documentation.</li>
+<li>Define second-month ownership.</li>
+<li>Complete a 30-day review.</li>
 </ul>
-<h2>The takeaway</h2>
-<p>Onboarding is where hiring pays off — or doesn&#39;t. Prepare before day one, create early wins, ramp ownership deliberately over 90 days, and keep a tight feedback loop. Do that and your new hires become productive faster and stay far longer.</p>
-<p><em>Hiring your next developer? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and start with great candidates.</em></p>
+<h2>Days 31–60</h2>
+<ul>
+<li>Own a feature or technical area.</li>
+<li>Plan and communicate routine work.</li>
+<li>Join relevant production workflows.</li>
+<li>Collaborate across functions.</li>
+<li>Improve one team process or technical asset.</li>
+<li>Deepen product and business knowledge.</li>
+<li>Review progress around day 45.</li>
+<li>Define third-month goals.</li>
+<li>Complete a 60-day review.</li>
+</ul>
+<h2>Days 61–90</h2>
+<ul>
+<li>Deliver independently within the expected scope.</li>
+<li>Participate meaningfully in planning.</li>
+<li>Demonstrate sound routine judgment.</li>
+<li>Support relevant production responsibilities.</li>
+<li>Identify longer-term opportunities.</li>
+<li>Establish post-onboarding development goals.</li>
+<li>Complete the 90-day reflection.</li>
+<li>Hold the formal 90-day review.</li>
+<li>Celebrate progress.</li>
+</ul>
+<h1>A manager checklist</h1>
+<p>Before the start date:</p>
+<ul>
+<li>I understand why the role exists.</li>
+<li>I have defined 30-, 60-, and 90-day outcomes.</li>
+<li>I have chosen an appropriate first task.</li>
+<li>I have reserved time for onboarding.</li>
+<li>I have assigned a buddy.</li>
+<li>I have confirmed equipment and access.</li>
+<li>I have told the team who is joining.</li>
+<li>I have prepared role-specific context.</li>
+</ul>
+<p>During the first month:</p>
+<ul>
+<li>I meet with the developer regularly.</li>
+<li>I provide specific feedback.</li>
+<li>I remove blockers quickly.</li>
+<li>I check whether the pace is appropriate.</li>
+<li>I explain business context.</li>
+<li>I verify that questions are welcomed.</li>
+<li>I ask for feedback on onboarding.</li>
+</ul>
+<p>During months two and three:</p>
+<ul>
+<li>I increase ownership deliberately.</li>
+<li>I avoid withdrawing support too quickly.</li>
+<li>I clarify decision authority.</li>
+<li>I connect the developer with relevant stakeholders.</li>
+<li>I discuss long-term growth.</li>
+<li>I ensure the role matches what was promised.</li>
+<li>I document the next-stage plan.</li>
+</ul>
+<h1>An onboarding-buddy checklist</h1>
+<p>The buddy should:</p>
+<ul>
+<li>introduce themselves before or on day one;</li>
+<li>explain how they can help;</li>
+<li>meet regularly during the first weeks;</li>
+<li>answer routine questions without judgment;</li>
+<li>introduce useful teammates;</li>
+<li>explain communication norms;</li>
+<li>review the first task where appropriate;</li>
+<li>surface recurring blockers;</li>
+<li>share useful documentation;</li>
+<li>tell the onboarding owner when a systemic problem requires action.</li>
+</ul>
+<p>The buddy should not become responsible for:</p>
+<ul>
+<li>performance management;</li>
+<li>all technical training;</li>
+<li>resolving every access problem;</li>
+<li>replacing the manager;</li>
+<li>being available at all hours.</li>
+</ul>
+<h1>A new-developer checklist</h1>
+<p>During onboarding, the new developer can:</p>
+<ul>
+<li>review the 90-day plan;</li>
+<li>ask when expectations are unclear;</li>
+<li>record missing or outdated documentation;</li>
+<li>meet regularly with the buddy and manager;</li>
+<li>request context before making high-risk changes;</li>
+<li>communicate blockers early;</li>
+<li>verify assumptions;</li>
+<li>ask how decisions are documented;</li>
+<li>seek feedback;</li>
+<li>reflect on progress;</li>
+<li>identify areas they would like to own;</li>
+<li>explain any accommodation or support needs through the appropriate channel.</li>
+</ul>
+<p>This checklist should guide participation, not shift responsibility away from the company.</p>
+<h1>A practical 30-, 60-, and 90-day scorecard</h1>
+<h2>Day 30: foundation</h2>
+<h3>Product</h3>
+<ul>
+<li>Understands the main product and user journey.</li>
+<li>Can explain how the team contributes.</li>
+</ul>
+<h3>Technical</h3>
+<ul>
+<li>Can run the relevant system.</li>
+<li>Can navigate the primary repository.</li>
+<li>Has completed small contributions.</li>
+<li>Understands the development workflow.</li>
+</ul>
+<h3>Team</h3>
+<ul>
+<li>Knows key collaborators.</li>
+<li>Participates in routine communication.</li>
+<li>Knows where and how to ask for help.</li>
+</ul>
+<h3>Manager support</h3>
+<ul>
+<li>Has received specific feedback.</li>
+<li>Has clear second-month goals.</li>
+<li>Has no unresolved critical access blocker.</li>
+</ul>
+<h2>Day 60: ownership</h2>
+<h3>Product</h3>
+<ul>
+<li>Understands the business context of assigned work.</li>
+<li>Can identify relevant stakeholders.</li>
+</ul>
+<h3>Technical</h3>
+<ul>
+<li>Owns a scoped feature or component.</li>
+<li>Participates meaningfully in design and review.</li>
+<li>Understands relevant operational signals.</li>
+</ul>
+<h3>Team</h3>
+<ul>
+<li>Communicates progress and blockers.</li>
+<li>Collaborates across roles.</li>
+<li>Contributes to team improvement.</li>
+</ul>
+<h3>Manager support</h3>
+<ul>
+<li>Has received updated feedback.</li>
+<li>Understands the expected level of independence.</li>
+<li>Has clear third-month goals.</li>
+</ul>
+<h2>Day 90: contribution</h2>
+<h3>Product</h3>
+<ul>
+<li>Connects technical decisions to customer or business outcomes.</li>
+</ul>
+<h3>Technical</h3>
+<ul>
+<li>Delivers expected work with appropriate independence.</li>
+<li>Makes sound routine decisions.</li>
+<li>Understands relevant production responsibilities.</li>
+</ul>
+<h3>Team</h3>
+<ul>
+<li>Is a trusted collaborator.</li>
+<li>Participates in planning and feedback.</li>
+<li>Knows how to navigate uncertainty.</li>
+</ul>
+<h3>Growth</h3>
+<ul>
+<li>Understands performance expectations.</li>
+<li>Has a development plan.</li>
+<li>Has identified future ownership or learning goals.</li>
+</ul>
+<h1>Improving the onboarding system over time</h1>
+<p>Onboarding should be treated like a product.</p>
+<p>It has:</p>
+<ul>
+<li>users;</li>
+<li>workflows;</li>
+<li>friction;</li>
+<li>defects;</li>
+<li>documentation;</li>
+<li>outcomes;</li>
+<li>feedback.</li>
+</ul>
+<p>After every onboarding cycle, review:</p>
+<ul>
+<li>Which access was late?</li>
+<li>Which instructions were wrong?</li>
+<li>Which meeting added little value?</li>
+<li>Which task was too large or too small?</li>
+<li>Which explanation arrived at the wrong time?</li>
+<li>Where did the developer depend on tribal knowledge?</li>
+<li>Which person became an accidental bottleneck?</li>
+<li>Which part should be automated?</li>
+<li>What should be added to the template?</li>
+<li>What should be removed?</li>
+</ul>
+<p>Assign owners and deadlines to improvements.</p>
+<p>Do not collect the same feedback from every new hire without fixing the underlying problem.</p>
+<h1>The takeaway</h1>
+<p>Developer onboarding is not a week of setup followed by an expectation of immediate productivity.</p>
+<p>It is a structured process that helps a new teammate move through four stages:</p>
+<ol>
+<li><strong>Prepared arrival</strong></li>
+<li><strong>Safe learning</strong></li>
+<li><strong>Guided contribution</strong></li>
+<li><strong>Increasing ownership</strong></li>
+</ol>
+<p>A strong 90-day onboarding program:</p>
+<ul>
+<li>begins before day one;</li>
+<li>prepares equipment and access;</li>
+<li>gives the new hire a clear written plan;</li>
+<li>assigns a manager and buddy;</li>
+<li>explains the product and business;</li>
+<li>connects architecture to real work;</li>
+<li>creates an early meaningful contribution;</li>
+<li>introduces context gradually;</li>
+<li>provides regular feedback;</li>
+<li>increases ownership deliberately;</li>
+<li>supports accessibility and different working styles;</li>
+<li>measures friction without turning onboarding into a race;</li>
+<li>ends with clear long-term expectations and growth goals.</li>
+</ul>
+<p>The goal is not to make a developer fully understand an entire company within 90 days.</p>
+<p>The goal is to help them become a confident, informed, supported contributor who understands how to keep learning and where they can create lasting value.</p>
+<p>Great recruiting gets someone to accept the offer.</p>
+<p>Great onboarding helps them become successful after they arrive.</p>
+<p><em>Build your next engineering team with transparent roles and direct applications. <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, connect with qualified developers, and give every new hire an onboarding experience designed to help them win.</em></p>
 5:["locale","vi","d"]
 6:["slug","onboarding-new-developers-90-day-plan","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","vi","d"],{"children":["blog",{"children":[["slug","onboarding-new-developers-90-day-plan","d"],{"children":["__PAGE__?{\"locale\":\"vi\",\"slug\":\"onboarding-new-developers-90-day-plan\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","vi","d"],{"children":["blog",{"children":[["slug","onboarding-new-developers-90-day-plan","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win\",\"description\":\"Great hiring is wasted without great onboarding. A practical 90-day plan to get new developers productive, confident, and committed.\",\"datePublished\":\"2026-06-17T00:00:00.000Z\",\"inLanguage\":\"vi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win","date":"2026-06-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Great hiring is wasted without great onboarding. A practical 90-day plan to get new developers productive, confident, and committed."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win"}],["$","meta","15",{"property":"og:description","content":"Great hiring is wasted without great onboarding. A practical 90-day plan to get new developers productive, confident, and committed."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win"}],["$","meta","25",{"name":"twitter:description","content":"Great hiring is wasted without great onboarding. A practical 90-day plan to get new developers productive, confident, and committed."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","vi","d"],{"children":["blog",{"children":[["slug","onboarding-new-developers-90-day-plan","d"],{"children":["__PAGE__?{\"locale\":\"vi\",\"slug\":\"onboarding-new-developers-90-day-plan\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","vi","d"],{"children":["blog",{"children":[["slug","onboarding-new-developers-90-day-plan","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win\",\"description\":\"A practical 90-day developer onboarding plan covering preboarding, technical setup, early contributions, growing ownership, feedback, team integration, and long-term success.\",\"datePublished\":\"2026-06-17T00:00:00.000Z\",\"inLanguage\":\"vi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win","date":"2026-06-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":35,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical 90-day developer onboarding plan covering preboarding, technical setup, early contributions, growing ownership, feedback, team integration, and long-term success."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win"}],["$","meta","15",{"property":"og:description","content":"A practical 90-day developer onboarding plan covering preboarding, technical setup, early contributions, growing ownership, feedback, team integration, and long-term success."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Onboard a New Developer: A 90-Day Plan That Sets Them Up to Win"}],["$","meta","25",{"name":"twitter:description","content":"A practical 90-day developer onboarding plan covering preboarding, technical setup, early contributions, growing ownership, feedback, team integration, and long-term success."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

@@ -1,85 +1,423 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1ee5,<p>Take-home assignments are where a lot of strong candidates quietly lose offers — not because they can&#39;t code, but because they misjudge what&#39;s being evaluated. They over-build, they under-document, or they spend twelve hours on something that was meant to take three and still get rejected.</p>
-<p>The reviewer is not looking for the most feature-complete submission. They&#39;re looking for evidence you&#39;d be good to work with on a codebase they maintain.</p>
-<h2>Before you start: decide whether to do it</h2>
-<p>Not every take-home deserves your evenings. Reasonable ones state a time limit, describe what&#39;s being evaluated, arrive after you&#39;ve spoken to a human, and don&#39;t resemble work they&#39;d otherwise pay for.</p>
-<p>Push back, politely, when:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T36ff,<h1>How to Approach a Take-Home Coding Assignment</h1>
+<p>Take-home coding assignments are one of the most misunderstood parts of the software engineering interview process.</p>
+<p>Many developers believe they&#39;re competing to produce the biggest, most feature-rich submission. They&#39;re not.</p>
+<p>The companies that design good take-home assignments are trying to answer a much simpler question:</p>
+<blockquote>
+<p><strong>&quot;Would we enjoy maintaining code written by this person every day?&quot;</strong></p>
+</blockquote>
+<p>That&#39;s why developers who spend fifteen hours building a miniature SaaS application sometimes lose to candidates who spent three focused hours delivering a clean, well-documented solution.</p>
+<p>A take-home assignment isn&#39;t about proving you&#39;re the smartest engineer in the room.</p>
+<p>It&#39;s about proving you&#39;re someone other engineers want to work with.</p>
+<hr>
+<h1>What employers are really evaluating</h1>
+<p>Most reviewers care far more about your engineering process than the finished feature.</p>
+<p>They&#39;re looking for signals like:</p>
 <ul>
-<li><strong>There&#39;s no time limit</strong> — ask for one. &quot;Roughly how long should this take?&quot; is a fair question and the answer is informative.</li>
-<li><strong>It&#39;s clearly production work</strong> for their actual product. That&#39;s free labour and it&#39;s worth declining.</li>
-<li><strong>It&#39;s the first step</strong>, before any conversation. Asking for hours before you know anything about the role is a bad trade — ask for a call first.</li>
-<li><strong>It would take more than about four hours unpaid.</strong> Asking &quot;is there a shorter version, or could we pair instead?&quot; is entirely reasonable and often accepted.</li>
+<li>Can you understand requirements?</li>
+<li>Can you organize your work?</li>
+<li>Can you write maintainable code?</li>
+<li>Can you make reasonable trade-offs?</li>
+<li>Can you communicate your decisions?</li>
+<li>Can another engineer easily continue where you left off?</li>
 </ul>
-<p>Many companies offer a live pairing session as an alternative if you ask. If you interview better in conversation than in isolation, ask.</p>
-<p>Declining a genuinely unreasonable assignment rarely costs you a job worth having.</p>
-<h2>Scope it before you write anything</h2>
-<p>The most expensive mistake is starting to code immediately.</p>
+<p>Notice what&#39;s missing.</p>
+<p>Very few reviewers are impressed by unnecessary complexity.</p>
+<p>Good engineering is usually boring engineering.</p>
+<hr>
+<h1>Before you agree to the assignment</h1>
+<p>Not every take-home deserves your evenings.</p>
+<p>A healthy interview process usually looks like this:</p>
 <ul>
-<li><strong>Read the brief twice</strong> and list the explicit requirements. Build exactly those.</li>
-<li><strong>Note what they said they&#39;re evaluating.</strong> If the brief says &quot;we care about how you structure code and handle errors,&quot; then structure and error handling get your time, and styling gets none.</li>
-<li><strong>Ask clarifying questions.</strong> This is not cheating — it&#39;s the behaviour they want at work. A short, specific email (&quot;should the API handle concurrent updates to the same record, or is that out of scope?&quot;) is itself a positive signal.</li>
-<li><strong>Set a hard time budget</strong> and decide in advance what you&#39;ll cut. Deciding under time pressure at 11pm produces worse choices.</li>
+<li>Introductory conversation</li>
+<li>Technical discussion</li>
+<li>Take-home assignment (optional)</li>
+<li>Review discussion</li>
+<li>Final interviews</li>
 </ul>
-<h2>Build the boring things well</h2>
-<p>Reviewers form their impression from craft, not cleverness:</p>
+<p>If a company sends an assignment before you&#39;ve spoken to a single human being, that&#39;s worth questioning.</p>
+<p>A reasonable assignment should clearly explain:</p>
 <ul>
-<li><strong>Make it run first time.</strong> A clear setup command, tested on a clean machine. Nothing sours a review faster than a submission that won&#39;t start.</li>
-<li><strong>Structure it sensibly.</strong> Recognisable layout, obvious file names, no everything-in-one-file and no fifteen layers of abstraction for a small exercise.</li>
-<li><strong>Name things well.</strong> The cheapest quality signal available.</li>
-<li><strong>Handle errors and edge cases.</strong> Empty input, missing fields, failing network calls. This is where most submissions are thin and where you can easily stand out.</li>
-<li><strong>Write some tests.</strong> Not exhaustive coverage — tests for the things that actually matter, which demonstrates judgment about risk.</li>
-<li><strong>Commit in logical steps</strong> with clear messages. Reviewers often read the history, and one giant commit tells them nothing about how you work.</li>
+<li>expected completion time</li>
+<li>evaluation criteria</li>
+<li>submission format</li>
+<li>deadline</li>
+<li>whether AI tools are allowed</li>
+<li>who reviews it</li>
+<li>what happens afterward</li>
 </ul>
-<h2>Do not over-build</h2>
-<p>Gold-plating is the most common failure, and it reads as poor judgment rather than enthusiasm. If the brief asks for a small API, do not add authentication, a Docker Compose stack, a frontend, a caching layer, and CI.</p>
-<p>You&#39;ll be assessed on whether you did what was asked, at good quality, within the stated time. Someone who adds twenty hours of unrequested infrastructure has demonstrated they can&#39;t scope work — which is a real concern in a colleague.</p>
-<p>The correct outlet for extra ideas is the README.</p>
-<h2>The README is where you win</h2>
-<p>Most candidates submit code with a two-line README. This is the single biggest opportunity in the whole exercise, because it&#39;s where you get to explain your thinking — which is what they&#39;re actually trying to evaluate.</p>
-<p>Include:</p>
+<p>If any of those are missing, ask.</p>
+<p>Professional companies appreciate thoughtful questions.</p>
+<hr>
+<h1>Red flags worth declining</h1>
+<p>Sometimes saying &quot;no&quot; is the correct professional decision.</p>
+<p>Consider declining if:</p>
 <ul>
-<li><strong>How to run it.</strong> Exact commands, top of the file.</li>
-<li><strong>What you built</strong> and which requirements it covers.</li>
-<li><strong>Your key decisions and why</strong> — this library over that one, this structure, this data model. Two or three sentences each.</li>
-<li><strong>Assumptions you made</strong> where the brief was ambiguous.</li>
-<li><strong>What you deliberately left out</strong>, and why. &quot;I skipped auth because the brief scoped it out&quot; shows you read carefully.</li>
-<li><strong>What you&#39;d do with more time.</strong> Name the real weaknesses. Reviewers respect a candidate who identifies the same gaps they spotted; it demonstrates you have the standards even when the clock didn&#39;t allow them.</li>
-<li><strong>How long it took</strong>, honestly.</li>
+<li>The assignment is obviously production work.</li>
+<li>It would require building features they&#39;ll actually use.</li>
+<li>They expect six to ten hours of unpaid work.</li>
+<li>They refuse to estimate expected completion time.</li>
+<li>They reject every request for clarification.</li>
+<li>They won&#39;t explain how submissions are evaluated.</li>
+<li>The assignment arrives before any conversation.</li>
 </ul>
-<p>That section turns a submission from something they must evaluate into something you&#39;ve already explained. It&#39;s also indistinguishable from good professional practice, which is the point.</p>
-<h2>Using AI tools</h2>
-<p>Assume you&#39;re allowed unless told otherwise, and assume you&#39;ll be asked to explain everything you submit.</p>
-<p>The practical rule: <strong>never submit a line you couldn&#39;t defend or modify on a call.</strong> Most companies now debrief take-homes live, and the failure mode they&#39;re screening for is exactly the candidate who can&#39;t explain their own architecture. Use the tools the way you would at work — then read, understand, and take ownership of the result.</p>
-<p>If the brief asks you not to use them, respect that and say what you did.</p>
-<h2>Prepare for the debrief</h2>
-<p>Most processes follow the submission with a conversation. Prepare for it as seriously as the code:</p>
+<p>Good companies respect candidates&#39; time.</p>
+<p>Bad companies usually reveal themselves here.</p>
+<hr>
+<h1>Clarify requirements before writing code</h1>
+<p>One of the strongest engineering habits is asking questions before implementation.</p>
+<p>Many developers worry this looks weak.</p>
+<p>It actually demonstrates maturity.</p>
+<p>Good clarification questions include:</p>
 <ul>
-<li>Be able to <strong>justify every significant decision</strong>.</li>
-<li>Know <strong>where it&#39;s weak</strong> and say so before they ask.</li>
-<li>Be ready to <strong>change a requirement live</strong> — &quot;how would you handle a hundred times the data?&quot; is a near-certain question.</li>
-<li>Be ready to <strong>extend it</strong> in a pairing session.</li>
+<li>What assumptions can I make?</li>
+<li>Is authentication intentionally omitted?</li>
+<li>Should persistence survive restarts?</li>
+<li>What browsers are supported?</li>
+<li>Should I optimize for readability or scalability?</li>
+<li>Is accessibility expected?</li>
+<li>Are tests required?</li>
+<li>Can external libraries be used?</li>
 </ul>
-<p>Candidates who are honest about limitations consistently outperform those who defend everything.</p>
-<h2>Small things that matter</h2>
+<p>Professional engineers reduce uncertainty before building.</p>
+<p>Interviewers notice.</p>
+<hr>
+<h1>Plan before you code</h1>
+<p>Don&#39;t immediately open your editor.</p>
+<p>Spend 15–30 minutes thinking.</p>
+<p>Sketch:</p>
 <ul>
-<li><strong>Submit on time</strong>, or say early if you need longer. Silence past a deadline is its own signal.</li>
-<li><strong>Don&#39;t publish it publicly</strong> if the company asked you not to — and consider not doing so anyway, since future candidates will find it.</li>
-<li><strong>Include the time you spent</strong> and don&#39;t inflate or deflate it.</li>
-<li><strong>Ask for feedback</strong> if you&#39;re rejected. Many companies give it, and it&#39;s the most useful information you&#39;ll get all search.</li>
+<li>application architecture</li>
+<li>project structure</li>
+<li>API endpoints</li>
+<li>data model</li>
+<li>component hierarchy</li>
+<li>error handling</li>
+<li>validation strategy</li>
+<li>testing plan</li>
 </ul>
-<h2>The takeaway</h2>
-<p>A take-home tests judgment more than skill. Scope it to exactly what was asked, build the unglamorous parts well, resist adding anything unrequested, and put your real thinking in the README — decisions, assumptions, known weaknesses. Be able to defend every line in the debrief. And treat an unreasonable assignment as information about the company, not an obstacle you&#39;re obliged to clear.</p>
-<p><em>Ready for your next interview? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a> and apply directly to companies.</em></p>
+<p>A simple plan saves hours later.</p>
+<hr>
+<h1>Time-box your work</h1>
+<p>The fastest way to hurt your interview performance is to lose control of scope.</p>
+<p>If the company says:</p>
+<blockquote>
+<p>&quot;This should take about three hours.&quot;</p>
+</blockquote>
+<p>Believe them.</p>
+<p>Create your own schedule.</p>
+<p>Example:</p>
+<ul>
+<li><strong>30 minutes</strong> — read requirements and plan</li>
+<li><strong>90 minutes</strong> — implement core functionality</li>
+<li><strong>30 minutes</strong> — testing</li>
+<li><strong>20 minutes</strong> — README</li>
+<li><strong>10 minutes</strong> — cleanup</li>
+<li><strong>remaining time</strong> — polishing</li>
+</ul>
+<p>When time expires...</p>
+<p>Stop.</p>
+<p>Professional engineers work within constraints.</p>
+<hr>
+<h1>Build the fundamentals exceptionally well</h1>
+<p>Most submissions fail because candidates chase advanced features while neglecting basics.</p>
+<p>Instead focus on:</p>
+<h2>Project organization</h2>
+<p>Use a clean folder structure.</p>
+<p>Separate responsibilities logically.</p>
+<p>Avoid dumping everything into one file.</p>
+<hr>
+<h2>Naming</h2>
+<p>Good names reduce the need for comments.</p>
+<p>Prefer:</p>
+<ul>
+<li><code>fetchUsers()</code></li>
+<li><code>calculateTotal()</code></li>
+<li><code>UserRepository</code></li>
+</ul>
+<p>Over:</p>
+<ul>
+<li><code>getStuff()</code></li>
+<li><code>process()</code></li>
+<li><code>Helper</code></li>
+</ul>
+<p>Naming is one of the strongest indicators of engineering maturity.</p>
+<hr>
+<h2>Error handling</h2>
+<p>Don&#39;t assume happy paths.</p>
+<p>Handle:</p>
+<ul>
+<li>invalid input</li>
+<li>empty responses</li>
+<li>failed API requests</li>
+<li>malformed JSON</li>
+<li>missing environment variables</li>
+<li>unexpected exceptions</li>
+</ul>
+<p>Interviewers actively look for this.</p>
+<hr>
+<h2>Validation</h2>
+<p>Validate incoming data.</p>
+<p>Don&#39;t trust user input.</p>
+<p>Return useful errors.</p>
+<hr>
+<h2>Logging</h2>
+<p>If appropriate, log useful information.</p>
+<p>Avoid excessive console output.</p>
+<hr>
+<h2>Configuration</h2>
+<p>Don&#39;t hardcode secrets.</p>
+<p>Use environment variables.</p>
+<p>Provide an <code>.env.example</code>.</p>
+<hr>
+<h2>Code consistency</h2>
+<p>Be consistent with:</p>
+<ul>
+<li>formatting</li>
+<li>spacing</li>
+<li>naming</li>
+<li>folder layout</li>
+<li>imports</li>
+</ul>
+<p>Consistency improves readability more than cleverness.</p>
+<hr>
+<h1>Write meaningful tests</h1>
+<p>Interviewers rarely expect 100% coverage.</p>
+<p>Instead they want evidence that you know what deserves testing.</p>
+<p>Good candidates test:</p>
+<ul>
+<li>business logic</li>
+<li>edge cases</li>
+<li>validation</li>
+<li>failure scenarios</li>
+</ul>
+<p>They don&#39;t waste time snapshot-testing everything.</p>
+<p>Quality beats quantity.</p>
+<hr>
+<h1>Git history matters</h1>
+<p>Many reviewers inspect commits.</p>
+<p>Avoid:</p>
+<pre><code>Initial commit
+stuff
+updates
+final
+really final
+</code></pre>
+<p>Prefer:</p>
+<pre><code>Initialize project structure
+
+Implement REST API endpoints
+
+Add validation and error handling
+
+Write unit tests
+
+Improve README
+</code></pre>
+<p>A clean commit history demonstrates how you work on real teams.</p>
+<hr>
+<h1>Don&#39;t over-engineer</h1>
+<p>The biggest mistake candidates make is adding things nobody requested.</p>
+<p>Avoid unnecessary:</p>
+<ul>
+<li>Docker clusters</li>
+<li>Kubernetes manifests</li>
+<li>Redis</li>
+<li>GraphQL</li>
+<li>authentication</li>
+<li>microservices</li>
+<li>CQRS</li>
+<li>event sourcing</li>
+<li>caching</li>
+<li>message queues</li>
+</ul>
+<p>unless they&#39;re explicitly part of the assignment.</p>
+<p>The assignment measures judgment.</p>
+<p>Adding complexity unnecessarily is poor judgment.</p>
+<hr>
+<h1>Your README is part of the interview</h1>
+<p>Many developers spend hours coding...</p>
+<p>...and five minutes writing documentation.</p>
+<p>That&#39;s backwards.</p>
+<p>A great README should include:</p>
+<h2>Project overview</h2>
+<p>Explain what the application does.</p>
+<hr>
+<h2>Features completed</h2>
+<p>Reference requirements directly.</p>
+<p>For example:</p>
+<ul>
+<li>✅ User authentication</li>
+<li>✅ REST API</li>
+<li>✅ Search</li>
+<li>✅ Pagination</li>
+</ul>
+<hr>
+<h2>Setup instructions</h2>
+<p>Include exact commands.</p>
+<pre><code class="language-bash">npm install
+npm run dev
+</code></pre>
+<p>Don&#39;t make reviewers guess.</p>
+<hr>
+<h2>Technical decisions</h2>
+<p>Explain choices like:</p>
+<ul>
+<li>Why this framework?</li>
+<li>Why this architecture?</li>
+<li>Why this database?</li>
+<li>Why this state management?</li>
+</ul>
+<p>Interviewers care about reasoning.</p>
+<hr>
+<h2>Assumptions</h2>
+<p>State assumptions clearly.</p>
+<p>Example:</p>
+<blockquote>
+<p>&quot;I assumed usernames are unique because the requirements didn&#39;t specify otherwise.&quot;</p>
+</blockquote>
+<hr>
+<h2>Trade-offs</h2>
+<p>Discuss what you intentionally didn&#39;t implement.</p>
+<p>Example:</p>
+<blockquote>
+<p>&quot;I omitted authentication because the assignment focused on CRUD functionality.&quot;</p>
+</blockquote>
+<hr>
+<h2>Future improvements</h2>
+<p>Show that you know how the project could evolve.</p>
+<p>Examples:</p>
+<ul>
+<li>caching</li>
+<li>optimistic updates</li>
+<li>pagination</li>
+<li>monitoring</li>
+<li>accessibility improvements</li>
+<li>performance optimizations</li>
+</ul>
+<hr>
+<h2>Time spent</h2>
+<p>Be honest.</p>
+<p>For example:</p>
+<blockquote>
+<p>Approximately 3 hours 20 minutes.</p>
+</blockquote>
+<hr>
+<h1>Use AI responsibly</h1>
+<p>AI tools have become part of professional software development.</p>
+<p>Many companies expect candidates to use them.</p>
+<p>The important question isn&#39;t:</p>
+<blockquote>
+<p>&quot;Did you use AI?&quot;</p>
+</blockquote>
+<p>It&#39;s:</p>
+<blockquote>
+<p>&quot;Do you understand what you submitted?&quot;</p>
+</blockquote>
+<p>Never submit code you cannot:</p>
+<ul>
+<li>explain</li>
+<li>debug</li>
+<li>modify</li>
+<li>defend</li>
+</ul>
+<p>During the review interview you&#39;ll often hear:</p>
+<blockquote>
+<p>&quot;Walk me through this function.&quot;</p>
+</blockquote>
+<p>or</p>
+<blockquote>
+<p>&quot;Why did you choose this approach?&quot;</p>
+</blockquote>
+<p>If AI wrote part of the solution, make sure <strong>you</strong> understand every line.</p>
+<hr>
+<h1>Prepare for the walkthrough</h1>
+<p>Many companies review the submission live.</p>
+<p>Expect questions like:</p>
+<ul>
+<li>Why did you organize the project this way?</li>
+<li>Why this framework?</li>
+<li>Why this database?</li>
+<li>What would you improve?</li>
+<li>What was the hardest part?</li>
+<li>How would this scale?</li>
+<li>What if requirements changed?</li>
+<li>How would you secure this?</li>
+<li>What would you refactor first?</li>
+</ul>
+<p>Think through your answers beforehand.</p>
+<hr>
+<h1>Resume tips: showcasing take-home assignments</h1>
+<p>If a take-home assignment demonstrates work you&#39;re proud of and you&#39;re permitted to share it, it can strengthen your portfolio and résumé.</p>
+<p>You might include:</p>
+<ul>
+<li>Personal portfolio website</li>
+<li>GitHub repository (if allowed)</li>
+<li>Technical blog post explaining your approach</li>
+<li>Architecture diagrams</li>
+<li>Lessons learned from the exercise</li>
+</ul>
+<p>On your résumé, describe the engineering work rather than simply listing &quot;completed coding challenge.&quot;</p>
+<p>For example:</p>
+<ul>
+<li>Designed and implemented a RESTful API with comprehensive validation and unit tests.</li>
+<li>Built a responsive React application following component-based architecture.</li>
+<li>Documented architectural decisions and trade-offs through professional project documentation.</li>
+<li>Implemented automated testing, error handling, and clean project organization following industry best practices.</li>
+</ul>
+<p>These descriptions demonstrate practical engineering skills that employers value.</p>
+<hr>
+<h1>Common mistakes</h1>
+<p>Avoid these frequent errors:</p>
+<ul>
+<li>Ignoring parts of the requirements</li>
+<li>Over-engineering simple problems</li>
+<li>No README</li>
+<li>No tests</li>
+<li>Poor folder organization</li>
+<li>Giant single-file solutions</li>
+<li>Hardcoded secrets</li>
+<li>Missing setup instructions</li>
+<li>Untested code</li>
+<li>No error handling</li>
+<li>Last-minute rushed submission</li>
+<li>Missing the deadline without communicating</li>
+<li>Being unable to explain your own implementation</li>
+</ul>
+<p>None of these require extraordinary skill to avoid.</p>
+<p>They simply require discipline.</p>
+<hr>
+<h1>What reviewers remember</h1>
+<p>Weeks after reviewing dozens of assignments, interviewers rarely remember who wrote the cleverest algorithm.</p>
+<p>They remember candidates who:</p>
+<ul>
+<li>communicated clearly</li>
+<li>made thoughtful trade-offs</li>
+<li>wrote readable code</li>
+<li>documented assumptions</li>
+<li>handled errors gracefully</li>
+<li>respected the assignment scope</li>
+<li>accepted feedback professionally</li>
+</ul>
+<p>Those are the qualities that make excellent teammates.</p>
+<hr>
+<h1>The takeaway</h1>
+<p>A take-home coding assignment isn&#39;t a contest to build the largest project.</p>
+<p>It&#39;s an opportunity to demonstrate how you think, how you communicate, and how you approach real engineering work under realistic constraints.</p>
+<p>Read the requirements carefully, ask questions early, plan before you code, build the fundamentals well, write clear documentation, and be prepared to explain every significant decision you made.</p>
+<p>Companies don&#39;t just hire developers who can write code—they hire developers whose code is understandable, maintainable, and enjoyable for the rest of the team to build upon.</p>
+<hr>
+<p><strong>Ready for your next software engineering opportunity?</strong> Create your free <strong>JobsList.dev</strong> profile, showcase your projects, and apply directly to companies looking for developers who demonstrate real engineering skills—not just interview performance.</p>
 5:["locale","es","d"]
 6:["slug","how-to-do-a-take-home-assignment","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","es","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__?{\"locale\":\"es\",\"slug\":\"how-to-do-a-take-home-assignment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","es","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Approach a Take-Home Coding Assignment\",\"description\":\"For developers: how to scope, build, and document a take-home so it stands out — plus when a take-home is a red flag worth declining.\",\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"es\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Approach a Take-Home Coding Assignment","date":"2026-07-11T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":6,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Approach a Take-Home Coding Assignment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For developers: how to scope, build, and document a take-home so it stands out — plus when a take-home is a red flag worth declining."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","15",{"property":"og:description","content":"For developers: how to scope, build, and document a take-home so it stands out — plus when a take-home is a red flag worth declining."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","25",{"name":"twitter:description","content":"For developers: how to scope, build, and document a take-home so it stands out — plus when a take-home is a red flag worth declining."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","es","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__?{\"locale\":\"es\",\"slug\":\"how-to-do-a-take-home-assignment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","es","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Approach a Take-Home Coding Assignment\",\"description\":\"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers.\",\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"es\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Approach a Take-Home Coding Assignment","date":"2026-07-11T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":8,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Approach a Take-Home Coding Assignment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","15",{"property":"og:description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","25",{"name":"twitter:description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

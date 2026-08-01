@@ -1,35 +1,1020 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1085,<p>If a company invited you to complete an assessment on JobsList.dev, welcome — and take a breath. We know &quot;assessment&quot; can sound stressful, so we deliberately built ours to be the opposite: calm, respectful, and focused on giving you a fair chance to show what you can do. This is a quick, honest walkthrough of exactly what to expect, so nothing about the format surprises you.</p>
-<h2>No account, no sign-up</h2>
-<p>You don&#39;t need to create an account to take an assessment. The company sends you a personal, one-time link by email — you click it and you&#39;re in. Your link is yours alone and expires after a while, so take the assessment on a device and at a time that works for you, within the window given.</p>
-<h2>One question at a time, full screen</h2>
-<p>Instead of an intimidating wall of questions, you&#39;ll see <strong>one question per screen</strong>, front and center — a bit like Typeform. No clutter, no sidebars, no distractions. A small progress indicator shows how far along you are. It&#39;s designed to let you focus on one thing at a time.</p>
-<h2>You can change your mind</h2>
-<p>This is important: <strong>you can move backward and forward freely and change any answer</strong> right up until you submit. Nothing is locked in as you go. Answer in whatever order you like, skip and come back, revise something you reconsidered. The test only finalizes when <em>you</em> choose to submit.</p>
-<h2>Your answers save themselves</h2>
-<p>Every change you make is <strong>saved automatically</strong> the moment you make it. You don&#39;t need to hit &quot;save,&quot; and you can&#39;t lose work by clicking around. If your laptop crashes, your browser restarts, or your Wi-Fi drops mid-question, just reopen your link — you&#39;ll <strong>resume exactly where you were</strong>, with your answers intact and your time accounted for fairly. No progress lost, no starting over.</p>
-<h2>A calm, honest timer</h2>
-<p>There&#39;s a time limit, and the time remaining is <strong>always visible</strong> — but we don&#39;t dramatize it. No flashing red, no scary countdown in the last minute, no panic design. It&#39;s just there, quietly, so you can pace yourself. The clock is fair and consistent for everyone.</p>
-<h2>Keyboard-friendly and accessible</h2>
-<p>You can drive the whole thing from the keyboard — number keys to pick options, Enter to advance — or use your mouse or touchscreen, whatever you prefer. It&#39;s built to work with screen readers and keyboard navigation, with clear focus and readable contrast. The format shouldn&#39;t be the hard part; the questions are.</p>
-<h2>No webcam, no monitoring</h2>
-<p>We do <strong>not</strong> use webcam proctoring, screen recording, or lockdown browsers. We won&#39;t watch you, and you won&#39;t see threatening warnings about being monitored. (There&#39;s a whole separate article on <em>why</em> — the short version is that surveillance is both disrespectful and not even effective.) You can take the assessment in your own space, comfortably, like the adult professional you are.</p>
-<h2>What the questions are like</h2>
-<p>The questions are about <strong>judgment and understanding</strong>, not obscure trivia. Depending on the role, you might read a snippet of code and say what it does, diagnose why something is broken, weigh two designs against each other, or think through a realistic scenario. There aren&#39;t trick questions designed to trip you up, and guessing is never penalized — an unanswered question just scores zero, and there&#39;s no negative marking anywhere.</p>
-<h2>When you&#39;re done</h2>
-<p>When you submit, that&#39;s it — you&#39;re finished. Afterward you&#39;ll have the option to <strong>claim a free JobsList profile to keep your score</strong> and continue with us if you&#39;d like (more on that in a separate article). No pressure; it&#39;s there if it&#39;s useful to you.</p>
-<h2>In short</h2>
-<p>Click your link, take your time, answer one calm question at a time, change your mind as often as you like, and trust that your work is saving itself. We built this to be a fair, low-stress way to show a company what you can actually do. Good luck — you&#39;ve got this.</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Ta0ce,<p>If a company invited you to complete an assessment on JobsList.dev, welcome.</p>
+<p>Take a breath.</p>
+<p>We know the word “assessment” can make even experienced developers uneasy. You may be wondering:</p>
+<ul>
+<li>Will I need to install anything?</li>
+<li>Is my webcam going to turn on?</li>
+<li>Can I go back to an earlier question?</li>
+<li>What happens if my internet connection drops?</li>
+<li>Will I be penalized for guessing?</li>
+<li>Do I need to create an account?</li>
+<li>Can I use documentation or other tools?</li>
+<li>What happens after I submit?</li>
+<li>Will the company see everything I did?</li>
+<li>Can I keep my result?</li>
+</ul>
+<p>JobsList.dev assessments are designed to be calm, clear, and respectful of your time.</p>
+<p>The goal is not to catch you making a mistake.</p>
+<p>The goal is to give you a fair opportunity to demonstrate how you think, what you understand, and how you approach problems relevant to the role.</p>
+<p>This guide explains exactly what to expect before, during, and after your assessment.</p>
+<h1>The short version</h1>
+<p>When you take a JobsList.dev assessment:</p>
+<ul>
+<li>You can enter through a personal invitation link.</li>
+<li>You do not need to create an account before starting.</li>
+<li>You see one question at a time.</li>
+<li>You can move backward and forward before submitting.</li>
+<li>You can revise answers freely.</li>
+<li>Your work saves automatically.</li>
+<li>You can resume after many ordinary interruptions.</li>
+<li>A visible timer helps you pace yourself.</li>
+<li>There is no negative marking.</li>
+<li>There is no webcam monitoring.</li>
+<li>There is no screen recording.</li>
+<li>There is no microphone recording.</li>
+<li>There is no biometric analysis.</li>
+<li>There is no lockdown browser.</li>
+<li>The questions focus on role-relevant reasoning rather than obscure trivia.</li>
+<li>After submission, you may be able to claim a free JobsList.dev profile and keep your result.</li>
+</ul>
+<p>The assessment is intended to evaluate your work—not your room, appearance, résumé pedigree, or ability to remain perfectly still in front of a camera.</p>
+<h1>Why the company invited you</h1>
+<p>A company may use a JobsList.dev assessment to learn more than a résumé can show.</p>
+<p>A résumé can describe:</p>
+<ul>
+<li>previous employers;</li>
+<li>job titles;</li>
+<li>technologies;</li>
+<li>projects;</li>
+<li>years of experience;</li>
+<li>education;</li>
+<li>accomplishments.</li>
+</ul>
+<p>An assessment gives you another way to demonstrate:</p>
+<ul>
+<li>technical understanding;</li>
+<li>code comprehension;</li>
+<li>debugging ability;</li>
+<li>role-specific judgment;</li>
+<li>problem-solving;</li>
+<li>trade-off reasoning;</li>
+<li>security awareness;</li>
+<li>data or systems knowledge;</li>
+<li>communication;</li>
+<li>practical decision-making.</li>
+</ul>
+<p>This can be especially valuable when your background is unconventional.</p>
+<p>You may be:</p>
+<ul>
+<li>self-taught;</li>
+<li>changing careers;</li>
+<li>returning after a career break;</li>
+<li>applying for your first developer job;</li>
+<li>moving into a new specialty;</li>
+<li>coming from a smaller company;</li>
+<li>unable to share your strongest professional code publicly;</li>
+<li>stronger in practice than on paper.</li>
+</ul>
+<p>The assessment gives you an opportunity to add demonstrated evidence to your application.</p>
+<h1>Before you begin</h1>
+<p>Your invitation should provide the information needed to access the assessment.</p>
+<p>Before starting, review:</p>
+<ul>
+<li>the assessment deadline;</li>
+<li>the expected duration;</li>
+<li>the role or skill area;</li>
+<li>any instructions about permitted resources;</li>
+<li>whether the company has described its next steps;</li>
+<li>the email address or support route for technical issues.</li>
+</ul>
+<p>Choose a time when you can work with reasonable focus.</p>
+<p>You do not need a perfect testing environment, but a few practical preparations can help.</p>
+<h1>Candidate preparation checklist</h1>
+<p>Before opening the assessment:</p>
+<ul>
+<li>Use a laptop or desktop when possible.</li>
+<li>Charge the device or connect it to power.</li>
+<li>Check your internet connection.</li>
+<li>Close unrelated applications.</li>
+<li>Enable Do Not Disturb when useful.</li>
+<li>Silence unnecessary notifications.</li>
+<li>Keep water nearby.</li>
+<li>Confirm that you have enough uninterrupted time.</li>
+<li>Read the rules for documentation, calculators, editors, search, or AI tools.</li>
+<li>Request an accommodation before starting when needed.</li>
+<li>Keep the invitation email available in case you must reopen the link.</li>
+</ul>
+<p>You do not need to study your entire field again before beginning.</p>
+<p>A well-designed assessment measures understanding and judgment more than last-minute memorization.</p>
+<h1>No account is required before you start</h1>
+<p>You may be able to complete the assessment through a personal invitation link without first creating a JobsList.dev account.</p>
+<p>The company sends the invitation to the email address associated with your candidacy.</p>
+<p>Your link is intended for you.</p>
+<p>Do not:</p>
+<ul>
+<li>post it publicly;</li>
+<li>forward it to another person;</li>
+<li>share it in a group chat;</li>
+<li>publish screenshots of protected questions;</li>
+<li>allow someone else to complete the assessment through your invitation.</li>
+</ul>
+<p>The link may expire after the company’s assessment window closes.</p>
+<p>Complete it within the stated deadline.</p>
+<h1>Verify that the invitation is legitimate</h1>
+<p>Be cautious with unexpected hiring messages.</p>
+<p>A legitimate assessment invitation should not ask you to:</p>
+<ul>
+<li>pay a fee;</li>
+<li>send cryptocurrency;</li>
+<li>share your banking password;</li>
+<li>provide a one-time security code to a recruiter;</li>
+<li>install unrelated remote-access software;</li>
+<li>reveal your email password;</li>
+<li>send sensitive financial credentials.</li>
+</ul>
+<p>When something looks suspicious, verify the invitation through the company’s official contact channel before proceeding.</p>
+<h1>One question at a time</h1>
+<p>JobsList.dev assessments present one question per screen.</p>
+<p>This helps reduce clutter and lets you focus on the current problem without facing a long wall of text and controls.</p>
+<p>Depending on the assessment, a question may contain:</p>
+<ul>
+<li>a technical scenario;</li>
+<li>a code snippet;</li>
+<li>a diagram;</li>
+<li>a bug report;</li>
+<li>a design decision;</li>
+<li>a set of possible answers;</li>
+<li>a short written-response field;</li>
+<li>a ranking or multiple-selection task.</li>
+</ul>
+<p>A progress indicator helps you understand how much of the assessment remains.</p>
+<h1>You can move backward and forward</h1>
+<p>Before final submission, you can navigate through the assessment and revisit earlier questions.</p>
+<p>That means you can:</p>
+<ul>
+<li>answer a question;</li>
+<li>move to the next one;</li>
+<li>return later;</li>
+<li>reconsider your choice;</li>
+<li>correct an accidental selection;</li>
+<li>revise a written response;</li>
+<li>skip a difficult question temporarily.</li>
+</ul>
+<p>Your answers are not permanently locked merely because you moved forward.</p>
+<p>The assessment becomes final when you submit it.</p>
+<h1>Use two passes when helpful</h1>
+<p>A simple strategy is:</p>
+<h2>First pass</h2>
+<ul>
+<li>Answer questions you understand quickly.</li>
+<li>Make a reasonable choice when you are moderately confident.</li>
+<li>Avoid spending too long on one difficult problem.</li>
+<li>Move forward to see the rest of the assessment.</li>
+</ul>
+<h2>Second pass</h2>
+<ul>
+<li>Return to difficult questions.</li>
+<li>Recheck wording.</li>
+<li>Review code carefully.</li>
+<li>Compare close answer choices.</li>
+<li>Complete anything you skipped.</li>
+<li>Confirm that every intended answer is selected.</li>
+</ul>
+<p>This approach prevents one difficult question from consuming time you could use elsewhere.</p>
+<h1>Your answers save automatically</h1>
+<p>Your work is saved as you interact with the assessment.</p>
+<p>You should not need to press a separate Save button after every question.</p>
+<p>Autosave helps protect you from:</p>
+<ul>
+<li>accidental refreshes;</li>
+<li>browser crashes;</li>
+<li>brief connection problems;</li>
+<li>navigation mistakes;</li>
+<li>device interruptions.</li>
+</ul>
+<p>Wait for the successful submission confirmation before closing the final page.</p>
+<p>Autosave protects progress while you work. Final submission confirms that you are finished.</p>
+<h1>What happens if your internet connection drops?</h1>
+<p>Do not panic.</p>
+<p>When your connection returns:</p>
+<ol>
+<li>Reopen the assessment link.</li>
+<li>Follow any resume instructions shown.</li>
+<li>Check that your previous answers are present.</li>
+<li>Continue from the appropriate question.</li>
+</ol>
+<p>When you cannot resume or something appears incorrect:</p>
+<ul>
+<li>take a screenshot of the error when possible;</li>
+<li>note the approximate time;</li>
+<li>contact the support route or company representative;</li>
+<li>explain the problem briefly and factually.</li>
+</ul>
+<p>Do not create another account or attempt unless instructed.</p>
+<h1>What happens if your browser crashes?</h1>
+<p>Reopen the browser and return through the invitation link.</p>
+<p>Your saved progress may allow you to continue without starting over.</p>
+<p>When the system does not behave as expected, contact support rather than repeatedly opening new sessions.</p>
+<h1>What happens if your computer restarts?</h1>
+<p>Use the original invitation link after the device restarts.</p>
+<p>Confirm that:</p>
+<ul>
+<li>the assessment recognizes your attempt;</li>
+<li>your saved answers appear;</li>
+<li>the timer or attempt status is correct.</li>
+</ul>
+<p>Report any inconsistency promptly.</p>
+<h1>The timer is visible</h1>
+<p>Assessments may have a defined time limit.</p>
+<p>The remaining time is visible so you can pace yourself.</p>
+<p>The timer is intended to provide clarity—not manufacture panic.</p>
+<p>You should not expect:</p>
+<ul>
+<li>dramatic alarms;</li>
+<li>flashing warnings throughout the assessment;</li>
+<li>a hostile visual countdown;</li>
+<li>punishment for not finishing unusually quickly.</li>
+</ul>
+<p>Use the timer as a planning tool.</p>
+<h1>How to pace yourself</h1>
+<p>Suppose an assessment contains 30 questions and provides 45 minutes.</p>
+<p>A rough average would be 90 seconds per question, but not every question requires the same amount of time.</p>
+<p>A better approach is:</p>
+<ul>
+<li>answer straightforward questions efficiently;</li>
+<li>allow more time for code or scenario analysis;</li>
+<li>skip temporarily when stuck;</li>
+<li>reserve several minutes for review.</li>
+</ul>
+<p>Do not spend ten minutes trying to perfect one answer while leaving several easier questions untouched.</p>
+<h1>Read every question fully</h1>
+<p>Many assessment mistakes come from misreading rather than lack of knowledge.</p>
+<p>Pay close attention to words such as:</p>
+<ul>
+<li>best;</li>
+<li>first;</li>
+<li>most likely;</li>
+<li>least appropriate;</li>
+<li>not;</li>
+<li>except;</li>
+<li>immediate;</li>
+<li>safest;</li>
+<li>primary;</li>
+<li>under these constraints.</li>
+</ul>
+<p>A question may contain several technically possible choices but ask for the best one under the stated conditions.</p>
+<p>Read the entire scenario before deciding.</p>
+<h1>What the questions are designed to measure</h1>
+<p>The assessment depends on the role, but JobsList.dev questions emphasize understanding and professional judgment.</p>
+<p>You may be asked to:</p>
+<ul>
+<li>read code and determine what it does;</li>
+<li>identify the cause of a bug;</li>
+<li>choose the safest response to a failure;</li>
+<li>reason about a database schema;</li>
+<li>compare architecture options;</li>
+<li>recognize a security problem;</li>
+<li>choose an appropriate testing strategy;</li>
+<li>interpret logs or system behavior;</li>
+<li>evaluate frontend accessibility;</li>
+<li>reason about mobile lifecycle behavior;</li>
+<li>prioritize incident actions;</li>
+<li>handle a management scenario.</li>
+</ul>
+<p>These formats are intended to resemble the thinking required in real work.</p>
+<h1>Examples by role</h1>
+<h1>Frontend assessments</h1>
+<p>You may encounter questions involving:</p>
+<ul>
+<li>JavaScript or TypeScript behavior;</li>
+<li>semantic HTML;</li>
+<li>CSS layout;</li>
+<li>browser rendering;</li>
+<li>accessibility;</li>
+<li>keyboard navigation;</li>
+<li>state management;</li>
+<li>performance;</li>
+<li>interface testing;</li>
+<li>network failure.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>A clickable control is implemented with a <code>div</code> and works with a mouse but not a keyboard. What is the most appropriate first change?</p>
+</blockquote>
+<p>This evaluates accessibility and browser fundamentals rather than memorizing an obscure framework API.</p>
+<h1>Backend assessments</h1>
+<p>You may encounter:</p>
+<ul>
+<li>API design;</li>
+<li>validation;</li>
+<li>transactions;</li>
+<li>indexing;</li>
+<li>authorization;</li>
+<li>concurrency;</li>
+<li>idempotency;</li>
+<li>queues;</li>
+<li>caching;</li>
+<li>debugging;</li>
+<li>production reliability.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>A client retries a payment request after a timeout and duplicate charges appear. Which control most directly protects the operation?</p>
+</blockquote>
+<p>This tests failure awareness and data correctness.</p>
+<h1>Full-stack assessments</h1>
+<p>You may reason about:</p>
+<ul>
+<li>client-server boundaries;</li>
+<li>API contracts;</li>
+<li>state ownership;</li>
+<li>error handling;</li>
+<li>validation;</li>
+<li>integration testing;</li>
+<li>data flow;</li>
+<li>performance across the request path.</li>
+</ul>
+<h1>Mobile assessments</h1>
+<p>You may encounter:</p>
+<ul>
+<li>application lifecycle;</li>
+<li>offline behavior;</li>
+<li>local storage;</li>
+<li>background work;</li>
+<li>permissions;</li>
+<li>synchronization;</li>
+<li>platform constraints;</li>
+<li>release behavior;</li>
+<li>mobile performance.</li>
+</ul>
+<h1>Data assessments</h1>
+<p>Questions may cover:</p>
+<ul>
+<li>SQL;</li>
+<li>analytical modeling;</li>
+<li>pipeline design;</li>
+<li>data quality;</li>
+<li>schema changes;</li>
+<li>batch versus streaming;</li>
+<li>backfills;</li>
+<li>lineage;</li>
+<li>reproducibility;</li>
+<li>operational failures.</li>
+</ul>
+<h1>DevOps and SRE assessments</h1>
+<p>You may reason about:</p>
+<ul>
+<li>deployment safety;</li>
+<li>infrastructure as code;</li>
+<li>observability;</li>
+<li>capacity;</li>
+<li>rollbacks;</li>
+<li>incident response;</li>
+<li>secrets;</li>
+<li>alerting;</li>
+<li>retries;</li>
+<li>failure domains.</li>
+</ul>
+<h1>Engineering-management assessments</h1>
+<p>You may encounter scenarios involving:</p>
+<ul>
+<li>feedback;</li>
+<li>prioritization;</li>
+<li>delegation;</li>
+<li>missed commitments;</li>
+<li>performance management;</li>
+<li>team conflict;</li>
+<li>promotion readiness;</li>
+<li>stakeholder communication;</li>
+<li>delivery risk.</li>
+</ul>
+<h1>There are no deliberate trick questions</h1>
+<p>The goal is not to deceive you with clever wording.</p>
+<p>A question can still be challenging because the subject is complex or several options are plausible.</p>
+<p>That is different from a hidden gotcha.</p>
+<p>When uncertain:</p>
+<ol>
+<li>Identify the main problem.</li>
+<li>Identify the stated constraints.</li>
+<li>Eliminate clearly inappropriate choices.</li>
+<li>Prefer the answer that most directly addresses the risk.</li>
+<li>Avoid unnecessary complexity.</li>
+<li>Make your best judgment.</li>
+<li>Move on when additional thinking is no longer productive.</li>
+</ol>
+<p>Do not waste time searching for an imaginary trap.</p>
+<h1>There is no negative marking</h1>
+<p>An incorrect answer does not subtract additional points from other correct work.</p>
+<p>You simply do not earn the available credit for that answer.</p>
+<p>An unanswered question also earns no credit.</p>
+<p>When you can make a reasoned choice, guessing is not punished beyond missing the question’s available points.</p>
+<p>This supports a calmer assessment strategy.</p>
+<h1>Partial credit may apply</h1>
+<p>Some question formats can contain several meaningful components.</p>
+<p>Where supported by the assessment design, partial credit may be available for answers that demonstrate part of the required understanding.</p>
+<p>This may apply to:</p>
+<ul>
+<li>multiple-select questions;</li>
+<li>ranking questions;</li>
+<li>multi-part responses;</li>
+<li>other structured formats.</li>
+</ul>
+<p>The exact scoring depends on the assessment.</p>
+<p>Do not assume every question is all-or-nothing unless the format makes that clear.</p>
+<h1>Short-answer formatting</h1>
+<p>For supported short-answer questions, minor formatting differences may be normalized when appropriate.</p>
+<p>For example, irrelevant differences in:</p>
+<ul>
+<li>capitalization;</li>
+<li>leading or trailing spaces;</li>
+<li>simple formatting;</li>
+</ul>
+<p>should not become the main thing being tested when the intended answer is otherwise correct.</p>
+<p>Normalization does not mean vague or unrelated answers are accepted.</p>
+<p>It means superficial formatting should not erase real knowledge.</p>
+<h1>Follow the rules for outside resources</h1>
+<p>Different companies and assessments may establish different policies.</p>
+<p>The instructions may address the use of:</p>
+<ul>
+<li>documentation;</li>
+<li>search engines;</li>
+<li>calculators;</li>
+<li>code editors;</li>
+<li>local development environments;</li>
+<li>handwritten notes;</li>
+<li>AI tools;</li>
+<li>collaboration.</li>
+</ul>
+<p>Read the specific instructions before starting.</p>
+<p>Do not assume that a rule from another company’s assessment applies here.</p>
+<h1>Using documentation</h1>
+<p>When documentation is permitted:</p>
+<ul>
+<li>understand the question before searching;</li>
+<li>use documentation to verify details;</li>
+<li>apply the information to the actual scenario;</li>
+<li>submit only answers you understand;</li>
+<li>be ready to explain your reasoning later.</li>
+</ul>
+<p>Professional engineers use documentation regularly.</p>
+<p>The important distinction is whether the assessment permits it.</p>
+<h1>Using AI tools</h1>
+<p>Follow the rules stated for the assessment.</p>
+<p>When AI tools are permitted:</p>
+<ul>
+<li>use them as assistance, not as a replacement for understanding;</li>
+<li>verify the output;</li>
+<li>read every suggested answer carefully;</li>
+<li>reject incorrect assumptions;</li>
+<li>submit only work you can explain and modify.</li>
+</ul>
+<p>When AI tools are prohibited, respect that restriction.</p>
+<p>The company may discuss assessment questions with you afterward. An answer you do not understand is difficult to defend in a technical interview.</p>
+<h1>Complete your own work</h1>
+<p>A skills assessment is intended to help match you with a role you can succeed in.</p>
+<p>Borrowed answers may create a result that does not reflect your current ability.</p>
+<p>That can cause problems when:</p>
+<ul>
+<li>the next interview explores the same subject;</li>
+<li>you are asked to explain your answer;</li>
+<li>the interviewer changes the scenario;</li>
+<li>you are asked to implement the decision;</li>
+<li>the job expects the same skills immediately.</li>
+</ul>
+<p>Your genuine result is more useful to both you and the company.</p>
+<h1>No webcam monitoring</h1>
+<p>JobsList.dev assessments do not activate your webcam.</p>
+<p>We do not:</p>
+<ul>
+<li>watch you;</li>
+<li>record your face;</li>
+<li>analyze your eyes;</li>
+<li>track facial expressions;</li>
+<li>inspect your room;</li>
+<li>require you to remain centered on camera;</li>
+<li>create a video for the hiring company.</li>
+</ul>
+<p>Your appearance is not part of the assessment.</p>
+<h1>No screen recording</h1>
+<p>The platform does not create a recording of everything displayed on your screen.</p>
+<p>The company does not receive video of:</p>
+<ul>
+<li>your desktop;</li>
+<li>other browser windows;</li>
+<li>personal files;</li>
+<li>notifications;</li>
+<li>unrelated applications.</li>
+</ul>
+<h1>No microphone recording</h1>
+<p>The assessment does not record audio from your room.</p>
+<p>It does not listen to:</p>
+<ul>
+<li>your voice;</li>
+<li>background conversations;</li>
+<li>household noise;</li>
+<li>other people nearby.</li>
+</ul>
+<h1>No biometric analysis</h1>
+<p>JobsList.dev does not use assessment biometrics such as:</p>
+<ul>
+<li>facial geometry;</li>
+<li>gaze tracking;</li>
+<li>voiceprints;</li>
+<li>posture analysis;</li>
+<li>behavioral biometric identification.</li>
+</ul>
+<p>That information is not needed to evaluate your answers.</p>
+<h1>No lockdown browser</h1>
+<p>You do not need to install a special browser that takes control of your computer.</p>
+<p>The assessment does not require software that:</p>
+<ul>
+<li>closes other applications;</li>
+<li>scans your running processes;</li>
+<li>disables system controls;</li>
+<li>remains installed after completion;</li>
+<li>blocks normal device functions.</li>
+</ul>
+<p>You take the assessment through your browser.</p>
+<h1>Limited browser context</h1>
+<p>The assessment may record limited technical context, such as whether the browser tab lost focus.</p>
+<p>A focus event may occur for many reasons:</p>
+<ul>
+<li>you clicked another window;</li>
+<li>a notification appeared;</li>
+<li>an accessibility tool became active;</li>
+<li>your browser changed focus;</li>
+<li>another application opened;</li>
+<li>you briefly left and returned.</li>
+</ul>
+<p>A focus event is not an automatic failure.</p>
+<p>It is not proof that you cheated.</p>
+<p>When such context is presented to a company, it is intended to be neutral information for human interpretation.</p>
+<h1>You are not being judged on your environment</h1>
+<p>Because there is no webcam monitoring, you do not need to:</p>
+<ul>
+<li>clean your room for an evaluator;</li>
+<li>create a professional background;</li>
+<li>hide personal belongings;</li>
+<li>improve camera lighting;</li>
+<li>worry that someone walks behind you;</li>
+<li>remain physically still;</li>
+<li>perform eye contact for an algorithm.</li>
+</ul>
+<p>Choose a workspace that helps you think.</p>
+<h1>Accessibility and accommodations</h1>
+<p>The assessment interface is intended to support keyboard navigation and accessible use.</p>
+<p>Depending on your needs, you may use:</p>
+<ul>
+<li>keyboard controls;</li>
+<li>screen-reader support;</li>
+<li>zoom;</li>
+<li>alternative input methods;</li>
+<li>other browser accessibility features.</li>
+</ul>
+<p>When you require an accommodation such as additional time or another adjustment, contact the company or support route before beginning whenever possible.</p>
+<p>You should not need to disclose more personal information than is reasonably necessary to arrange the accommodation.</p>
+<h1>Keyboard navigation</h1>
+<p>You may be able to use keyboard controls to move through the assessment and select responses.</p>
+<p>The exact controls can vary by question type.</p>
+<p>Look for:</p>
+<ul>
+<li>visible focus indicators;</li>
+<li>labels;</li>
+<li>accessible controls;</li>
+<li>keyboard-operable navigation;</li>
+<li>clear selection states.</li>
+</ul>
+<p>Use your mouse, keyboard, touchscreen, or supported assistive technology according to what is most comfortable.</p>
+<h1>What information is connected to the assessment</h1>
+<p>To operate the assessment and return the result to the correct company, JobsList.dev may use information such as:</p>
+<ul>
+<li>your name;</li>
+<li>your email address;</li>
+<li>the company and assessment invitation;</li>
+<li>your submitted answers;</li>
+<li>timing information;</li>
+<li>completion status;</li>
+<li>overall and section scoring;</li>
+<li>manually reviewed responses where relevant;</li>
+<li>limited technical context related to the attempt.</li>
+</ul>
+<p>The assessment does not need webcam footage, screen recordings, microphone audio, or biometric data to evaluate your work.</p>
+<h1>What the company may see</h1>
+<p>The company may receive:</p>
+<ul>
+<li>confirmation that you completed the assessment;</li>
+<li>an overall result;</li>
+<li>section-level results;</li>
+<li>responses requiring human review;</li>
+<li>relevant submission details;</li>
+<li>neutral assessment context.</li>
+</ul>
+<p>The company uses that information as part of its own hiring process.</p>
+<p>JobsList.dev does not make the final hiring decision for the company.</p>
+<h1>What the company should use the result for</h1>
+<p>A responsible hiring team may use the assessment to:</p>
+<ul>
+<li>decide who advances;</li>
+<li>identify your strongest areas;</li>
+<li>guide technical interview questions;</li>
+<li>compare role-relevant evidence;</li>
+<li>investigate a mismatch between your résumé and demonstrated skills;</li>
+<li>understand where you may need onboarding support.</li>
+</ul>
+<p>The assessment should not be treated as a complete measure of your professional value.</p>
+<h1>What an assessment cannot measure completely</h1>
+<p>A timed assessment cannot fully show:</p>
+<ul>
+<li>how you collaborate for months;</li>
+<li>how quickly you learn an internal system;</li>
+<li>how you mentor teammates;</li>
+<li>how you build trust;</li>
+<li>how you handle long-term ownership;</li>
+<li>how you communicate with customers;</li>
+<li>how you improve after feedback;</li>
+<li>how you operate with full business context.</li>
+</ul>
+<p>That is why hiring processes may also include:</p>
+<ul>
+<li>interviews;</li>
+<li>project discussions;</li>
+<li>work samples;</li>
+<li>references;</li>
+<li>team conversations;</li>
+<li>role-specific exercises.</li>
+</ul>
+<p>The assessment is one source of evidence.</p>
+<h1>How scoring should be interpreted</h1>
+<p>Your result reflects your performance:</p>
+<ul>
+<li>on that assessment;</li>
+<li>with those questions;</li>
+<li>under those conditions;</li>
+<li>during that attempt.</li>
+</ul>
+<p>It is not a permanent label.</p>
+<p>A lower score does not mean:</p>
+<ul>
+<li>you are not a developer;</li>
+<li>you cannot learn;</li>
+<li>you will never get hired;</li>
+<li>your previous experience is meaningless;</li>
+<li>you have no professional potential.</li>
+</ul>
+<p>A higher score does not guarantee:</p>
+<ul>
+<li>an interview;</li>
+<li>an offer;</li>
+<li>a particular level;</li>
+<li>complete mastery;</li>
+<li>perfect alignment with the role.</li>
+</ul>
+<p>The result should be combined with broader evidence.</p>
+<h1>What happens when you submit</h1>
+<p>When you are ready:</p>
+<ol>
+<li>Review the unanswered or flagged questions.</li>
+<li>Confirm that your intended selections are present.</li>
+<li>Submit the assessment.</li>
+<li>Wait for the completion confirmation.</li>
+<li>Read the next-step information shown.</li>
+</ol>
+<p>After successful submission, the active attempt is complete.</p>
+<p>You should not need to keep the browser page open indefinitely.</p>
+<h1>Some responses may require human review</h1>
+<p>Many questions can be scored automatically.</p>
+<p>Others, such as written explanations, may need a person to evaluate them.</p>
+<p>When the assessment includes manual review, the complete result may not be available immediately.</p>
+<p>That is normal.</p>
+<p>The company may need time to:</p>
+<ul>
+<li>review written responses;</li>
+<li>compare candidates;</li>
+<li>complete other assessments;</li>
+<li>schedule the next interview stage;</li>
+<li>discuss results internally.</li>
+</ul>
+<h1>Will you see your score?</h1>
+<p>Candidate result visibility can depend on the company’s assessment settings.</p>
+<p>The company may choose to share:</p>
+<ul>
+<li>a full result;</li>
+<li>section scores;</li>
+<li>an overall score;</li>
+<li>a limited summary;</li>
+<li>a completion confirmation only;</li>
+<li>results later during the hiring process.</li>
+</ul>
+<p>No immediate score does not necessarily mean your submission failed.</p>
+<p>Read the completion screen and follow the company’s communication timeline.</p>
+<h1>Claiming a free JobsList.dev profile</h1>
+<p>After submitting, you may be offered the option to claim a free JobsList.dev candidate profile.</p>
+<p>This is optional.</p>
+<p>You can complete the invited assessment without committing to an ongoing account.</p>
+<p>When you claim a profile, you may be able to connect your result with a reusable professional presence on JobsList.dev.</p>
+<h1>Why claim your profile?</h1>
+<p>A profile can help you:</p>
+<ul>
+<li>preserve your assessment result;</li>
+<li>add your work experience;</li>
+<li>showcase projects;</li>
+<li>list technical skills;</li>
+<li>state role preferences;</li>
+<li>add a résumé;</li>
+<li>connect GitHub or portfolio links;</li>
+<li>apply for other roles;</li>
+<li>carry demonstrated skills beyond one company invitation.</li>
+</ul>
+<p>In many hiring systems, assessment work remains trapped inside one employer’s process.</p>
+<p>A claimed profile can make that effort more useful to you.</p>
+<h1>What to add to your profile</h1>
+<p>When you claim a profile, complete enough information for companies to understand your professional direction.</p>
+<p>Add:</p>
+<ul>
+<li>a clear headline;</li>
+<li>a concise summary;</li>
+<li>employment history;</li>
+<li>relevant skills;</li>
+<li>projects;</li>
+<li>GitHub or portfolio links;</li>
+<li>location;</li>
+<li>remote or hybrid preferences;</li>
+<li>target roles;</li>
+<li>availability;</li>
+<li>work-authorization information where appropriate.</li>
+</ul>
+<h1>Profile headline examples</h1>
+<blockquote>
+<p>Backend Engineer · Go, PostgreSQL, APIs, reliability</p>
+</blockquote>
+<blockquote>
+<p>Frontend Developer · React, TypeScript, accessibility</p>
+</blockquote>
+<blockquote>
+<p>Junior Full-Stack Developer · Node.js, React, PostgreSQL</p>
+</blockquote>
+<blockquote>
+<p>Data Engineer · SQL, Python, pipelines, data quality</p>
+</blockquote>
+<blockquote>
+<p>DevOps Engineer · AWS, Terraform, CI/CD, observability</p>
+</blockquote>
+<p>A headline should help employers understand what kind of work you are prepared to do.</p>
+<h1>Use your assessment strengths in interview preparation</h1>
+<p>When section results are available, prepare stories related to your strongest areas.</p>
+<p>For example:</p>
+<ul>
+<li>Strong debugging result: prepare a production incident story.</li>
+<li>Strong database result: prepare a schema or performance example.</li>
+<li>Strong accessibility result: prepare an interface improvement story.</li>
+<li>Strong system-design result: prepare an architecture decision.</li>
+<li>Strong testing result: prepare an example of risk-based test design.</li>
+<li>Strong management judgment: prepare a feedback or prioritization example.</li>
+</ul>
+<p>The assessment can help you decide what evidence to emphasize next.</p>
+<h1>Use weaker areas as a learning map</h1>
+<p>A weaker section can provide a focused study direction.</p>
+<p>Instead of deciding that you must improve everything, identify one or two specific gaps.</p>
+<p>Examples:</p>
+<ul>
+<li>SQL indexing;</li>
+<li>asynchronous JavaScript;</li>
+<li>API authorization;</li>
+<li>queue delivery semantics;</li>
+<li>accessibility;</li>
+<li>testing;</li>
+<li>system design;</li>
+<li>network fundamentals;</li>
+<li>deployment safety.</li>
+</ul>
+<p>Build or practice something involving the weak area.</p>
+<p>That is more useful than collecting unrelated certificates.</p>
+<h1>What if you believe something went wrong?</h1>
+<p>Contact the appropriate support route when:</p>
+<ul>
+<li>the assessment did not submit;</li>
+<li>the invitation link does not work;</li>
+<li>saved answers are missing;</li>
+<li>the timer appears incorrect;</li>
+<li>you cannot resume after an interruption;</li>
+<li>the profile claim process fails;</li>
+<li>you encounter an accessibility barrier;</li>
+<li>a question appears technically broken;</li>
+<li>the result page does not load.</li>
+</ul>
+<p>Include:</p>
+<ul>
+<li>your name;</li>
+<li>assessment name;</li>
+<li>company;</li>
+<li>date and approximate time;</li>
+<li>a concise description;</li>
+<li>a screenshot when helpful.</li>
+</ul>
+<p>Do not send passwords or private security codes.</p>
+<h1>Following up with the company</h1>
+<p>When the company gave a response date, wait until it passes.</p>
+<p>When no timeline was provided, a polite follow-up after approximately five to seven business days is reasonable.</p>
+<p>Example:</p>
+<blockquote>
+<p>Hi [Name],</p>
+<p>I completed the [Assessment Name] assessment on [date] and received confirmation that it was submitted successfully. I remain interested in the [Role Title] opportunity and wanted to ask whether you can share the expected timeline for the next step.</p>
+<p>Thank you,
+[Your Name]</p>
+</blockquote>
+<p>Send one concise message.</p>
+<p>Continue with the rest of your job search while waiting.</p>
+<h1>Do not stop applying</h1>
+<p>Completing an assessment is progress, but it is still one application.</p>
+<p>Continue:</p>
+<ul>
+<li>applying to aligned roles;</li>
+<li>updating your résumé;</li>
+<li>preparing interview stories;</li>
+<li>improving projects;</li>
+<li>building your profile;</li>
+<li>contacting your network;</li>
+<li>practicing weaker skills.</li>
+</ul>
+<p>Keeping multiple opportunities active reduces the pressure you place on any one result.</p>
+<h1>Common assessment mistakes</h1>
+<h1>Starting without reading the instructions</h1>
+<p>You may miss important information about time, tools, or submission.</p>
+<h1>Spending too long on one question</h1>
+<p>Protect enough time to complete the broader assessment.</p>
+<h1>Searching for tricks</h1>
+<p>Focus on the stated scenario and constraints.</p>
+<h1>Choosing the most complex answer</h1>
+<p>The most elaborate architecture is not always the most appropriate one.</p>
+<h1>Ignoring failure paths</h1>
+<p>Consider timeouts, invalid input, duplicate events, missing permissions, and unavailable dependencies when relevant.</p>
+<h1>Leaving answers blank unnecessarily</h1>
+<p>When there is no negative marking and you can make a reasoned choice, submit your best answer.</p>
+<h1>Failing to review</h1>
+<p>Reserve a small amount of time to revisit skipped or uncertain questions.</p>
+<h1>Violating resource rules</h1>
+<p>Use only the tools permitted by the assessment instructions.</p>
+<h1>Submitting answers you cannot explain</h1>
+<p>The company may discuss your reasoning later.</p>
+<h1>Closing before confirmation</h1>
+<p>Wait until the platform confirms successful submission.</p>
+<h1>Panicking after a technical interruption</h1>
+<p>Reopen the link and contact support when necessary.</p>
+<h1>Treating one score as your identity</h1>
+<p>Use the result as evidence and feedback, not as a verdict.</p>
+<h1>A practical assessment-day plan</h1>
+<h1>Thirty minutes before</h1>
+<ul>
+<li>Confirm your device is charged.</li>
+<li>Check the deadline.</li>
+<li>Review permitted tools.</li>
+<li>Close unrelated applications.</li>
+<li>Silence notifications.</li>
+<li>Prepare water.</li>
+<li>Use the restroom.</li>
+<li>Open the invitation.</li>
+</ul>
+<h1>At the start</h1>
+<ul>
+<li>Read all instructions.</li>
+<li>Confirm the time limit.</li>
+<li>Check navigation controls.</li>
+<li>Identify the question formats.</li>
+<li>Begin steadily rather than rushing.</li>
+</ul>
+<h1>During the assessment</h1>
+<ul>
+<li>Read each question fully.</li>
+<li>Identify the key constraint.</li>
+<li>Answer clear questions efficiently.</li>
+<li>Skip temporarily when stuck.</li>
+<li>Monitor time occasionally.</li>
+<li>Trust autosave.</li>
+<li>Stay calm after interruptions.</li>
+</ul>
+<h1>Before submission</h1>
+<ul>
+<li>Review unanswered questions.</li>
+<li>Revisit difficult items.</li>
+<li>Confirm multiple-select responses.</li>
+<li>Proofread written answers.</li>
+<li>Submit only when ready.</li>
+<li>Wait for confirmation.</li>
+</ul>
+<h1>After submission</h1>
+<ul>
+<li>Save the confirmation.</li>
+<li>Read next-step instructions.</li>
+<li>Claim a profile when useful.</li>
+<li>Record the date in your application tracker.</li>
+<li>Prepare for a possible follow-up interview.</li>
+<li>Continue applying.</li>
+</ul>
+<h1>Frequently asked questions</h1>
+<h1>Do I need a JobsList.dev account?</h1>
+<p>Not necessarily. You may be able to take an invited assessment through a one-time link without creating an account first.</p>
+<h1>Can I create an account afterward?</h1>
+<p>Yes, you may be offered the option to claim a free JobsList.dev profile after submission.</p>
+<h1>Do I have to claim a profile?</h1>
+<p>No. Claiming a profile is optional.</p>
+<h1>Can I go back to earlier questions?</h1>
+<p>Yes, you can navigate and revise answers before final submission.</p>
+<h1>Are my answers saved?</h1>
+<p>Your work is autosaved as you complete the assessment.</p>
+<h1>What if my internet connection fails?</h1>
+<p>Reopen the invitation link after reconnecting. Contact support when the assessment does not resume correctly.</p>
+<h1>Is there a time limit?</h1>
+<p>Assessments may have a defined time limit. The remaining time is visible so you can pace yourself.</p>
+<h1>Will the timer flash or make noise?</h1>
+<p>The timer is designed to provide information without unnecessarily dramatizing the countdown.</p>
+<h1>Is there negative marking?</h1>
+<p>No. Incorrect answers do not subtract additional points from other correct work.</p>
+<h1>Should I answer when I am unsure?</h1>
+<p>When you can make a reasoned choice, answering is generally more useful than leaving the question blank because there is no additional guessing penalty.</p>
+<h1>Can I change an answer?</h1>
+<p>Yes, until you submit.</p>
+<h1>Is my webcam used?</h1>
+<p>No.</p>
+<h1>Is my screen recorded?</h1>
+<p>No.</p>
+<h1>Is my microphone recorded?</h1>
+<p>No.</p>
+<h1>Is my face or eye movement analyzed?</h1>
+<p>No.</p>
+<h1>Do I need to install a lockdown browser?</h1>
+<p>No.</p>
+<h1>Does leaving the tab automatically fail me?</h1>
+<p>No. Limited browser-focus context is not an automatic failure or proof of wrongdoing.</p>
+<h1>Can I use documentation?</h1>
+<p>Follow the rules stated for your specific assessment.</p>
+<h1>Can I use AI?</h1>
+<p>Follow the assessment instructions. Submit only work you understand and can explain.</p>
+<h1>Will I see my score?</h1>
+<p>That can depend on the company’s result-sharing settings.</p>
+<h1>Does JobsList.dev decide whether I am hired?</h1>
+<p>No. The company makes its own hiring decision.</p>
+<h1>Is the assessment the only thing the company considers?</h1>
+<p>It should be one piece of broader evidence that may include your résumé, projects, interviews, and references.</p>
+<h1>Can I request an accommodation?</h1>
+<p>Use the company or support contact provided to request a reasonable accommodation before beginning when possible.</p>
+<h1>What if a question seems broken?</h1>
+<p>Document the issue and contact support through the route provided.</p>
+<h1>Do assessments cost candidates money?</h1>
+<p>Candidates should not need to pay to complete an invited JobsList.dev assessment or claim the offered free profile.</p>
+<h1>The mindset to bring with you</h1>
+<p>The assessment is not a performance of confidence.</p>
+<p>You are allowed to:</p>
+<ul>
+<li>pause and think;</li>
+<li>reconsider;</li>
+<li>return to a question;</li>
+<li>be uncertain;</li>
+<li>make a reasoned guess;</li>
+<li>recognize that two choices are plausible;</li>
+<li>choose the proportionate solution;</li>
+<li>admit through your answer that more information would be useful.</li>
+</ul>
+<p>Good engineering is not instant certainty.</p>
+<p>It is disciplined reasoning under incomplete information.</p>
+<p>Focus on showing that process.</p>
+<h1>The takeaway</h1>
+<p>A JobsList.dev assessment is designed to give you a calm, skills-first opportunity to show what you can do.</p>
+<p>You can expect:</p>
+<ol>
+<li>A personal invitation link.</li>
+<li>No required account before starting.</li>
+<li>One focused question per screen.</li>
+<li>Freedom to navigate and revise answers.</li>
+<li>Automatic saving.</li>
+<li>Support for resuming after ordinary interruptions.</li>
+<li>A visible, calm timer.</li>
+<li>Role-relevant questions centered on understanding and judgment.</li>
+<li>No negative marking.</li>
+<li>No webcam, screen recording, microphone monitoring, biometric analysis, or lockdown browser.</li>
+<li>Human hiring judgment rather than an automatic employment verdict.</li>
+<li>An optional free profile you can claim after submission.</li>
+</ol>
+<p>Prepare a comfortable workspace, read the instructions, pace yourself, and answer with your own best reasoning.</p>
+<p>You do not need to perform for a camera.</p>
+<p>You do not need to memorize every obscure technical detail.</p>
+<p>You do not need a famous employer or perfect résumé to demonstrate ability.</p>
+<p>Take the questions one at a time.</p>
+<p>Your work saves as you go.</p>
+<p>You can change your mind before submitting.</p>
+<p>Do your best, review your answers, and let your actual skills speak.</p>
+<p>You have got this.</p>
+<p><em>Invited to an assessment? Open your personal link when you are ready. After submitting, <a href="/auth/register?role=EMPLOYEE">claim your free JobsList.dev profile</a>, preserve your demonstrated skills, and keep moving toward the role that fits you.</em></p>
 5:["locale","de","d"]
 6:["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","de","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__?{\"locale\":\"de\",\"slug\":\"welcome-what-to-expect-from-a-jobslist-assessment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","de","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Welcome: What to Expect from a JobsList Assessment\",\"description\":\"For candidates: a friendly walkthrough of how our assessments work — no account, no webcam, one question at a time, change your answers freely, and pick up where you left off.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"de\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Welcome: What to Expect from a JobsList Assessment","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Welcome: What to Expect from a JobsList Assessment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For candidates: a friendly walkthrough of how our assessments work — no account, no webcam, one question at a time, change your answers freely, and pick up where you left off."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","15",{"property":"og:description","content":"For candidates: a friendly walkthrough of how our assessments work — no account, no webcam, one question at a time, change your answers freely, and pick up where you left off."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","25",{"name":"twitter:description","content":"For candidates: a friendly walkthrough of how our assessments work — no account, no webcam, one question at a time, change your answers freely, and pick up where you left off."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","de","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__?{\"locale\":\"de\",\"slug\":\"welcome-what-to-expect-from-a-jobslist-assessment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","de","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Welcome: What to Expect from a JobsList Assessment\",\"description\":\"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"de\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Welcome: What to Expect from a JobsList Assessment","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":27,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Welcome: What to Expect from a JobsList Assessment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","15",{"property":"og:description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","25",{"name":"twitter:description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

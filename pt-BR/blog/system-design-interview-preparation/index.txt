@@ -1,86 +1,596 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1e2c,<p>System design is the round candidates most often prepare for incorrectly. The common approach — memorizing reference architectures for well-known products — produces someone who can recite a design but falls apart the moment the interviewer changes a requirement. That&#39;s the opposite of what&#39;s being tested.</p>
-<p>The round is an assessment of how you handle an underspecified problem with someone watching. Prepare for that, and the architectures take care of themselves.</p>
-<h2>What the interviewer is actually scoring</h2>
-<p>Most rubrics come down to five things:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T3ff4,<p>System design interviews intimidate even experienced engineers because they&#39;re deliberately open-ended. There is no single correct answer, no hidden checklist of components you must draw, and no architecture diagram that guarantees success.</p>
+<p>Ironically, the candidates who prepare by memorizing the architecture for Twitter, YouTube, Dropbox, Uber, or Netflix often struggle the most when interviewers change a requirement halfway through the discussion.</p>
+<p>That&#39;s because system design interviews aren&#39;t testing your memory.</p>
+<p>They&#39;re testing how you think.</p>
+<p>Interviewers want to know whether they could trust you to sit in a design meeting with senior engineers, discuss trade-offs, ask intelligent questions, identify risks, and help build a scalable system collaboratively.</p>
+<p>If you prepare for <em>that</em>, you&#39;ll perform well regardless of the question.</p>
+<hr>
+<h1>What interviewers are really evaluating</h1>
+<p>Most companies score roughly the same categories regardless of whether they&#39;re asking you to design a URL shortener, chat system, payment platform, or social network.</p>
+<p>They want to understand whether you can:</p>
 <ul>
-<li><strong>Do you clarify before you build?</strong> Candidates who start drawing boxes in minute one score badly, however good the boxes are.</li>
-<li><strong>Can you make a reasonable design and justify it?</strong> Not the optimal design. A defensible one.</li>
-<li><strong>Do you understand trade-offs?</strong> Every choice costs something. Naming the cost is the signal.</li>
-<li><strong>Can you go deep when asked?</strong> Breadth first, then depth on demand.</li>
-<li><strong>Are you someone to design with?</strong> Do you take input, or defend your first idea to the end?</li>
+<li>Clarify ambiguous requirements</li>
+<li>Estimate scale before designing</li>
+<li>Break a large problem into manageable components</li>
+<li>Choose appropriate technologies</li>
+<li>Explain trade-offs clearly</li>
+<li>Think about reliability and failure</li>
+<li>Adapt when requirements change</li>
+<li>Communicate effectively</li>
 </ul>
-<p>Notice that &quot;arrived at the same architecture the interviewer had in mind&quot; is not on the list.</p>
-<h2>A structure for the hour</h2>
-<p>Having a repeatable structure means you never freeze. Roughly:</p>
-<h3>Requirements — 5 to 10 minutes</h3>
-<p>Do not skip this, and do not rush it. Ask until you have:</p>
+<p>Notice what is <strong>not</strong> on the list.</p>
 <ul>
-<li><strong>Functional scope.</strong> What must it do? Push for a small, explicit list, then confirm it: &quot;so v1 is these three things — anything else critical?&quot;</li>
-<li><strong>Scale.</strong> Users, requests per second, data volume, read/write ratio. If they say &quot;you decide,&quot; pick a number out loud and design for it.</li>
-<li><strong>Constraints that change the design.</strong> Latency targets, consistency requirements, regional distribution, cost sensitivity.</li>
-<li><strong>What&#39;s explicitly out of scope.</strong> Getting permission to ignore auth or billing saves ten minutes you&#39;ll want later.</li>
+<li>Memorizing AWS services</li>
+<li>Naming obscure databases</li>
+<li>Drawing dozens of boxes</li>
+<li>Using the newest technology</li>
 </ul>
-<p>Write the agreed scope where you both can see it. Interviewers routinely score this section on its own.</p>
-<h3>Back-of-envelope estimates — 5 minutes</h3>
-<p>Rough numbers, said out loud. Daily active users, requests per second at peak, storage per year, bandwidth. Nobody checks your arithmetic; they check whether your design is proportionate to the load. A design for a million requests per second when the answer is fifty is itself a mistake.</p>
-<h3>High-level design — 10 to 15 minutes</h3>
-<p>Draw the main components and the flow between them: clients, API layer, services, data stores, queues, caches. Keep it coarse. Walk through one complete request end to end so the interviewer can follow your model, then ask: &quot;does this look reasonable before I go deeper?&quot;</p>
-<p>That question is worth a lot. It shows collaboration and it stops you spending twenty minutes down a path they didn&#39;t want.</p>
-<h3>Deep dive — 15 to 20 minutes</h3>
-<p>The interviewer will usually pick the area. If they don&#39;t, choose the part that&#39;s actually hard — the data model, the consistency problem, the fan-out, the thing that breaks at scale. This is where you demonstrate depth: schema choices, indexing, partitioning, caching strategy and invalidation, queue semantics, idempotency.</p>
-<h3>Bottlenecks and failure — 5 to 10 minutes</h3>
-<p>Strong candidates volunteer this rather than waiting to be asked:</p>
+<p>Good architecture comes from reasoning, not memorization.</p>
+<hr>
+<h1>Understand the interview format</h1>
+<p>Most system design interviews last <strong>45–60 minutes</strong>.</p>
+<p>A typical flow looks like this:</p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>5–10 min</td>
+<td>Clarify requirements</td>
+</tr>
+<tr>
+<td>5 min</td>
+<td>Estimate scale</td>
+</tr>
+<tr>
+<td>10–15 min</td>
+<td>High-level architecture</td>
+</tr>
+<tr>
+<td>15–20 min</td>
+<td>Deep dive into key components</td>
+</tr>
+<tr>
+<td>10 min</td>
+<td>Scaling, failures, optimizations, trade-offs</td>
+</tr>
+<tr>
+<td>Final minutes</td>
+<td>Questions and wrap-up</td>
+</tr>
+</tbody></table>
+<p>Think of the interview as a collaborative whiteboard discussion rather than a presentation.</p>
+<p>The interviewer should be talking almost as much as you are.</p>
+<hr>
+<h1>Step 1: Clarify the problem first</h1>
+<p>The biggest mistake candidates make is immediately drawing boxes.</p>
+<p>Professional architects don&#39;t design until they understand the problem.</p>
+<p>Ask questions like:</p>
+<h3>Functional Requirements</h3>
 <ul>
-<li>Where does this break first as load grows?</li>
-<li>What happens when each component fails? What&#39;s the blast radius?</li>
-<li>Where&#39;s the single point of failure?</li>
-<li>What would you monitor, and what would page someone?</li>
-<li>What&#39;s the migration or rollout path?</li>
+<li>What should users be able to do?</li>
+<li>What are the core features?</li>
+<li>What isn&#39;t required?</li>
+<li>Is this an MVP or production system?</li>
 </ul>
-<h2>What to actually study</h2>
-<p>You need a working understanding — not memorized diagrams — of the components you&#39;ll assemble:</p>
+<h3>Non-functional Requirements</h3>
 <ul>
-<li><strong>Databases.</strong> Relational vs document vs key-value, and honestly <em>when</em> each is right. Indexing, transactions, replication, sharding, and what you lose with each.</li>
-<li><strong>Caching.</strong> Where to put it, invalidation strategies, and what happens on a cold cache or a stampede.</li>
-<li><strong>Queues and async processing.</strong> At-least-once vs exactly-once, ordering, idempotency, dead letters, backpressure.</li>
-<li><strong>Load balancing and horizontal scaling</strong>, including statelessness and session handling.</li>
-<li><strong>Consistency models.</strong> Strong vs eventual, and the practical consequences of each for users.</li>
-<li><strong>Failure and resilience.</strong> Timeouts, retries with backoff, circuit breakers, graceful degradation.</li>
+<li>Expected uptime?</li>
+<li>Maximum acceptable latency?</li>
+<li>Data consistency requirements?</li>
+<li>Security requirements?</li>
+<li>Geographic regions?</li>
 </ul>
-<p>For each, be able to say what it&#39;s for, what it costs, and when you&#39;d choose something else. That last part is the difference between a mid-level and a senior answer.</p>
-<h2>Practice properly</h2>
+<h3>Scale</h3>
+<p>Ask for numbers whenever possible.</p>
+<p>Examples:</p>
 <ul>
-<li><strong>Say it out loud.</strong> Designing silently in your head builds none of the skill being tested. Talk to a whiteboard, a friend, or a recording.</li>
-<li><strong>Time yourself.</strong> The hour goes faster than you think; running out before failure modes is a common way to lose points.</li>
-<li><strong>Redesign systems you&#39;ve actually worked on.</strong> Familiar constraints make the practice concrete.</li>
-<li><strong>Have someone change a requirement mid-flow</strong> — &quot;now it&#39;s global,&quot; &quot;now writes are ten times reads.&quot; Adapting gracefully is a large part of the score.</li>
-<li><strong>Practise the specific area you avoid.</strong> Most people have one — usually data modeling or consistency. That&#39;s exactly where the deep dive will land.</li>
+<li>Daily active users</li>
+<li>Peak requests per second</li>
+<li>Storage requirements</li>
+<li>Read/write ratio</li>
+<li>Expected growth</li>
 </ul>
-<h2>Common ways candidates lose</h2>
+<p>If the interviewer doesn&#39;t know or intentionally leaves it open, make reasonable assumptions and state them aloud.</p>
+<blockquote>
+<p>&quot;I&#39;ll assume roughly 20 million monthly users with around 5,000 requests per second at peak.&quot;</p>
+</blockquote>
+<p>Reasonable assumptions are far better than guessing silently.</p>
+<hr>
+<h1>Step 2: Estimate before designing</h1>
+<p>You don&#39;t need perfect math.</p>
+<p>You do need to prove your design fits the problem.</p>
+<p>Estimate things like:</p>
 <ul>
-<li><strong>Designing before clarifying.</strong> The most frequent and most costly error.</li>
-<li><strong>Over-engineering.</strong> Reaching for microservices, sharding, and a message bus for a system with modest load signals poor judgment, not sophistication.</li>
-<li><strong>Presenting a memorized architecture</strong> and being unable to justify any part of it.</li>
-<li><strong>Silence.</strong> An unnarrated five-minute think looks like being stuck. Say what you&#39;re weighing.</li>
-<li><strong>Defending the first idea.</strong> Interviewer pushback is usually an invitation, not an attack. &quot;That&#39;s a fair point — the trade-off there is…&quot; scores well.</li>
-<li><strong>Never mentioning what could go wrong.</strong> Failure thinking is what separates experienced engineers.</li>
+<li>Requests per second</li>
+<li>Daily traffic</li>
+<li>Storage growth</li>
+<li>Image sizes</li>
+<li>Video bandwidth</li>
+<li>Database size</li>
+<li>Cache hit ratios</li>
 </ul>
-<h2>If you don&#39;t know something</h2>
-<p>Say so, then reason from what you do know. &quot;I haven&#39;t used that in production, but I&#39;d expect the trade-off to be X, so here&#39;s how I&#39;d approach it&quot; is a strong answer. Bluffing is the only genuinely bad option — interviewers detect it immediately and it costs you far more than the gap ever would.</p>
-<h2>The takeaway</h2>
-<p>System design interviews test your process, not your recall. Clarify requirements before drawing anything, size the problem out loud, keep the first pass coarse, go deep where it&#39;s hard, and volunteer failure modes before you&#39;re asked. Study components for their trade-offs rather than memorizing architectures — then practice out loud, against the clock, with someone changing the requirements on you.</p>
-<p><em>Line up interviews worth preparing for — <a href="/auth/register?role=EMPLOYEE">create a free profile on JobsList.dev</a> and set job alerts.</em></p>
+<p>These estimates guide architecture decisions.</p>
+<p>A system serving 50 requests per second does <strong>not</strong> need the same architecture as one serving 5 million.</p>
+<hr>
+<h1>Step 3: Draw a simple high-level architecture</h1>
+<p>Start broad.</p>
+<p>Don&#39;t immediately discuss Redis clusters or Kafka partitions.</p>
+<p>Instead show the major components.</p>
+<p>Example:</p>
+<pre><code>Client
+
+↓
+
+Load Balancer
+
+↓
+
+API Gateway
+
+↓
+
+Application Servers
+
+↓
+
+Database
+
+↓
+
+Cache
+
+↓
+
+Object Storage
+
+↓
+
+Queue
+
+↓
+
+Background Workers
+</code></pre>
+<p>Then walk through one request from beginning to end.</p>
+<p>This helps both you and the interviewer stay aligned.</p>
+<hr>
+<h1>Step 4: Identify the core challenge</h1>
+<p>Every system has one interesting engineering problem.</p>
+<p>Examples include:</p>
+<ul>
+<li>Search indexing</li>
+<li>Feed ranking</li>
+<li>Video transcoding</li>
+<li>Notification delivery</li>
+<li>Payment processing</li>
+<li>Distributed locking</li>
+<li>Rate limiting</li>
+<li>Global consistency</li>
+<li>Media storage</li>
+</ul>
+<p>That&#39;s where you should spend most of your deep-dive time.</p>
+<hr>
+<h1>Learn the building blocks instead of memorizing systems</h1>
+<p>Most system design interviews are simply different combinations of the same architectural components.</p>
+<p>Become comfortable with each one.</p>
+<h2>Load Balancers</h2>
+<p>Know:</p>
+<ul>
+<li>Why they&#39;re used</li>
+<li>Round robin</li>
+<li>Least connections</li>
+<li>Health checks</li>
+<li>SSL termination</li>
+<li>Layer 4 vs Layer 7</li>
+</ul>
+<hr>
+<h2>Databases</h2>
+<p>Understand when to use:</p>
+<ul>
+<li>Relational databases</li>
+<li>Document databases</li>
+<li>Key-value stores</li>
+<li>Graph databases</li>
+<li>Time-series databases</li>
+</ul>
+<p>Know concepts like:</p>
+<ul>
+<li>Indexes</li>
+<li>Replication</li>
+<li>Partitioning</li>
+<li>Sharding</li>
+<li>Transactions</li>
+<li>Isolation levels</li>
+<li>Read replicas</li>
+</ul>
+<hr>
+<h2>Caching</h2>
+<p>Understand:</p>
+<ul>
+<li>Redis</li>
+<li>Memcached</li>
+<li>Browser caching</li>
+<li>CDN caching</li>
+<li>Cache invalidation</li>
+<li>Cache warming</li>
+<li>Cache eviction</li>
+<li>Cache stampede</li>
+<li>Write-through</li>
+<li>Write-back</li>
+<li>Write-around</li>
+</ul>
+<p>Interviewers love cache questions.</p>
+<hr>
+<h2>Message Queues</h2>
+<p>Know why queues exist.</p>
+<p>Examples:</p>
+<ul>
+<li>Kafka</li>
+<li>RabbitMQ</li>
+<li>SQS</li>
+<li>NATS</li>
+</ul>
+<p>Understand:</p>
+<ul>
+<li>Producers</li>
+<li>Consumers</li>
+<li>Dead-letter queues</li>
+<li>Retry strategies</li>
+<li>Ordering</li>
+<li>Backpressure</li>
+<li>Exactly-once vs at-least-once delivery</li>
+</ul>
+<hr>
+<h2>Storage</h2>
+<p>Know when to choose:</p>
+<ul>
+<li>Object storage</li>
+<li>Block storage</li>
+<li>File storage</li>
+</ul>
+<p>Understand:</p>
+<ul>
+<li>CDN integration</li>
+<li>Media processing</li>
+<li>Compression</li>
+<li>Lifecycle policies</li>
+</ul>
+<hr>
+<h2>Search</h2>
+<p>Know basic search architecture:</p>
+<ul>
+<li>Full-text indexing</li>
+<li>Inverted indexes</li>
+<li>Elasticsearch/OpenSearch</li>
+<li>Ranking</li>
+<li>Filtering</li>
+</ul>
+<hr>
+<h2>APIs</h2>
+<p>Be comfortable discussing:</p>
+<ul>
+<li>REST</li>
+<li>GraphQL</li>
+<li>gRPC</li>
+<li>Pagination</li>
+<li>Versioning</li>
+<li>Authentication</li>
+<li>Rate limiting</li>
+</ul>
+<hr>
+<h1>Always discuss trade-offs</h1>
+<p>This is where senior engineers separate themselves.</p>
+<p>Every decision has benefits and costs.</p>
+<p>For example:</p>
+<table>
+<thead>
+<tr>
+<th>Decision</th>
+<th>Benefit</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>SQL</td>
+<td>Strong consistency</td>
+<td>Harder to scale</td>
+</tr>
+<tr>
+<td>NoSQL</td>
+<td>Horizontal scaling</td>
+<td>Weaker consistency</td>
+</tr>
+<tr>
+<td>Cache</td>
+<td>Faster reads</td>
+<td>Invalidation complexity</td>
+</tr>
+<tr>
+<td>CDN</td>
+<td>Lower latency</td>
+<td>Eventual consistency</td>
+</tr>
+<tr>
+<td>Microservices</td>
+<td>Independent deployment</td>
+<td>Operational complexity</td>
+</tr>
+<tr>
+<td>Monolith</td>
+<td>Simpler development</td>
+<td>Harder long-term scaling</td>
+</tr>
+</tbody></table>
+<p>The interviewer isn&#39;t looking for perfect choices.</p>
+<p>They&#39;re looking for engineers who recognize that every choice has consequences.</p>
+<hr>
+<h1>Think about failures</h1>
+<p>One hallmark of experienced engineers is asking:</p>
+<p>&quot;What happens when this breaks?&quot;</p>
+<p>Consider:</p>
+<ul>
+<li>Database outage</li>
+<li>Cache outage</li>
+<li>Queue backlog</li>
+<li>Region failure</li>
+<li>Network partition</li>
+<li>Disk failure</li>
+<li>Service crash</li>
+<li>Slow downstream dependency</li>
+</ul>
+<p>Discuss:</p>
+<ul>
+<li>Retries</li>
+<li>Timeouts</li>
+<li>Circuit breakers</li>
+<li>Replication</li>
+<li>Backups</li>
+<li>Monitoring</li>
+<li>Alerting</li>
+<li>Graceful degradation</li>
+</ul>
+<p>Reliability is often worth more than raw scalability.</p>
+<hr>
+<h1>Consider scalability</h1>
+<p>Once the initial design works, explain how it evolves.</p>
+<p>Examples:</p>
+<h3>Scale reads</h3>
+<ul>
+<li>Read replicas</li>
+<li>CDN</li>
+<li>Caching</li>
+<li>Search indexes</li>
+</ul>
+<h3>Scale writes</h3>
+<ul>
+<li>Sharding</li>
+<li>Partitioning</li>
+<li>Message queues</li>
+<li>Event streaming</li>
+</ul>
+<h3>Scale globally</h3>
+<ul>
+<li>Multi-region deployment</li>
+<li>Geo-DNS</li>
+<li>Edge caching</li>
+<li>Regional databases</li>
+</ul>
+<p>Show that your design can evolve rather than pretending it starts infinitely scalable.</p>
+<hr>
+<h1>Security matters too</h1>
+<p>Many candidates forget security completely.</p>
+<p>Mention:</p>
+<ul>
+<li>Authentication</li>
+<li>Authorization</li>
+<li>TLS</li>
+<li>Encryption at rest</li>
+<li>Secrets management</li>
+<li>API keys</li>
+<li>OAuth</li>
+<li>Rate limiting</li>
+<li>Audit logging</li>
+<li>Input validation</li>
+</ul>
+<p>You don&#39;t need to design the entire security model, but acknowledging it demonstrates maturity.</p>
+<hr>
+<h1>Monitoring and observability</h1>
+<p>Production systems need visibility.</p>
+<p>Discuss:</p>
+<ul>
+<li>Metrics</li>
+<li>Logging</li>
+<li>Distributed tracing</li>
+<li>Health checks</li>
+<li>Dashboards</li>
+<li>Alerting</li>
+<li>Error budgets</li>
+<li>Service Level Objectives (SLOs)</li>
+</ul>
+<p>Being able to detect failures is as important as preventing them.</p>
+<hr>
+<h1>Communicate continuously</h1>
+<p>Don&#39;t draw silently.</p>
+<p>Explain your reasoning.</p>
+<p>Instead of saying:</p>
+<blockquote>
+<p>&quot;We&#39;ll use Redis.&quot;</p>
+</blockquote>
+<p>Say:</p>
+<blockquote>
+<p>&quot;Since the majority of requests are reads, adding Redis should reduce database load significantly. The trade-off is cache invalidation complexity, which I&#39;d handle with a TTL and explicit invalidation after writes.&quot;</p>
+</blockquote>
+<p>That&#39;s what interviewers score.</p>
+<hr>
+<h1>Practice the right way</h1>
+<p>The best preparation isn&#39;t reading more architecture diagrams.</p>
+<p>It&#39;s practicing conversations.</p>
+<p>Try exercises like:</p>
+<ul>
+<li>Design a URL shortener</li>
+<li>Design a chat application</li>
+<li>Design a social media feed</li>
+<li>Design Dropbox</li>
+<li>Design YouTube</li>
+<li>Design Uber</li>
+<li>Design Slack</li>
+<li>Design an online marketplace</li>
+<li>Design an e-commerce platform</li>
+<li>Design a notification system</li>
+</ul>
+<p>Time yourself.</p>
+<p>Speak aloud.</p>
+<p>Draw diagrams.</p>
+<p>Record yourself.</p>
+<p>Notice where you hesitate.</p>
+<p>Those are the areas to improve.</p>
+<hr>
+<h1>Common mistakes</h1>
+<h2>Starting without clarifying</h2>
+<p>This almost always leads to solving the wrong problem.</p>
+<hr>
+<h2>Over-engineering</h2>
+<p>Don&#39;t introduce Kafka, Kubernetes, CQRS, event sourcing, and 40 microservices for an application with a few thousand users.</p>
+<p>Simple is usually better.</p>
+<hr>
+<h2>Never discussing trade-offs</h2>
+<p>Interviewers care more about <em>why</em> than <em>what</em>.</p>
+<hr>
+<h2>Getting stuck on technology</h2>
+<p>Don&#39;t argue over Redis versus Memcached for ten minutes.</p>
+<p>Focus on architecture.</p>
+<hr>
+<h2>Forgetting failure scenarios</h2>
+<p>Production systems fail.</p>
+<p>Show you&#39;ve operated software before.</p>
+<hr>
+<h2>Talking too little</h2>
+<p>Silence makes it impossible for interviewers to evaluate your thinking.</p>
+<p>Narrate your decisions.</p>
+<hr>
+<h2>Refusing to change direction</h2>
+<p>Interviewers intentionally introduce new constraints.</p>
+<p>Examples:</p>
+<blockquote>
+<p>&quot;Now it has to support Europe.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Traffic doubled.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;Compliance requires strong consistency.&quot;</p>
+</blockquote>
+<p>Treat these as collaboration, not criticism.</p>
+<hr>
+<h1>A four-week study plan</h1>
+<h2>Week 1</h2>
+<ul>
+<li>Networking fundamentals</li>
+<li>HTTP</li>
+<li>DNS</li>
+<li>Load balancers</li>
+<li>Databases</li>
+<li>Caching</li>
+</ul>
+<hr>
+<h2>Week 2</h2>
+<ul>
+<li>Queues</li>
+<li>Distributed systems</li>
+<li>Replication</li>
+<li>Sharding</li>
+<li>Consistency</li>
+<li>CAP theorem</li>
+<li>APIs</li>
+</ul>
+<hr>
+<h2>Week 3</h2>
+<p>Practice designing:</p>
+<ul>
+<li>URL Shortener</li>
+<li>TinyURL</li>
+<li>Pastebin</li>
+<li>Chat App</li>
+<li>File Storage</li>
+<li>News Feed</li>
+</ul>
+<hr>
+<h2>Week 4</h2>
+<p>Conduct full mock interviews.</p>
+<p>Practice:</p>
+<ul>
+<li>Whiteboarding</li>
+<li>Time management</li>
+<li>Communicating clearly</li>
+<li>Explaining trade-offs</li>
+<li>Answering follow-up questions</li>
+</ul>
+<p>Repeat until your process feels natural.</p>
+<hr>
+<h1>Interview day checklist</h1>
+<p>Before the interview:</p>
+<ul>
+<li>✓ Sleep well</li>
+<li>✓ Test your microphone and camera</li>
+<li>✓ Have paper or a whiteboard ready</li>
+<li>✓ Keep water nearby</li>
+<li>✓ Read the company description</li>
+<li>✓ Review one or two practice designs</li>
+</ul>
+<p>During the interview:</p>
+<ul>
+<li>Clarify requirements first</li>
+<li>Think out loud</li>
+<li>Keep diagrams simple</li>
+<li>Justify every major decision</li>
+<li>Discuss trade-offs</li>
+<li>Mention failure scenarios</li>
+<li>Adapt when new requirements appear</li>
+</ul>
+<hr>
+<h1>Final thoughts</h1>
+<p>A great system design interview isn&#39;t about drawing the most complicated architecture. It&#39;s about demonstrating that you can think like an engineer responsible for building and operating software in the real world.</p>
+<p>Approach every problem methodically:</p>
+<ol>
+<li>Clarify the requirements.</li>
+<li>Estimate the scale.</li>
+<li>Build a simple architecture.</li>
+<li>Dive into the hardest component.</li>
+<li>Discuss trade-offs honestly.</li>
+<li>Plan for failures.</li>
+<li>Communicate your reasoning throughout.</li>
+</ol>
+<p>Interviewers aren&#39;t looking for someone who memorized the design of Instagram. They&#39;re looking for someone they&#39;d trust to design the next product with their team.</p>
+<p>That mindset—not memorization—is what earns strong system design interview performance.</p>
+<hr>
+<h2>Additional resources for system design preparation</h2>
+<p>Before interviewing, spend time strengthening these complementary skills:</p>
+<ul>
+<li>Practice explaining technical concepts to non-technical audiences.</li>
+<li>Review database indexing, transactions, and query optimization.</li>
+<li>Refresh networking fundamentals including HTTP, TLS, DNS, and load balancing.</li>
+<li>Learn the basics of distributed systems, consistency models, and eventual consistency.</li>
+<li>Build small personal projects that use caches, queues, APIs, and databases together.</li>
+<li>Participate in mock interviews with peers and ask for honest feedback on your communication, not just your technical decisions.</li>
+</ul>
+<p>The engineers who perform best in system design interviews aren&#39;t always the ones with the deepest architectural knowledge—they&#39;re the ones who can communicate complex ideas clearly, collaborate effectively, and make thoughtful engineering decisions under uncertainty.</p>
+<hr>
+<p><em>Looking for engineering roles that value practical software design skills? <strong>Create your free JobsList.dev profile</strong>, showcase your experience, and apply directly to companies building modern software systems.</em></p>
 5:["locale","pt-BR","d"]
 6:["slug","system-design-interview-preparation","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","system-design-interview-preparation","d"],{"children":["__PAGE__?{\"locale\":\"pt-BR\",\"slug\":\"system-design-interview-preparation\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","system-design-interview-preparation","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Prepare for a System Design Interview\",\"description\":\"For developers: how to structure the hour, what interviewers actually score, and how to prepare for system design without memorizing architectures.\",\"datePublished\":\"2026-07-20T00:00:00.000Z\",\"inLanguage\":\"pt-BR\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Prepare for a System Design Interview","date":"2026-07-20T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":5,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Prepare for a System Design Interview | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For developers: how to structure the hour, what interviewers actually score, and how to prepare for system design without memorizing architectures."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Prepare for a System Design Interview"}],["$","meta","15",{"property":"og:description","content":"For developers: how to structure the hour, what interviewers actually score, and how to prepare for system design without memorizing architectures."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-20T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Prepare for a System Design Interview"}],["$","meta","25",{"name":"twitter:description","content":"For developers: how to structure the hour, what interviewers actually score, and how to prepare for system design without memorizing architectures."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","system-design-interview-preparation","d"],{"children":["__PAGE__?{\"locale\":\"pt-BR\",\"slug\":\"system-design-interview-preparation\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","system-design-interview-preparation","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Prepare for a System Design Interview\",\"description\":\"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.\",\"datePublished\":\"2026-07-20T00:00:00.000Z\",\"inLanguage\":\"pt-BR\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Prepare for a System Design Interview","date":"2026-07-20T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":10,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Prepare for a System Design Interview | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Prepare for a System Design Interview"}],["$","meta","15",{"property":"og:description","content":"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-20T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Prepare for a System Design Interview"}],["$","meta","25",{"name":"twitter:description","content":"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

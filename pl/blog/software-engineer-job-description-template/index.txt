@@ -1,84 +1,1345 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T190e,<p>Most software engineer job descriptions are assembled from whatever the last one said, which is why most of them read identically and convert poorly. Below is a complete template you can copy and adapt in about fifteen minutes, followed by notes on what to change, what to cut, and why each section is there.</p>
-<h2>The template</h2>
-<p>Copy everything from here to the end of the section, then replace the bracketed parts.</p>
-<h3>Software Engineer at [Company]</h3>
-<p><strong>Location:</strong> [City, or &quot;Remote — [region]&quot;, or &quot;Hybrid, [n] days in [city]&quot;]
-<strong>Compensation:</strong> [$X – $Y] base, plus [equity / bonus / benefits summary]
-<strong>Level:</strong> [Mid-level / Senior / Staff]</p>
-<h3>About us</h3>
-<p>[Company] builds [what you build] for [who uses it]. We&#39;re a team of [n] people, [n] of them engineers, and we&#39;re [funded / profitable / bootstrapped]. [One concrete sentence about traction — customers, scale, or growth.]</p>
-<p>We&#39;re hiring a [level] software engineer to [the single most important outcome this person owns].</p>
-<h3>What you&#39;ll do</h3>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Tc802,<p>Most software engineer job descriptions are not written from first principles.</p>
+<p>They are assembled from:</p>
 <ul>
-<li>Build and ship features across [the parts of the product this role touches].</li>
-<li>Own [a specific system, service, or area] end to end — design, implementation, testing, and production.</li>
-<li>Work directly with [design / product / customers] to turn problems into working software.</li>
-<li>Review code, write tests, and help keep our [codebase / deployment pipeline] healthy.</li>
-<li>Participate in [on-call rotation / incident response], which currently means [an honest description of the load].</li>
+<li>an older posting;</li>
+<li>a competitor’s careers page;</li>
+<li>a generic human-resources template;</li>
+<li>a hiring manager’s wish list;</li>
+<li>a list of every tool the team has ever used;</li>
+<li>several paragraphs of company marketing;</li>
+<li>legal language added without considering how candidates actually read.</li>
 </ul>
-<h3>What we&#39;re looking for</h3>
+<p>The result is a posting that looks familiar but performs poorly.</p>
+<p>It may attract:</p>
 <ul>
-<li>[n]+ years building production software, in any language.</li>
-<li>Strong experience with [1–2 core technologies you genuinely need].</li>
-<li>Comfort owning work with limited supervision — you can take an ambiguous problem, ask the right questions, and deliver.</li>
-<li>Clear written communication; we make most decisions in writing.</li>
+<li>applicants at the wrong level;</li>
+<li>candidates from the wrong technical discipline;</li>
+<li>people who misunderstand the role;</li>
+<li>large volumes of low-fit applications;</li>
+<li>fewer qualified candidates than expected.</li>
+</ul>
+<p>A strong software engineer job description should help the right candidate answer several questions quickly:</p>
+<ol>
+<li>What would I actually build?</li>
+<li>Who would I build it for?</li>
+<li>What level is this role?</li>
+<li>What would I own?</li>
+<li>Which skills are truly required?</li>
+<li>What does the company pay?</li>
+<li>Where may I work?</li>
+<li>How will I be evaluated?</li>
+<li>What will success look like?</li>
+<li>Is this an organization I can trust?</li>
+</ol>
+<p>A job description is not merely an administrative document.</p>
+<p>It is:</p>
+<ul>
+<li>a sourcing tool;</li>
+<li>a qualification tool;</li>
+<li>an employer-brand asset;</li>
+<li>an expectation-setting document;</li>
+<li>the first stage of the candidate experience.</li>
+</ul>
+<p>The template below is designed to be copied, customized, and published without turning the role into a generic checklist.</p>
+<h1>Copy-and-paste software engineer job description template</h1>
+<p>Replace every bracketed section with accurate information about your company, team, and role.</p>
+<p>Do not leave placeholder language in the final listing.</p>
+<h2>[Level] Software Engineer at [Company]</h2>
+<p><strong>Location:</strong> [Remote within approved region / Hybrid in city with required office schedule / On-site in city]</p>
+<p><strong>Employment type:</strong> [Full-time / Part-time / Contract / Contract-to-hire]</p>
+<p><strong>Compensation:</strong> [Currency and base-salary range], plus [bonus, equity, commission, or other compensation]</p>
+<p><strong>Level:</strong> [Junior / Associate / Mid-level / Senior / Staff / Principal]</p>
+<p><strong>Reports to:</strong> [Engineering Manager / Director of Engineering / CTO / Technical Lead]</p>
+<p><strong>Team:</strong> [Team name or product area]</p>
+<h2>About [Company]</h2>
+<p>[Company] builds [plain-language description of the product] for [primary users or customers].</p>
+<p>Our product helps them [important user or business outcome].</p>
+<p>Today, we serve approximately [number of customers, users, transactions, requests, organizations, or another meaningful measure]. We are [bootstrapped / profitable / venture-backed / publicly traded / nonprofit / another relevant description].</p>
+<p>Our engineering organization includes [number] engineers across [number] teams.</p>
+<p>We are hiring a [level] Software Engineer to [single most important outcome this person will own].</p>
+<h3>Example</h3>
+<blockquote>
+<p>JobsList.dev is a developer-focused hiring marketplace that helps companies publish transparent technical roles and connect directly with engineering candidates. We are hiring a Senior Software Engineer to own the company hiring workflow from job creation through application review, assessment, and offer management.</p>
+</blockquote>
+<h2>The opportunity</h2>
+<p>This role exists because [explain the business, product, technical, or organizational reason].</p>
+<p>You will primarily work on [product area, service, platform, workflow, or customer problem].</p>
+<p>The most important challenge during the first year will be [specific outcome].</p>
+<h3>Example</h3>
+<blockquote>
+<p>Our employer workflow has grown from a simple posting form into a multi-stage hiring system. This role will help us redesign that workflow so companies can publish roles, evaluate applications, run assessments, and manage candidates without switching between several disconnected tools.</p>
+</blockquote>
+<p>Avoid vague language such as:</p>
+<blockquote>
+<p>We need a passionate engineer to help us scale.</p>
+</blockquote>
+<p>Explain what needs to change and why.</p>
+<h2>What you will do</h2>
+<p>You will:</p>
+<ul>
+<li>Design, build, test, release, and maintain software within [product or technical area].</li>
+<li>Own [specific service, workflow, feature family, platform capability, or system] from planning through production operation.</li>
+<li>Collaborate with [product managers, designers, data engineers, security, support, customers, or other partners] to clarify problems before implementation.</li>
+<li>Translate product and business requirements into maintainable technical solutions.</li>
+<li>Write readable, tested, and appropriately documented code.</li>
+<li>Review pull requests and provide constructive technical feedback.</li>
+<li>Investigate defects, performance issues, and production incidents.</li>
+<li>Improve reliability, security, accessibility, observability, and developer experience.</li>
+<li>Participate in technical design and architecture decisions appropriate to the role’s level.</li>
+<li>Help improve team practices, documentation, onboarding, and engineering standards.</li>
+<li>Participate in [on-call or incident response], which currently involves [honest description of frequency, load, and expectations].</li>
+<li>Support or mentor [junior engineers, peers, interns, or cross-functional teammates], when appropriate.</li>
+<li>Communicate progress, risk, and trade-offs clearly.</li>
+</ul>
+<p>Customize this list.</p>
+<p>Remove responsibilities that do not apply.</p>
+<p>Add responsibilities that define the real role.</p>
+<h2>What you will own</h2>
+<p>Be specific about ownership.</p>
+<p>This role will own:</p>
+<ul>
+<li>[service, feature family, workflow, infrastructure area, or system];</li>
+<li>[technical or product outcome];</li>
+<li>[quality, reliability, performance, or operational responsibility];</li>
+<li>[relevant stakeholder relationship].</li>
+</ul>
+<p>Shared ownership includes:</p>
+<ul>
+<li>[architecture with staff engineers];</li>
+<li>[roadmap with product];</li>
+<li>[release planning with platform];</li>
+<li>[security with the security team].</li>
+</ul>
+<p>Owned elsewhere:</p>
+<ul>
+<li>[infrastructure];</li>
+<li>[visual design];</li>
+<li>[data science];</li>
+<li>[customer support];</li>
+<li>[company-level architecture];</li>
+<li>[people management].</li>
+</ul>
+<p>This section prevents candidates from assuming either too little or too much scope.</p>
+<h2>What success looks like</h2>
+<h3>During the first 30 days</h3>
+<p>You will:</p>
+<ul>
+<li>complete technical and organizational onboarding;</li>
+<li>understand the product, users, and team priorities;</li>
+<li>configure the development environment;</li>
+<li>learn the relevant architecture and deployment workflow;</li>
+<li>complete a small production contribution;</li>
+<li>identify missing or outdated documentation.</li>
+</ul>
+<h3>During the first 60 days</h3>
+<p>You will:</p>
+<ul>
+<li>own a contained feature or technical improvement;</li>
+<li>participate independently in code review;</li>
+<li>collaborate with product or design on requirements;</li>
+<li>understand relevant production metrics and operational risks;</li>
+<li>begin contributing to planning and technical discussions.</li>
+</ul>
+<h3>During the first 90 days</h3>
+<p>You will:</p>
+<ul>
+<li>deliver a meaningful project or feature end to end;</li>
+<li>work independently within the expected scope;</li>
+<li>communicate blockers and risks early;</li>
+<li>contribute to team quality or developer-experience improvements;</li>
+<li>establish goals for the next six months.</li>
+</ul>
+<h3>During the first year</h3>
+<p>You may:</p>
+<ul>
+<li>own [system or product area];</li>
+<li>improve [metric or business outcome];</li>
+<li>lead [migration, initiative, launch, or reliability program];</li>
+<li>mentor other developers;</li>
+<li>influence technical direction;</li>
+<li>help the team scale its practices.</li>
+</ul>
+<p>Candidates can evaluate a role more accurately when they know what the company expects.</p>
+<h2>What we are looking for</h2>
+<p>You may be a strong fit if you have:</p>
+<ul>
+<li>[number]+ years of professional software-development experience, or equivalent evidence of ability.</li>
+<li>Experience building and maintaining production software.</li>
+<li>Strong working knowledge of [one or two genuinely essential languages, frameworks, or platforms].</li>
+<li>Experience with [database, API, frontend, infrastructure, or domain capability that is central to the work].</li>
+<li>Ability to break down ambiguous problems and identify the information needed to proceed.</li>
+<li>Experience writing tests appropriate to the risk and behavior being changed.</li>
+<li>Strong debugging and problem-solving skills.</li>
+<li>Clear written and verbal communication.</li>
+<li>Ability to receive feedback and collaborate across disciplines.</li>
+<li>Understanding of security, privacy, accessibility, reliability, or performance appropriate to the role.</li>
+<li>Experience operating or supporting software after release.</li>
+</ul>
+<p>Do not require an exact number of years when demonstrated ability would be sufficient.</p>
+<p>A candidate with four years of highly relevant ownership may be stronger than one with eight years of loosely related work.</p>
+<h2>Nice to have</h2>
+<p>The following experience is helpful but not required:</p>
+<ul>
+<li>[adjacent framework or language];</li>
+<li>[domain experience];</li>
+<li>[cloud or infrastructure tooling];</li>
+<li>[observability];</li>
+<li>[accessibility];</li>
+<li>[security];</li>
+<li>[open source];</li>
+<li>[distributed-team experience];</li>
+<li>[relevant compliance environment];</li>
+<li>[large-scale or high-availability systems];</li>
+<li>[mentoring or technical leadership].</li>
+</ul>
+<p>Keep this section short.</p>
+<p>If an item would cause you to reject a candidate, it is not actually “nice to have.”</p>
+<p>Move it to the required section or reconsider whether it is essential.</p>
+<h2>What you do not need</h2>
+<p>You do not need:</p>
+<ul>
+<li>experience with every technology in our stack;</li>
+<li>a computer-science degree;</li>
+<li>previous employment at a famous technology company;</li>
+<li>a public GitHub profile;</li>
+<li>professional experience in our exact industry;</li>
+<li>to meet every optional qualification.</li>
+</ul>
+<p>Add only statements your interview process will honor.</p>
+<p>Do not publish inclusive language and then filter candidates using the criteria you claimed were unnecessary.</p>
+<h2>Our technology environment</h2>
+<p>Customize this section with the systems the person will actually use.</p>
+<p><strong>Languages:</strong> [TypeScript, JavaScript, Python, Java, Go, Rust, C#, Ruby, PHP, Swift, Kotlin]</p>
+<p><strong>Frontend:</strong> [React, Next.js, Vue, Angular, Svelte, native mobile, design system]</p>
+<p><strong>Backend:</strong> [Node.js, Spring Boot, Django, FastAPI, Rails, ASP.NET, Go services]</p>
+<p><strong>Data:</strong> [PostgreSQL, MySQL, SQL Server, MongoDB, Redis, Elasticsearch]</p>
+<p><strong>Infrastructure:</strong> [AWS, Azure, Google Cloud, Kubernetes, serverless, managed platforms]</p>
+<p><strong>Testing:</strong> [unit, integration, end-to-end, contract testing, relevant tools]</p>
+<p><strong>CI/CD:</strong> [GitHub Actions, GitLab CI, CircleCI, Buildkite, another system]</p>
+<p><strong>Observability:</strong> [OpenTelemetry, Datadog, Grafana, Sentry, New Relic]</p>
+<p><strong>Development workflow:</strong> [trunk-based development, pull requests, feature flags, deployment cadence]</p>
+<p><strong>Architecture:</strong> [monolith, modular monolith, services, event-driven systems, mobile clients, embedded software]</p>
+<p><strong>Current technical reality:</strong> [one honest sentence about the codebase].</p>
+<h3>Example</h3>
+<blockquote>
+<p>Our newer product areas use TypeScript, React, and well-tested API services. Several employer-account workflows still live in an older module with limited test coverage, and modernizing that area will be part of this role.</p>
+</blockquote>
+<p>An honest sentence about technical debt is often more attractive than pretending the codebase is flawless.</p>
+<p>Experienced engineers know every production system has constraints.</p>
+<p>They want to understand what those constraints are.</p>
+<h2>How our engineering team works</h2>
+<p>Explain the operating environment.</p>
+<p>Include details such as:</p>
+<ul>
+<li>team size;</li>
+<li>reporting structure;</li>
+<li>planning cadence;</li>
+<li>deployment frequency;</li>
+<li>code-review expectations;</li>
+<li>technical-decision process;</li>
+<li>product collaboration;</li>
+<li>remote or hybrid communication;</li>
+<li>meeting load;</li>
+<li>documentation practices;</li>
+<li>on-call rotation.</li>
+</ul>
+<h3>Example</h3>
+<blockquote>
+<p>The team includes six engineers, one product manager, and one product designer. We plan in two-week cycles but release continuously. Larger technical decisions begin with short written proposals. Pull requests are usually reviewed within one working day. Engineers participate in discovery rather than receiving fully specified tickets.</p>
+</blockquote>
+<p>This helps candidates understand the daily work more accurately than statements about being “fast-paced.”</p>
+<h2>Remote and location expectations</h2>
+<p>State the real policy.</p>
+<h3>Remote example</h3>
+<blockquote>
+<p>This role is remote within the United States. Team members must be available for at least four working hours of overlap with US Eastern Time. We meet in person up to twice per year, with travel paid by the company.</p>
+</blockquote>
+<h3>Hybrid example</h3>
+<blockquote>
+<p>This role is hybrid in Chicago, with required office attendance on Tuesdays and Thursdays. The remaining days may be worked remotely.</p>
+</blockquote>
+<h3>On-site example</h3>
+<blockquote>
+<p>This role is based in our Austin office. Occasional remote work may be arranged with the manager, but the position is not designed as remote.</p>
+</blockquote>
+<p>Include:</p>
+<ul>
+<li>supported locations;</li>
+<li>time-zone requirements;</li>
+<li>office expectations;</li>
+<li>travel;</li>
+<li>relocation;</li>
+<li>sponsorship;</li>
+<li>permanent or temporary remote status.</li>
+</ul>
+<p>Do not advertise a role as remote when the candidate must live near an office or may be required to return later.</p>
+<h2>On-call and production responsibility</h2>
+<p>If the role includes on-call work, explain it.</p>
+<p>Include:</p>
+<ul>
+<li>rotation size;</li>
+<li>frequency;</li>
+<li>expected response time;</li>
+<li>typical incident volume;</li>
+<li>overnight expectations;</li>
+<li>compensation or time off;</li>
+<li>escalation;</li>
+<li>who handles customer communication.</li>
+</ul>
+<h3>Example</h3>
+<blockquote>
+<p>Engineers join a seven-person on-call rotation after onboarding. A typical rotation lasts one week every seven weeks. Most alerts occur during business hours, and overnight pages are uncommon. The primary engineer has an escalation partner and receives recovery time after significant incidents.</p>
+</blockquote>
+<p>Silence about on-call expectations creates avoidable offer-stage surprises.</p>
+<h2>Compensation</h2>
+<p>Publish a real range.</p>
+<p>Include:</p>
+<ul>
+<li>currency;</li>
+<li>base salary;</li>
+<li>bonus;</li>
+<li>equity;</li>
+<li>geographic adjustment;</li>
+<li>commission where relevant;</li>
+<li>contractor rate;</li>
+<li>level.</li>
+</ul>
+<h3>Example</h3>
+<blockquote>
+<p>Base salary: $145,000–$180,000 USD
+Annual bonus: Up to 10%
+Equity: Included for eligible employees
+Compensation is adjusted by role level and approved work location.</p>
+</blockquote>
+<p>Do not write:</p>
+<blockquote>
+<p>Competitive compensation.</p>
+</blockquote>
+<p>That phrase gives candidates no useful information.</p>
+<h2>Benefits</h2>
+<p>List benefits precisely.</p>
+<p>Possible categories include:</p>
+<h3>Health and wellbeing</h3>
+<ul>
+<li>medical insurance;</li>
+<li>dental and vision coverage;</li>
+<li>mental-health support;</li>
+<li>disability coverage;</li>
+<li>life insurance.</li>
+</ul>
+<h3>Time off</h3>
+<ul>
+<li>annual paid leave;</li>
+<li>company holidays;</li>
+<li>sick leave;</li>
+<li>parental leave;</li>
+<li>bereavement leave;</li>
+<li>volunteer time.</li>
+</ul>
+<h3>Work support</h3>
+<ul>
+<li>laptop choice;</li>
+<li>monitors;</li>
+<li>home-office stipend;</li>
+<li>internet reimbursement;</li>
+<li>coworking budget;</li>
+<li>mobile or test-device allowance.</li>
+</ul>
+<h3>Growth</h3>
+<ul>
+<li>learning budget;</li>
+<li>conferences;</li>
+<li>certifications;</li>
+<li>books;</li>
+<li>mentorship;</li>
+<li>internal mobility.</li>
+</ul>
+<h3>Financial</h3>
+<ul>
+<li>retirement contributions;</li>
+<li>equity;</li>
+<li>bonus;</li>
+<li>profit sharing;</li>
+<li>commuter benefits.</li>
+</ul>
+<p>Use actual numbers when possible.</p>
+<p>“Generous PTO” is less useful than “25 paid days per year.”</p>
+<h2>Accessibility and accommodations</h2>
+<p>Include a clear accommodation statement.</p>
+<p>Example:</p>
+<blockquote>
+<p>We provide reasonable accommodations throughout the application and interview process. Contact [email or process] if you need an adjustment to the format, schedule, technology, or environment.</p>
+</blockquote>
+<p>Do not require candidates to disclose medical details to several interviewers.</p>
+<p>Use one private, documented process.</p>
+<h2>Interview process</h2>
+<p>Publish the stages, approximate duration, and evaluation focus.</p>
+<h3>Stage 1: application review</h3>
+<p>We review your résumé, profile, and relevant work against the role’s core requirements.</p>
+<h3>Stage 2: introductory conversation — [30 minutes]</h3>
+<p>Meet [recruiter, hiring manager, or engineer].</p>
+<p>We will discuss:</p>
+<ul>
+<li>role scope;</li>
+<li>location;</li>
+<li>compensation;</li>
+<li>experience;</li>
+<li>candidate questions;</li>
+<li>interview process.</li>
+</ul>
+<h3>Stage 3: technical experience discussion — [60 minutes]</h3>
+<p>Walk through a system, feature, project, or technical decision you owned.</p>
+<p>We will focus on:</p>
+<ul>
+<li>your contribution;</li>
+<li>design decisions;</li>
+<li>testing;</li>
+<li>debugging;</li>
+<li>trade-offs;</li>
+<li>operation after release.</li>
+</ul>
+<h3>Stage 4: practical technical assessment — [60–120 minutes]</h3>
+<p>Choose the format that accurately reflects your process.</p>
+<p>Possible formats include:</p>
+<ul>
+<li>pair programming;</li>
+<li>code review;</li>
+<li>debugging;</li>
+<li>architecture discussion;</li>
+<li>paid take-home assignment.</li>
+</ul>
+<p>State:</p>
+<ul>
+<li>expected duration;</li>
+<li>whether it is paid;</li>
+<li>allowed tools;</li>
+<li>AI-assistance policy;</li>
+<li>evaluation criteria.</li>
+</ul>
+<h3>Stage 5: team conversation — [45–60 minutes]</h3>
+<p>Meet future teammates and discuss:</p>
+<ul>
+<li>collaboration;</li>
+<li>communication;</li>
+<li>feedback;</li>
+<li>product thinking;</li>
+<li>team practices.</li>
+</ul>
+<h3>Decision</h3>
+<p>We aim to provide a final decision or clear update within [number] business days.</p>
+<p>Candidates should not need to guess how many stages remain.</p>
+<h2>AI-tool policy for assessments</h2>
+<p>Modern developers may use AI tools during ordinary work.</p>
+<p>Define your policy before the interview.</p>
+<p>Possible language:</p>
+<blockquote>
+<p>AI tools are permitted during the practical exercise, but candidates must be able to explain, test, modify, and defend all submitted work. Do not enter confidential or personal information into external systems.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>AI assistance is not permitted during this assessment because we are evaluating unaided fundamentals. Documentation and ordinary search are allowed.</p>
+</blockquote>
+<p>Whichever policy you choose:</p>
+<ul>
+<li>communicate it in advance;</li>
+<li>apply it consistently;</li>
+<li>evaluate the job-relevant capability;</li>
+<li>avoid secret expectations.</li>
+</ul>
+<h2>Equal-opportunity statement</h2>
+<p>Use language aligned with your actual legal and organizational requirements.</p>
+<p>A general example:</p>
+<blockquote>
+<p>[Company] is an equal-opportunity employer. We consider qualified applicants without regard to legally protected characteristics and welcome candidates from a wide range of backgrounds, career paths, and experiences.</p>
+</blockquote>
+<p>Do not rely on a generic statement while maintaining unnecessary filters elsewhere in the posting.</p>
+<h2>How to apply</h2>
+<p>Apply through [application link].</p>
+<p>Please include:</p>
+<ul>
+<li>résumé or professional profile;</li>
+<li>relevant work samples when available;</li>
+<li>a short explanation of a project or outcome connected to the role;</li>
+<li>required location or work-authorization information.</li>
+</ul>
+<p>We aim to respond within [time frame].</p>
+<p>Avoid asking candidates to:</p>
+<ul>
+<li>rewrite their résumé into several form fields;</li>
+<li>provide salary history;</li>
+<li>complete unpaid work before a human conversation;</li>
+<li>answer long essay questions;</li>
+<li>record unnecessary videos;</li>
+<li>disclose protected personal information.</li>
+</ul>
+<h1>A shorter ready-to-publish example</h1>
+<h2>Senior Software Engineer — Product Platform</h2>
+<p><strong>Location:</strong> Remote within the United States
+<strong>Compensation:</strong> $150,000–$185,000 base, plus equity
+<strong>Employment type:</strong> Full-time
+<strong>Reports to:</strong> Engineering Manager</p>
+<h3>About us</h3>
+<p>Acme builds workflow software used by logistics teams to coordinate inventory, shipments, and delivery exceptions. More than 1,500 organizations use the platform to manage time-sensitive operations.</p>
+<p>We are hiring a Senior Software Engineer to own the platform services behind shipment exceptions and customer notifications.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Build and operate TypeScript services and React product workflows.</li>
+<li>Own exception-processing features from design through production.</li>
+<li>Work with product, design, support, and customers to clarify operational problems.</li>
+<li>Design APIs and PostgreSQL data models.</li>
+<li>Write automated tests and participate in code review.</li>
+<li>Improve observability, reliability, and performance.</li>
+<li>Join a seven-person on-call rotation after onboarding.</li>
+<li>Mentor engineers through reviews and technical planning.</li>
+</ul>
+<h3>What we are looking for</h3>
+<ul>
+<li>Experience building and maintaining production web applications.</li>
+<li>Strong TypeScript or comparable backend-language experience.</li>
+<li>Experience with relational databases and API design.</li>
+<li>Ability to own ambiguous work and communicate trade-offs.</li>
+<li>Strong debugging and testing habits.</li>
+<li>Clear written communication.</li>
 </ul>
 <h3>Nice to have</h3>
 <ul>
-<li>Experience with [adjacent technology].</li>
-<li>Background in [your domain].</li>
-<li>Open-source contributions, side projects, or anything you can show us.</li>
+<li>React experience.</li>
+<li>Event-driven systems.</li>
+<li>Logistics or operational-software experience.</li>
+<li>OpenTelemetry or production-observability experience.</li>
 </ul>
-<p>We don&#39;t expect every box ticked. If you meet most of this and the work sounds interesting, apply.</p>
+<p>You do not need experience with every item in our stack.</p>
 <h3>Our stack</h3>
-<p>[List the actual stack: language, framework, database, infrastructure.] You don&#39;t need experience in all of it.</p>
+<p>TypeScript, React, Node.js, PostgreSQL, Redis, AWS, GitHub Actions, OpenTelemetry, and Grafana.</p>
+<p>The platform is a modular monolith with several supporting services. Our core shipment workflow is well tested, while the notification area has grown quickly and needs clearer boundaries and stronger operational visibility.</p>
+<h3>How we work</h3>
+<p>The team includes seven engineers, one product manager, and one designer. We release several times per week. Larger technical changes begin with short written proposals, and most pull requests are reviewed within one working day.</p>
 <h3>Interview process</h3>
 <ol>
-<li><strong>[30 min]</strong> Intro call with [name / role].</li>
-<li><strong>[60 min]</strong> Technical conversation about your past work — no whiteboard puzzles.</li>
-<li><strong>[90 min]</strong> Practical session: [pairing on a realistic problem / walkthrough of a take-home you&#39;re paid for].</li>
-<li><strong>[45 min]</strong> Meet the team and ask us anything.</li>
+<li>30-minute conversation with the hiring manager.</li>
+<li>60-minute discussion about a production system you owned.</li>
+<li>90-minute collaborative debugging and design exercise.</li>
+<li>45-minute conversation with future teammates.</li>
 </ol>
-<p>We aim to go from application to decision in [n] working days and will tell you where you stand at every stage.</p>
+<p>No algorithm puzzles and no unpaid take-home project.</p>
+<p>We aim to provide a decision within ten business days.</p>
 <h3>Benefits</h3>
-<p>[Health cover, PTO policy with the actual number, remote/equipment budget, learning budget, parental leave, pension/401k.]</p>
+<ul>
+<li>Medical, dental, and vision coverage</li>
+<li>25 days of paid leave</li>
+<li>Twelve weeks of paid parental leave</li>
+<li>$2,000 annual learning budget</li>
+<li>Laptop and $1,500 home-office stipend</li>
+<li>401(k) matching</li>
+<li>Two company gatherings per year with travel covered</li>
+</ul>
 <h3>How to apply</h3>
-<p>[Application link.] [Any specific instruction — e.g. &quot;tell us about something you built and what you&#39;d change about it.&quot;] We read every application and reply to everyone.</p>
-<p>[Company] is an equal opportunity employer. We welcome applicants from every background.</p>
-<h2>What to change first</h2>
-<p>The template is a skeleton. Four fields do most of the work:</p>
+<p>Apply through [link] and tell us about one production problem you investigated and what you changed afterward.</p>
+<p>We provide reasonable accommodations throughout the interview process.</p>
+<h1>How to define the role before writing the posting</h1>
+<p>A job description will remain vague if the hiring team has not agreed on the role.</p>
+<p>Before writing, answer the following questions.</p>
+<h2>Why are we hiring?</h2>
+<p>Possible reasons include:</p>
 <ul>
-<li><strong>The compensation range.</strong> The single highest-impact line. Candidates increasingly filter out posts without one, and publishing it removes the misalignment that kills offers in the final week.</li>
-<li><strong>The opening outcome sentence.</strong> &quot;To own our billing system&#39;s move off the monolith&quot; beats &quot;to join our fast-paced team&quot; by an enormous margin. Name the actual work.</li>
-<li><strong>The years-of-experience number.</strong> Inflated requirements filter out capable people and attract nobody extra. If a strong three-year engineer could do this job, don&#39;t write eight.</li>
-<li><strong>The interview process.</strong> Publishing it is rare enough to be a differentiator, and it pre-empts the top question every candidate has.</li>
+<li>replacing a departing engineer;</li>
+<li>launching a product;</li>
+<li>reducing technical risk;</li>
+<li>creating a new team;</li>
+<li>improving delivery capacity;</li>
+<li>addressing reliability;</li>
+<li>modernizing a system;</li>
+<li>bringing a capability in-house.</li>
 </ul>
-<h2>What to delete</h2>
+<p>The reason shapes the role.</p>
+<h2>What outcome should this person own?</h2>
+<p>Avoid:</p>
+<blockquote>
+<p>Help the engineering team.</p>
+</blockquote>
+<p>Prefer:</p>
+<blockquote>
+<p>Own the migration of the billing workflow from the legacy application into the new payments platform.</p>
+</blockquote>
+<h2>What level is required?</h2>
+<p>Define the expected:</p>
 <ul>
-<li><strong>&quot;Rockstar,&quot; &quot;ninja,&quot; &quot;wizard,&quot; &quot;guru.&quot;</strong> These read as dated at best.</li>
-<li><strong>&quot;Fast-paced environment.&quot;</strong> Every candidate reads this as &quot;understaffed and disorganized.&quot;</li>
-<li><strong>&quot;We&#39;re like a family.&quot;</strong> Families don&#39;t run layoffs, and experienced candidates know it.</li>
-<li><strong>A requirements list longer than eight items.</strong> Long lists don&#39;t raise quality; they suppress applications, disproportionately from candidates who self-assess conservatively.</li>
-<li><strong>&quot;Competitive salary.&quot;</strong> It communicates nothing and signals you&#39;d rather not say.</li>
-<li><strong>Unpaid multi-day take-homes.</strong> Mention one and you lose most senior candidates before the first call.</li>
+<li>scope;</li>
+<li>independence;</li>
+<li>technical complexity;</li>
+<li>influence;</li>
+<li>mentoring;</li>
+<li>decision authority;</li>
+<li>operational responsibility.</li>
 </ul>
-<h2>Why the structure works</h2>
-<p>Candidates skim job posts in well under a minute, in a predictable order: title, location, money, then what the job actually is. The template front-loads exactly that. Everything a candidate needs in order to decide <em>whether to keep reading</em> appears before they scroll.</p>
-<p>The second half — stack, process, benefits, how to apply — is for the candidate who has already decided they&#39;re interested and is now looking for reasons to disqualify you. Give them straight answers there and you keep the people most likely to have other options.</p>
-<h2>The takeaway</h2>
-<p>A good job description isn&#39;t a legal document or a wish list; it&#39;s a sales page for a specific piece of work. Lead with the outcome and the number, keep requirements honest and short, publish your process, and delete every phrase that appears in a thousand other posts. Fifteen minutes of editing here changes the quality of every application that follows.</p>
-<p><em>Ready to publish? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers directly.</em></p>
+<p>Years of experience alone do not define level.</p>
+<h2>Which skills are necessary on day one?</h2>
+<p>Ask:</p>
+<ul>
+<li>Which capabilities would be dangerous or expensive to learn after joining?</li>
+<li>Which tools can a strong engineer learn during onboarding?</li>
+<li>Does this person need domain expertise immediately?</li>
+<li>Is a particular language essential, or are the underlying concepts transferable?</li>
+</ul>
+<h2>Who will support the role?</h2>
+<p>Identify:</p>
+<ul>
+<li>manager;</li>
+<li>technical lead;</li>
+<li>product partner;</li>
+<li>designer;</li>
+<li>platform team;</li>
+<li>security team;</li>
+<li>onboarding buddy.</li>
+</ul>
+<p>A job description should not imply independent ownership when the organization has not defined support.</p>
+<h2>What work will they do during the first six months?</h2>
+<p>List actual projects.</p>
+<p>If the hiring team cannot name likely work, the role may not be ready to publish.</p>
+<h1>Choose an accurate title</h1>
+<p>Software-engineering titles vary widely.</p>
+<p>Common titles include:</p>
+<ul>
+<li>Junior Software Developer</li>
+<li>Associate Software Engineer</li>
+<li>Software Engineer</li>
+<li>Software Engineer II</li>
+<li>Senior Software Engineer</li>
+<li>Staff Software Engineer</li>
+<li>Principal Software Engineer</li>
+<li>Product Engineer</li>
+<li>Backend Engineer</li>
+<li>Frontend Engineer</li>
+<li>Full-Stack Engineer</li>
+<li>Platform Engineer</li>
+<li>Mobile Engineer</li>
+<li>Data Engineer</li>
+<li>Site Reliability Engineer</li>
+</ul>
+<p>Use the title candidates in your market will recognize.</p>
+<p>Do not title a role “Software Engineer” if the work is almost entirely:</p>
+<ul>
+<li>QA automation;</li>
+<li>implementation consulting;</li>
+<li>technical support;</li>
+<li>data analysis;</li>
+<li>DevOps;</li>
+<li>project management.</li>
+</ul>
+<p>Accurate titles improve search visibility and candidate fit.</p>
+<h1>Define level through scope, not inflated adjectives</h1>
+<h2>Junior or associate</h2>
+<p>Usually works on:</p>
+<ul>
+<li>clearly scoped tasks;</li>
+<li>established patterns;</li>
+<li>small features;</li>
+<li>supported debugging;</li>
+<li>guided production work.</li>
+</ul>
+<h2>Mid-level</h2>
+<p>Usually:</p>
+<ul>
+<li>owns features independently;</li>
+<li>handles routine ambiguity;</li>
+<li>contributes to design;</li>
+<li>supports production;</li>
+<li>collaborates across functions.</li>
+</ul>
+<h2>Senior</h2>
+<p>Usually:</p>
+<ul>
+<li>owns complex projects;</li>
+<li>shapes technical approaches;</li>
+<li>identifies risk;</li>
+<li>mentors others;</li>
+<li>improves systems and team practices;</li>
+<li>handles significant ambiguity.</li>
+</ul>
+<h2>Staff</h2>
+<p>Usually:</p>
+<ul>
+<li>influences several teams or systems;</li>
+<li>leads broad technical initiatives;</li>
+<li>resolves cross-team architecture problems;</li>
+<li>shapes long-term technical direction;</li>
+<li>operates through influence rather than direct authority.</li>
+</ul>
+<h2>Principal</h2>
+<p>Usually:</p>
+<ul>
+<li>addresses company-wide technical problems;</li>
+<li>shapes architecture and engineering strategy;</li>
+<li>influences leaders and teams across the organization;</li>
+<li>works on unusually complex, high-impact technical concerns.</li>
+</ul>
+<p>A senior role should not simply be a mid-level role with more years required.</p>
+<h1>Front-load the information candidates need</h1>
+<p>Candidates often skim before reading closely.</p>
+<p>Place the following near the top:</p>
+<ul>
+<li>title;</li>
+<li>level;</li>
+<li>location;</li>
+<li>remote expectations;</li>
+<li>compensation;</li>
+<li>role mission;</li>
+<li>primary ownership.</li>
+</ul>
+<p>Do not hide compensation and location beneath several paragraphs of company history.</p>
+<h1>Lead with work, not company adjectives</h1>
+<p>Weak:</p>
+<blockquote>
+<p>Join our innovative, fast-growing team of passionate rockstars disrupting the future of technology.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>You will own the services that calculate subscription entitlements for more than 20,000 customer organizations.</p>
+</blockquote>
+<p>The second sentence gives the candidate something concrete to evaluate.</p>
+<h1>Explain the customer and product</h1>
+<p>Engineers want to understand what their work affects.</p>
+<p>Include:</p>
+<ul>
+<li>who uses the product;</li>
+<li>what problem it solves;</li>
+<li>how frequently it is used;</li>
+<li>what failure would mean;</li>
+<li>which outcomes matter.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>Our scheduling platform is used by home-health agencies to coordinate more than 300,000 patient visits each month. Missed or delayed scheduling events can affect patient care, so reliability and clear failure handling are central to the role.</p>
+</blockquote>
+<p>This is more meaningful than saying the product is “mission-critical.”</p>
+<h1>Publish scale honestly</h1>
+<p>Useful scale indicators include:</p>
+<ul>
+<li>active users;</li>
+<li>customers;</li>
+<li>requests per second;</li>
+<li>events per day;</li>
+<li>data volume;</li>
+<li>transactions;</li>
+<li>deployment frequency;</li>
+<li>geographic reach;</li>
+<li>team size;</li>
+<li>service count.</li>
+</ul>
+<p>Do not exaggerate modest scale.</p>
+<p>Interesting engineering work is not limited to enormous systems.</p>
+<p>A smaller system may still present difficult problems involving:</p>
+<ul>
+<li>security;</li>
+<li>workflow complexity;</li>
+<li>compliance;</li>
+<li>correctness;</li>
+<li>offline behavior;</li>
+<li>maintainability;</li>
+<li>customer needs.</li>
+</ul>
+<h1>Separate requirements from preferences</h1>
+<p>A clear listing may use three sections:</p>
+<h2>Required</h2>
+<p>Capabilities necessary to begin safely.</p>
+<h2>Preferred</h2>
+<p>Helpful experience that may shorten ramp time.</p>
+<h2>Learnable here</h2>
+<p>Tools and practices the team is prepared to teach.</p>
+<p>This structure encourages strong transferable candidates to apply.</p>
+<h1>Limit the requirement list</h1>
+<p>A role rarely has twenty genuine requirements.</p>
+<p>Long lists create several problems:</p>
+<ul>
+<li>they make the role appear broader than it is;</li>
+<li>they discourage qualified candidates;</li>
+<li>they attract applicants who match keywords rather than outcomes;</li>
+<li>they create inconsistent screening;</li>
+<li>they hide the capabilities that truly matter.</li>
+</ul>
+<p>Keep the required list focused.</p>
+<p>For many roles, five to eight clear items are enough.</p>
+<h1>Avoid unnecessary degree requirements</h1>
+<p>Require a degree only when it is genuinely necessary.</p>
+<p>Possible valid reasons include:</p>
+<ul>
+<li>legal requirements;</li>
+<li>professional licensing;</li>
+<li>specialized scientific knowledge;</li>
+<li>customer or government contract terms.</li>
+</ul>
+<p>Otherwise, evaluate:</p>
+<ul>
+<li>experience;</li>
+<li>projects;</li>
+<li>technical foundation;</li>
+<li>professional judgment;</li>
+<li>ability to perform the work.</li>
+</ul>
+<p>A degree may be one path to competence, not the only path.</p>
+<h1>Use transferable technology requirements</h1>
+<p>Weak:</p>
+<blockquote>
+<p>Five years of Next.js 15 required.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Strong experience building production React applications. Experience with Next.js is helpful, and we will support candidates coming from comparable frameworks.</p>
+</blockquote>
+<p>Framework versions change.</p>
+<p>Fundamentals transfer.</p>
+<p>For backend roles, transferable capabilities may include:</p>
+<ul>
+<li>API design;</li>
+<li>data modeling;</li>
+<li>concurrency;</li>
+<li>testing;</li>
+<li>reliability;</li>
+<li>security;</li>
+<li>distributed systems.</li>
+</ul>
+<p>For frontend roles:</p>
+<ul>
+<li>web platform fundamentals;</li>
+<li>accessibility;</li>
+<li>state management;</li>
+<li>performance;</li>
+<li>testing;</li>
+<li>component design.</li>
+</ul>
+<h1>Describe the engineering quality bar</h1>
+<p>Candidates want to know what “good engineering” means at your company.</p>
+<p>You may discuss:</p>
+<ul>
+<li>testing;</li>
+<li>code review;</li>
+<li>security;</li>
+<li>accessibility;</li>
+<li>monitoring;</li>
+<li>documentation;</li>
+<li>deployments;</li>
+<li>incident learning;</li>
+<li>technical debt;</li>
+<li>product collaboration.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>We expect changes to include tests appropriate to their risk, and every production feature must have observable success and failure signals. We prefer small, reviewable changes over large hidden branches.</p>
+</blockquote>
+<h1>Be honest about technical debt</h1>
+<p>Avoid:</p>
+<blockquote>
+<p>Work in a pristine, cutting-edge codebase.</p>
+</blockquote>
+<p>A more credible statement:</p>
+<blockquote>
+<p>The core platform is stable, but several account-management workflows have limited automated coverage. Improving them without interrupting customers will be one of the early challenges.</p>
+</blockquote>
+<p>The right candidate may be attracted by that problem.</p>
+<h1>Explain decision authority</h1>
+<p>Candidates should know whether they will:</p>
+<ul>
+<li>implement decisions;</li>
+<li>propose solutions;</li>
+<li>own a system;</li>
+<li>approve architecture;</li>
+<li>influence roadmaps;</li>
+<li>mentor;</li>
+<li>lead initiatives.</li>
+</ul>
+<p>Do not advertise ownership when every meaningful decision is made elsewhere.</p>
+<h1>Explain coding expectations for leadership roles</h1>
+<p>For staff engineers, technical leads, or managers, state how much hands-on implementation is expected.</p>
+<p>Examples:</p>
+<blockquote>
+<p>This is an individual-contributor role. You will still write and review production code, but broad technical leadership across three teams is the primary expectation.</p>
+</blockquote>
+<blockquote>
+<p>This is a player-coach role with approximately 50% implementation and 50% mentoring, planning, and technical coordination.</p>
+</blockquote>
+<p>Ambiguity here creates early turnover.</p>
+<h1>Publish the interview process</h1>
+<p>A transparent process improves trust and helps candidates prepare.</p>
+<p>Include:</p>
+<ul>
+<li>number of stages;</li>
+<li>duration;</li>
+<li>format;</li>
+<li>participants;</li>
+<li>assessment type;</li>
+<li>expected timeline;</li>
+<li>permitted tools;</li>
+<li>whether take-home work is paid.</li>
+</ul>
+<p>Avoid adding unannounced interviews halfway through the process.</p>
+<h1>Make the interview resemble the role</h1>
+<p>For a product engineer, consider:</p>
+<ul>
+<li>feature walkthrough;</li>
+<li>code review;</li>
+<li>debugging;</li>
+<li>practical implementation;</li>
+<li>product trade-offs.</li>
+</ul>
+<p>For a platform engineer:</p>
+<ul>
+<li>incident analysis;</li>
+<li>reliability design;</li>
+<li>deployment architecture;</li>
+<li>operational trade-offs.</li>
+</ul>
+<p>For a senior engineer:</p>
+<ul>
+<li>system ownership;</li>
+<li>technical leadership;</li>
+<li>project failure;</li>
+<li>mentoring;</li>
+<li>architecture decisions.</li>
+</ul>
+<p>Do not use the same interview for every engineering role.</p>
+<h1>Avoid unpaid, excessive assessments</h1>
+<p>A practical exercise should be:</p>
+<ul>
+<li>relevant;</li>
+<li>time-boxed;</li>
+<li>clearly evaluated;</li>
+<li>reviewed promptly;</li>
+<li>followed by a discussion.</li>
+</ul>
+<p>Offer a live alternative when possible.</p>
+<p>Pay candidates when the exercise becomes substantial.</p>
+<p>Never ask candidates to build work your company could use in production.</p>
+<h1>Publish compensation before the final stage</h1>
+<p>Compensation transparency:</p>
+<ul>
+<li>improves self-selection;</li>
+<li>reduces wasted interviews;</li>
+<li>supports fairer negotiation;</li>
+<li>builds trust;</li>
+<li>increases the likelihood of aligned offers.</li>
+</ul>
+<p>A wide range without leveling context may still be unhelpful.</p>
+<p>Explain how placement within the range is determined.</p>
+<h1>Explain equity rather than using it as decoration</h1>
+<p>If equity is part of compensation, clarify what you can.</p>
+<p>Depending on the company and jurisdiction, useful information may include:</p>
+<ul>
+<li>grant type;</li>
+<li>vesting schedule;</li>
+<li>cliff;</li>
+<li>exercise price;</li>
+<li>exercise window;</li>
+<li>valuation context;</li>
+<li>dilution;</li>
+<li>liquidity limitations.</li>
+</ul>
+<p>Do not imply equity is guaranteed future wealth.</p>
+<h1>State the real remote policy</h1>
+<p>Candidates need to know:</p>
+<ul>
+<li>approved countries or states;</li>
+<li>time-zone overlap;</li>
+<li>travel;</li>
+<li>office attendance;</li>
+<li>employment structure;</li>
+<li>location-based pay;</li>
+<li>whether remote status can change.</li>
+</ul>
+<p>“Remote” should not conceal operational constraints.</p>
+<h1>Include security and privacy expectations</h1>
+<p>Software engineers may handle:</p>
+<ul>
+<li>personal data;</li>
+<li>credentials;</li>
+<li>financial information;</li>
+<li>production access;</li>
+<li>customer content;</li>
+<li>regulated information.</li>
+</ul>
+<p>Mention relevant expectations such as:</p>
+<ul>
+<li>secure coding;</li>
+<li>least privilege;</li>
+<li>incident reporting;</li>
+<li>data handling;</li>
+<li>secrets management;</li>
+<li>dependency management;</li>
+<li>privacy-by-design.</li>
+</ul>
+<p>Do not turn every engineer into the entire security department.</p>
+<p>Explain the boundaries and support.</p>
+<h1>Include accessibility where relevant</h1>
+<p>For customer-facing software, accessibility should be part of quality.</p>
+<p>Possible language:</p>
+<blockquote>
+<p>You will work with design and product to build accessible interfaces and test important workflows with keyboard navigation, semantic markup, and assistive-technology guidance.</p>
+</blockquote>
+<p>Do not list accessibility only as an optional value statement while excluding it from the work.</p>
+<h1>Make the application reasonable</h1>
+<p>A candidate has already prepared a résumé.</p>
+<p>Avoid requiring them to manually re-enter:</p>
+<ul>
+<li>employment history;</li>
+<li>education;</li>
+<li>skills;</li>
+<li>project details;</li>
+<li>references.</li>
+</ul>
+<p>Ask only for information needed to evaluate the application.</p>
+<h1>Tell candidates whether you respond</h1>
+<p>A simple statement can improve trust:</p>
+<blockquote>
+<p>We review every application and aim to provide an update within ten business days.</p>
+</blockquote>
+<p>Only include it when you have a process capable of delivering it.</p>
+<h1>Common job-description mistakes</h1>
+<h2>Copying a competitor</h2>
+<p>Their structure, level, and technical needs may not match yours.</p>
+<h2>Writing before defining the role</h2>
+<p>The posting becomes a list of disconnected preferences.</p>
+<h2>Hiding compensation</h2>
+<p>Aligned candidates leave before applying.</p>
+<h2>Using vague ownership language</h2>
+<p>Candidates cannot understand what they would actually control.</p>
+<h2>Listing every technology</h2>
+<p>The job appears unrealistic and unfocused.</p>
+<h2>Inflating years of experience</h2>
+<p>Strong candidates self-reject while keyword matchers apply.</p>
+<h2>Misusing “full stack”</h2>
+<p>The role quietly combines several jobs.</p>
+<h2>Ignoring technical debt</h2>
+<p>Candidates discover the truth after joining.</p>
+<h2>Claiming remote while requiring local presence</h2>
+<p>Trust is damaged immediately.</p>
+<h2>Publishing no interview details</h2>
+<p>Candidates assume the process may be long or arbitrary.</p>
+<h2>Requiring free production work</h2>
+<p>Strong candidates withdraw.</p>
+<h2>Writing only about the company</h2>
+<p>The candidate cannot understand what is in the role for them.</p>
+<h2>Using generic culture language</h2>
+<p>Statements such as “great culture” provide no evidence.</p>
+<h2>Omitting on-call expectations</h2>
+<p>Candidates discover a major responsibility late.</p>
+<h2>Calling every role senior</h2>
+<p>Leveling becomes meaningless.</p>
+<h1>Phrases to remove</h1>
+<p>Delete or replace phrases such as:</p>
+<ul>
+<li>rockstar;</li>
+<li>ninja;</li>
+<li>guru;</li>
+<li>wizard;</li>
+<li>coding machine;</li>
+<li>work hard, play hard;</li>
+<li>we are a family;</li>
+<li>fast-paced environment;</li>
+<li>wear many hats;</li>
+<li>hit the ground running;</li>
+<li>competitive salary;</li>
+<li>cutting-edge technology;</li>
+<li>world-class team;</li>
+<li>disrupt the industry;</li>
+<li>passionate self-starter;</li>
+<li>unlimited growth potential;</li>
+<li>other duties as assigned.</li>
+</ul>
+<p>Replace them with evidence.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Fast-paced environment</p>
+</blockquote>
+<p>write:</p>
+<blockquote>
+<p>Product priorities are reviewed every two weeks, and urgent customer issues may occasionally change the planned order of work.</p>
+</blockquote>
+<p>Instead of:</p>
+<blockquote>
+<p>Great culture</p>
+</blockquote>
+<p>write:</p>
+<blockquote>
+<p>Engineers receive weekly one-to-ones, technical decisions are documented, and recurring meetings are limited to four hours per week.</p>
+</blockquote>
+<h1>Job-description review checklist</h1>
+<p>Before publishing, confirm that the listing includes:</p>
+<ul>
+<li>accurate title;</li>
+<li>correct level;</li>
+<li>role mission;</li>
+<li>primary ownership;</li>
+<li>customer or product context;</li>
+<li>location;</li>
+<li>remote or hybrid expectations;</li>
+<li>approved regions;</li>
+<li>compensation;</li>
+<li>employment type;</li>
+<li>reporting line;</li>
+<li>realistic responsibilities;</li>
+<li>short required-qualification list;</li>
+<li>separate optional qualifications;</li>
+<li>honest stack description;</li>
+<li>codebase reality;</li>
+<li>team structure;</li>
+<li>development practices;</li>
+<li>on-call expectations;</li>
+<li>success measures;</li>
+<li>interview stages;</li>
+<li>assessment rules;</li>
+<li>expected timeline;</li>
+<li>benefits;</li>
+<li>accommodations;</li>
+<li>equal-opportunity language;</li>
+<li>clear application link.</li>
+</ul>
+<h1>Hiring-manager alignment checklist</h1>
+<p>Before the role opens, the hiring manager should be able to answer:</p>
+<ul>
+<li>Why does this role exist?</li>
+<li>What outcome must the person create?</li>
+<li>Which projects will they likely own?</li>
+<li>What level of independence is required?</li>
+<li>Which skills are mandatory?</li>
+<li>Which skills can be taught?</li>
+<li>What is the compensation band?</li>
+<li>Who will interview candidates?</li>
+<li>What evidence will each interview collect?</li>
+<li>Who makes the final decision?</li>
+<li>What will onboarding include?</li>
+<li>Who will support the new hire?</li>
+<li>What does success look like after 90 days?</li>
+<li>What would make a candidate fail in this role?</li>
+<li>Is the team ready for this hire?</li>
+</ul>
+<h1>Recruiter-screening checklist</h1>
+<p>Recruiters should screen for:</p>
+<ul>
+<li>basic role alignment;</li>
+<li>level;</li>
+<li>relevant capabilities;</li>
+<li>location;</li>
+<li>work authorization;</li>
+<li>compensation;</li>
+<li>employment type;</li>
+<li>motivation;</li>
+<li>major constraints.</li>
+</ul>
+<p>Recruiters should not be expected to evaluate detailed architecture unless that is part of their expertise and the process explicitly requires it.</p>
+<h1>Interviewer checklist</h1>
+<p>Before the interview:</p>
+<ul>
+<li>understand the assigned competency;</li>
+<li>review the candidate’s relevant evidence;</li>
+<li>use consistent questions;</li>
+<li>know the expected level;</li>
+<li>understand accommodations;</li>
+<li>know the AI-tool policy.</li>
+</ul>
+<p>During the interview:</p>
+<ul>
+<li>explain the format;</li>
+<li>ask job-relevant questions;</li>
+<li>gather observable evidence;</li>
+<li>allow candidate questions;</li>
+<li>avoid unrelated trivia;</li>
+<li>avoid duplicating other interviews.</li>
+</ul>
+<p>After the interview:</p>
+<ul>
+<li>submit feedback independently;</li>
+<li>cite specific evidence;</li>
+<li>distinguish required concerns from preferences;</li>
+<li>avoid vague “culture fit” judgments;</li>
+<li>respond promptly.</li>
+</ul>
+<h1>How to evaluate whether the posting works</h1>
+<p>Track more than application volume.</p>
+<p>Useful metrics include:</p>
+<ul>
+<li>listing views;</li>
+<li>application rate;</li>
+<li>qualified-application rate;</li>
+<li>screen conversion;</li>
+<li>interview conversion;</li>
+<li>candidate withdrawal;</li>
+<li>time to first qualified candidate;</li>
+<li>time to shortlist;</li>
+<li>offer acceptance;</li>
+<li>source quality;</li>
+<li>candidate feedback.</li>
+</ul>
+<h2>Qualified-application rate</h2>
+<blockquote>
+<p>Qualified applications ÷ total applications</p>
+</blockquote>
+<p>A listing attracting 500 applications may perform worse than one attracting 80 highly relevant candidates.</p>
+<h2>Candidate withdrawal</h2>
+<p>Track when candidates withdraw and why.</p>
+<p>Possible causes include:</p>
+<ul>
+<li>compensation;</li>
+<li>location;</li>
+<li>slow process;</li>
+<li>unclear role;</li>
+<li>excessive interviews;</li>
+<li>take-home assignment;</li>
+<li>manager concerns;</li>
+<li>competing offer.</li>
+</ul>
+<h2>Offer acceptance</h2>
+<p>A low acceptance rate may indicate that the posting and interview process created expectations the offer did not meet.</p>
+<h1>Test the posting before publishing</h1>
+<p>Ask several people to review it.</p>
+<h2>An engineer on the team</h2>
+<p>Can they recognize the real work?</p>
+<h2>A recruiter</h2>
+<p>Can they identify the core screening criteria?</p>
+<h2>A cross-functional partner</h2>
+<p>Does the collaboration model sound accurate?</p>
+<h2>Someone unfamiliar with the role</h2>
+<p>Can they explain what the person would own?</p>
+<h2>A potential candidate</h2>
+<p>Would they know whether to apply?</p>
+<p>Ask reviewers to identify:</p>
+<ul>
+<li>ambiguous phrases;</li>
+<li>unrealistic requirements;</li>
+<li>missing compensation;</li>
+<li>hidden responsibilities;</li>
+<li>jargon;</li>
+<li>duplicated content.</li>
+</ul>
+<h1>Customize the template by role type</h1>
+<h2>Backend engineer</h2>
+<p>Emphasize:</p>
+<ul>
+<li>APIs;</li>
+<li>databases;</li>
+<li>data integrity;</li>
+<li>services;</li>
+<li>reliability;</li>
+<li>security;</li>
+<li>observability;</li>
+<li>production operation.</li>
+</ul>
+<h2>Frontend engineer</h2>
+<p>Emphasize:</p>
+<ul>
+<li>user experience;</li>
+<li>accessibility;</li>
+<li>web platform;</li>
+<li>performance;</li>
+<li>design systems;</li>
+<li>state management;</li>
+<li>testing;</li>
+<li>browser support.</li>
+</ul>
+<h2>Full-stack engineer</h2>
+<p>State:</p>
+<ul>
+<li>frontend/backend ratio;</li>
+<li>boundaries;</li>
+<li>infrastructure expectations;</li>
+<li>design responsibilities;</li>
+<li>end-to-end ownership.</li>
+</ul>
+<h2>Platform engineer</h2>
+<p>Emphasize:</p>
+<ul>
+<li>internal developer experience;</li>
+<li>infrastructure;</li>
+<li>reliability;</li>
+<li>deployment;</li>
+<li>observability;</li>
+<li>security;</li>
+<li>service ownership.</li>
+</ul>
+<h2>Mobile engineer</h2>
+<p>State:</p>
+<ul>
+<li>platform;</li>
+<li>native or cross-platform;</li>
+<li>supported OS versions;</li>
+<li>release cadence;</li>
+<li>store ownership;</li>
+<li>crash rate;</li>
+<li>offline behavior;</li>
+<li>device support.</li>
+</ul>
+<h2>Data engineer</h2>
+<p>State:</p>
+<ul>
+<li>pipeline, warehouse, platform, or ML focus;</li>
+<li>consumers;</li>
+<li>scale;</li>
+<li>orchestration;</li>
+<li>quality;</li>
+<li>lineage;</li>
+<li>operational responsibility.</li>
+</ul>
+<h2>Security engineer</h2>
+<p>Clarify:</p>
+<ul>
+<li>defensive, application, cloud, product, detection, incident, or governance focus;</li>
+<li>authority;</li>
+<li>escalation;</li>
+<li>executive support;</li>
+<li>on-call;</li>
+<li>compliance boundaries.</li>
+</ul>
+<h1>The takeaway</h1>
+<p>A useful software engineer job description is not a collection of familiar hiring phrases.</p>
+<p>It is a clear description of a specific opportunity.</p>
+<p>It should tell candidates:</p>
+<ol>
+<li>What the company builds.</li>
+<li>Who uses it.</li>
+<li>Why the role exists.</li>
+<li>What the engineer will own.</li>
+<li>Which problems they will solve.</li>
+<li>What level of independence is expected.</li>
+<li>Which skills are essential.</li>
+<li>Which tools can be learned.</li>
+<li>How the team works.</li>
+<li>What the codebase is really like.</li>
+<li>How much the role pays.</li>
+<li>Where the employee may work.</li>
+<li>Whether on-call is required.</li>
+<li>How interviews work.</li>
+<li>What success looks like after joining.</li>
+</ol>
+<p>The most effective postings are:</p>
+<ul>
+<li>specific;</li>
+<li>honest;</li>
+<li>concise where candidates need speed;</li>
+<li>detailed where candidates need confidence;</li>
+<li>transparent about compensation;</li>
+<li>realistic about requirements;</li>
+<li>clear about the interview process;</li>
+<li>aligned with the role the employee will actually perform.</li>
+</ul>
+<p>Copy the template.</p>
+<p>Replace every bracket with evidence.</p>
+<p>Delete every responsibility that does not belong.</p>
+<p>Remove every qualification you are not prepared to defend.</p>
+<p>Then ask one final question:</p>
+<blockquote>
+<p>Would a qualified engineer understand why this role is worth considering?</p>
+</blockquote>
+<p>When the answer is yes, publish it.</p>
+<p><em>Ready to hire your next software engineer? <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish a transparent job description, and connect directly with developers whose skills match the work.</em></p>
 5:["locale","pl","d"]
 6:["slug","software-engineer-job-description-template","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","pl","d"],{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"pl\",\"slug\":\"software-engineer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pl","d"],{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Software Engineer Job Description Template (Copy, Paste, Customize)\",\"description\":\"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete.\",\"datePublished\":\"2026-07-03T00:00:00.000Z\",\"inLanguage\":\"pl\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Software Engineer Job Description Template (Copy, Paste, Customize)","date":"2026-07-03T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":4,"html":"$3"},"assessment":{"href":"/assessments/","roleName":null}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Software Engineer Job Description Template (Copy, Paste, Customize) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","15",{"property":"og:description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-03T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","25",{"name":"twitter:description","content":"A complete software engineer job description template you can copy and adapt — plus which lines actually drive applications and which ones to delete."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","pl","d"],{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"pl\",\"slug\":\"software-engineer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pl","d"],{"children":["blog",{"children":[["slug","software-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Software Engineer Job Description Template (Copy, Paste, Customize)\",\"description\":\"A complete, customizable software engineer job description template, plus practical guidance for defining scope, publishing compensation, setting realistic requirements, designing interviews, and attracting qualified engineering candidates.\",\"datePublished\":\"2026-07-03T00:00:00.000Z\",\"inLanguage\":\"pl\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Software Engineer Job Description Template (Copy, Paste, Customize)","date":"2026-07-03T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":31,"html":"$3"},"assessment":{"href":"/assessments/","roleName":null}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Software Engineer Job Description Template (Copy, Paste, Customize) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete, customizable software engineer job description template, plus practical guidance for defining scope, publishing compensation, setting realistic requirements, designing interviews, and attracting qualified engineering candidates."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","15",{"property":"og:description","content":"A complete, customizable software engineer job description template, plus practical guidance for defining scope, publishing compensation, setting realistic requirements, designing interviews, and attracting qualified engineering candidates."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-03T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Software Engineer Job Description Template (Copy, Paste, Customize)"}],["$","meta","25",{"name":"twitter:description","content":"A complete, customizable software engineer job description template, plus practical guidance for defining scope, publishing compensation, setting realistic requirements, designing interviews, and attracting qualified engineering candidates."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

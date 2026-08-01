@@ -1,54 +1,1596 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:Tdc0,<p>A résumé tells you where someone worked and what they claim to know. It tells you very little about whether they&#39;ll write good code, work well with your team, or solve the problems you actually have. If you over-index on résumés, you&#39;ll filter out brilliant self-taught engineers and over-rate people who simply had impressive logos.</p>
-<p>Here&#39;s how to evaluate what really matters.</p>
-<h2>What résumés get wrong</h2>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Td69c,<hr>
+<p>A résumé is useful, but it is not proof of engineering ability.</p>
+<p>It can tell you:</p>
 <ul>
-<li><strong>Pedigree bias.</strong> A famous employer or degree correlates weakly with day-to-day performance.</li>
-<li><strong>Keyword theater.</strong> Listing a technology isn&#39;t the same as being good at it.</li>
-<li><strong>Gaps and nonlinear paths.</strong> Career breaks, bootcamps, and self-teaching often hide your strongest, most motivated candidates.</li>
+<li>where someone worked;</li>
+<li>which titles they held;</li>
+<li>which technologies they mention;</li>
+<li>how long they stayed in each role;</li>
+<li>what accomplishments they chose to highlight.</li>
 </ul>
-<p>Treat the résumé as a conversation starter, not a verdict.</p>
-<h2>Look at real work</h2>
-<p>The best signal is evidence of actual building:</p>
+<p>It usually cannot tell you with confidence:</p>
 <ul>
-<li><strong>Open-source contributions</strong> or a <strong>portfolio</strong> — even small projects reveal a lot about how someone codes and thinks.</li>
-<li><strong>A GitHub profile</strong> with real commits, not just forks.</li>
-<li><strong>Side projects</strong> — they show curiosity and initiative, two traits that predict growth.</li>
+<li>how they approach an unfamiliar problem;</li>
+<li>whether they can write maintainable code;</li>
+<li>how they investigate a production failure;</li>
+<li>whether they understand technical trade-offs;</li>
+<li>how they communicate uncertainty;</li>
+<li>whether they accept feedback constructively;</li>
+<li>how much of a project they personally owned;</li>
+<li>whether they can succeed in your particular environment.</li>
 </ul>
-<p>You&#39;re not looking for volume; you&#39;re looking for thoughtfulness.</p>
-<h2>Use realistic, job-like exercises</h2>
-<p>The closer your assessment is to the real job, the better it predicts performance. A small, paid take-home or a pairing session on a realistic problem beats abstract puzzles every time. Watch not just whether they get the right answer, but <em>how</em> they get there — how they break down the problem, handle ambiguity, and explain their thinking.</p>
-<h2>Assess the traits that compound</h2>
-<p>Specific framework knowledge fades; underlying traits compound. Probe for:</p>
+<p>This distinction matters because résumé screening often rewards familiarity and prestige more than actual job readiness.</p>
+<p>A candidate from a well-known company may have worked within a narrow area supported by large teams and mature systems. A developer from a small organization may have designed services, deployed them, supported customers, responded to incidents, and maintained the infrastructure—all under a less recognizable job title.</p>
+<p>A candidate may omit a technology from their résumé despite being able to learn it quickly. Another may list the same technology after using it briefly.</p>
+<p>The résumé should therefore be treated as one source of context, not as the final evaluation.</p>
+<p>The strongest hiring processes combine résumé information with direct, job-relevant evidence.</p>
+<h2>Start by defining what success in the role means</h2>
+<p>You cannot evaluate candidates accurately until the role itself is clear.</p>
+<p>Before reviewing applications, define:</p>
 <ul>
-<li><strong>Problem decomposition</strong> — can they take something fuzzy and make it concrete?</li>
-<li><strong>Communication</strong> — can they explain a technical decision to a non-expert?</li>
-<li><strong>Curiosity and learning speed</strong> — the stack will change; the ability to learn won&#39;t.</li>
-<li><strong>Collaboration</strong> — how they react to feedback and to a better idea than their own.</li>
+<li>the outcomes the person should create;</li>
+<li>the responsibilities they will own;</li>
+<li>the decisions they will make;</li>
+<li>the systems they will work with;</li>
+<li>the level of independence required;</li>
+<li>the technical risks they will manage;</li>
+<li>the people they will collaborate with;</li>
+<li>the skills they must have immediately;</li>
+<li>the skills they can reasonably learn after joining.</li>
 </ul>
-<h2>Structure your evaluation</h2>
-<p>To keep things fair and comparable:</p>
+<p>A vague role produces a vague evaluation.</p>
+<p>If the hiring team cannot agree on what the developer should accomplish, interviewers will substitute their own preferences. One person may prioritize algorithms, another may care about framework knowledge, and another may judge whether the candidate feels like a cultural fit.</p>
+<p>That inconsistency makes the process slower, less fair, and less predictive.</p>
+<h2>Build a role scorecard</h2>
+<p>A role scorecard converts a job description into measurable hiring criteria.</p>
+<p>For example:</p>
+<h3>Mission</h3>
+<p>Build and operate reliable backend services that support customer identity, account access, and authorization.</p>
+<h3>Expected outcomes</h3>
+<p>Within the first year, the developer should be able to:</p>
+<ul>
+<li>own at least one production service;</li>
+<li>improve authentication reliability;</li>
+<li>reduce recurring access-related incidents;</li>
+<li>strengthen automated testing;</li>
+<li>contribute to architecture decisions;</li>
+<li>communicate security risks clearly;</li>
+<li>mentor less-experienced engineers.</li>
+</ul>
+<h3>Core competencies</h3>
+<ul>
+<li>backend engineering;</li>
+<li>API and data modeling;</li>
+<li>debugging;</li>
+<li>production reliability;</li>
+<li>security judgment;</li>
+<li>testing;</li>
+<li>communication;</li>
+<li>collaboration;</li>
+<li>ownership.</li>
+</ul>
+<p>This scorecard tells the team what evidence to collect.</p>
+<p>It also prevents unrelated preferences from becoming hidden requirements.</p>
+<h2>Separate essential skills from preferred experience</h2>
+<p>Not every technology in your stack should become a mandatory résumé keyword.</p>
+<p>Divide requirements into three groups.</p>
+<h3>Essential on day one</h3>
+<p>These are skills the candidate genuinely needs before joining.</p>
+<p>Examples:</p>
+<ul>
+<li>the ability to write production-quality code;</li>
+<li>familiarity with relational data modeling;</li>
+<li>experience reviewing and testing backend services;</li>
+<li>knowledge of secure authentication fundamentals;</li>
+<li>the ability to communicate technical decisions.</li>
+</ul>
+<h3>Learnable after joining</h3>
+<p>These are skills a capable developer could acquire with reasonable support.</p>
+<p>Examples:</p>
+<ul>
+<li>your exact cloud provider;</li>
+<li>your internal deployment system;</li>
+<li>a particular observability product;</li>
+<li>your design-system conventions;</li>
+<li>your chosen message broker;</li>
+<li>internal domain terminology.</li>
+</ul>
+<h3>Useful but optional</h3>
+<p>These may strengthen a candidate but should not automatically exclude others.</p>
+<p>Examples:</p>
+<ul>
+<li>experience in your industry;</li>
+<li>familiarity with a secondary framework;</li>
+<li>prior startup experience;</li>
+<li>open-source participation;</li>
+<li>experience speaking at conferences.</li>
+</ul>
+<p>This distinction helps you evaluate transferable ability instead of hiring only people whose previous job looked exactly like yours.</p>
+<h2>Understand the limits of résumé signals</h2>
+<p>Résumé information is not meaningless. It is simply incomplete.</p>
+<p>Several common signals are frequently overvalued.</p>
+<h2>Employer prestige</h2>
+<p>A famous company name may indicate that the candidate passed another company’s selection process.</p>
+<p>It does not automatically prove:</p>
+<ul>
+<li>broad ownership;</li>
+<li>strong coding ability;</li>
+<li>good judgment;</li>
+<li>leadership;</li>
+<li>success in a smaller organization;</li>
+<li>experience with your type of product.</li>
+</ul>
+<p>Ask what the candidate actually did.</p>
+<p>Useful questions include:</p>
+<ul>
+<li>Which part of the system did you own?</li>
+<li>What decisions were yours?</li>
+<li>How large was the team?</li>
+<li>What happened when the system failed?</li>
+<li>Which constraints shaped the work?</li>
+<li>What would have happened without your contribution?</li>
+</ul>
+<p>Scope matters more than logo recognition.</p>
+<h2>Educational pedigree</h2>
+<p>A respected degree may demonstrate academic achievement and strong fundamentals.</p>
+<p>It should not be treated as the only valid path into engineering.</p>
+<p>Excellent developers may come from:</p>
+<ul>
+<li>universities;</li>
+<li>community colleges;</li>
+<li>bootcamps;</li>
+<li>apprenticeships;</li>
+<li>military service;</li>
+<li>self-directed study;</li>
+<li>technical support;</li>
+<li>quality assurance;</li>
+<li>data analysis;</li>
+<li>design;</li>
+<li>operations;</li>
+<li>scientific research;</li>
+<li>career changes.</li>
+</ul>
+<p>Evaluate what the person can do now.</p>
+<h2>Years of experience</h2>
+<p>Ten years of experience does not necessarily mean ten years of increasing responsibility.</p>
+<p>Two developers with the same tenure may have had very different opportunities.</p>
+<p>One may have repeated similar work for years. Another may have owned increasingly complex systems, mentored teammates, and influenced decisions across several teams.</p>
+<p>Look for growth in:</p>
+<ul>
+<li>scope;</li>
+<li>autonomy;</li>
+<li>complexity;</li>
+<li>judgment;</li>
+<li>collaboration;</li>
+<li>impact.</li>
+</ul>
+<h2>Technology keywords</h2>
+<p>Listing a framework does not reveal depth.</p>
+<p>A candidate who writes “Kubernetes” may have:</p>
+<ul>
+<li>deployed an application to an existing cluster;</li>
+<li>operated production clusters;</li>
+<li>designed platform standards;</li>
+<li>used it once in a tutorial.</li>
+</ul>
+<p>Ask for evidence.</p>
+<p>Useful follow-up questions include:</p>
+<ul>
+<li>What problem did the technology solve?</li>
+<li>Why was it selected?</li>
+<li>Which trade-offs did it introduce?</li>
+<li>What failed?</li>
+<li>How did you monitor it?</li>
+<li>What would you choose differently now?</li>
+</ul>
+<h2>Job titles</h2>
+<p>Titles vary widely between companies.</p>
+<p>A “Senior Engineer” at one organization may have the scope of a mid-level engineer elsewhere. A “Software Developer” at a smaller company may effectively act as a technical lead.</p>
+<p>Evaluate demonstrated scope rather than translating titles literally.</p>
+<h2>Career gaps</h2>
+<p>A gap may result from:</p>
+<ul>
+<li>caregiving;</li>
+<li>illness;</li>
+<li>layoffs;</li>
+<li>relocation;</li>
+<li>education;</li>
+<li>military service;</li>
+<li>personal projects;</li>
+<li>family responsibilities;</li>
+<li>market conditions;</li>
+<li>immigration or work authorization;</li>
+<li>a deliberate break.</li>
+</ul>
+<p>A gap does not prove reduced ability or motivation.</p>
+<p>Ask only what is relevant and lawful. Focus on whether the candidate can perform the role now.</p>
+<h2>Nonlinear career paths</h2>
+<p>A nonlinear career can create valuable strengths.</p>
+<p>Examples include:</p>
+<ul>
+<li>a former support engineer with exceptional debugging skills;</li>
+<li>a designer who became a frontend developer and understands accessibility deeply;</li>
+<li>a teacher who communicates technical concepts clearly;</li>
+<li>an operations specialist who understands production risk;</li>
+<li>a scientist who brings strong analytical habits.</li>
+</ul>
+<p>Do not force every strong candidate into a conventional progression.</p>
+<h2>Treat the résumé as a map for investigation</h2>
+<p>A résumé is most useful when it helps you decide what to explore.</p>
+<p>Look for statements such as:</p>
+<ul>
+<li>“Reduced latency by 40%.”</li>
+<li>“Led a migration across six services.”</li>
+<li>“Improved deployment reliability.”</li>
+<li>“Mentored junior engineers.”</li>
+<li>“Built an event-processing platform.”</li>
+</ul>
+<p>Then ask for detail.</p>
+<p>For example:</p>
+<blockquote>
+<p>You mentioned reducing API latency by 40%. What was causing the delay, how did you identify it, which options did you consider, and how did you verify the improvement?</p>
+</blockquote>
+<p>A credible candidate should be able to explain:</p>
+<ul>
+<li>the original problem;</li>
+<li>their responsibility;</li>
+<li>the investigation;</li>
+<li>the technical decision;</li>
+<li>the implementation;</li>
+<li>the result;</li>
+<li>the lessons.</li>
+</ul>
+<p>The purpose is not to interrogate them. It is to distinguish real ownership from résumé compression.</p>
+<h2>Evaluate evidence from prior work</h2>
+<p>Past work can provide rich evidence when discussed carefully.</p>
+<p>Possible sources include:</p>
+<ul>
+<li>professional projects;</li>
+<li>portfolio case studies;</li>
+<li>public repositories;</li>
+<li>open-source contributions;</li>
+<li>technical articles;</li>
+<li>architecture documents;</li>
+<li>conference talks;</li>
+<li>freelance projects;</li>
+<li>personal applications;</li>
+<li>academic work.</li>
+</ul>
+<p>Do not require every candidate to have public code.</p>
+<p>Many developers:</p>
+<ul>
+<li>work entirely in private repositories;</li>
+<li>cannot disclose employer code;</li>
+<li>have caregiving responsibilities;</li>
+<li>do not want to code outside work;</li>
+<li>are restricted by employment agreements;</li>
+<li>lack time for public projects.</li>
+</ul>
+<p>Public work is one possible signal, not a universal requirement.</p>
+<h2>Review projects for judgment, not visual polish</h2>
+<p>When evaluating a project, ask:</p>
+<ul>
+<li>What problem does it solve?</li>
+<li>Who is it for?</li>
+<li>What did the candidate build personally?</li>
+<li>Why did they choose the architecture?</li>
+<li>How does it handle errors?</li>
+<li>How is it tested?</li>
+<li>What security risks exist?</li>
+<li>What trade-offs were made?</li>
+<li>How would it behave at larger scale?</li>
+<li>What would they improve next?</li>
+</ul>
+<p>A modest project with thoughtful decisions may be more informative than a polished application assembled from a tutorial.</p>
+<h2>Review GitHub profiles carefully</h2>
+<p>A useful public repository may reveal:</p>
+<ul>
+<li>naming;</li>
+<li>organization;</li>
+<li>documentation;</li>
+<li>tests;</li>
+<li>commit quality;</li>
+<li>issue handling;</li>
+<li>code review;</li>
+<li>maintenance;</li>
+<li>understanding of trade-offs.</li>
+</ul>
+<p>Do not overvalue:</p>
+<ul>
+<li>contribution graph density;</li>
+<li>number of repositories;</li>
+<li>star counts;</li>
+<li>follower counts;</li>
+<li>use of fashionable technologies.</li>
+</ul>
+<p>A developer should not be penalized for having little public activity.</p>
+<h2>Evaluate open-source contributions in context</h2>
+<p>Open-source work may demonstrate:</p>
+<ul>
+<li>ability to read unfamiliar code;</li>
+<li>collaboration;</li>
+<li>written communication;</li>
+<li>patience with review;</li>
+<li>documentation;</li>
+<li>maintenance;</li>
+<li>technical depth.</li>
+</ul>
+<p>Small contributions can be meaningful.</p>
+<p>A careful bug fix, documentation improvement, or test addition may reveal more than a large personal project with no users or reviewers.</p>
+<h2>Use project walkthroughs</h2>
+<p>A structured project walkthrough can reveal technical ability without requiring unpaid new work.</p>
+<p>Ask the candidate to explain one project in depth.</p>
+<p>A useful structure is:</p>
 <ol>
-<li>Define the <strong>handful of competencies</strong> the role truly needs.</li>
-<li>Map <strong>each interview stage</strong> to one or two of them.</li>
-<li>Score against a <strong>rubric</strong>, not a gut feeling.</li>
-<li>Have interviewers write notes <strong>before</strong> discussing, to avoid groupthink.</li>
+<li>What problem were you solving?</li>
+<li>Who used the system?</li>
+<li>What did you personally own?</li>
+<li>What constraints existed?</li>
+<li>Which architecture did you choose?</li>
+<li>What alternatives did you reject?</li>
+<li>What went wrong?</li>
+<li>How did you test and monitor it?</li>
+<li>What was the outcome?</li>
+<li>What would you change now?</li>
 </ol>
-<h2>Beware your own biases</h2>
-<p>Unstructured interviews amplify bias — toward people who look, talk, or think like the interviewer. Structure, rubrics, and work-sample tests are the best-known defenses. They also happen to make your hiring more accurate, so it&#39;s a win-win.</p>
+<p>The interviewer can evaluate:</p>
+<ul>
+<li>technical depth;</li>
+<li>ownership;</li>
+<li>communication;</li>
+<li>decision-making;</li>
+<li>production awareness;</li>
+<li>reflection.</li>
+</ul>
+<h2>Ask for the candidate’s personal contribution</h2>
+<p>Teamwork is expected, but ownership should be clear.</p>
+<p>Listen for distinctions such as:</p>
+<blockquote>
+<p>I designed the migration plan and implemented the application changes. The infrastructure team owned the database replication setup, and we jointly designed the rollback process.</p>
+</blockquote>
+<p>This answer is more credible than either extreme:</p>
+<ul>
+<li>claiming sole responsibility for everything;</li>
+<li>describing every action as “we” without identifying personal work.</li>
+</ul>
+<h2>Use realistic work samples</h2>
+<p>A work sample should resemble the job.</p>
+<p>Depending on the role, this may include:</p>
+<ul>
+<li>debugging a failing service;</li>
+<li>reviewing a pull request;</li>
+<li>adding tests;</li>
+<li>designing an API;</li>
+<li>modeling data;</li>
+<li>improving a frontend workflow;</li>
+<li>investigating logs;</li>
+<li>reviewing an architecture proposal;</li>
+<li>discussing an incident;</li>
+<li>pairing on a small feature.</li>
+</ul>
+<p>Job-like exercises usually produce more relevant evidence than obscure puzzles unrelated to daily work.</p>
+<h2>Decide what the exercise is meant to measure</h2>
+<p>Before creating an assessment, identify the competencies.</p>
+<p>For a backend exercise, you may evaluate:</p>
+<ul>
+<li>problem decomposition;</li>
+<li>correctness;</li>
+<li>code organization;</li>
+<li>testing;</li>
+<li>error handling;</li>
+<li>data modeling;</li>
+<li>security;</li>
+<li>communication.</li>
+</ul>
+<p>For a frontend exercise:</p>
+<ul>
+<li>component design;</li>
+<li>state management;</li>
+<li>accessibility;</li>
+<li>responsiveness;</li>
+<li>browser behavior;</li>
+<li>testing;</li>
+<li>performance;</li>
+<li>user experience.</li>
+</ul>
+<p>For a platform role:</p>
+<ul>
+<li>troubleshooting;</li>
+<li>automation;</li>
+<li>observability;</li>
+<li>failure recovery;</li>
+<li>infrastructure design;</li>
+<li>operational judgment.</li>
+</ul>
+<p>Do not include tasks merely because they are common in technical interviews.</p>
+<h2>Choose the right assessment format</h2>
+<p>Different formats reveal different abilities.</p>
+<h2>Live collaborative exercise</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>communication;</li>
+<li>problem decomposition;</li>
+<li>response to feedback;</li>
+<li>ability to work through uncertainty;</li>
+<li>debugging.</li>
+</ul>
+<p>Risks include:</p>
+<ul>
+<li>artificial pressure;</li>
+<li>unfamiliar tools;</li>
+<li>anxiety;</li>
+<li>accessibility barriers;</li>
+<li>excessive emphasis on speed.</li>
+</ul>
+<p>Keep the environment supportive and allow clarification.</p>
+<h2>Take-home exercise</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>code quality;</li>
+<li>organization;</li>
+<li>documentation;</li>
+<li>testing;</li>
+<li>independent decision-making.</li>
+</ul>
+<p>Risks include:</p>
+<ul>
+<li>excessive unpaid labor;</li>
+<li>unequal free time;</li>
+<li>unclear authorship;</li>
+<li>candidate withdrawal;</li>
+<li>over-polishing.</li>
+</ul>
+<p>Time-box the assignment and consider compensation for substantial work.</p>
+<h2>Code-review exercise</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>ability to read code;</li>
+<li>communication;</li>
+<li>maintainability;</li>
+<li>correctness;</li>
+<li>security;</li>
+<li>testing judgment.</li>
+</ul>
+<p>This can be highly relevant because professional developers often review more code than they write from scratch.</p>
+<h2>Debugging exercise</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>hypothesis formation;</li>
+<li>investigation;</li>
+<li>tool use;</li>
+<li>production reasoning;</li>
+<li>evidence-based decision-making.</li>
+</ul>
+<p>Provide enough information for structured investigation.</p>
+<h2>System-design discussion</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>requirements clarification;</li>
+<li>architecture;</li>
+<li>scale;</li>
+<li>reliability;</li>
+<li>security;</li>
+<li>trade-offs;</li>
+<li>communication.</li>
+</ul>
+<p>Avoid scoring candidates based on whether they recreate one predetermined architecture.</p>
+<h2>Pair-programming exercise</h2>
+<p>Useful for evaluating:</p>
+<ul>
+<li>collaboration;</li>
+<li>communication;</li>
+<li>ability to receive hints;</li>
+<li>iterative problem-solving;</li>
+<li>coding habits.</li>
+</ul>
+<p>The interviewer should behave like a teammate, not an adversary.</p>
+<h2>Keep assessments proportionate</h2>
+<p>A candidate should not need to build a production application to demonstrate readiness for an interview.</p>
+<p>A well-designed 60- to 90-minute exercise may produce more signal than an eight-hour project.</p>
+<p>Consider:</p>
+<ul>
+<li>the seniority of the role;</li>
+<li>the candidate’s current employment;</li>
+<li>caregiving responsibilities;</li>
+<li>accessibility;</li>
+<li>the amount of evidence already available;</li>
+<li>the total length of the process.</li>
+</ul>
+<p>The best assessment is the smallest one that reliably measures the required competencies.</p>
+<h2>Avoid using real company work as an unpaid test</h2>
+<p>Do not ask candidates to solve a production problem from which the company will directly benefit without compensation and clear agreement.</p>
+<p>Use fictionalized, historical, or isolated exercises.</p>
+<p>Candidates should not become unpaid consultants.</p>
+<h2>Explain the rules in advance</h2>
+<p>Tell candidates:</p>
+<ul>
+<li>the format;</li>
+<li>expected duration;</li>
+<li>evaluation criteria;</li>
+<li>allowed languages;</li>
+<li>allowed resources;</li>
+<li>whether documentation is available;</li>
+<li>whether AI tools are permitted;</li>
+<li>whether the session is recorded;</li>
+<li>how data will be stored;</li>
+<li>how accommodations can be requested.</li>
+</ul>
+<p>Hidden rules reduce evaluation quality.</p>
+<h2>Evaluate problem-solving, not only the final answer</h2>
+<p>A correct answer may come from memorization or luck.</p>
+<p>An incomplete answer may still demonstrate strong engineering judgment.</p>
+<p>Observe whether the candidate:</p>
+<ul>
+<li>clarifies requirements;</li>
+<li>identifies assumptions;</li>
+<li>breaks the problem into parts;</li>
+<li>considers edge cases;</li>
+<li>starts with a simple solution;</li>
+<li>explains trade-offs;</li>
+<li>tests the result;</li>
+<li>responds to new information;</li>
+<li>recognizes mistakes;</li>
+<li>improves the design.</li>
+</ul>
+<p>Engineering is a process, not only an output.</p>
+<h2>Evaluate code quality</h2>
+<p>Correct code is necessary, but maintainability matters.</p>
+<p>Look for:</p>
+<ul>
+<li>understandable naming;</li>
+<li>appropriate abstractions;</li>
+<li>coherent organization;</li>
+<li>clear control flow;</li>
+<li>reasonable error handling;</li>
+<li>useful tests;</li>
+<li>comments that explain why;</li>
+<li>avoidance of unnecessary complexity;</li>
+<li>consistency with the problem’s scale.</li>
+</ul>
+<p>Do not treat personal style preferences as universal standards.</p>
+<p>A candidate may use a different but equally valid structure.</p>
+<p>Ask whether the code is understandable, correct, testable, and appropriate for the context.</p>
+<h2>Evaluate testing judgment</h2>
+<p>Strong developers do more than produce a happy-path solution.</p>
+<p>Look for whether they consider:</p>
+<ul>
+<li>empty input;</li>
+<li>invalid input;</li>
+<li>boundaries;</li>
+<li>duplicate values;</li>
+<li>network failure;</li>
+<li>timeouts;</li>
+<li>retries;</li>
+<li>partial failure;</li>
+<li>permissions;</li>
+<li>concurrency;</li>
+<li>large data;</li>
+<li>accessibility;</li>
+<li>state transitions.</li>
+</ul>
+<p>Testing judgment is often more predictive than the number of test cases written during a short exercise.</p>
+<h2>Evaluate debugging ability</h2>
+<p>Debugging is central to professional engineering.</p>
+<p>A strong debugging process may include:</p>
+<ol>
+<li>Confirm expected behavior.</li>
+<li>Reproduce the problem.</li>
+<li>Narrow the failure.</li>
+<li>Form a hypothesis.</li>
+<li>Gather evidence.</li>
+<li>Change one variable.</li>
+<li>verify the fix;</li>
+<li>add regression protection.</li>
+</ol>
+<p>Watch for whether the candidate:</p>
+<ul>
+<li>uses evidence;</li>
+<li>avoids random changes;</li>
+<li>isolates variables;</li>
+<li>reads errors carefully;</li>
+<li>revises hypotheses;</li>
+<li>explains uncertainty;</li>
+<li>verifies the result.</li>
+</ul>
+<h2>Evaluate technical depth</h2>
+<p>Depth is not the same as memorizing obscure facts.</p>
+<p>A developer with depth can explain:</p>
+<ul>
+<li>how a system behaves;</li>
+<li>why a design was selected;</li>
+<li>where it fails;</li>
+<li>how it performs;</li>
+<li>what trade-offs it creates;</li>
+<li>how it should be monitored;</li>
+<li>how it could evolve.</li>
+</ul>
+<p>Useful follow-up questions include:</p>
+<ul>
+<li>What happens when this dependency is unavailable?</li>
+<li>How would retries affect the operation?</li>
+<li>Where could data become inconsistent?</li>
+<li>Which component becomes the bottleneck first?</li>
+<li>What security boundary exists here?</li>
+<li>How would you test this in production safely?</li>
+<li>At what scale would you redesign it?</li>
+</ul>
+<p>Adjust the depth to the role’s level.</p>
+<h2>Evaluate system-design judgment</h2>
+<p>A strong system-design candidate should not begin with technology names.</p>
+<p>They should first clarify:</p>
+<ul>
+<li>users;</li>
+<li>use cases;</li>
+<li>scale;</li>
+<li>latency;</li>
+<li>availability;</li>
+<li>consistency;</li>
+<li>security;</li>
+<li>privacy;</li>
+<li>cost;</li>
+<li>operational constraints.</li>
+</ul>
+<p>Then evaluate whether they:</p>
+<ul>
+<li>define interfaces;</li>
+<li>model data;</li>
+<li>identify major components;</li>
+<li>trace important flows;</li>
+<li>discuss failure modes;</li>
+<li>explain trade-offs;</li>
+<li>distinguish current needs from future scale.</li>
+</ul>
+<p>Do not reward unnecessary complexity.</p>
+<p>A senior engineer who recommends a simple managed queue for moderate traffic may show better judgment than someone who introduces several distributed systems without justification.</p>
+<h2>Evaluate security awareness</h2>
+<p>Every developer does not need to be a security specialist, but security judgment should match the role.</p>
+<p>Depending on the position, look for awareness of:</p>
+<ul>
+<li>authentication;</li>
+<li>authorization;</li>
+<li>input validation;</li>
+<li>secret management;</li>
+<li>encryption;</li>
+<li>tenant isolation;</li>
+<li>audit logging;</li>
+<li>secure file handling;</li>
+<li>dependency risk;</li>
+<li>least privilege;</li>
+<li>abuse prevention;</li>
+<li>privacy;</li>
+<li>data retention.</li>
+</ul>
+<p>Ask how the candidate would protect the system, not only how they would make it work.</p>
+<h2>Evaluate production readiness</h2>
+<p>Professional engineering includes operating software after deployment.</p>
+<p>Look for whether the candidate considers:</p>
+<ul>
+<li>logging;</li>
+<li>metrics;</li>
+<li>tracing;</li>
+<li>alerts;</li>
+<li>feature flags;</li>
+<li>rollback;</li>
+<li>migrations;</li>
+<li>compatibility;</li>
+<li>deployment safety;</li>
+<li>incident response;</li>
+<li>capacity;</li>
+<li>cost.</li>
+</ul>
+<p>A solution that works locally but cannot be operated safely may be incomplete for a production-oriented role.</p>
+<h2>Evaluate communication</h2>
+<p>Communication is not a secondary soft skill.</p>
+<p>It affects:</p>
+<ul>
+<li>requirements;</li>
+<li>architecture;</li>
+<li>code review;</li>
+<li>incidents;</li>
+<li>documentation;</li>
+<li>stakeholder trust;</li>
+<li>team speed.</li>
+</ul>
+<p>Evaluate whether the candidate can:</p>
+<ul>
+<li>explain assumptions;</li>
+<li>structure an answer;</li>
+<li>distinguish facts from guesses;</li>
+<li>ask useful questions;</li>
+<li>communicate risk;</li>
+<li>adjust detail for the audience;</li>
+<li>listen;</li>
+<li>summarize decisions.</li>
+</ul>
+<p>Do not confuse one specific communication style with competence.</p>
+<p>A quiet, deliberate candidate may communicate differently from a fast, energetic candidate while being equally effective.</p>
+<h2>Avoid accent and fluency bias</h2>
+<p>A candidate may communicate technical ideas effectively while speaking with:</p>
+<ul>
+<li>an accent;</li>
+<li>a different dialect;</li>
+<li>pauses;</li>
+<li>non-native phrasing;</li>
+<li>assistive technology.</li>
+</ul>
+<p>Evaluate whether the information is understandable and useful.</p>
+<p>Do not judge whether the candidate sounds socially familiar to the interviewer.</p>
+<h2>Evaluate collaboration</h2>
+<p>Collaboration can be assessed through both work samples and behavioral questions.</p>
+<p>Look for evidence that the candidate can:</p>
+<ul>
+<li>receive feedback;</li>
+<li>explain disagreement;</li>
+<li>change direction when evidence changes;</li>
+<li>support teammates;</li>
+<li>review work respectfully;</li>
+<li>share context;</li>
+<li>ask for help;</li>
+<li>give credit;</li>
+<li>resolve conflict.</li>
+</ul>
+<p>Useful questions include:</p>
+<ul>
+<li>Tell me about a technical disagreement.</li>
+<li>Describe a time you changed your mind.</li>
+<li>How do you handle a pull request you strongly disagree with?</li>
+<li>Tell me about a time another person improved your solution.</li>
+<li>How have you helped a teammate become more effective?</li>
+</ul>
+<h2>Evaluate learning ability</h2>
+<p>Your stack will change.</p>
+<p>The ability to learn may matter more than experience with one exact tool.</p>
+<p>Ask for examples of when the candidate:</p>
+<ul>
+<li>entered an unfamiliar codebase;</li>
+<li>learned a new language;</li>
+<li>changed domains;</li>
+<li>investigated an unknown system;</li>
+<li>adopted a new technical approach;</li>
+<li>recovered after making a wrong assumption.</li>
+</ul>
+<p>A strong answer explains:</p>
+<ul>
+<li>why learning was needed;</li>
+<li>how they approached it;</li>
+<li>how they verified understanding;</li>
+<li>how quickly they applied it;</li>
+<li>what result followed.</li>
+</ul>
+<h2>Evaluate ownership</h2>
+<p>Ownership means taking responsibility for progress and outcomes.</p>
+<p>It does not mean working alone or refusing help.</p>
+<p>Look for whether the candidate:</p>
+<ul>
+<li>identifies risks;</li>
+<li>communicates blockers;</li>
+<li>proposes next steps;</li>
+<li>follows work through release;</li>
+<li>monitors results;</li>
+<li>handles problems after launch;</li>
+<li>documents decisions;</li>
+<li>improves the process afterward.</li>
+</ul>
+<p>Ask:</p>
+<ul>
+<li>What happened after the feature shipped?</li>
+<li>How did you know it worked?</li>
+<li>Who supported it in production?</li>
+<li>What did you change after receiving feedback?</li>
+<li>Which part did you personally own?</li>
+</ul>
+<h2>Evaluate business and user context</h2>
+<p>Strong developers understand why the system exists.</p>
+<p>They can connect technical work to:</p>
+<ul>
+<li>customers;</li>
+<li>revenue;</li>
+<li>reliability;</li>
+<li>risk;</li>
+<li>usability;</li>
+<li>operational efficiency;</li>
+<li>compliance;</li>
+<li>team capacity.</li>
+</ul>
+<p>For example:</p>
+<blockquote>
+<p>We introduced asynchronous processing.</p>
+</blockquote>
+<p>is technically descriptive.</p>
+<blockquote>
+<p>We introduced asynchronous processing so customer uploads would no longer time out during peak periods, reducing failed imports and support volume.</p>
+</blockquote>
+<p>shows broader understanding.</p>
+<h2>Evaluate impact carefully</h2>
+<p>Ask candidates to explain outcomes.</p>
+<p>Useful evidence may include:</p>
+<ul>
+<li>performance improvements;</li>
+<li>reduced errors;</li>
+<li>cost savings;</li>
+<li>faster delivery;</li>
+<li>customer adoption;</li>
+<li>support reduction;</li>
+<li>security improvements;</li>
+<li>successful migrations;</li>
+<li>improved developer productivity;</li>
+<li>team-wide standards.</li>
+</ul>
+<p>Do not require every project to have a precise metric.</p>
+<p>Some developers do not have access to business analytics. Others work on foundational systems where impact is indirect.</p>
+<p>Accept credible qualitative evidence, such as:</p>
+<ul>
+<li>adopted by five teams;</li>
+<li>removed a recurring incident class;</li>
+<li>shortened onboarding;</li>
+<li>enabled a product launch;</li>
+<li>reduced manual intervention;</li>
+<li>improved audit readiness.</li>
+</ul>
+<h2>Distinguish contribution from outcome</h2>
+<p>A positive business result may have many causes.</p>
+<p>Encourage candidates to explain their contribution accurately.</p>
+<p>A credible answer might be:</p>
+<blockquote>
+<p>Conversion increased by 12% after the release. The interface redesign was one part of a broader initiative that also included pricing and email changes, so I would not attribute the entire increase to design alone.</p>
+</blockquote>
+<p>Honest attribution is a sign of judgment.</p>
+<h2>Use structured behavioral interviews</h2>
+<p>Behavioral questions reveal how the candidate operated in real situations.</p>
+<p>Prepare questions around the competencies in the scorecard.</p>
+<p>Examples:</p>
+<h3>Ownership</h3>
+<blockquote>
+<p>Tell me about a project where the outcome depended heavily on your decisions.</p>
+</blockquote>
+<h3>Failure</h3>
+<blockquote>
+<p>Tell me about a technical decision that did not work as expected.</p>
+</blockquote>
+<h3>Collaboration</h3>
+<blockquote>
+<p>Describe a disagreement with another engineer or stakeholder.</p>
+</blockquote>
+<h3>Ambiguity</h3>
+<blockquote>
+<p>Tell me about a project that began with unclear requirements.</p>
+</blockquote>
+<h3>Learning</h3>
+<blockquote>
+<p>Describe a time you had to become productive in an unfamiliar technical area.</p>
+</blockquote>
+<h3>Leadership</h3>
+<blockquote>
+<p>Tell me about a time you influenced a decision without formal authority.</p>
+</blockquote>
+<p>Use follow-up questions to clarify:</p>
+<ul>
+<li>the situation;</li>
+<li>the candidate’s responsibility;</li>
+<li>their actions;</li>
+<li>the result;</li>
+<li>the lesson.</li>
+</ul>
+<h2>Build interview rubrics</h2>
+<p>A rubric explains what evidence corresponds to the role’s expectations.</p>
+<p>For example, a debugging rubric might look like this.</p>
+<h3>Below expectations</h3>
+<ul>
+<li>changes code without reproducing the issue;</li>
+<li>forms no clear hypothesis;</li>
+<li>ignores error output;</li>
+<li>makes several unrelated changes;</li>
+<li>does not verify the fix.</li>
+</ul>
+<h3>Meets expectations</h3>
+<ul>
+<li>reproduces the issue;</li>
+<li>narrows the likely cause;</li>
+<li>uses evidence;</li>
+<li>tests a focused change;</li>
+<li>verifies the result;</li>
+<li>adds or describes regression coverage.</li>
+</ul>
+<h3>Exceeds expectations</h3>
+<ul>
+<li>identifies relevant observability gaps;</li>
+<li>considers concurrency or partial failure;</li>
+<li>explains how to investigate safely in production;</li>
+<li>proposes prevention and monitoring;</li>
+<li>communicates uncertainty clearly.</li>
+</ul>
+<p>Rubrics make evaluation faster and more consistent.</p>
+<h2>Map each interview to specific competencies</h2>
+<p>Avoid asking every interviewer to evaluate the entire candidate.</p>
+<p>A process might assign:</p>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Primary competencies</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Initial conversation</td>
+<td>Motivation, role alignment, logistics</td>
+</tr>
+<tr>
+<td>Work sample</td>
+<td>Coding, testing, problem-solving</td>
+</tr>
+<tr>
+<td>System design</td>
+<td>Architecture, trade-offs, reliability</td>
+</tr>
+<tr>
+<td>Project walkthrough</td>
+<td>Ownership, technical depth, impact</td>
+</tr>
+<tr>
+<td>Behavioral interview</td>
+<td>Collaboration, learning, leadership</td>
+</tr>
+<tr>
+<td>Hiring-manager conversation</td>
+<td>Scope, expectations, candidate questions</td>
+</tr>
+</tbody></table>
+<p>This reduces repeated questions and interview fatigue.</p>
+<h2>Require evidence-based notes</h2>
+<p>Interview notes should describe what happened.</p>
+<p>Weak:</p>
+<ul>
+<li>Great candidate.</li>
+<li>Not senior enough.</li>
+<li>Good culture fit.</li>
+<li>Lacked confidence.</li>
+<li>Very smart.</li>
+<li>Something felt off.</li>
+</ul>
+<p>Stronger:</p>
+<ul>
+<li>Clarified throughput, retention, and consistency requirements before designing the data flow.</li>
+<li>Identified duplicate-delivery risk and proposed idempotent processing.</li>
+<li>Could not explain personal ownership of the migration.</li>
+<li>Revised the approach after receiving a new latency constraint.</li>
+<li>Did not test the implementation against invalid input.</li>
+<li>Explained conflict without blaming the other person.</li>
+</ul>
+<p>Evidence supports fair decisions.</p>
+<h2>Collect feedback independently</h2>
+<p>Interviewers should submit notes and scores before the debrief.</p>
+<p>Otherwise, the first strong opinion may influence everyone else.</p>
+<p>A useful process is:</p>
+<ol>
+<li>Conduct the interview.</li>
+<li>Complete the rubric.</li>
+<li>Record supporting evidence.</li>
+<li>Submit feedback independently.</li>
+<li>Review evidence during the debrief.</li>
+<li>Resolve meaningful disagreements.</li>
+<li>Make the decision.</li>
+</ol>
+<p>This reduces groupthink.</p>
+<h2>Challenge vague concerns</h2>
+<p>During the debrief, ask:</p>
+<ul>
+<li>Which competency does this concern affect?</li>
+<li>What evidence supports it?</li>
+<li>Was the same standard applied to other candidates?</li>
+<li>Is the concern job-related?</li>
+<li>Would it affect performance in this role?</li>
+<li>Is more evidence actually needed?</li>
+</ul>
+<p>Do not allow unsupported language such as “not a fit” to decide the outcome.</p>
+<h2>Beware common evaluation biases</h2>
+<h2>Pedigree bias</h2>
+<p>Assuming that a prestigious school or employer proves ability.</p>
+<h2>Similarity bias</h2>
+<p>Preferring candidates who communicate, think, or socialize like the interviewers.</p>
+<h2>Confidence bias</h2>
+<p>Mistaking quick, polished answers for technical depth.</p>
+<h2>Halo effect</h2>
+<p>Allowing one impressive achievement to improve unrelated scores.</p>
+<h2>Horn effect</h2>
+<p>Allowing one mistake to damage every other area.</p>
+<h2>Confirmation bias</h2>
+<p>Seeking evidence that supports the interviewer’s first impression.</p>
+<h2>Recency bias</h2>
+<p>Overweighting the final interview or most recent answer.</p>
+<h2>Affinity bias</h2>
+<p>Favoring candidates with shared hobbies, backgrounds, or interests.</p>
+<h2>Technology bias</h2>
+<p>Rejecting candidates for lacking an exact tool despite strong transferable knowledge.</p>
+<h2>Interview-performance bias</h2>
+<p>Confusing skill at interviews with skill at the job.</p>
+<p>Structure cannot eliminate bias, but it can reduce how easily bias controls the decision.</p>
+<h2>Do not overvalue speed</h2>
+<p>A candidate who solves a problem quickly may be strong.</p>
+<p>A candidate who moves more slowly may be:</p>
+<ul>
+<li>checking assumptions;</li>
+<li>considering edge cases;</li>
+<li>managing anxiety;</li>
+<li>working in an unfamiliar environment;</li>
+<li>prioritizing correctness.</li>
+</ul>
+<p>Unless speed is central to the job, do not make it the primary signal.</p>
+<p>Evaluate the reasoning and result.</p>
+<h2>Avoid trivia interviews</h2>
+<p>Questions such as:</p>
+<ul>
+<li>obscure language syntax;</li>
+<li>rarely used framework internals;</li>
+<li>memorized API details;</li>
+<li>trick questions;</li>
+</ul>
+<p>often measure preparation for the interview rather than engineering performance.</p>
+<p>Ask whether the information is necessary to perform the role.</p>
+<p>Developers can look up many details during real work. The more important skill is knowing what to investigate and how to evaluate the answer.</p>
+<h2>Avoid puzzle-heavy processes by default</h2>
+<p>Algorithmic exercises may be relevant for some roles.</p>
+<p>They should not become a universal substitute for evaluating:</p>
+<ul>
+<li>production code;</li>
+<li>debugging;</li>
+<li>APIs;</li>
+<li>data modeling;</li>
+<li>testing;</li>
+<li>reliability;</li>
+<li>collaboration.</li>
+</ul>
+<p>Use them only when they measure a genuine requirement.</p>
+<h2>Do not require unpaid extracurricular work</h2>
+<p>A strong developer does not need to:</p>
+<ul>
+<li>code every evening;</li>
+<li>maintain public repositories;</li>
+<li>speak at conferences;</li>
+<li>write a blog;</li>
+<li>contribute to open source;</li>
+<li>build side projects.</li>
+</ul>
+<p>These activities can provide evidence, but requiring them favors candidates with more discretionary time.</p>
+<p>Professional work, practical assessments, and project discussions can provide equally strong signals.</p>
+<h2>Avoid surveillance-heavy assessments</h2>
+<p>Be cautious with tools that require:</p>
+<ul>
+<li>continuous camera monitoring;</li>
+<li>facial analysis;</li>
+<li>emotion detection;</li>
+<li>intrusive browser tracking;</li>
+<li>biometric collection;</li>
+<li>unnecessary screen recording.</li>
+</ul>
+<p>Assess the work with the least intrusive method that meets the need.</p>
+<p>Explain what data is collected, why it is collected, who can access it, and when it is deleted.</p>
+<h2>Provide accommodations</h2>
+<p>Candidates may require adjustments related to:</p>
+<ul>
+<li>disability;</li>
+<li>neurodivergence;</li>
+<li>hearing;</li>
+<li>vision;</li>
+<li>mobility;</li>
+<li>anxiety;</li>
+<li>chronic illness;</li>
+<li>caregiving;</li>
+<li>religious observance;</li>
+<li>time zones.</li>
+</ul>
+<p>Possible accommodations include:</p>
+<ul>
+<li>additional time;</li>
+<li>breaks;</li>
+<li>written instructions;</li>
+<li>captioning;</li>
+<li>screen-reader-compatible materials;</li>
+<li>accessible coding environments;</li>
+<li>alternative assessment formats;</li>
+<li>flexible scheduling.</li>
+</ul>
+<p>Make accommodation requests easy and private.</p>
+<h2>Evaluate candidates against the role, not against each other</h2>
+<p>A hiring process should answer:</p>
+<blockquote>
+<p>Does this candidate meet the evidence-based requirements for the role?</p>
+</blockquote>
+<p>It should not depend entirely on:</p>
+<blockquote>
+<p>Is this person more impressive than the previous candidate?</p>
+</blockquote>
+<p>Comparative evaluation can change with pipeline quality and interviewer memory.</p>
+<p>Use the scorecard as the primary standard.</p>
+<h2>Calibrate interviewers</h2>
+<p>Before interviewing real candidates, have interviewers review sample answers or conduct mock interviews.</p>
+<p>Discuss:</p>
+<ul>
+<li>what meets expectations;</li>
+<li>what exceeds expectations;</li>
+<li>which concerns are meaningful;</li>
+<li>how hints should be handled;</li>
+<li>how much technical detail is required;</li>
+<li>how scoring should differ by level.</li>
+</ul>
+<p>Calibration reduces scoring variance.</p>
+<h2>Review interviewer patterns</h2>
+<p>Over time, analyze whether certain interviewers:</p>
+<ul>
+<li>consistently score lower or higher;</li>
+<li>submit vague feedback;</li>
+<li>reject candidates at unusual rates;</li>
+<li>miss feedback deadlines;</li>
+<li>generate candidate complaints;</li>
+<li>ask questions outside the rubric.</li>
+</ul>
+<p>Variation may be legitimate, but it deserves review.</p>
+<h2>Validate whether your process predicts success</h2>
+<p>A hiring process should improve over time.</p>
+<p>After hiring, compare interview evidence with later outcomes.</p>
+<p>Ask:</p>
+<ul>
+<li>Which stages predicted performance?</li>
+<li>Which concerns proved accurate?</li>
+<li>Which scores had little relationship to success?</li>
+<li>Which questions added no useful information?</li>
+<li>Were any strong employees nearly rejected for weak reasons?</li>
+<li>Did the role match what was evaluated?</li>
+<li>Did onboarding affect early performance?</li>
+</ul>
+<p>Do not use post-hire performance data carelessly or reduce it to one subjective rating.</p>
+<p>Use several sources, including:</p>
+<ul>
+<li>manager feedback;</li>
+<li>role outcomes;</li>
+<li>onboarding progress;</li>
+<li>production contribution;</li>
+<li>collaboration;</li>
+<li>retention.</li>
+</ul>
+<h2>Protect against hindsight bias</h2>
+<p>A successful hire does not prove that every part of the process was good.</p>
+<p>An unsuccessful hire does not prove that every concern raised during interviews was correct.</p>
+<p>Examine:</p>
+<ul>
+<li>role clarity;</li>
+<li>onboarding;</li>
+<li>management;</li>
+<li>organizational changes;</li>
+<li>support;</li>
+<li>compensation;</li>
+<li>expectations;</li>
+<li>interview evidence.</li>
+</ul>
+<p>Hiring outcomes are influenced by more than candidate ability.</p>
+<h2>Match the evaluation to seniority</h2>
+<h2>Early-career developers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>fundamentals;</li>
+<li>learning;</li>
+<li>debugging;</li>
+<li>communication;</li>
+<li>project evidence;</li>
+<li>receptiveness to feedback;</li>
+<li>ability to complete scoped work.</li>
+</ul>
+<p>Do not expect extensive production architecture ownership.</p>
+<h2>Mid-level developers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>independent delivery;</li>
+<li>testing;</li>
+<li>maintainability;</li>
+<li>production awareness;</li>
+<li>collaboration;</li>
+<li>ownership;</li>
+<li>sound technical decisions.</li>
+</ul>
+<h2>Senior developers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>architecture;</li>
+<li>ambiguity;</li>
+<li>reliability;</li>
+<li>trade-offs;</li>
+<li>mentorship;</li>
+<li>cross-team communication;</li>
+<li>risk management;</li>
+<li>business impact.</li>
+</ul>
+<h2>Staff and principal engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>organizational influence;</li>
+<li>technical strategy;</li>
+<li>architecture across teams;</li>
+<li>decision frameworks;</li>
+<li>long-term risk;</li>
+<li>leadership without authority;</li>
+<li>ability to enable others.</li>
+</ul>
+<h2>Engineering managers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>people leadership;</li>
+<li>hiring;</li>
+<li>coaching;</li>
+<li>delivery;</li>
+<li>conflict;</li>
+<li>technical judgment;</li>
+<li>team health;</li>
+<li>stakeholder alignment.</li>
+</ul>
+<p>Do not use the same interview process for every level.</p>
+<h2>Match the evaluation to the discipline</h2>
+<h2>Frontend engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>JavaScript or TypeScript;</li>
+<li>browser fundamentals;</li>
+<li>accessibility;</li>
+<li>component design;</li>
+<li>state management;</li>
+<li>responsiveness;</li>
+<li>testing;</li>
+<li>performance;</li>
+<li>interaction quality.</li>
+</ul>
+<h2>Backend engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>APIs;</li>
+<li>databases;</li>
+<li>data integrity;</li>
+<li>concurrency;</li>
+<li>security;</li>
+<li>reliability;</li>
+<li>queues;</li>
+<li>testing;</li>
+<li>observability.</li>
+</ul>
+<h2>Platform and infrastructure engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>automation;</li>
+<li>deployment;</li>
+<li>networking;</li>
+<li>observability;</li>
+<li>incident response;</li>
+<li>infrastructure design;</li>
+<li>security;</li>
+<li>operational trade-offs.</li>
+</ul>
+<h2>Mobile engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>platform fundamentals;</li>
+<li>offline behavior;</li>
+<li>performance;</li>
+<li>lifecycle;</li>
+<li>device constraints;</li>
+<li>testing;</li>
+<li>release management;</li>
+<li>accessibility.</li>
+</ul>
+<h2>Data engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>data modeling;</li>
+<li>pipelines;</li>
+<li>reliability;</li>
+<li>quality;</li>
+<li>SQL;</li>
+<li>orchestration;</li>
+<li>lineage;</li>
+<li>scale;</li>
+<li>governance.</li>
+</ul>
+<h2>Security engineers</h2>
+<p>Evaluate:</p>
+<ul>
+<li>threat modeling;</li>
+<li>secure design;</li>
+<li>investigation;</li>
+<li>risk communication;</li>
+<li>authentication;</li>
+<li>authorization;</li>
+<li>vulnerability handling;</li>
+<li>operational security.</li>
+</ul>
+<p>The assessment should reflect the work.</p>
+<h2>Give candidates a meaningful opportunity to ask questions</h2>
+<p>Candidate questions can reveal:</p>
+<ul>
+<li>what they value;</li>
+<li>how they think about engineering;</li>
+<li>whether they understand the role;</li>
+<li>what risks they are evaluating.</li>
+</ul>
+<p>Do not score candidates only by how impressive their questions sound.</p>
+<p>Provide honest answers about:</p>
+<ul>
+<li>responsibilities;</li>
+<li>architecture;</li>
+<li>on-call work;</li>
+<li>team structure;</li>
+<li>compensation;</li>
+<li>interview decisions;</li>
+<li>technical debt;</li>
+<li>management;</li>
+<li>growth.</li>
+</ul>
+<p>Evaluation works both ways.</p>
+<h2>Create a candidate-friendly process</h2>
+<p>A respectful evaluation process includes:</p>
+<ul>
+<li>a clear timeline;</li>
+<li>relevant interviews;</li>
+<li>prepared interviewers;</li>
+<li>transparent compensation;</li>
+<li>reasonable assessments;</li>
+<li>accommodation support;</li>
+<li>prompt communication;</li>
+<li>time for questions;</li>
+<li>honest updates.</li>
+</ul>
+<p>Candidate experience affects:</p>
+<ul>
+<li>withdrawal;</li>
+<li>offer acceptance;</li>
+<li>reputation;</li>
+<li>referrals;</li>
+<li>future applications.</li>
+</ul>
+<p>A rigorous process does not need to be hostile.</p>
+<h2>A practical evaluation process</h2>
+<p>A lean process for many engineering roles might include:</p>
+<h3>Stage 1: Initial alignment</h3>
+<p>A 25- to 30-minute conversation covering:</p>
+<ul>
+<li>relevant experience;</li>
+<li>role expectations;</li>
+<li>compensation;</li>
+<li>location;</li>
+<li>availability;</li>
+<li>candidate questions.</li>
+</ul>
+<h3>Stage 2: Job-relevant technical assessment</h3>
+<p>A 60- to 90-minute exercise involving:</p>
+<ul>
+<li>coding;</li>
+<li>debugging;</li>
+<li>code review;</li>
+<li>API design;</li>
+<li>another task related to the role.</li>
+</ul>
+<h3>Stage 3: Project-depth and system-design interviews</h3>
+<p>Focused discussions covering:</p>
+<ul>
+<li>ownership;</li>
+<li>architecture;</li>
+<li>trade-offs;</li>
+<li>reliability;</li>
+<li>communication;</li>
+<li>level.</li>
+</ul>
+<h3>Stage 4: Structured behavioral interview</h3>
+<p>Evidence related to:</p>
+<ul>
+<li>collaboration;</li>
+<li>failure;</li>
+<li>ambiguity;</li>
+<li>learning;</li>
+<li>leadership.</li>
+</ul>
+<h3>Stage 5: Debrief</h3>
+<p>Interviewers review independent evidence against the scorecard and make a decision.</p>
+<p>Each stage should have a distinct purpose.</p>
+<h2>A developer-evaluation scorecard template</h2>
+<h3>Role</h3>
+<ul>
+<li>Title:</li>
+<li>Level:</li>
+<li>Team:</li>
+<li>Mission:</li>
+</ul>
+<h3>Expected outcomes</h3>
+<ul>
+<li>Outcome 1:</li>
+<li>Outcome 2:</li>
+<li>Outcome 3:</li>
+<li>Outcome 4:</li>
+</ul>
+<h3>Technical competencies</h3>
+<ul>
+<li>Coding:</li>
+<li>Testing:</li>
+<li>Debugging:</li>
+<li>Architecture:</li>
+<li>Data:</li>
+<li>Security:</li>
+<li>Reliability:</li>
+</ul>
+<h3>Working competencies</h3>
+<ul>
+<li>Communication:</li>
+<li>Collaboration:</li>
+<li>Ownership:</li>
+<li>Learning:</li>
+<li>Judgment:</li>
+<li>Leadership:</li>
+</ul>
+<h3>Evidence sources</h3>
+<ul>
+<li>Résumé:</li>
+<li>Project walkthrough:</li>
+<li>Work sample:</li>
+<li>System design:</li>
+<li>Behavioral interview:</li>
+<li>References where appropriate:</li>
+</ul>
+<h3>Decision</h3>
+<ul>
+<li>Meets requirements:</li>
+<li>Concerns:</li>
+<li>Supporting evidence:</li>
+<li>Recommended level:</li>
+<li>Final decision:</li>
+</ul>
+<h2>Questions for reviewing a résumé</h2>
+<p>Use the résumé to generate evidence-seeking questions.</p>
+<ul>
+<li>What problem did this accomplishment address?</li>
+<li>What did the candidate personally own?</li>
+<li>How was the result measured?</li>
+<li>Which constraints existed?</li>
+<li>What technical decisions were involved?</li>
+<li>Who else contributed?</li>
+<li>What failed?</li>
+<li>What would the candidate change now?</li>
+<li>How did the work affect users or the business?</li>
+<li>Did scope increase over time?</li>
+</ul>
+<h2>Questions for a project walkthrough</h2>
+<ul>
+<li>What was the project’s goal?</li>
+<li>Who used it?</li>
+<li>What did you personally build?</li>
+<li>Which part was hardest?</li>
+<li>Which architecture did you choose?</li>
+<li>What alternatives did you consider?</li>
+<li>How did you test it?</li>
+<li>How did you deploy it?</li>
+<li>What happened when it failed?</li>
+<li>How did you monitor it?</li>
+<li>What security concerns existed?</li>
+<li>What result did it create?</li>
+<li>What would you redesign today?</li>
+</ul>
+<h2>Questions for technical judgment</h2>
+<ul>
+<li>Which assumptions are you making?</li>
+<li>What is the simplest workable design?</li>
+<li>Which trade-offs matter most?</li>
+<li>What happens under failure?</li>
+<li>How would you investigate a performance problem?</li>
+<li>Where should validation occur?</li>
+<li>Which data requires stronger consistency?</li>
+<li>How would you roll this out safely?</li>
+<li>What would you measure?</li>
+<li>At what point would this architecture need to change?</li>
+</ul>
+<h2>Questions for collaboration</h2>
+<ul>
+<li>Tell me about a technical disagreement.</li>
+<li>Describe a time you changed your mind.</li>
+<li>How do you respond to critical code-review feedback?</li>
+<li>Tell me about a time another person improved your solution.</li>
+<li>How have you helped a teammate learn?</li>
+<li>Describe a decision that required several teams to align.</li>
+<li>Tell me about a time communication failed.</li>
+</ul>
+<h2>Questions for ownership and growth</h2>
+<ul>
+<li>Tell me about a production problem you owned.</li>
+<li>Describe a mistake and what changed afterward.</li>
+<li>Tell me about a project with unclear requirements.</li>
+<li>What is the fastest you have had to learn a new technical area?</li>
+<li>Describe a time you improved something outside your assigned task.</li>
+<li>What would your teammates say you are especially reliable for?</li>
+<li>Which skill are you currently developing?</li>
+</ul>
+<h2>A checklist for fair developer evaluation</h2>
+<p>Before opening the role:</p>
+<ul>
+<li>define the mission;</li>
+<li>define expected outcomes;</li>
+<li>separate essential and learnable skills;</li>
+<li>create a scorecard;</li>
+<li>choose job-relevant assessment methods;</li>
+<li>create rubrics;</li>
+<li>assign competencies to interviewers;</li>
+<li>prepare compensation;</li>
+<li>publish the interview process.</li>
+</ul>
+<p>During evaluation:</p>
+<ul>
+<li>treat the résumé as context;</li>
+<li>ask for evidence;</li>
+<li>evaluate personal contribution;</li>
+<li>use consistent questions;</li>
+<li>keep assessments proportionate;</li>
+<li>provide accommodations;</li>
+<li>record evidence;</li>
+<li>submit scores independently;</li>
+<li>challenge vague concerns;</li>
+<li>give candidates time to ask questions.</li>
+</ul>
+<p>After the process:</p>
+<ul>
+<li>communicate promptly;</li>
+<li>document the decision;</li>
+<li>review candidate feedback;</li>
+<li>analyze stage conversion;</li>
+<li>calibrate interviewers;</li>
+<li>compare signals with later outcomes;</li>
+<li>improve the process.</li>
+</ul>
+<h2>Common mistakes</h2>
+<h3>Hiring the résumé</h3>
+<p>Prestige, titles, and keywords are not a substitute for evidence.</p>
+<h3>Requiring an exact stack match</h3>
+<p>Strong transferable fundamentals may matter more than one framework.</p>
+<h3>Using unrelated algorithm puzzles</h3>
+<p>Assessments should resemble the work unless algorithmic knowledge is central to the role.</p>
+<h3>Evaluating charisma</h3>
+<p>Confidence and social similarity are not the same as engineering ability.</p>
+<h3>Requiring public side projects</h3>
+<p>Not every capable developer has the time or permission to build publicly.</p>
+<h3>Using vague cultural fit</h3>
+<p>Define observable working behaviors instead.</p>
+<h3>Repeating the same evaluation</h3>
+<p>Several interviews asking similar questions add delay without adding signal.</p>
+<h3>Ignoring candidate experience</h3>
+<p>A disrespectful process drives away strong candidates.</p>
+<h3>Collecting feedback after discussion</h3>
+<p>Independent feedback reduces group influence.</p>
+<h3>Failing to validate the process</h3>
+<p>Interview stages should be reviewed against actual outcomes.</p>
 <h2>The takeaway</h2>
-<p>Hire for demonstrated ability and compounding traits, not for résumé keywords and logos. Look at real work, use job-like exercises, and evaluate against a clear rubric. You&#39;ll surface talented people that résumé-screening would have missed — and that&#39;s a real edge.</p>
-<p><em>Find developers ready to show what they can do — <a href="/auth/register?role=COMPANY">post your role on JobsList.dev</a>.</em></p>
+<p>A résumé can help you understand a developer’s background.</p>
+<p>It should not decide whether they can succeed.</p>
+<p>A stronger evaluation process:</p>
+<ol>
+<li>Defines what success in the role means.</li>
+<li>Separates essential skills from learnable tools.</li>
+<li>Treats titles, schools, and employers as context rather than proof.</li>
+<li>Uses project walkthroughs to explore real ownership.</li>
+<li>Uses realistic work samples.</li>
+<li>Evaluates problem-solving, testing, debugging, and technical judgment.</li>
+<li>Assesses communication, collaboration, learning, and ownership.</li>
+<li>Uses structured questions and role-specific rubrics.</li>
+<li>Requires independent, evidence-based feedback.</li>
+<li>Reduces bias by challenging vague impressions.</li>
+<li>Provides an accessible and respectful candidate experience.</li>
+<li>Reviews whether the process predicts successful performance.</li>
+</ol>
+<p>The goal is not to ignore experience.</p>
+<p>The goal is to evaluate experience accurately.</p>
+<p>When you look beyond keywords and logos, you create room for talented developers whose ability may not fit a conventional résumé pattern. You also reduce the risk of overvaluing candidates whose presentation is stronger than their demonstrated skill.</p>
+<p>The best hiring decisions come from evidence: how the person thinks, what they have built, how they respond to uncertainty, how they work with others, and what outcomes they can create.</p>
+<p><em>Find developers ready to demonstrate what they can do. <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish a transparent role, and build a hiring process around real engineering evidence.</em></p>
 5:["locale","uk","d"]
 6:["slug","evaluating-developer-skills-beyond-resume","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","evaluating-developer-skills-beyond-resume","d"],{"children":["__PAGE__?{\"locale\":\"uk\",\"slug\":\"evaluating-developer-skills-beyond-resume\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","evaluating-developer-skills-beyond-resume","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Evaluate Developer Skills Beyond the Résumé\",\"description\":\"Résumés are a weak signal for engineering ability. Here's what actually predicts whether a developer will do great work — and how to assess it.\",\"datePublished\":\"2026-05-07T00:00:00.000Z\",\"inLanguage\":\"uk\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Evaluate Developer Skills Beyond the Résumé","date":"2026-05-07T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":2,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Evaluate Developer Skills Beyond the Résumé | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Résumés are a weak signal for engineering ability. Here's what actually predicts whether a developer will do great work — and how to assess it."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Evaluate Developer Skills Beyond the Résumé"}],["$","meta","15",{"property":"og:description","content":"Résumés are a weak signal for engineering ability. Here's what actually predicts whether a developer will do great work — and how to assess it."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-05-07T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Evaluate Developer Skills Beyond the Résumé"}],["$","meta","25",{"name":"twitter:description","content":"Résumés are a weak signal for engineering ability. Here's what actually predicts whether a developer will do great work — and how to assess it."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","evaluating-developer-skills-beyond-resume","d"],{"children":["__PAGE__?{\"locale\":\"uk\",\"slug\":\"evaluating-developer-skills-beyond-resume\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","evaluating-developer-skills-beyond-resume","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Evaluate Developer Skills Beyond the Résumé\",\"description\":\"A practical guide to evaluating software developers through job-relevant evidence, structured interviews, realistic work samples, technical judgment, collaboration, and measurable impact instead of relying on résumé prestige or keyword matching.\",\"datePublished\":\"2026-05-07T00:00:00.000Z\",\"inLanguage\":\"uk\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Evaluate Developer Skills Beyond the Résumé","date":"2026-05-07T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":33,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Evaluate Developer Skills Beyond the Résumé | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to evaluating software developers through job-relevant evidence, structured interviews, realistic work samples, technical judgment, collaboration, and measurable impact instead of relying on résumé prestige or keyword matching."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Evaluate Developer Skills Beyond the Résumé"}],["$","meta","15",{"property":"og:description","content":"A practical guide to evaluating software developers through job-relevant evidence, structured interviews, realistic work samples, technical judgment, collaboration, and measurable impact instead of relying on résumé prestige or keyword matching."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-05-07T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Evaluate Developer Skills Beyond the Résumé"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to evaluating software developers through job-relevant evidence, structured interviews, realistic work samples, technical judgment, collaboration, and measurable impact instead of relying on résumé prestige or keyword matching."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

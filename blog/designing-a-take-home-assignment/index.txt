@@ -1,66 +1,367 @@
-2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","308","static/chunks/app/blog/%5Bslug%5D/page-207a572bf47badd6.js"],""]
-4:I[5613,[],""]
-6:I[31778,[],""]
-7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
-9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-a:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1b8a,<p>Take-home assignments are the most divisive stage in technical hiring. Done well, they give you better signal than any interview: real code, written the way the candidate actually works, on a problem resembling the job. Done badly, they&#39;re an unpaid weekend that quietly removes every candidate with options — which is to say, every candidate you most want.</p>
-<p>The difference is almost entirely design.</p>
-<h2>Decide whether you need one at all</h2>
-<p>Before designing anything, check that a take-home is the right instrument. It&#39;s a good fit when:</p>
+2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-cf31230153943607.js"],""]
+3:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-cf31230153943607.js"],"Image"]
+5:I[5613,[],""]
+7:I[31778,[],""]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
+a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
+b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+4:T3736,<h1>How to Design a Take-Home Assignment Candidates Won&#39;t Resent</h1>
+<p>Take-home assignments are one of the most controversial parts of technical hiring. Some candidates love them because they can work in a familiar environment without the pressure of live coding. Others avoid companies that require them because they&#39;ve spent entire weekends completing assignments that were never reviewed.</p>
+<p>Both perspectives are understandable.</p>
+<p>A well-designed take-home assignment can reveal far more about how someone engineers software than an hour of algorithm puzzles. A poorly designed one communicates something equally important—that the company doesn&#39;t value a candidate&#39;s time.</p>
+<p>The goal isn&#39;t simply to filter applicants.</p>
+<p>It&#39;s to create a hiring experience that is fair, respectful, predictive of job performance, and enjoyable enough that strong candidates actually complete it.</p>
+<hr>
+<h1>Why companies use take-home assignments</h1>
+<p>The best software engineering happens over hours—not minutes.</p>
+<p>Developers research documentation, write tests, refactor, step away from the keyboard, rethink decisions, and improve their work over time.</p>
+<p>Take-home projects allow candidates to work the same way they would during a normal workday.</p>
+<p>Unlike whiteboard interviews, they reveal things like:</p>
 <ul>
-<li>The role involves substantial independent work you can&#39;t observe in an interview.</li>
-<li>You want to see real code — structure, naming, tests, commits — rather than whiteboard output.</li>
-<li>Your candidates include people who interview poorly but work excellently, which is a large group.</li>
+<li>Project organization</li>
+<li>Code readability</li>
+<li>Testing habits</li>
+<li>Documentation quality</li>
+<li>Error handling</li>
+<li>API design</li>
+<li>Git usage</li>
+<li>Architecture decisions</li>
+<li>Attention to detail</li>
+<li>Trade-off thinking</li>
 </ul>
-<p>It&#39;s a poor fit when you could pair with them for ninety minutes instead and learn the same things while also seeing how they collaborate. Pairing is faster for you, less costly for them, and often higher signal. Consider it first, and offer it as an alternative even when you do use take-homes — some candidates strongly prefer one or the other.</p>
-<h2>The rules that keep candidates in your process</h2>
-<h3>Cap it at three hours, and mean it</h3>
-<p>State the time limit, then design something a competent person genuinely finishes inside it. The common failure is an exercise advertised at &quot;about three hours&quot; that realistically takes eight. Candidates notice, and it damages trust before you&#39;ve even met.</p>
-<p>Test your own assignment: have two engineers on your team complete it cold and time them honestly. Then design for the slower one.</p>
-<h3>Cap what you evaluate, too</h3>
-<p>Tell candidates explicitly what you will and won&#39;t assess. &quot;We&#39;re looking at how you structure the code and handle errors. Don&#39;t build authentication, don&#39;t style it, don&#39;t deploy it.&quot; Without this, conscientious candidates gold-plate — spending nine hours because they can&#39;t tell what matters — and you&#39;ve selected for free time rather than ability.</p>
-<h3>Pay for anything substantial</h3>
-<p>If the exercise takes more than about two hours, pay for it. A modest fee changes the dynamic entirely: it signals you value their time, it makes an extended exercise defensible, and it markedly improves completion rates among senior candidates.</p>
-<p>It also imposes useful discipline on you. Teams paying for take-homes design shorter ones.</p>
-<h3>Make it resemble the actual job</h3>
-<p>The best assignments are small versions of real work: extend an existing small codebase, fix a bug in unfamiliar code, build a small endpoint against a real API, or review a pull request and comment on it.</p>
-<p>That last one is underused and excellent. It takes forty minutes, is impossible to outsource convincingly, and tells you how someone thinks about other people&#39;s code — which is most of what engineers actually do.</p>
-<p>Avoid abstract puzzles disconnected from your product. They measure puzzle practice.</p>
-<h3>Let them use their real tools</h3>
-<p>Candidates work with AI assistants, documentation, and their usual editor setup. Assignments that pretend otherwise test compliance, not ability.</p>
-<p>Design around it instead: the follow-up conversation is where the real evaluation happens. Ask them to walk through a decision, change a requirement live, or explain a trade-off. Someone who genuinely understands their submission handles that easily; someone who doesn&#39;t becomes obvious within minutes. This is a better filter than any honour-system rule, and it doesn&#39;t insult the people who follow the rules.</p>
-<h3>Always debrief it live</h3>
-<p>Never evaluate a submission in isolation. A thirty-minute conversation about their code adds enormous signal: why this structure, what would you change with another day, how would you handle ten times the load, where do you think this is weakest?</p>
-<p>It also protects candidates from being rejected over a misread. And it&#39;s the stage where the difference between deep understanding and surface assembly becomes unmistakable.</p>
-<h2>What to evaluate, and how</h2>
-<p>Write your criteria before you see any submissions, and score every candidate against the same list. Otherwise you&#39;ll rationalise a preference you formed in the first thirty seconds.</p>
-<p>Reasonable criteria for most roles:</p>
+<p>These are the exact skills developers use every day.</p>
+<hr>
+<h1>Why candidates dislike them</h1>
+<p>Candidates don&#39;t dislike take-home assignments.</p>
+<p>They dislike bad ones.</p>
+<p>The biggest complaints include:</p>
 <ul>
-<li><strong>Does it work?</strong> Meets the stated requirements.</li>
-<li><strong>Is it readable?</strong> Naming, structure, and whether someone else could maintain it.</li>
-<li><strong>Is it appropriately tested?</strong> Judgment about what deserves a test, not raw coverage.</li>
-<li><strong>How does it handle failure?</strong> Errors, edge cases, bad input.</li>
-<li><strong>Did they follow the brief</strong> — including the instruction not to gold-plate?</li>
-<li><strong>Is the README clear?</strong> Assumptions, trade-offs, what they&#39;d do with more time.</li>
+<li>Assignments requiring an entire weekend</li>
+<li>Vague requirements</li>
+<li>Projects resembling unpaid consulting work</li>
+<li>Never receiving feedback</li>
+<li>Spending hours only to receive an automated rejection</li>
+<li>Discovering the company never even opened the repository</li>
 </ul>
-<p>That last item is worth weighting heavily. A candidate who documents their assumptions and names their own shortcuts is showing you exactly the judgment you&#39;re hiring for.</p>
-<h2>Mistakes that cost you good candidates</h2>
+<p>Respecting candidates starts by understanding these frustrations.</p>
+<hr>
+<h1>Decide whether you actually need one</h1>
+<p>Before creating a take-home assignment, ask whether another interview format would provide the same information.</p>
+<p>A take-home works well when:</p>
 <ul>
-<li><strong>No time limit stated.</strong> Candidates assume more is better and resent every hour.</li>
-<li><strong>Vague requirements</strong> that force them to guess at scope.</li>
-<li><strong>Building something you&#39;ll use.</strong> Even the appearance of free labour poisons the process. Never ask for work that touches your actual product.</li>
-<li><strong>Sending it too early.</strong> A take-home before any human conversation asks for hours from someone who doesn&#39;t yet know if they want the job. Put it after the intro call.</li>
-<li><strong>Slow feedback.</strong> Sitting on a submission for two weeks after asking for three hours of unpaid work is the most common complaint candidates have, and it&#39;s fully within your control.</li>
-<li><strong>Rejecting with no feedback.</strong> They gave you hours. Give them two specific sentences.</li>
-<li><strong>No alternative offered.</strong> Candidates with caring responsibilities or a demanding current job are disproportionately excluded by take-homes. Offering a live pairing option keeps them in the process.</li>
+<li>The role requires significant independent work.</li>
+<li>You want to evaluate engineering habits rather than interview performance.</li>
+<li>Candidates are geographically distributed.</li>
+<li>You want to reduce live interview stress.</li>
+<li>You care about software quality more than memorized algorithms.</li>
 </ul>
-<h2>The takeaway</h2>
-<p>A take-home is a request for someone&#39;s evenings. Treat it that way: cap it at three hours, say exactly what you&#39;re evaluating, pay for anything longer, base it on real work, let people use their real tools, and always debrief live. Offer pairing as an alternative, and turn results around in days. Done properly it&#39;s the most informative stage you run — done carelessly it&#39;s a silent filter that removes your strongest candidates.</p>
-<p><em>Find candidates worth assessing — <a href="/auth/register?role=COMPANY">post your role on JobsList.dev</a>.</em></p>
-5:["slug","designing-a-take-home-assignment","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":["blog",{"children":[["slug","designing-a-take-home-assignment","d"],{"children":["__PAGE__?{\"slug\":\"designing-a-take-home-assignment\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","designing-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Design a Take-Home Assignment Candidates Won't Resent\",\"description\":\"Take-home tests lose you senior candidates when they're long, vague, or unpaid. How to design one that gives real signal in under three hours.\",\"datePublished\":\"2026-07-01T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-01T00:00:00.000Z","children":"June 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],null,["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
-c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Design a Take-Home Assignment Candidates Won't Resent | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Take-home tests lose you senior candidates when they're long, vague, or unpaid. How to design one that gives real signal in under three hours."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","9",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","10",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","13",{"property":"og:title","content":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","meta","14",{"property":"og:description","content":"Take-home tests lose you senior candidates when they're long, vague, or unpaid. How to design one that gives real signal in under three hours."}],["$","meta","15",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2026-07-01T00:00:00.000Z"}],["$","meta","21",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","meta","24",{"name":"twitter:description","content":"Take-home tests lose you senior candidates when they're long, vague, or unpaid. How to design one that gives real signal in under three hours."}],["$","meta","25",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","meta","28",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","30",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","32",{"name":"next-size-adjust"}]]
+<p>Consider alternatives when:</p>
+<ul>
+<li>A 90-minute pairing session would answer the same questions.</li>
+<li>The role depends heavily on collaboration.</li>
+<li>Time-to-hire is critical.</li>
+<li>Your hiring team doesn&#39;t have capacity to review submissions carefully.</li>
+</ul>
+<p>Many companies now let candidates choose between a take-home assignment and a live pairing session.</p>
+<p>Offering both creates a more inclusive process while respecting different working styles.</p>
+<hr>
+<h1>Keep it under three hours</h1>
+<p>This is the single biggest improvement most hiring teams can make.</p>
+<p>A take-home assignment should require approximately <strong>two to three hours</strong> for a qualified candidate.</p>
+<p>Longer projects don&#39;t produce significantly better hiring signals—they simply eliminate candidates who have families, demanding jobs, caregiving responsibilities, or multiple interviews.</p>
+<p>Before publishing an assignment:</p>
+<ol>
+<li>Have multiple engineers complete it.</li>
+<li>Measure the actual time.</li>
+<li>Average the results.</li>
+<li>Add a small buffer.</li>
+<li>Publish the expected completion time.</li>
+</ol>
+<p>If your engineers consistently take four hours, don&#39;t advertise it as a two-hour exercise.</p>
+<p>Candidates notice.</p>
+<hr>
+<h1>Tell candidates exactly what you&#39;re evaluating</h1>
+<p>One of the biggest reasons assignments become unnecessarily large is uncertainty.</p>
+<p>Candidates don&#39;t know whether you&#39;ll judge:</p>
+<ul>
+<li>UI polish</li>
+<li>Architecture</li>
+<li>Testing</li>
+<li>Documentation</li>
+<li>Performance</li>
+<li>Accessibility</li>
+<li>Security</li>
+<li>Git history</li>
+<li>Deployment</li>
+</ul>
+<p>So they attempt everything.</p>
+<p>Instead, be explicit.</p>
+<p>Example:</p>
+<blockquote>
+<p>We are evaluating:</p>
+<ul>
+<li>Code organization</li>
+<li>Readability</li>
+<li>Error handling</li>
+<li>Basic automated tests</li>
+<li>Clear documentation</li>
+</ul>
+<p>We are <strong>not</strong> evaluating:</p>
+<ul>
+<li>Fancy UI design</li>
+<li>Authentication</li>
+<li>CI/CD</li>
+<li>Production deployment</li>
+<li>Pixel-perfect styling</li>
+</ul>
+</blockquote>
+<p>Removing ambiguity helps everyone.</p>
+<hr>
+<h1>Give realistic requirements</h1>
+<p>Good assignments resemble real work.</p>
+<p>Examples include:</p>
+<ul>
+<li>Extending an existing API</li>
+<li>Fixing a bug</li>
+<li>Building a small feature</li>
+<li>Reviewing an existing pull request</li>
+<li>Refactoring poorly written code</li>
+<li>Designing a database schema</li>
+<li>Creating a REST endpoint</li>
+<li>Writing integration tests</li>
+<li>Consuming a public API</li>
+</ul>
+<p>Avoid abstract programming puzzles.</p>
+<p>If candidates would never perform the task on the job, reconsider including it.</p>
+<hr>
+<h1>Never assign production work</h1>
+<p>Candidates should never wonder whether they&#39;re completing free consulting.</p>
+<p>Avoid assignments like:</p>
+<ul>
+<li>Designing a feature your company plans to ship</li>
+<li>Fixing a real production bug</li>
+<li>Writing code that enters your codebase</li>
+<li>Building an internal tool</li>
+<li>Creating marketing assets</li>
+</ul>
+<p>Instead, use fictional domains or archived sample projects.</p>
+<p>Candidates should leave knowing their work existed solely for evaluation.</p>
+<hr>
+<h1>Allow candidates to use AI</h1>
+<p>Modern software development includes AI assistants.</p>
+<p>Pretending otherwise creates an artificial interview environment.</p>
+<p>Instead of banning AI:</p>
+<ul>
+<li>Encourage candidates to use their normal workflow.</li>
+<li>Focus your evaluation on understanding.</li>
+<li>Ask them to explain decisions afterward.</li>
+<li>Discuss trade-offs.</li>
+<li>Modify requirements during the debrief.</li>
+</ul>
+<p>Developers who genuinely understand their code can explain it.</p>
+<p>Those who blindly accepted generated code usually cannot.</p>
+<hr>
+<h1>Ask for a README</h1>
+<p>The README often tells you more than the code.</p>
+<p>Ask candidates to include:</p>
+<ul>
+<li>Assumptions</li>
+<li>Design decisions</li>
+<li>Trade-offs</li>
+<li>Known limitations</li>
+<li>Future improvements</li>
+<li>Setup instructions</li>
+<li>Testing instructions</li>
+<li>Time spent</li>
+<li>Areas they intentionally skipped</li>
+</ul>
+<p>Excellent engineers explain their thinking.</p>
+<hr>
+<h1>Evaluate engineering judgment</h1>
+<p>Don&#39;t score only the finished product.</p>
+<p>Evaluate how candidates approached the work.</p>
+<p>Look for:</p>
+<h2>Simplicity</h2>
+<p>Did they solve the problem cleanly?</p>
+<p>Or over-engineer it?</p>
+<hr>
+<h2>Maintainability</h2>
+<p>Would another developer understand the project?</p>
+<hr>
+<h2>Testing</h2>
+<p>Did they test meaningful behavior?</p>
+<p>Or chase arbitrary coverage percentages?</p>
+<hr>
+<h2>Error handling</h2>
+<p>What happens when things go wrong?</p>
+<hr>
+<h2>Documentation</h2>
+<p>Would another engineer know how to run the project?</p>
+<hr>
+<h2>Trade-offs</h2>
+<p>Did they make reasonable decisions given the time constraints?</p>
+<hr>
+<h2>Scope control</h2>
+<p>Did they build exactly what was requested?</p>
+<p>Or spend ten extra hours polishing unnecessary features?</p>
+<p>Professional engineers know when to stop.</p>
+<hr>
+<h1>Use a scoring rubric</h1>
+<p>Review every submission using the same criteria.</p>
+<p>For example:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Correctness</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>Code quality</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>Architecture</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>Documentation</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>Error handling</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>Communication</td>
+<td>5%</td>
+</tr>
+</tbody></table>
+<p>A structured rubric creates consistency between interviewers and reduces unconscious bias.</p>
+<hr>
+<h1>Always review the submission live</h1>
+<p>Never reject someone based only on repository contents.</p>
+<p>Schedule a short follow-up conversation.</p>
+<p>Ask questions like:</p>
+<ul>
+<li>Why did you choose this architecture?</li>
+<li>What would you improve with another day?</li>
+<li>What was the hardest decision?</li>
+<li>What trade-offs did you make?</li>
+<li>How would you scale this?</li>
+<li>What assumptions did you make?</li>
+<li>What would you test next?</li>
+<li>Where do you think your solution is weakest?</li>
+</ul>
+<p>This discussion often reveals more than the assignment itself.</p>
+<hr>
+<h1>Give useful feedback</h1>
+<p>Candidates invested their time.</p>
+<p>Return the favor.</p>
+<p>Even a few sentences help:</p>
+<blockquote>
+<p>Your project was well organized and easy to read. We especially liked your testing strategy and documentation. We ultimately moved forward with another candidate who demonstrated more experience designing scalable APIs, but we appreciate the thoughtful submission.</p>
+</blockquote>
+<p>Constructive feedback leaves candidates with a positive impression—even if they aren&#39;t hired.</p>
+<hr>
+<h1>Candidate tips: How to succeed on take-home assignments</h1>
+<p>If you&#39;re applying for developer roles, remember that companies are evaluating how you think—not how many hours you can spend polishing a project.</p>
+<p>Some practical advice:</p>
+<h3>Read everything first</h3>
+<p>Understand the entire assignment before writing code.</p>
+<hr>
+<h3>Clarify assumptions</h3>
+<p>If something is ambiguous, ask.</p>
+<p>Good communication is part of engineering.</p>
+<hr>
+<h3>Don&#39;t gold-plate</h3>
+<p>Follow the requested scope.</p>
+<p>Shipping a complete, focused solution is better than building half of an ambitious one.</p>
+<hr>
+<h3>Write a strong README</h3>
+<p>Explain:</p>
+<ul>
+<li>Why you made certain decisions</li>
+<li>What you&#39;d improve</li>
+<li>What you intentionally skipped</li>
+<li>How to run the project</li>
+</ul>
+<p>Hiring managers appreciate thoughtful documentation.</p>
+<hr>
+<h3>Commit logically</h3>
+<p>Small, meaningful Git commits demonstrate professional workflow and make your reasoning easier to follow.</p>
+<hr>
+<h3>Test important behavior</h3>
+<p>You don&#39;t need exhaustive test coverage.</p>
+<p>Instead, test the code that carries the most risk.</p>
+<hr>
+<h3>Be ready to discuss your work</h3>
+<p>Review your project before the follow-up interview.</p>
+<p>Be prepared to explain:</p>
+<ul>
+<li>Architecture</li>
+<li>Trade-offs</li>
+<li>Bugs</li>
+<li>Performance considerations</li>
+<li>Future improvements</li>
+</ul>
+<p>The conversation often determines the final hiring decision.</p>
+<hr>
+<h1>Common mistakes companies make</h1>
+<p>Avoid these common pitfalls:</p>
+<ul>
+<li>Projects requiring an entire weekend</li>
+<li>Hidden requirements</li>
+<li>No published time expectation</li>
+<li>Rejecting candidates without feedback</li>
+<li>Reviewing submissions inconsistently</li>
+<li>Expecting production-quality software</li>
+<li>Using the assignment before speaking with a candidate</li>
+<li>Evaluating style instead of engineering judgment</li>
+<li>Penalizing candidates for using modern development tools</li>
+<li>Letting assignments sit unread for weeks</li>
+</ul>
+<p>Every interaction contributes to your employer brand.</p>
+<hr>
+<h1>Common mistakes candidates make</h1>
+<p>Candidates can also improve their chances by avoiding:</p>
+<ul>
+<li>Ignoring the README</li>
+<li>Overengineering simple requirements</li>
+<li>Skipping tests entirely</li>
+<li>Copying code they can&#39;t explain</li>
+<li>Forgetting error handling</li>
+<li>Missing setup instructions</li>
+<li>Rushing through documentation</li>
+<li>Spending twenty hours on a three-hour assignment</li>
+<li>Submitting without running the application one final time</li>
+</ul>
+<p>Remember that professionalism matters just as much as technical skill.</p>
+<hr>
+<h1>Building trust through the interview process</h1>
+<p>The strongest hiring processes leave candidates feeling respected regardless of the outcome.</p>
+<p>When companies publish realistic expectations, provide clear requirements, review submissions carefully, give thoughtful feedback, and communicate quickly, they build trust that extends beyond a single hiring decision.</p>
+<p>Candidates talk to one another.</p>
+<p>A respectful interview process attracts future applicants, strengthens your employer brand, and improves acceptance rates for top candidates.</p>
+<hr>
+<h1>Final thoughts</h1>
+<p>Take-home assignments should never feel like unpaid labor.</p>
+<p>They should resemble real engineering work, have a clearly defined scope, fit comfortably within two to three hours, and evaluate the qualities that matter most: thoughtful design, clean code, communication, testing, and sound engineering judgment.</p>
+<p>For candidates, the assignment is an opportunity to demonstrate how they solve real problems—not simply whether they can memorize algorithms.</p>
+<p>For employers, it&#39;s an opportunity to identify engineers who write maintainable software, collaborate effectively, and make thoughtful technical decisions.</p>
+<p>When both sides respect each other&#39;s time, take-home assignments become one of the most valuable stages of the hiring process.</p>
+<hr>
+<p><strong>Looking for talented software engineers—or searching for your next developer role? Create your free profile on JobsList.dev to connect directly with companies and candidates without unnecessary barriers.</strong></p>
+6:["slug","designing-a-take-home-assignment","d"]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":["blog",{"children":[["slug","designing-a-take-home-assignment","d"],{"children":["__PAGE__?{\"slug\":\"designing-a-take-home-assignment\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","designing-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Design a Take-Home Assignment Candidates Won't Resent\",\"description\":\"Take-home assignments should measure real engineering ability—not free labor. Learn how to design respectful, high-signal technical assessments that candidates appreciate and hiring teams can evaluate consistently.\",\"image\":[\"https://jobslist.dev/images/blog/en/how-to-design-a-take-home-assignment-candidates-wont-resent-og.png\"],\"datePublished\":\"2026-07-01T00:00:00.000Z\",\"dateModified\":\"2026-07-01T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/blog/designing-a-take-home-assignment/\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$L3",null,{"src":"/images/blog/en/how-to-design-a-take-home-assignment-candidates-wont-resent-og.png","alt":"How to Design a Take-Home Assignment Candidates Won't Resent — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","header",null,{"className":"mb-8 mt-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-surface-900 sm:text-4xl dark:text-white","children":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","p",null,{"className":"mt-4 text-lg leading-8 text-surface-600 dark:text-surface-300","children":"Take-home assignments should measure real engineering ability—not free labor. Learn how to design respectful, high-signal technical assessments that candidates appreciate and hiring teams can evaluate consistently."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-01T00:00:00.000Z","children":"June 30, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," min read"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","interviewing",{"className":"badge-gray","children":"interviewing"}],["$","span","hiring",{"className":"badge-gray","children":"hiring"}],["$","span","technical-interviews",{"className":"badge-gray","children":"technical-interviews"}],["$","span","take-home",{"className":"badge-gray","children":"take-home"}],["$","span","recruiting",{"className":"badge-gray","children":"recruiting"}],["$","span","engineering",{"className":"badge-gray","children":"engineering"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$4"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$L3",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Design a Take-Home Assignment Candidates Won't Resent | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Take-home assignments should measure real engineering ability—not free labor. Learn how to design respectful, high-signal technical assessments that candidates appreciate and hiring teams can evaluate consistently."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","9",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","10",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","13",{"property":"og:title","content":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","meta","14",{"property":"og:description","content":"Take-home assignments should measure real engineering ability—not free labor. Learn how to design respectful, high-signal technical assessments that candidates appreciate and hiring teams can evaluate consistently."}],["$","meta","15",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/how-to-design-a-take-home-assignment-candidates-wont-resent-og.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"How to Design a Take-Home Assignment Candidates Won't Resent — JobsList.dev Reading Room"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2026-07-01T00:00:00.000Z"}],["$","meta","21",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"How to Design a Take-Home Assignment Candidates Won't Resent"}],["$","meta","24",{"name":"twitter:description","content":"Take-home assignments should measure real engineering ability—not free labor. Learn how to design respectful, high-signal technical assessments that candidates appreciate and hiring teams can evaluate consistently."}],["$","meta","25",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/how-to-design-a-take-home-assignment-candidates-wont-resent-og.png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","meta","28",{"name":"twitter:image:alt","content":"How to Design a Take-Home Assignment Candidates Won't Resent — JobsList.dev Reading Room"}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","30",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","32",{"name":"next-size-adjust"}]]
 1:null

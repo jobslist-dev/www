@@ -1,66 +1,851 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1b46,<p>Career gaps carry far more anxiety than they deserve. Candidates rehearse elaborate justifications, pad dates, or avoid applying at all — while on the other side of the table, most interviewers register the gap, hear a straightforward explanation, and move on. Layoffs in particular have become common enough that nobody experienced treats them as a mark against you.</p>
-<p>What does damage an application is the handling: evasiveness, over-explanation, or an obvious attempt to hide something. All three are avoidable.</p>
-<h2>The principle: brief, factual, forward</h2>
-<p>Every good answer has the same shape. State what happened in one or two sentences. Don&#39;t apologize, don&#39;t editorialize, don&#39;t oversupply detail. Then move the conversation to what you&#39;ve been doing and what you want next.</p>
-<p>The length of your answer signals how big a problem you think it is. Two calm sentences say &quot;this is routine.&quot; Two anxious minutes say &quot;there&#39;s something here worth probing.&quot;</p>
-<h2>Redundancy and layoffs</h2>
-<p>This is the easiest case, because it&#39;s the most common and the least personal.</p>
-<p>Say plainly that the role was eliminated, along with the context: a round affecting a percentage of the company, a department closure, the team being cut, funding running out. Context matters because it establishes that this was a business decision rather than a performance one.</p>
-<blockquote>
-<p>&quot;My role was cut in [month] — the company reduced engineering by about a third when [funding fell through / the product line closed]. Around [n] of us went at the same time.&quot;</p>
-</blockquote>
-<p>Then stop. Don&#39;t speculate about company mismanagement, don&#39;t relitigate whether it was fair, and don&#39;t disparage former leadership — however justified you feel. Interviewers read bitterness as a preview of how you&#39;ll talk about them one day.</p>
-<p>If you have a manager or colleague who&#39;ll confirm you were a strong performer, offering that reference proactively closes the topic entirely.</p>
-<h2>Health, caring, and family reasons</h2>
-<p>You are not obliged to disclose medical or family details, and in most jurisdictions interviewers may not ask. A neutral framing is complete and sufficient:</p>
-<blockquote>
-<p>&quot;I took time out for personal reasons. That&#39;s fully resolved and I&#39;ve been focused on getting back into [X] since [month].&quot;</p>
-</blockquote>
-<p>If you&#39;re comfortable saying more, that&#39;s your choice — but &quot;personal reasons,&quot; delivered calmly, is a normal answer that competent interviewers accept without follow-up. An interviewer who presses for medical detail is telling you something useful about the company.</p>
-<h2>Deliberate breaks</h2>
-<p>Travel, sabbatical, study, a startup that didn&#39;t work, time with young children, burnout recovery. These are increasingly ordinary, and framing them as deliberate is much stronger than framing them as a lapse.</p>
-<blockquote>
-<p>&quot;I took eight months out deliberately after [n] years without a real break. I spent part of it [what you did], and I came back clear that I want to work on [the thing you want].&quot;</p>
-</blockquote>
-<p>Burnout is worth naming honestly if it&#39;s the truth. The strong version pairs it with what changed: what you learned about your own limits, and what you now look for in an environment. That reads as self-knowledge, which is a hiring plus.</p>
-<h2>A failed startup or business</h2>
-<p>Not a gap at all, and shouldn&#39;t be presented as one. Put it on your CV as a role, because it was one.</p>
-<p>Talk about it the way you&#39;d talk about any project: what you built, what you learned, why it didn&#39;t work, and what you&#39;d do differently. Founders-turned-employees are attractive hires — ownership, breadth, commercial instincts — as long as the interviewer believes you actually want a job rather than a holding pattern. Address that directly, since they&#39;re probably wondering.</p>
-<h2>A long gap — a year or more</h2>
-<p>Longer gaps need slightly more, but the shape is the same: what happened, what you did with the time, and evidence you&#39;re current.</p>
-<p>Evidence matters more as gaps lengthen. Anything counts: a course, a project you shipped, open-source contributions, freelance work, volunteering your skills. It doesn&#39;t have to be impressive — it has to demonstrate that you kept moving and that your skills haven&#39;t gone stale.</p>
-<p>If you did nothing career-related for a year, that&#39;s allowed too. &quot;I needed the time and I used it. I&#39;ve spent the last [n] weeks getting back up to speed on [X], and here&#39;s what I built&quot; is a perfectly strong answer.</p>
-<h2>Handling it on your CV and applications</h2>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Ta770,<p>Career gaps create far more anxiety than they usually create hiring risk.</p>
+<p>Candidates often assume an unexplained period between jobs will dominate every recruiter screen and interview. They stretch employment dates, write defensive cover letters, or avoid applying until they have completed enough courses and projects to make the gap feel acceptable.</p>
+<p>Most experienced hiring managers see gaps much more routinely.</p>
+<p>People step away from work because of:</p>
 <ul>
-<li><strong>Use years, or state months honestly.</strong> Don&#39;t stretch dates to paper over a gap. It&#39;s routinely caught in reference checks and it converts a non-issue into a dishonesty issue.</li>
-<li><strong>Consider a one-line entry</strong> where the gap sits: &quot;Career break — [year] to [year] — [travel / study / caring responsibilities].&quot; A labelled gap stops reviewers inventing a worse explanation.</li>
-<li><strong>Address it in the cover letter if it&#39;s substantial.</strong> One sentence, no defensiveness. Getting there first means the reviewer reads your version rather than guessing.</li>
-<li><strong>List anything you did</strong>, even unpaid — freelance, contract, open source, courses.</li>
-<li><strong>Lead with a skills-forward summary</strong> if the gap is long, so the first thing read is capability rather than chronology.</li>
+<li>layoffs and company closures;</li>
+<li>caregiving responsibilities;</li>
+<li>health needs;</li>
+<li>parental leave;</li>
+<li>relocation;</li>
+<li>military service;</li>
+<li>education;</li>
+<li>travel;</li>
+<li>burnout;</li>
+<li>unsuccessful startups;</li>
+<li>freelance periods;</li>
+<li>difficult job markets;</li>
+<li>personal priorities that temporarily mattered more than work.</li>
 </ul>
-<h2>Mistakes that turn a non-issue into an issue</h2>
+<p>A gap is not automatically evidence that your skills disappeared, your performance was poor, or your career has stalled permanently.</p>
+<p>What employers are more likely to evaluate is how you handle the subject.</p>
+<p>A brief, honest, forward-looking explanation communicates confidence.</p>
+<p>An evasive, contradictory, or excessively detailed explanation may create concern that did not exist before.</p>
+<p>The goal is not to construct a perfect defense of your employment history.</p>
+<p>It is to explain what happened, establish that you are ready to work, and redirect the conversation toward the value you can bring next.</p>
+<h1>The basic formula: brief, factual, forward</h1>
+<p>Most strong explanations follow the same three-part structure.</p>
+<h2>1. State what happened</h2>
+<p>Use one or two factual sentences.</p>
+<h2>2. Explain what you did or what changed</h2>
+<p>Mention relevant learning, projects, caregiving, recovery, freelancing, or preparation when useful.</p>
+<h2>3. Connect the experience to what you want next</h2>
+<p>Shift the conversation toward the role in front of you.</p>
+<p>A complete answer might sound like this:</p>
+<blockquote>
+<p>My position was eliminated during a company-wide reduction last November. Since then, I have been consulting on two small backend projects and updating my production experience with Go and PostgreSQL. I am now looking for a permanent role where I can own reliable backend systems again.</p>
+</blockquote>
+<p>That answer is:</p>
 <ul>
-<li><strong>Lying or stretching dates.</strong> The single worst option. It rarely survives a reference check and it&#39;s a firing offense at many companies.</li>
-<li><strong>Over-explaining.</strong> Length signals shame. Two sentences.</li>
-<li><strong>Bitterness about a former employer.</strong> Interviewers extrapolate.</li>
-<li><strong>Apologizing.</strong> &quot;Unfortunately I&#39;ve been out of work&quot; invites them to treat it as a problem. State it as a fact instead.</li>
-<li><strong>Bringing it up unprompted, repeatedly.</strong> Say your line once and let it go.</li>
-<li><strong>Not applying at all.</strong> By far the most expensive mistake, and the most common.</li>
+<li>honest;</li>
+<li>specific;</li>
+<li>calm;</li>
+<li>complete;</li>
+<li>focused on the future.</li>
 </ul>
-<h2>The takeaway</h2>
-<p>A gap is a fact about your history, not a verdict on your ability. Name it in one or two calm sentences, keep your former employer out of it, show what you did with the time, and pivot forward to the work you want. Handled briefly and honestly, it costs you almost nothing — and how you handle it is what interviewers are actually reading.</p>
-<p><em>Ready to get back to work? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a> and apply directly to companies.</em></p>
+<p>You do not need a five-minute explanation.</p>
+<p>The length of your answer often tells the interviewer how concerned you believe they should be.</p>
+<p>Two calm sentences suggest a normal career event.</p>
+<p>A long, anxious defense may make a routine gap appear more significant.</p>
+<h1>What interviewers usually want to know</h1>
+<p>When someone asks about a career gap, they are often trying to resolve a small number of practical questions:</p>
+<ul>
+<li>Was the departure performance-related?</li>
+<li>Are your skills still current?</li>
+<li>Are you ready and available to return?</li>
+<li>Is the issue that caused the break likely to affect the role?</li>
+<li>Does your explanation match the dates and information on your résumé?</li>
+<li>Can you discuss a difficult career event professionally?</li>
+<li>Are you genuinely interested in the position?</li>
+</ul>
+<p>You do not need to disclose every private detail to answer those questions.</p>
+<p>A clear explanation plus evidence of current ability is usually enough.</p>
+<h1>Explaining a layoff or redundancy</h1>
+<p>Layoffs are among the easiest employment gaps to explain because they are business decisions rather than automatic judgments about individual performance.</p>
+<p>Use direct language:</p>
+<ul>
+<li>My position was eliminated.</li>
+<li>My team was included in a reduction in force.</li>
+<li>The company closed the product line.</li>
+<li>The business ran out of funding.</li>
+<li>The department was restructured.</li>
+<li>Engineering headcount was reduced.</li>
+<li>The company shut down.</li>
+</ul>
+<p>You can add context when it helps.</p>
+<p>Example:</p>
+<blockquote>
+<p>My role was eliminated in a company-wide reduction that affected roughly a quarter of the organization. The company consolidated the product and platform teams after a funding round fell through.</p>
+</blockquote>
+<p>Then move forward:</p>
+<blockquote>
+<p>Since then, I have been contributing to an open-source API project and looking for a backend role where reliability and production ownership are central.</p>
+</blockquote>
+<p>That is generally enough.</p>
+<h1>A short layoff answer</h1>
+<blockquote>
+<p>My position was eliminated during a broader restructuring in March. It affected several engineering teams, and my departure was not performance-related. I have used the time to update my portfolio and am now focused on backend engineering roles like this one.</p>
+</blockquote>
+<h1>A layoff answer for a senior engineer</h1>
+<blockquote>
+<p>The company reduced engineering headcount after closing one of its product lines, and my Staff Engineer position was eliminated with the rest of that group. Since then, I have been advising a small startup on platform architecture while looking for another individual-contributor role with meaningful cross-team technical scope.</p>
+</blockquote>
+<h1>A layoff answer for a junior developer</h1>
+<blockquote>
+<p>My role was eliminated when the company reduced its junior hiring program. I have continued building with TypeScript and React, completed a new deployed project, and am looking for a team where I can keep contributing while growing through regular code review and mentorship.</p>
+</blockquote>
+<h1>Do not defend yourself before anyone asks</h1>
+<p>You do not need to open every interview with:</p>
+<blockquote>
+<p>Before we begin, I need to explain why I was laid off.</p>
+</blockquote>
+<p>Let the conversation develop naturally.</p>
+<p>When the question comes up, answer it directly and move on.</p>
+<p>Repeatedly raising the layoff may make it appear more central to your candidacy than it is.</p>
+<h1>Avoid blaming your former employer</h1>
+<p>A company can make bad decisions. A manager can treat people unfairly. A layoff can be poorly handled.</p>
+<p>You are still better served by describing the event professionally.</p>
+<p>Avoid:</p>
+<ul>
+<li>insulting former leaders;</li>
+<li>speculating about incompetence;</li>
+<li>sharing confidential internal disputes;</li>
+<li>portraying every colleague as unreasonable;</li>
+<li>relitigating whether the decision was fair.</li>
+</ul>
+<p>Hiring managers often imagine how you might discuss their company after leaving.</p>
+<p>Professionalism does not require pretending the experience was positive.</p>
+<p>It means choosing the details relevant to the interview.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Leadership had no idea what they were doing and destroyed the whole team.</p>
+</blockquote>
+<p>Say:</p>
+<blockquote>
+<p>The company changed strategy and closed the product line my team supported.</p>
+</blockquote>
+<p>Both may describe the same event.</p>
+<p>Only one keeps the interview focused on your candidacy.</p>
+<h1>What if you were selected individually?</h1>
+<p>Not every layoff affects an entire department.</p>
+<p>You can still be factual.</p>
+<p>Example:</p>
+<blockquote>
+<p>My role was eliminated as part of a smaller restructuring. The company was reducing costs and consolidated my responsibilities into another team. My previous manager can speak to my performance, and I am happy to provide that reference.</p>
+</blockquote>
+<p>Do not claim a large company-wide layoff when that is not what happened.</p>
+<p>Honesty is easier to maintain and safer during references or background checks.</p>
+<h1>What if you were fired?</h1>
+<p>A termination for performance or conduct needs more care than a layoff, but it does not automatically end your career.</p>
+<p>The strongest answer usually includes:</p>
+<ol>
+<li>What happened.</li>
+<li>What responsibility you accept.</li>
+<li>What you learned or changed.</li>
+<li>Why the same problem is less likely to recur.</li>
+</ol>
+<p>Example:</p>
+<blockquote>
+<p>I was let go because I repeatedly missed delivery expectations in a role that required more proactive communication than I was providing. I should have surfaced risks earlier instead of trying to solve everything independently. Since then, I have changed how I plan work, communicate blockers, and ask for alignment, and I can give examples of how I applied that approach successfully in later contract work.</p>
+</blockquote>
+<p>Avoid:</p>
+<ul>
+<li>denying everything;</li>
+<li>blaming every other person;</li>
+<li>giving false information;</li>
+<li>turning the answer into a confession containing irrelevant details;</li>
+<li>claiming you learned something without showing changed behavior.</li>
+</ul>
+<p>A difficult answer handled with maturity may create more confidence than an obviously evasive one.</p>
+<h1>Explaining a health-related gap</h1>
+<p>You are not required to disclose a diagnosis, treatment history, or private medical information simply because your résumé contains a gap.</p>
+<p>A concise explanation is enough:</p>
+<blockquote>
+<p>I took time away from work for a health matter. It has been addressed, and I am ready to return to a full-time engineering role.</p>
+</blockquote>
+<p>You may add current evidence:</p>
+<blockquote>
+<p>During the past two months, I have been rebuilding my development routine through a TypeScript project and open-source contributions.</p>
+</blockquote>
+<p>You control how much to share.</p>
+<p>Possible wording includes:</p>
+<ul>
+<li>health reasons;</li>
+<li>a medical matter;</li>
+<li>personal health;</li>
+<li>recovery;</li>
+<li>a necessary health-related break.</li>
+</ul>
+<p>You do not need to describe symptoms, medication, procedures, or personal medical history.</p>
+<h1>Explaining a mental-health or burnout break</h1>
+<p>Burnout can be explained without presenting yourself as unable to handle demanding work.</p>
+<p>Focus on what you learned and what changed.</p>
+<p>Example:</p>
+<blockquote>
+<p>After several years in a high-intensity environment, I took a deliberate break to recover from burnout. The time helped me recognize that I do my best work in teams with sustainable planning, clear priorities, and healthy on-call practices. I am fully ready to return and have been preparing through consulting and technical study.</p>
+</blockquote>
+<p>This answer demonstrates:</p>
+<ul>
+<li>self-awareness;</li>
+<li>recovery;</li>
+<li>intentional job selection;</li>
+<li>readiness.</li>
+</ul>
+<p>Avoid saying only:</p>
+<blockquote>
+<p>I burned out because the company was terrible.</p>
+</blockquote>
+<p>That leaves the interviewer wondering whether the underlying issue remains unresolved.</p>
+<h1>Explaining caregiving responsibilities</h1>
+<p>Caregiving is a common and legitimate reason to leave the workforce temporarily.</p>
+<p>You can say:</p>
+<blockquote>
+<p>I took a career break to care for a family member. That responsibility has now changed, and I am ready to return to full-time work.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>I stepped away for eighteen months to provide family care. During the final part of that period, I refreshed my React and TypeScript skills and built a small scheduling application. I am now fully available and focused on returning to frontend development.</p>
+</blockquote>
+<p>You do not need to identify:</p>
+<ul>
+<li>the family member;</li>
+<li>their diagnosis;</li>
+<li>the exact circumstances;</li>
+<li>private family conflict.</li>
+</ul>
+<h1>Explaining parental leave or time with children</h1>
+<p>You can list a longer period as a career break when appropriate.</p>
+<p>Example:</p>
+<blockquote>
+<p>I took a planned career break after the birth of my child. I am now returning to full-time software development and have spent the past several months refreshing my backend skills through a deployed API project.</p>
+</blockquote>
+<p>There is no need to apologize for making a family decision.</p>
+<p>You can also emphasize transferable strengths when relevant, but avoid forcing the analogy.</p>
+<p>A hiring manager does not need to hear that parenting made you a “master of multitasking.” They need evidence that you can perform the role now.</p>
+<h1>Explaining a deliberate sabbatical</h1>
+<p>A planned break can be presented as an intentional career choice.</p>
+<p>Example:</p>
+<blockquote>
+<p>After seven years of continuous work, I took a planned nine-month sabbatical. I traveled, completed a distributed-systems course, and built a small event-processing project. The break clarified that I want my next role to focus on backend reliability and platform work.</p>
+</blockquote>
+<p>The strongest version connects the sabbatical to a clearer next step.</p>
+<h1>Explaining travel</h1>
+<p>Travel does not need to be disguised as professional development.</p>
+<p>A straightforward answer is fine:</p>
+<blockquote>
+<p>I took eight months away from work to travel after several years in the same role. It was a deliberate decision, and I began preparing for my return by rebuilding my portfolio and refreshing my cloud experience.</p>
+</blockquote>
+<p>Employers generally care more about your readiness now than whether every month of the gap produced a certification.</p>
+<h1>Explaining education or retraining</h1>
+<p>A period spent studying should normally appear on the résumé when it is relevant.</p>
+<p>Example:</p>
+<p><strong>Career Development and Software Engineering Study</strong>
+January 2025–October 2025</p>
+<ul>
+<li>Completed structured coursework in JavaScript, TypeScript, React, Node.js, and PostgreSQL.</li>
+<li>Built and deployed two full-stack applications.</li>
+<li>Contributed fixes to an open-source accessibility library.</li>
+</ul>
+<p>In the interview:</p>
+<blockquote>
+<p>I left my previous field to retrain deliberately for software development. During that period, I completed a structured program and built two deployed applications. I am now looking for my first full-time engineering role.</p>
+</blockquote>
+<h1>Explaining a career change</h1>
+<p>A transition period between industries is not an empty gap when it contains deliberate preparation.</p>
+<p>Describe the bridge.</p>
+<p>Example:</p>
+<blockquote>
+<p>I left operations management to transition into software engineering. I spent the next year studying Python and backend development, building an inventory-reconciliation application, and completing freelance automation work for two local businesses.</p>
+</blockquote>
+<p>Your previous career can strengthen the story.</p>
+<p>An accountant moving into financial software, a nurse moving into healthcare technology, or a logistics manager moving into warehouse automation brings domain knowledge many traditional candidates do not have.</p>
+<h1>Explaining a failed startup</h1>
+<p>A startup is work, even when it does not succeed.</p>
+<p>List it as experience rather than hiding it as a gap.</p>
+<p>Example:</p>
+<p><strong>Co-Founder and Lead Engineer — Northline Labs</strong>
+2024–2025</p>
+<ul>
+<li>Designed and built a scheduling platform for independent clinics.</li>
+<li>Interviewed prospective customers and converted requirements into product releases.</li>
+<li>Owned application architecture, deployment, customer support, and analytics.</li>
+<li>Closed the product after failing to reach sustainable customer acquisition.</li>
+</ul>
+<p>In the interview:</p>
+<blockquote>
+<p>I spent eighteen months building a scheduling startup. We launched the product and gained early users, but we did not find a sustainable acquisition model. I learned a great deal about product scope, customer feedback, and owning systems end to end. I am now intentionally looking to bring that experience into an established engineering team.</p>
+</blockquote>
+<p>The interviewer may wonder whether you genuinely want employment or plan to leave for another startup.</p>
+<p>Address that directly:</p>
+<blockquote>
+<p>I enjoyed the ownership, but I missed working with experienced engineers and want my next chapter to be inside a strong product team.</p>
+</blockquote>
+<h1>Explaining freelance or contract work</h1>
+<p>Freelance work is not a gap.</p>
+<p>Include it as a role, even when projects were intermittent.</p>
+<p>Example:</p>
+<p><strong>Independent Software Developer</strong>
+2025–2026</p>
+<ul>
+<li>Built internal workflow tools for three small businesses using Python and PostgreSQL.</li>
+<li>Developed and maintained a booking application used by approximately 400 customers.</li>
+<li>Gathered requirements, scoped deliverables, handled deployments, and supported clients.</li>
+</ul>
+<p>Do not hide contract work merely because it was not traditional employment.</p>
+<h1>Explaining an extended job search</h1>
+<p>Sometimes the honest explanation is that finding the next job took longer than expected.</p>
+<p>You can say so without sounding defeated.</p>
+<p>Example:</p>
+<blockquote>
+<p>My role was eliminated last year, and the search has taken longer than I originally expected. During that period, I have continued applying selectively, completed a cloud certification, and built a production-style backend project focused on queues and idempotency.</p>
+</blockquote>
+<p>A long job search becomes easier to explain when you can show continued professional activity.</p>
+<p>That activity might include:</p>
+<ul>
+<li>consulting;</li>
+<li>freelancing;</li>
+<li>courses;</li>
+<li>certifications;</li>
+<li>open-source work;</li>
+<li>volunteering;</li>
+<li>technical writing;</li>
+<li>mentoring;</li>
+<li>portfolio development;</li>
+<li>interview preparation;</li>
+<li>community involvement.</li>
+</ul>
+<p>You do not need all of them.</p>
+<p>One or two credible activities are enough.</p>
+<h1>What if you did nothing career-related?</h1>
+<p>You are allowed to take time away without turning every week into a professional-development project.</p>
+<p>Do not invent work.</p>
+<p>A strong answer might be:</p>
+<blockquote>
+<p>I needed to step away fully for personal reasons, so I did not focus on career development during the first part of the break. Over the past three months, I have been preparing to return by refreshing my Java skills and building a new API project.</p>
+</blockquote>
+<p>The relevant question is whether you are ready now.</p>
+<h1>How much of the gap should you explain?</h1>
+<p>Use enough detail to make the timeline understandable.</p>
+<p>You usually do not need to explain:</p>
+<ul>
+<li>every month;</li>
+<li>every rejected application;</li>
+<li>private financial circumstances;</li>
+<li>all family details;</li>
+<li>the emotional history of the break;</li>
+<li>unrelated personal events.</li>
+</ul>
+<p>Think of the explanation as a bridge between two parts of your career, not the main destination.</p>
+<h1>Should you list a career gap on your résumé?</h1>
+<p>It depends on the length and context.</p>
+<h2>Short gaps</h2>
+<p>A gap of several months often needs no special entry, particularly when it occurred during a normal job search.</p>
+<h2>Longer gaps</h2>
+<p>A clearly labeled entry can prevent speculation.</p>
+<p>Example:</p>
+<p><strong>Career Break — Family Caregiving</strong>
+February 2024–January 2025</p>
+<ul>
+<li>Took planned time away from full-time employment for family caregiving.</li>
+<li>Refreshed TypeScript and React skills before returning to the job market.</li>
+<li>Built and deployed an accessibility-focused portfolio project.</li>
+</ul>
+<p>Or simply:</p>
+<p><strong>Career Break — Personal Reasons</strong>
+2024–2025</p>
+<p>No additional detail is required when you prefer privacy.</p>
+<h1>Résumé examples by situation</h1>
+<h1>Layoff</h1>
+<p><strong>Senior Backend Engineer — Acme Software</strong>
+March 2022–November 2025</p>
+<ul>
+<li>Owned payment reconciliation services processing [appropriate verified scale].</li>
+<li>Reduced failed reconciliation jobs by [verified result].</li>
+<li>Position eliminated during a company-wide restructuring.</li>
+</ul>
+<p>Including the layoff in the role is optional. It may be useful when the company’s closure or restructuring is publicly known.</p>
+<h1>Caregiving</h1>
+<p><strong>Career Break — Family Caregiving</strong>
+January 2025–December 2025</p>
+<ul>
+<li>Took planned leave from full-time employment to provide family care.</li>
+<li>Completed a PostgreSQL performance course and rebuilt a backend portfolio project before returning.</li>
+</ul>
+<h1>Health</h1>
+<p><strong>Career Break</strong>
+May 2025–February 2026</p>
+<ul>
+<li>Took time away for a resolved personal health matter.</li>
+<li>Returned to active development through open-source contributions and contract work.</li>
+</ul>
+<p>You can omit the health reference entirely and use only “Career Break.”</p>
+<h1>Education</h1>
+<p><strong>Software Engineering Career Development</strong>
+September 2024–June 2025</p>
+<ul>
+<li>Completed structured study in JavaScript, TypeScript, React, Node.js, and SQL.</li>
+<li>Built and deployed a multi-tenant scheduling application.</li>
+<li>Contributed accessibility fixes to an open-source component library.</li>
+</ul>
+<h1>Sabbatical</h1>
+<p><strong>Planned Sabbatical</strong>
+April 2025–January 2026</p>
+<ul>
+<li>Took a planned break after eight years of continuous employment.</li>
+<li>Completed independent study in distributed systems.</li>
+<li>Built an event-processing project demonstrating retries and idempotency.</li>
+</ul>
+<h1>Startup</h1>
+<p><strong>Founder and Software Engineer — Project Name</strong>
+2024–2025</p>
+<ul>
+<li>Built and launched [product].</li>
+<li>Interviewed users and managed the product roadmap.</li>
+<li>Closed the business after [brief factual reason].</li>
+</ul>
+<h1>Should you use years instead of months?</h1>
+<p>Using years may visually reduce short gaps, but consistency and honesty matter.</p>
+<p>For example:</p>
+<ul>
+<li>2022–2024</li>
+<li>2024–2026</li>
+</ul>
+<p>This format is acceptable when applied throughout the résumé.</p>
+<p>Do not switch selectively between years and months to conceal a specific gap.</p>
+<p>Background checks and employment verification may uncover exact dates.</p>
+<p>A date-formatting choice is normal.</p>
+<p>Deliberately falsifying dates is not.</p>
+<h1>Never stretch employment dates</h1>
+<p>Do not claim you worked somewhere after your employment ended.</p>
+<p>Do not merge separate jobs into one continuous period.</p>
+<p>Do not describe unemployment as consulting unless consulting work actually occurred.</p>
+<p>The original gap is usually manageable.</p>
+<p>A credibility problem created by false dates is much harder to repair.</p>
+<h1>How to address a gap in your résumé summary</h1>
+<p>A summary can lead with current value rather than employment chronology.</p>
+<p>Example:</p>
+<blockquote>
+<p>Backend engineer with five years of experience building Go and PostgreSQL services, including payment workflows, database migrations, and production incident response. Returning from a planned family-caregiving break with recent open-source and contract experience.</p>
+</blockquote>
+<p>Another example:</p>
+<blockquote>
+<p>Frontend developer specializing in React, TypeScript, accessibility, and design systems. Recently completed a career break and returned to active development through a deployed component-library project.</p>
+</blockquote>
+<p>Do not make the gap the first and most important part of your professional identity.</p>
+<p>Mention it only when it helps create clarity.</p>
+<h1>How to address the gap in a cover letter</h1>
+<p>One or two sentences are usually sufficient.</p>
+<h1>Layoff example</h1>
+<blockquote>
+<p>My previous role was eliminated during a company-wide restructuring in November. Since then, I have been consulting on backend systems and am now seeking a permanent role focused on reliability and data correctness.</p>
+</blockquote>
+<h1>Career break example</h1>
+<blockquote>
+<p>I took a planned career break for family caregiving and am now fully available to return. During the past several months, I refreshed my React and TypeScript skills through a deployed accessibility project.</p>
+</blockquote>
+<h1>Career change example</h1>
+<blockquote>
+<p>After six years in logistics operations, I took a year to transition deliberately into backend development. I have since built and deployed an inventory-reconciliation application using Python and PostgreSQL.</p>
+</blockquote>
+<p>The cover letter should quickly return to why you fit the role.</p>
+<h1>Should you mention the gap in every application?</h1>
+<p>No.</p>
+<p>Mention it when:</p>
+<ul>
+<li>the gap is substantial;</li>
+<li>the application asks directly;</li>
+<li>it clarifies an unusual timeline;</li>
+<li>the break strengthens your story;</li>
+<li>you are returning after several years;</li>
+<li>it explains a major career change.</li>
+</ul>
+<p>You do not need to insert a gap explanation into every optional message when your résumé already makes the timeline clear.</p>
+<h1>How to answer in a recruiter screen</h1>
+<p>A recruiter usually needs a concise explanation.</p>
+<p>Example:</p>
+<blockquote>
+<p>My position was eliminated in a broader restructuring last October. Since then, I have completed two contract projects and am looking for a permanent backend role. I am available to start within two weeks.</p>
+</blockquote>
+<p>That resolves:</p>
+<ul>
+<li>why you left;</li>
+<li>what you have done;</li>
+<li>what you want;</li>
+<li>when you can start.</li>
+</ul>
+<h1>How to answer in a hiring-manager interview</h1>
+<p>A hiring manager may want more context about readiness and relevance.</p>
+<p>Example:</p>
+<blockquote>
+<p>I took a year away for family caregiving after leaving my previous engineering role. That responsibility is now resolved. During the final four months of the break, I rebuilt my development routine, contributed to an open-source TypeScript library, and shipped a small scheduling application. I am now ready for a full-time role and particularly interested in this one because of the ownership around your frontend platform.</p>
+</blockquote>
+<h1>How to answer in a technical interview</h1>
+<p>The gap itself may matter less than whether your knowledge is current.</p>
+<p>Be ready to discuss:</p>
+<ul>
+<li>recent code;</li>
+<li>current tooling;</li>
+<li>a project;</li>
+<li>technical reading;</li>
+<li>open-source work;</li>
+<li>how you refreshed your skills.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>I was out of full-time engineering for fourteen months. To prepare for returning, I rebuilt one of my APIs using the current version of .NET, added containerized integration tests, and deployed it. That work helped me refresh the parts of the stack that had changed.</p>
+</blockquote>
+<h1>A reusable interview framework</h1>
+<p>Use this structure:</p>
+<blockquote>
+<p>I left [company or work] because [brief factual reason]. During the time since, I [relevant activity or personal context]. I am now [ready, available, current], and I am looking for [specific next step].</p>
+</blockquote>
+<p>Examples:</p>
+<blockquote>
+<p>My role was eliminated when the company closed our product line. Since then, I have been doing contract API work and contributing to an open-source validation library. I am now looking for a permanent backend role with production ownership.</p>
+</blockquote>
+<blockquote>
+<p>I took a planned break to care for a family member. That responsibility has changed, and I have spent the past three months refreshing my frontend skills through a deployed React project. I am now ready to return full-time.</p>
+</blockquote>
+<blockquote>
+<p>I left finance to retrain in software development. During the transition, I studied Python and SQL and built a reconciliation application based on problems I had seen in my previous work. I am now looking for my first backend role.</p>
+</blockquote>
+<h1>Practice the answer aloud</h1>
+<p>A gap explanation can sound very different spoken than written.</p>
+<p>Practice until you can deliver it:</p>
+<ul>
+<li>in under a minute;</li>
+<li>without rushing;</li>
+<li>without apologizing;</li>
+<li>without sounding rehearsed word for word;</li>
+<li>without adding unnecessary detail;</li>
+<li>with a clear forward transition.</li>
+</ul>
+<p>You are not memorizing a legal statement.</p>
+<p>You are making sure anxiety does not cause you to over-explain.</p>
+<h1>What to say when an interviewer presses for private details</h1>
+<p>You can politely maintain a boundary.</p>
+<p>Example:</p>
+<blockquote>
+<p>It was a private family matter, and I prefer not to go into the personal details. The responsibility has been resolved, and I am fully available for the role.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>I took the time for a health matter that has been addressed. I am comfortable confirming that I can meet the position’s requirements, but I would prefer to keep the medical details private.</p>
+</blockquote>
+<p>A professional interviewer should accept that boundary.</p>
+<h1>What if the gap may affect scheduling or accommodations?</h1>
+<p>Discuss current work requirements rather than revealing unnecessary history.</p>
+<p>For example:</p>
+<blockquote>
+<p>I can meet the core schedule described for the role. I would need [specific reasonable arrangement] and am happy to discuss how that could work.</p>
+</blockquote>
+<p>Requirements involving disability accommodations, leave, work authorization, or employment law can be jurisdiction-specific. Seek qualified local guidance when the stakes are significant.</p>
+<h1>How to answer “What have you been doing since?”</h1>
+<p>Use real evidence.</p>
+<p>Potential answers include:</p>
+<ul>
+<li>searching strategically;</li>
+<li>studying;</li>
+<li>freelancing;</li>
+<li>caring for family;</li>
+<li>recovering;</li>
+<li>building projects;</li>
+<li>contributing to open source;</li>
+<li>volunteering;</li>
+<li>relocating;</li>
+<li>completing certifications;</li>
+<li>writing technical articles;</li>
+<li>interviewing;</li>
+<li>exploring a startup.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>I have been conducting a focused search for backend roles, completing a Go service project, and volunteering on an open-source data-import tool. The project gave me recent practice with queue retries, PostgreSQL migrations, and integration testing.</p>
+</blockquote>
+<h1>What if you are still unemployed?</h1>
+<p>Use present-tense confidence.</p>
+<p>Avoid:</p>
+<blockquote>
+<p>Unfortunately, I am still unemployed.</p>
+</blockquote>
+<p>Try:</p>
+<blockquote>
+<p>I am currently focused full-time on finding the right backend role. I have been selective about opportunities that match my production experience, and I am continuing to build and contribute while I search.</p>
+</blockquote>
+<p>You do not need to pretend unemployment is enjoyable.</p>
+<p>You do need to avoid presenting yourself as defeated.</p>
+<h1>Keep your technical skills current</h1>
+<p>For developer roles, evidence of current skill is often the best answer to concern about a long gap.</p>
+<p>Useful activities include:</p>
+<ul>
+<li>building a focused project;</li>
+<li>shipping a live application;</li>
+<li>contributing to open source;</li>
+<li>completing a relevant course;</li>
+<li>writing technical case studies;</li>
+<li>practicing technical interviews;</li>
+<li>freelancing;</li>
+<li>volunteering technical work;</li>
+<li>reviewing major changes in your stack.</li>
+</ul>
+<p>Choose activities relevant to the roles you want.</p>
+<p>Ten disconnected certificates are usually less convincing than one current, well-explained project.</p>
+<h1>Build one return-to-work project</h1>
+<p>A deliberate return project can provide:</p>
+<ul>
+<li>recent code;</li>
+<li>a résumé entry;</li>
+<li>a GitHub repository;</li>
+<li>interview material;</li>
+<li>evidence of current tools;</li>
+<li>a confidence boost.</li>
+</ul>
+<p>A useful project should:</p>
+<ul>
+<li>align with your target role;</li>
+<li>be small enough to finish;</li>
+<li>include a deployed or demonstrable result;</li>
+<li>document technical decisions;</li>
+<li>include tests where relevant;</li>
+<li>reflect current practices.</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li>Backend: an idempotent webhook-processing service.</li>
+<li>Frontend: an accessible dashboard with keyboard navigation.</li>
+<li>Full-stack: a multi-tenant scheduling application.</li>
+<li>Data: a validated ingestion pipeline with documented transformations.</li>
+<li>DevOps: a reusable CI/CD example with infrastructure as code.</li>
+<li>Mobile: an offline-first application with sync behavior.</li>
+</ul>
+<h1>Add recent evidence to your résumé</h1>
+<p>When a gap is recent, a projects section can move current activity near the top.</p>
+<p>Example:</p>
+<h2>Selected Projects</h2>
+<p><strong>Reliable Webhook Processor</strong> — Go, PostgreSQL, Docker
+2026</p>
+<ul>
+<li>Built an idempotent webhook-consumption service with retry handling, dead-letter processing, and integration tests.</li>
+<li>Documented schema choices, delivery assumptions, and operational failure modes.</li>
+<li>Deployed a public demonstration and API documentation.</li>
+</ul>
+<p>This gives hiring managers something current to discuss.</p>
+<h1>Request references strategically</h1>
+<p>A strong reference can reduce uncertainty after a layoff or gap.</p>
+<p>Potential references include:</p>
+<ul>
+<li>former managers;</li>
+<li>staff engineers;</li>
+<li>project leads;</li>
+<li>clients;</li>
+<li>open-source maintainers;</li>
+<li>volunteer coordinators;</li>
+<li>former colleagues.</li>
+</ul>
+<p>You do not need to announce references in every interview.</p>
+<p>When relevant, you can say:</p>
+<blockquote>
+<p>My former manager is available to speak about my performance and the circumstances of the restructuring.</p>
+</blockquote>
+<p>Only offer references who have agreed to participate.</p>
+<h1>What hiring managers should understand about career gaps</h1>
+<p>Employers should avoid treating uninterrupted employment as a proxy for talent.</p>
+<p>Career gaps may reflect:</p>
+<ul>
+<li>caregiving;</li>
+<li>health;</li>
+<li>economic downturns;</li>
+<li>company failure;</li>
+<li>immigration delays;</li>
+<li>military service;</li>
+<li>family decisions;</li>
+<li>a difficult hiring market;</li>
+<li>deliberate career exploration.</li>
+</ul>
+<p>None of those automatically predicts poor engineering performance.</p>
+<p>Hiring teams should evaluate:</p>
+<ul>
+<li>current ability;</li>
+<li>evidence of learning;</li>
+<li>relevant experience;</li>
+<li>communication;</li>
+<li>judgment;</li>
+<li>readiness;</li>
+<li>role alignment.</li>
+</ul>
+<p>A continuous résumé can contain weak performance.</p>
+<p>A non-linear résumé can contain exceptional ability.</p>
+<h1>Questions employers should avoid</h1>
+<p>Interviewers should not pressure candidates to reveal private information about:</p>
+<ul>
+<li>health;</li>
+<li>disability;</li>
+<li>pregnancy;</li>
+<li>family planning;</li>
+<li>religion;</li>
+<li>age;</li>
+<li>marital status;</li>
+<li>caregiving details;</li>
+<li>other protected personal matters.</li>
+</ul>
+<p>A job-relevant alternative is:</p>
+<blockquote>
+<p>Is there anything about your availability or the role’s requirements that we should clarify?</p>
+</blockquote>
+<p>Employment rules vary by location, so employers should use qualified legal or HR guidance when designing interview policies.</p>
+<h1>Common mistakes candidates make</h1>
+<h1>Lying about dates</h1>
+<p>This converts a routine gap into a credibility problem.</p>
+<h1>Describing a layoff as a resignation</h1>
+<p>Do not create a false story merely because resignation sounds more controlled.</p>
+<h1>Apologizing repeatedly</h1>
+<p>Avoid:</p>
+<blockquote>
+<p>I am sorry that I have not been working.</p>
+</blockquote>
+<p>The gap is a fact, not a moral failure.</p>
+<h1>Over-explaining</h1>
+<p>Long answers create additional details the interviewer did not need.</p>
+<h1>Sharing confidential information</h1>
+<p>Do not disclose former-company secrets to make the layoff explanation more dramatic.</p>
+<h1>Speaking bitterly</h1>
+<p>A difficult experience can be discussed without hostility.</p>
+<h1>Pretending nothing happened</h1>
+<p>An obvious gap paired with evasiveness creates more concern than the gap itself.</p>
+<h1>Making unsupported claims about learning</h1>
+<p>Do not say you “mastered cloud engineering” during a two-week course.</p>
+<p>Show the project or describe what you learned accurately.</p>
+<h1>Filling the gap with dozens of weak certificates</h1>
+<p>Credentials without applied evidence rarely resolve questions about readiness.</p>
+<h1>Applying only after the résumé feels perfect</h1>
+<p>The gap becomes longer while you wait for permission to re-enter.</p>
+<h1>Treating every rejection as proof the gap is fatal</h1>
+<p>You may be rejected for many reasons unrelated to your employment history.</p>
+<h1>Turning the gap into your entire story</h1>
+<p>The role should be about what you can do next.</p>
+<h1>How to evaluate whether your explanation works</h1>
+<p>Ask:</p>
+<ul>
+<li>Is it true?</li>
+<li>Can I say it in under a minute?</li>
+<li>Does it explain the timeline?</li>
+<li>Does it preserve appropriate privacy?</li>
+<li>Does it avoid blame?</li>
+<li>Does it show current readiness?</li>
+<li>Does it connect to the next role?</li>
+<li>Would my references confirm the important facts?</li>
+<li>Does my résumé tell the same story?</li>
+<li>Am I making the gap sound larger than it is?</li>
+</ul>
+<p>When the answer to those questions is yes, the explanation is probably sufficient.</p>
+<h1>Career-gap answer examples</h1>
+<h1>Company closure</h1>
+<blockquote>
+<p>The company shut down after it was unable to raise additional funding. My role ended with the rest of the team. Since then, I have been consulting and am looking for a permanent product-engineering role.</p>
+</blockquote>
+<h1>Department restructuring</h1>
+<blockquote>
+<p>My position was eliminated when the company combined two engineering groups. I used the transition to deepen my cloud experience and am now targeting platform roles.</p>
+</blockquote>
+<h1>Family caregiving</h1>
+<blockquote>
+<p>I took time away to provide family care. That situation has changed, and I am fully ready to return. I have been rebuilding my technical routine through a deployed Java project.</p>
+</blockquote>
+<h1>Health-related break</h1>
+<blockquote>
+<p>I stepped away for a personal health matter that has been addressed. I am ready to return to full-time work and have recently refreshed my React and TypeScript experience.</p>
+</blockquote>
+<h1>Parental break</h1>
+<blockquote>
+<p>I took a planned career break after the birth of my child. I am now returning to engineering and have spent the past several months updating my frontend portfolio.</p>
+</blockquote>
+<h1>Sabbatical</h1>
+<blockquote>
+<p>After eight years of continuous employment, I took a planned sabbatical. The break helped clarify that I want my next role to center on distributed backend systems.</p>
+</blockquote>
+<h1>Long job search</h1>
+<blockquote>
+<p>My role was eliminated last year, and the search has taken longer than expected. I have used the time for contract work and a production-style Go project, and I remain focused on senior backend opportunities.</p>
+</blockquote>
+<h1>Career transition</h1>
+<blockquote>
+<p>I left operations to retrain in software development. During that period, I studied Python and SQL and built an inventory-management application based on workflows from my previous career.</p>
+</blockquote>
+<h1>Failed startup</h1>
+<blockquote>
+<p>I spent eighteen months building a startup product that ultimately did not reach sustainable revenue. I owned the application from development through customer support and am now intentionally looking to contribute that experience within a larger engineering team.</p>
+</blockquote>
+<h1>Termination</h1>
+<blockquote>
+<p>I was let go after missing delivery expectations and not communicating risks early enough. I took responsibility for that, changed how I plan and escalate work, and have demonstrated the improvement successfully in subsequent contract projects.</p>
+</blockquote>
+<h1>A practical résumé checklist after a gap</h1>
+<p>Before applying, review the following:</p>
+<ul>
+<li>Employment dates are accurate.</li>
+<li>Date formatting is consistent.</li>
+<li>A long gap is labeled when that improves clarity.</li>
+<li>Recent projects or learning are visible.</li>
+<li>Your professional summary leads with capability.</li>
+<li>Technical skills match the roles you target.</li>
+<li>Projects include working links where possible.</li>
+<li>Your GitHub or portfolio appears current.</li>
+<li>Your résumé and professional profiles agree.</li>
+<li>References understand your current search.</li>
+<li>Your gap explanation is brief and practiced.</li>
+<li>The résumé focuses more on results than chronology.</li>
+</ul>
+<h1>A practical interview checklist</h1>
+<p>Before an interview:</p>
+<ul>
+<li>Prepare a 30–60 second explanation.</li>
+<li>Identify what you did during the gap.</li>
+<li>Choose one current technical example.</li>
+<li>Prepare a forward-looking transition.</li>
+<li>Decide which personal details you will not share.</li>
+<li>Verify that dates match your résumé.</li>
+<li>Prepare a reference when appropriate.</li>
+<li>Research the role so you can connect your return to a specific opportunity.</li>
+</ul>
+<p>During the interview:</p>
+<ul>
+<li>Answer directly.</li>
+<li>Keep your tone neutral.</li>
+<li>Do not apologize.</li>
+<li>Do not blame.</li>
+<li>Stop after the answer is complete.</li>
+<li>Redirect toward your skills and the role.</li>
+</ul>
+<h1>The takeaway</h1>
+<p>A career gap is a period in your employment history.</p>
+<p>It is not a verdict on your ability, ambition, reliability, or future.</p>
+<p>Explain it with a simple structure:</p>
+<ol>
+<li>State what happened.</li>
+<li>Add only the context that matters.</li>
+<li>Show what you did or how you prepared to return.</li>
+<li>Confirm your readiness.</li>
+<li>Connect the story to the role you want next.</li>
+</ol>
+<p>Do not falsify dates.</p>
+<p>Do not apologize for ordinary life events.</p>
+<p>Do not give strangers private information they do not need.</p>
+<p>Do not let a gap become the central theme of your candidacy.</p>
+<p>Hiring managers ultimately need evidence that you can perform the work now. Give them that evidence through your experience, projects, communication, references, and technical judgment.</p>
+<p>Your employment history does not need to be perfectly continuous.</p>
+<p>It needs to be honest, understandable, and pointed toward what comes next.</p>
+<p><em>Ready for your next chapter? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a>, showcase your current skills and projects, and connect directly with companies hiring developers.</em></p>
 5:["locale","ja","d"]
 6:["slug","explaining-a-career-gap-or-layoff","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","ja","d"],{"children":["blog",{"children":[["slug","explaining-a-career-gap-or-layoff","d"],{"children":["__PAGE__?{\"locale\":\"ja\",\"slug\":\"explaining-a-career-gap-or-layoff\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ja","d"],{"children":["blog",{"children":[["slug","explaining-a-career-gap-or-layoff","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Explain a Career Gap or Layoff in Your Job Search\",\"description\":\"For job seekers: what to say about a redundancy, a break, or time away from work — in your CV, your applications, and the interview itself.\",\"datePublished\":\"2026-07-22T00:00:00.000Z\",\"inLanguage\":\"ja\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Explain a Career Gap or Layoff in Your Job Search","date":"2026-07-22T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":5,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Explain a Career Gap or Layoff in Your Job Search | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For job seekers: what to say about a redundancy, a break, or time away from work — in your CV, your applications, and the interview itself."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Explain a Career Gap or Layoff in Your Job Search"}],["$","meta","15",{"property":"og:description","content":"For job seekers: what to say about a redundancy, a break, or time away from work — in your CV, your applications, and the interview itself."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-22T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Explain a Career Gap or Layoff in Your Job Search"}],["$","meta","25",{"name":"twitter:description","content":"For job seekers: what to say about a redundancy, a break, or time away from work — in your CV, your applications, and the interview itself."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","ja","d"],{"children":["blog",{"children":[["slug","explaining-a-career-gap-or-layoff","d"],{"children":["__PAGE__?{\"locale\":\"ja\",\"slug\":\"explaining-a-career-gap-or-layoff\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ja","d"],{"children":["blog",{"children":[["slug","explaining-a-career-gap-or-layoff","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Explain a Career Gap or Layoff in Your Job Search\",\"description\":\"Learn how to explain a layoff, redundancy, caregiving break, health-related absence, sabbatical, or extended career gap on your résumé, in applications, and during interviews—without apologizing or oversharing.\",\"datePublished\":\"2026-07-22T00:00:00.000Z\",\"inLanguage\":\"ja\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Explain a Career Gap or Layoff in Your Job Search","date":"2026-07-22T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":29,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Explain a Career Gap or Layoff in Your Job Search | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn how to explain a layoff, redundancy, caregiving break, health-related absence, sabbatical, or extended career gap on your résumé, in applications, and during interviews—without apologizing or oversharing."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Explain a Career Gap or Layoff in Your Job Search"}],["$","meta","15",{"property":"og:description","content":"Learn how to explain a layoff, redundancy, caregiving break, health-related absence, sabbatical, or extended career gap on your résumé, in applications, and during interviews—without apologizing or oversharing."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-22T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Explain a Career Gap or Layoff in Your Job Search"}],["$","meta","25",{"name":"twitter:description","content":"Learn how to explain a layoff, redundancy, caregiving break, health-related absence, sabbatical, or extended career gap on your résumé, in applications, and during interviews—without apologizing or oversharing."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

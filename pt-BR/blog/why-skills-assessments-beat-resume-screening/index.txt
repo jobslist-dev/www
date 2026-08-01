@@ -1,49 +1,1426 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1241,<p>Résumés tell you where someone worked and what they claim they did. They don&#39;t tell you whether the person can actually do the job. That gap is where most hiring goes wrong — teams spend hours interviewing candidates who read well on paper and can&#39;t reason through a real problem, while overlooking strong people whose backgrounds don&#39;t pattern-match to a recruiter&#39;s mental model. A well-designed skills assessment closes that gap. Here&#39;s the case for using one, and how to do it without becoming the company candidates warn each other about.</p>
-<h2>The résumé is a weak predictor</h2>
-<p>Keyword-matching a résumé optimizes for the wrong things:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Tdc03,<p>Résumés are useful.</p>
+<p>They can summarize where someone worked, how their career progressed, which technologies they mention, and what accomplishments they chose to highlight.</p>
+<p>But a résumé cannot directly answer the question every hiring team ultimately needs resolved:</p>
+<blockquote>
+<p>Can this person perform the work required by this role?</p>
+</blockquote>
+<p>That gap between <strong>reported experience</strong> and <strong>demonstrated ability</strong> is where many hiring processes break down.</p>
+<p>A polished candidate may move forward because their résumé contains the right employers, titles, keywords, and years of experience—even when their practical judgment is weak.</p>
+<p>Another candidate may be rejected because their background does not match the expected pattern, even though they can read unfamiliar code, diagnose problems, reason about trade-offs, and contribute effectively.</p>
+<p>A well-designed skills assessment can help close that gap.</p>
+<p>It gives candidates a structured opportunity to demonstrate relevant ability rather than asking hiring teams to infer everything from career history.</p>
+<p>That does not mean employers should discard résumés or let an assessment score make the hiring decision.</p>
+<p>The strongest process uses each form of evidence for what it does best:</p>
 <ul>
-<li><strong>It rewards pedigree over ability.</strong> Brand-name employers and elite schools correlate loosely, at best, with day-to-day performance.</li>
-<li><strong>It rewards self-promotion.</strong> The people who write the best résumés aren&#39;t reliably the ones who do the best work.</li>
-<li><strong>It&#39;s easy to inflate.</strong> &quot;Led,&quot; &quot;architected,&quot; &quot;drove&quot; — claims are cheap and unverifiable on paper.</li>
-<li><strong>It filters out non-traditional talent.</strong> Career switchers, self-taught engineers, and people from underrepresented backgrounds get screened out by proxies that have nothing to do with skill.</li>
+<li>The résumé provides career context.</li>
+<li>The assessment provides demonstrated skill evidence.</li>
+<li>The interview explores depth, communication, ownership, and mutual fit.</li>
+<li>References provide evidence about sustained performance over time.</li>
 </ul>
-<p>A structured assessment measures the thing you actually care about: can this person reason through the work?</p>
-<h2>Assessments reduce bias</h2>
-<p>When you evaluate what a candidate <em>did</em> on a standardized exercise instead of where they went to school, you strip out a lot of the noise that drives biased decisions. Everyone answers comparable questions, scored the same way, against the same rubric. That&#39;s fairer to the candidate and more defensible for you — and it&#39;s how you find the great engineer whose résumé a keyword filter would have discarded.</p>
-<h2>They save your team&#39;s most expensive resource</h2>
-<p>Interviewer time is the scarcest thing in hiring. Sending a focused assessment early means your engineers spend their interview hours on candidates who&#39;ve already demonstrated they can do the work — not re-screening a stack of maybes. A good assessment turns a pile of applications into a ranked shortlist, so the humans focus on judgment calls, culture, and selling the role.</p>
-<h2>The catch: bad assessments do real harm</h2>
-<p>Testing is only a win if the test is good and the experience is humane. Done badly, assessments backfire:</p>
+<p>Skills assessments beat résumé-only screening because they ask a better early-stage question:</p>
+<blockquote>
+<p>What can this person demonstrate?</p>
+</blockquote>
+<h1>What résumé screening actually measures</h1>
+<p>A résumé is a candidate-created summary of past experience.</p>
+<p>It may reveal:</p>
 <ul>
-<li><strong>Trivia and gotchas</strong> measure memorization, not ability, and annoy exactly the senior people you want.</li>
-<li><strong>Hostile, proctored exams</strong> with webcams and lockdown browsers insult strong candidates and drive them to competitors who respect them.</li>
-<li><strong>Marathon take-homes</strong> that extract free work screen <em>out</em> people with options.</li>
-<li><strong>Opaque scoring</strong> that candidates can&#39;t trust erodes your brand.</li>
+<li>previous employers;</li>
+<li>job titles;</li>
+<li>dates;</li>
+<li>responsibilities;</li>
+<li>technologies;</li>
+<li>accomplishments;</li>
+<li>education;</li>
+<li>certifications;</li>
+<li>projects;</li>
+<li>career progression.</li>
 </ul>
-<p>The goal isn&#39;t to make candidates suffer to prove they&#39;re worthy. It&#39;s to get a fair, accurate read on ability while making people <em>more</em> excited to join, not less.</p>
-<h2>What good looks like</h2>
-<p>A skills assessment earns its place when it is:</p>
+<p>All of that can be useful.</p>
+<p>The problem begins when employers treat those signals as direct proof of ability.</p>
+<p>A résumé may tell you that someone worked at a large technology company.</p>
+<p>It does not tell you:</p>
 <ul>
-<li><strong>Role-relevant</strong> — it tests the judgment the job actually requires, not API trivia.</li>
-<li><strong>Short and respectful</strong> of the candidate&#39;s time.</li>
-<li><strong>Fair</strong> — comparable questions, consistent scoring, no negative marking.</li>
-<li><strong>Calm</strong> — a focused, pleasant experience, not a surveillance exam.</li>
-<li><strong>Transparent</strong> — clear about what&#39;s measured and what happens with the results.</li>
+<li>how much ownership they had;</li>
+<li>whether they made important decisions;</li>
+<li>whether they can explain the systems they worked on;</li>
+<li>whether their team’s success depended on their contribution;</li>
+<li>whether they can transfer those skills to your environment;</li>
+<li>whether they can perform the specific work your role requires.</li>
 </ul>
-<p>That combination gives you strong hiring signal <em>and</em> a candidate experience that wins offers. Those two goals aren&#39;t in tension — the best assessments serve both at once.</p>
-<h2>The bottom line</h2>
-<p>Résumé screening asks &quot;does this person&#39;s history look like the ones we&#39;ve hired before?&quot; A skills assessment asks &quot;can this person do the work?&quot; The second question is the one that actually predicts a good hire — and it&#39;s the one that gives overlooked candidates a fair shot. The rest of the decision is what interviews are for: the assessment just makes sure you&#39;re spending those interviews on the right people. In the articles that follow, we explain exactly how we&#39;ve built assessments to get that signal <em>without</em> the hostility that gives testing a bad name.</p>
+<p>A résumé is evidence, but it is indirect evidence.</p>
+<h1>Résumé screening often rewards familiarity</h1>
+<p>Hiring teams naturally recognize backgrounds that resemble people they have hired successfully before.</p>
+<p>That can lead to a screening model based on familiar patterns:</p>
+<ul>
+<li>recognizable university;</li>
+<li>recognizable employer;</li>
+<li>conventional career path;</li>
+<li>familiar job title;</li>
+<li>expected number of years;</li>
+<li>exact technology keywords.</li>
+</ul>
+<p>This approach feels efficient because it reduces a large applicant pool quickly.</p>
+<p>It may also remove excellent candidates before anyone evaluates their ability.</p>
+<p>The central question quietly changes from:</p>
+<blockquote>
+<p>Can this person do the job?</p>
+</blockquote>
+<p>to:</p>
+<blockquote>
+<p>Does this person look like someone who has done this job before?</p>
+</blockquote>
+<p>Those are not the same question.</p>
+<h1>Résumés reward access as well as ability</h1>
+<p>Career history reflects more than talent.</p>
+<p>It can also reflect access to:</p>
+<ul>
+<li>prestigious schools;</li>
+<li>professional networks;</li>
+<li>internships;</li>
+<li>geographic opportunities;</li>
+<li>visa options;</li>
+<li>well-known employers;</li>
+<li>mentors;</li>
+<li>time for unpaid projects;</li>
+<li>early career sponsorship;</li>
+<li>confidence in self-promotion.</li>
+</ul>
+<p>A candidate who lacks those advantages may still possess strong technical judgment.</p>
+<p>Résumé-first screening may never give them the opportunity to demonstrate it.</p>
+<h1>Résumés reward writing and self-promotion</h1>
+<p>A résumé is partly a marketing document.</p>
+<p>Candidates who are comfortable describing themselves confidently may appear stronger than equally capable candidates who write conservatively.</p>
+<p>Compare these two statements:</p>
+<blockquote>
+<p>Helped maintain internal APIs.</p>
+</blockquote>
+<blockquote>
+<p>Drove the architecture and delivery of business-critical service integrations.</p>
+</blockquote>
+<p>Those descriptions could refer to very different work—or nearly the same work presented with different levels of confidence.</p>
+<p>Hiring teams often attempt to infer ability from language such as:</p>
+<ul>
+<li>led;</li>
+<li>owned;</li>
+<li>architected;</li>
+<li>transformed;</li>
+<li>drove;</li>
+<li>optimized;</li>
+<li>scaled;</li>
+<li>revolutionized.</li>
+</ul>
+<p>Those words may describe genuine impact.</p>
+<p>They may also be inflated, ambiguous, or disconnected from the candidate’s personal contribution.</p>
+<p>A role-relevant assessment gives both candidates another way to prove themselves.</p>
+<h1>Résumés can hide team context</h1>
+<p>Software is usually built by teams.</p>
+<p>A résumé bullet may describe a successful product, migration, or system without showing what the candidate personally did.</p>
+<p>For example:</p>
+<blockquote>
+<p>Built a global payment platform processing millions of transactions.</p>
+</blockquote>
+<p>That statement leaves important questions unanswered:</p>
+<ul>
+<li>Did the candidate design the system?</li>
+<li>Did they implement one endpoint?</li>
+<li>Did they manage the team?</li>
+<li>Did they support an existing service?</li>
+<li>Did they write documentation?</li>
+<li>Did they join after the platform had already been built?</li>
+<li>Were they responsible for operations?</li>
+<li>What decisions did they personally own?</li>
+</ul>
+<p>Interviews can clarify this later.</p>
+<p>A skills assessment can add useful evidence before the company commits hours of interviewer time.</p>
+<h1>Résumés can be optimized for keyword systems</h1>
+<p>Many candidates adapt their résumés to pass applicant-tracking filters.</p>
+<p>This is understandable. If automated systems search for exact terms, candidates have an incentive to include those terms.</p>
+<p>The result can become a document optimized for matching rather than understanding.</p>
+<p>A résumé may list:</p>
+<ul>
+<li>React;</li>
+<li>Node.js;</li>
+<li>PostgreSQL;</li>
+<li>Kubernetes;</li>
+<li>AWS;</li>
+<li>Terraform;</li>
+<li>GraphQL;</li>
+<li>Redis;</li>
+<li>Kafka;</li>
+<li>Docker.</li>
+</ul>
+<p>That list does not reveal depth.</p>
+<p>The candidate may have:</p>
+<ul>
+<li>used the technology for several years;</li>
+<li>encountered it once;</li>
+<li>completed a tutorial;</li>
+<li>supported a system built by someone else;</li>
+<li>added the keyword because the job posting contained it.</li>
+</ul>
+<p>A relevant assessment can distinguish recognition from practical understanding.</p>
+<h1>Why skills assessments create stronger early evidence</h1>
+<p>A skills assessment allows the employer to observe performance against a defined task or set of questions.</p>
+<p>Instead of asking candidates only what they have done, it asks them to demonstrate how they think now.</p>
+<p>Depending on the role, an assessment may evaluate whether someone can:</p>
+<ul>
+<li>read unfamiliar code;</li>
+<li>identify a defect;</li>
+<li>diagnose a likely cause;</li>
+<li>reason about database behavior;</li>
+<li>select an appropriate API design;</li>
+<li>recognize a security risk;</li>
+<li>evaluate architecture trade-offs;</li>
+<li>prioritize incident actions;</li>
+<li>understand accessibility;</li>
+<li>interpret system behavior;</li>
+<li>explain a technical decision.</li>
+</ul>
+<p>Those are closer to the work than résumé keywords.</p>
+<h1>Demonstrated ability can reveal overlooked candidates</h1>
+<p>Skills-based evaluation can help surface candidates whose résumés may otherwise be underestimated.</p>
+<p>This may include:</p>
+<ul>
+<li>self-taught developers;</li>
+<li>bootcamp graduates;</li>
+<li>career changers;</li>
+<li>candidates returning after a gap;</li>
+<li>developers from small companies;</li>
+<li>engineers with unfamiliar job titles;</li>
+<li>people without prestigious employers;</li>
+<li>candidates whose strongest work is private;</li>
+<li>applicants from international markets;</li>
+<li>junior developers without traditional experience.</li>
+</ul>
+<p>An assessment does not guarantee fairness on its own.</p>
+<p>It does create an additional route for candidates to demonstrate value.</p>
+<h1>Example: the unconventional backend candidate</h1>
+<p>Consider two applicants for a backend role.</p>
+<h2>Candidate A</h2>
+<ul>
+<li>Five years at recognizable technology companies</li>
+<li>Strong résumé language</li>
+<li>Exact framework match</li>
+<li>Limited public work</li>
+</ul>
+<h2>Candidate B</h2>
+<ul>
+<li>Three years at small local companies</li>
+<li>Unfamiliar titles</li>
+<li>No famous employers</li>
+<li>Built and maintained production APIs</li>
+<li>Strong database and debugging judgment</li>
+</ul>
+<p>Résumé-only screening may favor Candidate A immediately.</p>
+<p>A role-relevant assessment may reveal that Candidate B performs more strongly in:</p>
+<ul>
+<li>SQL;</li>
+<li>data modeling;</li>
+<li>API correctness;</li>
+<li>debugging;</li>
+<li>failure handling.</li>
+</ul>
+<p>The assessment has not proven that Candidate B is the better hire.</p>
+<p>It has shown that Candidate B deserves serious evaluation.</p>
+<p>That opportunity may never have existed under pedigree-based screening.</p>
+<h1>Example: the career changer</h1>
+<p>A former logistics manager may have only one year of software-development experience.</p>
+<p>Their résumé may look weak beside candidates with conventional engineering careers.</p>
+<p>However, they may demonstrate:</p>
+<ul>
+<li>strong process reasoning;</li>
+<li>excellent data-modeling instincts;</li>
+<li>practical understanding of warehouse workflows;</li>
+<li>clear communication;</li>
+<li>disciplined debugging;</li>
+<li>relevant domain knowledge.</li>
+</ul>
+<p>For a logistics software company, that combination may be highly valuable.</p>
+<p>A skills assessment can help reveal it before the résumé is rejected for missing years.</p>
+<h1>Assessments can reduce dependence on biased proxies</h1>
+<p>Structured assessments may reduce reliance on factors unrelated to the work, such as:</p>
+<ul>
+<li>school prestige;</li>
+<li>employer prestige;</li>
+<li>title familiarity;</li>
+<li>résumé design;</li>
+<li>confidence in self-promotion;</li>
+<li>personal similarity to the reviewer;</li>
+<li>unconventional career paths.</li>
+</ul>
+<p>This does not mean assessments automatically eliminate bias.</p>
+<p>Bias can still enter through:</p>
+<ul>
+<li>question selection;</li>
+<li>accessibility barriers;</li>
+<li>cultural assumptions;</li>
+<li>irrelevant language complexity;</li>
+<li>scoring rules;</li>
+<li>time limits;</li>
+<li>how reviewers interpret results;</li>
+<li>which candidates receive the assessment.</li>
+</ul>
+<p>The correct claim is not:</p>
+<blockquote>
+<p>Assessments remove bias.</p>
+</blockquote>
+<p>A more defensible claim is:</p>
+<blockquote>
+<p>Properly designed assessments can reduce dependence on some of the proxies and subjective judgments that make résumé screening unreliable.</p>
+</blockquote>
+<h1>Structure improves comparability</h1>
+<p>Unstructured résumé review may produce different standards for different candidates.</p>
+<p>One reviewer may care about years.</p>
+<p>Another may care about technology keywords.</p>
+<p>Another may prefer startups.</p>
+<p>Another may favor large companies.</p>
+<p>Another may respond strongly to résumé design.</p>
+<p>A structured assessment gives candidates comparable opportunities to demonstrate selected skills.</p>
+<p>When it is properly designed:</p>
+<ul>
+<li>candidates are evaluated on the same competencies;</li>
+<li>scoring rules are established in advance;</li>
+<li>results are organized consistently;</li>
+<li>reviewers can compare evidence more directly;</li>
+<li>hiring discussions can refer to job-relevant performance.</li>
+</ul>
+<p>Comparability does not require every candidate to receive an identical question sequence. It requires the assessed competencies and scoring standards to remain equivalent.</p>
+<h1>Skills assessments make hidden strengths visible</h1>
+<p>A résumé compresses years of experience into one or two pages.</p>
+<p>Important capabilities may be buried or omitted.</p>
+<p>An assessment may reveal that a candidate is especially strong at:</p>
+<ul>
+<li>debugging;</li>
+<li>testing;</li>
+<li>data modeling;</li>
+<li>accessibility;</li>
+<li>production reliability;</li>
+<li>security;</li>
+<li>technical communication;</li>
+<li>architecture;</li>
+<li>incident judgment;</li>
+<li>prioritization.</li>
+</ul>
+<p>Section-level results can make these differences visible.</p>
+<h1>Why section scores matter more than one total</h1>
+<p>A single score is convenient, but it can hide the most useful information.</p>
+<p>Consider two candidates who both earn an overall score of 80%.</p>
+<h2>Candidate A</h2>
+<ul>
+<li>Debugging: 94%</li>
+<li>Databases: 91%</li>
+<li>API reasoning: 88%</li>
+<li>System design: 66%</li>
+<li>Communication: 61%</li>
+</ul>
+<h2>Candidate B</h2>
+<ul>
+<li>Debugging: 72%</li>
+<li>Databases: 69%</li>
+<li>API reasoning: 74%</li>
+<li>System design: 93%</li>
+<li>Communication: 92%</li>
+</ul>
+<p>These candidates may be suitable for different roles or different levels.</p>
+<p>Candidate A may be strong for a hands-on role centered on diagnosis and implementation.</p>
+<p>Candidate B may be stronger for cross-team architecture or technical leadership.</p>
+<p>The total alone cannot tell you that.</p>
+<p>A useful assessment should help answer:</p>
+<blockquote>
+<p>Where is this candidate strong, and how does that align with the job?</p>
+</blockquote>
+<h1>Assessments can save interviewer time</h1>
+<p>Engineering interviews are expensive.</p>
+<p>They consume time from:</p>
+<ul>
+<li>engineers;</li>
+<li>engineering managers;</li>
+<li>recruiters;</li>
+<li>product leaders;</li>
+<li>designers;</li>
+<li>executives;</li>
+<li>candidates.</li>
+</ul>
+<p>A four-person interview loop lasting four hours uses far more than four hours of company time once preparation, scheduling, notes, and debriefs are included.</p>
+<p>When the company interviews candidates based only on résumé impressions, engineers may spend substantial time rediscovering basic misalignment.</p>
+<p>A focused assessment can help identify candidates who have already demonstrated relevant foundations.</p>
+<p>That allows interviewers to spend their time on higher-value questions:</p>
+<ul>
+<li>Can the candidate explain their reasoning?</li>
+<li>How do they collaborate?</li>
+<li>What scope have they owned?</li>
+<li>How do they respond to feedback?</li>
+<li>Can they apply the skill in a deeper scenario?</li>
+<li>Does the role fit their goals?</li>
+<li>Do both sides want to work together?</li>
+</ul>
+<p>The assessment should sharpen the interview, not duplicate it.</p>
+<h1>Assessments can speed up shortlisting</h1>
+<p>A large applicant pool creates a prioritization problem.</p>
+<p>Résumé screening may require recruiters to:</p>
+<ol>
+<li>Search for keywords.</li>
+<li>Estimate seniority from titles.</li>
+<li>infer skill from employer history.</li>
+<li>select a small group based on incomplete evidence.</li>
+<li>schedule calls to discover whether the assumptions were correct.</li>
+</ol>
+<p>A structured assessment can add role-relevant evidence earlier.</p>
+<p>The shortlist can consider:</p>
+<ul>
+<li>application context;</li>
+<li>required eligibility;</li>
+<li>demonstrated section strengths;</li>
+<li>relevant experience;</li>
+<li>candidate preferences;</li>
+<li>role alignment.</li>
+</ul>
+<p>This is stronger than sorting primarily by employer names and years.</p>
+<h1>Skills evidence can improve recruiter screens</h1>
+<p>Recruiters do not always have enough technical context to distinguish:</p>
+<ul>
+<li>genuine depth;</li>
+<li>keyword familiarity;</li>
+<li>inflated claims;</li>
+<li>transferable skills;</li>
+<li>adjacent experience.</li>
+</ul>
+<p>Assessment results can provide useful structure.</p>
+<p>A recruiter may see that a candidate has strong performance in:</p>
+<ul>
+<li>SQL;</li>
+<li>debugging;</li>
+<li>API reasoning;</li>
+</ul>
+<p>despite lacking the exact framework listed in the role.</p>
+<p>That information may prevent an unnecessary rejection.</p>
+<h1>Assessments can improve technical interviews</h1>
+<p>Assessment results should not remain a silent score in an applicant-tracking system.</p>
+<p>They can guide targeted questions.</p>
+<p>Examples:</p>
+<blockquote>
+<p>You performed strongly in the debugging section. Tell us about the hardest production issue you have diagnosed.</p>
+</blockquote>
+<blockquote>
+<p>Your database reasoning was strong, but the system-design section was less consistent. What architectural scope have you owned so far?</p>
+</blockquote>
+<blockquote>
+<p>Your accessibility answers stood out. How have you applied those principles in production?</p>
+</blockquote>
+<blockquote>
+<p>You selected a simpler architecture in several scenarios. How do you decide when additional complexity becomes justified?</p>
+</blockquote>
+<p>These conversations connect assessment evidence with real experience.</p>
+<h1>Assessments can reduce false positives</h1>
+<p>A false positive occurs when someone appears qualified during screening but does not possess the necessary skill.</p>
+<p>Résumés are vulnerable to false positives because:</p>
+<ul>
+<li>claims may be inflated;</li>
+<li>team achievements may be presented as personal achievements;</li>
+<li>technology names may imply more depth than exists;</li>
+<li>job titles may exaggerate scope;</li>
+<li>prior employer prestige may create a halo effect.</li>
+</ul>
+<p>A well-designed assessment can identify important gaps before a full interview loop.</p>
+<h1>Assessments can reduce false negatives</h1>
+<p>A false negative occurs when a capable candidate is rejected too early.</p>
+<p>Résumé screening may create false negatives when candidates have:</p>
+<ul>
+<li>nontraditional careers;</li>
+<li>unfamiliar employers;</li>
+<li>title mismatches;</li>
+<li>employment gaps;</li>
+<li>insufficient keyword optimization;</li>
+<li>international experience;</li>
+<li>limited confidence in résumé writing;</li>
+<li>strong transferable skills that are difficult to summarize.</li>
+</ul>
+<p>An assessment provides another opportunity to remain in consideration.</p>
+<h1>Assessments can support internal mobility</h1>
+<p>Skills-based evidence is not useful only for external applicants.</p>
+<p>Companies can also use role-relevant assessments to support:</p>
+<ul>
+<li>internal transfers;</li>
+<li>return-to-work programs;</li>
+<li>apprenticeships;</li>
+<li>promotion readiness;</li>
+<li>reskilling;</li>
+<li>movement between engineering specialties.</li>
+</ul>
+<p>An internal support engineer may demonstrate strong backend potential.</p>
+<p>A data analyst may demonstrate data-engineering fundamentals.</p>
+<p>A frontend engineer may demonstrate platform interests and relevant systems knowledge.</p>
+<p>Assessment evidence can reveal growth paths that job titles hide.</p>
+<h1>The limitations of résumé screening do not make résumés useless</h1>
+<p>Résumés still provide valuable information that assessments cannot replace.</p>
+<p>They show:</p>
+<ul>
+<li>career history;</li>
+<li>progression;</li>
+<li>length of experience;</li>
+<li>domain exposure;</li>
+<li>prior responsibilities;</li>
+<li>professional accomplishments;</li>
+<li>education;</li>
+<li>projects;</li>
+<li>continuity;</li>
+<li>scope over time.</li>
+</ul>
+<p>An assessment cannot show how someone performed across three years on a team.</p>
+<p>It cannot independently prove:</p>
+<ul>
+<li>reliability over time;</li>
+<li>ability to maintain relationships;</li>
+<li>mentorship;</li>
+<li>sustained ownership;</li>
+<li>long-term delivery;</li>
+<li>trust earned from colleagues.</li>
+</ul>
+<p>The strongest hiring system does not choose between résumés and assessments.</p>
+<p>It uses each for its appropriate purpose.</p>
+<h1>What résumé screening is good for</h1>
+<p>Résumé review remains useful for determining:</p>
+<ul>
+<li>whether the candidate has broadly relevant experience;</li>
+<li>whether the role level appears plausible;</li>
+<li>whether location or work-authorization constraints align;</li>
+<li>whether domain experience is important;</li>
+<li>which past work deserves deeper discussion;</li>
+<li>how the candidate’s career has developed;</li>
+<li>whether the application contains meaningful projects or accomplishments.</li>
+</ul>
+<p>The problem is using résumé review as the only evidence of capability.</p>
+<h1>Not every role needs an assessment</h1>
+<p>An assessment should earn its place in the process.</p>
+<p>It may not be necessary when:</p>
+<ul>
+<li>a trusted referral provides strong evidence;</li>
+<li>the candidate has already worked with the team;</li>
+<li>the role is filled through internal promotion;</li>
+<li>a portfolio directly demonstrates the required work;</li>
+<li>a structured interview provides enough evidence;</li>
+<li>the assessment would duplicate other stages;</li>
+<li>the hiring volume is extremely low;</li>
+<li>the role is highly relationship-driven rather than skills-testable.</li>
+</ul>
+<p>The goal is better evidence, not testing for its own sake.</p>
+<h1>The danger of bad assessments</h1>
+<p>A poorly designed assessment may be worse than résumé screening.</p>
+<p>It can create misleading confidence while driving strong candidates away.</p>
+<p>Common failures include:</p>
+<ul>
+<li>irrelevant algorithm puzzles;</li>
+<li>obscure syntax trivia;</li>
+<li>unrealistic time pressure;</li>
+<li>unpaid production work;</li>
+<li>vague instructions;</li>
+<li>inaccessible interfaces;</li>
+<li>invasive surveillance;</li>
+<li>excessive length;</li>
+<li>inconsistent scoring;</li>
+<li>no opportunity to clarify technical problems;</li>
+<li>automatic rejection based on tiny score differences;</li>
+<li>no communication afterward.</li>
+</ul>
+<p>The label “skills assessment” does not make a process fair.</p>
+<p>Quality depends on what is measured and how candidates are treated.</p>
+<h1>Trivia is not the same as skill</h1>
+<p>A trivia-heavy assessment may ask candidates to recall:</p>
+<ul>
+<li>obscure flags;</li>
+<li>exact library method signatures;</li>
+<li>rarely used syntax;</li>
+<li>version-specific behavior;</li>
+<li>terminology disconnected from the role.</li>
+</ul>
+<p>These questions are easy to score.</p>
+<p>They are often weak predictors of practical contribution.</p>
+<p>Developers normally use:</p>
+<ul>
+<li>documentation;</li>
+<li>editors;</li>
+<li>search;</li>
+<li>code review;</li>
+<li>tests;</li>
+<li>debugging tools;</li>
+<li>AI assistants where permitted;</li>
+<li>team knowledge.</li>
+</ul>
+<p>The more valuable question is whether the candidate can apply the concept correctly.</p>
+<h1>Algorithm puzzles can be misaligned</h1>
+<p>Algorithmic thinking matters in some engineering roles.</p>
+<p>It should not automatically dominate every technical assessment.</p>
+<p>A developer maintaining:</p>
+<ul>
+<li>business APIs;</li>
+<li>internal tools;</li>
+<li>mobile applications;</li>
+<li>dashboards;</li>
+<li>data pipelines;</li>
+<li>cloud infrastructure;</li>
+</ul>
+<p>may rarely solve competitive-programming puzzles.</p>
+<p>When the assessment emphasizes unrelated puzzles, it selects for puzzle preparation rather than the work.</p>
+<h1>Long assessments can filter out good candidates</h1>
+<p>Candidates do not have equal amounts of free time.</p>
+<p>A multi-hour unpaid assessment may disproportionately exclude people who:</p>
+<ul>
+<li>have full-time jobs;</li>
+<li>care for children;</li>
+<li>care for family members;</li>
+<li>work multiple jobs;</li>
+<li>have disabilities;</li>
+<li>are interviewing with several companies;</li>
+<li>already have strong alternatives.</li>
+</ul>
+<p>The result may select for available time rather than ability.</p>
+<h1>Surveillance can damage trust</h1>
+<p>Webcam monitoring, screen recording, biometric analysis, and lockdown browsers may make candidates feel treated as suspects.</p>
+<p>They can also create irrelevant barriers involving:</p>
+<ul>
+<li>shared living spaces;</li>
+<li>anxiety;</li>
+<li>neurodivergence;</li>
+<li>disability;</li>
+<li>background noise;</li>
+<li>hardware;</li>
+<li>internet stability;</li>
+<li>privacy.</li>
+</ul>
+<p>JobsList.dev assessments are designed without webcam monitoring, screen recording, microphone recording, biometric analysis, or lockdown browsers.</p>
+<p>Assessment integrity should come from thoughtful design and human review—not watching candidates through their cameras.</p>
+<h1>Opaque scoring undermines credibility</h1>
+<p>Candidates and hiring teams need confidence that scoring reflects the intended skill.</p>
+<p>A fair model should define:</p>
+<ul>
+<li>which competencies are evaluated;</li>
+<li>how questions contribute to sections;</li>
+<li>when partial credit applies;</li>
+<li>how short answers are normalized;</li>
+<li>whether incorrect answers create additional penalties;</li>
+<li>how manual review works;</li>
+<li>how contextual events are interpreted.</li>
+</ul>
+<p>JobsList.dev assessments use no negative marking. An incorrect answer misses the available points but does not subtract additional credit from correct work.</p>
+<p>Partial credit can be used where it meaningfully reflects partial understanding.</p>
+<h1>One score should not become an oracle</h1>
+<p>An assessment result is one piece of evidence.</p>
+<p>It should not automatically decide:</p>
+<ul>
+<li>whether someone is honest;</li>
+<li>whether they are a good teammate;</li>
+<li>whether they can learn;</li>
+<li>whether they will succeed;</li>
+<li>whether they deserve an interview;</li>
+<li>whether they should be hired.</li>
+</ul>
+<p>A responsible process considers:</p>
+<ul>
+<li>relevant sections;</li>
+<li>résumé context;</li>
+<li>work samples;</li>
+<li>interviews;</li>
+<li>role requirements;</li>
+<li>candidate trajectory;</li>
+<li>human judgment.</li>
+</ul>
+<h1>Small score differences may not be meaningful</h1>
+<p>The difference between 78% and 80% may represent one question.</p>
+<p>It may reflect:</p>
+<ul>
+<li>one unfamiliar topic;</li>
+<li>partial credit;</li>
+<li>a minor misunderstanding;</li>
+<li>assessment timing;</li>
+<li>a small content variation.</li>
+</ul>
+<p>Employers should not pretend every numerical difference represents a meaningful difference in expected job performance.</p>
+<h1>What a good assessment looks like</h1>
+<p>A useful skills assessment should be:</p>
+<h2>Role-relevant</h2>
+<p>Every section should connect to the actual job.</p>
+<h2>Level-appropriate</h2>
+<p>A junior, senior, and staff candidate should not be evaluated against identical expectations.</p>
+<h2>Focused</h2>
+<p>It should test the highest-value competencies rather than every technology mentioned in the company.</p>
+<h2>Time-bounded</h2>
+<p>Candidates should know the expected duration, and the assessment should genuinely fit within it.</p>
+<h2>Transparent</h2>
+<p>Candidates should understand:</p>
+<ul>
+<li>why it is used;</li>
+<li>what it covers;</li>
+<li>how long it takes;</li>
+<li>which resources are allowed;</li>
+<li>what happens afterward.</li>
+</ul>
+<h2>Accessible</h2>
+<p>The interface and process should support candidates who use assistive technology or require reasonable accommodations.</p>
+<h2>Consistently scored</h2>
+<p>The rubric should be established before results are reviewed.</p>
+<h2>Calm</h2>
+<p>The experience should support concentration rather than manufacture stress.</p>
+<h2>Human-reviewed where needed</h2>
+<p>Open-ended reasoning should not be forced into simplistic automatic scoring.</p>
+<h2>Connected to the next stage</h2>
+<p>Results should improve interviews rather than sit unused.</p>
+<h1>What role relevance looks like</h1>
+<h1>Frontend assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>JavaScript reasoning;</li>
+<li>semantic HTML;</li>
+<li>CSS layout;</li>
+<li>accessibility;</li>
+<li>browser behavior;</li>
+<li>state management;</li>
+<li>network failure;</li>
+<li>interface testing.</li>
+</ul>
+<p>Poor additions might include unrelated cluster administration or advanced database replication unless the role genuinely needs them.</p>
+<h1>Backend assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>APIs;</li>
+<li>database design;</li>
+<li>validation;</li>
+<li>authorization;</li>
+<li>transactions;</li>
+<li>concurrency;</li>
+<li>debugging;</li>
+<li>reliability;</li>
+<li>failure handling.</li>
+</ul>
+<h1>Data engineering assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>SQL;</li>
+<li>modeling;</li>
+<li>pipeline reliability;</li>
+<li>data quality;</li>
+<li>schema changes;</li>
+<li>batch and streaming decisions;</li>
+<li>backfills;</li>
+<li>lineage.</li>
+</ul>
+<h1>DevOps and SRE assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>deployment safety;</li>
+<li>infrastructure as code;</li>
+<li>observability;</li>
+<li>incident response;</li>
+<li>capacity;</li>
+<li>retries;</li>
+<li>rollback;</li>
+<li>secrets;</li>
+<li>alert quality.</li>
+</ul>
+<h1>Mobile assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>application lifecycle;</li>
+<li>offline behavior;</li>
+<li>permissions;</li>
+<li>background execution;</li>
+<li>local persistence;</li>
+<li>release processes;</li>
+<li>performance;</li>
+<li>platform constraints.</li>
+</ul>
+<h1>Engineering-management assessment</h1>
+<p>Useful areas might include:</p>
+<ul>
+<li>feedback;</li>
+<li>performance management;</li>
+<li>prioritization;</li>
+<li>delivery risk;</li>
+<li>team health;</li>
+<li>delegation;</li>
+<li>stakeholder alignment;</li>
+<li>hiring judgment.</li>
+</ul>
+<h1>Design the assessment from the role, not the tool</h1>
+<p>A common mistake is building an assessment around whichever question bank or testing platform already exists.</p>
+<p>The better sequence is:</p>
+<ol>
+<li>Define success in the role.</li>
+<li>Identify the most important competencies.</li>
+<li>Decide which competencies can be assessed meaningfully.</li>
+<li>Choose appropriate question formats.</li>
+<li>Define the scoring rubric.</li>
+<li>Test the assessment with current employees.</li>
+<li>Refine the duration and difficulty.</li>
+<li>Explain the experience clearly to candidates.</li>
+<li>Review outcomes over time.</li>
+</ol>
+<p>The assessment should follow the role.</p>
+<p>The role should not be distorted to fit the assessment.</p>
+<h1>Start with a success profile</h1>
+<p>Before evaluating candidates, write down what strong performance looks like.</p>
+<p>For example, a mid-level backend engineer might need to:</p>
+<ul>
+<li>own a feature from API design through production;</li>
+<li>write maintainable service code;</li>
+<li>model data accurately;</li>
+<li>diagnose ordinary production failures;</li>
+<li>communicate blockers;</li>
+<li>work within existing architecture;</li>
+<li>participate constructively in code review.</li>
+</ul>
+<p>The assessment can then target a subset of those capabilities.</p>
+<h1>Separate required competencies from trainable skills</h1>
+<p>Not every missing tool should cause rejection.</p>
+<p>Classify requirements into:</p>
+<ul>
+<li>needed on day one;</li>
+<li>learnable during onboarding;</li>
+<li>optional advantages;</li>
+<li>irrelevant résumé decoration.</li>
+</ul>
+<p>An experienced Java engineer may transfer successfully into a Kotlin role.</p>
+<p>A strong React developer may learn another component framework.</p>
+<p>A candidate with excellent database fundamentals may learn the company’s preferred ORM.</p>
+<p>Assess transferable understanding rather than every surface-level tool.</p>
+<h1>Keep assessments proportionate to the role</h1>
+<p>A junior candidate should not need to demonstrate principal-level architecture.</p>
+<p>A staff candidate should not be evaluated primarily through language syntax.</p>
+<p>The assessment should reflect:</p>
+<ul>
+<li>expected autonomy;</li>
+<li>problem ambiguity;</li>
+<li>system scope;</li>
+<li>operational responsibility;</li>
+<li>leadership expectations;</li>
+<li>role consequences.</li>
+</ul>
+<h1>When to send the assessment</h1>
+<p>Assessment timing affects completion and candidate perception.</p>
+<h1>Automatically after application</h1>
+<p>This may work when:</p>
+<ul>
+<li>the assessment is short;</li>
+<li>the role receives high volume;</li>
+<li>every applicant should receive a skills-based opportunity;</li>
+<li>the role is junior or mid-level;</li>
+<li>résumé pedigree should not control access.</li>
+</ul>
+<p>The benefit is broad access.</p>
+<p>The risk is asking for effort before establishing genuine company interest.</p>
+<h1>After application review</h1>
+<p>This may work when:</p>
+<ul>
+<li>the role is specialized;</li>
+<li>the assessment takes meaningful time;</li>
+<li>basic eligibility must be confirmed first;</li>
+<li>hiring volume is manageable.</li>
+</ul>
+<p>The candidate knows a human has reviewed the application before investing more time.</p>
+<h1>After an introductory call</h1>
+<p>This may work well for:</p>
+<ul>
+<li>senior roles;</li>
+<li>hard-to-hire specialties;</li>
+<li>candidates being actively sourced;</li>
+<li>roles where the company must sell the opportunity first.</li>
+</ul>
+<p>The candidate can decide whether the role merits the effort.</p>
+<h1>Use different timing for different roles</h1>
+<p>There is no reason every job must use the same workflow.</p>
+<p>A junior web role and a principal infrastructure role may need different processes.</p>
+<h1>How long should an assessment be?</h1>
+<p>There is no universal number, but shorter is usually safer.</p>
+<p>The employer should ask:</p>
+<blockquote>
+<p>What is the minimum amount of candidate time required to obtain useful additional evidence?</p>
+</blockquote>
+<p>A focused assessment lasting under an hour is easier to justify than a sprawling exercise consuming an evening or weekend.</p>
+<p>Anything longer should provide correspondingly stronger value and may warrant compensation.</p>
+<h1>Test your own assessment</h1>
+<p>Ask current employees at the target level to complete it without preparation.</p>
+<p>Measure:</p>
+<ul>
+<li>actual completion time;</li>
+<li>misunderstood instructions;</li>
+<li>ambiguous questions;</li>
+<li>technical failures;</li>
+<li>unnecessary repetition;</li>
+<li>emotional experience;</li>
+<li>relevance to their work.</li>
+</ul>
+<p>When your own engineers need two hours, do not advertise the assessment as forty-five minutes.</p>
+<h1>Explain the assessment before candidates begin</h1>
+<p>A strong invitation should state:</p>
+<ul>
+<li>why the company uses it;</li>
+<li>what it measures;</li>
+<li>approximate duration;</li>
+<li>deadline;</li>
+<li>allowed tools and resources;</li>
+<li>whether answers can be revised;</li>
+<li>what data is collected;</li>
+<li>whether surveillance is used;</li>
+<li>what happens after submission;</li>
+<li>when the candidate should expect an update.</li>
+</ul>
+<p>Transparency improves completion because candidates can make an informed decision.</p>
+<h1>Example assessment invitation</h1>
+<blockquote>
+<p>We use this assessment to give candidates a skills-based opportunity beyond résumé screening. It takes approximately 45 minutes and focuses on backend reasoning, SQL, debugging, and API trade-offs.</p>
+<p>You may move between questions and revise answers before submitting. The assessment autosaves your progress and does not use webcam monitoring, screen recording, microphone recording, biometric analysis, or a lockdown browser.</p>
+<p>Please complete it by [date]. We will review the result alongside your application and contact you within five business days.</p>
+</blockquote>
+<h1>Measure completion and withdrawal</h1>
+<p>Employers should monitor:</p>
+<ul>
+<li>invitation rate;</li>
+<li>completion rate;</li>
+<li>average completion time;</li>
+<li>abandonment point;</li>
+<li>interview conversion;</li>
+<li>offer conversion;</li>
+<li>candidate feedback;</li>
+<li>performance by section;</li>
+<li>technical support issues.</li>
+</ul>
+<p>A low completion rate may indicate:</p>
+<ul>
+<li>excessive length;</li>
+<li>poor framing;</li>
+<li>irrelevant content;</li>
+<li>technical friction;</li>
+<li>unrealistic deadlines;</li>
+<li>assessment fatigue;</li>
+<li>candidates losing interest in the company.</li>
+</ul>
+<p>The answer is not always “candidates do not want to be tested.”</p>
+<p>Often, the process is asking too much or explaining too little.</p>
+<h1>Review whether the assessment predicts anything useful</h1>
+<p>Over time, employers should ask:</p>
+<ul>
+<li>Do strong performers advance in interviews?</li>
+<li>Do section strengths align with later evidence?</li>
+<li>Are current high-performing employees likely to do well?</li>
+<li>Are we filtering out candidates who later succeed elsewhere?</li>
+<li>Are some questions producing misleading differences?</li>
+<li>Does the assessment improve hiring outcomes?</li>
+<li>Is candidate experience acceptable?</li>
+</ul>
+<p>An assessment should not survive merely because the company has always used it.</p>
+<h1>Use structured interviews after the assessment</h1>
+<p>A good assessment creates better questions.</p>
+<p>A structured interview might explore:</p>
+<ul>
+<li>one strong assessment area;</li>
+<li>one uncertain area;</li>
+<li>one real project;</li>
+<li>collaboration;</li>
+<li>ownership;</li>
+<li>communication;</li>
+<li>candidate motivation.</li>
+</ul>
+<p>Do not make candidates repeat the entire assessment live.</p>
+<p>Use the interview to deepen the evidence.</p>
+<h1>Do not hide behind the score</h1>
+<p>Hiring teams still need to make judgment calls.</p>
+<p>When the assessment and résumé disagree, investigate.</p>
+<p>Examples:</p>
+<ul>
+<li>Strong résumé, weak assessment: Was the assessment aligned? Is the experience inflated? Did a technical problem occur? Does the candidate have deeper evidence in interviews?</li>
+<li>Weak résumé, strong assessment: Is this overlooked talent? Does the candidate lack experience but possess high potential? Could the role support their ramp?</li>
+<li>Strong implementation, weaker communication: Is communication central to the role? Can it improve?</li>
+<li>Strong architecture, weaker coding: Is the role hands-on? Is the candidate at the wrong level or targeting the wrong type of work?</li>
+</ul>
+<p>Disagreement between signals is useful.</p>
+<p>It tells you where to ask better questions.</p>
+<h1>Skills-based hiring does not mean standards become lower</h1>
+<p>Giving more candidates a chance to demonstrate ability does not require reducing expectations.</p>
+<p>It changes how evidence is collected.</p>
+<p>A company can maintain a high bar while evaluating it through:</p>
+<ul>
+<li>realistic scenarios;</li>
+<li>relevant technical fundamentals;</li>
+<li>structured scoring;</li>
+<li>comparable evidence;</li>
+<li>deeper interviews;</li>
+<li>references;</li>
+<li>work samples.</li>
+</ul>
+<p>The goal is not to hire everyone.</p>
+<p>It is to reject and advance people for reasons connected to the job.</p>
+<h1>Skills assessments can strengthen employer branding</h1>
+<p>A respectful assessment can communicate that the company values:</p>
+<ul>
+<li>demonstrated ability;</li>
+<li>fairness;</li>
+<li>transparency;</li>
+<li>thoughtful engineering;</li>
+<li>candidate time;</li>
+<li>nontraditional talent;</li>
+<li>structured decisions.</li>
+</ul>
+<p>A hostile assessment can communicate:</p>
+<ul>
+<li>suspicion;</li>
+<li>bureaucracy;</li>
+<li>unclear priorities;</li>
+<li>excessive demands;</li>
+<li>indifference to candidate time.</li>
+</ul>
+<p>The assessment is part of the employer brand whether the company plans for that or not.</p>
+<h1>Candidates evaluate the assessment too</h1>
+<p>While completing it, candidates may ask:</p>
+<ul>
+<li>Is this related to the role?</li>
+<li>Does the company understand what engineers do?</li>
+<li>Are the instructions clear?</li>
+<li>Is the process respectful?</li>
+<li>Is the technology reliable?</li>
+<li>Will anyone actually review this?</li>
+<li>Am I being treated like a professional?</li>
+<li>Would daily work here feel like this?</li>
+</ul>
+<p>A candidate who dislikes the assessment may leave before the company evaluates the result.</p>
+<h1>Close the loop</h1>
+<p>Every candidate who completes an assessment has invested time.</p>
+<p>The employer should:</p>
+<ul>
+<li>review the result promptly;</li>
+<li>communicate the next step;</li>
+<li>reject candidates clearly when appropriate;</li>
+<li>avoid weeks of silence;</li>
+<li>acknowledge substantial work;</li>
+<li>provide concise feedback when supported and permitted.</li>
+</ul>
+<p>An assessment followed by ghosting creates a worse experience than résumé rejection alone.</p>
+<h1>Employers should be especially careful with junior candidates</h1>
+<p>Junior candidates may treat assessment results as judgments of whether they belong in technology.</p>
+<p>A responsible process should avoid:</p>
+<ul>
+<li>humiliating wording;</li>
+<li>arbitrary pass/fail language;</li>
+<li>unrealistic senior-level questions;</li>
+<li>vague rejection;</li>
+<li>implying that one score defines potential.</li>
+</ul>
+<p>Junior assessments should test appropriate foundations and learning readiness—not whether someone already performs like a senior engineer.</p>
+<h1>Candidates should understand what an assessment means</h1>
+<p>For job seekers, an assessment is one opportunity to demonstrate ability.</p>
+<p>It is not a complete judgment of:</p>
+<ul>
+<li>intelligence;</li>
+<li>potential;</li>
+<li>professional value;</li>
+<li>ability to learn;</li>
+<li>future career success.</li>
+</ul>
+<p>A result may reveal:</p>
+<ul>
+<li>strengths;</li>
+<li>weak areas;</li>
+<li>unfamiliar topics;</li>
+<li>pacing issues;</li>
+<li>role mismatch;</li>
+<li>useful study priorities.</li>
+</ul>
+<p>Use it as evidence and feedback, not as an identity.</p>
+<h1>How candidates can strengthen the rest of the application</h1>
+<p>Even in a skills-based process, your résumé and profile still matter.</p>
+<p>Use them to add context around demonstrated ability.</p>
+<h1>Lead with a clear headline</h1>
+<p>Examples:</p>
+<blockquote>
+<p>Backend Engineer · Go, PostgreSQL, APIs, reliability</p>
+</blockquote>
+<blockquote>
+<p>Frontend Developer · React, TypeScript, accessibility</p>
+</blockquote>
+<blockquote>
+<p>Junior Full-Stack Developer · Node.js, React, PostgreSQL</p>
+</blockquote>
+<h1>Show impact</h1>
+<p>Weak:</p>
+<blockquote>
+<p>Responsible for database work.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Redesigned the subscription schema and migration workflow, eliminating duplicate billing records during customer upgrades.</p>
+</blockquote>
+<h1>Show ownership</h1>
+<p>Explain what you personally:</p>
+<ul>
+<li>designed;</li>
+<li>implemented;</li>
+<li>diagnosed;</li>
+<li>improved;</li>
+<li>maintained;</li>
+<li>operated;</li>
+<li>documented;</li>
+<li>decided.</li>
+</ul>
+<h1>Link real work</h1>
+<p>Add:</p>
+<ul>
+<li>live applications;</li>
+<li>repositories;</li>
+<li>case studies;</li>
+<li>documentation;</li>
+<li>open-source contributions;</li>
+<li>technical writing;</li>
+<li>application-store links.</li>
+</ul>
+<h1>Connect assessment strengths to evidence</h1>
+<p>When an assessment shows strong debugging ability, surface a production-debugging story.</p>
+<p>When it shows strong SQL skills, include a database accomplishment.</p>
+<p>When it shows accessibility knowledge, link an accessible interface.</p>
+<p>Agreement across evidence creates confidence.</p>
+<h1>What companies should stop doing</h1>
+<h1>Screening entirely by years</h1>
+<p>Years are an imperfect proxy for ability.</p>
+<p>Three years of deep ownership may be more relevant than eight years of repetitive exposure.</p>
+<h1>Requiring every keyword</h1>
+<p>Hire for the transferable fundamentals unless the exact tool is genuinely necessary from day one.</p>
+<h1>Treating prestigious employers as proof</h1>
+<p>Brand-name experience can be valuable context.</p>
+<p>It should not replace evaluation.</p>
+<h1>Rejecting unconventional titles automatically</h1>
+<p>Internal titles vary widely.</p>
+<p>“Developer Advocate,” “Solutions Engineer,” “Technical Consultant,” or “Automation Specialist” may contain relevant engineering work.</p>
+<p>Read the accomplishments and assess the skill.</p>
+<h1>Using one score as the whole decision</h1>
+<p>Scores require context.</p>
+<h1>Giving every candidate a marathon assignment</h1>
+<p>Candidate time is not free.</p>
+<h1>Making the assessment adversarial</h1>
+<p>The goal is evidence, not intimidation.</p>
+<h1>A practical skills-first hiring flow</h1>
+<p>A balanced process might look like this:</p>
+<h2>Step 1: Publish a clear role</h2>
+<p>Include:</p>
+<ul>
+<li>responsibilities;</li>
+<li>level;</li>
+<li>salary range;</li>
+<li>location;</li>
+<li>work arrangement;</li>
+<li>interview stages;</li>
+<li>assessment expectations.</li>
+</ul>
+<h2>Step 2: Confirm basic eligibility</h2>
+<p>Check:</p>
+<ul>
+<li>location;</li>
+<li>authorization;</li>
+<li>compensation alignment;</li>
+<li>required availability;</li>
+<li>genuine role constraints.</li>
+</ul>
+<h2>Step 3: Use a focused assessment</h2>
+<p>Evaluate only the most important role-relevant competencies.</p>
+<h2>Step 4: Review section-level results</h2>
+<p>Look for strengths, gaps, and alignment—not only the total.</p>
+<h2>Step 5: Conduct a structured interview</h2>
+<p>Use consistent questions and assessment-informed follow-ups.</p>
+<h2>Step 6: Explore real work</h2>
+<p>Ask the candidate to explain:</p>
+<ul>
+<li>a project;</li>
+<li>a difficult decision;</li>
+<li>a failure;</li>
+<li>a trade-off;</li>
+<li>their specific contribution.</li>
+</ul>
+<h2>Step 7: Evaluate collaboration and motivation</h2>
+<p>Assess whether both sides can work together successfully.</p>
+<h2>Step 8: Decide from combined evidence</h2>
+<p>Use:</p>
+<ul>
+<li>résumé;</li>
+<li>assessment;</li>
+<li>interview scorecards;</li>
+<li>work samples;</li>
+<li>references;</li>
+<li>role constraints.</li>
+</ul>
+<h2>Step 9: Communicate promptly</h2>
+<p>Close every loop.</p>
+<h1>Assessment-versus-résumé comparison</h1>
+<table>
+<thead>
+<tr>
+<th>Résumé screening</th>
+<th>Skills assessment</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Shows reported career history</td>
+<td>Shows demonstrated performance</td>
+</tr>
+<tr>
+<td>Depends partly on writing ability</td>
+<td>Depends on completing role-relevant tasks</td>
+</tr>
+<tr>
+<td>Can reward prestigious employers</td>
+<td>Can surface candidates from unfamiliar backgrounds</td>
+</tr>
+<tr>
+<td>Often uses keywords as proxies</td>
+<td>Can evaluate practical understanding</td>
+</tr>
+<tr>
+<td>May hide personal contribution</td>
+<td>Can reveal individual reasoning</td>
+</tr>
+<tr>
+<td>Provides broad context</td>
+<td>Provides focused skills evidence</td>
+</tr>
+<tr>
+<td>Can be reviewed inconsistently</td>
+<td>Can use a defined scoring rubric</td>
+</tr>
+<tr>
+<td>Useful for career narrative</td>
+<td>Useful for present ability</td>
+</tr>
+<tr>
+<td>May create false positives and negatives</td>
+<td>Can reduce some screening errors when well designed</td>
+</tr>
+<tr>
+<td>Should not be the whole decision</td>
+<td>Should not be the whole decision</td>
+</tr>
+</tbody></table>
+<p>The best hiring process uses both.</p>
+<h1>Employer checklist</h1>
+<p>Before adding an assessment, confirm:</p>
+<ul>
+<li>The role is clearly defined.</li>
+<li>The assessment maps to real responsibilities.</li>
+<li>The level is appropriate.</li>
+<li>The expected duration is accurate.</li>
+<li>Candidates know why it is used.</li>
+<li>Allowed resources are explained.</li>
+<li>The interface is accessible.</li>
+<li>No invasive surveillance is required.</li>
+<li>Scoring rules are consistent.</li>
+<li>Section results are available.</li>
+<li>Small score differences are not overinterpreted.</li>
+<li>Human judgment remains part of the process.</li>
+<li>Interviewers know how to use the result.</li>
+<li>Candidates receive timely outcomes.</li>
+<li>Assessment performance is reviewed against hiring results over time.</li>
+</ul>
+<h1>Candidate checklist</h1>
+<p>Before taking an assessment:</p>
+<ul>
+<li>Read the instructions.</li>
+<li>Confirm the time limit.</li>
+<li>Understand which tools are allowed.</li>
+<li>Choose a focused time and environment.</li>
+<li>Use your strongest available device.</li>
+<li>Request accommodations when needed.</li>
+</ul>
+<p>During the assessment:</p>
+<ul>
+<li>Read each scenario carefully.</li>
+<li>Identify the actual constraint.</li>
+<li>Prefer proportionate solutions.</li>
+<li>Consider failure paths.</li>
+<li>Use your own reasoning.</li>
+<li>Avoid searching for hidden tricks.</li>
+<li>Manage your time.</li>
+<li>Review before submitting.</li>
+</ul>
+<p>After the assessment:</p>
+<ul>
+<li>Confirm submission.</li>
+<li>Save any result or completion message.</li>
+<li>Review section strengths and gaps.</li>
+<li>Prepare related interview stories.</li>
+<li>Update your résumé and profile.</li>
+<li>Continue applying.</li>
+<li>Follow up after the company’s stated timeline.</li>
+</ul>
+<h1>Frequently asked questions</h1>
+<h1>Should companies stop reviewing résumés?</h1>
+<p>No.</p>
+<p>Résumés provide important career context. They should not be treated as direct proof of skill or as the only gate to evaluation.</p>
+<h1>Should every applicant receive an assessment?</h1>
+<p>Not necessarily.</p>
+<p>The decision depends on:</p>
+<ul>
+<li>assessment length;</li>
+<li>role level;</li>
+<li>applicant volume;</li>
+<li>candidate source;</li>
+<li>process design.</li>
+</ul>
+<p>Short early assessments can broaden opportunity. Longer assessments should usually follow genuine employer interest.</p>
+<h1>Do assessments remove hiring bias?</h1>
+<p>No process removes bias automatically.</p>
+<p>Structured, job-relevant assessments can reduce reliance on certain biased proxies when designed, administered, and interpreted responsibly.</p>
+<h1>Can candidates cheat?</h1>
+<p>No hiring method provides perfect certainty.</p>
+<p>Integrity should be supported through:</p>
+<ul>
+<li>question design;</li>
+<li>varied content;</li>
+<li>protected answer keys;</li>
+<li>clear rules;</li>
+<li>human follow-up;</li>
+<li>candidates explaining their reasoning.</li>
+</ul>
+<p>Invasive monitoring does not guarantee understanding.</p>
+<h1>Should a low assessment score automatically reject someone?</h1>
+<p>Not always.</p>
+<p>The company should consider:</p>
+<ul>
+<li>role relevance;</li>
+<li>section performance;</li>
+<li>technical problems;</li>
+<li>other evidence;</li>
+<li>level;</li>
+<li>threshold validity.</li>
+</ul>
+<p>Some employers may use validated minimum requirements for essential skills, but those thresholds should be intentional and reviewed.</p>
+<h1>Can a strong assessment replace experience?</h1>
+<p>It can demonstrate ability and potential.</p>
+<p>Experience still provides evidence of sustained performance, ownership, and work inside real organizations.</p>
+<p>The balance depends on the role.</p>
+<h1>Are assessments useful for senior engineers?</h1>
+<p>Yes, when they test senior-level judgment rather than junior syntax.</p>
+<p>Senior assessments should focus on:</p>
+<ul>
+<li>ambiguity;</li>
+<li>architecture;</li>
+<li>operations;</li>
+<li>trade-offs;</li>
+<li>migration;</li>
+<li>organizational scope;</li>
+<li>technical leadership.</li>
+</ul>
+<h1>Are assessments useful for junior developers?</h1>
+<p>Yes, particularly because juniors have limited professional history.</p>
+<p>They should evaluate appropriate foundations, reasoning, and learning readiness rather than years of production experience.</p>
+<h1>Should take-home projects be used instead?</h1>
+<p>Sometimes.</p>
+<p>A take-home may reveal real coding style, documentation, tests, and project structure.</p>
+<p>It also requires more candidate time.</p>
+<p>Keep it bounded, relevant, and preferably paid when substantial. Offer alternatives when possible.</p>
+<h1>What does JobsList.dev emphasize?</h1>
+<p>JobsList.dev assessments are designed around role-relevant skills and engineering judgment rather than résumé keywords, invasive surveillance, or unnecessary trick questions.</p>
+<p>The intended result is a fairer opportunity for candidates and better evidence for companies.</p>
+<h1>The business case</h1>
+<p>Skills assessments can create business value by helping companies:</p>
+<ul>
+<li>identify capable overlooked candidates;</li>
+<li>reduce unnecessary recruiter screens;</li>
+<li>use engineering interview time more efficiently;</li>
+<li>improve consistency;</li>
+<li>shorten shortlisting;</li>
+<li>focus interviews on deeper evidence;</li>
+<li>reduce late discovery of technical misalignment;</li>
+<li>support skills-first employer branding;</li>
+<li>build talent pipelines beyond traditional pedigree.</li>
+</ul>
+<p>Those advantages depend on quality.</p>
+<p>A bad assessment can create:</p>
+<ul>
+<li>candidate withdrawal;</li>
+<li>reputational damage;</li>
+<li>misleading scores;</li>
+<li>unnecessary bias;</li>
+<li>wasted time;</li>
+<li>false confidence.</li>
+</ul>
+<p>The assessment must be better than the screening method it supplements.</p>
+<h1>The deeper principle</h1>
+<p>Résumé screening asks:</p>
+<blockquote>
+<p>Does this candidate’s history resemble the history we expected?</p>
+</blockquote>
+<p>Skills-based evaluation asks:</p>
+<blockquote>
+<p>What can this candidate demonstrate, and how does it relate to the work?</p>
+</blockquote>
+<p>The second question does not erase the importance of experience.</p>
+<p>It makes experience one form of evidence instead of the only doorway.</p>
+<p>That matters because talent is not distributed only among:</p>
+<ul>
+<li>famous companies;</li>
+<li>prestigious schools;</li>
+<li>conventional careers;</li>
+<li>polished résumé writers;</li>
+<li>candidates with perfect keyword alignment.</li>
+</ul>
+<p>Strong engineers can emerge from:</p>
+<ul>
+<li>startups;</li>
+<li>agencies;</li>
+<li>consulting;</li>
+<li>open source;</li>
+<li>career changes;</li>
+<li>self-directed learning;</li>
+<li>internal tools;</li>
+<li>small businesses;</li>
+<li>overlooked markets;</li>
+<li>nontraditional education.</li>
+</ul>
+<p>A hiring process should be capable of recognizing them.</p>
+<h1>The takeaway</h1>
+<p>Skills assessments beat résumé-only screening because they create direct evidence of role-relevant ability.</p>
+<p>A résumé can tell you:</p>
+<ul>
+<li>where someone worked;</li>
+<li>what titles they held;</li>
+<li>which technologies they mention;</li>
+<li>how they describe their accomplishments.</li>
+</ul>
+<p>A good assessment can help show whether they can:</p>
+<ul>
+<li>understand unfamiliar problems;</li>
+<li>read code;</li>
+<li>debug;</li>
+<li>apply technical fundamentals;</li>
+<li>reason about trade-offs;</li>
+<li>recognize failure modes;</li>
+<li>choose proportionate solutions;</li>
+<li>communicate sound judgment.</li>
+</ul>
+<p>That does not make assessments infallible.</p>
+<p>They must be:</p>
+<ul>
+<li>relevant;</li>
+<li>short;</li>
+<li>accessible;</li>
+<li>transparent;</li>
+<li>consistently scored;</li>
+<li>free from unnecessary surveillance;</li>
+<li>interpreted by humans;</li>
+<li>combined with broader hiring evidence.</li>
+</ul>
+<p>Use résumés for context.</p>
+<p>Use assessments for demonstrated skill.</p>
+<p>Use interviews to explore depth, ownership, collaboration, and mutual fit.</p>
+<p>When those pieces work together, companies spend less time guessing from pedigree and more time evaluating the people who can actually contribute.</p>
+<p>That creates better shortlists, fairer opportunities, and stronger hiring decisions.</p>
+<p><em>Ready to evaluate developers through demonstrated skills instead of résumé keywords alone? <a href="/auth/register?role=COMPANY">Create a company profile on JobsList.dev</a>, publish your next role, and build a hiring process designed to recognize real ability.</em></p>
 5:["locale","pt-BR","d"]
 6:["slug","why-skills-assessments-beat-resume-screening","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","why-skills-assessments-beat-resume-screening","d"],{"children":["__PAGE__?{\"locale\":\"pt-BR\",\"slug\":\"why-skills-assessments-beat-resume-screening\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","why-skills-assessments-beat-resume-screening","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Why Skills Assessments Beat Résumé Screening\",\"description\":\"The business case for testing candidates on real ability: better signal than résumés, less bias, faster shortlists — and how to do it without punishing good people.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"pt-BR\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Why Skills Assessments Beat Résumé Screening","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Why Skills Assessments Beat Résumé Screening | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"The business case for testing candidates on real ability: better signal than résumés, less bias, faster shortlists — and how to do it without punishing good people."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Why Skills Assessments Beat Résumé Screening"}],["$","meta","15",{"property":"og:description","content":"The business case for testing candidates on real ability: better signal than résumés, less bias, faster shortlists — and how to do it without punishing good people."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Why Skills Assessments Beat Résumé Screening"}],["$","meta","25",{"name":"twitter:description","content":"The business case for testing candidates on real ability: better signal than résumés, less bias, faster shortlists — and how to do it without punishing good people."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","why-skills-assessments-beat-resume-screening","d"],{"children":["__PAGE__?{\"locale\":\"pt-BR\",\"slug\":\"why-skills-assessments-beat-resume-screening\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","pt-BR","d"],{"children":["blog",{"children":[["slug","why-skills-assessments-beat-resume-screening","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Why Skills Assessments Beat Résumé Screening\",\"description\":\"Learn why role-relevant skills assessments can reveal ability that résumés miss, reduce dependence on pedigree and keywords, improve shortlists, and create fairer hiring opportunities when designed responsibly.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"pt-BR\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Why Skills Assessments Beat Résumé Screening","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":34,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Why Skills Assessments Beat Résumé Screening | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn why role-relevant skills assessments can reveal ability that résumés miss, reduce dependence on pedigree and keywords, improve shortlists, and create fairer hiring opportunities when designed responsibly."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Why Skills Assessments Beat Résumé Screening"}],["$","meta","15",{"property":"og:description","content":"Learn why role-relevant skills assessments can reveal ability that résumés miss, reduce dependence on pedigree and keywords, improve shortlists, and create fairer hiring opportunities when designed responsibly."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Why Skills Assessments Beat Résumé Screening"}],["$","meta","25",{"name":"twitter:description","content":"Learn why role-relevant skills assessments can reveal ability that résumés miss, reduce dependence on pedigree and keywords, improve shortlists, and create fairer hiring opportunities when designed responsibly."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

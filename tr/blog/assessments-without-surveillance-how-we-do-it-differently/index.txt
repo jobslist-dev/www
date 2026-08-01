@@ -1,48 +1,1169 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T14a3,<p>Most assessment platforms protect test integrity by surveilling the candidate: webcam monitoring, screen recording, lockdown browsers, eye-tracking, &quot;suspicious behavior&quot; flags. We deliberately don&#39;t. Not because we don&#39;t care about integrity — we care about it enormously — but because surveillance is both hostile to the strong candidates you want <em>and</em>, quietly, not very effective. Here&#39;s the philosophy behind how we built assessments, and why it gives you better signal.</p>
-<h2>Surveillance is theater</h2>
-<p>Here&#39;s the uncomfortable truth the proctoring industry doesn&#39;t advertise: the controls that claim to stop cheating are defeated by a second device. A candidate determined to look something up can simply use their phone, off-camera. Webcam proctoring can&#39;t stop that — so what does it actually do? It:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Tb7e1,<p>Online assessments are often built around a simple assumption:</p>
+<blockquote>
+<p>If candidates are not watched, the results cannot be trusted.</p>
+</blockquote>
+<p>That assumption has produced an entire category of hiring software built around surveillance.</p>
+<p>Candidates may be asked to:</p>
 <ul>
-<li><strong>Insults your best candidates</strong>, who read &quot;we assume you&#39;re a cheat&quot; and take the offer that respects them instead.</li>
-<li><strong>Punishes the anxious and the neurodivergent</strong>, whose normal behavior gets flagged as &quot;suspicious.&quot;</li>
-<li><strong>Creates false positives</strong> that put you in the ugly position of accusing someone based on a flaky algorithm.</li>
-<li><strong>Collects sensitive biometric data</strong> you now have to store and protect.</li>
+<li>activate a webcam;</li>
+<li>record their screen;</li>
+<li>share their desktop;</li>
+<li>install a lockdown browser;</li>
+<li>scan their room;</li>
+<li>keep their face inside a camera frame;</li>
+<li>grant microphone access;</li>
+<li>avoid looking away;</li>
+<li>accept automated “suspicious behavior” flags;</li>
+<li>allow software to analyze eye movement, posture, or background noise.</li>
 </ul>
-<p>It&#39;s security theater that damages your brand and your candidate pipeline while providing a false sense of safety.</p>
-<h2>Integrity by design instead</h2>
-<p>We move integrity to where it actually works: the server and the content. You get trustworthy results without watching anyone. Concretely:</p>
+<p>JobsList.dev takes a different approach.</p>
+<p>We do not reject integrity controls.</p>
+<p>We reject the idea that integrity requires watching candidates in their homes.</p>
+<p>Our assessment model is designed around three principles:</p>
+<ol>
+<li><strong>Protect the assessment through architecture.</strong></li>
+<li><strong>Make genuine understanding more valuable than memorization.</strong></li>
+<li><strong>Treat technical signals as context for human judgment—not automatic accusations.</strong></li>
+</ol>
+<p>That means employers can receive useful, structured assessment evidence without forcing candidates through an invasive proctoring experience.</p>
+<p>The goal is straightforward:</p>
+<blockquote>
+<p>Trustworthy hiring signal without surveillance.</p>
+</blockquote>
+<h1>The short version</h1>
+<p>JobsList.dev assessments do not use:</p>
 <ul>
-<li><strong>Answer keys never leave the server.</strong> Grading data lives in columns that are never sent on any candidate-facing path. There&#39;s nothing in the network traffic or page bundle to read.</li>
-<li><strong>Per-candidate question sets.</strong> Each candidate draws a materialized set from a bank several times larger than the draw, with question and option order shuffled. Two candidates rarely see the same test, so sharing answers doesn&#39;t work well.</li>
-<li><strong>The set is fixed at start.</strong> Restarting or refreshing resumes the <em>same</em> questions — there&#39;s no rerolling for an easier draw.</li>
-<li><strong>Server-authoritative timing.</strong> The clock is owned by the server and written once when the attempt begins. No client-side timestamp is trusted for scoring.</li>
-<li><strong>One-time invite links.</strong> Each invitation is a single-use token, stored only as a hash, bound to the invited person and expiring. A forwarded link doesn&#39;t create a second, cleaner attempt.</li>
+<li>webcam proctoring;</li>
+<li>screen recording;</li>
+<li>microphone recording;</li>
+<li>facial recognition;</li>
+<li>eye tracking;</li>
+<li>biometric behavior analysis;</li>
+<li>room scans;</li>
+<li>lockdown browsers;</li>
+<li>remote device control;</li>
+<li>automatic cheating verdicts.</li>
 </ul>
-<p>None of this requires a camera. All of it is harder to defeat than proctoring — and invisible to the candidate, who just has a calm, focused experience.</p>
-<h2>We&#39;re honest about what we don&#39;t control</h2>
-<p>We won&#39;t pretend to do the impossible. A candidate <em>can</em> open an AI assistant in another window, and no non-surveillance control fully prevents that (nor does surveillance, given a second device). So instead of theater, we mitigate through <strong>content design</strong>: questions that test judgment, reasoning, and the ability to read and diagnose real code — not trivia an assistant instantly answers. The goal is questions where genuine understanding shows, and where a copy-pasted answer doesn&#39;t reliably win. That&#39;s a more honest and more durable defense than a webcam.</p>
-<h2>Signals, not verdicts</h2>
-<p>We do collect lightweight, neutral integrity metadata — things like whether the tab lost focus. But we treat it exactly as what it is: <strong>soft context, never a verdict.</strong> These signals:</p>
+<p>Instead, integrity is supported through:</p>
 <ul>
-<li>Are presented to you as <strong>plain, neutral facts</strong>, separate from the score.</li>
-<li><strong>Never automatically fail a candidate.</strong> A person might switch tabs to grab a glass of water; the system doesn&#39;t get to decide that&#39;s cheating.</li>
-<li>Are <strong>best-effort</strong> — losing a telemetry event never blocks a candidate&#39;s answer from saving.</li>
+<li>server-protected answer keys;</li>
+<li>personalized question sets;</li>
+<li>shuffled question and answer order;</li>
+<li>fixed attempts that cannot be rerolled through refreshing;</li>
+<li>server-authoritative timing;</li>
+<li>expiring one-time invitations;</li>
+<li>autosaved progress;</li>
+<li>role-relevant judgment questions;</li>
+<li>section-level results;</li>
+<li>neutral technical context;</li>
+<li>human interpretation.</li>
 </ul>
-<p>You stay in control of interpretation. We just give you honest context alongside a real score, and let you use judgment.</p>
-<h2>Why this produces better hiring signal</h2>
-<p>The candidates who react worst to surveillance are disproportionately the senior, in-demand people you most want to hire — the ones with other offers. A respectful, non-hostile assessment keeps them in your funnel instead of driving them out of it. And because our integrity lives in the architecture rather than in intimidation, the scores you get are trustworthy without a single accusation. You get the signal <em>and</em> the goodwill.</p>
-<h2>The principle</h2>
-<p>We think testing candidates and respecting candidates are not opposites — that the industry made them feel opposite by leaning on surveillance. Build integrity into the server and the content, present signals as context rather than judgment, and you can measure ability honestly while treating every candidate like an adult. That&#39;s the difference in how we do assessments, and it&#39;s a deliberate one.</p>
+<p>Candidates complete the assessment in their own space.</p>
+<p>Employers receive evidence about their answers and demonstrated skills—not footage of their bedrooms.</p>
+<h1>Why assessment integrity matters</h1>
+<p>Employers need confidence that assessment results are meaningful.</p>
+<p>Without appropriate safeguards, a hiring team may worry that:</p>
+<ul>
+<li>answer keys could be extracted from the browser;</li>
+<li>candidates could share a fixed test;</li>
+<li>someone could refresh until they receive easier questions;</li>
+<li>a local timer could be manipulated;</li>
+<li>one invitation could be reused;</li>
+<li>results might reflect memorized answers rather than understanding;</li>
+<li>the person interviewed may not understand the submitted work.</li>
+</ul>
+<p>Those are legitimate concerns.</p>
+<p>A serious assessment platform should address them.</p>
+<p>The disagreement is not about whether integrity matters.</p>
+<p>It is about where integrity should live.</p>
+<p>Traditional proctoring places the burden on the candidate’s body, room, camera, and device.</p>
+<p>JobsList.dev places the primary controls in:</p>
+<ul>
+<li>the server;</li>
+<li>the invitation model;</li>
+<li>the attempt lifecycle;</li>
+<li>the question bank;</li>
+<li>the scoring architecture;</li>
+<li>the content itself;</li>
+<li>the employer’s follow-up process.</li>
+</ul>
+<p>This produces a calmer candidate experience without abandoning technical safeguards.</p>
+<h1>Why surveillance is a weak foundation</h1>
+<p>Surveillance can create the appearance of certainty.</p>
+<p>It does not necessarily create certainty itself.</p>
+<p>A candidate who is determined to use an unauthorized resource may still have access to:</p>
+<ul>
+<li>a second phone;</li>
+<li>another computer;</li>
+<li>printed material;</li>
+<li>another person outside the camera view;</li>
+<li>tools the monitoring software does not detect.</li>
+</ul>
+<p>A webcam can show part of a room.</p>
+<p>It cannot prove complete independence.</p>
+<p>A lockdown browser can restrict one device.</p>
+<p>It cannot control every other device nearby.</p>
+<p>A gaze-detection model can report that someone looked away.</p>
+<p>It cannot determine why.</p>
+<p>That makes surveillance a poor substitute for sound assessment design.</p>
+<h1>Surveillance may measure the wrong things</h1>
+<p>An assessment should measure capabilities relevant to the role.</p>
+<p>For a developer, that may include:</p>
+<ul>
+<li>understanding unfamiliar code;</li>
+<li>finding defects;</li>
+<li>diagnosing failures;</li>
+<li>reasoning about data;</li>
+<li>evaluating trade-offs;</li>
+<li>recognizing security risks;</li>
+<li>choosing proportionate designs;</li>
+<li>explaining technical decisions.</li>
+</ul>
+<p>Surveillance may introduce unrelated factors into the experience.</p>
+<p>It can begin measuring:</p>
+<ul>
+<li>comfort while being watched;</li>
+<li>ability to remain physically still;</li>
+<li>access to a private room;</li>
+<li>camera quality;</li>
+<li>internet stability;</li>
+<li>background noise;</li>
+<li>anxiety response;</li>
+<li>movement patterns;</li>
+<li>tolerance for invasive software.</li>
+</ul>
+<p>Those are rarely requirements of the engineering job.</p>
+<h1>Surveillance can create false suspicion</h1>
+<p>Human behavior is inconsistent.</p>
+<p>During an assessment, a candidate may:</p>
+<ul>
+<li>look away while thinking;</li>
+<li>read a question aloud;</li>
+<li>change posture;</li>
+<li>move frequently;</li>
+<li>use an assistive device;</li>
+<li>pause because of pain or fatigue;</li>
+<li>respond to a child;</li>
+<li>work in a shared living space;</li>
+<li>experience a browser notification;</li>
+<li>use keyboard navigation;</li>
+<li>experience a temporary network interruption.</li>
+</ul>
+<p>None of these events proves dishonesty.</p>
+<p>When an automated system labels ordinary behavior as suspicious, the employer receives a warning without the context needed to interpret it properly.</p>
+<p>This creates the risk of:</p>
+<ul>
+<li>false accusations;</li>
+<li>biased review;</li>
+<li>unnecessary candidate anxiety;</li>
+<li>inconsistent decisions;</li>
+<li>reputational harm;</li>
+<li>qualified candidates withdrawing.</li>
+</ul>
+<h1>Surveillance can disproportionately burden some candidates</h1>
+<p>Invasive proctoring may be especially difficult for candidates who:</p>
+<ul>
+<li>are neurodivergent;</li>
+<li>have disabilities;</li>
+<li>use assistive technology;</li>
+<li>experience anxiety;</li>
+<li>live with family or roommates;</li>
+<li>have caregiving responsibilities;</li>
+<li>do not have a private office;</li>
+<li>use older hardware;</li>
+<li>have unreliable internet access;</li>
+<li>are uncomfortable exposing their home on camera.</li>
+</ul>
+<p>A hiring process should avoid turning unrelated living conditions into assessment criteria.</p>
+<h1>Surveillance affects employer brand</h1>
+<p>Candidates do not experience an assessment as a neutral software transaction.</p>
+<p>They experience it as part of the company’s hiring process.</p>
+<p>A surveillance-heavy assessment may communicate:</p>
+<ul>
+<li>“We assume you are dishonest.”</li>
+<li>“Our convenience matters more than your privacy.”</li>
+<li>“You must prove compliance before we treat you as a professional.”</li>
+<li>“Your physical behavior may be judged by an algorithm.”</li>
+</ul>
+<p>Strong candidates with several options may simply decline.</p>
+<p>That means the employer may lose candidates before evaluating their ability.</p>
+<h1>Senior candidates often have the least tolerance for unnecessary friction</h1>
+<p>Experienced engineers are frequently invited into several processes at once.</p>
+<p>They compare:</p>
+<ul>
+<li>compensation;</li>
+<li>technical scope;</li>
+<li>leadership;</li>
+<li>interview length;</li>
+<li>candidate treatment;</li>
+<li>assessment quality;</li>
+<li>privacy expectations.</li>
+</ul>
+<p>A senior candidate may reasonably decide that a company requiring a room scan, webcam recording, and lockdown browser is less attractive than one using a shorter, role-relevant, privacy-respecting assessment.</p>
+<p>Candidate respect is not separate from hiring effectiveness.</p>
+<p>It affects who remains in the funnel.</p>
+<h1>Integrity by design</h1>
+<p>JobsList.dev moves integrity controls away from surveillance and into the technical structure of the assessment.</p>
+<p>The candidate should experience a simple, calm interface.</p>
+<p>The platform should do the harder integrity work behind the scenes.</p>
+<h1>Answer keys remain on the server</h1>
+<p>Protected grading information should not be sent to candidate-facing code.</p>
+<p>That means the browser receives the information necessary to display the question, but not the complete protected answer key used to evaluate it.</p>
+<p>This helps prevent someone from discovering correct answers by:</p>
+<ul>
+<li>inspecting page source;</li>
+<li>reading client-side state;</li>
+<li>searching a JavaScript bundle;</li>
+<li>examining ordinary browser network responses;</li>
+<li>manipulating visible client data.</li>
+</ul>
+<p>The principle is simple:</p>
+<blockquote>
+<p>The candidate interface should receive questions, not grading secrets.</p>
+</blockquote>
+<h1>Why server-side protection matters</h1>
+<p>When correct answers are shipped to the browser and merely hidden visually, the assessment relies on obscurity.</p>
+<p>A technically capable candidate may be able to inspect the application and recover them.</p>
+<p>Server-side grading avoids that design mistake.</p>
+<p>The platform evaluates the submitted answer against protected scoring data after the response reaches the server.</p>
+<h1>Personalized question sets</h1>
+<p>Candidates can receive a materialized set of questions drawn from a larger role-relevant bank.</p>
+<p>This reduces dependence on one universal test.</p>
+<p>When every candidate receives the same questions in the same order, sharing becomes easy:</p>
+<ul>
+<li>one candidate records the questions;</li>
+<li>another memorizes the answers;</li>
+<li>online copies circulate;</li>
+<li>repeated attempts become predictable.</li>
+</ul>
+<p>A broader question bank makes that less useful.</p>
+<h1>Personalized does not mean arbitrary</h1>
+<p>Candidates evaluating the same role should still be assessed against comparable competencies.</p>
+<p>For example, two backend candidates may receive different specific questions while both being evaluated on:</p>
+<ul>
+<li>API reasoning;</li>
+<li>databases;</li>
+<li>debugging;</li>
+<li>reliability;</li>
+<li>security;</li>
+<li>system trade-offs.</li>
+</ul>
+<p>Fairness comes from equivalent competency coverage and scoring—not necessarily identical wording.</p>
+<h1>Questions and options can be shuffled</h1>
+<p>Where appropriate, the platform can vary:</p>
+<ul>
+<li>question order;</li>
+<li>answer-option order;</li>
+<li>section presentation.</li>
+</ul>
+<p>This makes simple position-based answer sharing less useful.</p>
+<p>Shuffling should never change the intended meaning or difficulty of the question.</p>
+<p>Its purpose is integrity, not confusion.</p>
+<h1>The question set is fixed when the attempt begins</h1>
+<p>Once an attempt starts, its question set should remain stable.</p>
+<p>Refreshing the page should not produce a new draw.</p>
+<p>Closing and reopening the browser should not create another collection of questions.</p>
+<p>A candidate should resume the same attempt.</p>
+<p>This prevents “rerolling,” where someone repeatedly restarts until they receive a preferred set.</p>
+<h1>Why a fixed attempt is fairer</h1>
+<p>A fixed attempt protects both sides.</p>
+<p>The employer knows the candidate completed one defined assessment.</p>
+<p>The candidate knows:</p>
+<ul>
+<li>refreshing will not erase the test;</li>
+<li>reconnecting will not change the questions;</li>
+<li>a browser crash will not create a different challenge;</li>
+<li>they are not punished for resuming.</li>
+</ul>
+<p>Integrity and reliability can support each other.</p>
+<h1>Server-authoritative timing</h1>
+<p>Assessment timing should not rely only on a countdown running in the browser.</p>
+<p>A local timer may be:</p>
+<ul>
+<li>paused;</li>
+<li>changed;</li>
+<li>interrupted;</li>
+<li>affected by device clock changes;</li>
+<li>inconsistent after reconnection.</li>
+</ul>
+<p>JobsList.dev uses server-controlled attempt timing so the assessment window is based on a trusted start state.</p>
+<p>The visible client timer reflects that authoritative state.</p>
+<h1>The timer begins from a defined event</h1>
+<p>A strong attempt model records the start once.</p>
+<p>The candidate should not be able to repeatedly reload the page and receive a new full-duration timer.</p>
+<p>The same attempt continues according to the server record.</p>
+<h1>Timing should remain humane</h1>
+<p>Server authority does not require hostile timer design.</p>
+<p>The timer can be:</p>
+<ul>
+<li>visible;</li>
+<li>predictable;</li>
+<li>calm;</li>
+<li>consistently applied;</li>
+<li>compatible with resuming after interruptions.</li>
+</ul>
+<p>The purpose is a fair time boundary—not panic.</p>
+<h1>One-time invitation links</h1>
+<p>A candidate may enter an assessment through a personal invitation link.</p>
+<p>The invitation can be:</p>
+<ul>
+<li>bound to the intended assessment;</li>
+<li>associated with the invited candidate;</li>
+<li>limited to a defined validity window;</li>
+<li>represented internally through a protected token;</li>
+<li>single-use according to the assessment lifecycle.</li>
+</ul>
+<h1>Store invitation secrets safely</h1>
+<p>A secure invitation system should avoid retaining reusable raw secrets unnecessarily.</p>
+<p>Instead, the system can store a cryptographic hash of the invitation token and compare the submitted token securely.</p>
+<p>This means the database does not need to preserve the usable invitation secret in plain text.</p>
+<h1>Expiration reduces long-term exposure</h1>
+<p>Invitation links should not remain valid indefinitely.</p>
+<p>An expiration window helps limit:</p>
+<ul>
+<li>accidental forwarding;</li>
+<li>reuse months later;</li>
+<li>exposure through old emails;</li>
+<li>stale access after the role closes.</li>
+</ul>
+<p>The company should provide candidates with enough time to complete the assessment reasonably.</p>
+<h1>One invitation should not create unlimited clean attempts</h1>
+<p>The assessment lifecycle should distinguish between:</p>
+<ul>
+<li>opening the invitation;</li>
+<li>beginning the attempt;</li>
+<li>resuming the same attempt;</li>
+<li>submitting the attempt;</li>
+<li>trying to reuse an already completed invitation.</li>
+</ul>
+<p>The system should permit legitimate resumption without creating unlimited fresh starts.</p>
+<h1>Autosave protects honest candidates</h1>
+<p>Integrity controls should not make the platform fragile.</p>
+<p>Candidate answers should save as they work so a temporary problem does not erase the attempt.</p>
+<p>Autosave can protect against:</p>
+<ul>
+<li>brief internet loss;</li>
+<li>browser crashes;</li>
+<li>accidental refreshes;</li>
+<li>device interruption;</li>
+<li>navigation errors.</li>
+</ul>
+<p>A reliable system should not interpret every technical interruption as misconduct.</p>
+<h1>Resume should restore the same assessment state</h1>
+<p>When a candidate returns, the platform should restore:</p>
+<ul>
+<li>the same attempt;</li>
+<li>the same questions;</li>
+<li>saved answers;</li>
+<li>relevant timing state;</li>
+<li>current progress.</li>
+</ul>
+<p>This supports integrity because the attempt cannot be regenerated, while also supporting candidates because they do not lose their work.</p>
+<h1>Content is part of the integrity model</h1>
+<p>Technical architecture can protect invitation and scoring mechanics.</p>
+<p>It cannot make weak questions valuable.</p>
+<p>Assessment content must be designed so that understanding matters.</p>
+<h1>Trivia is easy to search</h1>
+<p>A question such as:</p>
+<blockquote>
+<p>Which command-line flag enables feature X in version Y?</p>
+</blockquote>
+<p>may be answered quickly by:</p>
+<ul>
+<li>a search engine;</li>
+<li>documentation;</li>
+<li>an AI assistant;</li>
+<li>memorized notes.</li>
+</ul>
+<p>It may also have little relationship to whether the candidate can do the job.</p>
+<h1>Judgment questions require application</h1>
+<p>A stronger question might present:</p>
+<ul>
+<li>a failing service;</li>
+<li>relevant logs;</li>
+<li>system constraints;</li>
+<li>several technically possible responses.</li>
+</ul>
+<p>The candidate must determine which action is most appropriate.</p>
+<p>Example:</p>
+<blockquote>
+<p>A payment provider retries a webhook after a timeout. Duplicate orders are created because the handler processes every delivery as new. Which change most directly protects data correctness?</p>
+</blockquote>
+<p>The candidate needs to recognize:</p>
+<ul>
+<li>retry behavior;</li>
+<li>duplicate delivery;</li>
+<li>idempotency;</li>
+<li>durable state;</li>
+<li>transaction boundaries.</li>
+</ul>
+<p>Searching for a definition is less useful than understanding how the concept applies.</p>
+<h1>Code-reading questions test understanding</h1>
+<p>A candidate may be shown a short code sample and asked to identify:</p>
+<ul>
+<li>output;</li>
+<li>a defect;</li>
+<li>an edge case;</li>
+<li>a race condition;</li>
+<li>a security issue;</li>
+<li>an error-handling problem;</li>
+<li>a performance problem.</li>
+</ul>
+<p>The best answer depends on following the actual code.</p>
+<h1>Debugging scenarios test diagnostic order</h1>
+<p>Good debugging questions may provide:</p>
+<ul>
+<li>symptoms;</li>
+<li>metrics;</li>
+<li>logs;</li>
+<li>recent changes;</li>
+<li>architecture context.</li>
+</ul>
+<p>The candidate selects the most reasonable next step.</p>
+<p>This tests whether they:</p>
+<ul>
+<li>use evidence;</li>
+<li>prioritize likely causes;</li>
+<li>avoid random fixes;</li>
+<li>recognize missing information;</li>
+<li>understand production behavior.</li>
+</ul>
+<h1>Trade-off questions resist shallow memorization</h1>
+<p>Real engineering decisions often involve several plausible options.</p>
+<p>A good scenario includes constraints such as:</p>
+<ul>
+<li>scale;</li>
+<li>latency;</li>
+<li>consistency;</li>
+<li>cost;</li>
+<li>team size;</li>
+<li>operational maturity;</li>
+<li>delivery timeline.</li>
+</ul>
+<p>The candidate then chooses the most proportionate approach.</p>
+<p>The challenge is not recalling which technology is fashionable.</p>
+<p>It is determining what fits.</p>
+<h1>Role relevance improves integrity and validity</h1>
+<p>A candidate is more likely to engage seriously with an assessment that resembles the job.</p>
+<p>A backend engineer should not spend the majority of the test answering frontend framework trivia.</p>
+<p>A frontend engineer should not be judged primarily on cluster administration.</p>
+<p>A DevOps engineer should not receive a generic algorithm contest.</p>
+<p>A relevant assessment is easier to defend because the candidate can see why it exists.</p>
+<h1>Different levels need different judgment</h1>
+<p>A junior assessment may focus on:</p>
+<ul>
+<li>fundamentals;</li>
+<li>straightforward code comprehension;</li>
+<li>basic debugging;</li>
+<li>safe defaults;</li>
+<li>learning-oriented judgment.</li>
+</ul>
+<p>A senior assessment may focus on:</p>
+<ul>
+<li>ambiguity;</li>
+<li>failure modes;</li>
+<li>migration planning;</li>
+<li>operational responsibility;</li>
+<li>cross-system trade-offs;</li>
+<li>long-term consequences.</li>
+</ul>
+<p>A staff or lead assessment may include:</p>
+<ul>
+<li>cross-team architecture;</li>
+<li>organizational boundaries;</li>
+<li>adoption strategy;</li>
+<li>risk communication;</li>
+<li>technical leadership.</li>
+</ul>
+<p>Integrity improves when the content accurately reflects the expected level.</p>
+<h1>We are honest about what cannot be prevented completely</h1>
+<p>No remote assessment platform can guarantee that a candidate has no access to:</p>
+<ul>
+<li>another device;</li>
+<li>documentation;</li>
+<li>a search engine;</li>
+<li>an AI assistant;</li>
+<li>another person.</li>
+</ul>
+<p>Webcam proctoring cannot guarantee that either.</p>
+<p>Pretending otherwise creates false confidence.</p>
+<p>A more honest position is:</p>
+<blockquote>
+<p>We use reasonable technical controls, relevant content, clear rules, and human follow-up to improve confidence in the result.</p>
+</blockquote>
+<h1>Tool policies should be explicit</h1>
+<p>Companies should tell candidates whether they may use:</p>
+<ul>
+<li>documentation;</li>
+<li>search;</li>
+<li>calculators;</li>
+<li>local code editors;</li>
+<li>development environments;</li>
+<li>handwritten notes;</li>
+<li>AI tools.</li>
+</ul>
+<p>The rules can differ by assessment.</p>
+<p>The candidate should not need to guess.</p>
+<h1>AI changes the assessment landscape</h1>
+<p>AI assistants can answer many factual or syntax questions quickly.</p>
+<p>That makes weak assessments even weaker.</p>
+<p>It also creates an opportunity to improve technical hiring.</p>
+<p>Instead of asking questions that reward recall, assessments can focus more heavily on:</p>
+<ul>
+<li>evaluating a generated approach;</li>
+<li>identifying incorrect assumptions;</li>
+<li>comparing trade-offs;</li>
+<li>diagnosing realistic failures;</li>
+<li>applying constraints;</li>
+<li>explaining reasoning;</li>
+<li>recognizing unsafe output.</li>
+</ul>
+<p>The more the question requires professional judgment, the less useful blind copy-and-paste becomes.</p>
+<h1>Follow-up interviews provide additional evidence</h1>
+<p>The employer may discuss selected assessment topics later.</p>
+<p>Useful follow-up questions include:</p>
+<ul>
+<li>Why did you choose that answer?</li>
+<li>Which assumption mattered most?</li>
+<li>What would change if traffic increased?</li>
+<li>What failure mode concerned you?</li>
+<li>Which alternative did you reject?</li>
+<li>How would you verify your recommendation?</li>
+<li>Have you encountered something similar in production?</li>
+</ul>
+<p>A candidate who understands their submission can explain and adapt it.</p>
+<p>A candidate who copied without understanding usually struggles when the scenario changes.</p>
+<h1>Assessment results should be evidence, not verdicts</h1>
+<p>JobsList.dev assessments are intended to support human hiring decisions.</p>
+<p>They are not designed to produce a universal judgment about the candidate.</p>
+<p>A result may contain:</p>
+<ul>
+<li>overall performance;</li>
+<li>section-level performance;</li>
+<li>individual responses;</li>
+<li>manually reviewed content;</li>
+<li>completion information;</li>
+<li>limited technical context.</li>
+</ul>
+<p>The company still decides what the evidence means for the role.</p>
+<h1>Section scores matter</h1>
+<p>One overall percentage cannot describe every strength.</p>
+<p>Two candidates may receive the same total while performing differently across:</p>
+<ul>
+<li>debugging;</li>
+<li>databases;</li>
+<li>frontend accessibility;</li>
+<li>security;</li>
+<li>testing;</li>
+<li>architecture;</li>
+<li>communication;</li>
+<li>operational judgment.</li>
+</ul>
+<p>Section results help employers identify where the signal lives.</p>
+<h1>Small score differences should not be exaggerated</h1>
+<p>The difference between 79% and 81% may represent one response.</p>
+<p>It does not necessarily indicate a meaningful difference in expected job performance.</p>
+<p>Employers should consider:</p>
+<ul>
+<li>section relevance;</li>
+<li>role requirements;</li>
+<li>assessment version;</li>
+<li>candidate experience;</li>
+<li>supporting interview evidence.</li>
+</ul>
+<h1>Integrity metadata is neutral context</h1>
+<p>JobsList.dev may record limited technical context, such as whether the browser tab lost focus.</p>
+<p>That information must be interpreted carefully.</p>
+<p>A focus change may occur because:</p>
+<ul>
+<li>another window became active;</li>
+<li>a notification appeared;</li>
+<li>the candidate used an accessibility tool;</li>
+<li>the browser behaved unexpectedly;</li>
+<li>the candidate clicked outside the assessment;</li>
+<li>the device switched applications;</li>
+<li>an interruption occurred.</li>
+</ul>
+<p>The event alone does not explain intent.</p>
+<h1>No automatic failure from tab changes</h1>
+<p>A focus event should never become an automatic cheating verdict.</p>
+<p>It is not proof of unauthorized assistance.</p>
+<p>It should be presented separately from the assessment score as neutral context.</p>
+<h1>Why collect limited context at all?</h1>
+<p>Limited context can help a reviewer understand the attempt when unusual technical events occur.</p>
+<p>The key is to preserve the boundary between:</p>
+<ul>
+<li>recording an event;</li>
+<li>interpreting an event;</li>
+<li>making an accusation.</li>
+</ul>
+<p>The platform may record the event.</p>
+<p>A person interprets whether it matters.</p>
+<h1>Best-effort telemetry should not block answers</h1>
+<p>Integrity context is secondary to preserving candidate work.</p>
+<p>If an optional telemetry event fails to transmit, the candidate’s answer should still save.</p>
+<p>A hiring platform should not sacrifice assessment reliability merely to collect more metadata.</p>
+<h1>No automated moral judgment</h1>
+<p>Software cannot reliably determine whether a candidate is:</p>
+<ul>
+<li>honest;</li>
+<li>dishonest;</li>
+<li>trustworthy;</li>
+<li>untrustworthy;</li>
+<li>distracted;</li>
+<li>anxious;</li>
+<li>neurodivergent;</li>
+<li>cheating.</li>
+</ul>
+<p>Those are human interpretations requiring more context than a technical event can provide.</p>
+<p>JobsList.dev does not treat surveillance-derived behavior as a substitute for judgment.</p>
+<h1>What companies should do with contextual signals</h1>
+<p>When a company sees neutral assessment context, it should ask:</p>
+<ul>
+<li>Was the event technically significant?</li>
+<li>Did it affect the assessment?</li>
+<li>Is there a reasonable benign explanation?</li>
+<li>Does the submitted work remain coherent?</li>
+<li>Is follow-up necessary?</li>
+<li>Would we interpret the same event consistently for every candidate?</li>
+</ul>
+<p>Most minor events may require no action.</p>
+<h1>When follow-up is appropriate</h1>
+<p>When there is a material concern, a company can ask respectfully.</p>
+<p>Example:</p>
+<blockquote>
+<p>We noticed that the assessment session was interrupted several times. Did you experience any technical problems while completing it?</p>
+</blockquote>
+<p>That is different from:</p>
+<blockquote>
+<p>Our system says you cheated.</p>
+</blockquote>
+<p>The first seeks context.</p>
+<p>The second assumes intent.</p>
+<h1>What employers receive</h1>
+<p>Depending on the assessment and company configuration, the employer may receive:</p>
+<ul>
+<li>confirmation of completion;</li>
+<li>an overall score;</li>
+<li>section scores;</li>
+<li>relevant responses;</li>
+<li>manually reviewed answers;</li>
+<li>timing information;</li>
+<li>limited technical context.</li>
+</ul>
+<p>The employer does not receive:</p>
+<ul>
+<li>webcam footage;</li>
+<li>screen recordings;</li>
+<li>microphone recordings;</li>
+<li>facial-analysis results;</li>
+<li>gaze-tracking data;</li>
+<li>a biometric candidate profile;</li>
+<li>an automatic declaration of dishonesty.</li>
+</ul>
+<h1>What candidates can expect</h1>
+<p>Candidates can complete the assessment:</p>
+<ul>
+<li>on their own device;</li>
+<li>in their own space;</li>
+<li>without camera preparation;</li>
+<li>without installing surveillance software;</li>
+<li>without performing for an algorithm.</li>
+</ul>
+<p>They remain responsible for following the stated assessment rules.</p>
+<p>Privacy does not remove professional responsibility.</p>
+<p>It creates a more respectful way to evaluate it.</p>
+<h1>The trust agreement</h1>
+<p>Our model depends on mutual responsibility.</p>
+<p>JobsList.dev commits to:</p>
+<ul>
+<li>minimizing invasive data collection;</li>
+<li>protecting answer keys on the server;</li>
+<li>using controlled invitations;</li>
+<li>keeping attempts stable;</li>
+<li>handling timing consistently;</li>
+<li>preserving progress;</li>
+<li>designing relevant questions;</li>
+<li>separating context from scoring;</li>
+<li>avoiding automatic accusations;</li>
+<li>leaving hiring decisions to people.</li>
+</ul>
+<p>Candidates are asked to:</p>
+<ul>
+<li>complete their own work;</li>
+<li>follow the stated resource rules;</li>
+<li>avoid sharing protected questions;</li>
+<li>submit answers they understand;</li>
+<li>report technical problems honestly;</li>
+<li>protect their invitation link.</li>
+</ul>
+<p>Employers are expected to:</p>
+<ul>
+<li>use assessment evidence responsibly;</li>
+<li>avoid overinterpreting small score differences;</li>
+<li>treat contextual events neutrally;</li>
+<li>combine results with broader evidence;</li>
+<li>communicate outcomes promptly;</li>
+<li>respect candidate privacy.</li>
+</ul>
+<h1>How privacy-respecting assessments help candidates</h1>
+<h1>Less anxiety</h1>
+<p>Candidates can focus on the work rather than worrying about:</p>
+<ul>
+<li>eye position;</li>
+<li>facial expression;</li>
+<li>background activity;</li>
+<li>room appearance;</li>
+<li>algorithmic suspicion;</li>
+<li>accidental movement.</li>
+</ul>
+<h1>Greater accessibility</h1>
+<p>Candidates do not need a perfect private environment or camera-ready setup.</p>
+<p>This can reduce unnecessary barriers for people in shared spaces or with accessibility needs.</p>
+<h1>Less exposure of personal information</h1>
+<p>The assessment does not need to collect images or audio from the candidate’s home.</p>
+<h1>A more realistic working environment</h1>
+<p>Most developers are not continuously watched through a webcam while solving technical problems.</p>
+<p>A browser-based assessment focused on reasoning is closer to normal independent work.</p>
+<h1>More professional treatment</h1>
+<p>Candidates are asked to demonstrate ability, not submit to intimidation.</p>
+<h1>How privacy-respecting assessments help employers</h1>
+<h1>Stronger completion rates</h1>
+<p>Candidates are more likely to complete a process that feels proportionate and respectful.</p>
+<h1>Better employer reputation</h1>
+<p>The company avoids associating its hiring brand with invasive monitoring.</p>
+<h1>A broader candidate pool</h1>
+<p>People without ideal proctoring environments are less likely to withdraw.</p>
+<h1>More relevant evidence</h1>
+<p>The hiring team can focus on role-related judgment instead of interpreting body movement.</p>
+<h1>Better interview conversations</h1>
+<p>Assessment answers can become the basis for meaningful follow-up.</p>
+<h1>Less exposure to sensitive data</h1>
+<p>When webcam, microphone, and biometric information are not collected, employers avoid creating additional privacy and security obligations around that material.</p>
+<h1>Reduced risk of false accusations</h1>
+<p>A human-reviewed evidence model is less likely to turn an ordinary movement into an allegation.</p>
+<h1>The employer invitation should explain the model</h1>
+<p>Candidates should understand what they are being asked to do.</p>
+<p>A useful invitation might say:</p>
+<blockquote>
+<p>This assessment takes approximately 45 minutes and evaluates role-relevant technical judgment. It does not use webcam monitoring, screen recording, microphone recording, biometric analysis, or a lockdown browser.</p>
+<p>Your responses, timing, and limited technical assessment context are recorded. Browser-focus events are not automatic disqualifications. Please review the instructions for permitted resources before beginning.</p>
+<p>We will review your result alongside the rest of your application and contact you within five business days.</p>
+</blockquote>
+<p>Clarity reduces anxiety and improves trust.</p>
+<h1>Employers should avoid threatening language</h1>
+<p>Do not tell candidates:</p>
+<ul>
+<li>any tab change means automatic failure;</li>
+<li>the system can detect dishonesty;</li>
+<li>normal movement will be flagged;</li>
+<li>they must remain perfectly still;</li>
+<li>the platform can determine intent;</li>
+<li>every technical event will count against them.</li>
+</ul>
+<p>That language creates fear without improving assessment validity.</p>
+<h1>Employers should train reviewers</h1>
+<p>People reviewing assessment results should understand:</p>
+<ul>
+<li>what each section measures;</li>
+<li>how scoring works;</li>
+<li>what partial credit means;</li>
+<li>that small score differences may be insignificant;</li>
+<li>that technical context is neutral;</li>
+<li>that focus changes do not prove misconduct;</li>
+<li>that accessibility and interruptions matter;</li>
+<li>that the assessment is one part of the decision.</li>
+</ul>
+<p>A good platform cannot compensate for irresponsible interpretation.</p>
+<h1>Employers should close the loop</h1>
+<p>Candidates who complete an assessment have invested time.</p>
+<p>The company should:</p>
+<ul>
+<li>review results promptly;</li>
+<li>communicate the next step;</li>
+<li>reject respectfully;</li>
+<li>avoid ghosting;</li>
+<li>acknowledge substantial effort;</li>
+<li>explain delays;</li>
+<li>provide feedback when appropriate and supported.</li>
+</ul>
+<p>A respectful assessment followed by silence still becomes a poor candidate experience.</p>
+<h1>Assessment integrity is also content governance</h1>
+<p>Question quality should not remain static.</p>
+<p>A responsible question bank should be reviewed using information such as:</p>
+<ul>
+<li>correct-answer rates;</li>
+<li>completion time;</li>
+<li>candidate feedback;</li>
+<li>reviewer disagreement;</li>
+<li>ambiguous distractors;</li>
+<li>changing technologies;</li>
+<li>role relevance;</li>
+<li>whether the question produces useful signal.</li>
+</ul>
+<h1>Retire weak questions</h1>
+<p>Questions should be revised or removed when they:</p>
+<ul>
+<li>test obsolete trivia;</li>
+<li>have disputed expected answers;</li>
+<li>contain unclear wording;</li>
+<li>are answered incorrectly for reasons unrelated to skill;</li>
+<li>are too easy to provide signal;</li>
+<li>are too difficult for the intended level;</li>
+<li>do not align with the role;</li>
+<li>reward memorization more than judgment.</li>
+</ul>
+<p>Integrity includes making sure the assessment itself deserves to be trusted.</p>
+<h1>Calibrate by role and level</h1>
+<p>A question that is useful for a senior platform engineer may be inappropriate for a junior product developer.</p>
+<p>Content should be calibrated according to:</p>
+<ul>
+<li>role family;</li>
+<li>seniority;</li>
+<li>expected autonomy;</li>
+<li>technical scope;</li>
+<li>operational responsibility;</li>
+<li>management responsibility.</li>
+</ul>
+<h1>Validate against real hiring outcomes</h1>
+<p>Employers should periodically ask:</p>
+<ul>
+<li>Do assessment strengths align with interview evidence?</li>
+<li>Do strong employees perform well on relevant sections?</li>
+<li>Are candidates being rejected because of irrelevant content?</li>
+<li>Does the assessment improve hiring decisions?</li>
+<li>Are candidates completing it at a reasonable rate?</li>
+<li>Does the process support a positive offer-acceptance experience?</li>
+</ul>
+<p>An assessment should remain only when it adds useful evidence.</p>
+<h1>Common misconceptions</h1>
+<h1>“No webcam means no integrity”</h1>
+<p>False.</p>
+<p>Integrity can be supported through:</p>
+<ul>
+<li>protected answer keys;</li>
+<li>individualized question sets;</li>
+<li>fixed attempts;</li>
+<li>trusted timing;</li>
+<li>controlled invitations;</li>
+<li>relevant content;</li>
+<li>human follow-up.</li>
+</ul>
+<h1>“A lockdown browser stops all outside help”</h1>
+<p>False.</p>
+<p>It restricts one environment, not every possible device or resource.</p>
+<h1>“Tab switching proves cheating”</h1>
+<p>False.</p>
+<p>It proves only that browser focus changed.</p>
+<h1>“Surveillance makes assessment results objective”</h1>
+<p>False.</p>
+<p>Surveillance adds more data, but interpreting that data can introduce new subjectivity and bias.</p>
+<h1>“AI makes assessments useless”</h1>
+<p>Not necessarily.</p>
+<p>AI makes trivia-based assessments less useful. It increases the importance of:</p>
+<ul>
+<li>judgment;</li>
+<li>application;</li>
+<li>explanation;</li>
+<li>adaptation;</li>
+<li>follow-up.</li>
+</ul>
+<h1>“One high score proves someone is a great hire”</h1>
+<p>False.</p>
+<p>The assessment does not fully measure:</p>
+<ul>
+<li>sustained performance;</li>
+<li>collaboration;</li>
+<li>ownership;</li>
+<li>communication over time;</li>
+<li>reliability;</li>
+<li>motivation;</li>
+<li>role fit.</li>
+</ul>
+<h1>“One low score proves someone cannot do the job”</h1>
+<p>Not necessarily.</p>
+<p>Employers should consider:</p>
+<ul>
+<li>role alignment;</li>
+<li>section performance;</li>
+<li>assessment conditions;</li>
+<li>level;</li>
+<li>supporting evidence;</li>
+<li>technical issues;</li>
+<li>interview depth.</li>
+</ul>
+<h1>Assessment security should be proportionate</h1>
+<p>The objective is not perfect control.</p>
+<p>Perfect control does not exist in remote hiring.</p>
+<p>The objective is reasonable confidence based on relevant evidence.</p>
+<p>A proportionate integrity model asks:</p>
+<ul>
+<li>What are the realistic risks?</li>
+<li>Which server-side controls address them?</li>
+<li>Which candidate data is actually necessary?</li>
+<li>Which signals improve decisions?</li>
+<li>Which controls merely create intimidation?</li>
+<li>How will concerns be reviewed by a person?</li>
+<li>Does the process remain accessible and humane?</li>
+</ul>
+<h1>A comparison of the two approaches</h1>
+<table>
+<thead>
+<tr>
+<th>Surveillance-first assessment</th>
+<th>Integrity-by-design assessment</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Watches the candidate</td>
+<td>Protects the assessment architecture</td>
+</tr>
+<tr>
+<td>Records webcam or screen activity</td>
+<td>Keeps grading secrets on the server</td>
+</tr>
+<tr>
+<td>May require a lockdown browser</td>
+<td>Uses a normal browser experience</td>
+</tr>
+<tr>
+<td>Infers intent from behavior</td>
+<td>Evaluates submitted work</td>
+</tr>
+<tr>
+<td>May collect biometric data</td>
+<td>Minimizes personal data</td>
+</tr>
+<tr>
+<td>Uses fixed tests vulnerable to sharing</td>
+<td>Draws from broader question banks</td>
+</tr>
+<tr>
+<td>Treats focus changes as suspicion</td>
+<td>Presents context neutrally</td>
+</tr>
+<tr>
+<td>Creates automatic risk flags</td>
+<td>Preserves human judgment</td>
+</tr>
+<tr>
+<td>May disadvantage candidates without private space</td>
+<td>Allows candidates to work in their own environment</td>
+</tr>
+<tr>
+<td>Focuses on restricting tools</td>
+<td>Focuses on questions requiring understanding</td>
+</tr>
+<tr>
+<td>Can produce a hostile experience</td>
+<td>Supports a calm candidate experience</td>
+</tr>
+<tr>
+<td>Creates a sense of enforcement</td>
+<td>Builds integrity into the system</td>
+</tr>
+</tbody></table>
+<h1>A checklist for companies</h1>
+<p>Before using an assessment, confirm:</p>
+<h2>Architecture</h2>
+<ul>
+<li>Answer keys remain server-side.</li>
+<li>Invitation tokens are protected.</li>
+<li>Attempts cannot be freely rerolled.</li>
+<li>Timing is server-authoritative.</li>
+<li>Progress is autosaved.</li>
+<li>Resumption restores the same attempt.</li>
+<li>Candidate-facing routes expose only necessary data.</li>
+</ul>
+<h2>Content</h2>
+<ul>
+<li>Questions reflect the role.</li>
+<li>Difficulty reflects the level.</li>
+<li>Judgment matters more than trivia.</li>
+<li>Scenarios contain enough context.</li>
+<li>Expected answers are defensible.</li>
+<li>Weak or disputed questions are reviewed.</li>
+<li>Sections map to real job requirements.</li>
+</ul>
+<h2>Candidate experience</h2>
+<ul>
+<li>Expected duration is clear.</li>
+<li>Instructions are clear.</li>
+<li>Resource rules are explicit.</li>
+<li>No webcam is required.</li>
+<li>No screen or microphone recording occurs.</li>
+<li>No biometric analysis occurs.</li>
+<li>No lockdown software is required.</li>
+<li>Accessibility support is available.</li>
+<li>Technical support is explained.</li>
+</ul>
+<h2>Interpretation</h2>
+<ul>
+<li>Section scores are available.</li>
+<li>Human review remains central.</li>
+<li>Technical context is neutral.</li>
+<li>Focus changes do not automatically fail candidates.</li>
+<li>Small score differences are not overinterpreted.</li>
+<li>The assessment is combined with broader evidence.</li>
+</ul>
+<h2>Communication</h2>
+<ul>
+<li>Candidates know what happens next.</li>
+<li>Results are reviewed promptly.</li>
+<li>Every candidate receives closure.</li>
+<li>Finalists receive personal communication.</li>
+<li>Candidate feedback is collected and reviewed.</li>
+</ul>
+<h1>A checklist for candidates</h1>
+<p>Before starting:</p>
+<ul>
+<li>Verify the invitation.</li>
+<li>Read the assessment rules.</li>
+<li>Confirm the time limit.</li>
+<li>Check which resources are permitted.</li>
+<li>Choose a comfortable device and environment.</li>
+<li>Request an accommodation when needed.</li>
+<li>Keep the invitation email available.</li>
+</ul>
+<p>During the assessment:</p>
+<ul>
+<li>Complete your own work.</li>
+<li>Read scenarios carefully.</li>
+<li>Focus on the stated constraints.</li>
+<li>Prefer proportionate solutions.</li>
+<li>Review failure modes.</li>
+<li>Avoid searching for hidden tricks.</li>
+<li>Return calmly after a technical interruption.</li>
+<li>Submit only answers you understand.</li>
+</ul>
+<p>After submission:</p>
+<ul>
+<li>Confirm completion.</li>
+<li>Save the confirmation.</li>
+<li>Review any available section results.</li>
+<li>Prepare to explain your reasoning.</li>
+<li>Contact support about genuine technical problems.</li>
+<li>Continue the rest of your job search.</li>
+<li>Follow up after the company’s stated timeline.</li>
+</ul>
+<h1>What this means for candidates working on their résumé</h1>
+<p>A skills-first assessment does not make your résumé irrelevant.</p>
+<p>It changes the résumé’s role.</p>
+<p>Your résumé should provide the context that the assessment cannot.</p>
+<p>Use it to show:</p>
+<ul>
+<li>where you applied the assessed skills;</li>
+<li>what you personally owned;</li>
+<li>what reached production;</li>
+<li>what changed because of your work;</li>
+<li>which systems you maintained;</li>
+<li>how you handled failure;</li>
+<li>how you collaborated;</li>
+<li>what scale or constraints you encountered.</li>
+</ul>
+<h1>Connect assessment strengths to résumé evidence</h1>
+<p>Suppose you perform strongly in debugging.</p>
+<p>Your résumé should include evidence such as:</p>
+<blockquote>
+<p>Diagnosed an intermittent payment-reconciliation failure using distributed traces and database analysis, then added idempotency controls and monitoring that prevented recurrence.</p>
+</blockquote>
+<p>For database strength:</p>
+<blockquote>
+<p>Redesigned the organization-permissions schema and completed a backward-compatible migration across 12 million records.</p>
+</blockquote>
+<p>For frontend accessibility:</p>
+<blockquote>
+<p>Rebuilt shared form components with semantic HTML, keyboard navigation, and automated accessibility checks across the customer application.</p>
+</blockquote>
+<p>For DevOps judgment:</p>
+<blockquote>
+<p>Introduced canary deployments, health-based rollback, and service-level alerts, reducing failed releases and after-hours incidents.</p>
+</blockquote>
+<p>For engineering management:</p>
+<blockquote>
+<p>Introduced structured one-to-ones and role expectations for a seven-engineer team, improving promotion clarity and reducing repeated delivery escalations.</p>
+</blockquote>
+<p>The assessment demonstrates current understanding.</p>
+<p>The résumé demonstrates applied experience.</p>
+<h1>Use assessment results to prepare interview stories</h1>
+<p>For each strong section, prepare one example covering:</p>
+<ul>
+<li>the situation;</li>
+<li>the problem;</li>
+<li>your responsibility;</li>
+<li>your decision;</li>
+<li>the trade-off;</li>
+<li>the result;</li>
+<li>what you learned.</li>
+</ul>
+<p>For each weaker section, prepare an honest growth answer.</p>
+<p>Example:</p>
+<blockquote>
+<p>The assessment confirmed that debugging and database work are my strongest areas because those match my current production responsibilities. The multi-region architecture questions were less familiar, so I have been studying consistency and failover trade-offs more deliberately.</p>
+</blockquote>
+<p>That communicates self-awareness without letting one result define you.</p>
+<h1>The deeper principle</h1>
+<p>Candidate privacy and assessment integrity are not opposites.</p>
+<p>They only appear to be opposites when integrity is defined as watching people.</p>
+<p>A better model defines integrity as:</p>
+<ul>
+<li>protecting secrets;</li>
+<li>controlling attempts;</li>
+<li>applying consistent rules;</li>
+<li>asking strong questions;</li>
+<li>measuring relevant skills;</li>
+<li>interpreting evidence responsibly;</li>
+<li>following up with humans.</li>
+</ul>
+<p>Under that model, surveillance becomes unnecessary.</p>
+<h1>The takeaway</h1>
+<p>JobsList.dev assessments are designed to produce trustworthy hiring evidence without turning candidates into surveillance subjects.</p>
+<p>We do not use:</p>
+<ul>
+<li>webcam proctoring;</li>
+<li>screen recording;</li>
+<li>microphone recording;</li>
+<li>biometric analysis;</li>
+<li>eye tracking;</li>
+<li>room scans;</li>
+<li>lockdown browsers;</li>
+<li>automatic cheating verdicts.</li>
+</ul>
+<p>Instead, integrity is supported through:</p>
+<ol>
+<li>Answer keys that remain on the server.</li>
+<li>Personalized question sets drawn from larger banks.</li>
+<li>Shuffled question and answer order.</li>
+<li>Fixed attempts that cannot be rerolled through refreshing.</li>
+<li>Server-authoritative timing.</li>
+<li>Expiring, candidate-bound invitation links.</li>
+<li>Autosave and reliable resumption.</li>
+<li>Questions built around reasoning and professional judgment.</li>
+<li>Section-level results rather than one opaque number.</li>
+<li>Neutral technical context separated from scoring.</li>
+<li>Human interpretation instead of automated accusation.</li>
+<li>Follow-up interviews that test understanding and adaptability.</li>
+</ol>
+<p>No remote assessment can create perfect certainty.</p>
+<p>Webcam surveillance cannot create perfect certainty either.</p>
+<p>What a responsible platform can create is a stronger, more honest evidence model—one that protects the assessment technically, evaluates relevant judgment, and respects the candidate throughout the process.</p>
+<p>Employers receive useful signal.</p>
+<p>Candidates retain their dignity and privacy.</p>
+<p>Hiring teams remain responsible for the final decision.</p>
+<p>That is not a compromise between integrity and respect.</p>
+<p>It is a better implementation of both.</p>
+<p><em>Ready to evaluate developers through demonstrated skill without invasive monitoring? <a href="/auth/register?role=COMPANY">Create a company profile on JobsList.dev</a>, publish your next role, and build a hiring process based on integrity by design.</em></p>
 5:["locale","tr","d"]
 6:["slug","assessments-without-surveillance-how-we-do-it-differently","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","assessments-without-surveillance-how-we-do-it-differently","d"],{"children":["__PAGE__?{\"locale\":\"tr\",\"slug\":\"assessments-without-surveillance-how-we-do-it-differently\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","assessments-without-surveillance-how-we-do-it-differently","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Assessments Without Surveillance: How We Do It Differently\",\"description\":\"Why JobsList.dev rejects webcam proctoring and lockdown browsers, and how server-side integrity by design gives you trustworthy hiring signal candidates don't resent.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"tr\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Assessments Without Surveillance: How We Do It Differently","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":4,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Assessments Without Surveillance: How We Do It Differently | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Why JobsList.dev rejects webcam proctoring and lockdown browsers, and how server-side integrity by design gives you trustworthy hiring signal candidates don't resent."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Assessments Without Surveillance: How We Do It Differently"}],["$","meta","15",{"property":"og:description","content":"Why JobsList.dev rejects webcam proctoring and lockdown browsers, and how server-side integrity by design gives you trustworthy hiring signal candidates don't resent."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Assessments Without Surveillance: How We Do It Differently"}],["$","meta","25",{"name":"twitter:description","content":"Why JobsList.dev rejects webcam proctoring and lockdown browsers, and how server-side integrity by design gives you trustworthy hiring signal candidates don't resent."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","assessments-without-surveillance-how-we-do-it-differently","d"],{"children":["__PAGE__?{\"locale\":\"tr\",\"slug\":\"assessments-without-surveillance-how-we-do-it-differently\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","assessments-without-surveillance-how-we-do-it-differently","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Assessments Without Surveillance: How We Do It Differently\",\"description\":\"Learn why JobsList.dev rejects webcam proctoring, biometric monitoring, screen recording, and lockdown browsers—and how server-side integrity, role-relevant questions, and human judgment create trustworthy results without treating candidates like suspects.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"tr\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Assessments Without Surveillance: How We Do It Differently","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":29,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Assessments Without Surveillance: How We Do It Differently | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn why JobsList.dev rejects webcam proctoring, biometric monitoring, screen recording, and lockdown browsers—and how server-side integrity, role-relevant questions, and human judgment create trustworthy results without treating candidates like suspects."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Assessments Without Surveillance: How We Do It Differently"}],["$","meta","15",{"property":"og:description","content":"Learn why JobsList.dev rejects webcam proctoring, biometric monitoring, screen recording, and lockdown browsers—and how server-side integrity, role-relevant questions, and human judgment create trustworthy results without treating candidates like suspects."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Assessments Without Surveillance: How We Do It Differently"}],["$","meta","25",{"name":"twitter:description","content":"Learn why JobsList.dev rejects webcam proctoring, biometric monitoring, screen recording, and lockdown browsers—and how server-side integrity, role-relevant questions, and human judgment create trustworthy results without treating candidates like suspects."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

@@ -1,0 +1,1543 @@
+2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
+4:I[5613,[],""]
+7:I[31778,[],""]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
+a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Tce4a,<p>Most developers treat their professional profile like a form they are required to complete.</p>
+<p>They paste in parts of their résumé, add a list of technologies, select a current job title, and leave the page untouched until the next job search begins.</p>
+<p>That approach misses what a professional profile is designed to do.</p>
+<p>A résumé is usually reviewed after someone has already received it.</p>
+<p>A searchable profile must complete two earlier tasks:</p>
+<ol>
+<li>Appear in the right searches.</li>
+<li>Convince someone to keep reading after a brief skim.</li>
+</ol>
+<p>A profile can fail before anyone reaches your experience section.</p>
+<p>You may be an excellent backend engineer, but if your profile never contains the phrases recruiters search for, you may not appear in their results.</p>
+<p>You may have meaningful technical achievements, but if your headline says only “Software Engineer at Acme,” the person scanning results may never open your profile.</p>
+<p>A strong developer profile should help the right reader understand, quickly:</p>
+<ul>
+<li>what kind of developer you are;</li>
+<li>which technologies you use professionally;</li>
+<li>what level of responsibility you have;</li>
+<li>which problems you solve well;</li>
+<li>what you have built or improved;</li>
+<li>where you can work;</li>
+<li>what kind of role you want next;</li>
+<li>how to contact you.</li>
+</ul>
+<p>The goal is not to attract every recruiter.</p>
+<p>It is to become easier to find by the companies and hiring teams that are relevant to you.</p>
+<h1>Understand how recruiters search for developers</h1>
+<p>Recruiters and hiring managers often begin with a search query rather than a name.</p>
+<p>They may search for combinations such as:</p>
+<ul>
+<li>Senior Backend Engineer PostgreSQL</li>
+<li>React TypeScript remote</li>
+<li>Staff Platform Engineer Kubernetes</li>
+<li>iOS Swift SwiftUI</li>
+<li>Python data engineer Airflow</li>
+<li>Rust distributed systems</li>
+<li>Frontend accessibility design systems</li>
+<li>Android Kotlin Jetpack Compose</li>
+<li>Node.js GraphQL AWS</li>
+<li>Security engineer application security</li>
+</ul>
+<p>They may then narrow results by:</p>
+<ul>
+<li>location;</li>
+<li>time zone;</li>
+<li>seniority;</li>
+<li>years of experience;</li>
+<li>current or previous title;</li>
+<li>availability;</li>
+<li>employment preference;</li>
+<li>industry;</li>
+<li>language;</li>
+<li>work authorization.</li>
+</ul>
+<p>If your profile does not contain the terms that accurately describe your experience, you may not appear in the search at all.</p>
+<p>That does not mean you should fill the page with repeated keywords.</p>
+<p>It means your professional identity should be expressed in the language employers actually use.</p>
+<h1>Start by defining what you want to be found for</h1>
+<p>Before rewriting your profile, decide what type of opportunity you want.</p>
+<p>A profile trying to attract every technical role usually becomes vague.</p>
+<p>Write down:</p>
+<h2>Target role</h2>
+<p>Examples:</p>
+<ul>
+<li>Senior Backend Engineer</li>
+<li>Frontend Product Engineer</li>
+<li>Full-Stack TypeScript Developer</li>
+<li>Mobile iOS Engineer</li>
+<li>Data Engineer</li>
+<li>Platform Engineer</li>
+<li>Engineering Manager</li>
+<li>Application Security Engineer</li>
+<li>Junior Software Developer</li>
+</ul>
+<h2>Primary technologies</h2>
+<p>Choose the technologies you use confidently and want to continue using.</p>
+<p>Examples:</p>
+<ul>
+<li>TypeScript</li>
+<li>React</li>
+<li>Next.js</li>
+<li>Node.js</li>
+<li>PostgreSQL</li>
+<li>Python</li>
+<li>Go</li>
+<li>Rust</li>
+<li>Java</li>
+<li>Kotlin</li>
+<li>Swift</li>
+<li>AWS</li>
+<li>Kubernetes</li>
+</ul>
+<h2>Preferred problems</h2>
+<p>Examples:</p>
+<ul>
+<li>API design;</li>
+<li>performance;</li>
+<li>developer tooling;</li>
+<li>data pipelines;</li>
+<li>payments;</li>
+<li>security;</li>
+<li>accessibility;</li>
+<li>platform reliability;</li>
+<li>mobile applications;</li>
+<li>distributed systems;</li>
+<li>product engineering;</li>
+<li>internal tools.</li>
+</ul>
+<h2>Work preferences</h2>
+<p>Examples:</p>
+<ul>
+<li>remote within the United States;</li>
+<li>remote across North America;</li>
+<li>hybrid in Chicago;</li>
+<li>contract work;</li>
+<li>full-time only;</li>
+<li>individual-contributor roles;</li>
+<li>management;</li>
+<li>startup teams;</li>
+<li>enterprise environments;</li>
+<li>open-source companies.</li>
+</ul>
+<h2>Exclusions</h2>
+<p>Examples:</p>
+<ul>
+<li>no relocation;</li>
+<li>no agency contracting;</li>
+<li>no management roles;</li>
+<li>no unpaid trial work;</li>
+<li>no on-call-heavy positions;</li>
+<li>no roles requiring frequent travel.</li>
+</ul>
+<p>This definition becomes the foundation for the rest of the profile.</p>
+<h1>Use a recognizable professional title</h1>
+<p>Your internal title may not match the language employers search for.</p>
+<p>A company might call you:</p>
+<ul>
+<li>Software Craftsperson III</li>
+<li>Technical Member of Staff</li>
+<li>Product Builder</li>
+<li>Application Specialist</li>
+<li>Solutions Developer</li>
+<li>Digital Engineer</li>
+<li>Technology Consultant</li>
+</ul>
+<p>Those titles may be meaningful internally but weak in search.</p>
+<p>Keep the accurate employer title in your experience section, but use a recognizable market title in your headline or summary when appropriate.</p>
+<p>For example:</p>
+<blockquote>
+<p>Senior Backend Engineer specializing in Go, PostgreSQL, and distributed services</p>
+</blockquote>
+<p>or:</p>
+<blockquote>
+<p>Staff Platform Engineer focused on Kubernetes, developer infrastructure, and reliability</p>
+</blockquote>
+<p>Do not inflate your level.</p>
+<p>Translate unusual terminology without misrepresenting your responsibility.</p>
+<h1>Write a headline that earns the click</h1>
+<p>The headline is one of the highest-value sections of your profile.</p>
+<p>It may appear:</p>
+<ul>
+<li>in search results;</li>
+<li>beside your name;</li>
+<li>in recommendations;</li>
+<li>in recruiter dashboards;</li>
+<li>in messages;</li>
+<li>in profile previews.</li>
+</ul>
+<p>A weak headline wastes this space.</p>
+<h2>Weak headline</h2>
+<blockquote>
+<p>Software Engineer at Acme Corporation</p>
+</blockquote>
+<p>This tells the reader your employer and a broad category.</p>
+<p>It does not explain:</p>
+<ul>
+<li>frontend or backend;</li>
+<li>technology;</li>
+<li>seniority;</li>
+<li>specialization;</li>
+<li>availability;</li>
+<li>preferred work.</li>
+</ul>
+<h2>Stronger headline structure</h2>
+<p>Use:</p>
+<blockquote>
+<p>[Recognizable role] · [Core technologies or specialty] · [Optional preference or outcome]</p>
+</blockquote>
+<p>Examples:</p>
+<blockquote>
+<p>Senior Backend Engineer · Go, PostgreSQL, distributed systems · Open to remote roles</p>
+</blockquote>
+<blockquote>
+<p>Frontend Product Engineer · React, TypeScript, accessibility, design systems</p>
+</blockquote>
+<blockquote>
+<p>Data Engineer · Python, SQL, Airflow, Snowflake · Batch and streaming pipelines</p>
+</blockquote>
+<blockquote>
+<p>iOS Engineer · Swift, SwiftUI, mobile performance · Remote US</p>
+</blockquote>
+<blockquote>
+<p>Junior Full-Stack Developer · React, Node.js, PostgreSQL · Open to entry-level roles</p>
+</blockquote>
+<blockquote>
+<p>Engineering Manager · Developer platforms, team growth, remote leadership</p>
+</blockquote>
+<p>Your headline should describe what you want to be hired to do next, provided it remains truthful to your experience.</p>
+<h1>Avoid headline keyword overload</h1>
+<p>A headline such as this is difficult to trust:</p>
+<blockquote>
+<p>Senior Staff Full-Stack Cloud DevOps AI Blockchain React Node Python Java AWS Azure GCP Engineer</p>
+</blockquote>
+<p>It signals breadth without focus.</p>
+<p>Choose the strongest identity.</p>
+<p>You can include additional skills elsewhere.</p>
+<h1>Write a summary that answers three questions</h1>
+<p>Your summary should help the reader understand:</p>
+<ol>
+<li>What do you do?</li>
+<li>What evidence supports that?</li>
+<li>What do you want next?</li>
+</ol>
+<p>Three to five short paragraphs are usually enough.</p>
+<h1>Paragraph one: explain what you do</h1>
+<p>Be concrete.</p>
+<p>Weak:</p>
+<blockquote>
+<p>Passionate software engineer with a proven track record of delivering innovative solutions in fast-paced environments.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>I am a backend engineer focused on TypeScript, PostgreSQL, and API design. I usually work on transaction-heavy systems where correctness, observability, and reliable failure handling matter.</p>
+</blockquote>
+<p>Another example:</p>
+<blockquote>
+<p>I build accessible frontend products with React and TypeScript. My work usually sits at the intersection of design systems, complex application state, performance, and customer-facing workflows.</p>
+</blockquote>
+<p>This immediately gives the reader a technical frame.</p>
+<h1>Paragraph two: provide evidence</h1>
+<p>Include one or two outcomes.</p>
+<p>For example:</p>
+<blockquote>
+<p>At Acme, I redesigned the subscription-entitlement service, reduced duplicate billing events through idempotency controls, and improved p95 API latency from approximately 700 ms to 180 ms.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>I led the migration of a legacy dashboard into a shared React design system, reduced duplicated component code, and improved keyboard and screen-reader behavior across the primary account workflow.</p>
+</blockquote>
+<p>Evidence converts claims into credibility.</p>
+<h1>Paragraph three: explain what you want</h1>
+<p>This helps recruiters decide whether contacting you makes sense.</p>
+<p>Example:</p>
+<blockquote>
+<p>I am interested in senior backend roles at product-focused teams where I can own services from design through production. I am open to remote positions within the United States and am not currently pursuing engineering-management roles.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>I am looking for a junior frontend or full-stack role with regular code review and mentorship. I am especially interested in developer tools, education, and accessibility-focused products.</p>
+</blockquote>
+<p>This filters irrelevant messages without preventing unexpected opportunities.</p>
+<h1>Write in first person</h1>
+<p>First person usually sounds more direct and human.</p>
+<p>Prefer:</p>
+<blockquote>
+<p>I build backend services for data-heavy products.</p>
+</blockquote>
+<p>Avoid:</p>
+<blockquote>
+<p>Alex is a results-oriented technology professional with a passion for excellence.</p>
+</blockquote>
+<p>Third-person summaries often sound like generic corporate biographies.</p>
+<h1>Remove empty adjectives</h1>
+<p>Words such as these add little without evidence:</p>
+<ul>
+<li>passionate;</li>
+<li>innovative;</li>
+<li>dynamic;</li>
+<li>results-driven;</li>
+<li>highly motivated;</li>
+<li>visionary;</li>
+<li>world-class;</li>
+<li>strategic;</li>
+<li>detail-oriented;</li>
+<li>collaborative;</li>
+<li>hard-working.</li>
+</ul>
+<p>You may genuinely possess these qualities.</p>
+<p>Demonstrate them through work.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Highly collaborative engineer</p>
+</blockquote>
+<p>write:</p>
+<blockquote>
+<p>Coordinated an API migration across product, mobile, support, and platform teams while maintaining backward compatibility for older clients.</p>
+</blockquote>
+<h1>Name technologies precisely</h1>
+<p>Search systems and human reviewers recognize specific terms.</p>
+<p>Prefer:</p>
+<ul>
+<li>TypeScript</li>
+<li>React</li>
+<li>Next.js</li>
+<li>PostgreSQL</li>
+<li>Kubernetes</li>
+<li>Amazon Web Services</li>
+<li>AWS</li>
+<li>GraphQL</li>
+<li>REST APIs</li>
+<li>OpenTelemetry</li>
+</ul>
+<p>Avoid replacing specific technology names with vague categories such as:</p>
+<ul>
+<li>modern web tools;</li>
+<li>cloud technologies;</li>
+<li>database systems;</li>
+<li>frontend frameworks;</li>
+<li>backend development.</li>
+</ul>
+<p>Use both the full name and common abbreviation when helpful.</p>
+<p>For example:</p>
+<blockquote>
+<p>Amazon Web Services (AWS)</p>
+</blockquote>
+<p>or:</p>
+<blockquote>
+<p>Continuous integration and continuous delivery (CI/CD)</p>
+</blockquote>
+<p>Do not repeat every term unnaturally.</p>
+<p>Place them where they belong.</p>
+<h1>Build a focused skills section</h1>
+<p>Your skills section should represent the work you can discuss and want to perform.</p>
+<p>A useful grouping may include:</p>
+<h2>Languages</h2>
+<ul>
+<li>TypeScript</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>SQL</li>
+</ul>
+<h2>Frontend</h2>
+<ul>
+<li>React</li>
+<li>Next.js</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Tailwind CSS</li>
+<li>Accessibility</li>
+</ul>
+<h2>Backend</h2>
+<ul>
+<li>Node.js</li>
+<li>REST APIs</li>
+<li>GraphQL</li>
+<li>Authentication</li>
+<li>Background jobs</li>
+</ul>
+<h2>Data</h2>
+<ul>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Data modeling</li>
+<li>Query optimization</li>
+</ul>
+<h2>Infrastructure and tools</h2>
+<ul>
+<li>AWS</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>GitHub Actions</li>
+<li>OpenTelemetry</li>
+<li>Git</li>
+</ul>
+<p>This is clearer than a single list of fifty unrelated terms.</p>
+<h1>Order skills by the work you want</h1>
+<p>The first skills a recruiter sees should reflect your target role.</p>
+<p>A developer applying for backend roles should not lead with Photoshop because they used it several years ago.</p>
+<p>A frontend engineer interested in accessibility should not bury it below a long list of minor packages.</p>
+<p>Order skills by:</p>
+<ol>
+<li>relevance;</li>
+<li>strength;</li>
+<li>recency;</li>
+<li>target-role importance.</li>
+</ol>
+<h1>Remove skills you cannot defend</h1>
+<p>Do not list a technology merely because:</p>
+<ul>
+<li>you completed one tutorial;</li>
+<li>you watched a course;</li>
+<li>another teammate used it;</li>
+<li>it appears in job descriptions;</li>
+<li>an AI tool added it to your profile.</li>
+</ul>
+<p>Assume an interviewer may ask:</p>
+<ul>
+<li>Where did you use it?</li>
+<li>What did you build?</li>
+<li>What problems did you encounter?</li>
+<li>What would you do differently?</li>
+<li>How strong are you with it today?</li>
+</ul>
+<p>Honest skill lists build trust.</p>
+<h1>Turn experience into evidence</h1>
+<p>A profile should not simply reproduce the responsibilities from your job description.</p>
+<p>Weak experience bullet:</p>
+<blockquote>
+<p>Responsible for developing backend services.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Built and operated Node.js services supporting account provisioning for more than 40,000 customer organizations.</p>
+</blockquote>
+<p>Weak:</p>
+<blockquote>
+<p>Worked with PostgreSQL databases.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Reduced a reporting query from 18 seconds to under two seconds by redesigning indexes and removing repeated joins across historical records.</p>
+</blockquote>
+<p>Weak:</p>
+<blockquote>
+<p>Participated in code reviews.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Reviewed backend and database changes across a six-engineer team and introduced a pull-request checklist covering migrations, observability, failure behavior, and rollback.</p>
+</blockquote>
+<h1>Use an impact-oriented bullet structure</h1>
+<p>A useful pattern is:</p>
+<blockquote>
+<p>[Action] + [system or problem] + [technical approach] + [result or significance]</p>
+</blockquote>
+<p>Examples:</p>
+<blockquote>
+<p>Reduced image-processing costs by 31% by moving duplicate transformations into a content-addressed cache.</p>
+</blockquote>
+<blockquote>
+<p>Designed a permission model for multi-organization accounts using PostgreSQL row-level rules and service-side authorization tests.</p>
+</blockquote>
+<blockquote>
+<p>Migrated the deployment pipeline from manual releases to GitHub Actions, reducing average release preparation from 45 minutes to under ten.</p>
+</blockquote>
+<blockquote>
+<p>Built an offline synchronization workflow for field technicians using local persistence, retry queues, and conflict detection.</p>
+</blockquote>
+<blockquote>
+<p>Introduced automated accessibility checks and manual keyboard testing across the checkout flow, resolving 23 high-priority issues before launch.</p>
+</blockquote>
+<h1>Use numbers carefully</h1>
+<p>Metrics make work more concrete when they are truthful and meaningful.</p>
+<p>Useful numbers may include:</p>
+<ul>
+<li>latency;</li>
+<li>cost;</li>
+<li>users;</li>
+<li>transactions;</li>
+<li>deployment frequency;</li>
+<li>incident rate;</li>
+<li>failure rate;</li>
+<li>test time;</li>
+<li>build time;</li>
+<li>support volume;</li>
+<li>adoption;</li>
+<li>revenue impact;</li>
+<li>hours saved;</li>
+<li>team size;</li>
+<li>storage volume.</li>
+</ul>
+<p>Examples:</p>
+<blockquote>
+<p>Cut p95 response time from 1.2 seconds to 280 milliseconds.</p>
+</blockquote>
+<blockquote>
+<p>Reduced monthly infrastructure spend by approximately $4,000.</p>
+</blockquote>
+<blockquote>
+<p>Supported more than 3 million API requests per day.</p>
+</blockquote>
+<blockquote>
+<p>Automated a manual reconciliation workflow that previously required eight staff hours per week.</p>
+</blockquote>
+<p>Do not invent precision.</p>
+<p>Use language such as:</p>
+<ul>
+<li>approximately;</li>
+<li>about;</li>
+<li>more than;</li>
+<li>fewer than;</li>
+<li>roughly;</li>
+</ul>
+<p>when exact figures are unavailable.</p>
+<h1>Explain scale without exaggerating</h1>
+<p>Not every developer works on billions of events.</p>
+<p>Scale can also mean:</p>
+<ul>
+<li>complex business rules;</li>
+<li>high correctness requirements;</li>
+<li>regulated data;</li>
+<li>many integrations;</li>
+<li>international users;</li>
+<li>small teams with broad ownership;</li>
+<li>long-lived systems;</li>
+<li>accessibility requirements;</li>
+<li>offline use;</li>
+<li>operational constraints.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>Owned a scheduling service used by 120 clinics where duplicate or missing events could affect patient appointments.</p>
+</blockquote>
+<p>That is meaningful even without internet-scale traffic.</p>
+<h1>Clarify your individual contribution</h1>
+<p>Team outcomes matter, but recruiters need to understand what you did.</p>
+<p>Use “I” in summaries and clear verbs in experience bullets.</p>
+<p>For team projects, explain:</p>
+<ul>
+<li>what you owned;</li>
+<li>which decisions you made;</li>
+<li>which systems you implemented;</li>
+<li>how you collaborated;</li>
+<li>what the team achieved.</li>
+</ul>
+<p>Avoid claiming credit for the entire organization.</p>
+<p>Example:</p>
+<blockquote>
+<p>As part of a four-engineer team, I owned the database migration, backward-compatible API changes, and deployment monitoring for the account-merging project.</p>
+</blockquote>
+<h1>Show more than implementation</h1>
+<p>Engineering roles often include work beyond writing feature code.</p>
+<p>Include relevant evidence of:</p>
+<ul>
+<li>architecture;</li>
+<li>debugging;</li>
+<li>incident response;</li>
+<li>mentoring;</li>
+<li>hiring;</li>
+<li>documentation;</li>
+<li>accessibility;</li>
+<li>security;</li>
+<li>performance;</li>
+<li>product discovery;</li>
+<li>cross-team coordination;</li>
+<li>technical leadership;</li>
+<li>customer communication.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>Wrote the incident review and implemented idempotency controls after a retry race caused duplicate payment events.</p>
+</blockquote>
+<p>This demonstrates operational ownership.</p>
+<h1>Add projects that strengthen your target identity</h1>
+<p>Projects are especially valuable for:</p>
+<ul>
+<li>junior developers;</li>
+<li>career changers;</li>
+<li>open-source contributors;</li>
+<li>freelancers;</li>
+<li>developers moving into a new specialty;</li>
+<li>candidates whose professional work is confidential.</li>
+</ul>
+<p>A strong project entry should include:</p>
+<ul>
+<li>what it does;</li>
+<li>who it serves;</li>
+<li>your contribution;</li>
+<li>core technologies;</li>
+<li>live link;</li>
+<li>source link;</li>
+<li>meaningful outcome;</li>
+<li>one technical challenge.</li>
+</ul>
+<h2>Weak project entry</h2>
+<blockquote>
+<p>Task app built with React.</p>
+</blockquote>
+<h2>Stronger project entry</h2>
+<blockquote>
+<p>Built and deployed a multi-organization task platform using React, Node.js, and PostgreSQL. Implemented invitation flows, role-based permissions, optimistic updates, and authorization tests. Redesigned the membership model after early users needed access to more than one organization.</p>
+</blockquote>
+<p>The second entry gives the reader something to evaluate.</p>
+<h1>Choose quality over project quantity</h1>
+<p>Three strong projects are better than twenty unfinished repositories.</p>
+<p>Feature projects that demonstrate:</p>
+<ul>
+<li>completion;</li>
+<li>judgment;</li>
+<li>deployment;</li>
+<li>documentation;</li>
+<li>testing;</li>
+<li>iteration;</li>
+<li>user feedback;</li>
+<li>meaningful complexity.</li>
+</ul>
+<p>Remove or de-emphasize:</p>
+<ul>
+<li>tutorial clones;</li>
+<li>broken demos;</li>
+<li>repositories with no explanation;</li>
+<li>copied code you cannot discuss;</li>
+<li>abandoned experiments that dilute stronger work.</li>
+</ul>
+<h1>Write useful project documentation</h1>
+<p>A hiring manager should be able to understand your project without contacting you.</p>
+<p>Include:</p>
+<ul>
+<li>purpose;</li>
+<li>users;</li>
+<li>architecture;</li>
+<li>key features;</li>
+<li>setup;</li>
+<li>testing;</li>
+<li>deployment;</li>
+<li>trade-offs;</li>
+<li>limitations;</li>
+<li>future improvements;</li>
+<li>screenshots or demo.</li>
+</ul>
+<p>A clear README is also evidence of asynchronous communication.</p>
+<h1>Link to the work that proves your claims</h1>
+<p>Useful links may include:</p>
+<ul>
+<li>GitHub;</li>
+<li>personal website;</li>
+<li>portfolio;</li>
+<li>live applications;</li>
+<li>open-source contributions;</li>
+<li>package registries;</li>
+<li>technical articles;</li>
+<li>talks;</li>
+<li>conference recordings;</li>
+<li>case studies.</li>
+</ul>
+<p>Do not make recruiters search for them.</p>
+<p>Place the strongest links where they are easy to see.</p>
+<h1>Curate your GitHub profile</h1>
+<p>A public GitHub profile can support your professional profile, but only when curated.</p>
+<p>Check:</p>
+<ul>
+<li>pinned repositories;</li>
+<li>repository descriptions;</li>
+<li>README quality;</li>
+<li>working demo links;</li>
+<li>license information where relevant;</li>
+<li>test instructions;</li>
+<li>recent dependency issues;</li>
+<li>exposed secrets;</li>
+<li>unfinished placeholder content.</li>
+</ul>
+<p>Archive repositories that create confusion.</p>
+<p>You do not need to hide your learning history, but your best work should appear first.</p>
+<h1>Do not manufacture contribution activity</h1>
+<p>A dense green contribution graph does not prove ability.</p>
+<p>Avoid:</p>
+<ul>
+<li>meaningless commits;</li>
+<li>automated noise;</li>
+<li>daily README edits created only to appear active;</li>
+<li>splitting one change into dozens of artificial commits.</li>
+</ul>
+<p>A smaller history of real work is more credible.</p>
+<h1>Add technical writing when it supports your profile</h1>
+<p>You do not need to become a content creator.</p>
+<p>A few thoughtful pieces can provide strong evidence.</p>
+<p>Possible topics include:</p>
+<ul>
+<li>a difficult bug;</li>
+<li>an architecture decision;</li>
+<li>a migration;</li>
+<li>an accessibility improvement;</li>
+<li>a performance investigation;</li>
+<li>lessons from a failed approach;</li>
+<li>a tool you built;</li>
+<li>an incident review;</li>
+<li>how you learned a technology.</li>
+</ul>
+<p>A useful article demonstrates:</p>
+<ul>
+<li>technical understanding;</li>
+<li>written communication;</li>
+<li>reflection;</li>
+<li>willingness to share knowledge.</li>
+</ul>
+<p>Two strong posts per year can be more valuable than frequent shallow updates.</p>
+<h1>Use a clear, current profile photo when appropriate</h1>
+<p>A profile photo can make a professional page feel more complete and recognizable.</p>
+<p>Use an image that is:</p>
+<ul>
+<li>current;</li>
+<li>clear;</li>
+<li>well lit;</li>
+<li>centered;</li>
+<li>appropriate to the platform;</li>
+<li>visually simple.</li>
+</ul>
+<p>You do not need:</p>
+<ul>
+<li>professional studio photography;</li>
+<li>formal clothing;</li>
+<li>an artificial office background;</li>
+<li>heavy editing.</li>
+</ul>
+<p>Avoid:</p>
+<ul>
+<li>group photos;</li>
+<li>distant full-body images;</li>
+<li>outdated photos;</li>
+<li>distracting filters;</li>
+<li>unclear crops.</li>
+</ul>
+<p>Where a photo is optional and you prefer not to use one, focus on making the remaining profile information complete.</p>
+<h1>Make location and remote preferences explicit</h1>
+<p>Location affects whether recruiters can hire you.</p>
+<p>Include:</p>
+<ul>
+<li>city or region;</li>
+<li>country;</li>
+<li>time zone;</li>
+<li>remote preference;</li>
+<li>relocation preference;</li>
+<li>work authorization when appropriate.</li>
+</ul>
+<p>Examples:</p>
+<blockquote>
+<p>Chicago, Illinois · US Central Time · Open to remote US roles</p>
+</blockquote>
+<blockquote>
+<p>Berlin, Germany · UTC+1/UTC+2 · Open to EU remote positions</p>
+</blockquote>
+<blockquote>
+<p>Toronto, Canada · Open to hybrid or remote roles · No relocation</p>
+</blockquote>
+<blockquote>
+<p>Remote within the United States · Available for four hours of Pacific Time overlap</p>
+</blockquote>
+<p>Do not share a street address.</p>
+<h1>Clarify employment preferences</h1>
+<p>You may specify whether you are interested in:</p>
+<ul>
+<li>full-time;</li>
+<li>part-time;</li>
+<li>contract;</li>
+<li>contract-to-hire;</li>
+<li>freelance;</li>
+<li>internship;</li>
+<li>apprenticeship;</li>
+<li>individual-contributor;</li>
+<li>management.</li>
+</ul>
+<p>This reduces irrelevant outreach.</p>
+<p>Example:</p>
+<blockquote>
+<p>Open to senior individual-contributor roles. Not currently considering engineering management or short-term contract work.</p>
+</blockquote>
+<h1>State availability carefully</h1>
+<p>You may use language such as:</p>
+<ul>
+<li>open to opportunities;</li>
+<li>actively interviewing;</li>
+<li>casually exploring;</li>
+<li>available from a specific date;</li>
+<li>not currently looking;</li>
+<li>open to exceptional roles.</li>
+</ul>
+<p>Keep it current.</p>
+<p>An “actively looking” status left unchanged for two years makes the profile appear abandoned.</p>
+<h1>Make it easy to contact you</h1>
+<p>Provide a professional contact path.</p>
+<p>Options may include:</p>
+<ul>
+<li>platform messaging;</li>
+<li>professional email;</li>
+<li>contact form;</li>
+<li>scheduling link where appropriate.</li>
+</ul>
+<p>Do not publish unnecessary personal details such as:</p>
+<ul>
+<li>home address;</li>
+<li>personal phone number;</li>
+<li>government identifiers;</li>
+<li>private social accounts.</li>
+</ul>
+<p>Check your message requests and spam folder while job searching.</p>
+<h1>Use a professional email address</h1>
+<p>Prefer an address based on your name or established professional identity.</p>
+<p>Examples:</p>
+<ul>
+<li><a href="mailto:alex.goretoy@example.com">alex.goretoy@example.com</a></li>
+<li><a href="mailto:alex@alexgoretoy.dev">alex@alexgoretoy.dev</a></li>
+</ul>
+<p>Avoid addresses that may look unserious or be difficult to dictate.</p>
+<p>Also ensure that:</p>
+<ul>
+<li>the inbox works;</li>
+<li>storage is not full;</li>
+<li>your display name is correct;</li>
+<li>the signature is current;</li>
+<li>replies do not come from an unrelated alias.</li>
+</ul>
+<h1>Keep dates accurate</h1>
+<p>Your profile and résumé should agree on:</p>
+<ul>
+<li>employer names;</li>
+<li>job titles;</li>
+<li>start dates;</li>
+<li>end dates;</li>
+<li>education;</li>
+<li>project timing.</li>
+</ul>
+<p>Minor differences in formatting are fine.</p>
+<p>Contradictions create doubt.</p>
+<p>Career gaps are common.</p>
+<p>You do not need to hide them through misleading dates.</p>
+<p>Where useful, you can add a concise explanation such as:</p>
+<ul>
+<li>caregiving leave;</li>
+<li>study;</li>
+<li>independent consulting;</li>
+<li>health leave;</li>
+<li>travel;</li>
+<li>job search;</li>
+<li>personal projects.</li>
+</ul>
+<p>Disclose only what you are comfortable sharing.</p>
+<h1>Explain career changes clearly</h1>
+<p>A career changer should connect previous experience to engineering.</p>
+<p>Example:</p>
+<blockquote>
+<p>Before moving into software development, I spent six years in logistics operations. That experience shapes how I build workflow tools, handle exceptions, and communicate with nontechnical users.</p>
+</blockquote>
+<p>This turns previous work into relevant context.</p>
+<h1>Adjust the profile for your career level</h1>
+<h1>Junior developers</h1>
+<p>Emphasize:</p>
+<ul>
+<li>projects;</li>
+<li>learning;</li>
+<li>internships;</li>
+<li>open source;</li>
+<li>transferable experience;</li>
+<li>deployed work;</li>
+<li>testing;</li>
+<li>problem solving;</li>
+<li>target role.</li>
+</ul>
+<p>Sample headline:</p>
+<blockquote>
+<p>Junior Full-Stack Developer · React, TypeScript, Node.js, PostgreSQL · Open to entry-level roles</p>
+</blockquote>
+<p>Sample summary:</p>
+<blockquote>
+<p>I am a junior full-stack developer building TypeScript applications with React, Node.js, and PostgreSQL. My strongest project is a multi-user scheduling platform with authentication, organization permissions, automated tests, and a public deployment.</p>
+<p>Before moving into development, I worked in healthcare operations, where I learned to document workflows, investigate errors, and communicate with users under time pressure.</p>
+<p>I am looking for a junior role with regular code review and mentorship, ideally on a product team building practical tools for customers.</p>
+</blockquote>
+<h1>Mid-level developers</h1>
+<p>Emphasize:</p>
+<ul>
+<li>independent feature ownership;</li>
+<li>production systems;</li>
+<li>debugging;</li>
+<li>delivery;</li>
+<li>cross-functional work;</li>
+<li>measurable outcomes.</li>
+</ul>
+<p>Sample headline:</p>
+<blockquote>
+<p>Software Engineer · TypeScript, React, Node.js, PostgreSQL · Product features end to end</p>
+</blockquote>
+<h1>Senior developers</h1>
+<p>Emphasize:</p>
+<ul>
+<li>system ownership;</li>
+<li>ambiguity;</li>
+<li>architecture;</li>
+<li>mentoring;</li>
+<li>incidents;</li>
+<li>cross-team influence;</li>
+<li>business outcomes.</li>
+</ul>
+<p>Sample headline:</p>
+<blockquote>
+<p>Senior Backend Engineer · Go, PostgreSQL, event-driven systems · Reliability and payments</p>
+</blockquote>
+<h1>Staff and principal engineers</h1>
+<p>Emphasize:</p>
+<ul>
+<li>organizational scope;</li>
+<li>multi-team initiatives;</li>
+<li>technical strategy;</li>
+<li>long-term architecture;</li>
+<li>influence;</li>
+<li>migrations;</li>
+<li>risk reduction;</li>
+<li>leadership without direct authority.</li>
+</ul>
+<p>Sample headline:</p>
+<blockquote>
+<p>Staff Platform Engineer · Developer infrastructure, Kubernetes, observability · Multi-team technical leadership</p>
+</blockquote>
+<h1>Engineering managers</h1>
+<p>Emphasize:</p>
+<ul>
+<li>team size;</li>
+<li>hiring;</li>
+<li>promotions;</li>
+<li>performance management;</li>
+<li>delivery;</li>
+<li>organizational change;</li>
+<li>technical credibility;</li>
+<li>cross-functional partnership.</li>
+</ul>
+<p>Sample headline:</p>
+<blockquote>
+<p>Engineering Manager · Developer platforms · Team growth, delivery systems, remote leadership</p>
+</blockquote>
+<h1>Create role-specific profile variants</h1>
+<p>You may have experience suitable for several roles.</p>
+<p>Do not present all possibilities with equal weight.</p>
+<p>A full-stack developer interested primarily in backend work should lead with backend evidence.</p>
+<p>You may maintain different versions of:</p>
+<ul>
+<li>summary;</li>
+<li>résumé;</li>
+<li>project order;</li>
+<li>portfolio landing page;</li>
+<li>application message.</li>
+</ul>
+<p>Do not create contradictory identities.</p>
+<p>Change emphasis, not facts.</p>
+<h1>Use the language of your target market</h1>
+<p>Different markets may use different terms.</p>
+<p>Examples:</p>
+<ul>
+<li>résumé versus CV;</li>
+<li>software engineer versus software developer;</li>
+<li>vacation versus annual leave;</li>
+<li>remote US versus remote EMEA;</li>
+<li>401(k) versus pension;</li>
+<li>contractor versus freelancer.</li>
+</ul>
+<p>Use terminology familiar to the employers you are targeting.</p>
+<p>For international searches, consider providing:</p>
+<ul>
+<li>English profile;</li>
+<li>local-language profile;</li>
+<li>translated project descriptions;</li>
+<li>clear time-zone information.</li>
+</ul>
+<p>Do not rely on automatic translation for technical claims without reviewing the result.</p>
+<h1>Build for search without keyword stuffing</h1>
+<p>A healthy profile may naturally repeat important terms across:</p>
+<ul>
+<li>headline;</li>
+<li>summary;</li>
+<li>skills;</li>
+<li>job experience;</li>
+<li>project descriptions.</li>
+</ul>
+<p>For example, a backend profile may mention PostgreSQL in:</p>
+<ul>
+<li>headline;</li>
+<li>current-role bullet;</li>
+<li>project description;</li>
+<li>skills section.</li>
+</ul>
+<p>That is normal.</p>
+<p>Keyword stuffing looks like this:</p>
+<blockquote>
+<p>PostgreSQL expert PostgreSQL developer PostgreSQL backend PostgreSQL database PostgreSQL engineer.</p>
+</blockquote>
+<p>It damages readability and credibility.</p>
+<p>Write for humans first while ensuring the correct terms are present.</p>
+<h1>Review job descriptions for keyword alignment</h1>
+<p>Collect ten to twenty job postings that match your target.</p>
+<p>Record recurring terms.</p>
+<p>For example, senior backend roles may repeatedly mention:</p>
+<ul>
+<li>API design;</li>
+<li>PostgreSQL;</li>
+<li>distributed systems;</li>
+<li>observability;</li>
+<li>cloud infrastructure;</li>
+<li>testing;</li>
+<li>incident response;</li>
+<li>mentoring;</li>
+<li>system ownership.</li>
+</ul>
+<p>Compare these terms with your profile.</p>
+<p>Ask:</p>
+<ul>
+<li>Which capabilities do I actually have?</li>
+<li>Which are missing only because I used different wording?</li>
+<li>Which should appear in my headline?</li>
+<li>Which belong in experience bullets?</li>
+<li>Which do I not yet possess?</li>
+</ul>
+<p>Add accurate language.</p>
+<p>Do not copy requirements you cannot support.</p>
+<h1>Make the ten-second skim work</h1>
+<p>A recruiter opening your profile should quickly see:</p>
+<ul>
+<li>target title;</li>
+<li>seniority;</li>
+<li>core skills;</li>
+<li>location;</li>
+<li>availability;</li>
+<li>one or two impact signals;</li>
+<li>recent role;</li>
+<li>links to proof.</li>
+</ul>
+<p>Review the top of your profile at normal screen size.</p>
+<p>Ask:</p>
+<blockquote>
+<p>Can someone understand my professional identity without scrolling?</p>
+</blockquote>
+<p>If not, improve:</p>
+<ul>
+<li>headline;</li>
+<li>summary opening;</li>
+<li>skills order;</li>
+<li>current-role description;</li>
+<li>location;</li>
+<li>contact information.</li>
+</ul>
+<h1>Remove visual and textual clutter</h1>
+<p>A professional profile should be easy to scan.</p>
+<p>Avoid:</p>
+<ul>
+<li>long unbroken paragraphs;</li>
+<li>enormous technology lists;</li>
+<li>decorative symbols in every line;</li>
+<li>excessive capitalization;</li>
+<li>repeated buzzwords;</li>
+<li>unrelated personal details;</li>
+<li>several competing calls to action;</li>
+<li>outdated roles described in more detail than recent ones.</li>
+</ul>
+<p>Use:</p>
+<ul>
+<li>short paragraphs;</li>
+<li>clear sections;</li>
+<li>concise bullets;</li>
+<li>relevant links;</li>
+<li>consistent dates;</li>
+<li>readable formatting.</li>
+</ul>
+<h1>Protect confidential information</h1>
+<p>Do not reveal:</p>
+<ul>
+<li>source code owned by an employer;</li>
+<li>customer identities without permission;</li>
+<li>internal architecture diagrams;</li>
+<li>security vulnerabilities;</li>
+<li>private metrics;</li>
+<li>unreleased products;</li>
+<li>credentials;</li>
+<li>proprietary datasets;</li>
+<li>incident details that remain confidential.</li>
+</ul>
+<p>You can describe work in generalized terms.</p>
+<p>Example:</p>
+<blockquote>
+<p>Redesigned a payment-event workflow for a subscription platform processing millions of annual transactions.</p>
+</blockquote>
+<p>You do not need to identify confidential customers or expose internal implementation details.</p>
+<h1>Verify every public claim</h1>
+<p>Be prepared to explain:</p>
+<ul>
+<li>metrics;</li>
+<li>system scale;</li>
+<li>technologies;</li>
+<li>ownership;</li>
+<li>team outcomes;</li>
+<li>job titles;</li>
+<li>employment dates.</li>
+</ul>
+<p>Avoid:</p>
+<ul>
+<li>claiming team accomplishments as individual work;</li>
+<li>inflating titles;</li>
+<li>presenting a prototype as a production system;</li>
+<li>calling yourself an expert in every listed skill;</li>
+<li>implying that generated code proves independent ability.</li>
+</ul>
+<p>Credibility compounds.</p>
+<p>So does inconsistency.</p>
+<h1>Keep your profile and résumé aligned</h1>
+<p>The profile can contain more detail than the résumé, but the central story should match.</p>
+<p>Check:</p>
+<ul>
+<li>headline and target role;</li>
+<li>employer names;</li>
+<li>job dates;</li>
+<li>titles;</li>
+<li>technologies;</li>
+<li>major achievements;</li>
+<li>education;</li>
+<li>location;</li>
+<li>links.</li>
+</ul>
+<p>A recruiter may compare them before contacting you.</p>
+<h1>Keep the profile updated while employed</h1>
+<p>Do not wait until a layoff, resignation, or urgent search.</p>
+<p>Every few months:</p>
+<ul>
+<li>add meaningful accomplishments;</li>
+<li>update skills;</li>
+<li>remove obsolete tools;</li>
+<li>fix broken links;</li>
+<li>update project screenshots;</li>
+<li>review your summary;</li>
+<li>confirm work preferences;</li>
+<li>add new writing or talks;</li>
+<li>verify contact information.</li>
+</ul>
+<p>Updating gradually produces better detail than trying to remember three years of work during a stressful job search.</p>
+<h1>Maintain a private achievement log</h1>
+<p>Keep a private record of:</p>
+<ul>
+<li>projects;</li>
+<li>metrics;</li>
+<li>technical decisions;</li>
+<li>incidents;</li>
+<li>feedback;</li>
+<li>mentoring;</li>
+<li>launches;</li>
+<li>improvements;</li>
+<li>promotions;</li>
+<li>customer outcomes.</li>
+</ul>
+<p>Record enough context to write truthful profile bullets later.</p>
+<p>Do not store confidential company information in an insecure personal system.</p>
+<p>A simple entry might include:</p>
+<ul>
+<li>problem;</li>
+<li>your role;</li>
+<li>action;</li>
+<li>technology;</li>
+<li>result;</li>
+<li>approved public wording.</li>
+</ul>
+<h1>Shape recruiter outreach through specificity</h1>
+<p>A vague profile may attract more messages but lower relevance.</p>
+<p>A precise profile can produce fewer, better conversations.</p>
+<p>Consider stating:</p>
+<ul>
+<li>target role;</li>
+<li>preferred technologies;</li>
+<li>employment type;</li>
+<li>work location;</li>
+<li>level;</li>
+<li>industries of interest;</li>
+<li>excluded arrangements.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>Interested in senior backend or platform roles using Go, TypeScript, or Rust. Remote US only. Not pursuing management, relocation, or short-term agency contracts.</p>
+</blockquote>
+<p>Some recruiters will ignore preferences.</p>
+<p>Many will not.</p>
+<p>The profile still improves the filtering process.</p>
+<h1>Decide how public you want the search to be</h1>
+<p>Depending on your situation, you may choose:</p>
+<ul>
+<li>publicly open to work;</li>
+<li>visible only to recruiters;</li>
+<li>no explicit status;</li>
+<li>targeted outreach only.</li>
+</ul>
+<p>Consider:</p>
+<ul>
+<li>current employer policies;</li>
+<li>professional relationships;</li>
+<li>privacy;</li>
+<li>urgency;</li>
+<li>desired message volume.</li>
+</ul>
+<p>You can still improve searchability without announcing an active job search publicly.</p>
+<h1>Use activity strategically</h1>
+<p>You do not need to post daily.</p>
+<p>Useful activity may include:</p>
+<ul>
+<li>sharing a technical lesson;</li>
+<li>commenting thoughtfully on engineering discussions;</li>
+<li>publishing a project update;</li>
+<li>writing a short case study;</li>
+<li>congratulating teammates;</li>
+<li>participating in open source;</li>
+<li>answering a useful technical question.</li>
+</ul>
+<p>Avoid turning your profile into a stream of generic motivational content unrelated to your work.</p>
+<p>Consistency and relevance matter more than frequency.</p>
+<h1>Review privacy and security settings</h1>
+<p>Check:</p>
+<ul>
+<li>who can see your email;</li>
+<li>who can message you;</li>
+<li>whether your employer sees activity;</li>
+<li>whether contact details are public;</li>
+<li>whether uploaded documents expose personal information;</li>
+<li>whether portfolio projects contain secrets;</li>
+<li>whether location details are more precise than necessary.</li>
+</ul>
+<p>Do not publish:</p>
+<ul>
+<li>full home address;</li>
+<li>date of birth;</li>
+<li>government identification;</li>
+<li>bank information;</li>
+<li>private phone number unless intentional;</li>
+<li>confidential employment documents.</li>
+</ul>
+<h1>Watch for recruiter and job scams</h1>
+<p>A discoverable profile may attract fraudulent contact.</p>
+<p>Warning signs include:</p>
+<ul>
+<li>offers without interviews;</li>
+<li>unusually high compensation for vague work;</li>
+<li>communication only through encrypted chat;</li>
+<li>personal email domains;</li>
+<li>requests to pay for equipment;</li>
+<li>checks sent for purchases;</li>
+<li>requests for banking details before a legitimate offer;</li>
+<li>requests for identity documents unusually early;</li>
+<li>cloned company websites;</li>
+<li>recruiters who cannot be verified.</li>
+</ul>
+<p>Verify:</p>
+<ul>
+<li>company domain;</li>
+<li>recruiter identity;</li>
+<li>careers page;</li>
+<li>official job listing;</li>
+<li>public company presence.</li>
+</ul>
+<p>Never pay to receive a job.</p>
+<h1>Use AI tools carefully when improving your profile</h1>
+<p>AI can help you:</p>
+<ul>
+<li>shorten text;</li>
+<li>organize sections;</li>
+<li>identify vague phrases;</li>
+<li>generate alternative headlines;</li>
+<li>improve grammar;</li>
+<li>turn notes into draft bullets;</li>
+<li>compare your profile with job descriptions.</li>
+</ul>
+<p>You remain responsible for every claim.</p>
+<p>Do not allow an AI tool to:</p>
+<ul>
+<li>invent metrics;</li>
+<li>add technologies you have not used;</li>
+<li>inflate your level;</li>
+<li>fabricate leadership;</li>
+<li>expose confidential information;</li>
+<li>transform team work into individual ownership.</li>
+</ul>
+<p>A useful process is:</p>
+<ol>
+<li>Write factual notes.</li>
+<li>Ask AI to organize them.</li>
+<li>Verify every sentence.</li>
+<li>restore your natural voice;</li>
+<li>Remove exaggeration.</li>
+<li>Confirm confidentiality.</li>
+</ol>
+<h1>Ask another person to perform the ten-second test</h1>
+<p>Give your profile to:</p>
+<ul>
+<li>a developer;</li>
+<li>hiring manager;</li>
+<li>recruiter;</li>
+<li>mentor;</li>
+<li>trusted peer.</li>
+</ul>
+<p>Ask them to look for ten seconds and then answer:</p>
+<ul>
+<li>What kind of developer am I?</li>
+<li>What level do I appear to be?</li>
+<li>Which technologies do I use?</li>
+<li>What problems do I solve?</li>
+<li>What role do I want?</li>
+<li>Where can I work?</li>
+<li>What evidence stood out?</li>
+</ul>
+<p>Their answers reveal what your profile actually communicates.</p>
+<h1>Audit searchability</h1>
+<p>Search your profile text for the terms associated with your target role.</p>
+<p>For example, a senior backend engineer might expect to find:</p>
+<ul>
+<li>Senior Backend Engineer</li>
+<li>API design</li>
+<li>PostgreSQL</li>
+<li>distributed systems</li>
+<li>observability</li>
+<li>AWS</li>
+<li>testing</li>
+<li>production</li>
+<li>incident response</li>
+<li>mentoring</li>
+</ul>
+<p>A mobile developer might expect:</p>
+<ul>
+<li>iOS or Android</li>
+<li>Swift or Kotlin</li>
+<li>SwiftUI or Jetpack Compose</li>
+<li>App Store or Google Play</li>
+<li>mobile performance</li>
+<li>offline behavior</li>
+<li>crash reporting</li>
+<li>accessibility</li>
+<li>release management</li>
+</ul>
+<p>Add only terms that truthfully describe your work.</p>
+<h1>A complete profile structure</h1>
+<p>A useful developer profile may follow this order:</p>
+<h2>Name</h2>
+<p>Use the professional name you consistently use across applications.</p>
+<h2>Headline</h2>
+<p>State role, specialty, technologies, and relevant preference.</p>
+<h2>Location and work preference</h2>
+<p>Include city or region, time zone, remote status, and relocation preference.</p>
+<h2>Summary</h2>
+<p>Explain:</p>
+<ul>
+<li>what you do;</li>
+<li>evidence;</li>
+<li>what you want.</li>
+</ul>
+<h2>Core skills</h2>
+<p>Group and order relevant skills.</p>
+<h2>Experience</h2>
+<p>Use impact-focused bullets.</p>
+<h2>Featured projects</h2>
+<p>Show proof of work.</p>
+<h2>Education and training</h2>
+<p>Include relevant degrees, courses, apprenticeships, or certifications.</p>
+<h2>Open source and community work</h2>
+<p>Include meaningful contributions.</p>
+<h2>Writing and talks</h2>
+<p>Add technical communication evidence.</p>
+<h2>Links and contact</h2>
+<p>Make the next step easy.</p>
+<h1>Sample backend developer profile</h1>
+<h2>Headline</h2>
+<blockquote>
+<p>Senior Backend Engineer · TypeScript, PostgreSQL, distributed services · Remote US</p>
+</blockquote>
+<h2>Summary</h2>
+<blockquote>
+<p>I build backend systems for subscription and marketplace products using TypeScript, Node.js, PostgreSQL, and AWS. My strongest work is in API design, data integrity, background processing, observability, and production debugging.</p>
+<p>At Acme, I redesigned the entitlement service used by more than 30,000 customer accounts, reduced duplicate events through idempotency controls, and cut p95 response time from approximately 900 ms to 240 ms.</p>
+<p>I am interested in senior individual-contributor roles where I can own services from design through production. I am open to remote US positions and am not currently pursuing engineering management.</p>
+</blockquote>
+<h2>Skills</h2>
+<ul>
+<li>TypeScript</li>
+<li>Node.js</li>
+<li>PostgreSQL</li>
+<li>REST APIs</li>
+<li>GraphQL</li>
+<li>Redis</li>
+<li>AWS</li>
+<li>Docker</li>
+<li>OpenTelemetry</li>
+<li>GitHub Actions</li>
+</ul>
+<h1>Sample frontend developer profile</h1>
+<h2>Headline</h2>
+<blockquote>
+<p>Frontend Product Engineer · React, TypeScript, accessibility, design systems</p>
+</blockquote>
+<h2>Summary</h2>
+<blockquote>
+<p>I build accessible web applications with React and TypeScript, with a focus on complex product workflows, design systems, performance, and reliable state management.</p>
+<p>I recently led the migration of a customer dashboard into a shared component system, reduced duplicated interface code, and improved keyboard and screen-reader support across the primary account flows.</p>
+<p>I am interested in senior frontend or product-engineering roles at teams that treat accessibility and design quality as engineering responsibilities.</p>
+</blockquote>
+<h1>Sample junior developer profile</h1>
+<h2>Headline</h2>
+<blockquote>
+<p>Junior Full-Stack Developer · React, TypeScript, Node.js, PostgreSQL · Open to entry-level roles</p>
+</blockquote>
+<h2>Summary</h2>
+<blockquote>
+<p>I am a junior full-stack developer building and deploying TypeScript applications with React, Node.js, and PostgreSQL.</p>
+<p>My primary project is a multi-organization scheduling platform with account authentication, role-based permissions, automated tests, and a public deployment. I redesigned the membership model after early users needed access to several organizations.</p>
+<p>Before moving into software development, I worked in operations, where I gained experience documenting workflows, investigating errors, and communicating with nontechnical users. I am looking for a junior role with code review, mentorship, and meaningful production work.</p>
+</blockquote>
+<h1>Profile checklist</h1>
+<p>Before publishing or updating your profile, confirm that:</p>
+<ul>
+<li>your headline identifies a recognizable role;</li>
+<li>your primary technologies are named;</li>
+<li>your target seniority is accurate;</li>
+<li>your location and work preferences are clear;</li>
+<li>the first summary paragraph explains what you do;</li>
+<li>the summary contains evidence;</li>
+<li>the summary states what you want next;</li>
+<li>experience bullets describe outcomes;</li>
+<li>metrics are truthful;</li>
+<li>skills are ordered by relevance;</li>
+<li>weak or obsolete skills are removed;</li>
+<li>projects include working links;</li>
+<li>project descriptions explain your contribution;</li>
+<li>GitHub repositories are curated;</li>
+<li>dates match your résumé;</li>
+<li>your photo is current where used;</li>
+<li>contact information works;</li>
+<li>private information is protected;</li>
+<li>no confidential company information is exposed;</li>
+<li>spelling and formatting are consistent;</li>
+<li>your availability status is current.</li>
+</ul>
+<h1>Ten-second skim checklist</h1>
+<p>At the top of the profile, a reader should be able to identify:</p>
+<ul>
+<li>role;</li>
+<li>level;</li>
+<li>specialty;</li>
+<li>primary technologies;</li>
+<li>location;</li>
+<li>remote preference;</li>
+<li>one credibility signal;</li>
+<li>availability.</li>
+</ul>
+<p>If one of these is missing, decide whether it should be added.</p>
+<h1>Quarterly maintenance checklist</h1>
+<p>Every three months:</p>
+<ul>
+<li>update your current role;</li>
+<li>add one meaningful achievement;</li>
+<li>review skills;</li>
+<li>remove outdated preferences;</li>
+<li>test public links;</li>
+<li>update projects;</li>
+<li>check message settings;</li>
+<li>review the summary;</li>
+<li>verify availability;</li>
+<li>review privacy;</li>
+<li>compare the profile with current target roles.</li>
+</ul>
+<h1>Common profile mistakes</h1>
+<h2>Using only an employer title</h2>
+<p>The headline provides no searchable specialization.</p>
+<h2>Writing a summary full of adjectives</h2>
+<p>The reader sees claims without evidence.</p>
+<h2>Listing every technology ever touched</h2>
+<p>The profile loses focus and credibility.</p>
+<h2>Describing responsibilities instead of outcomes</h2>
+<p>The experience section looks interchangeable with every other candidate.</p>
+<h2>Hiding work preferences</h2>
+<p>Recruiters contact you for roles you cannot accept.</p>
+<h2>Leaving links broken</h2>
+<p>Proof of work becomes a negative signal.</p>
+<h2>Using inconsistent dates</h2>
+<p>The profile creates unnecessary doubt.</p>
+<h2>Claiming team work as personal ownership</h2>
+<p>Trust declines during the interview.</p>
+<h2>Waiting until an emergency to update</h2>
+<p>Important achievements are forgotten.</p>
+<h2>Posting constantly without substance</h2>
+<p>Activity creates noise rather than credibility.</p>
+<h2>Copying AI-generated language without review</h2>
+<p>The profile sounds generic or contains invented claims.</p>
+<h1>Phrases to remove</h1>
+<p>Replace phrases such as:</p>
+<ul>
+<li>passionate developer;</li>
+<li>coding ninja;</li>
+<li>results-driven professional;</li>
+<li>team player;</li>
+<li>strategic thinker;</li>
+<li>hard worker;</li>
+<li>self-starter;</li>
+<li>dynamic environment;</li>
+<li>innovative solutions;</li>
+<li>excellent communicator;</li>
+<li>extensive experience;</li>
+<li>proven track record;</li>
+<li>cutting-edge technologies.</li>
+</ul>
+<p>Replace them with evidence.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Excellent communicator</p>
+</blockquote>
+<p>write:</p>
+<blockquote>
+<p>Wrote implementation proposals and asynchronous handoffs for a team working across four time zones.</p>
+</blockquote>
+<p>Instead of:</p>
+<blockquote>
+<p>Results-driven engineer</p>
+</blockquote>
+<p>write:</p>
+<blockquote>
+<p>Reduced deployment failures by 38% after introducing pre-release validation and rollback checks.</p>
+</blockquote>
+<h1>The takeaway</h1>
+<p>A developer profile has two primary jobs:</p>
+<ol>
+<li>Appear in relevant searches.</li>
+<li>Give the reader enough confidence to contact you.</li>
+</ol>
+<p>To accomplish both:</p>
+<ul>
+<li>choose a clear target identity;</li>
+<li>use a recognizable professional title;</li>
+<li>name technologies accurately;</li>
+<li>write a headline that communicates role and specialty;</li>
+<li>keep the summary short, specific, and human;</li>
+<li>include one or two concrete outcomes;</li>
+<li>state what you want next;</li>
+<li>turn responsibilities into evidence;</li>
+<li>order skills according to your target role;</li>
+<li>show projects and real work;</li>
+<li>make location and employment preferences clear;</li>
+<li>keep dates and claims accurate;</li>
+<li>protect confidential information;</li>
+<li>maintain the profile before the next urgent job search.</li>
+</ul>
+<p>The goal is not maximum visibility.</p>
+<p>It is <strong>relevant visibility</strong>.</p>
+<p>You do not need every recruiter to find you.</p>
+<p>You need the right hiring teams to understand what you can do, what you want to do next, and why beginning a conversation with you is worth their time.</p>
+<p><em>Ready to become easier for the right companies to discover? <a href="/auth/register?role=EMPLOYEE">Create a free developer profile on JobsList.dev</a>, present your skills and projects clearly, and connect directly with teams hiring technical talent.</em></p>
+5:["locale","el","d"]
+6:["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__?{\"locale\":\"el\",\"slug\":\"how-developers-should-set-up-a-profile-that-recruiters-actually-find\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","el","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Developers Should Set Up a Profile That Recruiters Actually Find\",\"description\":\"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam.\",\"datePublished\":\"2026-07-04T00:00:00.000Z\",\"inLanguage\":\"el\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How Developers Should Set Up a Profile That Recruiters Actually Find","date":"2026-07-04T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":32,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How Developers Should Set Up a Profile That Recruiters Actually Find | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How Developers Should Set Up a Profile That Recruiters Actually Find"}],["$","meta","15",{"property":"og:description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-04T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How Developers Should Set Up a Profile That Recruiters Actually Find"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+1:null

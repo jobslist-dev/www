@@ -1,46 +1,1567 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:Tdd3,<p>Posting a job and waiting is only half of sourcing. The strongest developers are frequently <em>passive</em> — happily employed and not scrolling job boards — which means the best candidates may never see your listing unless you go find them. Here&#39;s a practical guide to where technical talent actually is and how to reach them.</p>
-<h2>Active vs. passive candidates</h2>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:Td87f,<hr>
+<p>Finding great developers is not simply a matter of publishing a job and waiting for applications.</p>
+<p>Some excellent engineers are actively searching and will respond quickly to a clear, relevant opportunity. Others are employed, selective, and not browsing job boards every day. Many become open to a conversation only when the right role reaches them through a trusted platform, professional community, colleague, technical project, or thoughtful message.</p>
+<p>A strong sourcing strategy must therefore reach both:</p>
 <ul>
-<li><strong>Active candidates</strong> are looking now. Reach them with a great listing on the right board.</li>
-<li><strong>Passive candidates</strong> aren&#39;t looking but would move for the right opportunity. Reach them with targeted, personal outreach.</li>
+<li><strong>active candidates</strong> who are looking now;</li>
+<li><strong>passive candidates</strong> who may consider the right opportunity;</li>
+<li><strong>future candidates</strong> who are not ready today but could become strong hires later.</li>
 </ul>
-<p>A healthy pipeline uses both. Relying only on inbound applications limits you to whoever happens to be searching this week.</p>
-<h2>Post where developers gather</h2>
-<p>For inbound, fit beats reach. A developer-focused job board puts your role in front of an audience that&#39;s already technical, so your applications are more relevant and your screening load is lower. Pair that with job alerts — many strong candidates set up alerts and respond fast when a matching role appears.</p>
-<h2>Sources for passive candidates</h2>
-<p>When you want to go find people, the richest sources are where developers do their work and share it:</p>
+<p>The objective is not to collect the largest possible number of résumés.</p>
+<p>It is to build a reliable pipeline of people who:</p>
 <ul>
-<li><strong>Open-source communities.</strong> People whose contributions you admire are, by definition, people who can do the work.</li>
-<li><strong>Technical writing and talks.</strong> Bloggers and speakers signal depth and communication skill.</li>
-<li><strong>Professional networks.</strong> Your own team&#39;s networks are gold — referrals from engineers you trust convert well.</li>
-<li><strong>Communities of practice.</strong> Niche forums and groups around specific stacks or domains.</li>
+<li>have relevant skills or transferable ability;</li>
+<li>understand the opportunity;</li>
+<li>meet the practical requirements;</li>
+<li>are genuinely interested;</li>
+<li>can succeed in the role;</li>
+<li>receive a respectful hiring experience.</li>
 </ul>
-<h2>Write outreach that gets replies</h2>
-<p>Developers get a flood of generic recruiter spam and ignore almost all of it. To stand out:</p>
+<p>That requires more than one sourcing channel.</p>
+<p>It requires a deliberate system.</p>
+<h2>Start by defining who you are trying to find</h2>
+<p>Sourcing becomes ineffective when the role is vague.</p>
+<p>A request such as:</p>
+<blockquote>
+<p>Find us a senior full-stack developer.</p>
+</blockquote>
+<p>leaves too many unanswered questions.</p>
+<p>Before searching, clarify:</p>
 <ul>
-<li><strong>Be specific.</strong> Reference their actual work — a project, a talk, a contribution. Show you did your homework.</li>
-<li><strong>Be honest about the role.</strong> What&#39;s the problem, the stack, the level, the comp range?</li>
-<li><strong>Be brief and human.</strong> A short, genuine note beats a templated wall of buzzwords.</li>
-<li><strong>Respect their time.</strong> Make it easy to say &quot;not now&quot; and to reconnect later.</li>
+<li>What will the person build?</li>
+<li>Which problems will they own?</li>
+<li>What level of independence is required?</li>
+<li>Which technical competencies are essential?</li>
+<li>Which technologies can be learned?</li>
+<li>Is the role remote, hybrid, or on-site?</li>
+<li>Which locations are supported?</li>
+<li>What is the compensation range?</li>
+<li>Is work authorization or sponsorship available?</li>
+<li>What does success look like during the first year?</li>
+<li>Why would a strong developer leave another job for this one?</li>
 </ul>
-<h2>Build a referral habit</h2>
-<p>Your engineers know other good engineers. Make referrals easy and part of the culture — not a once-a-year campaign. Referred candidates tend to be higher-fit and faster to close. Just be careful that referrals don&#39;t narrow your team&#39;s diversity; pair them with broader sourcing.</p>
-<h2>Nurture a talent pipeline</h2>
-<p>Not everyone is available the moment you reach out. Keep a warm list of people you&#39;ve connected with and check back when the timing fits. Sourcing is a long game; the candidate who says &quot;not now&quot; may say &quot;yes&quot; in six months.</p>
+<p>A precise role creates a precise search.</p>
+<h2>Build a sourcing profile</h2>
+<p>A sourcing profile is a practical description of the person who could succeed in the role.</p>
+<p>It should include more than keywords.</p>
+<p>For example:</p>
+<h3>Role mission</h3>
+<p>Own and improve the backend services responsible for customer subscriptions, billing, and payment recovery.</p>
+<h3>Required capabilities</h3>
+<ul>
+<li>production backend development;</li>
+<li>API and relational data modeling;</li>
+<li>testing and debugging;</li>
+<li>reliability and error handling;</li>
+<li>clear technical communication;</li>
+<li>independent ownership appropriate to a senior engineer.</li>
+</ul>
+<h3>Transferable experience</h3>
+<p>Candidates may come from:</p>
+<ul>
+<li>payments;</li>
+<li>ecommerce;</li>
+<li>financial software;</li>
+<li>account management;</li>
+<li>SaaS billing;</li>
+<li>subscription platforms;</li>
+<li>other transactional systems.</li>
+</ul>
+<h3>Learnable tools</h3>
+<p>The company uses TypeScript, PostgreSQL, Redis, and AWS, but strong experience with comparable technologies may be acceptable.</p>
+<h3>Practical constraints</h3>
+<ul>
+<li>remote within supported countries;</li>
+<li>four hours of overlap with US Eastern Time;</li>
+<li>base salary of $150,000–$180,000;</li>
+<li>no current visa sponsorship.</li>
+</ul>
+<p>This profile gives recruiters, hiring managers, and sourcers a shared target.</p>
+<h2>Avoid searching for an impossible person</h2>
+<p>Many sourcing plans fail because the target is an unrealistic combination of:</p>
+<ul>
+<li>rare skills;</li>
+<li>extensive experience;</li>
+<li>low compensation;</li>
+<li>immediate availability;</li>
+<li>narrow location;</li>
+<li>perfect industry background;</li>
+<li>exact stack familiarity;</li>
+<li>leadership ability;</li>
+<li>willingness to accept limited scope.</li>
+</ul>
+<p>Review whether every requirement is genuinely necessary.</p>
+<p>Ask:</p>
+<ul>
+<li>Could a capable developer learn this tool?</li>
+<li>Could experience from another industry transfer?</li>
+<li>Is the level consistent with the salary?</li>
+<li>Is the location restriction essential?</li>
+<li>Are we combining several jobs into one?</li>
+<li>Would the role appeal to someone who already has these capabilities?</li>
+</ul>
+<p>A sourcing problem may actually be a role-design or compensation problem.</p>
+<h2>Understand active, passive, and future candidates</h2>
+<p>Different candidates require different approaches.</p>
+<h2>Active candidates</h2>
+<p>Active candidates are currently looking for work.</p>
+<p>They may be:</p>
+<ul>
+<li>browsing job boards;</li>
+<li>using search engines;</li>
+<li>setting job alerts;</li>
+<li>updating professional profiles;</li>
+<li>contacting former colleagues;</li>
+<li>applying directly to company career pages.</li>
+</ul>
+<p>They usually value:</p>
+<ul>
+<li>clear role descriptions;</li>
+<li>transparent compensation;</li>
+<li>fast applications;</li>
+<li>prompt responses;</li>
+<li>predictable interview timelines.</li>
+</ul>
+<p>The best way to reach them is through discoverable, relevant listings.</p>
+<h2>Passive candidates</h2>
+<p>Passive candidates are not actively applying but may consider a compelling opportunity.</p>
+<p>They may respond when the role offers:</p>
+<ul>
+<li>better technical scope;</li>
+<li>stronger compensation;</li>
+<li>more autonomy;</li>
+<li>remote flexibility;</li>
+<li>meaningful ownership;</li>
+<li>leadership opportunities;</li>
+<li>a more interesting problem;</li>
+<li>healthier working conditions;</li>
+<li>improved career growth.</li>
+</ul>
+<p>They are more likely to be reached through:</p>
+<ul>
+<li>targeted outreach;</li>
+<li>referrals;</li>
+<li>technical communities;</li>
+<li>public work;</li>
+<li>events;</li>
+<li>professional relationships;</li>
+<li>employer-brand content.</li>
+</ul>
+<p>Passive does not mean uninterested.</p>
+<p>It means the opportunity must earn their attention.</p>
+<h2>Future candidates</h2>
+<p>Some people are not ready to move now.</p>
+<p>They may be:</p>
+<ul>
+<li>finishing a major project;</li>
+<li>waiting for equity to vest;</li>
+<li>completing a degree;</li>
+<li>handling personal commitments;</li>
+<li>satisfied in their current role;</li>
+<li>interested but not yet qualified;</li>
+<li>living outside a supported region.</li>
+</ul>
+<p>A respectful relationship today may become a hire months or years later.</p>
+<p>Long-term sourcing treats “not now” as different from “never.”</p>
+<h2>Use a developer-focused job marketplace</h2>
+<p>A specialist technical job board can be one of the strongest sources of active candidates.</p>
+<p>Unlike broad platforms serving every profession, a developer-focused marketplace begins with an audience already interested in technical work.</p>
+<p>That can improve:</p>
+<ul>
+<li>candidate relevance;</li>
+<li>role discovery;</li>
+<li>salary matching;</li>
+<li>stack matching;</li>
+<li>remote-work filtering;</li>
+<li>seniority alignment;</li>
+<li>application quality;</li>
+<li>screening efficiency.</li>
+</ul>
+<p>The pool may be smaller than a generalist platform, but the percentage of relevant people can be substantially higher.</p>
+<h2>Publish enough information for self-selection</h2>
+<p>A listing should help candidates determine whether the role fits before they apply.</p>
+<p>Include:</p>
+<ul>
+<li>recognizable title;</li>
+<li>accurate level;</li>
+<li>role mission;</li>
+<li>concrete responsibilities;</li>
+<li>salary range;</li>
+<li>location;</li>
+<li>remote expectations;</li>
+<li>employment type;</li>
+<li>technology environment;</li>
+<li>required capabilities;</li>
+<li>optional experience;</li>
+<li>interview process;</li>
+<li>accommodations;</li>
+<li>expected timeline.</li>
+</ul>
+<p>Better self-selection reduces unsuitable applications and improves candidate trust.</p>
+<h2>Use job alerts</h2>
+<p>Many qualified developers do not browse listings every day.</p>
+<p>They rely on alerts for:</p>
+<ul>
+<li>role type;</li>
+<li>language;</li>
+<li>framework;</li>
+<li>location;</li>
+<li>remote status;</li>
+<li>seniority;</li>
+<li>compensation.</li>
+</ul>
+<p>Accurate classification helps your role reach them when it matches their preferences.</p>
+<p>A listing with vague categories or an inflated title may miss the right alerts.</p>
+<h2>Optimize your company profile</h2>
+<p>The job listing attracts initial attention.</p>
+<p>The company profile helps convert that attention into an application.</p>
+<p>Developers may want to know:</p>
+<ul>
+<li>what the company builds;</li>
+<li>who uses the product;</li>
+<li>what the engineering team owns;</li>
+<li>how technical decisions are made;</li>
+<li>how often software is deployed;</li>
+<li>how on-call works;</li>
+<li>whether engineers have autonomy;</li>
+<li>what the interview involves;</li>
+<li>whether the company is verified;</li>
+<li>what growth looks like.</li>
+</ul>
+<p>A complete profile reduces uncertainty, especially for companies without a famous brand.</p>
+<h2>Maintain a strong careers page</h2>
+<p>Your careers page should serve as the canonical source for open roles.</p>
+<p>It should provide:</p>
+<ul>
+<li>accurate listings;</li>
+<li>salary information;</li>
+<li>workplace expectations;</li>
+<li>engineering culture;</li>
+<li>benefits;</li>
+<li>interview guidance;</li>
+<li>accessibility information;</li>
+<li>privacy information;</li>
+<li>contact details.</li>
+</ul>
+<p>Make sure listings are:</p>
+<ul>
+<li>indexed by search engines;</li>
+<li>mobile-friendly;</li>
+<li>accessible;</li>
+<li>easy to share;</li>
+<li>removed or marked closed when filled;</li>
+<li>consistent with external job boards.</li>
+</ul>
+<p>Candidates may discover the role elsewhere but visit your website before applying.</p>
+<h2>Use employee referrals</h2>
+<p>Your current team may know excellent developers through:</p>
+<ul>
+<li>previous employers;</li>
+<li>open-source work;</li>
+<li>universities;</li>
+<li>professional communities;</li>
+<li>conferences;</li>
+<li>former clients;</li>
+<li>past collaborations.</li>
+</ul>
+<p>Referrals can provide:</p>
+<ul>
+<li>trusted introductions;</li>
+<li>stronger context;</li>
+<li>faster responses;</li>
+<li>access to passive candidates;</li>
+<li>better understanding of the opportunity.</li>
+</ul>
+<p>However, referrals should supplement broader sourcing rather than replace it.</p>
+<h2>Make referrals easy</h2>
+<p>Employees are more likely to refer people when they receive:</p>
+<ul>
+<li>a clear role summary;</li>
+<li>transparent compensation;</li>
+<li>a shareable link;</li>
+<li>examples of relevant profiles;</li>
+<li>a simple submission process;</li>
+<li>prompt updates;</li>
+<li>clarity about referral rewards.</li>
+</ul>
+<p>Do not ask:</p>
+<blockquote>
+<p>Do you know any developers?</p>
+</blockquote>
+<p>Ask something more specific:</p>
+<blockquote>
+<p>We are looking for a senior backend engineer who has owned transactional APIs, relational data, and production reliability. Experience in payments is helpful but not required. The role is remote in the United States and pays $150,000–$180,000.</p>
+</blockquote>
+<p>Specific requests generate better referrals.</p>
+<h2>Prevent referrals from narrowing the team</h2>
+<p>People’s professional networks often resemble their existing workplaces and backgrounds.</p>
+<p>To reduce overreliance on familiar networks:</p>
+<ul>
+<li>source through multiple channels;</li>
+<li>encourage employees to share roles broadly;</li>
+<li>use the same evaluation criteria for everyone;</li>
+<li>track where referrals originate;</li>
+<li>review whether the referral pool is too concentrated;</li>
+<li>do not bypass structured interviews.</li>
+</ul>
+<p>A referral should increase awareness, not lower the bar or create an insider-only process.</p>
+<h2>Reconnect with former candidates</h2>
+<p>Past applicants can become excellent future hires.</p>
+<p>Review candidates who:</p>
+<ul>
+<li>reached final interviews;</li>
+<li>were strong but not selected;</li>
+<li>fit another level;</li>
+<li>withdrew due to timing;</li>
+<li>declined an offer respectfully;</li>
+<li>lacked one learnable skill;</li>
+<li>were interested in future opportunities.</li>
+</ul>
+<p>Before contacting them, review:</p>
+<ul>
+<li>previous consent and privacy obligations;</li>
+<li>how long their data may be retained;</li>
+<li>whether the new role is genuinely relevant;</li>
+<li>what has changed since the previous process.</li>
+</ul>
+<p>A thoughtful message might say:</p>
+<blockquote>
+<p>We spoke last year about a backend role. Your experience with subscription systems stood out, but the position was filled before we could continue. We have now opened a senior billing-platform role with broader ownership and a base range of $155,000–$180,000. I wanted to ask whether the scope might be relevant now.</p>
+</blockquote>
+<p>This is more useful than placing every rejected applicant into an indefinite marketing list.</p>
+<h2>Reconnect with former employees</h2>
+<p>Former employees may return with:</p>
+<ul>
+<li>new skills;</li>
+<li>broader experience;</li>
+<li>stronger networks;</li>
+<li>deeper industry knowledge;</li>
+<li>renewed interest in the company.</li>
+</ul>
+<p>A healthy alumni network can support:</p>
+<ul>
+<li>rehires;</li>
+<li>referrals;</li>
+<li>partnerships;</li>
+<li>employer reputation;</li>
+<li>knowledge sharing.</li>
+</ul>
+<p>Do not assume every departure damaged the relationship.</p>
+<p>People leave for many reasonable reasons and may become stronger candidates later.</p>
+<h2>Find developers through open-source communities</h2>
+<p>Open-source work can reveal real technical activity.</p>
+<p>You may discover developers through:</p>
+<ul>
+<li>project maintainers;</li>
+<li>contributors;</li>
+<li>issue discussions;</li>
+<li>pull requests;</li>
+<li>documentation;</li>
+<li>release notes;</li>
+<li>community forums;</li>
+<li>package ecosystems.</li>
+</ul>
+<p>Open-source participation can provide evidence of:</p>
+<ul>
+<li>code quality;</li>
+<li>collaboration;</li>
+<li>communication;</li>
+<li>maintenance;</li>
+<li>technical judgment;</li>
+<li>ability to work in an existing codebase.</li>
+</ul>
+<h2>Do not treat open source as a free candidate database</h2>
+<p>Open-source communities exist to build and maintain software, not to receive recruiting spam.</p>
+<p>Engage respectfully.</p>
+<p>Good practices include:</p>
+<ul>
+<li>understanding the person’s contribution;</li>
+<li>contacting them through an appropriate professional channel;</li>
+<li>making the opportunity genuinely relevant;</li>
+<li>avoiding recruiting messages inside technical issue threads;</li>
+<li>respecting project community rules;</li>
+<li>not demanding free consulting;</li>
+<li>not assuming maintainers are available.</li>
+</ul>
+<p>A message should demonstrate that you reviewed the work.</p>
+<p>For example:</p>
+<blockquote>
+<p>I read your pull request improving retry behavior in the Atlas queue client. The way you handled duplicate delivery is closely related to a backend reliability role we are hiring for. The position owns transactional workflows in a TypeScript and PostgreSQL platform and has a base range of $150,000–$180,000. Would a brief overview be useful?</p>
+</blockquote>
+<h2>Look beyond the most visible maintainers</h2>
+<p>High-profile maintainers receive frequent outreach.</p>
+<p>Strong candidates may also include:</p>
+<ul>
+<li>consistent smaller contributors;</li>
+<li>documentation maintainers;</li>
+<li>test contributors;</li>
+<li>issue triagers;</li>
+<li>plugin authors;</li>
+<li>package maintainers;</li>
+<li>community moderators;</li>
+<li>developers building related tools.</li>
+</ul>
+<p>Contribution quality and relevance matter more than follower counts.</p>
+<h2>Review public work carefully</h2>
+<p>Public code can provide useful context, but it should not become a universal requirement.</p>
+<p>Many excellent developers:</p>
+<ul>
+<li>work only in private repositories;</li>
+<li>cannot disclose employer code;</li>
+<li>do not have time for side projects;</li>
+<li>have caregiving responsibilities;</li>
+<li>prefer not to build publicly;</li>
+<li>are restricted by employment agreements.</li>
+</ul>
+<p>Public work is one signal among many.</p>
+<p>Do not penalize candidates who lack it.</p>
+<h2>Find developers through technical writing</h2>
+<p>Technical articles can reveal:</p>
+<ul>
+<li>depth of understanding;</li>
+<li>ability to explain complex ideas;</li>
+<li>practical experience;</li>
+<li>reflection;</li>
+<li>communication;</li>
+<li>domain specialization.</li>
+</ul>
+<p>Sources may include:</p>
+<ul>
+<li>personal blogs;</li>
+<li>company engineering blogs;</li>
+<li>newsletters;</li>
+<li>technical publications;</li>
+<li>documentation;</li>
+<li>tutorials;</li>
+<li>research papers;</li>
+<li>conference summaries.</li>
+</ul>
+<p>Look for writing related to the role’s actual problems.</p>
+<p>A thoughtful article about database migrations may be more relevant to your search than a large social following.</p>
+<h2>Reach out based on substance</h2>
+<p>Do not send:</p>
+<blockquote>
+<p>I saw your blog and thought you would be perfect for an exciting opportunity.</p>
+</blockquote>
+<p>Reference the actual work.</p>
+<p>For example:</p>
+<blockquote>
+<p>Your article about zero-downtime PostgreSQL migrations described the exact rollback and compatibility issues our platform team is addressing. We are hiring a senior engineer to lead a multi-service schema migration and improve deployment safety. The role is remote within the United States with a base range of $160,000–$190,000.</p>
+</blockquote>
+<p>Specificity proves relevance.</p>
+<h2>Find developers through conference talks and meetups</h2>
+<p>Speakers and participants may demonstrate:</p>
+<ul>
+<li>technical expertise;</li>
+<li>communication;</li>
+<li>community engagement;</li>
+<li>leadership;</li>
+<li>curiosity;</li>
+<li>interest in a domain.</li>
+</ul>
+<p>Possible sources include:</p>
+<ul>
+<li>conference schedules;</li>
+<li>recorded talks;</li>
+<li>local meetups;</li>
+<li>virtual events;</li>
+<li>workshops;</li>
+<li>unconferences;</li>
+<li>hackathons;</li>
+<li>user groups.</li>
+</ul>
+<p>Do not focus only on keynote speakers.</p>
+<p>Organizers, workshop leaders, panel participants, and active attendees may also be excellent candidates.</p>
+<h2>Participate rather than only extract</h2>
+<p>A company that appears only when it needs candidates may struggle to build trust.</p>
+<p>Support communities through:</p>
+<ul>
+<li>sponsorship;</li>
+<li>venues;</li>
+<li>speakers;</li>
+<li>educational content;</li>
+<li>open-source contributions;</li>
+<li>mentoring;</li>
+<li>scholarships;</li>
+<li>practical workshops.</li>
+</ul>
+<p>Community participation should create real value, not disguise recruiting as education.</p>
+<h2>Find developers through professional communities</h2>
+<p>Developers gather in communities built around:</p>
+<ul>
+<li>languages;</li>
+<li>frameworks;</li>
+<li>cloud platforms;</li>
+<li>security;</li>
+<li>data engineering;</li>
+<li>mobile development;</li>
+<li>accessibility;</li>
+<li>game development;</li>
+<li>machine learning;</li>
+<li>open source;</li>
+<li>specific industries.</li>
+</ul>
+<p>These may exist on:</p>
+<ul>
+<li>forums;</li>
+<li>chat communities;</li>
+<li>social platforms;</li>
+<li>mailing lists;</li>
+<li>local groups;</li>
+<li>private professional networks.</li>
+</ul>
+<p>Before posting a role:</p>
+<ul>
+<li>read the community rules;</li>
+<li>use designated job channels;</li>
+<li>provide salary and location details;</li>
+<li>avoid repeated posting;</li>
+<li>do not direct-message members indiscriminately;</li>
+<li>contribute outside recruiting when appropriate.</li>
+</ul>
+<p>Trust is easier to lose than to build.</p>
+<h2>Use social platforms selectively</h2>
+<p>Social platforms can help distribute roles and identify technical professionals.</p>
+<p>Useful approaches include:</p>
+<ul>
+<li>sharing the role from the company account;</li>
+<li>asking engineers to share with context;</li>
+<li>publishing technical content;</li>
+<li>joining relevant conversations;</li>
+<li>highlighting real engineering work;</li>
+<li>using focused search;</li>
+<li>contacting people through professional messaging.</li>
+</ul>
+<p>Avoid turning every interaction into a recruiting pitch.</p>
+<p>A developer who follows your engineering content may become a candidate later.</p>
+<h2>Build an engineering content strategy</h2>
+<p>Technical content can attract candidates long before a role opens.</p>
+<p>Topics may include:</p>
+<ul>
+<li>architecture decisions;</li>
+<li>migrations;</li>
+<li>performance work;</li>
+<li>incident reviews;</li>
+<li>accessibility;</li>
+<li>developer tooling;</li>
+<li>testing;</li>
+<li>security;</li>
+<li>infrastructure;</li>
+<li>product-engineering trade-offs;</li>
+<li>lessons from failed approaches.</li>
+</ul>
+<p>Good engineering content answers:</p>
+<ul>
+<li>What problems does the team solve?</li>
+<li>How does it think?</li>
+<li>What does it care about?</li>
+<li>What could a developer learn there?</li>
+<li>Are engineers trusted to communicate publicly?</li>
+</ul>
+<p>One useful article can continue attracting candidates for years.</p>
+<h2>Be honest in technical content</h2>
+<p>Do not turn engineering writing into empty employer-brand promotion.</p>
+<p>Strong candidates notice when an article:</p>
+<ul>
+<li>avoids technical detail;</li>
+<li>exaggerates scale;</li>
+<li>hides every challenge;</li>
+<li>attributes everything to company brilliance;</li>
+<li>exists only to advertise jobs.</li>
+</ul>
+<p>The most credible content explains:</p>
+<ul>
+<li>constraints;</li>
+<li>trade-offs;</li>
+<li>mistakes;</li>
+<li>learning;</li>
+<li>unresolved challenges.</li>
+</ul>
+<p>Authenticity makes the company more attractive, not less.</p>
+<h2>Find developers through GitHub and public portfolios</h2>
+<p>Public portfolios may include:</p>
+<ul>
+<li>repositories;</li>
+<li>applications;</li>
+<li>design-engineering work;</li>
+<li>technical case studies;</li>
+<li>documentation;</li>
+<li>package contributions;</li>
+<li>project write-ups.</li>
+</ul>
+<p>Evaluate thoughtfully.</p>
+<p>Look for:</p>
+<ul>
+<li>clarity;</li>
+<li>problem selection;</li>
+<li>ownership;</li>
+<li>testing;</li>
+<li>documentation;</li>
+<li>maintainability;</li>
+<li>technical decisions;</li>
+<li>continued development.</li>
+</ul>
+<p>Do not use:</p>
+<ul>
+<li>star count;</li>
+<li>contribution graph color;</li>
+<li>repository quantity;</li>
+<li>follower count;</li>
+</ul>
+<p>as substitutes for ability.</p>
+<h2>Search by problem, not only technology</h2>
+<p>Searching for an exact framework may exclude strong transferable candidates.</p>
+<p>Instead of searching only for:</p>
+<blockquote>
+<p>React engineer</p>
+</blockquote>
+<p>consider the underlying capability:</p>
+<ul>
+<li>complex user interfaces;</li>
+<li>component architecture;</li>
+<li>accessibility;</li>
+<li>frontend performance;</li>
+<li>design systems;</li>
+<li>testing;</li>
+<li>browser behavior.</li>
+</ul>
+<p>A developer with strong Vue, Angular, or web-platform experience may become productive in React quickly.</p>
+<p>Similarly, a backend engineer with strong Java, Go, C#, or Python experience may transfer into another language when the fundamentals align.</p>
+<h2>Find candidates through universities</h2>
+<p>Universities can support hiring for:</p>
+<ul>
+<li>internships;</li>
+<li>apprenticeships;</li>
+<li>graduate roles;</li>
+<li>research-heavy positions;</li>
+<li>early-career engineering;</li>
+<li>specialized technical disciplines.</li>
+</ul>
+<p>Useful relationships may include:</p>
+<ul>
+<li>career centers;</li>
+<li>faculty;</li>
+<li>student organizations;</li>
+<li>capstone programs;</li>
+<li>research labs;</li>
+<li>hackathons;</li>
+<li>alumni groups;</li>
+<li>cooperative education programs.</li>
+</ul>
+<p>A campus strategy should begin before graduation season.</p>
+<h2>Evaluate potential, not professional polish</h2>
+<p>Early-career candidates may lack:</p>
+<ul>
+<li>commercial projects;</li>
+<li>polished résumés;</li>
+<li>interview experience;</li>
+<li>industry terminology.</li>
+</ul>
+<p>Evaluate:</p>
+<ul>
+<li>fundamentals;</li>
+<li>learning ability;</li>
+<li>projects;</li>
+<li>debugging;</li>
+<li>communication;</li>
+<li>curiosity;</li>
+<li>response to feedback;</li>
+<li>ability to complete scoped work.</li>
+</ul>
+<p>Do not apply senior-hire expectations to students and recent graduates.</p>
+<h2>Partner with bootcamps and apprenticeship programs</h2>
+<p>Strong programs may produce candidates with:</p>
+<ul>
+<li>practical project experience;</li>
+<li>career-change maturity;</li>
+<li>strong motivation;</li>
+<li>collaborative habits;</li>
+<li>rapid learning ability.</li>
+</ul>
+<p>Evaluate the individual rather than accepting or rejecting candidates based on the program’s brand.</p>
+<p>Ask programs about:</p>
+<ul>
+<li>curriculum;</li>
+<li>selection;</li>
+<li>assessment;</li>
+<li>employer partnerships;</li>
+<li>graduate support;</li>
+<li>accessibility;</li>
+<li>placement practices;</li>
+<li>outcome reporting.</li>
+</ul>
+<p>Consider structured apprenticeships that combine paid work, mentorship, and clear progression.</p>
+<h2>Build internal apprenticeship pathways</h2>
+<p>A company can develop technical talent from adjacent roles.</p>
+<p>Potential candidates may come from:</p>
+<ul>
+<li>technical support;</li>
+<li>quality assurance;</li>
+<li>implementation;</li>
+<li>data analysis;</li>
+<li>operations;</li>
+<li>design;</li>
+<li>customer engineering;</li>
+<li>IT;</li>
+<li>solutions consulting.</li>
+</ul>
+<p>These employees may already understand:</p>
+<ul>
+<li>the product;</li>
+<li>customers;</li>
+<li>internal systems;</li>
+<li>company culture;</li>
+<li>business constraints.</li>
+</ul>
+<p>With training and mentorship, internal mobility can create strong developers while improving retention.</p>
+<h2>Source from adjacent technical disciplines</h2>
+<p>Do not assume every developer has always held a developer title.</p>
+<p>Relevant candidates may include:</p>
+<ul>
+<li>QA automation engineers;</li>
+<li>site reliability engineers;</li>
+<li>data analysts;</li>
+<li>implementation engineers;</li>
+<li>solutions architects;</li>
+<li>technical support engineers;</li>
+<li>designers who code;</li>
+<li>researchers;</li>
+<li>system administrators;</li>
+<li>technical founders.</li>
+</ul>
+<p>Evaluate capability and trajectory, not title history alone.</p>
+<h2>Use specialized recruiting agencies selectively</h2>
+<p>An agency may help when:</p>
+<ul>
+<li>the role is difficult to fill;</li>
+<li>internal recruiting capacity is limited;</li>
+<li>confidentiality is required;</li>
+<li>the search is urgent;</li>
+<li>the market is unfamiliar;</li>
+<li>executive or highly specialized expertise is needed.</li>
+</ul>
+<p>Before engaging an agency, clarify:</p>
+<ul>
+<li>fees;</li>
+<li>exclusivity;</li>
+<li>candidate ownership;</li>
+<li>replacement guarantees;</li>
+<li>communication;</li>
+<li>screening standards;</li>
+<li>diversity strategy;</li>
+<li>data handling;</li>
+<li>authorization to submit candidates;</li>
+<li>whether compensation information is shared.</li>
+</ul>
+<p>An agency should complement the company’s hiring process, not obscure it.</p>
+<h2>Avoid duplicate outreach</h2>
+<p>When several agencies or internal recruiters contact the same person, the company appears disorganized.</p>
+<p>Use a shared system to track:</p>
+<ul>
+<li>candidate identity;</li>
+<li>source;</li>
+<li>contact owner;</li>
+<li>message history;</li>
+<li>response;</li>
+<li>consent;</li>
+<li>next follow-up date.</li>
+</ul>
+<p>Set rules preventing uncoordinated duplicate messages.</p>
+<h2>Write outreach developers will read</h2>
+<p>Developers receive large volumes of generic recruiting messages.</p>
+<p>The most effective outreach is:</p>
+<ul>
+<li>relevant;</li>
+<li>specific;</li>
+<li>brief;</li>
+<li>transparent;</li>
+<li>respectful.</li>
+</ul>
+<p>A useful message answers:</p>
+<ul>
+<li>Why are you contacting me?</li>
+<li>What is the role?</li>
+<li>What problem would I work on?</li>
+<li>What level is it?</li>
+<li>What does it pay?</li>
+<li>Where can I work?</li>
+<li>Why might my experience be relevant?</li>
+<li>What is the next step?</li>
+</ul>
+<h2>A practical outreach structure</h2>
+<h3>Subject</h3>
+<p>Use a clear subject rather than artificial urgency.</p>
+<p>Example:</p>
+<blockquote>
+<p>Senior backend role — subscription reliability and PostgreSQL</p>
+</blockquote>
+<h3>Opening</h3>
+<p>Reference relevant evidence.</p>
+<blockquote>
+<p>I read your write-up about designing idempotent payment workflows at Northlake.</p>
+</blockquote>
+<h3>Connection</h3>
+<p>Explain why it relates.</p>
+<blockquote>
+<p>We are rebuilding the services responsible for subscription retries and payment recovery, and your experience appears closely related.</p>
+</blockquote>
+<h3>Role summary</h3>
+<p>Provide concrete details.</p>
+<blockquote>
+<p>The position is a senior backend role using TypeScript and PostgreSQL, with long-term ownership of billing reliability.</p>
+</blockquote>
+<h3>Compensation and logistics</h3>
+<p>Be transparent.</p>
+<blockquote>
+<p>It is remote within the United States, with a base range of $155,000–$180,000.</p>
+</blockquote>
+<h3>Low-pressure next step</h3>
+<blockquote>
+<p>I can send the full role details here, and there is no pressure to schedule a call unless the scope is relevant.</p>
+</blockquote>
+<p>This is enough information for an informed response.</p>
+<h2>Avoid fake personalization</h2>
+<p>Replacing a name in a mass template is not meaningful personalization.</p>
+<p>Weak:</p>
+<blockquote>
+<p>I was impressed by your impressive background and think you would be perfect for our exciting opportunity.</p>
+</blockquote>
+<p>Strong:</p>
+<blockquote>
+<p>Your pull request addressing partial failures in the Orion SDK was relevant because this role owns similar retry and recovery problems.</p>
+</blockquote>
+<p>Use automation to organize outreach, not to manufacture false familiarity.</p>
+<h2>Be honest about why you chose the candidate</h2>
+<p>Do not say someone is a perfect fit after reading one profile.</p>
+<p>Use measured language:</p>
+<ul>
+<li>Your experience appears relevant.</li>
+<li>The project looks connected to our current work.</li>
+<li>Your background may align with the role.</li>
+<li>I thought the scope might be worth sharing.</li>
+</ul>
+<p>Overstated claims reduce trust.</p>
+<h2>Include compensation early</h2>
+<p>Leaving compensation out forces the candidate to invest time before learning whether the opportunity is viable.</p>
+<p>Include:</p>
+<ul>
+<li>base range;</li>
+<li>contract rate where applicable;</li>
+<li>currency;</li>
+<li>location adjustments;</li>
+<li>major bonus or equity structure when relevant.</li>
+</ul>
+<p>Transparency improves reply quality.</p>
+<h2>Keep the first message short</h2>
+<p>The first message is not the job description.</p>
+<p>Aim to provide enough information for the person to decide whether they want more.</p>
+<p>A concise note often performs better than:</p>
+<ul>
+<li>several paragraphs of company history;</li>
+<li>a long technology list;</li>
+<li>exaggerated mission statements;</li>
+<li>a request for an immediate call;</li>
+<li>repeated follow-ups.</li>
+</ul>
+<p>Link to a complete, accurate role page.</p>
+<h2>Give people a graceful way to decline</h2>
+<p>A respectful message might say:</p>
+<blockquote>
+<p>If the timing is not right, no response is required. I am also happy to reconnect later if the scope is relevant but the timing is not.</p>
+</blockquote>
+<p>Do not pressure people into explaining why they are not interested.</p>
+<h2>Follow up carefully</h2>
+<p>One or two relevant follow-ups may be reasonable.</p>
+<p>Avoid:</p>
+<ul>
+<li>messaging every day;</li>
+<li>contacting several personal accounts;</li>
+<li>sending guilt-based messages;</li>
+<li>pretending earlier messages were missed accidentally;</li>
+<li>continuing after a clear decline;</li>
+<li>using false deadlines.</li>
+</ul>
+<p>A follow-up should add information.</p>
+<p>For example:</p>
+<blockquote>
+<p>One additional detail that may be relevant: the company has now approved fully remote hiring across Canada, and the role includes staff-level scope rather than only feature delivery.</p>
+</blockquote>
+<h2>Respect communication boundaries</h2>
+<p>Use professional contact information when available.</p>
+<p>Do not:</p>
+<ul>
+<li>scrape private phone numbers;</li>
+<li>contact family members;</li>
+<li>message personal accounts repeatedly;</li>
+<li>bypass explicit preferences;</li>
+<li>continue after an opt-out;</li>
+<li>use sensitive personal information for personalization.</li>
+</ul>
+<p>Candidate sourcing should remain professional and proportionate.</p>
+<h2>Make outreach accessible</h2>
+<p>Use:</p>
+<ul>
+<li>plain language;</li>
+<li>readable formatting;</li>
+<li>descriptive links;</li>
+<li>concise paragraphs;</li>
+<li>clear role details.</li>
+</ul>
+<p>Avoid images containing essential text without an accessible alternative.</p>
+<p>Give candidates a way to request accommodations during the hiring process.</p>
+<h2>Build a referral and outreach cadence</h2>
+<p>Sourcing should not begin only when a role becomes urgent.</p>
+<p>A healthy cadence may include:</p>
+<ul>
+<li>weekly review of priority roles;</li>
+<li>monthly community engagement;</li>
+<li>regular alumni contact;</li>
+<li>quarterly referral reminders;</li>
+<li>ongoing technical content;</li>
+<li>periodic follow-up with warm prospects;</li>
+<li>continuous review of past finalists.</li>
+</ul>
+<p>The goal is to maintain relationships rather than repeatedly starting from zero.</p>
+<h2>Create a talent community carefully</h2>
+<p>A talent community may help people stay connected through:</p>
+<ul>
+<li>role alerts;</li>
+<li>engineering updates;</li>
+<li>event invitations;</li>
+<li>relevant articles;</li>
+<li>community programs.</li>
+</ul>
+<p>Participation should be:</p>
+<ul>
+<li>voluntary;</li>
+<li>clearly explained;</li>
+<li>easy to leave;</li>
+<li>respectful of privacy;</li>
+<li>relevant rather than promotional.</li>
+</ul>
+<p>Do not add candidates to marketing lists without appropriate permission.</p>
+<h2>Record useful sourcing context</h2>
+<p>For each prospect, store only information that is relevant and permitted.</p>
+<p>Useful fields may include:</p>
+<ul>
+<li>professional profile;</li>
+<li>relevant experience;</li>
+<li>source;</li>
+<li>role interest;</li>
+<li>location;</li>
+<li>compensation expectations when voluntarily provided;</li>
+<li>communication history;</li>
+<li>follow-up preference;</li>
+<li>consent and retention status.</li>
+</ul>
+<p>Avoid subjective or inappropriate notes.</p>
+<p>Weak:</p>
+<blockquote>
+<p>Seems old for this team.</p>
+</blockquote>
+<p>Appropriate:</p>
+<blockquote>
+<p>Candidate said the current role requires four hours of overlap with Central European Time; this opening requires six hours with Pacific Time.</p>
+</blockquote>
+<p>Notes should be factual and job-related.</p>
+<h2>Protect candidate data</h2>
+<p>Sourcing data may include personal information.</p>
+<p>Your process should address:</p>
+<ul>
+<li>lawful collection;</li>
+<li>consent where required;</li>
+<li>purpose limitation;</li>
+<li>access controls;</li>
+<li>retention;</li>
+<li>deletion;</li>
+<li>vendor handling;</li>
+<li>international transfers;</li>
+<li>security;</li>
+<li>candidate requests.</li>
+</ul>
+<p>Do not keep every profile indefinitely simply because someone might become relevant later.</p>
+<p>Coordinate with qualified privacy and legal advisors for the jurisdictions involved.</p>
+<h2>Use AI cautiously in sourcing</h2>
+<p>AI can assist with:</p>
+<ul>
+<li>generating search variations;</li>
+<li>summarizing public professional information;</li>
+<li>drafting messages;</li>
+<li>organizing prospects;</li>
+<li>identifying possible related experience;</li>
+<li>scheduling;</li>
+<li>reporting.</li>
+</ul>
+<p>AI should not independently determine who deserves an opportunity.</p>
+<p>Risks include:</p>
+<ul>
+<li>reproducing historical hiring bias;</li>
+<li>inferring sensitive attributes;</li>
+<li>overvaluing keywords;</li>
+<li>fabricating candidate information;</li>
+<li>generating misleading personalization;</li>
+<li>ranking candidates through opaque criteria.</li>
+</ul>
+<p>Human review remains essential.</p>
+<h2>Do not infer sensitive traits</h2>
+<p>Do not use sourcing systems to infer or target people based on sensitive characteristics unless a lawful, carefully governed purpose applies.</p>
+<p>Avoid inferring:</p>
+<ul>
+<li>health;</li>
+<li>disability;</li>
+<li>ethnicity;</li>
+<li>religion;</li>
+<li>sexual orientation;</li>
+<li>family status;</li>
+<li>political beliefs;</li>
+<li>age.</li>
+</ul>
+<p>Evaluate professional evidence relevant to the role.</p>
+<h2>Build inclusive search strategies</h2>
+<p>A narrow search may reproduce the composition of the existing team.</p>
+<p>Expand the search by:</p>
+<ul>
+<li>considering adjacent titles;</li>
+<li>including transferable technologies;</li>
+<li>reducing unnecessary degree requirements;</li>
+<li>removing prestige filters;</li>
+<li>searching different professional communities;</li>
+<li>including career changers;</li>
+<li>supporting remote or flexible work;</li>
+<li>publishing compensation;</li>
+<li>offering accessible interviews.</li>
+</ul>
+<p>Inclusion begins with who receives the opportunity to be considered.</p>
+<h2>Search for capabilities, not prestige</h2>
+<p>Avoid relying primarily on:</p>
+<ul>
+<li>famous company names;</li>
+<li>elite universities;</li>
+<li>highly visible projects;</li>
+<li>large social followings;</li>
+<li>previous titles.</li>
+</ul>
+<p>Look for evidence of:</p>
+<ul>
+<li>ownership;</li>
+<li>learning;</li>
+<li>problem-solving;</li>
+<li>production work;</li>
+<li>technical judgment;</li>
+<li>collaboration;</li>
+<li>relevant outcomes.</li>
+</ul>
+<p>Prestige can be context, but it should not become the search strategy.</p>
+<h2>Improve your employer brand</h2>
+<p>Candidates who receive outreach will research the company.</p>
+<p>They may review:</p>
+<ul>
+<li>product quality;</li>
+<li>engineering blog;</li>
+<li>employee profiles;</li>
+<li>public reviews;</li>
+<li>GitHub activity;</li>
+<li>compensation;</li>
+<li>leadership;</li>
+<li>layoffs;</li>
+<li>remote practices;</li>
+<li>interview reports;</li>
+<li>company stability.</li>
+</ul>
+<p>Your sourcing results depend partly on what they discover.</p>
+<p>A strong employer brand is built through:</p>
+<ul>
+<li>honest role descriptions;</li>
+<li>transparent compensation;</li>
+<li>credible leadership;</li>
+<li>respectful interviews;</li>
+<li>useful technical content;</li>
+<li>consistent employee experience;</li>
+<li>prompt candidate communication.</li>
+</ul>
+<p>Outreach cannot compensate indefinitely for a weak reputation.</p>
+<h2>Give engineers a visible voice</h2>
+<p>Candidates trust engineers discussing real work more than polished recruiting campaigns.</p>
+<p>Support employees who want to:</p>
+<ul>
+<li>write;</li>
+<li>speak;</li>
+<li>contribute to open source;</li>
+<li>join podcasts;</li>
+<li>teach workshops;</li>
+<li>attend meetups;</li>
+<li>explain architecture.</li>
+</ul>
+<p>Do not force participation or turn employees into unpaid recruiters.</p>
+<p>Create opportunities and support.</p>
+<h2>Make the role worth responding to</h2>
+<p>Sourcing cannot fix an unattractive opportunity.</p>
+<p>Strong candidates may ignore a role because of:</p>
+<ul>
+<li>below-market compensation;</li>
+<li>unclear ownership;</li>
+<li>excessive interview stages;</li>
+<li>mandatory relocation;</li>
+<li>misleading remote language;</li>
+<li>heavy on-call work;</li>
+<li>unstable leadership;</li>
+<li>poor product direction;</li>
+<li>vague responsibilities;</li>
+<li>lack of growth.</li>
+</ul>
+<p>Before increasing outreach volume, improve the role itself.</p>
+<h2>Coordinate recruiting and hiring managers</h2>
+<p>Sourcing works better when hiring managers provide:</p>
+<ul>
+<li>clear priorities;</li>
+<li>fast profile feedback;</li>
+<li>examples of relevant backgrounds;</li>
+<li>realistic flexibility;</li>
+<li>timely interview availability;</li>
+<li>accurate role details.</li>
+</ul>
+<p>Recruiters should not spend weeks searching while the hiring manager repeatedly changes the target.</p>
+<p>Set a review cadence.</p>
+<p>For example:</p>
+<ul>
+<li>review the first ten sourced profiles;</li>
+<li>identify false positives and missed patterns;</li>
+<li>adjust the search;</li>
+<li>confirm compensation and scope;</li>
+<li>repeat until alignment is stable.</li>
+</ul>
+<h2>Calibrate with sample profiles</h2>
+<p>Before launching a large campaign, review several hypothetical or public professional profiles.</p>
+<p>For each one, ask:</p>
+<ul>
+<li>Would this person likely succeed?</li>
+<li>Which evidence supports that view?</li>
+<li>Which uncertainty requires evaluation?</li>
+<li>Are we rejecting them only because the stack differs?</li>
+<li>Is the level appropriate?</li>
+<li>Would the role appeal to them?</li>
+</ul>
+<p>This exercise reveals hidden assumptions early.</p>
+<h2>Measure sourcing performance</h2>
+<p>Do not evaluate sourcing by messages sent or applications received alone.</p>
+<p>Track the full funnel.</p>
+<p>Useful metrics include:</p>
+<ul>
+<li>prospects identified;</li>
+<li>messages delivered;</li>
+<li>response rate;</li>
+<li>interested response rate;</li>
+<li>recruiter screens;</li>
+<li>qualified screens;</li>
+<li>technical interviews;</li>
+<li>final interviews;</li>
+<li>offers;</li>
+<li>accepted offers;</li>
+<li>candidate withdrawals;</li>
+<li>time to first qualified candidate;</li>
+<li>time to shortlist;</li>
+<li>cost per qualified candidate;</li>
+<li>source of hire;</li>
+<li>retention.</li>
+</ul>
+<h2>Separate response rate from positive response rate</h2>
+<p>A campaign may receive many replies that say no.</p>
+<p>Track:</p>
+<blockquote>
+<p>Response rate = all responses ÷ delivered messages</p>
+</blockquote>
+<p>and:</p>
+<blockquote>
+<p>Positive response rate = interested responses ÷ delivered messages</p>
+</blockquote>
+<p>A low response rate may indicate:</p>
+<ul>
+<li>poor deliverability;</li>
+<li>generic messages;</li>
+<li>incorrect contact details;</li>
+<li>weak subject lines.</li>
+</ul>
+<p>A high response rate but low positive response rate may indicate:</p>
+<ul>
+<li>compensation mismatch;</li>
+<li>unattractive role;</li>
+<li>irrelevant targeting;</li>
+<li>location restrictions;</li>
+<li>unclear scope.</li>
+</ul>
+<h2>Measure qualified conversion</h2>
+<p>A high positive response rate is not enough if candidates do not meet the requirements.</p>
+<p>Track:</p>
+<blockquote>
+<p>Qualified outreach conversion = qualified candidates entering the process ÷ delivered outreach messages</p>
+</blockquote>
+<p>This helps determine whether the search itself is accurate.</p>
+<h2>Measure source quality</h2>
+<p>For each source, track:</p>
+<ul>
+<li>qualified candidates;</li>
+<li>interviews;</li>
+<li>offers;</li>
+<li>acceptances;</li>
+<li>time-to-hire;</li>
+<li>retention;</li>
+<li>screening effort;</li>
+<li>candidate experience.</li>
+</ul>
+<p>A source producing fewer candidates may still be more valuable if those candidates progress further.</p>
+<h2>Measure recruiter and hiring-manager time</h2>
+<p>Sourcing cost includes:</p>
+<ul>
+<li>research;</li>
+<li>outreach;</li>
+<li>follow-up;</li>
+<li>screening;</li>
+<li>coordination;</li>
+<li>profile review;</li>
+<li>calibration.</li>
+</ul>
+<p>A channel should be evaluated by total effort, not only platform fees.</p>
+<h2>Track reasons for decline</h2>
+<p>Where candidates voluntarily share the reason, group responses such as:</p>
+<ul>
+<li>not looking;</li>
+<li>compensation;</li>
+<li>location;</li>
+<li>role scope;</li>
+<li>company stage;</li>
+<li>technology;</li>
+<li>management;</li>
+<li>timing;</li>
+<li>on-call;</li>
+<li>remote policy;</li>
+<li>accepted another role.</li>
+</ul>
+<p>Use trends to improve the opportunity.</p>
+<p>Do not pressure people to provide a reason.</p>
+<h2>Review message performance carefully</h2>
+<p>Compare variations in:</p>
+<ul>
+<li>subject line;</li>
+<li>length;</li>
+<li>compensation visibility;</li>
+<li>role specificity;</li>
+<li>personalization;</li>
+<li>call to action;</li>
+<li>sender;</li>
+<li>follow-up timing.</li>
+</ul>
+<p>Avoid optimizing messages purely to increase replies through manipulation.</p>
+<p>The goal is informed interest, not curiosity clicks.</p>
+<h2>Track time to shortlist</h2>
+<p>Define a viable shortlist, such as five candidates who meet the agreed screening criteria.</p>
+<p>Then measure:</p>
+<blockquote>
+<p>Time to shortlist = time from opening the role to identifying the target number of qualified candidates</p>
+</blockquote>
+<p>This is often more useful than raw application or outreach volume.</p>
+<h2>Build sourcing service levels</h2>
+<p>Set practical expectations.</p>
+<p>For example:</p>
+<table>
+<thead>
+<tr>
+<th>Activity</th>
+<th align="right">Target</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Hiring-manager feedback on sourced profiles</td>
+<td align="right">2 business days</td>
+</tr>
+<tr>
+<td>Candidate reply acknowledgment</td>
+<td align="right">1 business day</td>
+</tr>
+<tr>
+<td>Initial conversation scheduling</td>
+<td align="right">3 business days</td>
+</tr>
+<tr>
+<td>Post-screen decision</td>
+<td align="right">1 business day</td>
+</tr>
+<tr>
+<td>Candidate update during delays</td>
+<td align="right">Every 3 business days</td>
+</tr>
+<tr>
+<td>Data deletion request</td>
+<td align="right">Per documented privacy process</td>
+</tr>
+</tbody></table>
+<p>Fast follow-through matters.</p>
+<p>A strong prospect may lose interest when the company takes a week to respond after initiating contact.</p>
+<h2>Common sourcing mistakes</h2>
+<h2>Relying on one job board</h2>
+<p>No single channel reaches every relevant candidate.</p>
+<h2>Chasing maximum application volume</h2>
+<p>Large volumes can create screening cost without improving the shortlist.</p>
+<h2>Searching only exact technology keywords</h2>
+<p>Transferable developers are missed.</p>
+<h2>Targeting only famous companies</h2>
+<p>Prestige replaces evidence.</p>
+<h2>Sending generic mass outreach</h2>
+<p>Strong candidates recognize and ignore it.</p>
+<h2>Hiding compensation</h2>
+<p>Candidates cannot evaluate whether the conversation is worthwhile.</p>
+<h2>Contacting people repeatedly</h2>
+<p>Aggressive follow-up damages the employer brand.</p>
+<h2>Treating open-source communities as recruiting databases</h2>
+<p>Community trust is lost.</p>
+<h2>Failing to coordinate internal and agency outreach</h2>
+<p>Candidates receive duplicate or conflicting messages.</p>
+<h2>Ignoring past finalists</h2>
+<p>The company restarts every search from zero.</p>
+<h2>Collecting candidate data indefinitely</h2>
+<p>Privacy and trust risks increase.</p>
+<h2>Failing to fix the role</h2>
+<p>More sourcing cannot rescue unclear scope, weak compensation, or an excessive interview process.</p>
+<h2>Measuring only top-of-funnel activity</h2>
+<p>Messages and applications do not prove hiring value.</p>
+<h2>A balanced sourcing strategy</h2>
+<p>A healthy technical sourcing plan may combine:</p>
+<h3>Inbound</h3>
+<ul>
+<li>developer-focused marketplace;</li>
+<li>company careers page;</li>
+<li>job alerts;</li>
+<li>search-engine visibility;</li>
+<li>selected generalist platforms.</li>
+</ul>
+<h3>Relationship-based</h3>
+<ul>
+<li>employee referrals;</li>
+<li>alumni;</li>
+<li>former candidates;</li>
+<li>professional networks;</li>
+<li>customers and partners where appropriate.</li>
+</ul>
+<h3>Community-based</h3>
+<ul>
+<li>open source;</li>
+<li>technical groups;</li>
+<li>conferences;</li>
+<li>meetups;</li>
+<li>newsletters;</li>
+<li>engineering content.</li>
+</ul>
+<h3>Outbound</h3>
+<ul>
+<li>targeted professional outreach;</li>
+<li>specialist sourcing;</li>
+<li>agency support for selected roles.</li>
+</ul>
+<h3>Early-career</h3>
+<ul>
+<li>universities;</li>
+<li>apprenticeships;</li>
+<li>bootcamps;</li>
+<li>internal mobility.</li>
+</ul>
+<p>The mix should change by role.</p>
+<h2>Example sourcing plan for a senior backend engineer</h2>
+<h3>Week 1</h3>
+<ul>
+<li>Publish the role on a developer-focused marketplace.</li>
+<li>Publish the canonical role on the company website.</li>
+<li>Activate job alerts.</li>
+<li>Share the role internally.</li>
+<li>Review previous finalists.</li>
+<li>Create a list of relevant technical communities.</li>
+<li>Approve the outreach message and compensation language.</li>
+</ul>
+<h3>Week 2</h3>
+<ul>
+<li>Begin targeted outreach to 25–40 carefully selected prospects.</li>
+<li>Contact relevant alumni and referrals.</li>
+<li>Share a technical article connected to the role.</li>
+<li>Review initial applications within two business days.</li>
+<li>Calibrate the search using early profiles.</li>
+</ul>
+<h3>Week 3</h3>
+<ul>
+<li>Expand into adjacent backgrounds.</li>
+<li>Review response and qualification rates.</li>
+<li>Adjust messaging or role details.</li>
+<li>Engage a specialist recruiter only if needed.</li>
+<li>Continue prompt candidate movement.</li>
+</ul>
+<h3>Week 4</h3>
+<ul>
+<li>Evaluate source quality.</li>
+<li>Measure time to shortlist.</li>
+<li>Identify bottlenecks.</li>
+<li>Stop low-performing, high-effort activity.</li>
+<li>Deepen the strongest channels.</li>
+</ul>
+<h2>Example sourcing plan for an early-career developer</h2>
+<ul>
+<li>Publish a clear entry-level listing.</li>
+<li>Remove unnecessary experience requirements.</li>
+<li>Partner with universities and apprenticeship programs.</li>
+<li>Share the role with community groups.</li>
+<li>Offer a practical, accessible assessment.</li>
+<li>evaluate projects and learning ability;</li>
+<li>explain mentoring and growth;</li>
+<li>publish the salary range;</li>
+<li>provide a clear hiring timeline.</li>
+</ul>
+<p>Early-career sourcing should focus on potential, not polished professional history.</p>
+<h2>Example sourcing plan for a specialized security engineer</h2>
+<ul>
+<li>Define the exact security responsibility.</li>
+<li>Search relevant professional communities.</li>
+<li>Engage through conferences and technical writing.</li>
+<li>Review open-source security contributions.</li>
+<li>Use targeted outreach based on demonstrated expertise.</li>
+<li>Consider a specialist recruiter.</li>
+<li>Offer transparent compensation and reporting lines.</li>
+<li>explain authority, resources, and executive support;</li>
+<li>avoid combining every security discipline into one role.</li>
+</ul>
+<p>Specialists need to understand whether the company is genuinely prepared to support their work.</p>
+<h2>A sourcing-channel worksheet</h2>
+<p>For each channel, record:</p>
+<h3>Channel</h3>
+<ul>
+<li>Name:</li>
+<li>Audience:</li>
+<li>Cost:</li>
+<li>Owner:</li>
+<li>Role type:</li>
+<li>Start date:</li>
+</ul>
+<h3>Funnel</h3>
+<ul>
+<li>Views or prospects:</li>
+<li>Applications or messages:</li>
+<li>Responses:</li>
+<li>Positive responses:</li>
+<li>Qualified screens:</li>
+<li>Technical interviews:</li>
+<li>Final interviews:</li>
+<li>Offers:</li>
+<li>Acceptances:</li>
+</ul>
+<h3>Efficiency</h3>
+<ul>
+<li>Screening hours:</li>
+<li>Sourcing hours:</li>
+<li>Time to first qualified candidate:</li>
+<li>Time to shortlist:</li>
+<li>Cost per qualified candidate:</li>
+<li>Cost per accepted hire:</li>
+</ul>
+<h3>Quality</h3>
+<ul>
+<li>Relevance:</li>
+<li>Candidate experience:</li>
+<li>Hiring-manager feedback:</li>
+<li>Retention:</li>
+<li>First-year performance where available:</li>
+</ul>
+<h3>Decision</h3>
+<ul>
+<li>Continue:</li>
+<li>Expand:</li>
+<li>Modify:</li>
+<li>Pause:</li>
+<li>Replace:</li>
+</ul>
+<h2>A sourcing-readiness checklist</h2>
+<p>Before beginning, confirm that:</p>
+<ul>
+<li>the role mission is clear;</li>
+<li>expected outcomes are defined;</li>
+<li>level is accurate;</li>
+<li>required capabilities are limited to genuine needs;</li>
+<li>transferable experience is understood;</li>
+<li>compensation is approved;</li>
+<li>location rules are clear;</li>
+<li>interview stages are ready;</li>
+<li>the company profile is complete;</li>
+<li>the careers page is accurate;</li>
+<li>source tracking is configured;</li>
+<li>outreach templates are approved;</li>
+<li>privacy and retention rules are documented;</li>
+<li>hiring-manager review time is reserved.</li>
+</ul>
+<h2>An outreach checklist</h2>
+<p>Before contacting someone, confirm that:</p>
+<ul>
+<li>the person’s experience appears relevant;</li>
+<li>the message references real professional evidence;</li>
+<li>the role is described accurately;</li>
+<li>compensation is included;</li>
+<li>location requirements are included;</li>
+<li>the message is concise;</li>
+<li>the next step is low pressure;</li>
+<li>contact details were obtained appropriately;</li>
+<li>no colleague or agency has already contacted them;</li>
+<li>the company can respond promptly if they are interested.</li>
+</ul>
+<h2>A candidate-relationship checklist</h2>
+<p>After someone responds:</p>
+<ul>
+<li>acknowledge the reply quickly;</li>
+<li>answer questions directly;</li>
+<li>do not force an immediate call;</li>
+<li>explain the interview process;</li>
+<li>document communication preferences;</li>
+<li>respect a decline;</li>
+<li>ask permission before future contact where appropriate;</li>
+<li>communicate delays;</li>
+<li>avoid adding them to unrelated marketing lists;</li>
+<li>preserve the relationship whether or not they are hired.</li>
+</ul>
 <h2>The takeaway</h2>
-<p>Great sourcing combines inbound (a strong listing on a developer-focused board) with outbound (specific, respectful outreach to passive candidates you find through their work). Do both, write like a human, and nurture relationships over time — and you&#39;ll never be dependent on whoever happens to be searching today.</p>
-<p><em>Reach active developers with the right audience — <a href="/auth/register?role=COMPANY">post your role on JobsList.dev</a>.</em></p>
+<p>Great developers are not found through one universal channel.</p>
+<p>Some are actively searching on focused job marketplaces.</p>
+<p>Some are building in open-source communities.</p>
+<p>Some are sharing ideas through articles and talks.</p>
+<p>Some are learning through universities, apprenticeships, and bootcamps.</p>
+<p>Some are former candidates, former employees, referrals, or people who may become interested months from now.</p>
+<p>An effective sourcing strategy:</p>
+<ol>
+<li>Defines the role before beginning the search.</li>
+<li>Separates essential capabilities from learnable tools.</li>
+<li>Reaches active candidates through relevant, transparent listings.</li>
+<li>Uses referrals without depending on narrow networks.</li>
+<li>Engages technical communities respectfully.</li>
+<li>Reviews public work without requiring it from everyone.</li>
+<li>Uses thoughtful, specific outreach for passive candidates.</li>
+<li>Includes compensation and logistics early.</li>
+<li>Builds relationships with future candidates.</li>
+<li>Protects privacy and communication boundaries.</li>
+<li>Measures qualified candidates rather than raw activity.</li>
+<li>Improves the role when sourcing results expose a deeper problem.</li>
+<li>Coordinates recruiters, hiring managers, agencies, and interviewers.</li>
+<li>Treats every candidate interaction as part of the employer brand.</li>
+</ol>
+<p>The best sourcing does not feel like mass marketing.</p>
+<p>It feels like a relevant opportunity reaching the right person at the right time, presented with enough honesty for that person to make an informed decision.</p>
+<p>Build a strong inbound presence.</p>
+<p>Search beyond familiar titles and companies.</p>
+<p>Write outreach that proves you understand the person’s work.</p>
+<p>Stay in contact with talented people whose timing is not right today.</p>
+<p>Over time, sourcing becomes less about urgently finding strangers and more about maintaining trusted connections with the technical communities your company depends on.</p>
+<p><em>Reach active developers through a focused, transparent hiring marketplace. <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish your role, and connect directly with technical professionals whose experience matches the work.</em></p>
 5:["locale","uk","d"]
 6:["slug","where-to-find-great-developers-sourcing","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__?{\"locale\":\"uk\",\"slug\":\"where-to-find-great-developers-sourcing\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Where to Find Great Developers: A Guide to Sourcing Technical Talent\",\"description\":\"The best developers often aren't actively applying. Here's where to find them and how to reach out so they actually respond.\",\"datePublished\":\"2026-06-15T00:00:00.000Z\",\"inLanguage\":\"uk\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Where to Find Great Developers: A Guide to Sourcing Technical Talent","date":"2026-06-15T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Where to Find Great Developers: A Guide to Sourcing Technical Talent | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"The best developers often aren't actively applying. Here's where to find them and how to reach out so they actually respond."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","15",{"property":"og:description","content":"The best developers often aren't actively applying. Here's where to find them and how to reach out so they actually respond."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-15T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","25",{"name":"twitter:description","content":"The best developers often aren't actively applying. Here's where to find them and how to reach out so they actually respond."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__?{\"locale\":\"uk\",\"slug\":\"where-to-find-great-developers-sourcing\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","uk","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Where to Find Great Developers: A Guide to Sourcing Technical Talent\",\"description\":\"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships.\",\"datePublished\":\"2026-06-15T00:00:00.000Z\",\"inLanguage\":\"uk\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Where to Find Great Developers: A Guide to Sourcing Technical Talent","date":"2026-06-15T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":33,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Where to Find Great Developers: A Guide to Sourcing Technical Talent | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","15",{"property":"og:description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-15T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

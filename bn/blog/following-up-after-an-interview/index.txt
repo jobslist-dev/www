@@ -1,52 +1,744 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1056,<p>The interview went well, you got home, and now you&#39;re staring at your inbox wondering: do I send a thank-you note? How long do I wait? What if they&#39;ve gone quiet? Following up well is a small, low-effort edge that a surprising number of candidates skip. Done right, it keeps you memorable and signals genuine interest. Done wrong, it reads as desperate. Here&#39;s the calm version.</p>
-<h2>Send a thank-you note within 24 hours</h2>
-<p>Yes, still send one — email, not a handwritten card. It doesn&#39;t need to be long. A good note:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T862d,<p>You finished the interview, closed the video call, and immediately started replaying every answer in your head.</p>
+<p>Should you send a thank-you message?</p>
+<p>How soon is too soon?</p>
+<p>What happens when the date they promised passes and your inbox stays empty?</p>
+<p>Following up after an interview is a small part of the job-search process, but it creates a disproportionate amount of anxiety. Candidates often swing between two extremes: sending repeated messages because silence feels unbearable, or saying nothing because they are afraid of appearing desperate.</p>
+<p>The strongest approach is calmer.</p>
+<p>A useful follow-up should:</p>
 <ul>
-<li><strong>Thanks them</strong> for their time, specifically.</li>
-<li><strong>References something concrete</strong> from the conversation — a problem they mentioned, a project you discussed. This proves you were present and paying attention.</li>
-<li><strong>Reaffirms your interest</strong> and briefly why you&#39;re a fit.</li>
-<li><strong>Offers to answer anything</strong> they still need.</li>
+<li>thank the interviewer;</li>
+<li>demonstrate that you paid attention;</li>
+<li>confirm your continued interest;</li>
+<li>make it easy for the company to respond;</li>
+<li>respect the timeline they provided;</li>
+<li>close the loop without applying pressure.</li>
 </ul>
-<p>Send a short, tailored note to each interviewer you have contact details for, not one identical blast. Two or three sentences of genuine specificity beats a page of filler.</p>
-<h3>A template you can adapt</h3>
+<p>You do not need a clever tactic.</p>
+<p>You need good timing, a short message, and the confidence to keep your broader job search moving while you wait.</p>
+<h1>Does following up actually help?</h1>
+<p>A follow-up message will not rescue a poor interview or reverse a firm rejection.</p>
+<p>It can still help at the margins.</p>
+<p>A thoughtful message may:</p>
+<ul>
+<li>reinforce your interest;</li>
+<li>remind the interviewer of a strong conversation;</li>
+<li>clarify something you did not explain well;</li>
+<li>provide a promised link or work sample;</li>
+<li>demonstrate concise written communication;</li>
+<li>make you easier to remember during the hiring debrief;</li>
+<li>keep communication open when the process is delayed.</li>
+</ul>
+<p>For developer roles, the message itself can also become a small communication sample. Hiring teams notice whether you can write clearly, reference technical context accurately, and communicate without creating unnecessary work.</p>
+<p>The objective is not to pressure someone into hiring you.</p>
+<p>It is to leave the process more clearly and professionally than you found it.</p>
+<h1>The simplest follow-up timeline</h1>
+<p>A practical sequence looks like this:</p>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th>Recommended action</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Interview just finished</td>
+<td>Send a thank-you within 24 hours</td>
+</tr>
+<tr>
+<td>Interviewer gave a decision date</td>
+<td>Wait until that date has passed</td>
+</tr>
+<tr>
+<td>No timeline was provided</td>
+<td>Follow up after 5–7 business days</td>
+</tr>
+<tr>
+<td>First follow-up received no reply</td>
+<td>Wait another 5–7 business days</td>
+</tr>
+<tr>
+<td>Still no reply</td>
+<td>Send one final brief note, then move on</td>
+</tr>
+<tr>
+<td>You receive another offer</td>
+<td>Contact them immediately with the real deadline</td>
+</tr>
+<tr>
+<td>They reject you</td>
+<td>Thank them and request brief feedback if appropriate</td>
+</tr>
+</tbody></table>
+<p>This is a guideline, not a rigid law.</p>
+<p>The best timing always begins with the timeline the employer gave you.</p>
+<h1>Ask about next steps before the interview ends</h1>
+<p>The most useful follow-up strategy begins before you need to send anything.</p>
+<p>At the end of the interview, ask:</p>
 <blockquote>
-<p>Hi [Name], thanks for taking the time to talk through the [team]&#39;s work on [specific thing] today. The problem you described around [X] is exactly the kind of thing I like sinking my teeth into, and our conversation made me more excited about the role, not less. Happy to share anything else that would help — looking forward to next steps.</p>
+<p>What are the next steps, and when should I expect to hear from you?</p>
 </blockquote>
-<h2>Ask about timeline before you leave</h2>
-<p>The single best way to avoid follow-up anxiety is to ask, at the end of the interview: &quot;What do the next steps and timeline look like?&quot; Now you know whether to expect an answer in three days or two weeks, and your follow-up can be calibrated instead of guesswork.</p>
-<h2>If you don&#39;t hear back</h2>
-<p>Silence usually means &quot;the process is slow,&quot; not &quot;you&#39;re rejected.&quot; Hiring involves scheduling, other candidates, and internal approvals you can&#39;t see. So:</p>
-<ul>
-<li><strong>Wait until after the stated timeline</strong> (or ~5–7 business days if none was given) before nudging.</li>
-<li><strong>Send one polite check-in</strong> to your recruiter or point of contact: reaffirm interest, ask if there&#39;s an updated timeline, offer anything they need.</li>
-<li><strong>Then wait again.</strong> If you&#39;ve followed up once and still hear nothing after another week, one final note is reasonable — after that, let it go and keep your search moving.</li>
-</ul>
-<p>Keep each message short, warm, and pressure-free. You&#39;re checking in, not demanding.</p>
-<h3>A check-in template</h3>
+<p>You can also ask:</p>
 <blockquote>
-<p>Hi [Name], just following up on the [role] — I really enjoyed meeting the team and remain very interested. Is there an updated timeline for next steps, or anything else I can provide? Thanks!</p>
+<p>Who is the best person to contact if I have a follow-up question?</p>
 </blockquote>
-<h2>What not to do</h2>
+<p>These questions give you:</p>
 <ul>
-<li><strong>Don&#39;t follow up daily.</strong> One message per cycle. Repeated pings make you the candidate people dread opening emails from.</li>
-<li><strong>Don&#39;t guilt-trip.</strong> &quot;I&#39;ve been waiting a long time&quot; puts them on the defensive.</li>
-<li><strong>Don&#39;t bluff a fake deadline</strong> unless it&#39;s real. If you genuinely have another offer, it&#39;s fair to say so politely — but manufactured urgency backfires when they call it.</li>
-<li><strong>Don&#39;t take slowness personally.</strong> Process speed rarely reflects your candidacy.</li>
+<li>a realistic decision window;</li>
+<li>the correct point of contact;</li>
+<li>permission to follow up after a specific date;</li>
+<li>less uncertainty during the wait.</li>
 </ul>
-<h2>Keep applying while you wait</h2>
-<p>The healthiest follow-up strategy is to not depend on any single outcome. Keep your pipeline full and other conversations moving. It relieves the pressure, keeps your energy up, and — not incidentally — a second interest is your strongest, most honest source of leverage if an offer does come.</p>
-<p>A thoughtful thank-you and one well-timed nudge is the whole playbook. It costs you ten minutes, keeps you top of mind, and consistently separates the candidates who feel like a pleasure to hire from the ones who quietly disappear.</p>
+<p>Write the answer down immediately after the conversation.</p>
+<p>Do not rely on memory after a long interview loop.</p>
+<h1>Send a thank-you note within 24 hours</h1>
+<p>A thank-you message is still worth sending, particularly after:</p>
+<ul>
+<li>a hiring-manager interview;</li>
+<li>a technical interview;</li>
+<li>a panel or final round;</li>
+<li>a conversation with future teammates;</li>
+<li>a founder interview at a smaller company.</li>
+</ul>
+<p>Send it the same day or the following morning.</p>
+<p>There is no need to send it five minutes after the call. That can feel automated. Take enough time to write something specific.</p>
+<h1>What a good thank-you note should contain</h1>
+<p>A strong message usually has four parts:</p>
+<ol>
+<li>Appreciation for the interviewer’s time.</li>
+<li>A reference to something specific from the discussion.</li>
+<li>A brief statement of continued interest or fit.</li>
+<li>An offer to provide anything else they need.</li>
+</ol>
+<p>Keep it around 75–150 words.</p>
+<p>The message should feel complete without becoming another cover letter.</p>
+<h1>A thank-you template</h1>
+<p>Subject: Thank you — [Role Title] interview</p>
+<p>Hi [Name],</p>
+<p>Thank you for taking the time to speak with me about the [Role Title] position today. I especially enjoyed our discussion about [specific project, technical challenge, team practice, or product problem].</p>
+<p>The conversation reinforced my interest in the role, particularly the opportunity to contribute to [specific responsibility]. My experience with [relevant skill or project] seems closely aligned with the challenges you described.</p>
+<p>Please let me know if I can provide any additional information. I appreciate the conversation and look forward to hearing about the next steps.</p>
+<p>Best,
+[Your Name]</p>
+<h1>A shorter version</h1>
+<p>Hi [Name],</p>
+<p>Thank you again for speaking with me today. I enjoyed learning more about the team’s work on [specific topic], especially the challenge around [specific detail].</p>
+<p>The conversation made me even more interested in the role. Please let me know if there is anything else I can provide.</p>
+<p>Best,
+[Your Name]</p>
+<h1>A developer-specific example</h1>
+<p>Subject: Thank you — Backend Engineer interview</p>
+<p>Hi Maya,</p>
+<p>Thank you for taking the time to discuss the Backend Engineer role today. I enjoyed hearing about the team’s work on improving retry behavior and observability across the payment-processing pipeline.</p>
+<p>The problem is closely related to the idempotency and reconciliation work I led in my current role, and our conversation made me more excited about the opportunity to contribute.</p>
+<p>Please let me know if it would be useful for me to send the architecture notes or incident-review example I mentioned.</p>
+<p>Best,
+Jordan</p>
+<p>This message works because it is:</p>
+<ul>
+<li>specific;</li>
+<li>short;</li>
+<li>relevant;</li>
+<li>easy to answer;</li>
+<li>grounded in the conversation.</li>
+</ul>
+<h1>Should you email every interviewer?</h1>
+<p>When you have individual contact information, send separate notes to the people with whom you had meaningful conversations.</p>
+<p>Do not send identical messages to five interviewers.</p>
+<p>Personalize one or two lines based on each discussion.</p>
+<p>For example:</p>
+<ul>
+<li>thank the engineering manager for explaining the team’s priorities;</li>
+<li>thank the senior engineer for the architecture discussion;</li>
+<li>thank the designer for describing the product-development process;</li>
+<li>thank the recruiter for coordinating the interview loop.</li>
+</ul>
+<p>When you do not have everyone’s address, send your note to the recruiter or coordinator and ask them to pass along your thanks.</p>
+<p>Do not hunt aggressively for private email addresses that were not shared with you.</p>
+<h1>What to say after a technical interview</h1>
+<p>A technical follow-up can briefly reinforce something important from the conversation.</p>
+<p>You might mention:</p>
+<ul>
+<li>a trade-off you discussed;</li>
+<li>a problem you enjoyed solving;</li>
+<li>a relevant project;</li>
+<li>a clarification to an answer;</li>
+<li>a promised link;</li>
+<li>an idea you continued thinking about.</li>
+</ul>
+<p>Example:</p>
+<p>Hi Alex,</p>
+<p>Thank you for the system-design conversation today. I enjoyed working through the notification-delivery problem, particularly the discussion around ordering, retries, and idempotency.</p>
+<p>After the call, I realized I could have stated one assumption more clearly: I was treating delivery as at-least-once and relying on consumer-side deduplication. I wanted to clarify that rather than leave the behavior ambiguous.</p>
+<p>I appreciate the thoughtful discussion and remain very interested in the role.</p>
+<p>Best,
+[Name]</p>
+<p>This is useful because it clarifies a real point without attempting to redo the entire interview by email.</p>
+<h1>Should you correct an interview answer afterward?</h1>
+<p>Sometimes.</p>
+<p>A brief correction can help when:</p>
+<ul>
+<li>you misstated a fact;</li>
+<li>you gave an incorrect number;</li>
+<li>you omitted an important assumption;</li>
+<li>you promised to provide an answer later;</li>
+<li>you realized your explanation created a materially wrong impression.</li>
+</ul>
+<p>Keep the correction narrow.</p>
+<p>Do not send a long second solution to every question you disliked.</p>
+<p>Good:</p>
+<blockquote>
+<p>I realized after our conversation that I described the cache policy imprecisely. I meant a write-through approach with explicit invalidation after updates, not write-behind.</p>
+</blockquote>
+<p>Too much:</p>
+<blockquote>
+<p>I have recreated the entire interview problem in a twelve-page document and attached three alternate architectures.</p>
+</blockquote>
+<p>A correction should improve clarity, not create an additional evaluation assignment for the interviewer.</p>
+<h1>Should you send code after an interview?</h1>
+<p>Send code only when:</p>
+<ul>
+<li>the interviewer requested it;</li>
+<li>you promised a link;</li>
+<li>it directly supports something discussed;</li>
+<li>the company’s instructions permit it.</li>
+</ul>
+<p>Do not send an unsolicited implementation of the interview problem unless invited.</p>
+<p>That can create fairness concerns, especially when other candidates were evaluated only on the live exercise.</p>
+<p>A better message is:</p>
+<blockquote>
+<p>I mentioned a similar migration during our conversation. Here is the public case study I referenced, in case it is useful: [link].</p>
+</blockquote>
+<h1>What if you interviewed with a panel?</h1>
+<p>After a panel interview, you can:</p>
+<ul>
+<li>send individual notes when contact details are available;</li>
+<li>send one note to the coordinator for the group;</li>
+<li>reference one or two meaningful themes from the panel;</li>
+<li>avoid repeating your entire candidacy.</li>
+</ul>
+<p>Example:</p>
+<p>Hi Priya,</p>
+<p>Thank you for coordinating today’s panel and for the time the team spent with me. I particularly enjoyed the discussions about the platform migration, engineering mentorship, and how the group handles design disagreements.</p>
+<p>The conversations gave me a much clearer picture of the role and strengthened my interest in joining the team. Please pass along my thanks to everyone, and let me know if I can provide anything else.</p>
+<p>Best,
+[Name]</p>
+<h1>When to send the first status follow-up</h1>
+<p>Use the company’s stated timeline first.</p>
+<p>When they said:</p>
+<blockquote>
+<p>We expect to decide by Thursday.</p>
+</blockquote>
+<p>Wait until Friday or the next business day before checking in.</p>
+<p>When no timeline was provided, wait approximately five to seven business days.</p>
+<p>Business days matter. A calendar week that includes a holiday, company event, or weekend may represent only a few working days internally.</p>
+<h1>A status follow-up template</h1>
+<p>Subject: Following up — [Role Title]</p>
+<p>Hi [Name],</p>
+<p>I wanted to follow up regarding the [Role Title] position. I enjoyed meeting the team and remain very interested in the opportunity.</p>
+<p>Do you have an updated timeline for the next step? Please let me know if there is any additional information I can provide.</p>
+<p>Thank you,
+[Your Name]</p>
+<h1>A warmer version after a final interview</h1>
+<p>Hi [Name],</p>
+<p>I wanted to check in on the [Role Title] process following my final conversation with the team last week. I came away especially excited about [specific responsibility, project, or team quality].</p>
+<p>I remain very interested and would appreciate any update you can share on timing or next steps.</p>
+<p>Thanks again,
+[Your Name]</p>
+<h1>What if they miss their own deadline?</h1>
+<p>Companies miss hiring deadlines frequently.</p>
+<p>Reasons may include:</p>
+<ul>
+<li>interviewer feedback is late;</li>
+<li>another candidate rescheduled;</li>
+<li>the hiring manager is unavailable;</li>
+<li>headcount approval is delayed;</li>
+<li>compensation needs approval;</li>
+<li>the team is reconsidering the role;</li>
+<li>an internal candidate entered the process;</li>
+<li>priorities changed.</li>
+</ul>
+<p>You do not need to invent a meaning for the silence.</p>
+<p>Send one calm message after the deadline passes.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>You mentioned that the team expected to have an update by Tuesday, so I wanted to check in now that the date has passed. I remain very interested in the role and would appreciate any update on the revised timeline.</p>
+<p>Please let me know if there is anything else you need from me.</p>
+<p>Best,
+[Name]</p>
+<p>This is not annoying.</p>
+<p>They gave you the date, and you are following the expectation they created.</p>
+<h1>How often should you follow up?</h1>
+<p>A reasonable sequence is:</p>
+<ol>
+<li>Thank-you note within 24 hours.</li>
+<li>First status check after the stated deadline or after 5–7 business days.</li>
+<li>Final check after another 5–7 business days without a response.</li>
+<li>Stop contacting them unless they reply.</li>
+</ol>
+<p>Frequent messages rarely accelerate a decision.</p>
+<p>They may instead create an additional communication burden for someone who still does not have an answer.</p>
+<h1>A final follow-up template</h1>
+<p>Subject: Final follow-up — [Role Title]</p>
+<p>Hi [Name],</p>
+<p>I wanted to send one final follow-up regarding the [Role Title] position. I remain interested, but I understand that timelines and hiring needs can change.</p>
+<p>Unless I hear otherwise, I will assume the process has moved in another direction. I appreciated the opportunity to meet the team and would be glad to stay in touch regarding future roles.</p>
+<p>Best,
+[Your Name]</p>
+<p>This closes the loop without anger, guilt, or drama.</p>
+<h1>What to do after the final follow-up</h1>
+<p>Move the application in your tracker to something like:</p>
+<ul>
+<li>No response;</li>
+<li>Presumed closed;</li>
+<li>Follow-up complete.</li>
+</ul>
+<p>Then continue applying.</p>
+<p>You do not need to delete the relationship or block the recruiter. They may return weeks later with a legitimate explanation.</p>
+<p>You also do not need to keep emotionally waiting for them.</p>
+<h1>What if you receive another offer?</h1>
+<p>A real offer with a real deadline is important information.</p>
+<p>Contact the company immediately.</p>
+<p>Do not wait until the final hour.</p>
+<p>Be honest, brief, and specific.</p>
+<p>Example:</p>
+<p>Subject: Hiring timeline update — [Role Title]</p>
+<p>Hi [Name],</p>
+<p>I wanted to share a timing update. I have received another offer with a decision deadline of Thursday, July 30.</p>
+<p>I remain very interested in the [Role Title] opportunity with [Company], and it is one of the roles I am considering most seriously. Is the team able to share an update or accelerate the remaining steps before that deadline?</p>
+<p>I understand if the timing cannot be changed, but I wanted to be transparent.</p>
+<p>Best,
+[Your Name]</p>
+<p>This is not manipulation.</p>
+<p>It is professional scheduling information.</p>
+<h1>Do not invent another offer</h1>
+<p>A fake offer can damage your credibility immediately.</p>
+<p>The company may:</p>
+<ul>
+<li>ask about the deadline;</li>
+<li>accelerate unexpectedly;</li>
+<li>tell you they cannot meet it;</li>
+<li>remove you from the process;</li>
+<li>make a decision based on your stated timeline.</li>
+</ul>
+<p>Only mention competing processes or offers truthfully.</p>
+<h1>What if another interview is moving faster?</h1>
+<p>You can mention an advanced process without pretending you have an offer.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>I wanted to share a quick timing update. Another interview process has moved into its final stage, though I do not currently have an offer or formal deadline.</p>
+<p>I remain very interested in your role and wanted to ask whether you can share the expected timing for the next step.</p>
+<p>Best,
+[Name]</p>
+<p>This is transparent and proportionate.</p>
+<h1>What if you need an answer for personal reasons?</h1>
+<p>You may have a legitimate deadline involving:</p>
+<ul>
+<li>relocation;</li>
+<li>visa timing;</li>
+<li>another contract;</li>
+<li>childcare;</li>
+<li>notice periods;</li>
+<li>a scheduled start date;</li>
+<li>financial constraints.</li>
+</ul>
+<p>State the situation without oversharing.</p>
+<p>Example:</p>
+<blockquote>
+<p>I need to make a decision about extending my current contract by Friday, so any update you can share before then would be very helpful.</p>
+</blockquote>
+<p>You do not need to reveal private details.</p>
+<h1>Following up with a recruiter versus a hiring manager</h1>
+<p>Use the person who owns candidate communication.</p>
+<p>That is usually:</p>
+<ul>
+<li>recruiter;</li>
+<li>recruiting coordinator;</li>
+<li>talent partner;</li>
+<li>hiring manager at a small company;</li>
+<li>founder at an early startup.</li>
+</ul>
+<p>Do not email the entire interview panel for status updates.</p>
+<p>One point of contact is enough.</p>
+<p>Thank-you notes may go to individuals. Status requests should generally go through the process owner.</p>
+<h1>Following up after a recruiter screen</h1>
+<p>A recruiter screen usually needs a lighter message.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>Thank you for speaking with me about the [Role Title] position today. I appreciated the overview of the team, process, and role expectations.</p>
+<p>The opportunity sounds well aligned with my experience in [area], and I would be glad to continue to the next stage.</p>
+<p>Best,
+[Name]</p>
+<p>When the recruiter promised to follow up by a date, wait until it passes before checking in.</p>
+<h1>Following up after a take-home assignment</h1>
+<p>Confirm submission clearly.</p>
+<p>Include:</p>
+<ul>
+<li>link or attachment;</li>
+<li>brief setup instructions when needed;</li>
+<li>time spent if requested;</li>
+<li>any important assumptions;</li>
+<li>availability for the debrief.</li>
+</ul>
+<p>Example:</p>
+<p>Subject: [Role Title] take-home submission — [Your Name]</p>
+<p>Hi [Name],</p>
+<p>I have completed the take-home assignment and submitted it here: [link].</p>
+<p>The README includes setup instructions, key decisions, assumptions, and the areas I would improve with more time. I spent approximately three hours on the exercise, as requested.</p>
+<p>Please let me know if there are any access issues. I look forward to discussing the submission with the team.</p>
+<p>Best,
+[Name]</p>
+<p>When the company gives no review timeline, ask for one in the submission message.</p>
+<h1>Following up after a final round</h1>
+<p>The final-round message can be slightly more direct because both sides have invested significant time.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>Thank you again for coordinating the final interviews. I appreciated the chance to meet the team and learn more about the work on [specific area].</p>
+<p>The process strengthened my interest in the role. The combination of [responsibility one] and [responsibility two] is closely aligned with what I am hoping to do next.</p>
+<p>You mentioned the team expects to make a decision by [date]. I look forward to hearing from you and am happy to provide anything else in the meantime.</p>
+<p>Best,
+[Name]</p>
+<h1>Following up after an informal conversation</h1>
+<p>Not every conversation is a formal interview.</p>
+<p>After a networking or exploratory call, avoid sounding as though an application decision is owed.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>Thank you for taking the time to speak with me about your team and the work at [Company]. Your explanation of [specific topic] was especially helpful.</p>
+<p>I would be interested in staying in touch, particularly if a role opens involving [relevant area]. I have included my profile here for reference: [link].</p>
+<p>Best,
+[Name]</p>
+<h1>How to follow up after a rejection</h1>
+<p>A rejection does not always require a response, but a brief professional note can preserve the relationship.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>Thank you for letting me know. Although I am disappointed, I appreciated the opportunity to meet the team and learn more about the role.</p>
+<p>I remain interested in the company and would be glad to be considered for relevant openings in the future.</p>
+<p>Best,
+[Name]</p>
+<h1>How to request feedback after a rejection</h1>
+<p>Keep the request optional and easy to decline.</p>
+<p>Example:</p>
+<p>Hi [Name],</p>
+<p>Thank you for the update and for the time the team spent with me.</p>
+<p>When possible, I would appreciate any brief feedback on the main area that kept me from moving forward. I understand if company policy or time constraints prevent detailed feedback.</p>
+<p>I enjoyed meeting the team and hope we can stay in touch.</p>
+<p>Best,
+[Name]</p>
+<p>Do not argue with the feedback after receiving it.</p>
+<p>Even when you disagree, thank them for providing it.</p>
+<h1>What not to write</h1>
+<p>Avoid messages that create guilt, defensiveness, or pressure.</p>
+<h2>Guilt-tripping</h2>
+<blockquote>
+<p>I spent a lot of time interviewing and deserve an answer.</p>
+</blockquote>
+<p>Your frustration may be reasonable, but this wording will not help.</p>
+<h2>Passive aggression</h2>
+<blockquote>
+<p>I assume your silence means you are no longer interested.</p>
+</blockquote>
+<p>A final closure note can say this neutrally. Do not use it as an accusation.</p>
+<h2>Repeated urgency</h2>
+<blockquote>
+<p>Please respond today.</p>
+</blockquote>
+<p>Unless you have a real deadline, demanding urgency is inappropriate.</p>
+<h2>Emotional over-disclosure</h2>
+<blockquote>
+<p>This is my dream job and I cannot stop thinking about it.</p>
+</blockquote>
+<p>Enthusiasm is useful. Emotional dependence is not.</p>
+<h2>Excessive flattery</h2>
+<blockquote>
+<p>This is the greatest team I have ever met and I would be honored beyond words.</p>
+</blockquote>
+<p>Specific interest is more credible.</p>
+<h2>Long explanations</h2>
+<p>A follow-up is not the place to retell your career history.</p>
+<h2>Daily messages</h2>
+<p>Do not send:</p>
+<ul>
+<li>Monday: checking in;</li>
+<li>Tuesday: just bumping this;</li>
+<li>Wednesday: making sure you saw this;</li>
+<li>Thursday: any update?</li>
+</ul>
+<p>One message per reasonable waiting period is enough.</p>
+<h1>When following up becomes annoying</h1>
+<p>The content is rarely the main problem.</p>
+<p>Frequency is.</p>
+<p>Following up may become counterproductive when you:</p>
+<ul>
+<li>contact multiple employees for the same update;</li>
+<li>send messages every day;</li>
+<li>switch from email to social media after no reply;</li>
+<li>call an interviewer’s personal number;</li>
+<li>comment on unrelated public posts asking for status;</li>
+<li>ask someone without hiring responsibility to intervene;</li>
+<li>repeatedly request confirmation that your message was received;</li>
+<li>continue after being told the process is closed.</li>
+</ul>
+<p>Respect the communication channel and the boundary.</p>
+<h1>Should you connect on LinkedIn after an interview?</h1>
+<p>A connection request is generally fine when the conversation was substantial and professional.</p>
+<p>Keep the note brief:</p>
+<blockquote>
+<p>Thank you for the conversation today. I enjoyed learning more about the platform team and would be glad to stay connected.</p>
+</blockquote>
+<p>Do not use the connection request as a second status message.</p>
+<p>Do not contact the interviewer across several platforms at once.</p>
+<h1>What if the interviewer told you to contact them directly?</h1>
+<p>Follow their invitation.</p>
+<p>For example:</p>
+<blockquote>
+<p>Feel free to email me if you think of any additional questions.</p>
+</blockquote>
+<p>That is permission to ask a useful question.</p>
+<p>It is not permission to request updates every two days.</p>
+<h1>Add value only when you genuinely have something useful</h1>
+<p>A follow-up can occasionally include something relevant:</p>
+<ul>
+<li>a promised portfolio link;</li>
+<li>a concise technical case study;</li>
+<li>a clarification;</li>
+<li>a reference;</li>
+<li>a document they requested;</li>
+<li>an answer to a question you could not complete during the interview.</li>
+</ul>
+<p>Do not manufacture “value” by sending random industry articles or unsolicited product ideas.</p>
+<p>The safest value is something directly connected to the conversation.</p>
+<h1>Use follow-ups to demonstrate written communication</h1>
+<p>For remote and asynchronous roles, your message can reinforce that you communicate well.</p>
+<p>A strong follow-up is:</p>
+<ul>
+<li>concise;</li>
+<li>correctly addressed;</li>
+<li>clearly structured;</li>
+<li>specific;</li>
+<li>free of unnecessary urgency;</li>
+<li>easy to respond to.</li>
+</ul>
+<p>Proofread it.</p>
+<p>Check:</p>
+<ul>
+<li>the interviewer’s name;</li>
+<li>company name;</li>
+<li>role title;</li>
+<li>dates;</li>
+<li>promised links;</li>
+<li>grammar;</li>
+<li>attachment permissions.</li>
+</ul>
+<p>A message sent to the wrong company can undo the positive impression you intended to reinforce.</p>
+<h1>Track follow-ups in your job-search system</h1>
+<p>Add these fields to your application tracker:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Interview date</td>
+<td>July 20</td>
+</tr>
+<tr>
+<td>Thank-you sent</td>
+<td>July 20</td>
+</tr>
+<tr>
+<td>Promised update</td>
+<td>July 24</td>
+</tr>
+<tr>
+<td>First follow-up</td>
+<td>July 27</td>
+</tr>
+<tr>
+<td>Final follow-up</td>
+<td>August 4</td>
+</tr>
+<tr>
+<td>Last response</td>
+<td>“Still interviewing”</td>
+</tr>
+<tr>
+<td>Current status</td>
+<td>Waiting</td>
+</tr>
+<tr>
+<td>Next action</td>
+<td>Continue applying</td>
+</tr>
+</tbody></table>
+<p>Tracking prevents:</p>
+<ul>
+<li>forgotten follow-ups;</li>
+<li>duplicate messages;</li>
+<li>premature checking;</li>
+<li>confusion across several interview processes.</li>
+</ul>
+<p>It also removes some of the emotional burden. You do not need to refresh your inbox constantly when the next action already has a date.</p>
+<h1>Keep applying while you wait</h1>
+<p>Never pause your entire search because one interview felt promising.</p>
+<p>Continue:</p>
+<ul>
+<li>submitting targeted applications;</li>
+<li>preparing for other interviews;</li>
+<li>improving your résumé;</li>
+<li>updating your GitHub;</li>
+<li>contacting your network;</li>
+<li>developing relevant skills.</li>
+</ul>
+<p>This protects you from over-investing emotionally in one company.</p>
+<p>It also improves your decision-making if multiple opportunities progress.</p>
+<p>The healthiest mindset is:</p>
+<blockquote>
+<p>I am interested, I followed up professionally, and the next action is theirs.</p>
+</blockquote>
+<h1>Do not interpret every delay</h1>
+<p>A delayed response does not automatically mean:</p>
+<ul>
+<li>rejection;</li>
+<li>disinterest;</li>
+<li>a bad interview;</li>
+<li>an internal debate about you;</li>
+<li>an offer is coming;</li>
+<li>they are testing your persistence.</li>
+</ul>
+<p>It means you do not have an update.</p>
+<p>Avoid building a story from missing information.</p>
+<h1>When to stop waiting emotionally</h1>
+<p>You can remain open to a company without organizing your life around its response.</p>
+<p>After one thank-you, one status follow-up, and one final note, treat the process as inactive.</p>
+<p>When they return later, evaluate the opportunity based on:</p>
+<ul>
+<li>their explanation;</li>
+<li>your current options;</li>
+<li>whether the delay revealed a broader process problem;</li>
+<li>whether you still want the role.</li>
+</ul>
+<p>You are allowed to continue even after they reappear.</p>
+<h1>What prolonged silence tells you about the company</h1>
+<p>One communication failure can be an accident.</p>
+<p>A repeated pattern may be information.</p>
+<p>Consider whether the process included:</p>
+<ul>
+<li>missed deadlines without updates;</li>
+<li>frequent rescheduling;</li>
+<li>contradictory instructions;</li>
+<li>interviewers who were unprepared;</li>
+<li>unexplained extra rounds;</li>
+<li>long silence after significant unpaid work;</li>
+<li>no clear process owner.</li>
+</ul>
+<p>These patterns may reflect how the organization communicates internally.</p>
+<p>They are not always disqualifying, but they belong in your evaluation of the company.</p>
+<h1>Follow-up examples by situation</h1>
+<h1>After a recruiter screen</h1>
+<p>Subject: Thank you — [Role Title]</p>
+<p>Hi [Name],</p>
+<p>Thank you for speaking with me today and for explaining the [Role Title] opportunity. The team’s focus on [specific area] sounds closely aligned with my experience in [relevant area].</p>
+<p>I appreciate the overview and look forward to hearing about the next step.</p>
+<p>Best,
+[Name]</p>
+<h1>After a technical interview</h1>
+<p>Subject: Thank you — technical interview</p>
+<p>Hi [Name],</p>
+<p>Thank you for the technical discussion today. I enjoyed working through the [specific problem], particularly the trade-off between [option A] and [option B].</p>
+<p>The conversation gave me a clearer view of the engineering work and strengthened my interest in the role. Please let me know if I can provide anything else.</p>
+<p>Best,
+[Name]</p>
+<h1>After meeting the hiring manager</h1>
+<p>Hi [Name],</p>
+<p>Thank you for the conversation today. I appreciated your candid explanation of the team’s priorities, especially the need to improve [specific system or process] while continuing to ship product work.</p>
+<p>That balance is familiar from my current role, and it made the opportunity feel especially relevant. I look forward to hearing about the next steps.</p>
+<p>Best,
+[Name]</p>
+<h1>After a final interview</h1>
+<p>Hi [Name],</p>
+<p>Thank you again for coordinating the interview process. I enjoyed meeting the team and came away especially excited about [specific responsibility or challenge].</p>
+<p>The role feels closely aligned with my experience in [area] and with what I hope to own next. I remain very interested and look forward to the team’s decision.</p>
+<p>Best,
+[Name]</p>
+<h1>After the promised date passes</h1>
+<p>Hi [Name],</p>
+<p>You mentioned that the team expected to have an update by [date], so I wanted to check in. I remain very interested in the [Role Title] position and would appreciate any update you can share on timing or next steps.</p>
+<p>Please let me know if you need anything else from me.</p>
+<p>Best,
+[Name]</p>
+<h1>After a week without any timeline</h1>
+<p>Hi [Name],</p>
+<p>I wanted to follow up on the [Role Title] process following our conversation last week. I enjoyed meeting the team and remain interested in the opportunity.</p>
+<p>Do you have an updated timeline for the next step?</p>
+<p>Thank you,
+[Name]</p>
+<h1>When withdrawing from the process</h1>
+<p>Sometimes you need to close the loop yourself.</p>
+<p>Hi [Name],</p>
+<p>Thank you again for the time you and the team spent with me. I have decided to withdraw from the [Role Title] process because [brief optional reason].</p>
+<p>I appreciated learning more about the company and hope our paths cross again.</p>
+<p>Best,
+[Name]</p>
+<p>You do not need to provide a detailed justification.</p>
+<h1>When accepting another offer</h1>
+<p>Hi [Name],</p>
+<p>Thank you for the time the team invested in the process. I wanted to let you know that I have accepted another offer and need to withdraw from consideration for the [Role Title] position.</p>
+<p>I enjoyed meeting everyone and appreciated the opportunity to learn more about [Company]. I hope we can stay in touch.</p>
+<p>Best,
+[Name]</p>
+<h1>When you are still interested after a long delay</h1>
+<p>Hi [Name],</p>
+<p>Thank you for the update. I understand that the process has taken longer than expected.</p>
+<p>I remain interested in the role, though I am continuing with other opportunities in parallel. Please keep me informed when the team has a clearer timeline.</p>
+<p>Best,
+[Name]</p>
+<p>This preserves interest without pretending your search has stopped.</p>
+<h1>A final checklist before sending</h1>
+<p>Before you click send, ask:</p>
+<ul>
+<li>Am I contacting the correct person?</li>
+<li>Is the name spelled correctly?</li>
+<li>Is the role title correct?</li>
+<li>Am I following the timeline they provided?</li>
+<li>Is this message under 150 words?</li>
+<li>Did I reference something specific?</li>
+<li>Is my request clear?</li>
+<li>Does the message sound calm?</li>
+<li>Have I removed guilt or pressure?</li>
+<li>Are all links working?</li>
+<li>Have I already sent a similar message recently?</li>
+<li>Would I be comfortable receiving this message?</li>
+</ul>
+<p>When the answer is yes, send it and return to your search.</p>
+<h1>The takeaway</h1>
+<p>Following up after an interview should not feel like a campaign.</p>
+<p>The complete playbook is usually:</p>
+<ol>
+<li>Ask about the timeline before the interview ends.</li>
+<li>Send a short, specific thank-you within 24 hours.</li>
+<li>Wait until the promised date passes.</li>
+<li>Send one concise status check.</li>
+<li>Send one final closure note when necessary.</li>
+<li>Be transparent about real competing deadlines.</li>
+<li>Continue applying while you wait.</li>
+</ol>
+<p>The best follow-up messages are memorable because they are specific, not because they are persistent.</p>
+<p>Thank the interviewer, reference the conversation, reinforce the match, and make the next action easy. Then give the company space to complete its process.</p>
+<p>Professional follow-up keeps the door open.</p>
+<p>Professional restraint keeps you from standing in the doorway.</p>
+<p><em>Ready for interviews worth following up on? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a>, showcase your experience, and connect directly with companies hiring developers.</em></p>
 5:["locale","bn","d"]
 6:["slug","following-up-after-an-interview","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","following-up-after-an-interview","d"],{"children":["__PAGE__?{\"locale\":\"bn\",\"slug\":\"following-up-after-an-interview\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","following-up-after-an-interview","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Follow Up After an Interview (Without Being Annoying)\",\"description\":\"For job seekers: when and how to send a thank-you note, how to follow up if you don't hear back, and how to stay top-of-mind without pestering.\",\"datePublished\":\"2026-07-20T00:00:00.000Z\",\"inLanguage\":\"bn\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Follow Up After an Interview (Without Being Annoying)","date":"2026-07-20T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Follow Up After an Interview (Without Being Annoying) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For job seekers: when and how to send a thank-you note, how to follow up if you don't hear back, and how to stay top-of-mind without pestering."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Follow Up After an Interview (Without Being Annoying)"}],["$","meta","15",{"property":"og:description","content":"For job seekers: when and how to send a thank-you note, how to follow up if you don't hear back, and how to stay top-of-mind without pestering."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-20T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Follow Up After an Interview (Without Being Annoying)"}],["$","meta","25",{"name":"twitter:description","content":"For job seekers: when and how to send a thank-you note, how to follow up if you don't hear back, and how to stay top-of-mind without pestering."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","following-up-after-an-interview","d"],{"children":["__PAGE__?{\"locale\":\"bn\",\"slug\":\"following-up-after-an-interview\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","following-up-after-an-interview","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Follow Up After an Interview (Without Being Annoying)\",\"description\":\"Learn when to send a thank-you note, how to follow up after interview silence, what to say when you have another offer, and how to stay professional without sounding impatient.\",\"datePublished\":\"2026-07-20T00:00:00.000Z\",\"inLanguage\":\"bn\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Follow Up After an Interview (Without Being Annoying)","date":"2026-07-20T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":24,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Follow Up After an Interview (Without Being Annoying) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn when to send a thank-you note, how to follow up after interview silence, what to say when you have another offer, and how to stay professional without sounding impatient."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Follow Up After an Interview (Without Being Annoying)"}],["$","meta","15",{"property":"og:description","content":"Learn when to send a thank-you note, how to follow up after interview silence, what to say when you have another offer, and how to stay professional without sounding impatient."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-20T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Follow Up After an Interview (Without Being Annoying)"}],["$","meta","25",{"name":"twitter:description","content":"Learn when to send a thank-you note, how to follow up after interview silence, what to say when you have another offer, and how to stay professional without sounding impatient."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

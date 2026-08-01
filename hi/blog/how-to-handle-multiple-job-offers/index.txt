@@ -1,60 +1,375 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T113e,<p>Having two offers at once is a good problem — and a stressful one. Timelines rarely line up, one company is pushing you to sign while you&#39;re still waiting on another, and it&#39;s easy to make a rushed decision you regret. Here&#39;s how to manage competing offers with a clear head, honestly and without torching relationships you might need again.</p>
-<h2>Compare total value, not just base salary</h2>
-<p>Base salary is the loudest number and rarely the most important one. Build a simple comparison across what actually shapes your day and your finances:</p>
-<ul>
-<li><strong>Total comp:</strong> base + bonus + equity (and what that equity realistically means — early-stage options are a lottery ticket, not cash).</li>
-<li><strong>The work itself:</strong> what you&#39;ll build, the tech, the ownership you&#39;ll have.</li>
-<li><strong>The people:</strong> your manager and teammates. This predicts your happiness more than almost anything.</li>
-<li><strong>Growth:</strong> will you learn and level up, or plateau?</li>
-<li><strong>Logistics:</strong> remote/hybrid, hours, commute, PTO, health coverage.</li>
-<li><strong>Stability:</strong> runway and trajectory of the company.</li>
-</ul>
-<p>Write it down. Seeing it on one page cuts through the anxiety and the recency bias of whichever recruiter called last.</p>
-<h2>Buy time gracefully</h2>
-<p>You almost always have more time than you think. When an offer arrives, it&#39;s completely normal to say:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T32c7,<h1>How to Handle Multiple Job Offers (and Choose Well)</h1>
+<p>Getting multiple job offers is something every developer hopes for—but when it finally happens, it can become surprisingly stressful.</p>
+<p>Recruiters have deadlines.</p>
+<p>Hiring managers want answers.</p>
+<p>One company is waiting for your signature while another hasn&#39;t even scheduled the final interview.</p>
+<p>It&#39;s easy to feel pressured into making a decision based on urgency instead of what will actually make you happier six months from now.</p>
+<p>The good news is that having multiple offers gives you leverage—not to pressure companies, but to make a thoughtful decision and negotiate professionally.</p>
+<p>The goal isn&#39;t simply to accept the highest salary.</p>
+<p>It&#39;s to choose the opportunity that gives you the best career over the next several years.</p>
+<hr>
+<h1>First: Slow Down</h1>
+<p>Most candidates immediately assume they have to decide today.</p>
+<p>Usually, you don&#39;t.</p>
+<p>Unless a deadline has already passed, take a breath and gather information.</p>
+<p>Companies expect candidates to compare opportunities.</p>
+<p>Good employers would rather have someone who thoughtfully joins than someone who signs impulsively and quits three months later.</p>
+<p>A simple response works well:</p>
 <blockquote>
-<p>&quot;Thank you — I&#39;m genuinely excited about this. This is an important decision and I&#39;d like a few days to consider it properly. Could I get back to you by [date]?&quot;</p>
+<p>&quot;Thank you very much for the offer. I&#39;m genuinely excited about the opportunity. This is an important career decision, and I&#39;d appreciate a few days to review everything carefully. Would it be okay if I got back to you by Friday?&quot;</p>
 </blockquote>
-<p>Most companies grant a reasonable window (often up to a week). If one refuses to give you even a couple of days, that pressure is itself data about how they operate.</p>
-<h2>Tell the other company you have an offer</h2>
-<p>If you&#39;re waiting on a company you prefer, let them know — politely and factually:</p>
-<blockquote>
-<p>&quot;I want to be transparent: I&#39;ve received an offer with a decision deadline of [date]. You&#39;re my top choice, so I&#39;d love to know if it&#39;s possible to expedite your process.&quot;</p>
-</blockquote>
-<p>This isn&#39;t a threat; it&#39;s information that helps them help you. It often accelerates a stalled pipeline, and a company that wants you will usually try to move.</p>
-<h2>Using leverage without being a jerk</h2>
-<p>Competing offers are legitimate, powerful leverage for negotiation — used with grace. Keep it honest:</p>
+<p>This is normal.</p>
+<p>Professional.</p>
+<p>Respectful.</p>
+<p>If a company refuses to give you even a couple of days, ask yourself whether that pressure reflects how decisions are made throughout the organization.</p>
+<hr>
+<h1>Compare Total Compensation, Not Just Salary</h1>
+<p>The largest number on the page isn&#39;t always the most valuable offer.</p>
+<p>Create a comparison table for every offer.</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Company A</th>
+<th>Company B</th>
+<th>Company C</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Base Salary</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Annual Bonus</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Equity</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>401(k) Match</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Health Insurance</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PTO</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Remote / Hybrid</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Flexible Hours</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Learning Budget</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Equipment Budget</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>On-call Requirements</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Promotion Opportunities</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Manager Quality</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Team Culture</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Overall Impression</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>You&#39;ll often discover that the highest-paying offer isn&#39;t actually the strongest overall package.</p>
+<hr>
+<h1>Compare the Actual Job</h1>
+<p>The work itself matters more than many people realize.</p>
+<p>Ask yourself:</p>
 <ul>
-<li><strong>Never invent an offer.</strong> If a company asks for details and yours is fictional, you&#39;ve lost all trust.</li>
-<li><strong>Frame it collaboratively:</strong> &quot;I&#39;d love to join — is there flexibility to close the gap with the other offer I&#39;m holding?&quot; beats &quot;match this or I walk.&quot;</li>
-<li><strong>Negotiate the offer you want most</strong>, using the other as a genuine, factual benchmark.</li>
+<li>Will I actually enjoy solving these problems?</li>
+<li>Is this technology I want to become known for?</li>
+<li>Will this work make my résumé stronger?</li>
+<li>Will I be proud to talk about these projects in future interviews?</li>
 </ul>
-<h2>Watch for the wrong reasons</h2>
-<p>Under deadline pressure, it&#39;s easy to over-weight the shiny stuff:</p>
+<p>A slightly lower salary attached to significantly better engineering work often pays for itself over the next several years through faster career growth.</p>
+<hr>
+<h1>Evaluate the Manager</h1>
+<p>People rarely quit companies.</p>
+<p>They usually quit managers.</p>
+<p>Think back to every interaction.</p>
+<p>Did your future manager:</p>
 <ul>
-<li><strong>A slightly higher salary</strong> rarely compensates for a manager you didn&#39;t click with or work that bores you.</li>
-<li><strong>Brand names</strong> feel safe but can mean a narrow role and slow growth.</li>
-<li><strong>The fear of &quot;wasting&quot; the other offer</strong> is not a reason to take a job. A declined offer costs you nothing.</li>
+<li>Listen carefully?</li>
+<li>Explain problems clearly?</li>
+<li>Respect your questions?</li>
+<li>Give thoughtful answers?</li>
+<li>Seem excited about mentoring?</li>
 </ul>
-<h2>Decline the others cleanly</h2>
-<p>Once you decide, tell the companies you&#39;re turning down — promptly, warmly, and without over-explaining:</p>
+<p>Or did they:</p>
+<ul>
+<li>Interrupt constantly?</li>
+<li>Speak negatively about employees?</li>
+<li>Avoid difficult questions?</li>
+<li>Seem disorganized?</li>
+</ul>
+<p>The quality of your manager will influence your daily happiness more than almost anything else.</p>
+<hr>
+<h1>Evaluate the Engineering Team</h1>
+<p>Consider:</p>
+<ul>
+<li>Do engineers seem happy?</li>
+<li>Do they stay for years?</li>
+<li>Do they enjoy working together?</li>
+<li>Do they speak positively about leadership?</li>
+<li>Were interview conversations collaborative or adversarial?</li>
+</ul>
+<p>Great teams usually feel different immediately.</p>
+<p>Engineers ask thoughtful questions.</p>
+<p>People smile.</p>
+<p>Discussions become technical instead of political.</p>
+<p>Those signals matter.</p>
+<hr>
+<h1>Think About Learning</h1>
+<p>One of the biggest career accelerators is simply being surrounded by engineers better than you.</p>
+<p>Ask yourself:</p>
+<ul>
+<li>Will I learn from this team?</li>
+<li>Are there senior engineers I admire?</li>
+<li>Is there mentorship?</li>
+<li>Are code reviews taken seriously?</li>
+<li>Will I become noticeably better after two years here?</li>
+</ul>
+<p>The best early-career jobs are often those that maximize learning rather than salary.</p>
+<hr>
+<h1>Look Beyond the First Year</h1>
+<p>Ask yourself where each job could realistically lead.</p>
+<p>Could this role become:</p>
+<ul>
+<li>Senior Engineer?</li>
+<li>Staff Engineer?</li>
+<li>Engineering Manager?</li>
+<li>Architect?</li>
+<li>Technical Lead?</li>
+</ul>
+<p>Will you own larger systems over time?</p>
+<p>Will promotions happen internally?</p>
+<p>Will you be challenged?</p>
+<p>Future opportunities often matter more than today&#39;s paycheck.</p>
+<hr>
+<h1>Tell Other Companies You Have an Offer</h1>
+<p>If you&#39;re waiting on another company, tell them.</p>
+<p>Don&#39;t play games.</p>
+<p>Simply be honest.</p>
+<p>For example:</p>
 <blockquote>
-<p>&quot;Thank you so much for the offer and the time your team invested. After a lot of thought I&#39;ve decided to accept another opportunity that&#39;s a closer fit right now. I really enjoyed meeting everyone and hope our paths cross again.&quot;</p>
+<p>&quot;I wanted to let you know I&#39;ve received another offer with a decision deadline next Wednesday. Your company is still my preferred choice, so I wanted to ask whether it&#39;s possible to accelerate the remaining interview steps.&quot;</p>
 </blockquote>
-<p>The tech world is small. The recruiter you decline gracefully today may be hiring for your dream role in two years — and will remember that you were a class act.</p>
-<h2>Then commit</h2>
-<p>Once you&#39;ve signed, stop second-guessing. There&#39;s rarely a single &quot;correct&quot; choice, and endlessly re-litigating it only steals your energy from the new role. You gathered the facts, weighed what mattered, and chose. Go do great work.</p>
+<p>This isn&#39;t an ultimatum.</p>
+<p>It&#39;s simply useful scheduling information.</p>
+<p>Companies often move much faster once they know the timeline.</p>
+<hr>
+<h1>Negotiate Professionally</h1>
+<p>Multiple offers create leverage.</p>
+<p>Use it respectfully.</p>
+<p>Good negotiation sounds like:</p>
+<blockquote>
+<p>&quot;I&#39;m very excited about joining your team. I have another offer that&#39;s somewhat stronger financially. Is there any flexibility on compensation that would help close the gap?&quot;</p>
+</blockquote>
+<p>Avoid statements like:</p>
+<ul>
+<li>&quot;Match this or I&#39;m gone.&quot;</li>
+<li>&quot;Company X pays way more.&quot;</li>
+<li>&quot;Beat this offer.&quot;</li>
+</ul>
+<p>Professional negotiation focuses on collaboration rather than confrontation.</p>
+<hr>
+<h1>Negotiate More Than Salary</h1>
+<p>Compensation includes many things besides base pay.</p>
+<p>You may be able to negotiate:</p>
+<ul>
+<li>Signing bonus</li>
+<li>Equity</li>
+<li>Annual bonus target</li>
+<li>Additional PTO</li>
+<li>Remote flexibility</li>
+<li>Equipment budget</li>
+<li>Professional conference budget</li>
+<li>Education reimbursement</li>
+<li>Relocation assistance</li>
+<li>Start date</li>
+<li>Visa sponsorship</li>
+<li>Home office stipend</li>
+</ul>
+<p>Sometimes a company can&#39;t increase salary but can improve several other areas.</p>
+<hr>
+<h1>Don&#39;t Chase Tiny Differences</h1>
+<p>Many candidates obsess over small salary differences.</p>
+<p>Ask yourself:</p>
+<p>Would you change jobs for an extra:</p>
+<ul>
+<li>$2,000?</li>
+<li>$5,000?</li>
+</ul>
+<p>Probably not.</p>
+<p>Now compare that with:</p>
+<ul>
+<li>a toxic manager</li>
+<li>constant on-call pages</li>
+<li>outdated technology</li>
+<li>zero mentorship</li>
+<li>no promotion path</li>
+</ul>
+<p>Those factors affect every workday.</p>
+<p>Tiny salary differences disappear surprisingly quickly.</p>
+<hr>
+<h1>Watch for Red Flags</h1>
+<p>Be cautious if a company:</p>
+<ul>
+<li>Pressures you to sign immediately.</li>
+<li>Won&#39;t answer questions.</li>
+<li>Changes the offer verbally.</li>
+<li>Refuses to put promises in writing.</li>
+<li>Gives contradictory information.</li>
+<li>Has multiple interviewers describing different expectations.</li>
+<li>Cannot explain career progression.</li>
+<li>Has unusually high turnover.</li>
+</ul>
+<p>One red flag isn&#39;t always fatal.</p>
+<p>Several together deserve serious attention.</p>
+<hr>
+<h1>Ask Yourself These Questions</h1>
+<p>Before deciding, answer honestly:</p>
+<ul>
+<li>Which manager impressed me most?</li>
+<li>Which team felt healthiest?</li>
+<li>Where would I learn the most?</li>
+<li>Which product excites me?</li>
+<li>Which work would I enjoy discussing every day?</li>
+<li>Which offer aligns with my long-term goals?</li>
+<li>If all salaries were equal, which job would I choose?</li>
+</ul>
+<p>That last question often reveals the answer immediately.</p>
+<hr>
+<h1>Decline Other Offers Professionally</h1>
+<p>Once you&#39;ve decided, respond quickly.</p>
+<p>Don&#39;t disappear.</p>
+<p>Don&#39;t wait until the deadline expires.</p>
+<p>A short email is enough.</p>
+<blockquote>
+<p>Thank you so much for the opportunity and for the time everyone invested throughout the interview process. After careful consideration, I&#39;ve decided to accept another position that is a slightly better fit for my current goals. I truly appreciate the opportunity to meet your team and hope our paths cross again in the future.</p>
+</blockquote>
+<p>The technology industry is much smaller than it appears.</p>
+<p>Recruiters move.</p>
+<p>Managers move.</p>
+<p>Companies merge.</p>
+<p>Professionalism lasts a long time.</p>
+<hr>
+<h1>Once You Choose, Stop Looking Back</h1>
+<p>Many people experience buyer&#39;s remorse after accepting an offer.</p>
+<p>That&#39;s normal.</p>
+<p>Every opportunity comes with trade-offs.</p>
+<p>No company is perfect.</p>
+<p>Eventually you&#39;ll discover things you don&#39;t love about whichever role you chose.</p>
+<p>That doesn&#39;t mean you chose incorrectly.</p>
+<p>It simply means you&#39;ve joined a real company instead of the idealized version from interviews.</p>
+<p>Commit fully.</p>
+<p>Learn quickly.</p>
+<p>Build relationships.</p>
+<p>Make the most of the opportunity.</p>
+<hr>
+<h1>Resume Tip: Your Next Job Starts on Day One</h1>
+<p>Ironically, the best way to prepare for your next job search is to succeed in the one you&#39;re about to start.</p>
+<p>Throughout your new role:</p>
+<ul>
+<li>Keep a running list of accomplishments.</li>
+<li>Track measurable business impact.</li>
+<li>Record technologies you learn.</li>
+<li>Save positive performance feedback.</li>
+<li>Write down metrics before and after your work.</li>
+<li>Update your résumé every few months instead of every few years.</li>
+</ul>
+<p>Candidates who continuously document achievements build dramatically stronger résumés than those trying to remember everything years later.</p>
+<hr>
+<h1>Quick Decision Checklist</h1>
+<p>Before accepting any offer, make sure you can answer <strong>yes</strong> to most of these questions:</p>
+<ul>
+<li>✅ I understand exactly what I&#39;ll be working on.</li>
+<li>✅ I respect and trust my future manager.</li>
+<li>✅ The engineering team seems collaborative and supportive.</li>
+<li>✅ The compensation meets my financial goals.</li>
+<li>✅ The technology aligns with my long-term career.</li>
+<li>✅ I know what success looks like in the first year.</li>
+<li>✅ I understand promotion opportunities.</li>
+<li>✅ I asked every important question before signing.</li>
+<li>✅ The company treated me respectfully throughout hiring.</li>
+<li>✅ I&#39;m choosing this role because I genuinely want it—not because I felt pressured.</li>
+</ul>
+<p>If you can confidently check most of those boxes, you&#39;re probably making a strong decision.</p>
+<hr>
+<h1>Key Takeaways</h1>
+<p>Multiple job offers aren&#39;t about creating bidding wars—they&#39;re an opportunity to choose the career path that&#39;s best for you.</p>
+<p>Compare the complete package, not just salary. Evaluate the work, the people, the manager, and your opportunities to learn. Use competing offers honestly when negotiating, communicate professionally with every company, and never let artificial deadlines force a decision you&#39;re not ready to make.</p>
+<p>The best offer isn&#39;t always the highest-paying one.</p>
+<p>It&#39;s the one that helps you become the engineer—and the professional—you want to be five years from now.</p>
+<hr>
+<p><em>Looking for companies worth choosing between? <strong>Create your free JobsList.dev profile</strong>, showcase your experience, and connect directly with employers who value talented developers.</em></p>
 5:["locale","hi","d"]
 6:["slug","how-to-handle-multiple-job-offers","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","how-to-handle-multiple-job-offers","d"],{"children":["__PAGE__?{\"locale\":\"hi\",\"slug\":\"how-to-handle-multiple-job-offers\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","how-to-handle-multiple-job-offers","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Handle Multiple Job Offers (and Choose Well)\",\"description\":\"For job seekers: how to compare competing offers, buy time gracefully, use leverage without burning bridges, and decide with a clear head.\",\"datePublished\":\"2026-07-14T00:00:00.000Z\",\"inLanguage\":\"hi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Handle Multiple Job Offers (and Choose Well)","date":"2026-07-14T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Handle Multiple Job Offers (and Choose Well) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For job seekers: how to compare competing offers, buy time gracefully, use leverage without burning bridges, and decide with a clear head."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Handle Multiple Job Offers (and Choose Well)"}],["$","meta","15",{"property":"og:description","content":"For job seekers: how to compare competing offers, buy time gracefully, use leverage without burning bridges, and decide with a clear head."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-14T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Handle Multiple Job Offers (and Choose Well)"}],["$","meta","25",{"name":"twitter:description","content":"For job seekers: how to compare competing offers, buy time gracefully, use leverage without burning bridges, and decide with a clear head."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","how-to-handle-multiple-job-offers","d"],{"children":["__PAGE__?{\"locale\":\"hi\",\"slug\":\"how-to-handle-multiple-job-offers\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","how-to-handle-multiple-job-offers","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Handle Multiple Job Offers (and Choose Well)\",\"description\":\"For job seekers: how to compare competing offers, negotiate professionally, buy time gracefully, and choose the opportunity that best supports your long-term career.\",\"datePublished\":\"2026-07-14T00:00:00.000Z\",\"inLanguage\":\"hi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Handle Multiple Job Offers (and Choose Well)","date":"2026-07-14T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":8,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Handle Multiple Job Offers (and Choose Well) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For job seekers: how to compare competing offers, negotiate professionally, buy time gracefully, and choose the opportunity that best supports your long-term career."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Handle Multiple Job Offers (and Choose Well)"}],["$","meta","15",{"property":"og:description","content":"For job seekers: how to compare competing offers, negotiate professionally, buy time gracefully, and choose the opportunity that best supports your long-term career."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-14T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Handle Multiple Job Offers (and Choose Well)"}],["$","meta","25",{"name":"twitter:description","content":"For job seekers: how to compare competing offers, negotiate professionally, buy time gracefully, and choose the opportunity that best supports your long-term career."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

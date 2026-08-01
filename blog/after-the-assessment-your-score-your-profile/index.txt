@@ -1,38 +1,1091 @@
-2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","308","static/chunks/app/blog/%5Bslug%5D/page-207a572bf47badd6.js"],""]
-4:I[5613,[],""]
-6:I[31778,[],""]
-7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
-9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-a:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T104f,<p>You clicked submit — now what? A lot of assessment platforms leave you staring at a &quot;thank you&quot; screen with no idea what just happened to your work. We&#39;d rather be clear. Here&#39;s exactly what happens after you finish a JobsList.dev assessment: what the company sees, what you see, and the option to keep your score and turn one assessment into an ongoing head start.</p>
-<h2>Your work is graded fairly</h2>
-<p>Most questions are scored automatically the moment you submit — consistently, against the same standard as everyone else. Some question types (like a written explanation, if the assessment includes one) are reviewed by a person on the company&#39;s side, so those may take a little longer to finalize. Either way, the grading is designed to be fair: partial credit where it&#39;s meaningful, normalized matching so a right answer isn&#39;t marked wrong over spacing or capitalization, and no negative marking anywhere.</p>
-<h2>What the company sees</h2>
-<p>The hiring team receives a clear, honest picture of how you did:</p>
+2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-cf31230153943607.js"],""]
+3:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-cf31230153943607.js"],"Image"]
+5:I[5613,[],""]
+7:I[31778,[],""]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
+a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
+b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+4:Tbcd7,<p>You finished the last question, reviewed your answers, and clicked <strong>Submit</strong>.</p>
+<p>Now what?</p>
+<p>Many assessment platforms end the candidate experience with a generic confirmation screen. Your answers disappear into an employer’s hiring system, you receive little explanation, and the effort you invested may never be useful outside that one application.</p>
+<p>JobsList.dev is designed to make the next step clearer.</p>
+<p>After you submit an assessment, your work is recorded and evaluated according to the assessment’s scoring rules. The company receives information intended to help it understand your demonstrated skills, while you may be given the opportunity to preserve your result by claiming a free JobsList.dev profile.</p>
+<p>That means one assessment can become more than a temporary hiring requirement.</p>
+<p>It can become part of a broader professional profile that shows what you can do—not only what your résumé says you have done.</p>
+<p>This guide explains:</p>
 <ul>
-<li><strong>Section scores</strong>, not just a single number. This shows <em>where</em> you&#39;re strong — which is what a good hiring team actually wants, and which works in your favor if you shine in the areas that matter for the role.</li>
-<li><strong>Neutral context</strong>, presented separately from your score. Anything the system noted during the assessment is shown as plain facts, never as an accusation, and it never automatically fails you. A human reads it with judgment.</li>
+<li>what happens immediately after submission;</li>
+<li>how assessment scoring works;</li>
+<li>what the hiring company may see;</li>
+<li>what you may see as a candidate;</li>
+<li>what assessment context means;</li>
+<li>how to claim and improve your profile;</li>
+<li>how to use your result in the rest of your job search;</li>
+<li>what to do when your score is lower or higher than expected;</li>
+<li>how assessments fit alongside your résumé, portfolio, and interviews.</li>
 </ul>
-<p>What the company does <strong>not</strong> get: the internal answer keys, any webcam or screen footage (there is none), or a verdict handed down by an algorithm. They get a fair result and use their judgment — the way it should be.</p>
-<h2>What you see</h2>
-<p>Whether you see your own score, and how much detail, is up to the company that invited you — some share the full breakdown, some share a summary, some keep it internal and follow up directly. That&#39;s their call to make about their hiring process. What&#39;s consistent on our side is that your result is handled honestly and your effort is recorded.</p>
-<h2>Keep your score: claim a free profile</h2>
-<p>Here&#39;s the part worth knowing: after you finish, you&#39;ll be offered a <strong>free JobsList profile to keep your score</strong>. You took the assessment through a one-time link without needing an account — but if you&#39;d like, you can claim a profile in a moment and carry that result forward. With a profile you can:</p>
+<h1>What happens when you click Submit</h1>
+<p>Submitting your assessment completes the active attempt.</p>
+<p>At that point, JobsList.dev records the answers included in your submission and begins applying the assessment’s scoring rules.</p>
+<p>Depending on the assessment, this may involve:</p>
 <ul>
-<li><strong>Hold onto your score</strong> instead of it living only with one company.</li>
-<li><strong>Keep applying</strong> to other roles on JobsList.dev with a head start.</li>
-<li><strong>Build a candidate profile</strong> that shows real, demonstrated ability — not just a résumé.</li>
+<li>automatically scored questions;</li>
+<li>section-level calculations;</li>
+<li>normalized answer comparison;</li>
+<li>partial credit where the question supports it;</li>
+<li>manual review of written responses;</li>
+<li>generation of an overall result;</li>
+<li>preparation of the company-facing assessment summary;</li>
+<li>preparation of any candidate-facing result the company has chosen to share.</li>
 </ul>
-<p>It&#39;s completely optional and there&#39;s no pressure. If you just wanted to complete the one assessment, you&#39;re free to close the tab and you&#39;re done.</p>
-<h2>Why we offer this</h2>
-<p>We think it&#39;s a little unfair that in most hiring processes, <em>you</em> do the work of proving your skills and the result vanishes into one company&#39;s system the moment you&#39;re not hired. Claiming your score flips that: the effort you invested becomes <em>yours</em>, portable, and useful for the next opportunity too. One assessment can become an ongoing advantage instead of a one-time hoop.</p>
-<h2>A note on cost</h2>
-<p>Assessments are <strong>free during our beta</strong> — free for you as a candidate always, and currently free for companies too as we grow. Taking one never costs you anything.</p>
-<h2>What to do next</h2>
-<p>If you claimed a profile, complete it — add your details and let your demonstrated skills do some of the talking as you apply. If you didn&#39;t, no problem; you&#39;ve given the company a fair, real look at what you can do, which is the whole point. Either way: nicely done, and thank you for taking the time. We built this process to respect that time — and to make the work you put in count for something beyond a single application.</p>
-5:["slug","after-the-assessment-your-score-your-profile","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__?{\"slug\":\"after-the-assessment-your-score-your-profile\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"After the Assessment: Your Score, Your Profile, Your Next Step\",\"description\":\"For candidates: what happens once you submit a JobsList.dev assessment — what the company sees, what you see, and how claiming a free profile lets you keep your score.\",\"datePublished\":\"2026-07-24T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","header",null,{"className":"mt-4 mb-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold tracking-tight text-surface-900","children":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","div",null,{"className":"flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-07-24T00:00:00.000Z","children":"July 23, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[3," min read"]}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$3"}}],null,["$","div",null,{"className":"mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$La",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
-c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"After the Assessment: Your Score, Your Profile, Your Next Step | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For candidates: what happens once you submit a JobsList.dev assessment — what the company sees, what you see, and how claiming a free profile lets you keep your score."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","9",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","10",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","13",{"property":"og:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","14",{"property":"og:description","content":"For candidates: what happens once you submit a JobsList.dev assessment — what the company sees, what you see, and how claiming a free profile lets you keep your score."}],["$","meta","15",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2026-07-24T00:00:00.000Z"}],["$","meta","21",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","24",{"name":"twitter:description","content":"For candidates: what happens once you submit a JobsList.dev assessment — what the company sees, what you see, and how claiming a free profile lets you keep your score."}],["$","meta","25",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","meta","28",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","30",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","32",{"name":"next-size-adjust"}]]
+<p>You do not need to keep the assessment page open for the result to remain recorded after a successful submission.</p>
+<p>Before closing the page, read the confirmation message and follow any instructions provided. Some companies may explain their next hiring step separately by email.</p>
+<h1>Your work is evaluated against the assessment rules</h1>
+<p>A well-designed assessment should evaluate every candidate against the same underlying criteria.</p>
+<p>That does not mean every question must be simple or every candidate will receive the same experience. It means the result should be based on the assessment rather than an interviewer’s personal impression.</p>
+<p>Depending on the question type, scoring may consider:</p>
+<ul>
+<li>whether the selected answer is correct;</li>
+<li>whether multiple required choices were identified;</li>
+<li>whether a response matches an accepted result;</li>
+<li>whether important parts of a solution were included;</li>
+<li>whether partial credit is appropriate;</li>
+<li>how a candidate performed within each skill section.</li>
+</ul>
+<p>The purpose is not to manufacture a dramatic pass-or-fail verdict.</p>
+<p>The purpose is to give the company another piece of evidence about your current skills.</p>
+<h1>Automatic scoring</h1>
+<p>Many assessment questions can be evaluated automatically.</p>
+<p>Examples may include:</p>
+<ul>
+<li>single-answer multiple-choice questions;</li>
+<li>multiple-select questions;</li>
+<li>matching questions;</li>
+<li>code-reading questions with defined results;</li>
+<li>structured technical knowledge questions;</li>
+<li>other questions with clearly established accepted answers.</li>
+</ul>
+<p>Automatic scoring creates consistency because the same scoring rule is applied across candidates.</p>
+<p>It also allows results to be prepared quickly.</p>
+<h1>Human-reviewed answers</h1>
+<p>Some question types cannot be evaluated meaningfully with a simple correct-or-incorrect rule.</p>
+<p>Examples may include:</p>
+<ul>
+<li>written technical explanations;</li>
+<li>trade-off discussions;</li>
+<li>architecture reasoning;</li>
+<li>open-ended problem analysis;</li>
+<li>responses where communication and judgment matter.</li>
+</ul>
+<p>When an assessment contains manually reviewed material, the final result may take longer to complete.</p>
+<p>That delay does not mean something went wrong.</p>
+<p>It means a person may need to review part of the submission before the company has the complete result.</p>
+<h1>Partial credit</h1>
+<p>Some questions contain more than one meaningful part.</p>
+<p>When the scoring design supports it, a candidate may receive partial credit for demonstrating some of the required understanding.</p>
+<p>For example, a response might correctly identify:</p>
+<ul>
+<li>the primary failure;</li>
+<li>one relevant edge case;</li>
+<li>part of the appropriate solution;</li>
+</ul>
+<p>while missing another required element.</p>
+<p>Partial credit can provide a more accurate picture than treating every answer as completely right or completely wrong.</p>
+<p>Not every question supports partial credit. The assessment author determines how each question is scored.</p>
+<h1>Normalized answer handling</h1>
+<p>Structured answers may sometimes differ only in formatting.</p>
+<p>For example:</p>
+<ul>
+<li>capitalization;</li>
+<li>extra spacing;</li>
+<li>equivalent formatting;</li>
+<li>other minor presentation differences.</li>
+</ul>
+<p>Where the question design permits it, normalized matching helps prevent an otherwise correct response from being rejected solely because of an irrelevant formatting difference.</p>
+<p>This does not mean every approximate answer is accepted.</p>
+<p>It means formatting should not become the test when the question is intended to test understanding.</p>
+<h1>No negative marking</h1>
+<p>JobsList.dev assessments do not subtract additional points merely because you selected an incorrect answer.</p>
+<p>You simply do not receive the available credit for that answer.</p>
+<p>This matters because candidates should not be afraid to make a reasoned choice when they are uncertain.</p>
+<p>An unanswered question cannot demonstrate what you know.</p>
+<p>When you have reviewed the options and there is no additional penalty for an incorrect response, your best judgment is usually more useful than leaving the question blank.</p>
+<h1>An assessment score is evidence, not your identity</h1>
+<p>Your result reflects how you performed:</p>
+<ul>
+<li>on that assessment;</li>
+<li>under those conditions;</li>
+<li>on that day;</li>
+<li>against that particular collection of questions.</li>
+</ul>
+<p>It does not define your complete professional ability.</p>
+<p>No assessment can fully measure:</p>
+<ul>
+<li>how you collaborate over several months;</li>
+<li>how quickly you learn a company’s codebase;</li>
+<li>how you respond to production incidents;</li>
+<li>how you build trust with teammates;</li>
+<li>how you communicate with customers;</li>
+<li>how your judgment develops with context;</li>
+<li>how you perform in every possible technical area.</li>
+</ul>
+<p>A score is one signal.</p>
+<p>It should be considered alongside:</p>
+<ul>
+<li>your résumé;</li>
+<li>professional experience;</li>
+<li>projects;</li>
+<li>GitHub profile;</li>
+<li>portfolio;</li>
+<li>interview performance;</li>
+<li>references;</li>
+<li>communication;</li>
+<li>role-specific evidence.</li>
+</ul>
+<p>Do not turn one number into a verdict about your future.</p>
+<h1>What the hiring company may see</h1>
+<p>The company that invited you receives an assessment result intended to support human hiring judgment.</p>
+<p>The information may include several types of useful context.</p>
+<h1>Overall result</h1>
+<p>The company may receive an overall assessment score.</p>
+<p>This provides a quick summary, but it should not be the only part of the result a thoughtful hiring team considers.</p>
+<p>Two candidates with similar total scores may have very different strengths.</p>
+<p>For example:</p>
+<ul>
+<li>one may be strongest in problem-solving and testing;</li>
+<li>another may be strongest in system design and communication;</li>
+<li>another may have balanced performance across every section.</li>
+</ul>
+<p>That is why section-level information matters.</p>
+<h1>Section scores</h1>
+<p>The company may see how you performed within individual parts of the assessment.</p>
+<p>Sections might represent areas such as:</p>
+<ul>
+<li>problem-solving;</li>
+<li>programming fundamentals;</li>
+<li>code quality;</li>
+<li>testing;</li>
+<li>debugging;</li>
+<li>databases;</li>
+<li>system design;</li>
+<li>security;</li>
+<li>communication;</li>
+<li>role-specific technologies.</li>
+</ul>
+<p>The actual sections depend on the assessment you completed.</p>
+<p>Section scores can help a company understand more than whether you reached one total number.</p>
+<p>They may reveal that you are especially strong in an area central to the role, even when another part of the assessment was more difficult for you.</p>
+<h1>Why section scores can help you</h1>
+<p>Suppose a backend role emphasizes:</p>
+<ul>
+<li>database reasoning;</li>
+<li>API design;</li>
+<li>debugging;</li>
+<li>production reliability.</li>
+</ul>
+<p>Your overall score may be only one part of the picture. Strong performance in those relevant sections may be more useful to the hiring team than a slightly higher total driven by unrelated questions.</p>
+<p>A thoughtful employer should ask:</p>
+<blockquote>
+<p>Where did this candidate demonstrate strength, and how does that match the work we need done?</p>
+</blockquote>
+<p>That is more useful than reducing every person to a single ranking.</p>
+<h1>Submission details</h1>
+<p>The company may receive information necessary to understand the completed attempt, such as:</p>
+<ul>
+<li>the assessment completed;</li>
+<li>submission status;</li>
+<li>section results;</li>
+<li>responses requiring review;</li>
+<li>other relevant assessment records.</li>
+</ul>
+<p>The exact presentation depends on the assessment and company workflow.</p>
+<h1>Neutral assessment context</h1>
+<p>The system may record contextual events related to the assessment experience.</p>
+<p>When provided to the company, this context is intended to be presented as factual information—not as an accusation or an automatic judgment.</p>
+<p>That distinction matters.</p>
+<p>A technical event, browser event, interruption, or other recorded circumstance does not necessarily indicate wrongdoing.</p>
+<p>Context should be reviewed by a person who considers reasonable explanations.</p>
+<p>It should not automatically fail a candidate.</p>
+<h1>Human judgment remains part of hiring</h1>
+<p>JobsList.dev does not replace the hiring team with an algorithmic verdict.</p>
+<p>The company still decides:</p>
+<ul>
+<li>how much weight the assessment receives;</li>
+<li>how it relates to the role;</li>
+<li>whether an interview should follow;</li>
+<li>how to interpret strengths and gaps;</li>
+<li>whether another piece of evidence is needed;</li>
+<li>whether the candidate should move forward.</li>
+</ul>
+<p>A responsible hiring team should use the result as one part of a broader evaluation.</p>
+<h1>What the company does not receive</h1>
+<p>JobsList.dev assessments are designed around demonstrated responses rather than invasive surveillance.</p>
+<p>The company does not receive:</p>
+<ul>
+<li>webcam recordings;</li>
+<li>video of you taking the assessment;</li>
+<li>screen recordings;</li>
+<li>secret footage of your workspace;</li>
+<li>access to internal answer keys;</li>
+<li>an automatic declaration that you are dishonest;</li>
+<li>a final hiring decision made for them.</li>
+</ul>
+<p>There is no webcam or screen footage because the assessment does not record it.</p>
+<p>The company receives assessment information and applies its own judgment.</p>
+<h1>What you may see after submitting</h1>
+<p>The information visible to candidates can vary based on the company’s assessment settings and hiring process.</p>
+<p>A company may choose to share:</p>
+<ul>
+<li>the complete score;</li>
+<li>an overall result;</li>
+<li>section-level performance;</li>
+<li>a limited summary;</li>
+<li>a completion confirmation without immediate score details;</li>
+<li>results later through direct communication.</li>
+</ul>
+<p>That means two assessments on JobsList.dev may not show candidates the same amount of information afterward.</p>
+<p>The company controls how much of its assessment result is shared with the invited candidate.</p>
+<h1>Why companies may choose different result settings</h1>
+<p>Employers organize assessment processes differently.</p>
+<p>A company may want to:</p>
+<ul>
+<li>review all candidates before releasing updates;</li>
+<li>combine assessment and interview evidence;</li>
+<li>discuss the result during a technical interview;</li>
+<li>share a complete breakdown immediately;</li>
+<li>provide only a completion confirmation;</li>
+<li>communicate decisions through its recruiter.</li>
+</ul>
+<p>The lack of an immediate visible score does not necessarily mean your submission failed or was lost.</p>
+<p>Follow the instructions on the result page and watch for company communication.</p>
+<h1>When a score is displayed immediately</h1>
+<p>When your result is available after submission, take time to read the full breakdown rather than reacting only to the total.</p>
+<p>Look for:</p>
+<ul>
+<li>strongest sections;</li>
+<li>weaker sections;</li>
+<li>balance across categories;</li>
+<li>areas closely related to the role;</li>
+<li>information about next steps;</li>
+<li>profile-claim options.</li>
+</ul>
+<p>A result becomes more useful when you interpret it as a skills map rather than a judgment.</p>
+<h1>When a score is not displayed</h1>
+<p>When the company does not share your score immediately:</p>
+<ul>
+<li>confirm that the assessment shows as completed;</li>
+<li>save any completion confirmation;</li>
+<li>review the company’s stated timeline;</li>
+<li>wait for the promised update;</li>
+<li>contact the appropriate recruiter or hiring contact when the timeline passes.</li>
+</ul>
+<p>A concise follow-up might say:</p>
+<blockquote>
+<p>Hi [Name], I completed the [Assessment Name] assessment on [date] and received confirmation that it was submitted successfully. I wanted to ask whether you can share the expected timeline for the next step. Thank you.</p>
+</blockquote>
+<p>Do not repeatedly message the company immediately after submitting.</p>
+<p>Give the hiring team the time it said it needs.</p>
+<h1>Claiming your free JobsList.dev profile</h1>
+<p>You may have completed the assessment through a direct invitation without creating an account first.</p>
+<p>After submission, you can be offered the opportunity to claim a free JobsList.dev profile.</p>
+<p>Claiming the profile connects the assessment result to an ongoing candidate identity on JobsList.dev.</p>
+<p>This can help turn a one-time assessment into part of a broader job-search presence.</p>
+<h1>What claiming your profile means</h1>
+<p>A claimed profile can allow you to:</p>
+<ul>
+<li>preserve your assessment result;</li>
+<li>build a reusable candidate profile;</li>
+<li>add professional experience;</li>
+<li>list technical skills;</li>
+<li>showcase projects;</li>
+<li>connect relevant work;</li>
+<li>apply to additional JobsList.dev opportunities;</li>
+<li>carry demonstrated skills into your broader presence on the platform.</li>
+</ul>
+<p>Instead of allowing the assessment to remain connected only to one company invitation, you can use it as part of your own professional profile.</p>
+<h1>Claiming a profile is optional</h1>
+<p>You are not required to create a profile merely because you completed an assessment.</p>
+<p>You can submit the invited assessment, receive the available confirmation, and stop there.</p>
+<p>Claiming a profile is offered as an additional opportunity.</p>
+<p>There should be no penalty for choosing not to create one.</p>
+<h1>Why keeping your result matters</h1>
+<p>Candidates repeatedly perform unpaid or uncompensated work during hiring:</p>
+<ul>
+<li>applications;</li>
+<li>assessments;</li>
+<li>interviews;</li>
+<li>take-home assignments;</li>
+<li>portfolio reviews;</li>
+<li>reference preparation.</li>
+</ul>
+<p>In many traditional systems, the result belongs only to the employer’s process.</p>
+<p>When that employer chooses someone else, the candidate receives no lasting benefit from the assessment effort.</p>
+<p>Preserving the result on your profile changes that relationship.</p>
+<p>Your work can remain connected to you and may help demonstrate your skills beyond the original invitation.</p>
+<h1>One assessment should not have to be a dead end</h1>
+<p>Consider two hiring processes.</p>
+<p>In the first:</p>
+<ol>
+<li>You spend an hour completing an assessment.</li>
+<li>The company receives the result.</li>
+<li>You are not selected.</li>
+<li>Your work disappears into the company’s system.</li>
+<li>You begin again from zero elsewhere.</li>
+</ol>
+<p>In the second:</p>
+<ol>
+<li>You complete the assessment.</li>
+<li>The inviting company receives the result.</li>
+<li>You claim a free profile.</li>
+<li>Your demonstrated ability becomes part of your JobsList.dev presence.</li>
+<li>You continue building and applying with that evidence attached to your professional identity.</li>
+</ol>
+<p>The second process respects the time you invested more fully.</p>
+<h1>How to claim your profile carefully</h1>
+<p>When you see the profile-claim option:</p>
+<ol>
+<li>Confirm that you are using an email address you control.</li>
+<li>Follow the account-claim instructions.</li>
+<li>Complete any required verification.</li>
+<li>Review the information connected to the assessment.</li>
+<li>Add professional details.</li>
+<li>Check your privacy and visibility settings where available.</li>
+<li>Preview the profile from an employer’s perspective.</li>
+<li>Keep the account information current.</li>
+</ol>
+<p>Use an email address you expect to retain.</p>
+<p>Avoid relying solely on a temporary school, employer, or contract address that may later become inaccessible.</p>
+<h1>Build a profile that supports the score</h1>
+<p>An assessment score is more persuasive when the rest of the profile gives it context.</p>
+<p>Employers need to understand:</p>
+<ul>
+<li>what kind of developer you are;</li>
+<li>which roles you want;</li>
+<li>what you have built;</li>
+<li>where you have used the assessed skills;</li>
+<li>what level of responsibility you can handle.</li>
+</ul>
+<p>Complete the sections that help tell that story.</p>
+<h1>Add a clear professional headline</h1>
+<p>Your headline should quickly communicate your professional direction.</p>
+<p>Examples:</p>
+<blockquote>
+<p>Backend Engineer · Go, PostgreSQL, APIs, distributed workflows</p>
+</blockquote>
+<blockquote>
+<p>Frontend Developer · TypeScript, React, accessibility, design systems</p>
+</blockquote>
+<blockquote>
+<p>Junior Full-Stack Developer · React, Node.js, PostgreSQL</p>
+</blockquote>
+<blockquote>
+<p>Data Engineer · SQL, Python, pipelines, data quality</p>
+</blockquote>
+<blockquote>
+<p>DevOps Engineer · AWS, Terraform, CI/CD, observability</p>
+</blockquote>
+<p>Avoid headlines such as:</p>
+<blockquote>
+<p>Developer looking for opportunities</p>
+</blockquote>
+<p>That does not tell employers what kind of work you are prepared to do.</p>
+<h1>Write a useful profile summary</h1>
+<p>A good summary can answer four questions:</p>
+<ol>
+<li>What kind of engineer are you?</li>
+<li>What are you strongest at?</li>
+<li>What evidence supports that?</li>
+<li>What do you want next?</li>
+</ol>
+<p>Example:</p>
+<blockquote>
+<p>I am a backend engineer focused on Go, PostgreSQL, and reliable API workflows. In my current role, I own payment-reconciliation services and recently led a migration to idempotent event processing. I am strongest in data modeling, debugging, and production reliability, and I am looking for a remote backend or platform role with meaningful system ownership.</p>
+</blockquote>
+<p>For a junior candidate:</p>
+<blockquote>
+<p>I am a junior full-stack developer working with TypeScript, React, Node.js, and PostgreSQL. My strongest project is a deployed scheduling application with organization-scoped permissions, automated tests, and a documented API. I am looking for a team that offers regular code review, mentorship, and the opportunity to ship real product work.</p>
+</blockquote>
+<h1>Add employment experience</h1>
+<p>For each relevant role, include:</p>
+<ul>
+<li>title;</li>
+<li>company;</li>
+<li>dates;</li>
+<li>scope;</li>
+<li>technologies;</li>
+<li>accomplishments;</li>
+<li>measurable results;</li>
+<li>individual contribution.</li>
+</ul>
+<p>Avoid listing only duties.</p>
+<p>Weak:</p>
+<blockquote>
+<p>Responsible for backend development and bug fixes.</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>Built and maintained Node.js services supporting subscription billing. Added idempotency controls and database constraints that eliminated a recurring duplicate-charge issue.</p>
+</blockquote>
+<p>The assessment may show capability.</p>
+<p>Your experience shows where you applied it.</p>
+<h1>Add projects</h1>
+<p>Projects are especially useful for:</p>
+<ul>
+<li>junior developers;</li>
+<li>career changers;</li>
+<li>self-taught candidates;</li>
+<li>candidates returning after a gap;</li>
+<li>engineers whose professional code is private.</li>
+</ul>
+<p>For each project, explain:</p>
+<ul>
+<li>the problem;</li>
+<li>who it serves;</li>
+<li>what you built;</li>
+<li>your technical decisions;</li>
+<li>technologies;</li>
+<li>tests;</li>
+<li>deployment;</li>
+<li>current limitations;</li>
+<li>live and source links.</li>
+</ul>
+<p>Do not add ten unfinished tutorials.</p>
+<p>Add a small number of projects that strengthen the professional story your profile tells.</p>
+<h1>Connect your GitHub and portfolio</h1>
+<p>A score tells employers how you performed on an assessment.</p>
+<p>A repository or live project gives them something else to inspect.</p>
+<p>Your strongest links may include:</p>
+<ul>
+<li>GitHub profile;</li>
+<li>personal portfolio;</li>
+<li>live application;</li>
+<li>technical case study;</li>
+<li>package or library;</li>
+<li>open-source contribution;</li>
+<li>technical writing;</li>
+<li>application store listing;</li>
+<li>API documentation.</li>
+</ul>
+<p>Verify every link in a private browser window.</p>
+<h1>List skills honestly</h1>
+<p>Use recognizable technology names.</p>
+<p>Examples:</p>
+<ul>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>React</li>
+<li>Next.js</li>
+<li>Node.js</li>
+<li>Go</li>
+<li>Rust</li>
+<li>Python</li>
+<li>Java</li>
+<li>C#</li>
+<li>PostgreSQL</li>
+<li>MySQL</li>
+<li>Redis</li>
+<li>AWS</li>
+<li>Azure</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>Terraform</li>
+</ul>
+<p>Prioritize the skills you actually want to use in your next job.</p>
+<p>Do not add a technology merely because you completed one tutorial.</p>
+<h1>Add your location and work preferences</h1>
+<p>Employers may need to know:</p>
+<ul>
+<li>current location;</li>
+<li>remote, hybrid, or on-site preference;</li>
+<li>acceptable time zones;</li>
+<li>relocation interest;</li>
+<li>employment type;</li>
+<li>role level;</li>
+<li>availability;</li>
+<li>work-authorization requirements where relevant.</li>
+</ul>
+<p>Clear preferences reduce irrelevant outreach.</p>
+<h1>Make the score part of a complete story</h1>
+<p>The assessment result should reinforce your profile rather than stand alone.</p>
+<p>For example:</p>
+<ul>
+<li>strong testing performance can be supported by project test suites;</li>
+<li>strong database performance can be supported by schema and query work;</li>
+<li>strong frontend performance can be supported by accessible live interfaces;</li>
+<li>strong system-design performance can be supported by architecture case studies;</li>
+<li>strong communication performance can be supported by clear READMEs and writing.</li>
+</ul>
+<p>The strongest hiring signal is agreement across different types of evidence.</p>
+<h1>How to interpret your result</h1>
+<p>Your first emotional reaction may not be your most useful one.</p>
+<p>A score that looks lower than expected may still contain valuable strengths.</p>
+<p>A score that looks high may still reveal important gaps.</p>
+<p>Review the result in layers.</p>
+<h1>Start with the section breakdown</h1>
+<p>Ask:</p>
+<ul>
+<li>Which sections were strongest?</li>
+<li>Which sections were weakest?</li>
+<li>Which sections matter most for my target role?</li>
+<li>Was the performance balanced?</li>
+<li>Did one unfamiliar topic affect the total?</li>
+<li>Does the result match what I believe about my skills?</li>
+</ul>
+<h1>Compare the score with your target role</h1>
+<p>Not every role needs the same profile.</p>
+<p>A frontend developer may care most about:</p>
+<ul>
+<li>JavaScript and TypeScript;</li>
+<li>browser behavior;</li>
+<li>accessibility;</li>
+<li>user-interface reasoning;</li>
+<li>testing.</li>
+</ul>
+<p>A backend developer may care most about:</p>
+<ul>
+<li>APIs;</li>
+<li>databases;</li>
+<li>reliability;</li>
+<li>debugging;</li>
+<li>data correctness.</li>
+</ul>
+<p>A platform engineer may care most about:</p>
+<ul>
+<li>infrastructure;</li>
+<li>automation;</li>
+<li>observability;</li>
+<li>incident response;</li>
+<li>reliability trade-offs.</li>
+</ul>
+<p>A lower score in a less relevant area may not be as important as strong performance in the competencies the role actually needs.</p>
+<h1>Treat weak sections as a learning map</h1>
+<p>A weaker section gives you a more focused question than:</p>
+<blockquote>
+<p>What should I learn next?</p>
+</blockquote>
+<p>It suggests:</p>
+<blockquote>
+<p>Which specific area should I strengthen?</p>
+</blockquote>
+<p>For example:</p>
+<ul>
+<li>testing;</li>
+<li>SQL;</li>
+<li>debugging;</li>
+<li>networking;</li>
+<li>system design;</li>
+<li>data structures;</li>
+<li>security;</li>
+<li>accessibility;</li>
+<li>cloud infrastructure;</li>
+<li>communication.</li>
+</ul>
+<p>That is actionable.</p>
+<h1>Do not rewrite your identity around one score</h1>
+<p>Avoid conclusions such as:</p>
+<ul>
+<li>I am not a real developer.</li>
+<li>I will never pass a technical interview.</li>
+<li>I am terrible at backend engineering.</li>
+<li>Nobody will hire me.</li>
+<li>My career is over.</li>
+</ul>
+<p>A single assessment cannot support those conclusions.</p>
+<p>It can tell you that certain questions were difficult under a particular set of conditions.</p>
+<p>That is information—not destiny.</p>
+<h1>What to do when your score is lower than expected</h1>
+<p>A disappointing score can be useful when approached methodically.</p>
+<h1>Confirm the conditions</h1>
+<p>Ask yourself:</p>
+<ul>
+<li>Was I rested?</li>
+<li>Did I rush?</li>
+<li>Did I misread questions?</li>
+<li>Was I interrupted?</li>
+<li>Did I spend too long on one section?</li>
+<li>Did I encounter unfamiliar terminology?</li>
+<li>Was the assessment aligned with my target role?</li>
+<li>Did anxiety affect my pacing?</li>
+</ul>
+<p>Do not use these questions to dismiss the result.</p>
+<p>Use them to separate technical gaps from assessment-process mistakes.</p>
+<h1>Identify the actual topic gap</h1>
+<p>Do not respond by studying everything.</p>
+<p>Select the one or two sections creating the largest weakness.</p>
+<p>For example:</p>
+<blockquote>
+<p>I need to strengthen SQL joins and indexing.</p>
+</blockquote>
+<p>is more useful than:</p>
+<blockquote>
+<p>I need to become better at computers.</p>
+</blockquote>
+<h1>Build something with the weak skill</h1>
+<p>Applied practice is usually more durable than passive review.</p>
+<p>Examples:</p>
+<ul>
+<li>weak SQL: design a small relational schema and optimize real queries;</li>
+<li>weak testing: add unit and integration tests to an existing project;</li>
+<li>weak APIs: build and document a small service;</li>
+<li>weak debugging: reproduce and diagnose bugs deliberately;</li>
+<li>weak system design: practice explaining trade-offs aloud;</li>
+<li>weak accessibility: audit and improve a live interface;</li>
+<li>weak cloud knowledge: deploy a small service and document the architecture.</li>
+</ul>
+<h1>Practice under time limits</h1>
+<p>Technical knowledge and assessment pacing are separate skills.</p>
+<p>When time management was the problem:</p>
+<ul>
+<li>use short practice sessions;</li>
+<li>time each section;</li>
+<li>skip and return;</li>
+<li>read every answer before choosing;</li>
+<li>leave review time;</li>
+<li>practice completing a full set in one sitting.</li>
+</ul>
+<h1>Improve your profile anyway</h1>
+<p>A lower assessment score does not mean you should hide from the job market.</p>
+<p>Complete your profile with:</p>
+<ul>
+<li>relevant experience;</li>
+<li>real projects;</li>
+<li>current skills;</li>
+<li>professional goals;</li>
+<li>working links;</li>
+<li>strong résumé evidence.</li>
+</ul>
+<p>Employers consider multiple signals.</p>
+<h1>Continue applying</h1>
+<p>Do not stop your search until you believe you have achieved a perfect result.</p>
+<p>There is no perfect candidate.</p>
+<p>A company may value:</p>
+<ul>
+<li>your strongest section;</li>
+<li>your domain experience;</li>
+<li>your project;</li>
+<li>your communication;</li>
+<li>your career trajectory;</li>
+<li>your ability to learn.</li>
+</ul>
+<h1>What to do when your score is higher than expected</h1>
+<p>A strong result is useful, but it should become part of a broader professional presentation.</p>
+<h1>Complete the profile</h1>
+<p>Do not leave a strong score attached to an empty candidate page.</p>
+<p>Add context that tells employers what you can do with those skills.</p>
+<h1>Support the score with evidence</h1>
+<p>When you scored strongly in an area, add relevant proof.</p>
+<p>Examples:</p>
+<ul>
+<li>strong backend result: link an API project;</li>
+<li>strong testing result: show meaningful test coverage;</li>
+<li>strong frontend result: link an accessible live application;</li>
+<li>strong data result: explain a pipeline or SQL project;</li>
+<li>strong system design result: publish a concise architecture case study.</li>
+</ul>
+<h1>Prepare to discuss the result</h1>
+<p>An employer may ask:</p>
+<ul>
+<li>Which sections felt strongest?</li>
+<li>Which questions were most challenging?</li>
+<li>How did you approach the assessment?</li>
+<li>What would you study next?</li>
+<li>Does the result match your experience?</li>
+</ul>
+<p>Answer without arrogance.</p>
+<p>A strong answer might be:</p>
+<blockquote>
+<p>The database and debugging sections matched my recent production work, so I felt comfortable there. The system-design section required more thought, especially around failure handling. The result seems consistent with my strengths, and distributed architecture is still an area I am actively developing.</p>
+</blockquote>
+<h1>Do not assume the score guarantees an interview</h1>
+<p>Hiring decisions may also depend on:</p>
+<ul>
+<li>location;</li>
+<li>work authorization;</li>
+<li>compensation;</li>
+<li>experience level;</li>
+<li>domain requirements;</li>
+<li>role availability;</li>
+<li>hiring timing;</li>
+<li>other candidates;</li>
+<li>company-specific criteria.</li>
+</ul>
+<p>A strong score improves one part of the picture.</p>
+<p>It does not control every part.</p>
+<h1>Use the result to improve your résumé</h1>
+<p>Your résumé should not become a list of assessment percentages.</p>
+<p>Instead, use the result to identify which professional evidence deserves more visibility.</p>
+<p>For example, when your strongest area is testing, make sure your résumé includes bullets such as:</p>
+<blockquote>
+<p>Introduced integration tests for billing workflows, reducing production regressions during monthly releases.</p>
+</blockquote>
+<p>When your strongest area is data modeling:</p>
+<blockquote>
+<p>Redesigned the organization-permissions schema and completed a backward-compatible migration across 18 million records.</p>
+</blockquote>
+<p>When your strongest area is debugging:</p>
+<blockquote>
+<p>Diagnosed an intermittent queue-processing failure through tracing and database analysis, then added idempotency controls and monitoring to prevent recurrence.</p>
+</blockquote>
+<p>The assessment can help reveal strengths your résumé currently underemphasizes.</p>
+<h1>Should you put the score on your résumé?</h1>
+<p>Only do so when:</p>
+<ul>
+<li>the result is visible or verifiable;</li>
+<li>the assessment is relevant to the role;</li>
+<li>the presentation does not require excessive explanation;</li>
+<li>JobsList.dev supports an appropriate public representation;</li>
+<li>you are comfortable sharing it.</li>
+</ul>
+<p>A simple entry may be enough:</p>
+<blockquote>
+<p>JobsList.dev Backend Assessment — completed July 2026
+Verified profile: [link]</p>
+</blockquote>
+<p>Avoid turning the résumé into a detailed report containing every section percentage.</p>
+<p>The profile can hold the richer context.</p>
+<h1>How to discuss the assessment in an interview</h1>
+<p>You may be asked about your experience completing it.</p>
+<p>Prepare a concise answer covering:</p>
+<ul>
+<li>how you approached the questions;</li>
+<li>where you felt strongest;</li>
+<li>what challenged you;</li>
+<li>what you learned;</li>
+<li>how the result connects to the role.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>I approached it in two passes. I answered the code-reading and database questions first, then returned to the architecture questions with the remaining time. The database section matched my recent work closely. The main area I would review further is queue-delivery semantics, which is useful because that is also an area I want to deepen professionally.</p>
+</blockquote>
+<p>This demonstrates:</p>
+<ul>
+<li>reflection;</li>
+<li>organization;</li>
+<li>honesty;</li>
+<li>learning orientation.</li>
+</ul>
+<h1>Do not argue with every missed question</h1>
+<p>When the assessment reveals an error, focus on learning rather than proving that every answer should have been accepted.</p>
+<p>You may reasonably report:</p>
+<ul>
+<li>a technical problem;</li>
+<li>unclear wording;</li>
+<li>a suspected scoring issue;</li>
+<li>an accessibility issue;</li>
+<li>a broken question.</li>
+</ul>
+<p>Use the support or company contact specified for the assessment and describe the issue factually.</p>
+<p>Avoid sending an emotional argument about the entire result before confirming what happened.</p>
+<h1>When to contact support</h1>
+<p>Contact the appropriate support channel when:</p>
+<ul>
+<li>the assessment does not show as submitted;</li>
+<li>the result page fails to load;</li>
+<li>your profile cannot be claimed;</li>
+<li>the account links to the wrong email;</li>
+<li>a genuine technical interruption affected completion;</li>
+<li>a displayed result appears inconsistent because of a system problem;</li>
+<li>you encounter an accessibility barrier;</li>
+<li>the company instructed you to report an issue.</li>
+</ul>
+<p>Include:</p>
+<ul>
+<li>your name;</li>
+<li>assessment name;</li>
+<li>company;</li>
+<li>date and approximate time;</li>
+<li>invitation email;</li>
+<li>concise description;</li>
+<li>screenshots when useful and safe.</li>
+</ul>
+<p>Do not send passwords or sensitive credentials.</p>
+<h1>What happens next with the company</h1>
+<p>Submitting the assessment does not always produce an immediate hiring decision.</p>
+<p>The company may still need to:</p>
+<ul>
+<li>complete other candidate assessments;</li>
+<li>review written responses;</li>
+<li>compare section results;</li>
+<li>conduct recruiter screens;</li>
+<li>schedule technical interviews;</li>
+<li>review hiring-manager feedback;</li>
+<li>confirm headcount;</li>
+<li>decide who advances.</li>
+</ul>
+<p>Follow the timeline the company provides.</p>
+<h1>When to follow up</h1>
+<p>When the company gave a date, wait until that date passes.</p>
+<p>When no timeline was provided, a polite follow-up after approximately five to seven business days is reasonable.</p>
+<p>Example:</p>
+<blockquote>
+<p>Hi [Name], I completed the [Assessment Name] assessment on [date] and wanted to follow up regarding the next stage of the [Role Title] process. I remain interested in the opportunity and would appreciate any update you can share on timing. Thank you.</p>
+</blockquote>
+<p>One concise message is enough.</p>
+<p>Continue your broader job search while waiting.</p>
+<h1>Do not stop applying after one assessment</h1>
+<p>A completed assessment can feel like a major milestone, especially when the role is exciting.</p>
+<p>It is still one active application.</p>
+<p>Continue:</p>
+<ul>
+<li>applying to aligned roles;</li>
+<li>improving your profile;</li>
+<li>preparing for interviews;</li>
+<li>building projects;</li>
+<li>contacting your network;</li>
+<li>reviewing your résumé;</li>
+<li>setting job alerts.</li>
+</ul>
+<p>This reduces anxiety and prevents one company’s timeline from controlling your entire search.</p>
+<h1>Protect your assessment result and account</h1>
+<p>Once you claim a profile:</p>
+<ul>
+<li>use a unique password;</li>
+<li>enable available security controls;</li>
+<li>verify the email address;</li>
+<li>keep recovery information current;</li>
+<li>review profile visibility;</li>
+<li>remove outdated links;</li>
+<li>avoid sharing private result URLs publicly unless intended;</li>
+<li>be cautious with unsolicited messages claiming to represent employers.</li>
+</ul>
+<p>JobsList.dev should never require you to send your password to a recruiter or company.</p>
+<h1>Assessments are free for candidates</h1>
+<p>Taking a JobsList.dev assessment does not cost the candidate money.</p>
+<p>During the beta period described here, assessments are also available to companies without charge while the platform grows.</p>
+<p>A candidate should not be asked to pay a fee to:</p>
+<ul>
+<li>submit the invited assessment;</li>
+<li>receive the normal result experience;</li>
+<li>claim the offered free profile;</li>
+<li>remain under consideration for the role.</li>
+</ul>
+<p>Be cautious about anyone impersonating a company or platform and requesting payment in exchange for assessment access or employment consideration.</p>
+<h1>The relationship between your score and your profile</h1>
+<p>Think of the two as complementary.</p>
+<p>Your assessment can show:</p>
+<ul>
+<li>demonstrated performance;</li>
+<li>section-level strengths;</li>
+<li>current technical understanding;</li>
+<li>structured evidence.</li>
+</ul>
+<p>Your profile can show:</p>
+<ul>
+<li>experience;</li>
+<li>accomplishments;</li>
+<li>projects;</li>
+<li>goals;</li>
+<li>preferred roles;</li>
+<li>technical identity;</li>
+<li>availability;</li>
+<li>work context.</li>
+</ul>
+<p>The score answers:</p>
+<blockquote>
+<p>How did this candidate perform on this assessment?</p>
+</blockquote>
+<p>The profile answers:</p>
+<blockquote>
+<p>Who is this developer, what have they built, and where could they contribute?</p>
+</blockquote>
+<p>Employers need both kinds of context.</p>
+<h1>A practical next-step plan</h1>
+<h1>During the first hour after submission</h1>
+<ul>
+<li>Confirm that the assessment was submitted.</li>
+<li>Read the completion screen.</li>
+<li>Save any relevant confirmation.</li>
+<li>Review the score when it is available.</li>
+<li>Claim your profile when you choose to.</li>
+<li>Record the completion date in your application tracker.</li>
+</ul>
+<h1>During the first day</h1>
+<ul>
+<li>Complete the basic profile information.</li>
+<li>Add a professional headline.</li>
+<li>Add your main skills.</li>
+<li>Link your résumé, GitHub, or portfolio where supported.</li>
+<li>Write down what felt easy and difficult.</li>
+<li>Prepare for the likely next interview stage.</li>
+</ul>
+<h1>During the first week</h1>
+<ul>
+<li>Add projects and experience.</li>
+<li>Review weak assessment areas.</li>
+<li>Practice explaining your strongest work.</li>
+<li>Continue applying.</li>
+<li>Follow up only after the expected timeline passes.</li>
+<li>Keep the profile current.</li>
+</ul>
+<h1>Over the following month</h1>
+<ul>
+<li>Build evidence around weaker skills.</li>
+<li>Improve project documentation.</li>
+<li>Refine your résumé.</li>
+<li>Complete additional relevant assessments when appropriate.</li>
+<li>Track interview conversion.</li>
+<li>Update your profile as your skills and goals change.</li>
+</ul>
+<h1>Candidate profile checklist</h1>
+<h2>Identity</h2>
+<ul>
+<li>Professional name</li>
+<li>Clear headline</li>
+<li>Current location</li>
+<li>Contact information</li>
+<li>Professional photo or avatar where appropriate</li>
+</ul>
+<h2>Career direction</h2>
+<ul>
+<li>Target roles</li>
+<li>Preferred work arrangement</li>
+<li>Seniority</li>
+<li>Availability</li>
+<li>Relevant location or time-zone preferences</li>
+</ul>
+<h2>Experience</h2>
+<ul>
+<li>Accurate dates</li>
+<li>Recognizable titles</li>
+<li>Clear scope</li>
+<li>Accomplishments</li>
+<li>Verified metrics</li>
+<li>Technologies</li>
+</ul>
+<h2>Skills</h2>
+<ul>
+<li>Relevant technologies</li>
+<li>Core engineering competencies</li>
+<li>Skills ordered by target role</li>
+<li>No inflated claims</li>
+</ul>
+<h2>Projects</h2>
+<ul>
+<li>Clear descriptions</li>
+<li>Personal contribution</li>
+<li>Technical decisions</li>
+<li>Live links</li>
+<li>Source links</li>
+<li>Tests and documentation</li>
+<li>Honest limitations</li>
+</ul>
+<h2>Assessment context</h2>
+<ul>
+<li>Result preserved where available</li>
+<li>Strong sections understood</li>
+<li>Weak sections converted into learning goals</li>
+<li>Result connected to broader evidence</li>
+</ul>
+<h2>Quality check</h2>
+<ul>
+<li>No broken links</li>
+<li>No spelling errors</li>
+<li>No contradictory dates</li>
+<li>No exposed private information</li>
+<li>Profile preview reviewed</li>
+<li>Information kept current</li>
+</ul>
+<h1>Questions candidates often have</h1>
+<h1>Does the company see every answer?</h1>
+<p>The company receives the assessment information configured for its hiring process. This may include scores, sections, and responses requiring review. The precise presentation depends on the assessment.</p>
+<h1>Does JobsList.dev automatically reject me?</h1>
+<p>No automatic algorithm should replace the company’s hiring judgment. The company receives assessment evidence and decides how to use it.</p>
+<h1>Is my webcam recorded?</h1>
+<p>No. JobsList.dev does not provide the company with webcam or screen recordings because the assessment does not record them.</p>
+<h1>Does assessment context automatically fail me?</h1>
+<p>No. Context is presented neutrally for human review and should not be treated as an automatic accusation or rejection.</p>
+<h1>Will I always see the complete score?</h1>
+<p>Not necessarily. Candidate result visibility depends on the settings and process selected by the inviting company.</p>
+<h1>Do I need an account to take an invited assessment?</h1>
+<p>An invited candidate may be able to complete the assessment through a one-time link without creating an account first.</p>
+<h1>Do I need to create an account afterward?</h1>
+<p>No. Claiming a free profile is optional.</p>
+<h1>Why should I claim the profile?</h1>
+<p>It gives you an opportunity to preserve your result and connect it to a reusable JobsList.dev candidate profile containing your skills, experience, and projects.</p>
+<h1>Does claiming a profile guarantee another job opportunity?</h1>
+<p>No. A profile improves how your professional information and demonstrated skills can be presented, but employers still make their own hiring decisions.</p>
+<h1>Does a weak score permanently damage my profile?</h1>
+<p>Treat the result as one part of your current skills evidence. Continue improving your knowledge, projects, résumé, and interview performance rather than defining yourself by a single attempt.</p>
+<h1>Should I share my result publicly?</h1>
+<p>Share only information you are comfortable making public and only through supported visibility controls. Review the profile from another user’s perspective before distributing a link widely.</p>
+<h1>Can the company still interview me after a lower score?</h1>
+<p>Yes. Companies decide how assessment evidence relates to the role. Relevant section strengths, experience, projects, and other hiring signals may still matter.</p>
+<h1>Can a strong score replace an interview?</h1>
+<p>That depends on the company’s hiring process, but most employers use assessments as one step rather than a complete replacement for human conversation.</p>
+<h1>Common mistakes after an assessment</h1>
+<h1>Closing the page before confirming submission</h1>
+<p>Wait for the completion confirmation.</p>
+<h1>Obsessing over the total score</h1>
+<p>Read the section breakdown and role relevance.</p>
+<h1>Treating a lower score as a career verdict</h1>
+<p>Use it to identify focused learning priorities.</p>
+<h1>Leaving a claimed profile empty</h1>
+<p>Add enough context for employers to understand your experience and goals.</p>
+<h1>Inflating skills to match the result</h1>
+<p>Keep every claim honest and defensible.</p>
+<h1>Stopping the rest of your job search</h1>
+<p>Continue applying while one company evaluates the result.</p>
+<h1>Following up too quickly</h1>
+<p>Respect the timeline provided.</p>
+<h1>Ignoring technical problems</h1>
+<p>Report genuine submission or account issues through the appropriate channel.</p>
+<h1>Publishing private links carelessly</h1>
+<p>Review visibility before sharing.</p>
+<h1>Assuming a high score guarantees an offer</h1>
+<p>Hiring includes several forms of evidence and practical constraints.</p>
+<h1>Failing to prepare for the next interview</h1>
+<p>The assessment may become the starting point for a deeper technical conversation.</p>
+<h1>The broader purpose of portable skills evidence</h1>
+<p>Traditional hiring makes candidates repeatedly prove the same thing.</p>
+<p>You may complete:</p>
+<ul>
+<li>one JavaScript assessment for one company;</li>
+<li>another similar assessment for a second company;</li>
+<li>another code screen for a third;</li>
+<li>another take-home for a fourth.</li>
+</ul>
+<p>The work is repeated because the evidence remains trapped inside separate hiring systems.</p>
+<p>A profile-based assessment model can move toward a better relationship:</p>
+<ul>
+<li>candidates retain more value from their effort;</li>
+<li>employers receive clearer structured evidence;</li>
+<li>profiles combine demonstrated skills with experience;</li>
+<li>one assessment can support more than one moment in a job search;</li>
+<li>candidates have an incentive to keep developing rather than repeatedly starting from zero.</li>
+</ul>
+<p>That is the idea behind offering you a profile after the assessment.</p>
+<p>Your effort should be able to become part of your professional story.</p>
+<h1>The takeaway</h1>
+<p>Submitting a JobsList.dev assessment is not the end of the process.</p>
+<p>It creates several possible next steps:</p>
+<ol>
+<li>Your responses are scored according to the assessment rules.</li>
+<li>The hiring company receives structured evidence such as overall and section-level performance.</li>
+<li>Any assessment context is presented neutrally for human review rather than as an automatic accusation.</li>
+<li>The company decides how the result fits into its broader hiring process.</li>
+<li>You may see the result or a summary depending on the company’s settings.</li>
+<li>You can choose to claim a free JobsList.dev profile and preserve your result.</li>
+<li>You can add experience, projects, skills, and preferences to create a fuller hiring signal.</li>
+<li>You can use the result to identify strengths, plan improvement, and prepare for the next interview.</li>
+<li>You should continue applying while the company completes its process.</li>
+</ol>
+<p>Your score is useful, but it is not the whole story.</p>
+<p>Your professional value includes:</p>
+<ul>
+<li>what you know;</li>
+<li>what you have built;</li>
+<li>how you solve problems;</li>
+<li>how you communicate;</li>
+<li>how you learn;</li>
+<li>how you work with others;</li>
+<li>where you are capable of growing next.</li>
+</ul>
+<p>The assessment provides one structured view of that ability.</p>
+<p>Your profile gives it context.</p>
+<p>Your next application gives it somewhere to go.</p>
+<p><em>Completed your assessment? <a href="/auth/register?role=EMPLOYEE">Claim your free JobsList.dev profile</a>, preserve your demonstrated skills, add your experience and projects, and keep moving toward the role that fits you.</em></p>
+6:["slug","after-the-assessment-your-score-your-profile","d"]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__?{\"slug\":\"after-the-assessment-your-score-your-profile\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"After the Assessment: Your Score, Your Profile, Your Next Step\",\"description\":\"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-24T00:00:00.000Z\",\"dateModified\":\"2026-07-24T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/blog/after-the-assessment-your-score-your-profile/\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$L3",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","header",null,{"className":"mb-8 mt-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-surface-900 sm:text-4xl dark:text-white","children":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","p",null,{"className":"mt-4 text-lg leading-8 text-surface-600 dark:text-surface-300","children":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-24T00:00:00.000Z","children":"July 23, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[32," min read"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","assessments",{"className":"badge-gray","children":"assessments"}],["$","span","job-seekers",{"className":"badge-gray","children":"job-seekers"}],["$","span","candidates",{"className":"badge-gray","children":"candidates"}],["$","span","developers",{"className":"badge-gray","children":"developers"}],["$","span","job-search",{"className":"badge-gray","children":"job-search"}],["$","span","profiles",{"className":"badge-gray","children":"profiles"}],["$","span","skills",{"className":"badge-gray","children":"skills"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$4"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$L3",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"After the Assessment: Your Score, Your Profile, Your Next Step | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","9",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","10",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","13",{"property":"og:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","14",{"property":"og:description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","15",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/after-the-assessment-your-score-your-profile-your-next-step.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"After the Assessment: Your Score, Your Profile, Your Next Step — JobsList.dev Reading Room"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2026-07-24T00:00:00.000Z"}],["$","meta","21",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","24",{"name":"twitter:description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","25",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/after-the-assessment-your-score-your-profile-your-next-step.png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","meta","28",{"name":"twitter:image:alt","content":"After the Assessment: Your Score, Your Profile, Your Next Step — JobsList.dev Reading Room"}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","30",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","32",{"name":"next-size-adjust"}]]
 1:null

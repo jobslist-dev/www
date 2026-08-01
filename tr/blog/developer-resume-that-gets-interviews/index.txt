@@ -1,60 +1,929 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:Teb3,<p>Your résumé has one job: get you the interview. It won&#39;t get you hired — that&#39;s what the interview is for — so it needs to do that single thing well. Most developer résumés fail because they list duties instead of impact and bury the good parts. Here&#39;s how to fix yours.</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T8b98,<hr>
+<p>Your résumé has one primary job: earn you the next conversation.</p>
+<p>It will not get you hired by itself. It will not prove everything you know. It will not replace a technical interview, portfolio, reference, or work sample.</p>
+<p>What it can do is make a recruiter, hiring manager, or engineering leader think:</p>
+<blockquote>
+<p>“This person appears capable of solving the problems we have. I want to learn more.”</p>
+</blockquote>
+<p>That is the standard your résumé should be designed around.</p>
+<p>Most developer résumés fail for predictable reasons. They describe responsibilities instead of results, list every technology the candidate has ever touched, hide important accomplishments inside long paragraphs, or present the same generic document to every employer.</p>
+<p>A strong developer résumé is different. It is:</p>
+<ul>
+<li>easy to scan;</li>
+<li>specific;</li>
+<li>evidence-based;</li>
+<li>relevant to the role;</li>
+<li>technically credible;</li>
+<li>readable by humans and applicant tracking systems;</li>
+<li>honest about scope and experience.</li>
+</ul>
+<p>This guide explains how to build one.</p>
+<h2>Start with the hiring manager’s perspective</h2>
+<p>Before rewriting your résumé, understand how it will be used.</p>
+<p>A typical reviewer wants to answer a few questions quickly:</p>
+<ul>
+<li>What kind of engineer is this person?</li>
+<li>At what level have they operated?</li>
+<li>What systems, products, or teams have they worked on?</li>
+<li>What did they personally contribute?</li>
+<li>What measurable outcomes did they create?</li>
+<li>Does their experience match the problems in this role?</li>
+<li>Is there enough evidence to justify an interview?</li>
+</ul>
+<p>Your résumé should make those answers easy to find.</p>
+<p>That means the document should not read like a biography. It should read like a concise case for why your background is relevant to the role.</p>
 <h2>Lead with impact, not responsibilities</h2>
-<p>The biggest upgrade you can make is turning &quot;responsible for X&quot; into &quot;achieved Y by doing X.&quot; Hiring managers skim for results.</p>
+<p>The single biggest improvement most developers can make is replacing duty-based bullets with outcome-based bullets.</p>
+<p>Weak bullets describe what the job required:</p>
 <ul>
-<li>❌ &quot;Responsible for the backend API.&quot;</li>
-<li>✅ &quot;Cut API p95 latency 40% by redesigning the caching layer, saving ~$3k/mo in infra.&quot;</li>
+<li>“Responsible for the backend API.”</li>
+<li>“Worked on React components.”</li>
+<li>“Participated in code reviews.”</li>
+<li>“Helped maintain cloud infrastructure.”</li>
+<li>“Collaborated with product managers.”</li>
 </ul>
-<p>Use the pattern <strong>[action verb] + [what you did] + [measurable result]</strong>. Numbers — percentages, dollars, users, time saved — make you concrete and credible. If you don&#39;t have exact metrics, estimate honestly (&quot;~&quot;, &quot;roughly&quot;).</p>
-<h2>Make it skimmable in 10 seconds</h2>
-<p>Recruiters and engineers spend seconds on a first pass. Help them:</p>
+<p>These statements are not necessarily false, but they do not tell the reader whether you were effective.</p>
+<p>Stronger bullets show what changed because of your work:</p>
 <ul>
-<li><strong>Clear sections</strong>: Summary (optional, 2 lines), Experience, Skills, Projects, Education.</li>
-<li><strong>Reverse-chronological</strong> experience, most recent first.</li>
-<li><strong>Bullets, not paragraphs</strong> — 3–5 per role, each starting with a strong verb.</li>
-<li><strong>One page</strong> for most people; two only if you have 8+ years of relevant work.</li>
+<li>“Reduced API p95 latency by 40% by redesigning the caching and query layers.”</li>
+<li>“Built a reusable React component system that cut feature delivery time by roughly 25%.”</li>
+<li>“Introduced structured code-review guidelines that reduced repeated production defects.”</li>
+<li>“Lowered monthly infrastructure costs by approximately $3,000 through right-sizing and storage lifecycle policies.”</li>
+<li>“Partnered with product and design to launch an onboarding flow that improved activation by 18%.”</li>
 </ul>
-<h2>Get through the filters without keyword-stuffing</h2>
-<p>Many companies screen résumés (by software or a human checklist) against the job description. You don&#39;t need to game it — you need to mirror the real language:</p>
+<p>A useful formula is:</p>
+<p><strong>Action + scope + method + result</strong></p>
+<p>For example:</p>
+<blockquote>
+<p>“Migrated 14 production services from a shared deployment pipeline to isolated CI/CD workflows, reducing failed releases by 35%.”</p>
+</blockquote>
+<p>The result does not always need to be financial. Useful outcomes include:</p>
 <ul>
-<li>Use the <strong>exact terms</strong> from the posting where they&#39;re genuinely true of you (&quot;PostgreSQL&quot; not just &quot;SQL&quot; if that&#39;s what they asked for).</li>
-<li>Keep a <strong>Skills</strong> section with your actual stack, grouped (Languages, Frameworks, Tools, Cloud).</li>
-<li>Avoid tables, columns, and graphics that parsers choke on — a clean, single-column layout is safest.</li>
+<li>faster response times;</li>
+<li>fewer incidents;</li>
+<li>higher reliability;</li>
+<li>reduced costs;</li>
+<li>increased conversion;</li>
+<li>improved accessibility;</li>
+<li>shorter deployment cycles;</li>
+<li>fewer support tickets;</li>
+<li>higher test coverage;</li>
+<li>faster developer onboarding;</li>
+<li>improved security posture;</li>
+<li>increased user adoption;</li>
+<li>reduced manual work;</li>
+<li>improved data accuracy.</li>
 </ul>
-<h2>Show real work</h2>
-<p>For developers, evidence beats adjectives:</p>
+<h2>Use metrics without inventing them</h2>
+<p>Numbers make accomplishments more credible, but they must be honest.</p>
+<p>Good metrics include:</p>
 <ul>
-<li>Link your <strong>GitHub</strong>, <strong>portfolio</strong>, or a standout <strong>project</strong> with a one-line description of what it does and the stack.</li>
-<li>For each project: the problem, your approach, the outcome. &quot;Built a real-time chat app (TypeScript, WebSockets) handling 5k concurrent users&quot; says more than &quot;proficient in TypeScript.&quot;</li>
+<li>percentage improvement;</li>
+<li>time saved;</li>
+<li>revenue influenced;</li>
+<li>cost reduced;</li>
+<li>users supported;</li>
+<li>requests processed;</li>
+<li>incidents prevented;</li>
+<li>uptime achieved;</li>
+<li>team size;</li>
+<li>project duration;</li>
+<li>deployment frequency;</li>
+<li>test coverage;</li>
+<li>response time;</li>
+<li>error rate;</li>
+<li>data volume.</li>
 </ul>
-<h2>Tailor it (at least a little)</h2>
-<p>You don&#39;t need a fresh résumé per application, but spend two minutes:</p>
+<p>Examples:</p>
 <ul>
-<li>Reorder bullets so the most <strong>relevant</strong> experience is on top.</li>
-<li>Adjust the summary line to match the role.</li>
-<li>Drop anything irrelevant that dilutes the signal.</li>
+<li>“Supported more than 200,000 monthly active users.”</li>
+<li>“Reduced average deployment time from 35 minutes to 12 minutes.”</li>
+<li>“Improved automated test coverage from 54% to 81%.”</li>
+<li>“Cut manual reconciliation work by roughly 10 hours per week.”</li>
+<li>“Maintained 99.95% availability across customer-facing services.”</li>
 </ul>
-<h2>Common mistakes to cut</h2>
+<p>When exact numbers are unavailable, use careful language:</p>
 <ul>
-<li>Objective statements (&quot;seeking a challenging role…&quot;) — wastes the top of the page.</li>
-<li>A wall of every technology you&#39;ve touched once.</li>
-<li>Typos and inconsistent tense/formatting — they read as carelessness.</li>
-<li>Listing soft skills with no evidence (&quot;great communicator&quot;).</li>
+<li>approximately;</li>
+<li>roughly;</li>
+<li>more than;</li>
+<li>fewer than;</li>
+<li>about;</li>
+<li>estimated;</li>
+<li>across several teams;</li>
+<li>at peak traffic.</li>
 </ul>
+<p>Do not manufacture precision you cannot defend.</p>
+<p>This is acceptable:</p>
+<blockquote>
+<p>“Reduced support volume by approximately 20% after improving validation and error messaging.”</p>
+</blockquote>
+<p>This is not:</p>
+<blockquote>
+<p>“Reduced support tickets by 23.71%”</p>
+</blockquote>
+<p>unless you actually measured it.</p>
+<h2>Show your individual contribution</h2>
+<p>Technical work is usually collaborative, but employers still need to understand what you personally did.</p>
+<p>A weak bullet says:</p>
+<blockquote>
+<p>“The team migrated the platform to Kubernetes.”</p>
+</blockquote>
+<p>A stronger bullet says:</p>
+<blockquote>
+<p>“Designed the deployment templates and rollout process for a Kubernetes migration covering 18 services.”</p>
+</blockquote>
+<p>Another strong version:</p>
+<blockquote>
+<p>“Led the application-side migration to Kubernetes while partnering with platform engineers on cluster operations.”</p>
+</blockquote>
+<p>Use language that accurately reflects your role:</p>
+<ul>
+<li>built;</li>
+<li>designed;</li>
+<li>led;</li>
+<li>implemented;</li>
+<li>owned;</li>
+<li>migrated;</li>
+<li>introduced;</li>
+<li>optimized;</li>
+<li>automated;</li>
+<li>investigated;</li>
+<li>coordinated;</li>
+<li>contributed;</li>
+<li>partnered;</li>
+<li>supported.</li>
+</ul>
+<p>Do not claim sole ownership of work completed by an entire team. Technical interviewers will usually ask follow-up questions, and inflated claims are easy to expose.</p>
+<h2>Make the résumé skimmable in ten seconds</h2>
+<p>Most first reviews are fast.</p>
+<p>Your strongest information should be visible without requiring the reader to search for it.</p>
+<p>Use a clear structure:</p>
+<ol>
+<li>Name and contact details</li>
+<li>Professional summary, if useful</li>
+<li>Technical skills</li>
+<li>Experience</li>
+<li>Selected projects</li>
+<li>Education</li>
+<li>Certifications, publications, or open-source work when relevant</li>
+</ol>
+<p>For each role:</p>
+<ul>
+<li>place the company, title, and dates prominently;</li>
+<li>include the location or “Remote” where useful;</li>
+<li>use three to six bullets;</li>
+<li>put the strongest and most relevant bullet first;</li>
+<li>keep most bullets to one or two lines;</li>
+<li>use consistent tense and punctuation.</li>
+</ul>
+<p>Avoid large blocks of text. A résumé is not the place for dense narrative prose.</p>
+<h2>Use reverse-chronological experience</h2>
+<p>For most developers, reverse-chronological order is the clearest format:</p>
+<ul>
+<li>current or most recent role first;</li>
+<li>earlier roles below;</li>
+<li>education near the end unless you are early in your career.</li>
+</ul>
+<p>This format helps employers understand your progression and current level quickly.</p>
+<p>Functional résumés, which group experience only by skill, often create suspicion because they can hide dates, gaps, or limited hands-on experience.</p>
+<p>A hybrid format can work for career changers, but it should still include a clear employment history.</p>
+<h2>Write a useful professional summary</h2>
+<p>A summary is optional.</p>
+<p>It is most valuable when it quickly explains something that is not obvious from your job titles alone.</p>
+<p>A weak summary:</p>
+<blockquote>
+<p>“Hardworking software engineer seeking a challenging position at a growing company.”</p>
+</blockquote>
+<p>This says almost nothing.</p>
+<p>A stronger summary:</p>
+<blockquote>
+<p>“Backend engineer with six years of experience building high-volume financial APIs in TypeScript, Java, PostgreSQL, and AWS. Focused on reliability, payment workflows, and distributed systems.”</p>
+</blockquote>
+<p>Another example:</p>
+<blockquote>
+<p>“Frontend engineer specializing in React, TypeScript, accessibility, and design systems for B2B SaaS products. Experienced leading UI migrations and improving product performance across large applications.”</p>
+</blockquote>
+<p>Keep it to two or three lines.</p>
+<p>Do not use a summary to repeat vague traits such as:</p>
+<ul>
+<li>motivated;</li>
+<li>passionate;</li>
+<li>team player;</li>
+<li>self-starter;</li>
+<li>detail-oriented;</li>
+<li>results-driven.</li>
+</ul>
+<p>Show those qualities through evidence in the experience section.</p>
+<h2>Tailor your title carefully</h2>
+<p>Your résumé headline should reflect your actual level and target role.</p>
+<p>Examples:</p>
+<ul>
+<li>Backend Software Engineer</li>
+<li>Senior Frontend Engineer</li>
+<li>Platform Engineer</li>
+<li>Mobile Application Developer</li>
+<li>Engineering Manager</li>
+<li>Data Engineer</li>
+<li>Security Engineer</li>
+<li>Full-Stack TypeScript Engineer</li>
+</ul>
+<p>Avoid unnecessarily broad labels such as:</p>
+<ul>
+<li>Technology Expert</li>
+<li>Coding Ninja</li>
+<li>Software Guru</li>
+<li>Digital Innovator</li>
+</ul>
+<p>Clear titles are easier for recruiters and applicant tracking systems to interpret.</p>
+<h2>Build a technical skills section that adds signal</h2>
+<p>A skills section should help the reader understand your current technical range.</p>
+<p>Group skills into categories:</p>
+<p><strong>Languages:</strong> TypeScript, JavaScript, Python, Go, SQL
+<strong>Frameworks:</strong> React, Next.js, Node.js, Django
+<strong>Databases:</strong> PostgreSQL, Redis, Elasticsearch
+<strong>Cloud and infrastructure:</strong> AWS, Docker, Kubernetes, Terraform
+<strong>Tools:</strong> GitHub Actions, Datadog, Sentry, Linux</p>
+<p>Only include technologies you can discuss with reasonable confidence.</p>
+<p>Do not list every tool you have used once.</p>
+<p>A résumé with 40 unrelated technologies may make you look less credible, not more versatile.</p>
+<p>Consider separating proficiency levels only when they are meaningful:</p>
+<ul>
+<li>Primary: TypeScript, Node.js, PostgreSQL</li>
+<li>Working knowledge: Go, Redis, Kubernetes</li>
+</ul>
+<p>Avoid graphical skill bars. A bar showing “JavaScript: 90%” has no objective meaning and may confuse applicant tracking systems.</p>
+<h2>Match the language of the job description</h2>
+<p>Applicant tracking systems and human reviewers often look for terminology that appears in the job posting.</p>
+<p>You should not stuff keywords unnaturally, but you should use the employer’s actual language where it accurately describes your experience.</p>
+<p>If the posting says:</p>
+<ul>
+<li>PostgreSQL;</li>
+<li>REST APIs;</li>
+<li>AWS Lambda;</li>
+<li>CI/CD;</li>
+<li>distributed systems;</li>
+<li>accessibility;</li>
+<li>incident response;</li>
+</ul>
+<p>and you have that experience, use those exact terms.</p>
+<p>Avoid replacing specific terms with vague substitutes.</p>
+<p>For example:</p>
+<ul>
+<li>use “PostgreSQL” rather than only “relational databases”;</li>
+<li>use “React” rather than only “frontend development”;</li>
+<li>use “AWS” rather than only “cloud platforms”;</li>
+<li>use “CI/CD” rather than only “deployment automation.”</li>
+</ul>
+<p>This is not gaming the system. It is clear communication.</p>
+<h2>Do not rely on keywords alone</h2>
+<p>Keywords may help your résumé appear in a search, but they do not prove competence.</p>
+<p>Compare:</p>
+<blockquote>
+<p>“React, TypeScript, Node.js, PostgreSQL, AWS”</p>
+</blockquote>
+<p>with:</p>
+<blockquote>
+<p>“Built a TypeScript and React operations dashboard backed by Node.js and PostgreSQL, reducing manual case review time by 30%.”</p>
+</blockquote>
+<p>The second version contains useful keywords and shows how you applied them.</p>
+<h2>Keep formatting applicant-tracking-system friendly</h2>
+<p>A visually elaborate résumé may look impressive but fail to parse correctly.</p>
+<p>Safer formatting choices include:</p>
+<ul>
+<li>a single-column layout;</li>
+<li>standard headings;</li>
+<li>common fonts;</li>
+<li>normal bullet points;</li>
+<li>clear dates;</li>
+<li>plain text contact details;</li>
+<li>limited decorative elements;</li>
+<li>no important information inside headers or footers.</li>
+</ul>
+<p>Avoid:</p>
+<ul>
+<li>complex tables;</li>
+<li>multiple narrow columns;</li>
+<li>text embedded in images;</li>
+<li>charts;</li>
+<li>progress bars;</li>
+<li>unusual icons without text labels;</li>
+<li>excessive color;</li>
+<li>important information placed only in sidebars.</li>
+</ul>
+<p>Save the final résumé as a PDF unless the employer asks for another format.</p>
+<p>Before submitting, copy all text from the PDF and paste it into a plain-text editor. If the content appears in a logical order, the document is more likely to parse correctly.</p>
+<h2>Use a professional filename</h2>
+<p>Do not upload:</p>
+<ul>
+<li>resume-final-final-2.pdf;</li>
+<li>newresume.pdf;</li>
+<li>cvupdated.pdf;</li>
+<li>document1.pdf.</li>
+</ul>
+<p>Use something clear:</p>
+<pre><code class="language-text">alex-johnson-software-engineer-resume.pdf
+</code></pre>
+<p>or:</p>
+<pre><code class="language-text">alex-johnson-backend-engineer.pdf
+</code></pre>
+<p>This small detail makes the document easier for recruiters to identify and store.</p>
+<h2>Write stronger experience bullets</h2>
+<p>Each bullet should answer at least one of these questions:</p>
+<ul>
+<li>What did you build?</li>
+<li>What problem did you solve?</li>
+<li>What changed afterward?</li>
+<li>How large was the scope?</li>
+<li>Which technologies were important?</li>
+<li>What did you personally own?</li>
+<li>Who benefited?</li>
+</ul>
+<h3>Weak</h3>
+<blockquote>
+<p>“Worked on microservices.”</p>
+</blockquote>
+<h3>Better</h3>
+<blockquote>
+<p>“Built and maintained Node.js microservices supporting account provisioning and billing.”</p>
+</blockquote>
+<h3>Strong</h3>
+<blockquote>
+<p>“Designed and launched three Node.js services for account provisioning and billing, processing more than 1.2 million monthly events with 99.95% availability.”</p>
+</blockquote>
+<h3>Weak</h3>
+<blockquote>
+<p>“Fixed bugs in the application.”</p>
+</blockquote>
+<h3>Better</h3>
+<blockquote>
+<p>“Resolved production defects across the checkout flow.”</p>
+</blockquote>
+<h3>Strong</h3>
+<blockquote>
+<p>“Reduced checkout-related production errors by 32% by tracing recurring failures, strengthening validation, and adding automated regression coverage.”</p>
+</blockquote>
+<h3>Weak</h3>
+<blockquote>
+<p>“Helped junior developers.”</p>
+</blockquote>
+<h3>Better</h3>
+<blockquote>
+<p>“Mentored three junior engineers through code reviews and pairing sessions.”</p>
+</blockquote>
+<h3>Strong</h3>
+<blockquote>
+<p>“Mentored three junior engineers through weekly pairing and structured reviews, helping two independently own production services within six months.”</p>
+</blockquote>
+<h2>Use strong verbs, but avoid exaggeration</h2>
+<p>Useful opening verbs include:</p>
+<ul>
+<li>architected;</li>
+<li>automated;</li>
+<li>built;</li>
+<li>designed;</li>
+<li>developed;</li>
+<li>implemented;</li>
+<li>improved;</li>
+<li>introduced;</li>
+<li>launched;</li>
+<li>led;</li>
+<li>maintained;</li>
+<li>migrated;</li>
+<li>optimized;</li>
+<li>reduced;</li>
+<li>refactored;</li>
+<li>scaled;</li>
+<li>secured;</li>
+<li>simplified;</li>
+<li>standardized;</li>
+<li>supported.</li>
+</ul>
+<p>Be careful with “architected,” “owned,” and “led.” Use them only when they accurately describe your authority and contribution.</p>
+<h2>Add context to unfamiliar companies</h2>
+<p>If you worked for a company the reader may not recognize, add a short description.</p>
+<p>Example:</p>
+<p><strong>Northlake Systems — Senior Software Engineer</strong>
+<em>B2B logistics software serving regional transportation companies</em></p>
+<p>This helps the reviewer understand the environment without researching the employer.</p>
+<h2>Explain scope where it matters</h2>
+<p>Technical titles vary dramatically between companies.</p>
+<p>A “Senior Engineer” at one company may be responsible for one service. At another, the same title may involve architecture across a large platform.</p>
+<p>Add context through bullets:</p>
+<ul>
+<li>team size;</li>
+<li>user scale;</li>
+<li>system scale;</li>
+<li>geographic reach;</li>
+<li>data volume;</li>
+<li>product type;</li>
+<li>business importance;</li>
+<li>on-call responsibilities.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>“Owned authentication and identity services used by 14 internal products and approximately 300,000 customer accounts.”</p>
+</blockquote>
+<h2>Show progression</h2>
+<p>Promotions and growing responsibility are valuable signals.</p>
+<p>If you held multiple roles at one company, show them separately under the same employer:</p>
+<p><strong>Acme Technologies</strong></p>
+<p><strong>Senior Software Engineer</strong>
+2024–Present</p>
+<p><strong>Software Engineer</strong>
+2021–2024</p>
+<p>This demonstrates advancement more clearly than merging everything into one entry.</p>
+<h2>Include projects that strengthen your case</h2>
+<p>Projects are especially valuable for:</p>
+<ul>
+<li>students;</li>
+<li>career changers;</li>
+<li>self-taught developers;</li>
+<li>developers returning after a break;</li>
+<li>candidates with limited professional experience;</li>
+<li>engineers targeting a new specialization.</li>
+</ul>
+<p>A strong project entry should include:</p>
+<ul>
+<li>the problem;</li>
+<li>what you built;</li>
+<li>the technologies used;</li>
+<li>what made it technically interesting;</li>
+<li>usage, adoption, or results;</li>
+<li>a working link where appropriate.</li>
+</ul>
+<p>Weak:</p>
+<blockquote>
+<p>“Built a task manager with React.”</p>
+</blockquote>
+<p>Stronger:</p>
+<blockquote>
+<p>“Built a collaborative task-management application using Next.js, PostgreSQL, and WebSockets, including real-time updates, role-based permissions, and automated deployment.”</p>
+</blockquote>
+<p>Even stronger:</p>
+<blockquote>
+<p>“Built and deployed a collaborative task-management application using Next.js, PostgreSQL, and WebSockets; supported more than 800 registered users and maintained a 4.8/5 feedback rating.”</p>
+</blockquote>
+<p>Do not include tutorial projects that look identical to thousands of others unless you substantially extended them.</p>
+<h2>Link to proof selectively</h2>
+<p>Useful links may include:</p>
+<ul>
+<li>GitHub;</li>
+<li>personal site;</li>
+<li>portfolio;</li>
+<li>live product;</li>
+<li>technical writing;</li>
+<li>open-source contributions;</li>
+<li>published applications;</li>
+<li>conference talks;</li>
+<li>package registry profiles.</li>
+</ul>
+<p>Make sure links work.</p>
+<p>Pin the repositories you want employers to see first.</p>
+<p>A GitHub profile with hundreds of abandoned experiments may be less useful than a small portfolio featuring three polished projects with clear documentation.</p>
+<h2>Improve project documentation</h2>
+<p>If you link to a project, the repository should help the reviewer understand it.</p>
+<p>A useful README includes:</p>
+<ul>
+<li>what the project does;</li>
+<li>why you built it;</li>
+<li>screenshots;</li>
+<li>architecture overview;</li>
+<li>setup instructions;</li>
+<li>major technical decisions;</li>
+<li>known limitations;</li>
+<li>test instructions;</li>
+<li>deployment information.</li>
+</ul>
+<p>Do not assume the reviewer will inspect the code without context.</p>
+<h2>Handle confidential work carefully</h2>
+<p>You should never disclose proprietary information, customer data, security-sensitive details, or internal code.</p>
+<p>You can still describe the work at a useful level.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>“Built the internal fraud engine using confidential customer rules.”</p>
+</blockquote>
+<p>say:</p>
+<blockquote>
+<p>“Built risk-analysis services for high-volume payment workflows, improving review accuracy and reducing manual investigation.”</p>
+</blockquote>
+<p>Focus on the problem, scale, and outcome without exposing protected information.</p>
+<h2>Show leadership without changing your title</h2>
+<p>You do not need to be a manager to demonstrate leadership.</p>
+<p>Relevant examples include:</p>
+<ul>
+<li>mentoring engineers;</li>
+<li>leading technical design;</li>
+<li>coordinating migrations;</li>
+<li>improving standards;</li>
+<li>owning incident response;</li>
+<li>facilitating architecture reviews;</li>
+<li>introducing documentation practices;</li>
+<li>helping teams adopt new tools;</li>
+<li>reducing operational risk.</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>“Led technical planning for a six-month migration involving four engineering teams and more than 20 services.”</p>
+</blockquote>
+<h2>Show communication through outcomes</h2>
+<p>Do not merely list “excellent communication skills.”</p>
+<p>Show how communication affected the work:</p>
+<ul>
+<li>“Created migration documentation adopted by four teams.”</li>
+<li>“Presented architecture proposals to engineering and product leadership.”</li>
+<li>“Partnered with support to identify recurring customer issues.”</li>
+<li>“Translated compliance requirements into implementation tasks.”</li>
+<li>“Facilitated post-incident reviews and tracked corrective actions.”</li>
+</ul>
+<p>Evidence is more persuasive than adjectives.</p>
+<h2>Address employment gaps honestly</h2>
+<p>You do not need to over-explain a gap.</p>
+<p>You may include a short, factual entry when helpful:</p>
+<p><strong>Career Break</strong>
+2024–2025</p>
+<ul>
+<li>Completed family caregiving responsibilities.</li>
+<li>Refreshed TypeScript and cloud infrastructure skills.</li>
+<li>Built and deployed two open-source applications.</li>
+</ul>
+<p>Other legitimate entries may include:</p>
+<ul>
+<li>independent study;</li>
+<li>freelancing;</li>
+<li>consulting;</li>
+<li>caregiving;</li>
+<li>medical leave;</li>
+<li>relocation;</li>
+<li>entrepreneurship;</li>
+<li>education.</li>
+</ul>
+<p>Do not invent work to fill space.</p>
+<h2>Present freelance and contract work clearly</h2>
+<p>Freelance work can be grouped when individual engagements were short.</p>
+<p>Example:</p>
+<p><strong>Independent Software Consultant</strong>
+2022–2024</p>
+<ul>
+<li>Delivered web applications and integrations for five small-business clients.</li>
+<li>Built payment, scheduling, and reporting features using TypeScript, Next.js, and PostgreSQL.</li>
+<li>Reduced manual administrative work for one client by approximately 15 hours per week.</li>
+</ul>
+<p>When confidentiality permits, name important clients or industries.</p>
+<h2>Early-career developers should emphasize evidence</h2>
+<p>If you have limited professional experience, focus on:</p>
+<ul>
+<li>internships;</li>
+<li>capstone projects;</li>
+<li>open-source contributions;</li>
+<li>freelance work;</li>
+<li>hackathons;</li>
+<li>research;</li>
+<li>student organizations;</li>
+<li>teaching assistance;</li>
+<li>deployed personal projects;</li>
+<li>relevant coursework.</li>
+</ul>
+<p>You do not need to pretend a classroom project was a commercial platform. Describe it honestly and highlight the technical decisions you made.</p>
+<h2>Senior engineers should emphasize scope and influence</h2>
+<p>Senior-level résumés should show more than implementation.</p>
+<p>Useful signals include:</p>
+<ul>
+<li>architecture;</li>
+<li>cross-team influence;</li>
+<li>system ownership;</li>
+<li>reliability;</li>
+<li>operational maturity;</li>
+<li>mentoring;</li>
+<li>incident leadership;</li>
+<li>migration planning;</li>
+<li>security;</li>
+<li>technical strategy;</li>
+<li>business impact.</li>
+</ul>
+<p>A senior résumé should make it clear not only that you can write code, but that you can improve systems and help other engineers succeed.</p>
+<h2>Engineering managers should show organizational outcomes</h2>
+<p>Managers should include:</p>
+<ul>
+<li>team size;</li>
+<li>hiring;</li>
+<li>retention;</li>
+<li>delivery improvements;</li>
+<li>coaching;</li>
+<li>planning;</li>
+<li>stakeholder management;</li>
+<li>process improvements;</li>
+<li>engineering quality;</li>
+<li>organizational change.</li>
+</ul>
+<p>Weak:</p>
+<blockquote>
+<p>“Managed a team of engineers.”</p>
+</blockquote>
+<p>Strong:</p>
+<blockquote>
+<p>“Managed eight engineers across platform and integrations, hired three team members, and improved quarterly delivery predictability through clearer planning and ownership.”</p>
+</blockquote>
+<h2>Adapt the résumé for a career change</h2>
+<p>When moving into a new technical field, identify transferable evidence.</p>
+<p>For example, a QA engineer moving into software development might emphasize:</p>
+<ul>
+<li>automation frameworks;</li>
+<li>scripting;</li>
+<li>CI/CD;</li>
+<li>debugging;</li>
+<li>test infrastructure;</li>
+<li>API validation;</li>
+<li>code contributions.</li>
+</ul>
+<p>A backend engineer moving into security might emphasize:</p>
+<ul>
+<li>authentication;</li>
+<li>authorization;</li>
+<li>secure coding;</li>
+<li>incident response;</li>
+<li>threat modeling;</li>
+<li>vulnerability remediation.</li>
+</ul>
+<p>Do not hide your previous experience. Reframe it around the capabilities relevant to the new role.</p>
+<h2>Education placement depends on experience</h2>
+<p>Place education near the top when:</p>
+<ul>
+<li>you are a student;</li>
+<li>you recently graduated;</li>
+<li>the degree is highly relevant;</li>
+<li>the employer specifically values academic credentials.</li>
+</ul>
+<p>Place it near the bottom when your professional experience is stronger and more relevant.</p>
+<p>Include:</p>
+<ul>
+<li>institution;</li>
+<li>degree;</li>
+<li>field;</li>
+<li>graduation year, when useful;</li>
+<li>notable honors;</li>
+<li>especially relevant coursework for early-career candidates.</li>
+</ul>
+<p>You usually do not need to include high school once you have higher education or substantial experience.</p>
+<h2>Certifications should support the role</h2>
+<p>Certifications are useful when they are relevant to the position.</p>
+<p>Examples may include:</p>
+<ul>
+<li>cloud certifications;</li>
+<li>security certifications;</li>
+<li>networking certifications;</li>
+<li>project or product certifications;</li>
+<li>platform-specific credentials.</li>
+</ul>
+<p>Do not let certifications dominate the résumé if your practical experience is stronger.</p>
+<h2>Remove low-value content</h2>
+<p>Consider removing:</p>
+<ul>
+<li>generic objectives;</li>
+<li>full street address;</li>
+<li>references available upon request;</li>
+<li>personal photo, unless customary and appropriate in your market;</li>
+<li>age, marital status, or unrelated personal details;</li>
+<li>every job you have ever held;</li>
+<li>obsolete technologies with no relevance;</li>
+<li>long lists of soft skills;</li>
+<li>hobbies with no professional value;</li>
+<li>elementary software such as basic office applications.</li>
+</ul>
+<p>Every line should earn its space.</p>
+<h2>One page or two?</h2>
+<p>One page is often appropriate for:</p>
+<ul>
+<li>students;</li>
+<li>early-career developers;</li>
+<li>candidates with a few years of experience;</li>
+<li>career changers with limited relevant work.</li>
+</ul>
+<p>Two pages may be appropriate for:</p>
+<ul>
+<li>senior engineers;</li>
+<li>managers;</li>
+<li>architects;</li>
+<li>consultants;</li>
+<li>candidates with long, relevant experience;</li>
+<li>people with significant publications, patents, or open-source work.</li>
+</ul>
+<p>Do not force a senior career into one crowded page. Do not stretch limited experience into two pages.</p>
+<p>Relevance matters more than an arbitrary page count.</p>
+<h2>Tailor the résumé for each role</h2>
+<p>You do not need to rewrite everything for every application, but you should adjust the document.</p>
+<p>For each role:</p>
+<ol>
+<li>Identify the top requirements.</li>
+<li>Move the most relevant bullets higher.</li>
+<li>Use accurate terminology from the posting.</li>
+<li>Remove low-value details.</li>
+<li>Adjust the professional summary.</li>
+<li>Reorder skills based on relevance.</li>
+<li>Highlight related projects.</li>
+<li>Save a role-specific filename.</li>
+</ol>
+<p>A platform-engineering application may prioritize:</p>
+<ul>
+<li>Kubernetes;</li>
+<li>Terraform;</li>
+<li>CI/CD;</li>
+<li>observability;</li>
+<li>reliability;</li>
+<li>incident response.</li>
+</ul>
+<p>A frontend application may prioritize:</p>
+<ul>
+<li>React;</li>
+<li>TypeScript;</li>
+<li>design systems;</li>
+<li>accessibility;</li>
+<li>performance;</li>
+<li>testing.</li>
+</ul>
+<p>The underlying experience can remain the same while the emphasis changes.</p>
+<h2>Build a master résumé</h2>
+<p>Maintain a private master document containing:</p>
+<ul>
+<li>every role;</li>
+<li>every strong bullet;</li>
+<li>every project;</li>
+<li>every technology;</li>
+<li>every measurable result;</li>
+<li>every presentation;</li>
+<li>every certification;</li>
+<li>every major contribution.</li>
+</ul>
+<p>Then create shorter targeted versions from that source.</p>
+<p>This prevents you from forgetting useful accomplishments and makes tailoring faster.</p>
+<h2>Keep an accomplishment log</h2>
+<p>Do not wait until your job search begins to remember what you did.</p>
+<p>Track accomplishments throughout the year:</p>
+<ul>
+<li>launches;</li>
+<li>migrations;</li>
+<li>incidents resolved;</li>
+<li>performance improvements;</li>
+<li>costs reduced;</li>
+<li>praise from stakeholders;</li>
+<li>mentoring outcomes;</li>
+<li>user growth;</li>
+<li>security improvements;</li>
+<li>process improvements.</li>
+</ul>
+<p>Record context and metrics while they are fresh.</p>
+<p>This also helps with performance reviews and promotion discussions.</p>
+<h2>Review for credibility</h2>
+<p>Before submitting, ask whether each bullet can survive follow-up questions.</p>
+<p>You should be ready to explain:</p>
+<ul>
+<li>the problem;</li>
+<li>your role;</li>
+<li>the technical approach;</li>
+<li>tradeoffs;</li>
+<li>team involvement;</li>
+<li>the result;</li>
+<li>how the result was measured;</li>
+<li>what you would do differently.</li>
+</ul>
+<p>If you cannot explain a claim, revise it.</p>
+<h2>Proofread like code</h2>
+<p>Small errors can weaken an otherwise strong résumé.</p>
+<p>Check for:</p>
+<ul>
+<li>inconsistent punctuation;</li>
+<li>mixed date formats;</li>
+<li>inconsistent capitalization;</li>
+<li>incorrect technology names;</li>
+<li>tense changes;</li>
+<li>broken links;</li>
+<li>extra spaces;</li>
+<li>duplicate words;</li>
+<li>spelling mistakes;</li>
+<li>alignment issues.</li>
+</ul>
+<p>Use present tense for current responsibilities and past tense for completed work.</p>
+<p>Examples:</p>
+<p>Current role:</p>
+<blockquote>
+<p>“Lead architecture reviews for payment services.”</p>
+</blockquote>
+<p>Completed project:</p>
+<blockquote>
+<p>“Migrated payment services to a new event-processing platform.”</p>
+</blockquote>
+<h2>Ask the right people for feedback</h2>
+<p>The most useful reviewers are often:</p>
+<ul>
+<li>someone who hires for your target role;</li>
+<li>an engineer at the level above you;</li>
+<li>a recruiter familiar with your market;</li>
+<li>a former manager;</li>
+<li>a trusted peer with strong writing skills.</li>
+</ul>
+<p>Ask specific questions:</p>
+<ul>
+<li>What do you think my strongest qualification is?</li>
+<li>What level does this résumé suggest?</li>
+<li>Which bullets are unclear?</li>
+<li>What information is missing?</li>
+<li>What would make you hesitate to interview me?</li>
+<li>Does the résumé match the role I am targeting?</li>
+</ul>
+<p>“Does this look good?” usually produces vague feedback.</p>
+<h2>Use AI carefully</h2>
+<p>AI can help you:</p>
+<ul>
+<li>rewrite weak bullets;</li>
+<li>identify missing metrics;</li>
+<li>compare your résumé with a job description;</li>
+<li>improve grammar;</li>
+<li>shorten repetitive content;</li>
+<li>generate alternative phrasing.</li>
+</ul>
+<p>But do not let AI invent:</p>
+<ul>
+<li>accomplishments;</li>
+<li>technologies;</li>
+<li>leadership responsibilities;</li>
+<li>metrics;</li>
+<li>employers;</li>
+<li>credentials;</li>
+<li>project scope.</li>
+</ul>
+<p>Treat AI as an editor, not a source of professional history.</p>
+<h2>A practical résumé checklist</h2>
+<p>Before applying, confirm that your résumé:</p>
+<ul>
+<li>clearly identifies your target role;</li>
+<li>shows your strongest experience early;</li>
+<li>uses measurable results where possible;</li>
+<li>explains your individual contribution;</li>
+<li>includes relevant technologies;</li>
+<li>avoids unsupported claims;</li>
+<li>uses a clean single-column structure;</li>
+<li>contains no broken links;</li>
+<li>uses a professional filename;</li>
+<li>fits the job description without keyword stuffing;</li>
+<li>avoids spelling and formatting errors;</li>
+<li>is readable when copied as plain text;</li>
+<li>includes only relevant and defensible information.</li>
+</ul>
+<h2>A complete before-and-after example</h2>
+<h3>Before</h3>
+<p><strong>Software Engineer</strong></p>
+<ul>
+<li>Responsible for backend services.</li>
+<li>Worked with AWS.</li>
+<li>Helped improve performance.</li>
+<li>Participated in code reviews.</li>
+<li>Fixed production issues.</li>
+</ul>
+<h3>After</h3>
+<p><strong>Software Engineer</strong></p>
+<ul>
+<li>Built and maintained TypeScript services processing more than 800,000 monthly transactions.</li>
+<li>Migrated asynchronous workloads to AWS queues and workers, reducing failed jobs by 38%.</li>
+<li>Improved API p95 response time from 620 ms to 360 ms through query tuning and caching.</li>
+<li>Introduced a review checklist that reduced repeated production defects across the team.</li>
+<li>Participated in on-call response and implemented monitoring for the five most common failure modes.</li>
+</ul>
+<p>The second version tells the reader:</p>
+<ul>
+<li>what the candidate built;</li>
+<li>which technologies they used;</li>
+<li>the scale;</li>
+<li>the outcomes;</li>
+<li>the operational responsibility;</li>
+<li>the influence on team quality.</li>
+</ul>
+<p>That is what earns interviews.</p>
 <h2>The takeaway</h2>
-<p>A great developer résumé is skimmable, impact-driven, honest, and backed by real work. Lead with results and numbers, mirror the role&#39;s language, link to proof, and keep it tight. Do that and you&#39;ll convert far more applications into interviews.</p>
-<p><em>Ready to put it to work? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a> and apply directly to companies — no recruiters.</em></p>
+<p>A strong developer résumé is not the one with the most technologies, the most decorative formatting, or the most impressive adjectives.</p>
+<p>It is the one that quickly communicates:</p>
+<ul>
+<li>what kind of engineer you are;</li>
+<li>what problems you have solved;</li>
+<li>how large those problems were;</li>
+<li>what you personally contributed;</li>
+<li>what improved because of your work;</li>
+<li>why your experience is relevant to the role.</li>
+</ul>
+<p>Lead with impact. Use credible metrics. Keep the document easy to scan. Match the language of the opportunity. Link to meaningful proof. Remove anything that weakens the signal.</p>
+<p>Your résumé does not need to tell your entire career story.</p>
+<p>It needs to make the right employer want to hear the rest.</p>
+<p><em>Ready to put your résumé to work? <a href="/auth/register?role=EMPLOYEE">Create a free professional profile on JobsList.dev</a>, discover transparent opportunities, and apply directly to hiring companies.</em></p>
 5:["locale","tr","d"]
 6:["slug","developer-resume-that-gets-interviews","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__?{\"locale\":\"tr\",\"slug\":\"developer-resume-that-gets-interviews\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Write a Developer Résumé That Actually Gets Interviews\",\"description\":\"For developers and engineers: how to update your résumé so it passes the skim test, beats the filters, and lands interviews — with concrete before/after examples.\",\"datePublished\":\"2026-03-05T00:00:00.000Z\",\"inLanguage\":\"tr\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Write a Developer Résumé That Actually Gets Interviews","date":"2026-03-05T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Write a Developer Résumé That Actually Gets Interviews | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For developers and engineers: how to update your résumé so it passes the skim test, beats the filters, and lands interviews — with concrete before/after examples."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Write a Developer Résumé That Actually Gets Interviews"}],["$","meta","15",{"property":"og:description","content":"For developers and engineers: how to update your résumé so it passes the skim test, beats the filters, and lands interviews — with concrete before/after examples."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-03-05T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Write a Developer Résumé That Actually Gets Interviews"}],["$","meta","25",{"name":"twitter:description","content":"For developers and engineers: how to update your résumé so it passes the skim test, beats the filters, and lands interviews — with concrete before/after examples."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__?{\"locale\":\"tr\",\"slug\":\"developer-resume-that-gets-interviews\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","tr","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Write a Developer Résumé That Actually Gets Interviews\",\"description\":\"A practical guide for developers and engineers who want a résumé that passes the skim test, communicates real impact, works with applicant tracking systems, and turns more applications into interviews.\",\"datePublished\":\"2026-03-05T00:00:00.000Z\",\"inLanguage\":\"tr\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Write a Developer Résumé That Actually Gets Interviews","date":"2026-03-05T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":21,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Write a Developer Résumé That Actually Gets Interviews | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide for developers and engineers who want a résumé that passes the skim test, communicates real impact, works with applicant tracking systems, and turns more applications into interviews."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Write a Developer Résumé That Actually Gets Interviews"}],["$","meta","15",{"property":"og:description","content":"A practical guide for developers and engineers who want a résumé that passes the skim test, communicates real impact, works with applicant tracking systems, and turns more applications into interviews."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-03-05T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Write a Developer Résumé That Actually Gets Interviews"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide for developers and engineers who want a résumé that passes the skim test, communicates real impact, works with applicant tracking systems, and turns more applications into interviews."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

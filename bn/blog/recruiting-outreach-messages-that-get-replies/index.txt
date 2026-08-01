@@ -1,72 +1,428 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T1aa5,<p>Every working developer receives outreach constantly, and almost all of it is deleted within seconds. Not because they&#39;re never open to moving — many are — but because the messages are interchangeable, obviously mass-sent, and ask for a lot while offering almost nothing.</p>
-<p>The bar is genuinely low. A message that shows one minute of actual attention stands out dramatically, and reply rates reflect that.</p>
-<h2>Why the standard message fails</h2>
-<p>The typical outreach opens with &quot;I came across your profile and was impressed by your background,&quot; names a &quot;fast-growing, well-funded company,&quot; describes an &quot;exciting opportunity,&quot; and asks for a 30-minute call. Every clause is interchangeable with every other message they received this week.</p>
-<p>Worse, it asks the recipient to do all the work: to be curious enough to ask what the company does, what the role is, and what it pays. Busy people don&#39;t. They delete.</p>
-<h2>What a good first message contains</h2>
-<p>Five things, in about 150 words:</p>
-<ol>
-<li><strong>Something specific to them.</strong> A project, a talk, a repository, a post, or the actual technology they work in. One sentence, and it must be genuine — false specificity is worse than none.</li>
-<li><strong>What the company does</strong>, in plain language. Not the tagline.</li>
-<li><strong>What the role actually is</strong> — the problem they&#39;d own, not the title.</li>
-<li><strong>The compensation range.</strong> This is the single biggest lever on reply rate, and most recruiters omit it.</li>
-<li><strong>A small, clear ask.</strong> Not &quot;are you interested in a call,&quot; which requires a decision. &quot;Worth a quick look?&quot; or &quot;Want me to send the details?&quot; is easier to say yes to.</li>
-</ol>
-<h3>An example</h3>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T3a8b,<h1>How to Write Recruiting Outreach That Developers Actually Reply To</h1>
+<p>Every experienced developer has an inbox full of recruiting messages that all sound exactly the same.</p>
 <blockquote>
-<p>Hi [name] — I saw your work on [specific thing] and the [technical detail] approach you took. We&#39;ve got a similar problem at [company].</p>
-<p>We build [what the product does, plainly]. We&#39;re hiring a [role] to own [the specific problem] — right now that means [the concrete near-term work].</p>
-<p>Range is [$X–$Y] plus equity, [location or remote policy]. Stack is [three things].</p>
-<p>If it&#39;s not the right time, no problem at all. Want me to send more detail?</p>
+<p>&quot;I came across your profile...&quot;</p>
+<p>&quot;We have an exciting opportunity...&quot;</p>
+<p>&quot;We&#39;re a fast-growing startup...&quot;</p>
+<p>&quot;Do you have 30 minutes this week?&quot;</p>
 </blockquote>
-<p>That&#39;s it. Short, specific, answers their questions before they ask, and makes it easy to say no.</p>
-<h2>What to cut</h2>
+<p>Most are deleted in seconds.</p>
+<p>The problem isn&#39;t that developers never change jobs—they do. The problem is that most outreach gives them no reason to spend time learning more. It asks for attention before providing value.</p>
+<p>Great recruiting outreach isn&#39;t about clever wording or persuasive copywriting. It&#39;s about demonstrating that you&#39;ve done your homework, explaining why the opportunity is genuinely relevant, and making it effortless for someone to continue the conversation.</p>
+<p>Whether you&#39;re an internal recruiter, hiring manager, founder, or agency recruiter, these principles dramatically improve response rates while building a stronger employer reputation.</p>
+<hr>
+<h2>Why Most Recruiting Messages Fail</h2>
+<p>Developers receive dozens—or even hundreds—of recruiting messages every year.</p>
+<p>After seeing enough of them, they can identify a mass template within the first sentence.</p>
+<p>Typical messages usually contain:</p>
 <ul>
-<li><strong>&quot;I was impressed by your profile.&quot;</strong> Says nothing and everyone uses it.</li>
-<li><strong>&quot;Exciting opportunity,&quot; &quot;rockstar,&quot; &quot;unicorn,&quot; &quot;disruptive.&quot;</strong> Empty adjectives.</li>
-<li><strong>The company boilerplate paragraph.</strong> They&#39;ll look you up if they&#39;re interested.</li>
-<li><strong>A long list of requirements.</strong> This is an invitation, not a job post.</li>
-<li><strong>&quot;Are you free for a quick 30-minute chat this week?&quot;</strong> as the entire message. You&#39;re asking for thirty minutes before giving them thirty seconds of substance.</li>
-<li><strong>Flattery that could apply to anyone.</strong></li>
+<li>Generic compliments</li>
+<li>No evidence the sender read their profile</li>
+<li>No salary information</li>
+<li>No explanation of the product</li>
+<li>No explanation of the actual work</li>
+<li>A request for a phone call immediately</li>
 </ul>
-<h2>Include the salary range</h2>
-<p>Recruiters resist this more than anything else, and it&#39;s the change that most reliably moves reply rates.</p>
-<p>Someone happily employed has no reason to spend time discovering that your role pays less than their current job. Including the range removes the main cost of engaging. It also filters out the conversations that would have ended in week three anyway, which saves you far more time than the occasional candidate who&#39;d have accepted less.</p>
-<p>If you genuinely can&#39;t publish a number, say something useful instead: &quot;we benchmark at the [n]th percentile for [market]&quot; or &quot;the band for this level is [X].&quot; Silence is the worst option.</p>
-<h2>Personalisation that scales</h2>
-<p>Genuine personalisation takes two to three minutes per candidate. That&#39;s the actual cost, and it&#39;s worth it: a smaller, well-researched batch consistently outperforms a large generic one.</p>
-<p>Practical approach: template the middle (what the company does, the role, the range, the stack), and write the first sentence fresh every time. Look at one thing they&#39;ve made or written and reference it accurately. If you can&#39;t find anything specific to say, that&#39;s a signal they may not be well-targeted.</p>
-<h2>Following up</h2>
+<p>Imagine receiving the following:</p>
+<blockquote>
+<p>&quot;Hi Alex,</p>
+<p>I was impressed with your profile. We have an exciting opportunity with a rapidly growing company using cutting-edge technologies. Would you have 30 minutes this week?&quot;</p>
+</blockquote>
+<p>Nothing about that message tells the recipient:</p>
 <ul>
-<li><strong>Follow up once</strong>, roughly a week later, briefly. Add something new — a detail about the team, a link to something relevant.</li>
-<li><strong>Then stop.</strong> A third and fourth message converts almost nobody and reliably annoys people who talk to each other.</li>
-<li><strong>Take &quot;not right now&quot; as a real answer</strong>, and ask if they&#39;d like to hear from you in six months. Many will say yes, and that list is more valuable than a cold one.</li>
-<li><strong>Never contact someone who has asked you not to.</strong> It&#39;s the fastest way to build a reputation among exactly the people you want.</li>
+<li>Why they were contacted</li>
+<li>Why this role fits them</li>
+<li>Why this company is different</li>
+<li>Whether the compensation is competitive</li>
+<li>Whether it&#39;s worth interrupting their day</li>
 </ul>
-<h2>The details that quietly matter</h2>
+<p>Deleting it is the rational response.</p>
+<hr>
+<h1>Remember Who Is Evaluating Whom</h1>
+<p>Recruiters often think they&#39;re evaluating candidates.</p>
+<p>Experienced developers know the reverse is equally true.</p>
+<p>Every message becomes an early signal about your company.</p>
+<p>Developers ask themselves:</p>
 <ul>
-<li><strong>Get the name and the pronouns right.</strong> Errors here end the conversation.</li>
-<li><strong>Read their profile before claiming you did.</strong> Pitching a backend role to someone who has done frontend for six years is a common and fatal tell.</li>
-<li><strong>Don&#39;t contact people who just started somewhere.</strong> Two months in, the answer is no and the message is irritating.</li>
-<li><strong>Reply fast when they respond.</strong> Interest decays in days. A three-day gap after &quot;sure, tell me more&quot; wastes the whole effort.</li>
-<li><strong>Be a person.</strong> Outreach that reads as human, with a name and a real signature, outperforms polished template voice.</li>
+<li>Does this company understand engineering?</li>
+<li>Does this recruiter understand what I actually do?</li>
+<li>Is this role real or was I scraped from LinkedIn?</li>
+<li>Will interviews be organized?</li>
+<li>Is this another company hiding compensation?</li>
 </ul>
-<h2>Measure it</h2>
-<p>Track reply rate — not messages sent. If you&#39;re below roughly one reply in ten on a well-targeted list, the message is the problem, not the market. Change one thing at a time: add the range, cut the boilerplate, rewrite the opening line. The differences are large and quick to see.</p>
-<h2>The takeaway</h2>
-<p>Developers ignore outreach because it&#39;s generic, vague about the work, and silent about pay. Fix those three and you&#39;re ahead of nearly everyone contacting them. One specific sentence, a plain description of the problem, an actual number, and an easy way to say no — around 150 words, personalised in the parts that matter. Then follow up once and leave it there.</p>
-<p><em>Prefer candidates who come to you? <a href="/auth/register?role=COMPANY">Post your role on JobsList.dev</a> and reach developers who are already looking.</em></p>
+<p>The outreach itself becomes your first interview.</p>
+<hr>
+<h1>Research Before You Write</h1>
+<p>Personalization isn&#39;t writing someone&#39;s first name.</p>
+<p>It&#39;s showing that you understand something meaningful about their work.</p>
+<p>Good sources include:</p>
+<ul>
+<li>GitHub repositories</li>
+<li>Open-source contributions</li>
+<li>Personal websites</li>
+<li>Technical blogs</li>
+<li>Conference talks</li>
+<li>Engineering podcasts</li>
+<li>LinkedIn articles</li>
+<li>Stack Overflow activity</li>
+<li>Public portfolio projects</li>
+</ul>
+<p>You don&#39;t need to spend twenty minutes researching someone.</p>
+<p>Two or three genuine minutes often produces enough context to write a message that feels human.</p>
+<hr>
+<h2>What Developers Actually Want to Read</h2>
+<p>Good outreach answers the questions developers naturally have.</p>
+<h3>Why me?</h3>
+<p>Mention something specific.</p>
+<p>Examples:</p>
+<ul>
+<li>a project</li>
+<li>a library</li>
+<li>a technical article</li>
+<li>a conference presentation</li>
+<li>an architecture discussion</li>
+<li>a GitHub repository</li>
+<li>an interesting pull request</li>
+</ul>
+<p>Not:</p>
+<blockquote>
+<p>&quot;I love your experience.&quot;</p>
+</blockquote>
+<p>Instead:</p>
+<blockquote>
+<p>&quot;I enjoyed reading your post about optimizing PostgreSQL indexes. We solve similar scaling problems.&quot;</p>
+</blockquote>
+<p>Specificity earns attention.</p>
+<hr>
+<h3>What does your company actually build?</h3>
+<p>Skip marketing language.</p>
+<p>Don&#39;t write:</p>
+<blockquote>
+<p>&quot;We&#39;re disrupting digital transformation.&quot;</p>
+</blockquote>
+<p>Write:</p>
+<blockquote>
+<p>&quot;We build scheduling software used by over 12,000 healthcare providers.&quot;</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>&quot;We process payment transactions for online retailers across North America.&quot;</p>
+</blockquote>
+<p>Developers care about real products.</p>
+<hr>
+<h3>What problem would I solve?</h3>
+<p>Titles are weak.</p>
+<p>Problems are compelling.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Senior Backend Engineer</p>
+</blockquote>
+<p>Write:</p>
+<blockquote>
+<p>You&#39;ll lead the redesign of our event ingestion platform processing over 5 billion events each day.</p>
+</blockquote>
+<p>Or:</p>
+<blockquote>
+<p>You&#39;ll own our offline synchronization engine for mobile devices used by field technicians.</p>
+</blockquote>
+<p>Interesting work attracts engineers.</p>
+<hr>
+<h3>What&#39;s the technology stack?</h3>
+<p>Keep it concise.</p>
+<p>Examples:</p>
+<ul>
+<li>Rust</li>
+<li>Go</li>
+<li>TypeScript</li>
+<li>React</li>
+<li>PostgreSQL</li>
+<li>Kubernetes</li>
+<li>AWS</li>
+</ul>
+<p>Don&#39;t overwhelm the message with twenty technologies.</p>
+<p>Three to six is usually enough.</p>
+<hr>
+<h3>What&#39;s the salary?</h3>
+<p>One of the biggest reasons outreach is ignored is uncertainty.</p>
+<p>Developers don&#39;t want to spend weeks interviewing only to discover the compensation doesn&#39;t align with their expectations.</p>
+<p>Whenever possible include:</p>
+<ul>
+<li>salary range</li>
+<li>bonus</li>
+<li>equity</li>
+<li>benefits</li>
+<li>remote policy</li>
+</ul>
+<p>Transparency builds trust immediately.</p>
+<hr>
+<h2>A High-Performing Outreach Structure</h2>
+<p>Keep the message between <strong>120–180 words</strong>.</p>
+<p>Structure:</p>
+<ol>
+<li>Personalized opening</li>
+<li>Company description</li>
+<li>Role description</li>
+<li>Salary range</li>
+<li>Simple next step</li>
+</ol>
+<p>Example:</p>
+<blockquote>
+<p>Hi Sarah,</p>
+<p>I recently read your article about reducing API latency using Rust, especially your section on async request batching.</p>
+<p>Our engineering team at Acme is solving very similar performance challenges for a logistics platform processing millions of shipments every day.</p>
+<p>We&#39;re hiring a Senior Backend Engineer to lead our event ingestion services.</p>
+<p>Compensation is $180k–$220k plus equity, fully remote within North America.</p>
+<p>If you&#39;re open to learning more, I&#39;d be happy to send over the details. No pressure at all if the timing isn&#39;t right.</p>
+</blockquote>
+<p>Notice what&#39;s missing:</p>
+<ul>
+<li>exaggerated hype</li>
+<li>buzzwords</li>
+<li>pressure</li>
+<li>unnecessary meetings</li>
+</ul>
+<hr>
+<h1>Keep It About Them</h1>
+<p>Most recruiting messages spend 90% of their words talking about the company.</p>
+<p>Reverse that.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>We&#39;re growing...</p>
+</blockquote>
+<p>Try:</p>
+<blockquote>
+<p>Based on your work with distributed systems, I thought this role might genuinely interest you.</p>
+</blockquote>
+<p>Developers care about:</p>
+<ul>
+<li>interesting problems</li>
+<li>technical ownership</li>
+<li>learning opportunities</li>
+<li>impact</li>
+<li>engineering quality</li>
+</ul>
+<p>Your company is simply the context.</p>
+<hr>
+<h1>Don&#39;t Oversell</h1>
+<p>Developers are naturally skeptical.</p>
+<p>Avoid:</p>
+<ul>
+<li>revolutionary</li>
+<li>world-changing</li>
+<li>unicorn</li>
+<li>rockstar</li>
+<li>ninja</li>
+<li>game-changing</li>
+<li>disruptive</li>
+<li>cutting-edge</li>
+</ul>
+<p>Replace adjectives with facts.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Amazing engineering culture</p>
+</blockquote>
+<p>Write:</p>
+<blockquote>
+<p>We deploy multiple times per day with automated testing and small pull requests.</p>
+</blockquote>
+<p>Facts are more persuasive than marketing.</p>
+<hr>
+<h1>Make Saying &quot;Yes&quot; Easy</h1>
+<p>Don&#39;t ask for a meeting immediately.</p>
+<p>Lower the commitment.</p>
+<p>Better closing questions include:</p>
+<ul>
+<li>Want me to send more details?</li>
+<li>Worth a quick look?</li>
+<li>Would it be helpful if I shared the job description?</li>
+<li>Interested in learning more?</li>
+<li>Happy to answer questions if you&#39;re curious.</li>
+</ul>
+<p>Small asks generate more responses.</p>
+<hr>
+<h1>Respect Their Time</h1>
+<p>Developers are busy.</p>
+<p>Help them evaluate the opportunity quickly.</p>
+<p>Include:</p>
+<ul>
+<li>remote or onsite</li>
+<li>salary</li>
+<li>tech stack</li>
+<li>product</li>
+<li>mission</li>
+<li>location</li>
+<li>team size (if relevant)</li>
+</ul>
+<p>Every unanswered question creates friction.</p>
+<p>Reduce friction.</p>
+<p>Increase replies.</p>
+<hr>
+<h1>Common Outreach Mistakes</h1>
+<p>Avoid these entirely.</p>
+<h2>Generic compliments</h2>
+<p>Bad:</p>
+<blockquote>
+<p>I was impressed with your background.</p>
+</blockquote>
+<p>Good:</p>
+<blockquote>
+<p>Your open-source work on Redis clustering caught my attention.</p>
+</blockquote>
+<hr>
+<h2>Walls of text</h2>
+<p>Keep messages readable.</p>
+<p>Short paragraphs.</p>
+<p>White space.</p>
+<p>Developers skim.</p>
+<hr>
+<h2>Huge requirement lists</h2>
+<p>The first message isn&#39;t the place for twenty bullet points.</p>
+<p>Focus on:</p>
+<ul>
+<li>problem</li>
+<li>impact</li>
+<li>opportunity</li>
+</ul>
+<hr>
+<h2>Immediate meeting requests</h2>
+<p>Don&#39;t ask strangers for thirty minutes.</p>
+<p>Earn the conversation.</p>
+<hr>
+<h2>Hidden salary</h2>
+<p>This is one of the fastest ways to reduce response rates.</p>
+<p>Transparency helps everyone.</p>
+<hr>
+<h2>Incorrect personalization</h2>
+<p>Nothing destroys credibility faster than:</p>
+<ul>
+<li>wrong name</li>
+<li>wrong company</li>
+<li>wrong programming language</li>
+<li>wrong specialty</li>
+</ul>
+<p>Double-check everything.</p>
+<hr>
+<h1>AI Can Help—But Don&#39;t Let It Sound Like AI</h1>
+<p>AI tools can help recruiters:</p>
+<ul>
+<li>improve grammar</li>
+<li>shorten messages</li>
+<li>rewrite paragraphs</li>
+<li>summarize company information</li>
+<li>create draft outreach</li>
+</ul>
+<p>But never copy and paste AI-generated messages without editing them.</p>
+<p>Developers increasingly recognize generic AI writing.</p>
+<p>Use AI for:</p>
+<ul>
+<li>editing</li>
+<li>proofreading</li>
+<li>improving clarity</li>
+</ul>
+<p>Not for replacing genuine research.</p>
+<p>The most effective outreach still includes one or two human-written sentences that reference the candidate&#39;s actual work.</p>
+<hr>
+<h1>Follow Up Professionally</h1>
+<p>Many developers simply miss the first message.</p>
+<p>Following up once is reasonable.</p>
+<p>A good follow-up:</p>
+<ul>
+<li>is brief</li>
+<li>references the earlier message</li>
+<li>adds one new piece of information</li>
+<li>doesn&#39;t pressure the recipient</li>
+</ul>
+<p>Example:</p>
+<blockquote>
+<p>Hi Sarah,</p>
+<p>Just following up in case my previous message got buried.</p>
+<p>We&#39;ve since published a new engineering article explaining the platform I mentioned, so I thought I&#39;d share it.</p>
+<p>Happy to send details if you&#39;re interested.</p>
+</blockquote>
+<p>That&#39;s enough.</p>
+<p>If there&#39;s no response after a second message, move on respectfully.</p>
+<p>Persistence is valuable.</p>
+<p>Spam is not.</p>
+<hr>
+<h1>Build Long-Term Relationships</h1>
+<p>Not every conversation should end in an immediate hire.</p>
+<p>Many outstanding developers respond with:</p>
+<ul>
+<li>Maybe later.</li>
+<li>Not this year.</li>
+<li>Check back in six months.</li>
+</ul>
+<p>Treat those responses as successes.</p>
+<p>Keep notes.</p>
+<p>Reconnect thoughtfully.</p>
+<p>The candidate who says &quot;no&quot; today may become your best hire next year.</p>
+<p>Great recruiting is relationship building, not transaction processing.</p>
+<hr>
+<h1>Measure the Right Metrics</h1>
+<p>Sending more messages isn&#39;t success.</p>
+<p>Track outcomes instead.</p>
+<p>Useful recruiting metrics include:</p>
+<ul>
+<li>Response rate</li>
+<li>Positive response rate</li>
+<li>Qualified conversations</li>
+<li>Interview conversion rate</li>
+<li>Offer acceptance rate</li>
+<li>Time-to-hire</li>
+<li>Cost-per-hire</li>
+<li>Candidate satisfaction</li>
+<li>Referral rate</li>
+</ul>
+<p>Small improvements in outreach quality often produce meaningful improvements across the entire hiring funnel.</p>
+<hr>
+<h1>Recruiting Outreach Checklist</h1>
+<p>Before pressing <strong>Send</strong>, ask yourself:</p>
+<ul>
+<li>✅ Did I reference something specific about the candidate?</li>
+<li>✅ Did I explain what the company actually builds?</li>
+<li>✅ Did I describe the real problem they&#39;d solve?</li>
+<li>✅ Did I include compensation or a meaningful range?</li>
+<li>✅ Is the message under 180 words?</li>
+<li>✅ Did I avoid buzzwords and clichés?</li>
+<li>✅ Is the next step simple?</li>
+<li>✅ Would I reply if I received this message?</li>
+</ul>
+<p>If you can&#39;t answer &quot;yes&quot; to every question, revise the message first.</p>
+<hr>
+<h1>Advice for Developers Receiving Outreach</h1>
+<p>Recruiting outreach isn&#39;t only something employers should improve.</p>
+<p>Developers can also make themselves easier to discover.</p>
+<p>Consider including:</p>
+<ul>
+<li>Current technology stack</li>
+<li>Preferred role</li>
+<li>Remote or relocation preferences</li>
+<li>Portfolio website</li>
+<li>GitHub profile</li>
+<li>Personal projects</li>
+<li>Conference talks</li>
+<li>Open-source contributions</li>
+<li>Salary expectations (if you&#39;re comfortable sharing them)</li>
+</ul>
+<p>A complete professional profile helps recruiters determine whether an opportunity is genuinely relevant, reducing unwanted messages and improving the quality of the ones you do receive.</p>
+<hr>
+<h1>The Takeaway</h1>
+<p>Developers don&#39;t ignore recruiting outreach because they&#39;re impossible to reach—they ignore it because most messages feel interchangeable.</p>
+<p>The best recruiting messages are short, specific, transparent, and respectful. They explain why the recipient was chosen, what the company actually builds, the meaningful problems they&#39;ll solve, and the compensation they can expect. They make it easy to say &quot;yes,&quot; just as importantly, easy to say &quot;no.&quot;</p>
+<p>Whether you&#39;re hiring one engineer or building an entire engineering organization, better outreach leads to better conversations, stronger employer branding, higher response rates, and ultimately better hires.</p>
+<hr>
+<p><strong>Looking for developers who are already interested in new opportunities? Create your company profile on JobsList.dev, publish your engineering roles, and connect directly with talented software professionals from around the world.</strong></p>
 5:["locale","bn","d"]
 6:["slug","recruiting-outreach-messages-that-get-replies","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__?{\"locale\":\"bn\",\"slug\":\"recruiting-outreach-messages-that-get-replies\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Write Recruiting Outreach That Developers Actually Reply To\",\"description\":\"Most outreach to developers is ignored for predictable reasons. What to put in the first message, what to cut, and how to follow up without irritating people.\",\"datePublished\":\"2026-06-29T00:00:00.000Z\",\"inLanguage\":\"bn\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Write Recruiting Outreach That Developers Actually Reply To","date":"2026-06-29T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":5,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Write Recruiting Outreach That Developers Actually Reply To | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Most outreach to developers is ignored for predictable reasons. What to put in the first message, what to cut, and how to follow up without irritating people."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","15",{"property":"og:description","content":"Most outreach to developers is ignored for predictable reasons. What to put in the first message, what to cut, and how to follow up without irritating people."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-29T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","25",{"name":"twitter:description","content":"Most outreach to developers is ignored for predictable reasons. What to put in the first message, what to cut, and how to follow up without irritating people."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__?{\"locale\":\"bn\",\"slug\":\"recruiting-outreach-messages-that-get-replies\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","bn","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Write Recruiting Outreach That Developers Actually Reply To\",\"description\":\"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers.\",\"datePublished\":\"2026-06-29T00:00:00.000Z\",\"inLanguage\":\"bn\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Write Recruiting Outreach That Developers Actually Reply To","date":"2026-06-29T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Write Recruiting Outreach That Developers Actually Reply To | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","15",{"property":"og:description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-29T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","25",{"name":"twitter:description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

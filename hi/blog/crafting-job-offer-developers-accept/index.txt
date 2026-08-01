@@ -1,55 +1,558 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:Te42,<p>The hardest part of hiring isn&#39;t always finding the right person — it&#39;s closing them. Strong developers often have multiple offers, and a great candidate lost at the offer stage means starting the whole search over. Here&#39;s how to build an offer that wins and present it so your top choice accepts.</p>
-<h2>The close starts at the first interaction</h2>
-<p>By the time you extend an offer, the candidate has already formed an opinion of you. A fast, respectful, well-communicated process is itself part of the offer. If the experience was disorganized or slow, no amount of money fully fixes it. Treat every stage as part of closing.</p>
-<h2>Get the compensation right</h2>
-<p>Money isn&#39;t everything, but getting it wrong ends the conversation:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T4539,<hr>
+<p>Hiring doesn&#39;t end when you&#39;ve identified your preferred candidate.</p>
+<p>In many ways, the offer stage is where the real competition begins.</p>
+<p>Strong developers rarely interview with only one company. By the time you&#39;re ready to extend an offer, your candidate may already have other interviews in progress, competing offers on the table, or be deciding whether leaving their current employer is worthwhile at all.</p>
+<p>Many companies spend weeks carefully sourcing candidates, coordinating interviews, and evaluating technical ability—only to lose the person because the offer arrives too slowly, lacks clarity, or fails to explain why joining the company is genuinely exciting.</p>
+<p>Closing exceptional talent isn&#39;t about &quot;selling.&quot;</p>
+<p>It&#39;s about presenting an honest, compelling opportunity that aligns with the candidate&#39;s goals while demonstrating that your company is organized, respectful, transparent, and ready to invest in their success.</p>
+<p>This guide explains how to build an offer developers feel confident accepting.</p>
+<hr>
+<h1>Closing starts long before the offer</h1>
+<p>The offer isn&#39;t the first impression.</p>
+<p>It&#39;s the final confirmation of every impression you&#39;ve already made.</p>
+<p>By the time a candidate receives an offer they&#39;ve already evaluated:</p>
 <ul>
-<li><strong>Know the market.</strong> Underpaying relative to the role and location guarantees you lose people — and wastes everyone&#39;s time.</li>
-<li><strong>Be transparent early.</strong> Sharing the range up front avoids the painful surprise where you fall far below expectations after weeks of interviews.</li>
-<li><strong>Think total comp.</strong> Base, any bonus or equity, and benefits all matter. Be clear about each so the candidate can compare honestly.</li>
+<li>your communication</li>
+<li>interview quality</li>
+<li>technical leadership</li>
+<li>engineering culture</li>
+<li>responsiveness</li>
+<li>respect for their time</li>
+<li>transparency</li>
+<li>professionalism</li>
+<li>organization</li>
 </ul>
-<h2>Sell more than salary</h2>
-<p>Top developers weigh more than the number:</p>
+<p>If the interview process felt chaotic, candidates often assume working there will feel the same.</p>
+<p>Likewise, if every interaction was thoughtful, timely, and respectful, they&#39;re much more likely to trust your offer.</p>
+<p>Every interaction either builds or reduces confidence.</p>
+<hr>
+<h1>Understand what developers are really evaluating</h1>
+<p>Salary matters.</p>
+<p>But experienced engineers almost never choose based on salary alone.</p>
+<p>They&#39;re evaluating the complete opportunity.</p>
+<p>Questions running through their mind include:</p>
 <ul>
-<li><strong>The work.</strong> Interesting problems and real impact are powerful draws.</li>
-<li><strong>Growth.</strong> Will they learn and advance? Who will they learn from?</li>
-<li><strong>The team and culture.</strong> People join teams they respect and managers they trust.</li>
-<li><strong>Flexibility.</strong> Remote options and autonomy carry real weight.</li>
+<li>Will I enjoy this work?</li>
+<li>Will I learn here?</li>
+<li>Will my manager support me?</li>
+<li>Is leadership competent?</li>
+<li>Does the engineering team respect quality?</li>
+<li>Is this company financially stable?</li>
+<li>Will I still enjoy this job two years from now?</li>
+<li>Can I trust what they&#39;re telling me?</li>
+<li>Is the interview process representative of the culture?</li>
 </ul>
-<p>Make the case for why <em>this</em> role is a great move for <em>them</em>, specifically.</p>
-<h2>Present the offer like you mean it</h2>
-<p>Don&#39;t email a PDF and wait. Make it personal:</p>
+<p>Great offers answer these questions before they&#39;re even asked.</p>
+<hr>
+<h1>Know what motivates your candidate</h1>
+<p>Every developer values different things.</p>
+<p>For one candidate:</p>
 <ul>
-<li><strong>Call them.</strong> Express genuine enthusiasm — people want to feel wanted.</li>
-<li><strong>Walk through the details</strong> so nothing is ambiguous.</li>
-<li><strong>Explain the &quot;why&quot;</strong> — why you&#39;re excited to have them and where they&#39;ll make an impact.</li>
+<li>remote work</li>
 </ul>
-<p>Enthusiasm is contagious and often the deciding factor between two similar offers.</p>
-<h2>Handle negotiation gracefully</h2>
-<p>Expect some negotiation and treat it as normal, not adversarial:</p>
+<p>may be worth more than another $10,000.</p>
+<p>For another:</p>
 <ul>
-<li><strong>Listen to what actually matters</strong> to them — it may be flexibility or scope, not just base pay.</li>
-<li><strong>Move quickly.</strong> Drawn-out back-and-forth cools excitement.</li>
-<li><strong>Know your limits</strong> in advance so you can respond without delay.</li>
+<li>technical ownership</li>
+<li>open-source work</li>
+<li>architecture decisions</li>
 </ul>
-<h2>Set a reasonable deadline</h2>
-<p>Give them enough time to decide thoughtfully, but not so long that momentum dies. A clear, fair timeline keeps the process moving and signals confidence.</p>
-<h2>After they accept</h2>
-<p>Closing doesn&#39;t end at &quot;yes.&quot; Stay in touch between acceptance and start date, get onboarding ready, and keep them excited. Candidates can still be poached after accepting — a warm, organized pre-start experience protects your win.</p>
-<h2>The takeaway</h2>
-<p>Winning your top candidate is about competitive, transparent compensation <em>plus</em> a compelling story and a personal, enthusiastic close. Respect their time, sell the whole opportunity, and move fast. Do that and you&#39;ll convert far more of the people you most want to hire.</p>
-<p><em>Find candidates worth closing — <a href="/auth/register?role=COMPANY">post your role on JobsList.dev</a>.</em></p>
+<p>matter most.</p>
+<p>Someone else may prioritize:</p>
+<ul>
+<li>stability</li>
+<li>work-life balance</li>
+<li>flexible hours</li>
+<li>learning opportunities</li>
+<li>mentoring</li>
+<li>leadership growth</li>
+</ul>
+<p>Instead of assuming everyone optimizes for salary, spend time understanding what matters to the individual.</p>
+<p>Ask questions throughout the interview process:</p>
+<ul>
+<li>What attracted you to this opportunity?</li>
+<li>What would your ideal next role look like?</li>
+<li>What kinds of projects energize you?</li>
+<li>What do you hope to learn over the next few years?</li>
+<li>What would make leaving your current position worthwhile?</li>
+</ul>
+<p>These conversations help you craft an offer that actually solves the candidate&#39;s problem.</p>
+<hr>
+<h1>Compensation should be competitive—not mysterious</h1>
+<p>Compensation conversations should never feel like a guessing game.</p>
+<p>Whenever possible, communicate salary expectations early.</p>
+<p>Transparent compensation:</p>
+<ul>
+<li>saves everyone time</li>
+<li>reduces negotiation stress</li>
+<li>builds trust</li>
+<li>prevents late-stage surprises</li>
+<li>attracts candidates already aligned with your budget</li>
+</ul>
+<p>A competitive offer doesn&#39;t necessarily mean the highest salary in the market.</p>
+<p>It means paying fairly for:</p>
+<ul>
+<li>experience</li>
+<li>responsibilities</li>
+<li>location</li>
+<li>impact</li>
+<li>current market conditions</li>
+</ul>
+<p>Developers appreciate honesty far more than negotiation games.</p>
+<hr>
+<h1>Think beyond base salary</h1>
+<p>Candidates evaluate total compensation.</p>
+<p>An offer should clearly explain every component.</p>
+<h2>Base salary</h2>
+<p>The guaranteed annual salary.</p>
+<p>Be clear.</p>
+<p>Avoid confusing ranges once you&#39;re extending an offer.</p>
+<hr>
+<h2>Performance bonuses</h2>
+<p>Explain:</p>
+<ul>
+<li>eligibility</li>
+<li>targets</li>
+<li>payout schedule</li>
+<li>historical payout rates if appropriate</li>
+</ul>
+<p>Don&#39;t imply bonuses are guaranteed if they aren&#39;t.</p>
+<hr>
+<h2>Equity</h2>
+<p>If your company offers equity, explain it clearly.</p>
+<p>Candidates often receive stock grants without understanding:</p>
+<ul>
+<li>vesting schedules</li>
+<li>cliffs</li>
+<li>exercise windows</li>
+<li>liquidity</li>
+<li>dilution</li>
+<li>current valuation</li>
+<li>exit possibilities</li>
+</ul>
+<p>Avoid treating equity like &quot;free money.&quot;</p>
+<p>Instead explain what it represents.</p>
+<hr>
+<h2>Benefits</h2>
+<p>Candidates compare:</p>
+<ul>
+<li>medical coverage</li>
+<li>retirement plans</li>
+<li>parental leave</li>
+<li>paid time off</li>
+<li>wellness programs</li>
+<li>mental health support</li>
+<li>life insurance</li>
+<li>disability coverage</li>
+<li>continuing education</li>
+<li>conference budgets</li>
+<li>certification reimbursement</li>
+</ul>
+<p>Sometimes excellent benefits meaningfully improve an otherwise average salary.</p>
+<hr>
+<h2>Equipment</h2>
+<p>Explain what developers receive.</p>
+<p>Examples include:</p>
+<ul>
+<li>laptop choice</li>
+<li>monitors</li>
+<li>ergonomic equipment</li>
+<li>home-office stipend</li>
+<li>software licenses</li>
+<li>development hardware</li>
+</ul>
+<p>Engineers notice whether companies invest in good tooling.</p>
+<hr>
+<h2>Learning budget</h2>
+<p>Many developers prioritize growth.</p>
+<p>Examples:</p>
+<ul>
+<li>conference attendance</li>
+<li>books</li>
+<li>online courses</li>
+<li>certifications</li>
+<li>internal training</li>
+<li>mentorship programs</li>
+</ul>
+<p>Learning opportunities can become major differentiators.</p>
+<hr>
+<h1>Don&#39;t oversell equity</h1>
+<p>Startups frequently overestimate the persuasive power of stock options.</p>
+<p>Avoid statements like:</p>
+<blockquote>
+<p>These shares could be worth millions.</p>
+</blockquote>
+<p>Instead explain:</p>
+<ul>
+<li>strike price</li>
+<li>vesting</li>
+<li>dilution</li>
+<li>risks</li>
+<li>current funding stage</li>
+</ul>
+<p>Transparency creates credibility.</p>
+<hr>
+<h1>Explain career growth</h1>
+<p>Candidates are joining more than a job.</p>
+<p>They&#39;re joining a trajectory.</p>
+<p>Describe:</p>
+<ul>
+<li>promotion expectations</li>
+<li>leveling framework</li>
+<li>mentorship</li>
+<li>leadership opportunities</li>
+<li>architecture ownership</li>
+<li>cross-functional work</li>
+<li>internal mobility</li>
+<li>technical specialization</li>
+</ul>
+<p>People stay where they can grow.</p>
+<hr>
+<h1>Sell the mission—not marketing slogans</h1>
+<p>Developers enjoy solving meaningful problems.</p>
+<p>Instead of saying:</p>
+<blockquote>
+<p>We&#39;re changing the world.</p>
+</blockquote>
+<p>Say:</p>
+<blockquote>
+<p>Our platform processes millions of financial transactions every month, and you&#39;ll own the services responsible for payment reliability.</p>
+</blockquote>
+<p>Concrete problems are more persuasive than vague missions.</p>
+<hr>
+<h1>Show why the work matters</h1>
+<p>Explain:</p>
+<ul>
+<li>customers</li>
+<li>business impact</li>
+<li>engineering challenges</li>
+<li>technical complexity</li>
+<li>long-term roadmap</li>
+</ul>
+<p>Developers want to understand:</p>
+<blockquote>
+<p>Why should I spend the next several years building this?</p>
+</blockquote>
+<p>Answer that question.</p>
+<hr>
+<h1>Help candidates imagine themselves succeeding</h1>
+<p>Describe what success looks like.</p>
+<p>For example:</p>
+<h3>First month</h3>
+<ul>
+<li>onboard successfully</li>
+<li>understand architecture</li>
+<li>ship first improvements</li>
+</ul>
+<h3>First three months</h3>
+<ul>
+<li>own production services</li>
+<li>participate in planning</li>
+<li>improve reliability</li>
+</ul>
+<h3>First year</h3>
+<ul>
+<li>lead significant initiatives</li>
+<li>mentor teammates</li>
+<li>influence technical direction</li>
+</ul>
+<p>Specific expectations reduce uncertainty.</p>
+<hr>
+<h1>Move quickly after making your decision</h1>
+<p>One of the biggest reasons companies lose candidates is unnecessary delay.</p>
+<p>Once you&#39;ve decided:</p>
+<ul>
+<li>prepare approvals</li>
+<li>finalize compensation</li>
+<li>schedule the conversation</li>
+<li>send written documents promptly</li>
+</ul>
+<p>Avoid letting internal bureaucracy create silence.</p>
+<p>Momentum matters.</p>
+<hr>
+<h1>Deliver the offer personally</h1>
+<p>A great offer deserves a conversation.</p>
+<p>Whenever practical:</p>
+<ul>
+<li>call the candidate</li>
+<li>congratulate them</li>
+<li>express genuine enthusiasm</li>
+<li>explain why they stood out</li>
+<li>answer questions</li>
+<li>walk through compensation</li>
+</ul>
+<p>Candidates appreciate hearing:</p>
+<blockquote>
+<p>We&#39;re genuinely excited about having you join us.</p>
+</blockquote>
+<p>That enthusiasm is difficult to communicate through a PDF attachment.</p>
+<hr>
+<h1>Explain why you chose them</h1>
+<p>Developers often wonder:</p>
+<blockquote>
+<p>Why me?</p>
+</blockquote>
+<p>Tell them.</p>
+<p>Examples:</p>
+<ul>
+<li>technical depth</li>
+<li>communication</li>
+<li>ownership</li>
+<li>thoughtful design decisions</li>
+<li>collaboration</li>
+<li>curiosity</li>
+<li>debugging ability</li>
+<li>leadership potential</li>
+</ul>
+<p>Recognition reinforces confidence.</p>
+<hr>
+<h1>Share what excites the team</h1>
+<p>A hiring manager should explain:</p>
+<ul>
+<li>upcoming projects</li>
+<li>technical direction</li>
+<li>product roadmap</li>
+<li>engineering improvements</li>
+<li>future responsibilities</li>
+</ul>
+<p>Help candidates picture themselves contributing.</p>
+<hr>
+<h1>Present the written offer clearly</h1>
+<p>The written offer should include:</p>
+<ul>
+<li>job title</li>
+<li>employment type</li>
+<li>manager</li>
+<li>location</li>
+<li>remote expectations</li>
+<li>salary</li>
+<li>bonus</li>
+<li>equity</li>
+<li>benefits summary</li>
+<li>start date</li>
+<li>contingencies</li>
+<li>acceptance deadline</li>
+</ul>
+<p>Avoid hidden surprises.</p>
+<hr>
+<h1>Expect negotiation</h1>
+<p>Negotiation is normal.</p>
+<p>It isn&#39;t a sign the candidate is difficult.</p>
+<p>Most experienced professionals negotiate because they&#39;re making an important life decision.</p>
+<p>Treat the conversation collaboratively.</p>
+<hr>
+<h1>Listen before responding</h1>
+<p>Instead of immediately defending the offer, ask:</p>
+<ul>
+<li>Which part concerns you?</li>
+<li>Is compensation the primary issue?</li>
+<li>Are you comparing another offer?</li>
+<li>Is flexibility more important?</li>
+<li>Would a different start date help?</li>
+</ul>
+<p>Sometimes the issue isn&#39;t salary.</p>
+<hr>
+<h1>Know what can move</h1>
+<p>Before extending offers, define:</p>
+<p>Can change:</p>
+<ul>
+<li>salary</li>
+<li>bonus</li>
+<li>equity</li>
+<li>title</li>
+<li>start date</li>
+<li>PTO</li>
+<li>equipment</li>
+<li>remote flexibility</li>
+<li>learning budget</li>
+</ul>
+<p>Cannot change:</p>
+<ul>
+<li>salary band limits</li>
+<li>visa policies</li>
+<li>legal requirements</li>
+<li>organizational structure</li>
+</ul>
+<p>Preparation allows faster responses.</p>
+<hr>
+<h1>Don&#39;t negotiate against yourself</h1>
+<p>If the candidate hasn&#39;t asked for changes, don&#39;t begin increasing compensation automatically.</p>
+<p>Present your strongest fair offer.</p>
+<p>Then respond thoughtfully if negotiation occurs.</p>
+<hr>
+<h1>Never punish respectful negotiation</h1>
+<p>A candidate negotiating professionally is behaving responsibly.</p>
+<p>Negative reactions damage trust.</p>
+<p>Instead respond with:</p>
+<blockquote>
+<p>That&#39;s a reasonable question. Let me see what&#39;s possible.</p>
+</blockquote>
+<hr>
+<h1>Avoid exploding offers</h1>
+<p>Exploding offers force candidates to accept immediately.</p>
+<p>These usually create resentment.</p>
+<p>Instead provide a reasonable review period.</p>
+<p>Candidates often need time to:</p>
+<ul>
+<li>discuss with family</li>
+<li>compare offers</li>
+<li>relocate</li>
+<li>understand benefits</li>
+<li>evaluate equity</li>
+</ul>
+<p>Reasonable deadlines demonstrate confidence.</p>
+<hr>
+<h1>Handle competing offers professionally</h1>
+<p>Candidates may receive multiple offers.</p>
+<p>If they share another offer:</p>
+<p>Don&#39;t attack competitors.</p>
+<p>Instead reinforce your own strengths.</p>
+<p>Explain:</p>
+<ul>
+<li>technical challenges</li>
+<li>culture</li>
+<li>ownership</li>
+<li>growth</li>
+<li>compensation</li>
+<li>mission</li>
+</ul>
+<p>Candidates respond better to confidence than criticism.</p>
+<hr>
+<h1>If you can&#39;t match compensation</h1>
+<p>Sometimes another company simply pays more.</p>
+<p>If so, be honest.</p>
+<p>You might emphasize:</p>
+<ul>
+<li>remote flexibility</li>
+<li>engineering ownership</li>
+<li>leadership opportunities</li>
+<li>mission</li>
+<li>stability</li>
+<li>work-life balance</li>
+<li>smaller bureaucracy</li>
+<li>faster career progression</li>
+</ul>
+<p>Never criticize someone for choosing differently.</p>
+<hr>
+<h1>Stay connected after acceptance</h1>
+<p>Acceptance isn&#39;t the finish line.</p>
+<p>Candidates sometimes withdraw before their start date.</p>
+<p>Maintain momentum.</p>
+<p>Examples:</p>
+<ul>
+<li>welcome email</li>
+<li>onboarding schedule</li>
+<li>equipment updates</li>
+<li>introductions</li>
+<li>engineering documentation</li>
+<li>company news</li>
+<li>first-week agenda</li>
+</ul>
+<p>Help them feel like part of the team before day one.</p>
+<hr>
+<h1>Prepare onboarding before they arrive</h1>
+<p>Nothing undermines excitement faster than:</p>
+<ul>
+<li>missing accounts</li>
+<li>unavailable equipment</li>
+<li>unclear responsibilities</li>
+<li>idle first weeks</li>
+</ul>
+<p>A prepared onboarding plan reinforces that they made the right decision.</p>
+<hr>
+<h1>Learn from declined offers</h1>
+<p>Every declined offer is useful feedback.</p>
+<p>Ask respectfully whether the candidate is willing to share why.</p>
+<p>Patterns may reveal:</p>
+<ul>
+<li>compensation issues</li>
+<li>interview delays</li>
+<li>unclear role descriptions</li>
+<li>competing benefits</li>
+<li>remote expectations</li>
+<li>company reputation</li>
+<li>manager concerns</li>
+</ul>
+<p>Use the information to improve future offers.</p>
+<hr>
+<h1>Common mistakes</h1>
+<p>Avoid:</p>
+<ul>
+<li>hiding salary until the last minute</li>
+<li>making candidates chase updates</li>
+<li>delaying approvals</li>
+<li>treating negotiation as confrontation</li>
+<li>vague equity explanations</li>
+<li>generic offer conversations</li>
+<li>inconsistent compensation</li>
+<li>unrealistic promises</li>
+<li>surprise policy changes</li>
+<li>rushing onboarding</li>
+</ul>
+<p>Most failed offers aren&#39;t lost because of one dramatic mistake.</p>
+<p>They&#39;re lost through dozens of small frustrations.</p>
+<hr>
+<h1>Offer checklist</h1>
+<p>Before extending an offer, verify:</p>
+<ul>
+<li>Compensation is approved.</li>
+<li>Salary aligns with market expectations.</li>
+<li>Bonus structure is documented.</li>
+<li>Equity is explained clearly.</li>
+<li>Benefits are summarized.</li>
+<li>Remote expectations are documented.</li>
+<li>Career growth has been discussed.</li>
+<li>Interview feedback is complete.</li>
+<li>The written offer is accurate.</li>
+<li>Approval chain is complete.</li>
+<li>Hiring manager is available for questions.</li>
+<li>Onboarding preparations have started.</li>
+</ul>
+<hr>
+<h1>Closing checklist</h1>
+<p>When presenting the offer:</p>
+<ul>
+<li>Congratulate the candidate.</li>
+<li>Explain why they were selected.</li>
+<li>Express genuine enthusiasm.</li>
+<li>Walk through compensation.</li>
+<li>Explain growth opportunities.</li>
+<li>Answer every question honestly.</li>
+<li>Discuss timelines clearly.</li>
+<li>Encourage thoughtful review.</li>
+<li>Follow up promptly.</li>
+<li>Stay available.</li>
+</ul>
+<hr>
+<h1>The takeaway</h1>
+<p>Exceptional developers rarely accept an offer based solely on the largest salary.</p>
+<p>They choose organizations that inspire confidence.</p>
+<p>That confidence comes from a hiring process that is transparent, respectful, organized, technically credible, and genuinely enthusiastic about bringing them onto the team.</p>
+<p>A strong offer combines:</p>
+<ul>
+<li>competitive compensation;</li>
+<li>meaningful technical work;</li>
+<li>clear growth opportunities;</li>
+<li>transparent communication;</li>
+<li>thoughtful negotiation;</li>
+<li>fast decision-making;</li>
+<li>excellent onboarding.</li>
+</ul>
+<p>When candidates believe your company values both their skills and their future, accepting the offer becomes much easier.</p>
+<p>The most successful hiring teams don&#39;t &quot;convince&quot; great developers to join.</p>
+<p>They create an opportunity that talented people genuinely want to say <strong>yes</strong> to.</p>
+<p><em>Ready to hire developers who are excited to join your team? Create a verified company account on <strong>JobsList.dev</strong>, publish transparent job listings with salary ranges, and connect directly with engineers looking for meaningful work—not recruiter spam or endless hiring loops.</em></p>
 5:["locale","hi","d"]
 6:["slug","crafting-job-offer-developers-accept","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__?{\"locale\":\"hi\",\"slug\":\"crafting-job-offer-developers-accept\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing\",\"description\":\"You found the right developer — now close them. How to structure a competitive offer and present it so your top choice says yes.\",\"datePublished\":\"2026-06-16T00:00:00.000Z\",\"inLanguage\":\"hi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing","date":"2026-06-16T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":3,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"You found the right developer — now close them. How to structure a competitive offer and present it so your top choice says yes."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","15",{"property":"og:description","content":"You found the right developer — now close them. How to structure a competitive offer and present it so your top choice says yes."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-16T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","25",{"name":"twitter:description","content":"You found the right developer — now close them. How to structure a competitive offer and present it so your top choice says yes."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__?{\"locale\":\"hi\",\"slug\":\"crafting-job-offer-developers-accept\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","hi","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing\",\"description\":\"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum.\",\"datePublished\":\"2026-06-16T00:00:00.000Z\",\"inLanguage\":\"hi\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing","date":"2026-06-16T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":10,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","15",{"property":"og:description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-16T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","25",{"name":"twitter:description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null

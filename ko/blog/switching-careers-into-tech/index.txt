@@ -1,60 +1,526 @@
 2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-56e8a7fb9ec67c60.js"],"LocalizedArticleView"]
 4:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"Providers"]
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"Providers"]
 a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-4415dea6e45a644b.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-34954162c1932395.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-fefcdc29c67a90eb.js"],"ConsentManager"]
-3:T12e9,<p>Plenty of great engineers didn&#39;t study computer science. They came from teaching, finance, the military, hospitality, design, or a bootcamp at 32. Switching into tech is absolutely doable — but the internet is full of both doom (&quot;it&#39;s impossible now&quot;) and hype (&quot;learn to code in 3 weeks, six figures guaranteed&quot;). Neither is true. Here&#39;s a grounded roadmap that respects how long it actually takes and what actually moves the needle.</p>
-<h2>Set honest expectations first</h2>
-<p>A realistic timeline for a career switcher going from zero to a first job is roughly <strong>6–18 months</strong> of consistent effort, depending on hours per week and prior analytical background. It&#39;s a real investment. The people who make it are rarely the most naturally gifted — they&#39;re the ones who kept showing up after the motivation faded. Treat this as a marathon with a plan, not a sprint fueled by adrenaline.</p>
-<h2>Pick one lane and go deep</h2>
-<p>The fastest way to stall is trying to learn everything. Pick a single, employable track and commit:</p>
+b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],""]
+c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-beb918f1d38a75b5.js"],"Image"]
+d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-a47cf9bea4f6bf58.js"],"ConsentManager"]
+3:T3c39,<h1>Switching Careers into Tech: A Realistic Roadmap</h1>
+<p>People enter software engineering from almost every profession imaginable.</p>
+<p>Teachers become frontend developers. Accountants become backend engineers. Military veterans become cybersecurity specialists. Retail managers become product engineers. Designers become full-stack developers. Nurses build healthcare software.</p>
+<p>The common misconception is that every developer started with a Computer Science degree.</p>
+<p>They didn&#39;t.</p>
+<p>The other misconception is that anyone can spend a few weekends watching YouTube videos and immediately earn a six-figure salary.</p>
+<p>That isn&#39;t true either.</p>
+<p>The reality sits comfortably in the middle.</p>
+<p>Changing careers into technology is absolutely achievable, but it requires deliberate learning, consistent practice, realistic expectations, and a willingness to keep building long after the initial excitement wears off.</p>
+<p>This guide explains what actually works.</p>
+<hr>
+<h1>The biggest mistake career changers make</h1>
+<p>Most people don&#39;t fail because programming is too difficult.</p>
+<p>They fail because they never choose a direction.</p>
+<p>Instead they spend months learning:</p>
 <ul>
-<li><strong>Front-end web</strong> (JavaScript/TypeScript, React) — lots of jobs, visible results early.</li>
-<li><strong>Back-end</strong> (a language like Python, Go, or Node plus databases and APIs).</li>
-<li><strong>Data</strong> (SQL, Python, analytics) if you&#39;re coming from an analytical field.</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>React</li>
+<li>Vue</li>
+<li>Angular</li>
+<li>Node.js</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>AI</li>
+<li>Blockchain</li>
+<li>Mobile development</li>
+<li>Cloud computing</li>
 </ul>
-<p>You can broaden later. Depth in one area gets you hired; a shallow tour of five does not.</p>
-<h2>Learn by building, not just watching</h2>
-<p>Tutorials create the illusion of progress — you follow along, everything works, and you&#39;ve learned less than you think. The real learning happens when you build something without a guide and hit walls. So:</p>
+<p>...without becoming employable in any of them.</p>
+<p>Breadth feels productive.</p>
+<p>Depth gets interviews.</p>
+<hr>
+<h1>Start with your destination</h1>
+<p>Don&#39;t ask:</p>
+<blockquote>
+<p>&quot;What programming language should I learn?&quot;</p>
+</blockquote>
+<p>Ask:</p>
+<blockquote>
+<p>&quot;What job do I want?&quot;</p>
+</blockquote>
+<p>Your destination determines your roadmap.</p>
+<h2>Frontend Developer</h2>
+<p>If you enjoy:</p>
 <ul>
-<li>Do a structured course for fundamentals, but <strong>cut the tutorial cord early</strong>.</li>
-<li>Rebuild things from scratch. Then build something that isn&#39;t in any tutorial.</li>
-<li>Get comfortable being stuck, reading docs, and debugging. That <em>is</em> the job.</li>
+<li>visual design</li>
+<li>user interfaces</li>
+<li>interaction</li>
+<li>making software feel polished</li>
 </ul>
-<h2>Build a small portfolio of real projects</h2>
-<p>Two or three genuine projects beat a dozen clones. Aim for things that:</p>
+<p>Focus on:</p>
 <ul>
-<li><strong>Solve a real (even tiny) problem</strong> — ideally one from your previous field, where your domain knowledge is an edge.</li>
-<li><strong>Are deployed and usable</strong>, not just a repo.</li>
-<li><strong>Show range</strong>: one that talks to an API, one with a database, one you can explain end-to-end.</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>React</li>
+<li>Accessibility</li>
+<li>Responsive Design</li>
 </ul>
-<p>Your old career is an asset here, not baggage. An ex-nurse who builds a clinical scheduling tool, or an ex-accountant who builds an invoicing app, tells a story a CS grad can&#39;t.</p>
-<h2>Your non-tech background is a feature</h2>
-<p>Career switchers arrive with things junior grads often lack: communication, stakeholder management, domain expertise, and the maturity of having held a real job. Lead with that. &quot;I spent six years in logistics and I know exactly where the software fails&quot; is a compelling pitch to a company building logistics software.</p>
-<h2>Get visible and get connected</h2>
-<p>Most first jobs come through people, not the void of online applications. So:</p>
+<hr>
+<h2>Backend Developer</h2>
+<p>If you enjoy:</p>
 <ul>
-<li>Put your projects on GitHub and write a short post about how you built one.</li>
-<li>Go to local or online meetups; contribute a small fix to an open-source project you use.</li>
-<li>Tell people you&#39;re switching. Warm intros beat cold applications ten to one.</li>
+<li>solving business problems</li>
+<li>databases</li>
+<li>APIs</li>
+<li>architecture</li>
+<li>performance</li>
 </ul>
-<h2>Target the right first roles</h2>
-<p>Be strategic about where you apply:</p>
+<p>Focus on:</p>
 <ul>
-<li><strong>Junior, associate, or apprenticeship roles</strong>, and companies that explicitly hire bootcamp/self-taught developers.</li>
-<li><strong>Smaller companies and startups</strong> often value scrappiness and range over pedigree.</li>
-<li>Roles adjacent to your old field, where your background is a differentiator.</li>
+<li>Python</li>
+<li>Go</li>
+<li>Java</li>
+<li>C#</li>
+<li>Node.js</li>
+<li>SQL</li>
+<li>REST APIs</li>
+<li>Authentication</li>
+<li>Databases</li>
 </ul>
-<p>Don&#39;t get discouraged by &quot;3+ years required&quot; — those are wish lists, not gates. Apply anyway if you can do the work.</p>
-<h2>Expect the messy middle</h2>
-<p>There&#39;s a stretch — after the fundamentals, before the first offer — where you know enough to see how much you don&#39;t know, and progress feels invisible. This is normal and it&#39;s where most people quit. Keep building, keep applying, keep asking for feedback. The switchers who make it are simply the ones still standing at month twelve.</p>
-<p>You don&#39;t need permission, a degree, or a perfect background. You need one focused lane, real projects, a few humans who know you&#39;re looking, and the stubbornness to outlast the messy middle. People do this every single month — and the ones who bring a whole previous career with them often become some of the most valuable engineers on the team.</p>
+<hr>
+<h2>Full Stack Developer</h2>
+<p>Ideal if you enjoy learning across the entire application.</p>
+<p>Learn:</p>
+<ul>
+<li>Frontend fundamentals</li>
+<li>Backend fundamentals</li>
+<li>Databases</li>
+<li>Authentication</li>
+<li>Deployment</li>
+<li>Git</li>
+<li>Cloud basics</li>
+</ul>
+<p>Many startups hire full-stack developers because they can work across multiple areas.</p>
+<hr>
+<h2>DevOps / Platform Engineering</h2>
+<p>Perfect for people who enjoy:</p>
+<ul>
+<li>automation</li>
+<li>infrastructure</li>
+<li>scripting</li>
+<li>systems</li>
+</ul>
+<p>Focus on:</p>
+<ul>
+<li>Linux</li>
+<li>Networking</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>Terraform</li>
+<li>CI/CD</li>
+<li>AWS</li>
+<li>Azure</li>
+<li>Google Cloud</li>
+</ul>
+<hr>
+<h2>Data Engineering</h2>
+<p>Ideal for analytical thinkers.</p>
+<p>Learn:</p>
+<ul>
+<li>SQL</li>
+<li>Python</li>
+<li>Data Modeling</li>
+<li>ETL</li>
+<li>Warehousing</li>
+<li>Spark</li>
+<li>Cloud Data Platforms</li>
+</ul>
+<hr>
+<h2>QA Automation</h2>
+<p>One of the most overlooked entry points into software.</p>
+<p>Learn:</p>
+<ul>
+<li>Testing fundamentals</li>
+<li>Selenium</li>
+<li>Playwright</li>
+<li>Cypress</li>
+<li>API Testing</li>
+<li>CI/CD</li>
+</ul>
+<p>Many excellent developers began their careers writing automated tests.</p>
+<hr>
+<h1>Build a realistic learning schedule</h1>
+<p>One of the biggest advantages career changers have is discipline.</p>
+<p>Treat learning like a part-time job.</p>
+<p>Example:</p>
+<p><strong>5–10 hours per week</strong></p>
+<ul>
+<li>1 hour every weekday</li>
+<li>3–5 hours on weekends</li>
+</ul>
+<p><strong>15–20 hours per week</strong></p>
+<ul>
+<li>2–3 hours most evenings</li>
+<li>Longer weekend sessions</li>
+</ul>
+<p>Consistency beats intensity.</p>
+<p>Three hundred focused hours over six months is dramatically more valuable than fifty scattered hours over a year.</p>
+<hr>
+<h1>Learn the fundamentals first</h1>
+<p>Frameworks come and go.</p>
+<p>Fundamentals stay useful for decades.</p>
+<p>Prioritize understanding:</p>
+<ul>
+<li>Variables</li>
+<li>Functions</li>
+<li>Objects</li>
+<li>Arrays</li>
+<li>Loops</li>
+<li>Conditionals</li>
+<li>Data structures</li>
+<li>Algorithms</li>
+<li>HTTP</li>
+<li>REST APIs</li>
+<li>JSON</li>
+<li>Git</li>
+<li>SQL</li>
+<li>Debugging</li>
+</ul>
+<p>Understanding <em>why</em> code works matters far more than memorizing syntax.</p>
+<hr>
+<h1>Tutorials are the beginning—not the destination</h1>
+<p>Tutorials are useful.</p>
+<p>Tutorial addiction is not.</p>
+<p>The goal is to become comfortable solving problems without someone holding your hand.</p>
+<p>A healthy progression looks like this:</p>
+<ol>
+<li>Complete a beginner course.</li>
+<li>Rebuild the same project from memory.</li>
+<li>Build a similar project without instructions.</li>
+<li>Add features the tutorial never covered.</li>
+<li>Deploy it.</li>
+<li>Maintain it.</li>
+</ol>
+<p>That last step is where real software engineering begins.</p>
+<hr>
+<h1>Build projects employers actually care about</h1>
+<p>Your portfolio should answer one question:</p>
+<blockquote>
+<p>Can this person build software that solves real problems?</p>
+</blockquote>
+<p>Good portfolio projects are:</p>
+<ul>
+<li>Finished</li>
+<li>Deployed</li>
+<li>Well documented</li>
+<li>Easy to understand</li>
+<li>Useful</li>
+<li>Maintained over time</li>
+</ul>
+<p>Examples include:</p>
+<ul>
+<li>Personal budgeting application</li>
+<li>Restaurant reservation platform</li>
+<li>Inventory tracker</li>
+<li>Medical appointment scheduler</li>
+<li>Customer CRM</li>
+<li>Task management system</li>
+<li>Event registration platform</li>
+<li>Portfolio CMS</li>
+<li>Developer blog</li>
+<li>Habit tracker</li>
+</ul>
+<hr>
+<h1>Use your previous career as your advantage</h1>
+<p>Many career changers accidentally hide their strongest qualification.</p>
+<p>Your previous career gives you domain expertise.</p>
+<p>Examples:</p>
+<h3>Teacher</h3>
+<p>Build:</p>
+<ul>
+<li>LMS platforms</li>
+<li>Quiz software</li>
+<li>Attendance systems</li>
+<li>Student dashboards</li>
+</ul>
+<hr>
+<h3>Nurse</h3>
+<p>Build:</p>
+<ul>
+<li>Appointment scheduling</li>
+<li>Medication tracking</li>
+<li>Healthcare dashboards</li>
+<li>Shift planners</li>
+</ul>
+<hr>
+<h3>Accountant</h3>
+<p>Build:</p>
+<ul>
+<li>Expense tracking</li>
+<li>Payroll software</li>
+<li>Financial dashboards</li>
+<li>Budget planners</li>
+</ul>
+<hr>
+<h3>Construction</h3>
+<p>Build:</p>
+<ul>
+<li>Job costing</li>
+<li>Scheduling</li>
+<li>Safety reporting</li>
+<li>Equipment tracking</li>
+</ul>
+<hr>
+<h3>Hospitality</h3>
+<p>Build:</p>
+<ul>
+<li>Reservation software</li>
+<li>Ordering systems</li>
+<li>Customer loyalty apps</li>
+<li>Staff scheduling</li>
+</ul>
+<p>Your experience helps you understand problems developers without that background may never encounter.</p>
+<p>Companies often value that combination.</p>
+<hr>
+<h1>Learn Git early</h1>
+<p>Git is used almost everywhere.</p>
+<p>You should be comfortable with:</p>
+<ul>
+<li>Clone</li>
+<li>Commit</li>
+<li>Branch</li>
+<li>Merge</li>
+<li>Pull Requests</li>
+<li>Resolve merge conflicts</li>
+<li>GitHub</li>
+<li>GitLab</li>
+</ul>
+<p>Hiring managers often review commit history alongside the finished project.</p>
+<hr>
+<h1>Learn to read documentation</h1>
+<p>One of the biggest differences between beginners and experienced developers isn&#39;t intelligence.</p>
+<p>It&#39;s confidence reading documentation.</p>
+<p>Practice using:</p>
+<ul>
+<li>Official framework documentation</li>
+<li>API documentation</li>
+<li>MDN Web Docs</li>
+<li>Language documentation</li>
+</ul>
+<p>Learning to find answers is one of the most valuable engineering skills you&#39;ll develop.</p>
+<hr>
+<h1>Create a professional GitHub profile</h1>
+<p>Recruiters frequently click your GitHub profile.</p>
+<p>Improve it by:</p>
+<ul>
+<li>Pinning your best repositories</li>
+<li>Writing good README files</li>
+<li>Using descriptive repository names</li>
+<li>Keeping projects organized</li>
+<li>Including screenshots</li>
+<li>Explaining architecture decisions</li>
+<li>Showing regular activity</li>
+</ul>
+<p>Quality matters far more than repository count.</p>
+<hr>
+<h1>Build a resume that gets interviews</h1>
+<p>Your first developer resume is different from resumes in most industries.</p>
+<p>Include:</p>
+<h2>Technical Skills</h2>
+<p>Organize by category.</p>
+<p>Example:</p>
+<p><strong>Languages</strong></p>
+<ul>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>Python</li>
+</ul>
+<p><strong>Frameworks</strong></p>
+<ul>
+<li>React</li>
+<li>Next.js</li>
+<li>Express</li>
+</ul>
+<p><strong>Databases</strong></p>
+<ul>
+<li>PostgreSQL</li>
+<li>SQLite</li>
+</ul>
+<p><strong>Tools</strong></p>
+<ul>
+<li>Git</li>
+<li>Docker</li>
+<li>GitHub Actions</li>
+</ul>
+<hr>
+<h2>Projects</h2>
+<p>Projects should occupy the majority of the resume.</p>
+<p>For each project include:</p>
+<ul>
+<li>Technologies used</li>
+<li>Problem solved</li>
+<li>Key features</li>
+<li>Live demo</li>
+<li>GitHub repository</li>
+<li>Measurable outcomes when possible</li>
+</ul>
+<hr>
+<h2>Previous Experience</h2>
+<p>Don&#39;t hide your previous career.</p>
+<p>Translate it into transferable skills.</p>
+<p>Instead of:</p>
+<blockquote>
+<p>Restaurant Manager</p>
+</blockquote>
+<p>Write achievements like:</p>
+<ul>
+<li>Led teams of 25 employees</li>
+<li>Managed $2M annual operations</li>
+<li>Improved customer satisfaction</li>
+<li>Automated scheduling processes</li>
+<li>Reduced operating costs</li>
+</ul>
+<p>Leadership, communication, and ownership all transfer into engineering roles.</p>
+<hr>
+<h1>Build an online presence</h1>
+<p>Recruiters increasingly search beyond resumes.</p>
+<p>Consider maintaining:</p>
+<ul>
+<li>LinkedIn</li>
+<li>GitHub</li>
+<li>Personal website</li>
+<li>Technical blog</li>
+<li>Portfolio site</li>
+</ul>
+<p>You don&#39;t need to become an influencer.</p>
+<p>A few thoughtful posts explaining what you&#39;ve learned or built can demonstrate communication skills and genuine interest in software development.</p>
+<hr>
+<h1>Prepare for technical interviews</h1>
+<p>Don&#39;t wait until interviews begin.</p>
+<p>Practice throughout your learning journey.</p>
+<p>Study:</p>
+<ul>
+<li>Data structures</li>
+<li>Algorithms</li>
+<li>SQL</li>
+<li>APIs</li>
+<li>Debugging</li>
+<li>System design (for more senior roles)</li>
+<li>Behavioral interviews</li>
+</ul>
+<p>Also practice explaining your own projects.</p>
+<p>Interviewers often spend more time discussing your portfolio than asking trivia questions.</p>
+<hr>
+<h1>Network without feeling awkward</h1>
+<p>Networking doesn&#39;t have to mean handing out business cards.</p>
+<p>Instead:</p>
+<ul>
+<li>Attend local meetups.</li>
+<li>Join developer communities.</li>
+<li>Participate in Discord or Slack groups.</li>
+<li>Contribute to open source.</li>
+<li>Answer beginner questions.</li>
+<li>Write technical articles.</li>
+<li>Attend hackathons.</li>
+</ul>
+<p>Relationships formed over months often lead to your first opportunity.</p>
+<hr>
+<h1>Apply strategically</h1>
+<p>Avoid applying to hundreds of jobs with the same resume.</p>
+<p>Instead:</p>
+<ul>
+<li>Tailor your resume.</li>
+<li>Customize your cover letter when appropriate.</li>
+<li>Highlight relevant projects.</li>
+<li>Mention domain expertise.</li>
+<li>Apply early.</li>
+<li>Follow application instructions carefully.</li>
+</ul>
+<p>Ten thoughtful applications often outperform one hundred generic ones.</p>
+<hr>
+<h1>Expect rejection</h1>
+<p>Every developer has been rejected.</p>
+<p>Usually many times.</p>
+<p>Rejections are not proof you&#39;re incapable.</p>
+<p>They&#39;re feedback that something can improve:</p>
+<ul>
+<li>Resume</li>
+<li>Portfolio</li>
+<li>Interview skills</li>
+<li>Communication</li>
+<li>Project quality</li>
+<li>Technical depth</li>
+</ul>
+<p>Treat each interview as practice for the next one.</p>
+<hr>
+<h1>The &quot;messy middle&quot; is real</h1>
+<p>After several months you&#39;ll probably experience something like this:</p>
+<ul>
+<li>You know enough to realize how much you don&#39;t know.</li>
+<li>Projects feel difficult.</li>
+<li>Tutorials stop helping.</li>
+<li>Progress seems slower.</li>
+</ul>
+<p>This stage discourages many people.</p>
+<p>Ironically, it&#39;s often a sign that you&#39;re becoming a real developer.</p>
+<p>Experienced engineers still feel this when learning new technologies.</p>
+<p>Keep building.</p>
+<hr>
+<h1>Your first job is the hardest</h1>
+<p>Once you have one year of professional experience:</p>
+<ul>
+<li>recruiters start contacting you</li>
+<li>interviews become easier</li>
+<li>your portfolio grows naturally</li>
+<li>employers focus more on your experience than your education</li>
+</ul>
+<p>The hardest barrier is getting that first opportunity.</p>
+<p>Everything you build beforehand exists to cross it.</p>
+<hr>
+<h1>Common mistakes to avoid</h1>
+<ul>
+<li>Waiting until you &quot;know enough&quot; before applying.</li>
+<li>Learning five languages instead of mastering one.</li>
+<li>Building only tutorial projects.</li>
+<li>Ignoring Git and version control.</li>
+<li>Never deploying projects.</li>
+<li>Applying with a generic resume.</li>
+<li>Hiding previous work experience.</li>
+<li>Comparing your beginning to someone else&#39;s ten-year career.</li>
+<li>Quitting during the messy middle.</li>
+</ul>
+<hr>
+<h1>Career Switch Checklist</h1>
+<p>Before applying for your first developer role, aim to have:</p>
+<ul>
+<li>✅ A focused technology stack.</li>
+<li>✅ Two to five polished projects.</li>
+<li>✅ A professional GitHub profile.</li>
+<li>✅ A developer-focused resume.</li>
+<li>✅ A complete LinkedIn profile.</li>
+<li>✅ A personal portfolio website.</li>
+<li>✅ Experience using Git.</li>
+<li>✅ Comfort reading documentation.</li>
+<li>✅ Basic interview preparation.</li>
+<li>✅ Several people who know you&#39;re looking for work.</li>
+</ul>
+<p>You don&#39;t need perfection.</p>
+<p>You need enough evidence that a hiring manager can confidently imagine you contributing on their team.</p>
+<hr>
+<h1>The Takeaway</h1>
+<p>Switching into technology isn&#39;t about finding a shortcut—it&#39;s about building momentum.</p>
+<p>Choose one direction, master the fundamentals, build projects that solve real problems, and let your previous career become part of your story rather than something you hide. Create a strong resume, maintain a professional online presence, and keep applying while you continue improving your skills.</p>
+<p>Thousands of developers begin successful careers every year without a traditional computer science degree. The path isn&#39;t always fast, but it is absolutely achievable with consistent effort, curiosity, and persistence.</p>
+<p>Your previous career got you here. Your next project can take you wherever you want to go.</p>
+<hr>
+<p><em>Ready to start your software engineering career? <strong>Create a free JobsList.dev profile</strong>, showcase your projects, upload your resume, and connect directly with companies hiring developers around the world.</em></p>
 5:["locale","ko","d"]
 6:["slug","switching-careers-into-tech","d"]
-0:["ptGvKY4Pcn4BGMJnZaYGn",[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__?{\"locale\":\"ko\",\"slug\":\"switching-careers-into-tech\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Switching Careers into Tech: A Realistic Roadmap\",\"description\":\"For job seekers: an honest, step-by-step path into a developer career from a non-traditional background — what to learn, what to build, and how to land the first role.\",\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ko\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Switching Careers into Tech: A Realistic Roadmap","date":"2026-07-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":4,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/dfd982686e486e98.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Switching Careers into Tech: A Realistic Roadmap | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"For job seekers: an honest, step-by-step path into a developer career from a non-traditional background — what to learn, what to build, and how to land the first role."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","15",{"property":"og:description","content":"For job seekers: an honest, step-by-step path into a developer career from a non-traditional background — what to learn, what to build, and how to land the first role."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","25",{"name":"twitter:description","content":"For job seekers: an honest, step-by-step path into a developer career from a non-traditional background — what to learn, what to build, and how to land the first role."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+0:["qm2DMJTGWk7nA9XaPvxJn",[[["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__?{\"locale\":\"ko\",\"slug\":\"switching-careers-into-tech\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ko","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Switching Careers into Tech: A Realistic Roadmap\",\"description\":\"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree.\",\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ko\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Switching Careers into Tech: A Realistic Roadmap","date":"2026-07-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/90be1bc580fc4bb8.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Switching Careers into Tech: A Realistic Roadmap | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","15",{"property":"og:description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","25",{"name":"twitter:description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
 1:null
