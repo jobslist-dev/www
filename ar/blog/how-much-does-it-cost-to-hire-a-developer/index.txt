@@ -1,1776 +1,1626 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Te91a,<hr>
-<p>The cost of hiring a developer is much larger than the price of publishing a job listing.</p>
-<p>The job-posting fee is visible, easy to compare, and simple to place in a budget. But it is usually one of the smallest components of the total investment.</p>
-<p>The real cost may also include:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","how-much-does-it-cost-to-hire-a-developer","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-much-does-it-cost-to-hire-a-developer","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-much-does-it-cost-to-hire-a-developer\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-much-does-it-cost-to-hire-a-developer","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T160ec,<p>تكلفة توظيف مطور برمجيات أكبر بكثير من تكلفة نشر إعلان وظيفة.
+رسوم نشر إعلان الوظيفة واضحة, ويسهل مقارنتها, كما يسهل إدراجها في الميزانية. لكنها عادةً ما تكون أحد أصغر مكونات الاستثمار الإجمالي.
+قد تشمل التكلفة الحقيقية أيضًا ما يلي:</p>
 <ul>
-<li>recruiter and sourcing expenses;</li>
-<li>applicant-tracking and assessment tools;</li>
-<li>engineering and management time;</li>
-<li>the business impact of an unfilled role;</li>
-<li>compensation and benefits;</li>
-<li>equipment and software;</li>
-<li>onboarding;</li>
-<li>reduced productivity during ramp-up;</li>
-<li>management and mentoring time;</li>
-<li>employee turnover;</li>
-<li>the cost of replacing an unsuccessful hire.</li>
+<li>نفقات التوظيف والبحث عن المرشحين؛</li>
+<li>أدوات تتبع المتقدمين وتقييمهم؛</li>
+<li>وقت المهندسين والإدارة؛</li>
+<li>التأثير التجاري لعدم شغل المنصب؛</li>
+<li>الأجور والمزايا؛</li>
+<li>المعدات والبرامج؛</li>
+<li>عملية الإعداد للعمل؛</li>
+<li>انخفاض الإنتاجية خلال فترة التدرج في العمل؛</li>
+<li>الوقت الذي تقضيه الإدارة في التوجيه والإرشاد؛</li>
+<li>معدل دوران الموظفين؛</li>
+<li>تكلفة استبدال موظف لم ينجح في أداء مهامه.
+قد تقوم الشركة التي تقيّم رسوم الإعلان فقط بتحسين الجزء الأقل أهمية في العملية, بينما تتجاهل آلاف الدولارات من تكاليف العمالة الداخلية, وتأخير المشاريع, ومخاطر التوظيف.
+والنهج الأفضل هو حساب التكلفة الكاملة للتوظيف, وفهم أين تحدث أكبر النفقات, والاستثمار في التحسينات التي تحقق أكبر عائد.</li>
 </ul>
-<p>A company that evaluates only the listing fee may optimize the least important part of the process while overlooking thousands of dollars in internal labor, delayed projects, and hiring risk.</p>
-<p>A better approach is to calculate the full cost of hiring, understand where the largest expenses occur, and invest in the improvements that create the most leverage.</p>
-<h2>There is no single universal hiring cost</h2>
-<p>The total cost varies significantly based on:</p>
+<h2>لا توجد تكلفة توظيف واحدة شاملة</h2>
+<p>تختلف التكلفة الإجمالية بشكل كبير بناءً على:</p>
 <ul>
-<li>role seniority;</li>
-<li>compensation;</li>
-<li>geographic market;</li>
-<li>hiring urgency;</li>
-<li>employment type;</li>
-<li>sourcing channel;</li>
-<li>use of external recruiters;</li>
-<li>number of interview stages;</li>
-<li>assessment format;</li>
-<li>interviewer compensation;</li>
-<li>time-to-hire;</li>
-<li>onboarding requirements;</li>
-<li>expected ramp-up time;</li>
-<li>turnover risk;</li>
-<li>whether the role is new or a replacement.</li>
+<li>مستوى الوظيفة؛</li>
+<li>الأجر؛</li>
+<li>السوق الجغرافي؛</li>
+<li>مدى إلحاحية التوظيف؛</li>
+<li>نوع التوظيف؛</li>
+<li>قناة البحث عن المرشحين؛</li>
+<li>الاستعانة بوكالات توظيف خارجية؛</li>
+<li>عدد مراحل المقابلة؛</li>
+<li>شكل التقييم؛</li>
+<li>أجر القائم بالمقابلة؛</li>
+<li>المدة اللازمة للتوظيف؛</li>
+<li>متطلبات التأهيل؛</li>
+<li>الوقت المتوقع لبدء الأداء الفعلي؛</li>
+<li>مخاطر معدل دوران الموظفين؛</li>
+<li>ما إذا كان المنصب جديدًا أم بديلاً.
+قد يكلف توظيف مطور ويب في بداية مسيرته المهنية عبر منصة توظيف مباشرة أقل بكثير من توظيف مهندس بنية تحتية رئيسي عبر وكالة توظيف.
+قد يحتاج المتعاقد إلى تدريب أقل عند التحاقه بالعمل, لكنه يتقاضى أجرًا أعلى للساعة.
+قد يوفر التوظيف عن بُعد نفقات الانتقال, لكنه يتطلب معدات إضافية أو الامتثال للوائح أو دعمًا للتوظيف الدولي.
+لذلك, فإن السؤال المفيد ليس:</li>
 </ul>
-<p>Hiring an early-career web developer through a direct job marketplace may cost far less than hiring a principal infrastructure engineer through an agency.</p>
-<p>A contractor may require less onboarding but command a higher hourly rate.</p>
-<p>A remote hire may avoid relocation expenses while requiring additional equipment, compliance, or international employment support.</p>
-<p>The useful question is therefore not:</p>
 <blockquote>
-<p>How much does it cost to hire a developer?</p>
+<p>كم تكلفة توظيف مطور؟
+بل هو:
+ما هي التكلفة التي تتحملها شركتنا لملء هذا المنصب المحدد بنجاح ووصول الموظف إلى مستوى أداء منتج ومستدام؟</p>
 </blockquote>
-<p>It is:</p>
+<h2>صيغة عملية لحساب التكلفة الكاملة</h2>
+<p>من نماذج تكلفة التوظيف المفيدة ما يلي:</p>
 <blockquote>
-<p>What does it cost our company to fill this specific role successfully and bring the person to productive, sustainable performance?</p>
+<p>إجمالي تكلفة التوظيف = تكاليف التوظيف المباشرة + وقت الفريق الداخلي + تكلفة الشاغر + إعداد نظام المكافآت + الإعداد للعمل وزيادة الإنتاجية + تكلفة الاستبدال المعدلة حسب المخاطر -تكلفة الاستبدال المعدلة
+يمكنك توسيعها لتصبح:
+إجمالي تكلفة التوظيف = الإعلان عن الوظيفة + البحث عن المرشحين + أتعاب شركات التوظيف + أدوات التوظيف + جهد إجراء المقابلات + تأثير الشاغر + المعدات + إدارة المزايا + جهد الإعداد والتأهيل + فجوة الإنتاجية أثناء فترة التأهيل + معدل الدوران المتوقع أو مخاطر التوظيف الخاطئ
+لا يلزم أن تكون هذه الصيغة دقيقة تمامًا لتكون مفيدة.
+فحتى التقديرات المعقولة يمكن أن تكشف عن أجزاء العملية التي تستحق الاهتمام.</p>
 </blockquote>
-<h2>A practical full-cost formula</h2>
-<p>A useful hiring-cost model is:</p>
+<h2>تكاليف التوظيف المباشرة</h2>
+<p>التكاليف المباشرة هي الأسهل في الرصد لأنها تظهر عادةً في الفاتورة.
+وقد تشمل:</p>
+<ul>
+<li>رسوم نشر إعلانات الوظائف؛</li>
+<li>اشتراكات شركات التوظيف؛</li>
+<li>رسوم الوكالات؛</li>
+<li>أدوات البحث عن المرشحين؛</li>
+<li>برامج تتبع المتقدمين؛</li>
+<li>منصات التقييم؛</li>
+<li>التحقق من الخلفية؛</li>
+<li>التحقق من التوظيف؛</li>
+<li>نفقات سفر المرشحين؛</li>
+<li>تكاليف الانتقال؛</li>
+<li>دعم إجراءات الهجرة؛</li>
+<li>مكافآت التوقيع؛</li>
+<li>مكافآت الإحالة.
+هذه التكاليف مهمة, لكن مقارنتها دون النظر إلى جودة المرشحين قد تكون مضللة.
+فقد تتسبب قناة منخفضة التكلفة تنتج مئات الطلبات غير الملائمة في نفقات داخلية أكبر مقارنة بقناة عالية الجودة تنتج عددًا أقل من المرشحين المناسبين.</li>
+</ul>
+<h2>رسوم نشر الوظائف</h2>
+<p>قد تفرض منصات الوظائف رسومًا من خلال:</p>
+<ul>
+<li>الإعلانات الفردية؛</li>
+<li>حزم الإعلانات؛</li>
+<li>الاشتراكات الشهرية؛</li>
+<li>العقود السنوية؛</li>
+<li>الإعلانات المميزة؛</li>
+<li>الإعلانات بنظام الدفع لكل نقرة؛</li>
+<li>التسعير بنظام الدفع لكل طلب توظيف؛</li>
+<li>عرض الوظائف بنظام المزاد؛</li>
+<li>رسوم النجاح.
+يعتمد النموذج المناسب على مدى تكرار قيام الشركة بالتوظيف.</li>
+</ul>
+<h3>التوظيف العرضي</h3>
+<p>قد تستفيد الشركة التي تملأ عددًا قليلاً من الوظائف سنويًّا من:</p>
+<ul>
+<li>الإعلانات الفردية؛</li>
+<li>حزم الإعلانات غير المحدودة المدة؛</li>
+<li>التكاليف التي تُدفع مرة واحدة ويمكن التنبؤ بها.</li>
+</ul>
+<h3>التوظيف المستمر</h3>
+<p>قد تستفيد الشركة التي لديها العديد من الوظائف الشاغرة من:</p>
+<ul>
+<li>أسعار الاشتراك؛</li>
+<li>اتفاقيات الحجم؛</li>
+<li>أدوات التوظيف المركزية.</li>
+</ul>
+<h3>التوظيف الموسمي أو القائم على المشاريع</h3>
+<p>قد تستفيد الشركة التي تقوم بالتوظيف على فترات متقطعة من أرصدة مرنة لا تنتهي صلاحيتها خلال الفترات الهادئة.
+السعر المعلن الأدنى ليس دائمًا التكلفة الفعلية الأدنى.
+قم بتقييم:</p>
+<ul>
+<li>عدد المتقدمين المؤهلين لكل إعلان؛</li>
+<li>عدد المقابلات لكل إعلان؛</li>
+<li>عدد الموظفين المعينين لكل إعلان؛</li>
+<li>وقت الفرز؛</li>
+<li>المدة المستغرقة للتعيين؛</li>
+<li>قبول العرض؛</li>
+<li>الاحتفاظ بالموظفين.</li>
+</ul>
+<h2>رسوم شركات التوظيف الخارجية والوكالات</h2>
+<p>قد تتقاضى شركات التوظيف والوكالات:</p>
+<ul>
+<li>نسبة مئوية من أجر السنة الأولى؛</li>
+<li>رسوم توظيف ثابتة؛</li>
+<li>رسوم بحث محجوزة؛</li>
+<li>رسوم البحث بالساعة أو على أساس المشروع؛</li>
+<li>هوامش ربح المتعاقدين.
+يمكن أن تكون هذه الخدمات ذات قيمة في الحالات التالية:</li>
+<li>كانت الوظيفة متخصصة للغاية؛</li>
+<li>كانت الشركة تفتقر إلى القدرة الداخلية على التوظيف؛</li>
+<li>كانت السرية أمرًا مهمًا؛</li>
+<li>كانت الوظيفة عاجلة؛</li>
+<li>كان من الصعب الوصول إلى مجموعة المرشحين؛</li>
+<li>كانت هناك حاجة إلى خبرة في البحث عن كبار المديرين التنفيذيين.
+ومع ذلك, يمكن أن تصبح هذه الرسوم واحدة من أكبر النفقات المباشرة.
+قبل الاستعانة بوكالة, يجب توضيح ما يلي:</li>
+<li>ما إذا كانت العلاقة حصرية؛</li>
+<li>متى تصبح الرسوم مستحقة الدفع؛</li>
+<li>ماذا يحدث إذا غادر المرشح قبل الأوان؛</li>
+<li>ما إذا كانت هناك ضمانة استبدال؛</li>
+<li>من يمتلك العلاقة مع المرشح؛</li>
+<li>ما إذا كان يجوز للوكالة تقديم مرشحين دون موافقة؛</li>
+<li>ما إذا كانت حسابات التعويضات تشمل المكافآت أو الأسهم؛</li>
+<li>ما إذا كانت هوامش ربح المقاول شفافة.
+قد تظل الرسوم المرتفعة مجدية عندما تؤدي إلى توظيف شخص استثنائي بسرعة. أما الرسوم المنخفضة فتعد إهدارًا للمال عندما يكون المرشحون غير مناسبين.</li>
+</ul>
+<h2>جهود التوظيف الداخلية</h2>
+<p>يُعتبر مسؤولو التوظيف الداخليون, وقادة إدارة المواهب, والمنسقون, وموظفو عمليات التوظيف جزءًا من تكلفة التوظيف حتى لو كانت مكافآتهم مدرجة بالفعل في كشوف الرواتب.
+قم بتقدير الوقت المستغرق في:</p>
+<ul>
+<li>صياغة الوصف الوظيفي؛</li>
+<li>البحث عن المرشحين؛</li>
+<li>مراجعة طلبات المتقدمين؛</li>
+<li>التواصل مع المرشحين؛</li>
+<li>تحديد المواعيد؛</li>
+<li>التحضير للمقابلات؛</li>
+<li>تنسيق العروض؛</li>
+<li>إعداد التقارير؛</li>
+<li>الامتثال؛</li>
+<li>تسليم مهام الإعداد للانضمام إلى الشركة.
+بالنسبة لوظيفة واحدة, قد تبدو التكلفة ضئيلة. ولكن عند توظيف عشرات الوظائف, تصبح عمليات التوظيف استثمارًا كبيرًا.</li>
+</ul>
+<h2>تكلفة فرز الطلبات</h2>
+<p>قد يؤدي الإعلان عن وظيفة عامة إلى تلقي مئات أو آلاف الطلبات.
+كل طلب توظيف يتطلب قدرًا من العمل.
+حتى عندما يقوم نظام تتبع المتقدمين بالتصفية الأولية, قد يظل من الضروري القيام بما يلي:</p>
+<ul>
+<li>مراجعة السير الذاتية؛</li>
+<li>فحص ملفات الأعمال؛</li>
+<li>التحقق من المؤهلات؛</li>
+<li>تحديد الطلبات المكررة؛</li>
+<li>مراجعة تصاريح العمل؛</li>
+<li>الرد على أسئلة المرشحين؛</li>
+<li>إدارة تغييرات الحالة.
+صيغة بسيطة لحساب تكلفة الفرز هي:</li>
+</ul>
 <blockquote>
-<p>Total hiring cost = direct recruiting costs + internal team time + vacancy cost + compensation setup + onboarding and ramp-up + risk-adjusted replacement cost</p>
+<p>تكلفة الفرز = عدد الطلبات × متوسط وقت المراجعة × تكلفة ساعة عمل المراجع
+لنفترض أن شركة ما تتلقى 600 طلب.
+إذا كان متوسط وقت المراجعة الأولية أربع دقائق:
+600 × 4 دقائق = 2,400 دقيقة, أو 40 ساعة
+إذا كانت التكلفة الفعلية لعمل المراجع 60 دولارًا في الساعة:
+40 ساعة × 60 دولارًا = 2,400 دولار
+وهذا قبل إجراء أي مقابلات.
+إذا كان جزء صغير فقط من المتقدمين مناسبًا, فإن الشركة تدفع مقابل معالجة «الضوضاء».
+يمكن لقناة التوظيف المركزة أن تقلل التكلفة الإجمالية للتوظيف حتى لو كانت رسوم الإعلان فيها أعلى.</p>
 </blockquote>
-<p>You can expand it into:</p>
+<h2>حساب التكلفة الفعلية للساعة للمقابلين</h2>
+<p>وقت المقابلة له تكلفة حقيقية.
+المطور الذي يتقاضى راتبًا لا يكلف الشركة أجره الأساسي بالساعة فحسب. قد يشمل المعدل الفعلي أيضًا:</p>
+<ul>
+<li>ضرائب الرواتب؛</li>
+<li>المزايا؛</li>
+<li>المكافآت؛</li>
+<li>المعدات؛</li>
+<li>دعم العمل المكتبي أو عن بُعد؛</li>
+<li>النفقات الإدارية العامة؛</li>
+<li>العمل الإنتاجي الضائع.
+النموذج التقريبي هو:</li>
+</ul>
 <blockquote>
-<p>Total hiring cost = job advertising + sourcing + recruiter fees + hiring tools + interview labor + vacancy impact + equipment + benefits administration + onboarding labor + ramp-up productivity gap + expected turnover or mis-hire risk</p>
+<p>التكلفة الفعلية للساعة = تكلفة التوظيف السنوية ÷ ساعات العمل الإنتاجية
+على سبيل المثال, إذا قُدرت التكلفة الإجمالية السنوية لتوظيف مهندس بمبلغ 180,000 دولار, وافترضت الشركة أن ساعات العمل المنتجة تبلغ 1,800 ساعة:
+180,000 دولار ÷ 1,800 = 100 دولار في الساعة
+وبالتالي, قد تبلغ تكلفة مقابلة مدتها ساعة واحدة مع أربعة موظفين ما يقارب:
+4 محاورين × 100 دولار = 400 دولار
+وهذا لا يشمل التحضير للمقابلة, وتدوين الملاحظات, وتحديد المواعيد, وتقييم النتائج, وتكلفة انقطاع التركيز.</p>
 </blockquote>
-<p>This formula does not need to be perfectly precise to be useful.</p>
-<p>Even reasonable estimates can reveal which parts of the process deserve attention.</p>
-<h2>Direct recruiting costs</h2>
-<p>Direct costs are the easiest to see because they usually appear on an invoice.</p>
-<p>They may include:</p>
+<h2>تضمين التحضير للمقابلة والمتابعة</h2>
+<p>غالبًا ما تستغرق المقابلة التي مدتها ساعة واحدة أكثر من ساعة واحدة.
+قد يشمل الوقت الإجمالي ما يلي:</p>
 <ul>
-<li>job-listing fees;</li>
-<li>recruiter subscriptions;</li>
-<li>agency fees;</li>
-<li>sourcing tools;</li>
-<li>applicant-tracking software;</li>
-<li>assessment platforms;</li>
-<li>background checks;</li>
-<li>employment verification;</li>
-<li>candidate travel;</li>
-<li>relocation;</li>
-<li>immigration support;</li>
-<li>signing bonuses;</li>
-<li>referral bonuses.</li>
+<li>مراجعة السيرة الذاتية؛</li>
+<li>قراءة ملف المقابلة؛</li>
+<li>إعداد الأسئلة؛</li>
+<li>الوصول مبكرًا؛</li>
+<li>إجراء المقابلة؛</li>
+<li>ملء بطاقات التقييم؛</li>
+<li>حضور جلسة تقييم النتائج؛</li>
+<li>مناقشة أسئلة المتابعة.
+قد تتطلب مقابلة مدتها 60 دقيقة 90 دقيقة من وقت الموظف.
+احسب النشاط بأكمله, وليس فقط الفترة الزمنية المحددة في التقويم.</li>
 </ul>
-<p>These costs matter, but comparing them without examining candidate quality can be misleading.</p>
-<p>A low-cost channel that produces hundreds of irrelevant applications may create more internal expense than a higher-quality channel that produces a smaller number of suitable candidates.</p>
-<h2>Job-listing fees</h2>
-<p>Job boards may charge through:</p>
+<h2>مثال على حساب الجهد المبذول في المقابلة</h2>
+<p>لنفترض عملية تتضمن:</p>
 <ul>
-<li>individual listings;</li>
-<li>listing packs;</li>
-<li>monthly subscriptions;</li>
-<li>annual contracts;</li>
-<li>promoted placements;</li>
-<li>pay-per-click advertising;</li>
-<li>pay-per-application pricing;</li>
-<li>auction-style visibility;</li>
-<li>success fees.</li>
+<li>تقييم أولي من قبل مسؤول التوظيف؛</li>
+<li>مراجعة التقييم الفني؛</li>
+<li>ثلاث مقابلات فنية؛</li>
+<li>مقابلة مع مدير التوظيف؛</li>
+<li>جلسة تقييم.
+الجهد الداخلي المقدر:
+| النشاط                    | الأشخاص | الوقت لكل شخص |     إجمالي الساعات |
+| ---------- ----------------- | -----: | --------------: | --------------: |
+| الفرز الأولي من قبل مسؤول التوظيف والملاحظات  |      1 |      0.75 ساعة |            0.75 |
+| مراجعة التقييم الفني |      2 |          1 ساعة |               2 |
+| المقابلات الفنية        |      3 |       1.5 ساعة |             4.5 |
+| مقابلة مدير التوظيف    |      1 |       1.5 ساعة |             1.5 |
+| تقييم النتائج                     |      5 |       0.5 ساعة |             2.5 |
+| الجدولة والتنسيق |      1 |          1 ساعة |               1 |
+| <strong>الإجمالي</strong>                   |        |                 | <strong>12.25 ساعة</strong> |
+إذا كانت التكلفة الفعليّة المركبة للساعة الواحدة 95 دولارًا:</li>
 </ul>
-<p>The right model depends on how frequently the company hires.</p>
-<h3>Occasional hiring</h3>
-<p>A company filling a few roles per year may benefit from:</p>
-<ul>
-<li>individual listings;</li>
-<li>non-expiring listing packs;</li>
-<li>predictable one-time costs.</li>
-</ul>
-<h3>Continuous hiring</h3>
-<p>A company with many open positions may benefit from:</p>
-<ul>
-<li>subscription pricing;</li>
-<li>volume agreements;</li>
-<li>centralized recruiting tools.</li>
-</ul>
-<h3>Seasonal or project-based hiring</h3>
-<p>A company hiring in bursts may benefit from flexible credits that do not expire during quiet periods.</p>
-<p>The lowest advertised price is not always the lowest effective cost.</p>
-<p>Evaluate:</p>
-<ul>
-<li>qualified applicants per listing;</li>
-<li>interviews per listing;</li>
-<li>hires per listing;</li>
-<li>screening time;</li>
-<li>time-to-hire;</li>
-<li>offer acceptance;</li>
-<li>retention.</li>
-</ul>
-<h2>External recruiter and agency fees</h2>
-<p>Recruiters and agencies may charge:</p>
-<ul>
-<li>a percentage of first-year compensation;</li>
-<li>a fixed placement fee;</li>
-<li>a retained search fee;</li>
-<li>hourly or project-based sourcing fees;</li>
-<li>contractor markups.</li>
-</ul>
-<p>These services can be valuable when:</p>
-<ul>
-<li>the role is highly specialized;</li>
-<li>the company lacks internal recruiting capacity;</li>
-<li>confidentiality is important;</li>
-<li>the role is urgent;</li>
-<li>the candidate pool is difficult to reach;</li>
-<li>executive search expertise is required.</li>
-</ul>
-<p>However, the fee can become one of the largest direct expenses.</p>
-<p>Before using an agency, clarify:</p>
-<ul>
-<li>whether the relationship is exclusive;</li>
-<li>when the fee becomes payable;</li>
-<li>what happens if the candidate leaves early;</li>
-<li>whether a replacement guarantee exists;</li>
-<li>who owns the candidate relationship;</li>
-<li>whether the agency may submit candidates without approval;</li>
-<li>whether compensation calculations include bonuses or equity;</li>
-<li>whether contractor markups are transparent.</li>
-</ul>
-<p>A high fee may still be worthwhile when it produces an exceptional hire quickly. A lower fee is wasteful when the candidates are poorly matched.</p>
-<h2>Internal recruiting labor</h2>
-<p>Internal recruiters, talent leaders, coordinators, and hiring operations staff are part of the hiring cost even when their compensation is already included in payroll.</p>
-<p>Estimate the time spent on:</p>
-<ul>
-<li>writing the role;</li>
-<li>sourcing;</li>
-<li>applicant review;</li>
-<li>candidate communication;</li>
-<li>scheduling;</li>
-<li>interview preparation;</li>
-<li>offer coordination;</li>
-<li>reporting;</li>
-<li>compliance;</li>
-<li>onboarding handoff.</li>
-</ul>
-<p>For one position, the cost may seem small. Across dozens of roles, recruiting operations become a major investment.</p>
-<h2>The cost of screening applications</h2>
-<p>A broad job listing may produce hundreds or thousands of applications.</p>
-<p>Every application creates some amount of work.</p>
-<p>Even when an applicant-tracking system performs initial filtering, people may still need to:</p>
-<ul>
-<li>review résumés;</li>
-<li>inspect portfolios;</li>
-<li>verify qualifications;</li>
-<li>identify duplicates;</li>
-<li>review work authorization;</li>
-<li>respond to candidate questions;</li>
-<li>manage status changes.</li>
-</ul>
-<p>A simple screening-cost formula is:</p>
 <blockquote>
-<p>Screening cost = number of applications × average review time × reviewer hourly cost</p>
+<p>12.25 ساعة × 95 دولارًا = 1,163.75 دولارًا لكل مرشح نهائي
+إذا أكمل أربعة مرشحين نهائيين العملية بأكملها:
+4 × 1,163.75 دولار = 4,655 دولار
+ولا يشمل ذلك الوقت المستغرق في فرز المرشحين في المراحل السابقة.</p>
 </blockquote>
-<p>Suppose a company receives 600 applications.</p>
-<p>If the average initial review takes four minutes:</p>
-<blockquote>
-<p>600 × 4 minutes = 2,400 minutes, or 40 hours</p>
-</blockquote>
-<p>If the effective labor cost of the reviewer is $60 per hour:</p>
-<blockquote>
-<p>40 hours × $60 = $2,400</p>
-</blockquote>
-<p>That is before any interviews occur.</p>
-<p>If only a small portion of the applicants are relevant, the company is paying to process noise.</p>
-<p>A focused sourcing channel can reduce total hiring cost even when its listing fee is higher.</p>
-<h2>Calculate the effective hourly cost of interviewers</h2>
-<p>Interview time has a real cost.</p>
-<p>A developer earning a salary does not cost the company only their base hourly wage. The effective rate may also include:</p>
+<h2>يؤدي التبديل بين المهام إلى تكاليف إضافية</h2>
+<p>لا تعكس جهود إجراء المقابلات التأثير الكامل على الإنتاجية.
+غالبًا ما يتطلب العمل الهندسي تركيزًا مستمرًا. وقد تؤدي المقابلة التي تُجرى في منتصف فترة تطوير إلى تعطيل قدر أكبر من العمل مما توحي به الساعة المجدولة.
+قد يحتاج المهندس إلى وقت من أجل:</p>
 <ul>
-<li>payroll taxes;</li>
-<li>benefits;</li>
-<li>bonuses;</li>
-<li>equipment;</li>
-<li>office or remote-work support;</li>
-<li>management overhead;</li>
-<li>lost productive work.</li>
+<li>إيقاف العمل الحالي؛</li>
+<li>الاستعداد؛</li>
+<li>إجراء المقابلة؛</li>
+<li>كتابة الملاحظات؛</li>
+<li>استعادة السياق؛</li>
+<li>استئناف المهمة الأصلية.
+لا تحتاج الشركات إلى تحديد قيمة مالية دقيقة لكل مقاطعة. لكن عليها أن تدرك أن جداول المقابلات المتقطعة يمكن أن تقلل من القدرة الإنتاجية.
+يمكن أن يؤدي تجميع المقابلات في فترات مخصصة إلى تقليل هذا التأثير.</li>
 </ul>
-<p>A rough model is:</p>
-<blockquote>
-<p>Effective hourly cost = annual employment cost ÷ productive working hours</p>
-</blockquote>
-<p>For example, if an engineer’s total annual employment cost is estimated at $180,000 and the company assumes 1,800 productive working hours:</p>
-<blockquote>
-<p>$180,000 ÷ 1,800 = $100 per hour</p>
-</blockquote>
-<p>A one-hour interview with four employees may therefore cost approximately:</p>
-<blockquote>
-<p>4 interviewers × $100 = $400</p>
-</blockquote>
-<p>That excludes preparation, note-taking, scheduling, debriefing, and the cost of interrupted focus.</p>
-<h2>Include interview preparation and follow-up</h2>
-<p>A one-hour interview often consumes more than one hour.</p>
-<p>The full time may include:</p>
+<h2>تكلفة الوظيفة الشاغرة</h2>
+<p>طوال الفترة التي تظل فيها الوظيفة شاغرة:</p>
 <ul>
-<li>reviewing the résumé;</li>
-<li>reading the interview packet;</li>
-<li>preparing questions;</li>
-<li>joining early;</li>
-<li>conducting the interview;</li>
-<li>completing scorecards;</li>
-<li>attending the debrief;</li>
-<li>discussing follow-up questions.</li>
+<li>قد تتأخر الميزات؛</li>
+<li>قد يظل العمل المتعلق بالموثوقية غير منجز؛</li>
+<li>قد تنتظر طلبات العملاء؛</li>
+<li>قد تتزايد الديون التقنية؛</li>
+<li>قد يقوم المديرون بأداء مهام المساهمين الأفراد؛</li>
+<li>قد يتم تعيين مستشارين مؤقتًا؛</li>
+<li>قد يتحمل الموظفون الحاليون مسؤوليات إضافية؛</li>
+<li>قد تُفوّت فرص تحقيق الإيرادات.
+هذه هي تكلفة الشاغر.
+ومن النماذج المفيدة ما يلي:</li>
 </ul>
-<p>A 60-minute interview may require 90 minutes of employee time.</p>
-<p>Calculate the entire activity, not only the calendar block.</p>
-<h2>Example interview-labor calculation</h2>
-<p>Consider a process with:</p>
+<blockquote>
+<p>تكلفة الشاغر = المساهمة اليومية المقدرة للوظيفة × عدد أيام الشاغر
+يصعب حساب المساهمة اليومية بدقة, لكن هناك عدة طرق متاحة.</p>
+</blockquote>
+<h2>نموذج الشاغر القائم على الإيرادات</h2>
+<p>بالنسبة للوظائف المرتبطة ارتباطًا وثيقًا بالإيرادات, قم بتقدير الإيرادات أو الهامش الإجمالي الذي يساعد الموظف في تحقيقه أو حمايته.
+على سبيل المثال:</p>
 <ul>
-<li>one recruiter screen;</li>
-<li>one technical assessment review;</li>
-<li>three technical interviews;</li>
-<li>one hiring-manager interview;</li>
-<li>one debrief.</li>
+<li>هندسة تمكين المبيعات؛</li>
+<li>أنظمة تهيئة العملاء؛</li>
+<li>موثوقية الدفع؛</li>
+<li>تطوير المنتجات الحاسمة للإيرادات؛</li>
+<li>عمليات تكامل المؤسسات.
+إذا كان من المتوقع أن يؤدي تأخير التكامل إلى تأجيل 200,000 دولار من قيمة العقد السنوي, فقد تكون تكلفة الشاغر أكثر أهمية من نفقات التوظيف.</li>
 </ul>
-<p>Estimated internal labor:</p>
+<h2>نموذج الشاغر القائم على عبء العمل</h2>
+<p>قم بتقدير تكلفة توزيع العمل الناقص على أعضاء الفريق.
+لنفترض أن أربعة مهندسين يقضي كل منهم خمس ساعات إضافية أسبوعيًا لتغطية الوظيفة الشاغرة.
+أي:</p>
+<blockquote>
+<p>4 مهندسين × 5 ساعات = 20 ساعة إضافية أسبوعيًا
+بمعدل فعلي قدره 100 دولار في الساعة:
+20 × 100 دولار = 2,000 دولار في الأسبوع
+على مدار 12 أسبوعًا:
+2,000 دولار × 12 = 24,000 دولار
+قد لا تظهر هذه التكلفة في ميزانية التوظيف, لكنها تظل تكلفة تجارية.</p>
+</blockquote>
+<h2>نموذج الاستعانة بمتعاقد خارجي</h2>
+<p>هناك طريقة أخرى تتمثل في تقدير تكلفة الاستعانة بقدرات خارجية مؤقتة.
+إذا احتاجت الشركة إلى متعاقد براتب 150 دولارًا في الساعة لمدة 20 ساعة أسبوعيًا:</p>
+<blockquote>
+<p>150 دولارًا × 20 = 3,000 دولار أسبوعيًا
+على مدار 10 أسابيع من البحث:
+3,000 دولار × 10 = 30,000 دولار
+حتى لو لم تقم الشركة فعليًّا بتعيين المتعاقد, فإن هذا التقدير يوفر تقديرًا تقريبيًّا مفيدًا لقيمة القدرات الناقصة.</p>
+</blockquote>
+<h2>الإرهاق ومخاطر فقدان الموظفين</h2>
+<p>قد يؤدي وجود وظيفة شاغرة إلى زيادة الضغط على بقية أعضاء الفريق.
+وتشمل الآثار المحتملة ما يلي:</p>
+<ul>
+<li>المزيد من العمل عند الطلب؛</li>
+<li>تأجيل الإجازات؛</li>
+<li>ساعات عمل أطول؛</li>
+<li>بطء مراجعة الكود؛</li>
+<li>انخفاض الجودة؛</li>
+<li>انخفاض الروح المعنوية؛</li>
+<li>زيادة معدل دوران الموظفين.
+إذا ساهمت وظيفة شاغرة واحدة في مغادرة موظف آخر, فقد تبدأ الشركة عملية توظيف ثانية مكلفة.
+لذلك, يجب أن تشمل تكلفة الوظيفة الشاغرة ليس فقط العمل غير المنجز, بل أيضًا الضغط الذي يتحمله الفريق الحالي.</li>
+</ul>
+<h2>الأجر هو أكبر بند من بنود النفقات المستمرة</h2>
+<p>بعد قبول المرشح للوظيفة, يصبح الأجر الجزء الأكبر من تكلفة التوظيف.
+وقد يشمل:</p>
+<ul>
+<li>الراتب الأساسي؛</li>
+<li>ضرائب الرواتب؛</li>
+<li>المكافآت؛</li>
+<li>العمولة؛</li>
+<li>الأسهم؛</li>
+<li>اشتراكات التقاعد؛</li>
+<li>التأمين الصحي؛</li>
+<li>الإجازة المدفوعة الأجر؛</li>
+<li>التأمين ضد العجز والتأمين على الحياة؛</li>
+<li>مزايا الرعاية الصحية؛</li>
+<li>التطوير المهني؛</li>
+<li>دعم العمل من المنزل؛</li>
+<li>المزايا الخاصة بالجهة الموظِفة.
+يختلف المجموع الدقيق حسب البلد والموقع وترتيبات التوظيف.
+عند إعداد الميزانية, يجب التمييز بين:</li>
+<li>المكافآت النقدية؛</li>
+<li>مصروفات الأسهم؛</li>
+<li>تكاليف التوظيف القانونية؛</li>
+<li>المزايا الاختيارية؛</li>
+<li>تكاليف الإعداد لمرة واحدة؛</li>
+<li>التكاليف السنوية المتكررة.</li>
+</ul>
+<h2>الاختلافات الجغرافية في المكافآت</h2>
+<p>قد يؤدي التوظيف عن بُعد إلى ظهور نماذج تعويض مختلفة.
+قد تستخدم الشركات:</p>
+<ul>
+<li>نطاقًا عالميًا واحدًا؛</li>
+<li>نطاقات وطنية؛</li>
+<li>مناطق إقليمية؛</li>
+<li>معدلات السوق المحلية؛</li>
+<li>نطاقات معدلة حسب الموقع؛</li>
+<li>ترتيبات «صاحب العمل المسجل».
+يؤثر كل نموذج على:</li>
+<li>الراتب؛</li>
+<li>كشوف المرتبات؛</li>
+<li>المزايا؛</li>
+<li>الضرائب؛</li>
+<li>الامتثال؛</li>
+<li>الإنصاف الداخلي؛</li>
+<li>قبول العرض.
+لا تقارن الراتب الأساسي بين المواقع المختلفة دون مراعاة هيكل التوظيف الكامل.</li>
+</ul>
+<h2>الأسهم لها تكلفة حتى لو لم تكن نقدية</h2>
+<p>قد لا تؤدي الأسهم إلى نفقات فورية في كشوف الرواتب, لكنها جزء من حزمة التعويضات.
+يجب على الشركات فهم:</p>
+<ul>
+<li>حجم المنحة؛</li>
+<li>جدول الاستحقاق؛</li>
+<li>شروط الممارسة؛</li>
+<li>التخفيف؛</li>
+<li>افتراضات التقييم؛</li>
+<li>تجديد المنح؛</li>
+<li>المعالجة المحاسبية؛</li>
+<li>فهم المرشح.
+قد يقلل المرشحون من قيمة الأسهم عندما يصعب تقييمها.
+يمكن أن يؤدي التوضيح الشفاف إلى تحسين العرض دون زيادة حجم المنحة.</li>
+</ul>
+<h2>مكافآت التوقيع وحوافز العرض</h2>
+<p>يمكن استخدام مكافأة التوقيع من أجل:</p>
+<ul>
+<li>تعويض مكافأة تم التنازل عنها؛</li>
+<li>تعويض الأسهم غير المكتسبة؛</li>
+<li>دعم الانتقال إلى مكان العمل الجديد؛</li>
+<li>سد فجوة في الأجر؛</li>
+<li>تحسين العرض التنافسي؛</li>
+<li>التعويض عن تاريخ بدء العمل العاجل.
+وهي تكلفة توظيف مباشرة, لكنها قد تكون أقل تكلفة من إعادة البحث.
+استخدم قواعد الموافقة الموثقة حتى تظل نتائج المفاوضات متسقة.</li>
+</ul>
+<h2>المعدات وتجهيز مكان العمل</h2>
+<p>قد يحتاج المطور إلى:</p>
+<ul>
+<li>كمبيوتر محمول؛</li>
+<li>شاشات؛</li>
+<li>قاعدة توصيل؛</li>
+<li>لوحة مفاتيح؛</li>
+<li>ماوس؛</li>
+<li>سماعة رأس؛</li>
+<li>هاتف؛</li>
+<li>مفتاح أمان؛</li>
+<li>دعم المكتب أو الكرسي؛</li>
+<li>الوصول إلى المكتب؛</li>
+<li>إدارة الأجهزة؛</li>
+<li>الشحن؛</li>
+<li>التأمين؛</li>
+<li>تغطية الاستبدال.
+قد تتراوح تكلفة الإعداد بين مئات وعدة آلاف من الدولارات حسب الدور ومعايير الشركة.
+تشمل التكاليف:</li>
+<li>الشراء الأولي؛</li>
+<li>الشحن؛</li>
+<li>التهيئة؛</li>
+<li>الدعم التقني؛</li>
+<li>التسجيل الأمني؛</li>
+<li>دورة الاستبدال.</li>
+</ul>
+<h2>البرامج والوصول إلى السحابة</h2>
+<p>قد يحتاج المطورون الجدد إلى تراخيص لـ:</p>
+<ul>
+<li>منصات التحكم في المصادر؛</li>
+<li>برامج تحرير الكود؛</li>
+<li>أدوات التصميم؛</li>
+<li>إدارة المشاريع؛</li>
+<li>التوثيق؛</li>
+<li>الاتصالات؛</li>
+<li>قابلية المراقبة؛</li>
+<li>أدوات الأمان؛</li>
+<li>البيئات السحابية؛</li>
+<li>منصات الاختبار؛</li>
+<li>الشبكات الخاصة الافتراضية؛</li>
+<li>مساعدو البرمجة بالذكاء الاصطناعي.
+يتم تسعير بعض الأدوات لكل مستخدم. بينما تؤدي أدوات أخرى إلى استخدام غير مباشر للسحابة أو البنية التحتية.
+يجب على الشركة التي توظف العديد من المطورين أن تدرج تكاليف البرامج لكل مقعد في تخطيط القوى العاملة.</li>
+</ul>
+<h2>إعدادات الأمان والامتثال</h2>
+<p>قد يتطلب التعيين أيضًا ما يلي:</p>
+<ul>
+<li>التحقق من الهوية؛</li>
+<li>التحقق من الخلفية؛</li>
+<li>التدريب الأمني؛</li>
+<li>تهيئة الأجهزة؛</li>
+<li>المصادقة متعددة العوامل؛</li>
+<li>مبدأ «أقل امتياز ممكن» للوصول؛</li>
+<li>تسجيل عمليات التدقيق؛</li>
+<li>الإقرار بالسياسات؛</li>
+<li>التدريب على الامتثال؛</li>
+<li>التدريب على التطوير الآمن.
+تحمي هذه الضوابط المؤسسة, لكنها تتطلب جهدًا وأدوات.
+يعد التوجيه الأمني مهمًا بشكل خاص للمطورين الذين لديهم حق الوصول إلى:</li>
+<li>أنظمة الإنتاج؛</li>
+<li>بيانات العملاء؛</li>
+<li>أنظمة الدفع؛</li>
+<li>البنية التحتية؛</li>
+<li>المعلومات السرية؛</li>
+<li>شفرة المصدر؛</li>
+<li>الأدوات الإدارية.</li>
+</ul>
+<h2>الجهد البشري اللازم للتوجيه</h2>
+<p>عادةً ما يتطلب الموظف الجديد تخصيص وقت من:</p>
+<ul>
+<li>المدير؛</li>
+<li>المرشد الفني؛</li>
+<li>قسم تكنولوجيا المعلومات؛</li>
+<li>قسم الأمن؛</li>
+<li>قسم الموارد البشرية؛</li>
+<li>قسم الرواتب؛</li>
+<li>زملاء الفريق؛</li>
+<li>أصحاب المصلحة في المشروع.
+قد تشمل أنشطة الإعداد ما يلي:</li>
+<li>التوجيه المؤسسي؛</li>
+<li>إعداد البيئة؛</li>
+<li>شرح تفصيلي للبنية؛</li>
+<li>تعريف بقاعدة الكود؛</li>
+<li>العمل الثنائي؛</li>
+<li>طلبات الوصول؛</li>
+<li>التدريب على السياسات؛</li>
+<li>تحديد الأهداف؛</li>
+<li>اختيار المشروع الأول؛</li>
+<li>اجتماعات التقييم.
+إحدى الحسابات البسيطة هي:</li>
+</ul>
+<blockquote>
+<p>تكلفة جهود الإعداد = إجمالي ساعات الإعداد × التكلفة المركبة للساعة
+إذا قضى المدير والموجه والفريق مجتمعين 35 ساعة خلال الشهر الأول بمعدل مركب قدره 100 دولار في الساعة:
+35 × 100 دولار = 3,500 دولار
+هذا استثمار, وليس بالضرورة هدرًا. يمكن للإعداد الفعال أن يقلل من وقت الوصول إلى الإنتاجية الكاملة ومعدل دوران الموظفين.</p>
+</blockquote>
+<h2>تكلفة فترة التأهيل</h2>
+<p>نادرًا ما يكون المطور الجديد منتجًا بالكامل في اليوم الأول.
+قد يحتاج إلى تعلم:</p>
+<ul>
+<li>المنتج؛</li>
+<li>احتياجات العملاء؛</li>
+<li>البنية؛</li>
+<li>مستودعات البرمجة؛</li>
+<li>أنظمة النشر؛</li>
+<li>بيئات التطوير؛</li>
+<li>المصطلحات الداخلية؛</li>
+<li>متطلبات الأمان؛</li>
+<li>قواعد الفريق؛</li>
+<li>سجل القرارات؛</li>
+<li>الإجراءات التشغيلية.
+قد يستغرق التأهيل أسابيع أو شهورًا حسب مدى تعقيد الدور.</li>
+</ul>
+<h2>تمثيل عملية التأهيل كمنحنى إنتاجية</h2>
+<p>بدلاً من تصنيف الموظف الجديد على أنه منتج أو غير منتج, قم بتقدير الإنتاجية بمرور الوقت.
+على سبيل المثال:</p>
 <table>
 <thead>
 <tr>
-<th>Activity</th>
-<th align="right">People</th>
-<th align="right">Time per person</th>
-<th align="right">Total hours</th>
+<th>الفترة</th>
+<th align="right">الإنتاجية المقدرة</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Recruiter screen and notes</td>
-<td align="right">1</td>
-<td align="right">0.75 hours</td>
-<td align="right">0.75</td>
-</tr>
-<tr>
-<td>Technical assessment review</td>
-<td align="right">2</td>
-<td align="right">1 hour</td>
-<td align="right">2</td>
-</tr>
-<tr>
-<td>Technical interviews</td>
-<td align="right">3</td>
-<td align="right">1.5 hours</td>
-<td align="right">4.5</td>
-</tr>
-<tr>
-<td>Hiring-manager interview</td>
-<td align="right">1</td>
-<td align="right">1.5 hours</td>
-<td align="right">1.5</td>
-</tr>
-<tr>
-<td>Debrief</td>
-<td align="right">5</td>
-<td align="right">0.5 hours</td>
-<td align="right">2.5</td>
-</tr>
-<tr>
-<td>Scheduling and coordination</td>
-<td align="right">1</td>
-<td align="right">1 hour</td>
-<td align="right">1</td>
-</tr>
-<tr>
-<td><strong>Total</strong></td>
-<td align="right"></td>
-<td align="right"></td>
-<td align="right"><strong>12.25 hours</strong></td>
-</tr>
-</tbody></table>
-<p>If the blended effective hourly cost is $95:</p>
-<blockquote>
-<p>12.25 hours × $95 = $1,163.75 per finalist</p>
-</blockquote>
-<p>If four finalists complete the entire process:</p>
-<blockquote>
-<p>4 × $1,163.75 = $4,655</p>
-</blockquote>
-<p>That does not include the time spent screening earlier candidates.</p>
-<h2>Context switching creates additional cost</h2>
-<p>Interview labor does not capture the full productivity impact.</p>
-<p>Engineering work often requires sustained concentration. An interview placed in the middle of a development block may disrupt more work than the scheduled hour suggests.</p>
-<p>An engineer may need time to:</p>
-<ul>
-<li>stop current work;</li>
-<li>prepare;</li>
-<li>conduct the interview;</li>
-<li>write feedback;</li>
-<li>recover context;</li>
-<li>resume the original task.</li>
-</ul>
-<p>Companies do not need to assign a precise monetary value to every interruption. They should recognize that fragmented interview schedules can reduce productive capacity.</p>
-<p>Grouping interviews into reserved blocks can lower the impact.</p>
-<h2>The cost of an unfilled role</h2>
-<p>While a position remains open:</p>
-<ul>
-<li>features may be delayed;</li>
-<li>reliability work may remain undone;</li>
-<li>customer requests may wait;</li>
-<li>technical debt may grow;</li>
-<li>managers may perform individual-contributor work;</li>
-<li>consultants may be hired temporarily;</li>
-<li>existing employees may absorb additional responsibility;</li>
-<li>revenue opportunities may be missed.</li>
-</ul>
-<p>This is the vacancy cost.</p>
-<p>A useful model is:</p>
-<blockquote>
-<p>Vacancy cost = estimated daily contribution of the role × number of days unfilled</p>
-</blockquote>
-<p>The daily contribution is difficult to calculate precisely, but several approaches are available.</p>
-<h2>Revenue-based vacancy model</h2>
-<p>For roles tied closely to revenue, estimate the revenue or gross margin the employee helps create or protect.</p>
-<p>For example:</p>
-<ul>
-<li>sales-enablement engineering;</li>
-<li>customer onboarding systems;</li>
-<li>payment reliability;</li>
-<li>revenue-critical product development;</li>
-<li>enterprise integrations.</li>
-</ul>
-<p>If a delayed integration is expected to postpone $200,000 in annual contract value, the vacancy cost may be more important than the recruiting expense.</p>
-<h2>Workload-based vacancy model</h2>
-<p>Estimate the cost of distributing the missing work across the team.</p>
-<p>Suppose four engineers each spend five additional hours per week covering the open position.</p>
-<p>That is:</p>
-<blockquote>
-<p>4 engineers × 5 hours = 20 additional hours per week</p>
-</blockquote>
-<p>At an effective rate of $100 per hour:</p>
-<blockquote>
-<p>20 × $100 = $2,000 per week</p>
-</blockquote>
-<p>Over 12 weeks:</p>
-<blockquote>
-<p>$2,000 × 12 = $24,000</p>
-</blockquote>
-<p>This may not appear in a recruiting budget, but it is still a business cost.</p>
-<h2>Contractor replacement model</h2>
-<p>Another method is to estimate what temporary external capacity would cost.</p>
-<p>If the company would need a contractor at $150 per hour for 20 hours each week:</p>
-<blockquote>
-<p>$150 × 20 = $3,000 per week</p>
-</blockquote>
-<p>Over a 10-week search:</p>
-<blockquote>
-<p>$3,000 × 10 = $30,000</p>
-</blockquote>
-<p>Even if the company does not actually hire the contractor, the estimate provides a useful approximation of the value of the missing capacity.</p>
-<h2>Burnout and retention risk</h2>
-<p>An open role may increase pressure on the remaining team.</p>
-<p>Possible effects include:</p>
-<ul>
-<li>more on-call work;</li>
-<li>delayed vacations;</li>
-<li>longer working hours;</li>
-<li>slower code review;</li>
-<li>lower quality;</li>
-<li>reduced morale;</li>
-<li>increased turnover.</li>
-</ul>
-<p>If one vacancy contributes to another employee leaving, the company may begin a second expensive hiring process.</p>
-<p>Vacancy cost should therefore include not only unfinished work but also the strain placed on the existing team.</p>
-<h2>Compensation is the largest ongoing expense</h2>
-<p>After the candidate accepts, compensation becomes the largest part of the employment cost.</p>
-<p>It may include:</p>
-<ul>
-<li>base salary;</li>
-<li>payroll taxes;</li>
-<li>bonuses;</li>
-<li>commission;</li>
-<li>equity;</li>
-<li>retirement contributions;</li>
-<li>health insurance;</li>
-<li>paid leave;</li>
-<li>disability and life insurance;</li>
-<li>wellness benefits;</li>
-<li>professional development;</li>
-<li>home-office support;</li>
-<li>employer-specific benefits.</li>
-</ul>
-<p>The exact total varies by country, location, and employment arrangement.</p>
-<p>When budgeting, distinguish between:</p>
-<ul>
-<li>cash compensation;</li>
-<li>equity expense;</li>
-<li>statutory employment costs;</li>
-<li>optional benefits;</li>
-<li>one-time setup costs;</li>
-<li>recurring annual costs.</li>
-</ul>
-<h2>Geographic compensation differences</h2>
-<p>Remote hiring may introduce different compensation models.</p>
-<p>Companies may use:</p>
-<ul>
-<li>one global range;</li>
-<li>national ranges;</li>
-<li>regional zones;</li>
-<li>local market rates;</li>
-<li>location-adjusted bands;</li>
-<li>employer-of-record arrangements.</li>
-</ul>
-<p>Each model affects:</p>
-<ul>
-<li>salary;</li>
-<li>payroll;</li>
-<li>benefits;</li>
-<li>taxes;</li>
-<li>compliance;</li>
-<li>internal equity;</li>
-<li>offer acceptance.</li>
-</ul>
-<p>Do not compare base salary across locations without considering the full employment structure.</p>
-<h2>Equity has a cost even when it is not cash</h2>
-<p>Equity may not create an immediate payroll expense, but it is part of the compensation package.</p>
-<p>Companies should understand:</p>
-<ul>
-<li>grant size;</li>
-<li>vesting schedule;</li>
-<li>exercise terms;</li>
-<li>dilution;</li>
-<li>valuation assumptions;</li>
-<li>refresh grants;</li>
-<li>accounting treatment;</li>
-<li>candidate understanding.</li>
-</ul>
-<p>Candidates may discount equity when the value is difficult to evaluate.</p>
-<p>A transparent explanation can improve the offer without increasing the grant.</p>
-<h2>Signing bonuses and offer incentives</h2>
-<p>A signing bonus may be used to:</p>
-<ul>
-<li>replace a forfeited bonus;</li>
-<li>offset unvested equity;</li>
-<li>support relocation;</li>
-<li>bridge a compensation gap;</li>
-<li>improve a competitive offer;</li>
-<li>compensate for an urgent start date.</li>
-</ul>
-<p>It is a direct hiring cost, but it may be less expensive than restarting the search.</p>
-<p>Use documented approval rules so negotiation outcomes remain consistent.</p>
-<h2>Equipment and workplace setup</h2>
-<p>A developer may require:</p>
-<ul>
-<li>laptop;</li>
-<li>monitors;</li>
-<li>dock;</li>
-<li>keyboard;</li>
-<li>mouse;</li>
-<li>headset;</li>
-<li>phone;</li>
-<li>security key;</li>
-<li>desk or chair support;</li>
-<li>office access;</li>
-<li>device management;</li>
-<li>shipping;</li>
-<li>insurance;</li>
-<li>replacement coverage.</li>
-</ul>
-<p>The setup may cost from hundreds to several thousand dollars depending on the role and company standards.</p>
-<p>Include:</p>
-<ul>
-<li>initial purchase;</li>
-<li>shipping;</li>
-<li>configuration;</li>
-<li>IT support;</li>
-<li>security enrollment;</li>
-<li>replacement cycle.</li>
-</ul>
-<h2>Software and cloud access</h2>
-<p>New developers may require licenses for:</p>
-<ul>
-<li>source-control platforms;</li>
-<li>code editors;</li>
-<li>design tools;</li>
-<li>project management;</li>
-<li>documentation;</li>
-<li>communication;</li>
-<li>observability;</li>
-<li>security tooling;</li>
-<li>cloud environments;</li>
-<li>testing platforms;</li>
-<li>virtual private networks;</li>
-<li>AI coding assistants.</li>
-</ul>
-<p>Some tools are priced per user. Others create indirect cloud or infrastructure usage.</p>
-<p>A company hiring many developers should include per-seat software costs in workforce planning.</p>
-<h2>Security and compliance setup</h2>
-<p>Onboarding may also require:</p>
-<ul>
-<li>identity verification;</li>
-<li>background checks;</li>
-<li>security training;</li>
-<li>device configuration;</li>
-<li>multifactor authentication;</li>
-<li>least-privilege access;</li>
-<li>audit logging;</li>
-<li>policy acknowledgement;</li>
-<li>compliance training;</li>
-<li>secure development training.</li>
-</ul>
-<p>These controls protect the organization but require labor and tooling.</p>
-<p>Security onboarding is especially important for developers with access to:</p>
-<ul>
-<li>production systems;</li>
-<li>customer data;</li>
-<li>payment systems;</li>
-<li>infrastructure;</li>
-<li>secrets;</li>
-<li>source code;</li>
-<li>administrative tools.</li>
-</ul>
-<h2>Onboarding labor</h2>
-<p>A new hire usually requires time from:</p>
-<ul>
-<li>the manager;</li>
-<li>a technical mentor;</li>
-<li>IT;</li>
-<li>security;</li>
-<li>human resources;</li>
-<li>payroll;</li>
-<li>teammates;</li>
-<li>project stakeholders.</li>
-</ul>
-<p>Onboarding activities may include:</p>
-<ul>
-<li>company orientation;</li>
-<li>environment setup;</li>
-<li>architecture walkthroughs;</li>
-<li>codebase introduction;</li>
-<li>pairing;</li>
-<li>access requests;</li>
-<li>policy training;</li>
-<li>goal setting;</li>
-<li>first-project selection;</li>
-<li>feedback meetings.</li>
-</ul>
-<p>A simple calculation is:</p>
-<blockquote>
-<p>Onboarding labor cost = total onboarding hours × blended hourly cost</p>
-</blockquote>
-<p>If the manager, mentor, and team collectively spend 35 hours during the first month at a blended rate of $100 per hour:</p>
-<blockquote>
-<p>35 × $100 = $3,500</p>
-</blockquote>
-<p>This is an investment, not necessarily waste. Effective onboarding can reduce ramp time and turnover.</p>
-<h2>Ramp-up cost</h2>
-<p>A new developer is rarely fully productive on the first day.</p>
-<p>They may need to learn:</p>
-<ul>
-<li>the product;</li>
-<li>customer needs;</li>
-<li>architecture;</li>
-<li>repositories;</li>
-<li>deployment systems;</li>
-<li>development environments;</li>
-<li>internal terminology;</li>
-<li>security requirements;</li>
-<li>team norms;</li>
-<li>decision history;</li>
-<li>operational procedures.</li>
-</ul>
-<p>Ramp-up may take weeks or months depending on role complexity.</p>
-<h2>Model ramp-up as a productivity curve</h2>
-<p>Instead of treating the new employee as either productive or unproductive, estimate productivity over time.</p>
-<p>For example:</p>
-<table>
-<thead>
-<tr>
-<th>Period</th>
-<th align="right">Estimated productivity</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Month 1</td>
+<td>الشهر 1</td>
 <td align="right">25%</td>
 </tr>
 <tr>
-<td>Month 2</td>
+<td>الشهر 2</td>
 <td align="right">50%</td>
 </tr>
 <tr>
-<td>Month 3</td>
+<td>الشهر 3</td>
 <td align="right">75%</td>
 </tr>
 <tr>
-<td>Month 4</td>
+<td>الشهر 4</td>
 <td align="right">90%</td>
 </tr>
 <tr>
-<td>Month 5 onward</td>
+<td>الشهر الخامس فصاعدًا</td>
 <td align="right">100%</td>
 </tr>
-</tbody></table>
-<p>If the monthly employment cost is $15,000, the productivity gap during the first four months could be estimated as:</p>
-<ul>
-<li>Month 1 gap: 75% × $15,000 = $11,250</li>
-<li>Month 2 gap: 50% × $15,000 = $7,500</li>
-<li>Month 3 gap: 25% × $15,000 = $3,750</li>
-<li>Month 4 gap: 10% × $15,000 = $1,500</li>
-</ul>
-<p>Estimated ramp-up gap:</p>
-<blockquote>
-<p>$11,250 + $7,500 + $3,750 + $1,500 = $24,000</p>
-</blockquote>
-<p>This does not mean the new employee provides no value during ramp-up. It is a planning model for the difference between initial and expected steady-state contribution.</p>
-<h2>Ramp-up varies by role</h2>
-<p>Ramp-up may be shorter when:</p>
-<ul>
-<li>the stack is familiar;</li>
-<li>documentation is strong;</li>
-<li>the architecture is simple;</li>
-<li>the first project is well scoped;</li>
-<li>access is ready on day one;</li>
-<li>mentorship is available;</li>
-<li>the team has effective onboarding.</li>
-</ul>
-<p>Ramp-up may be longer when:</p>
-<ul>
-<li>the system is highly complex;</li>
-<li>documentation is missing;</li>
-<li>the role spans many teams;</li>
-<li>security access is delayed;</li>
-<li>the employee is changing domains;</li>
-<li>expectations are unclear;</li>
-<li>the company lacks onboarding ownership.</li>
-</ul>
-<p>Reducing ramp time can produce more savings than reducing the job-post fee.</p>
-<h2>The cost of delayed access</h2>
-<p>A new developer who waits several days for a laptop, repository access, cloud permissions, or required accounts is being paid without being able to contribute effectively.</p>
-<p>Estimate:</p>
-<blockquote>
-<p>Access-delay cost = delayed working days × daily employment cost</p>
-</blockquote>
-<p>If the employee’s total daily cost is $700 and critical access is delayed for five days:</p>
-<blockquote>
-<p>5 × $700 = $3,500</p>
-</blockquote>
-<p>This is avoidable.</p>
-<p>Prepare equipment and access before the start date.</p>
-<h2>The cost of management attention</h2>
-<p>Managers invest time in:</p>
-<ul>
-<li>defining the role;</li>
-<li>interviewing;</li>
-<li>evaluating;</li>
-<li>negotiating;</li>
-<li>onboarding;</li>
-<li>goal setting;</li>
-<li>reviewing early work;</li>
-<li>providing feedback;</li>
-<li>coordinating support.</li>
-</ul>
-<p>For senior or leadership hires, this investment may be substantial.</p>
-<p>Management time is often ignored because it does not produce a separate invoice. It should still be included when assessing process efficiency.</p>
-<h2>The cost of mentoring</h2>
-<p>A mentor may spend time on:</p>
-<ul>
-<li>pairing;</li>
-<li>code review;</li>
-<li>system explanation;</li>
-<li>answering questions;</li>
-<li>introducing stakeholders;</li>
-<li>reviewing first projects;</li>
-<li>helping with incidents.</li>
-</ul>
-<p>This may temporarily reduce the mentor’s output.</p>
-<p>However, reducing mentorship to save money can extend ramp-up and increase the probability of turnover.</p>
-<p>The objective is not to eliminate mentoring. It is to make it structured and effective.</p>
-<h2>Opportunity cost of the hiring team</h2>
-<p>Every hour spent hiring is an hour not spent on another priority.</p>
-<p>That might include:</p>
-<ul>
-<li>product development;</li>
-<li>reliability;</li>
-<li>customer support;</li>
-<li>planning;</li>
-<li>architecture;</li>
-<li>mentoring current employees;</li>
-<li>security improvements.</li>
-</ul>
-<p>A good hiring process limits low-value work so the team can concentrate its attention on meaningful evaluation.</p>
-<h2>The cost of candidate withdrawal</h2>
-<p>When a strong candidate withdraws late in the process, the company may lose:</p>
-<ul>
-<li>sourcing expense;</li>
-<li>interview labor;</li>
-<li>management time;</li>
-<li>scheduling effort;</li>
-<li>the opportunity to fill the role;</li>
-<li>momentum with other candidates.</li>
-</ul>
-<p>Common withdrawal causes include:</p>
-<ul>
-<li>a slow process;</li>
-<li>unclear compensation;</li>
-<li>excessive interviews;</li>
-<li>irrelevant assessments;</li>
-<li>poor communication;</li>
-<li>negative interviewer behavior;</li>
-<li>changing job requirements;</li>
-<li>lack of flexibility.</li>
-</ul>
-<p>Track withdrawals as a cost and a process signal.</p>
-<h2>The cost of declined offers</h2>
-<p>An offer rejection may force the company to return to earlier candidates or restart sourcing.</p>
-<p>Possible causes include:</p>
-<ul>
-<li>below-market compensation;</li>
-<li>opaque equity;</li>
-<li>slow decision-making;</li>
-<li>unclear role scope;</li>
-<li>poor candidate experience;</li>
-<li>remote-work disagreement;</li>
-<li>competing offers;</li>
-<li>inconsistent communication;</li>
-<li>concerns about leadership or culture.</li>
-</ul>
-<p>Offer acceptance is part of hiring efficiency.</p>
-<p>The company should not wait until the offer stage to discover the candidate’s compensation expectations or working requirements.</p>
-<h2>The cost of a failed hire</h2>
-<p>A failed hire may be someone who:</p>
-<ul>
-<li>leaves shortly after joining;</li>
-<li>cannot perform at the expected level;</li>
-<li>was placed at the wrong level;</li>
-<li>receives inadequate support;</li>
-<li>discovers the role is different from what was described;</li>
-<li>damages team performance or trust;</li>
-<li>is terminated after an unsuccessful period.</li>
-</ul>
-<p>The cost may include:</p>
-<ul>
-<li>the original search;</li>
-<li>interview labor;</li>
-<li>compensation paid;</li>
-<li>onboarding;</li>
-<li>equipment;</li>
-<li>management time;</li>
-<li>lost productivity;</li>
-<li>project delay;</li>
-<li>customer impact;</li>
-<li>team morale;</li>
-<li>legal or severance costs;</li>
-<li>replacement hiring.</li>
-</ul>
-<p>The failed hire should not automatically be blamed on the employee.</p>
-<p>It may result from:</p>
-<ul>
-<li>inaccurate role definition;</li>
-<li>weak evaluation;</li>
-<li>misleading job descriptions;</li>
-<li>poor onboarding;</li>
-<li>unrealistic expectations;</li>
-<li>management problems;</li>
-<li>organizational change;</li>
-<li>inadequate support;</li>
-<li>compensation misalignment;</li>
-<li>unhealthy team conditions.</li>
-</ul>
-<h2>Calculate a replacement scenario</h2>
-<p>Suppose a company spends:</p>
-<ul>
-<li>$2,000 on sourcing and tools;</li>
-<li>$6,000 in internal interview labor;</li>
-<li>$8,000 on equipment, administration, and onboarding;</li>
-<li>$60,000 in compensation during an unsuccessful four-month tenure;</li>
-<li>$25,000 in lost productivity and project delay;</li>
-<li>$5,000 in offboarding and replacement administration.</li>
-</ul>
-<p>The initial failed-hire cost is:</p>
-<blockquote>
-<p>$2,000 + $6,000 + $8,000 + $60,000 + $25,000 + $5,000 = $106,000</p>
-</blockquote>
-<p>The company must then begin the replacement search, adding a second round of recruiting and onboarding costs.</p>
-<p>For senior or highly compensated roles, the total may be substantially larger.</p>
-<h2>Use expected risk rather than assuming every hire fails</h2>
-<p>A planning model can include expected failed-hire risk.</p>
-<p>For example:</p>
-<blockquote>
-<p>Expected replacement cost = probability of early unsuccessful outcome × estimated replacement cost</p>
-</blockquote>
-<p>If the company estimates:</p>
-<ul>
-<li>a 10% risk of an early unsuccessful outcome;</li>
-<li>an estimated replacement cost of $120,000;</li>
-</ul>
-<p>then:</p>
-<blockquote>
-<p>0.10 × $120,000 = $12,000 expected risk cost per hire</p>
-</blockquote>
-<p>This is not a prediction about a specific person. It is a portfolio-level budgeting tool.</p>
-<p>The purpose is to recognize that hiring quality and retention have financial value.</p>
-<h2>The cost of turnover after a successful start</h2>
-<p>A developer may perform well but leave because of:</p>
-<ul>
-<li>compensation;</li>
-<li>management;</li>
-<li>lack of growth;</li>
-<li>burnout;</li>
-<li>inflexible policies;</li>
-<li>poor team climate;</li>
-<li>uninteresting work;</li>
-<li>organizational instability;</li>
-<li>unclear promotion criteria.</li>
-</ul>
-<p>The cost of replacement may include:</p>
-<ul>
-<li>knowledge loss;</li>
-<li>delayed projects;</li>
-<li>team disruption;</li>
-<li>another vacancy;</li>
-<li>another hiring process;</li>
-<li>another ramp-up period.</li>
-</ul>
-<p>Retention is part of hiring economics.</p>
-<p>A company cannot fully solve hiring cost while ignoring why employees leave.</p>
-<h2>Knowledge loss</h2>
-<p>Departing developers may hold valuable context about:</p>
-<ul>
-<li>architecture;</li>
-<li>production incidents;</li>
-<li>customer requirements;</li>
-<li>undocumented decisions;</li>
-<li>deployment procedures;</li>
-<li>technical debt;</li>
-<li>stakeholder relationships.</li>
-</ul>
-<p>When knowledge is concentrated in one person, turnover becomes more expensive.</p>
-<p>Reduce risk through:</p>
-<ul>
-<li>documentation;</li>
-<li>code review;</li>
-<li>shared ownership;</li>
-<li>pairing;</li>
-<li>architecture records;</li>
-<li>runbooks;</li>
-<li>succession planning.</li>
-</ul>
-<p>These practices improve resilience even when no one leaves.</p>
-<h2>Compare cost per applicant, interview, offer, and hire</h2>
-<p>A single cost-per-hire number can hide important differences.</p>
-<p>Track:</p>
-<h3>Cost per applicant</h3>
-<blockquote>
-<p>Channel cost ÷ applications received</p>
-</blockquote>
-<p>This shows volume, not quality.</p>
-<h3>Cost per qualified applicant</h3>
-<blockquote>
-<p>Channel cost ÷ qualified applicants</p>
-</blockquote>
-<p>This is more meaningful than raw application cost.</p>
-<h3>Cost per interview</h3>
-<blockquote>
-<p>Channel and screening cost ÷ candidates interviewed</p>
-</blockquote>
-<h3>Cost per offer</h3>
-<blockquote>
-<p>Total recruiting cost ÷ offers made</p>
-</blockquote>
-<h3>Cost per accepted hire</h3>
-<blockquote>
-<p>Total recruiting cost ÷ accepted offers</p>
-</blockquote>
-<h3>Cost per successful retained hire</h3>
-<blockquote>
-<p>Total recruiting cost ÷ hires who meet defined performance and retention criteria</p>
-</blockquote>
-<p>The final metric takes longer to evaluate but provides the most useful view of channel quality.</p>
-<h2>Measure sourcing quality, not just volume</h2>
-<p>Compare sourcing channels using:</p>
-<ul>
-<li>qualified-applicant rate;</li>
-<li>screen pass rate;</li>
-<li>assessment pass rate;</li>
-<li>interview pass rate;</li>
-<li>offer rate;</li>
-<li>acceptance rate;</li>
-<li>time-to-hire;</li>
-<li>retention;</li>
-<li>hiring-manager satisfaction.</li>
-</ul>
-<p>A channel that produces 50 applicants and one strong hire may be more valuable than one that produces 1,000 applications and no hires.</p>
-<h2>Calculate screening efficiency</h2>
-<p>A useful metric is:</p>
-<blockquote>
-<p>Qualified-applicant rate = qualified applications ÷ total applications</p>
-</blockquote>
-<p>If Channel A produces:</p>
-<ul>
-<li>1,000 applications;</li>
-<li>20 qualified candidates;</li>
-</ul>
-<p>its qualified rate is:</p>
-<blockquote>
-<p>20 ÷ 1,000 = 2%</p>
-</blockquote>
-<p>If Channel B produces:</p>
-<ul>
-<li>100 applications;</li>
-<li>15 qualified candidates;</li>
-</ul>
-<p>its qualified rate is:</p>
-<blockquote>
-<p>15 ÷ 100 = 15%</p>
-</blockquote>
-<p>Even if Channel B costs more, it may require far less screening time.</p>
-<h2>Calculate cost per qualified candidate</h2>
-<p>Suppose:</p>
-<h3>Channel A</h3>
-<ul>
-<li>Listing cost: $500</li>
-<li>Screening labor: $4,000</li>
-<li>Qualified candidates: 20</li>
-</ul>
-<blockquote>
-<p>($500 + $4,000) ÷ 20 = $225 per qualified candidate</p>
-</blockquote>
-<h3>Channel B</h3>
-<ul>
-<li>Listing cost: $1,000</li>
-<li>Screening labor: $800</li>
-<li>Qualified candidates: 15</li>
-</ul>
-<blockquote>
-<p>($1,000 + $800) ÷ 15 = $120 per qualified candidate</p>
-</blockquote>
-<p>The higher-priced listing produces the lower effective cost.</p>
-<p>This is why job-post fees should not be evaluated in isolation.</p>
-<h2>Calculate interview-to-hire efficiency</h2>
-<p>Another useful metric is:</p>
-<blockquote>
-<p>Interview-to-hire ratio = candidates completing substantial interviews ÷ hires</p>
-</blockquote>
-<p>If 20 candidates complete full loops for one hire, the process may have:</p>
-<ul>
-<li>weak screening;</li>
-<li>unclear standards;</li>
-<li>inconsistent interviews;</li>
-<li>an overly broad pipeline;</li>
-<li>a compensation problem;</li>
-<li>an unrealistic role.</li>
-</ul>
-<p>A lower ratio is not automatically better. It should reflect strong early qualification and fair evaluation.</p>
-<h2>Compare direct hiring with agency hiring</h2>
-<p>A simple comparison might include:</p>
-<table>
-<thead>
 <tr>
-<th>Cost category</th>
-<th align="right">Direct marketplace</th>
-<th align="right">Agency</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Listing or access</td>
-<td align="right">Fixed fee</td>
-<td align="right">Often included</td>
-</tr>
-<tr>
-<td>Internal sourcing</td>
-<td align="right">Moderate</td>
-<td align="right">Lower</td>
-</tr>
-<tr>
-<td>Screening</td>
-<td align="right">Internal</td>
-<td align="right">Shared or agency-led</td>
-</tr>
-<tr>
-<td>Placement fee</td>
-<td align="right">None or low</td>
-<td align="right">Potentially significant</td>
-</tr>
-<tr>
-<td>Candidate ownership</td>
-<td align="right">Direct</td>
-<td align="right">May be intermediated</td>
-</tr>
-<tr>
-<td>Speed</td>
-<td align="right">Depends on channel</td>
-<td align="right">May be faster for specialized roles</td>
-</tr>
-<tr>
-<td>Control</td>
-<td align="right">High</td>
-<td align="right">Shared</td>
-</tr>
-<tr>
-<td>Replacement guarantee</td>
-<td align="right">Platform dependent</td>
-<td align="right">Sometimes included</td>
+<td>إذا كانت تكلفة التوظيف الشهرية 15,000 دولار, فيمكن تقدير فجوة الإنتاجية خلال الأشهر الأربعة الأولى على النحو التالي:</td>
+<td align="right"></td>
 </tr>
 </tbody></table>
-<p>An agency may be worth the fee when it saves substantial time or reaches candidates the company cannot access directly.</p>
-<p>Direct hiring may be more efficient when the company has a strong process and can reach an appropriate technical audience.</p>
-<p>Evaluate the complete economics, not ideology.</p>
-<h2>Compare permanent employees with contractors</h2>
-<p>Contractors may provide:</p>
 <ul>
-<li>faster availability;</li>
-<li>specialized expertise;</li>
-<li>flexible duration;</li>
-<li>less long-term commitment.</li>
+<li>فجوة الشهر الأول: 75% × 15,000 دولار = 11,250 دولار</li>
+<li>فجوة الشهر الثاني: 50% × 15,000 دولار = 7,500 دولار</li>
+<li>فجوة الشهر الثالث: 25% × 15,000 دولار = 3,750 دولار</li>
+<li>فجوة الشهر الرابع: 10% × 15,000 دولار = 1,500 دولار
+الفجوة التقديرية لفترة التدرج:</li>
 </ul>
-<p>They may also involve:</p>
-<ul>
-<li>higher hourly rates;</li>
-<li>agency markups;</li>
-<li>reduced continuity;</li>
-<li>knowledge-transfer risk;</li>
-<li>classification and compliance requirements;</li>
-<li>less control over availability.</li>
-</ul>
-<p>A contractor may be less expensive for a defined three-month project and more expensive for an ongoing core role.</p>
-<p>Calculate the expected duration and total cost.</p>
-<h2>Compare internal mobility with external hiring</h2>
-<p>Promoting or transferring an existing employee may reduce:</p>
-<ul>
-<li>sourcing;</li>
-<li>interviewing;</li>
-<li>cultural onboarding;</li>
-<li>company-context ramp-up;</li>
-<li>uncertainty.</li>
-</ul>
-<p>However, internal movement creates another vacancy unless the previous work is eliminated or redistributed.</p>
-<p>Internal hiring cost should include:</p>
-<ul>
-<li>backfill;</li>
-<li>training for the new role;</li>
-<li>transition time;</li>
-<li>compensation adjustment;</li>
-<li>management support.</li>
-</ul>
-<p>Internal mobility can still be one of the most efficient ways to fill a role and retain employees.</p>
-<h2>Compare build, buy, and defer decisions</h2>
-<p>Before hiring, ask whether the work should be solved through:</p>
-<ul>
-<li>a permanent employee;</li>
-<li>a contractor;</li>
-<li>a consulting firm;</li>
-<li>a managed service;</li>
-<li>software;</li>
-<li>automation;</li>
-<li>rescoping;</li>
-<li>postponement;</li>
-<li>internal reassignment.</li>
-</ul>
-<p>Hiring a developer is not always the correct answer.</p>
-<p>For example, a company may plan to hire an engineer to maintain a custom internal system when a managed platform would cost less and reduce operational risk.</p>
-<p>The role should exist because the work creates durable value.</p>
-<h2>Create a role-level cost model</h2>
-<p>Before opening a position, estimate:</p>
-<h3>Direct hiring</h3>
-<ul>
-<li>listing and sourcing;</li>
-<li>recruiter labor;</li>
-<li>agency fees;</li>
-<li>tools;</li>
-<li>assessment;</li>
-<li>background checks.</li>
-</ul>
-<h3>Internal labor</h3>
-<ul>
-<li>hiring-manager time;</li>
-<li>engineering interview time;</li>
-<li>scheduling;</li>
-<li>debriefing;</li>
-<li>offer preparation.</li>
-</ul>
-<h3>Vacancy impact</h3>
-<ul>
-<li>delayed work;</li>
-<li>contractor coverage;</li>
-<li>overtime;</li>
-<li>lost revenue;</li>
-<li>reliability risk.</li>
-</ul>
-<h3>Employment setup</h3>
-<ul>
-<li>signing bonus;</li>
-<li>relocation;</li>
-<li>equipment;</li>
-<li>software;</li>
-<li>administration.</li>
-</ul>
-<h3>Onboarding and ramp-up</h3>
-<ul>
-<li>training;</li>
-<li>mentoring;</li>
-<li>reduced initial productivity;</li>
-<li>manager support.</li>
-</ul>
-<h3>Risk</h3>
-<ul>
-<li>offer rejection;</li>
-<li>early turnover;</li>
-<li>role mismatch;</li>
-<li>replacement cost.</li>
-</ul>
-<p>A model does not need to produce a perfect number. It should create better decisions.</p>
-<h2>An illustrative hiring-cost example</h2>
-<p>Consider a senior developer position with the following estimated costs:</p>
-<h3>Direct recruiting</h3>
-<ul>
-<li>Job advertising: $1,200</li>
-<li>Recruiting and assessment tools: $800</li>
-<li>Background and administration: $400</li>
-</ul>
-<p>Subtotal:</p>
 <blockquote>
-<p>$2,400</p>
+<p>11,250 دولار + 7,500 دولار + 3,750 دولار + 1,500 دولار = 24,000 دولار
+هذا لا يعني أن الموظف الجديد لا يقدم أي قيمة خلال فترة التأهيل. إنه نموذج تخطيطي للفارق بين المساهمة الأولية والمساهمة المتوقعة في حالة الاستقرار.</p>
 </blockquote>
-<h3>Internal labor</h3>
+<h2>تختلف فترة التأهيل حسب الدور</h2>
+<p>قد تكون فترة التأهيل أقصر في الحالات التالية:</p>
 <ul>
-<li>Application screening: $2,000</li>
-<li>Recruiter and coordinator time: $2,500</li>
-<li>Engineering interviews and debriefs: $6,000</li>
-<li>Hiring-manager time: $3,000</li>
+<li>عندما تكون البنية التقنية مألوفة؛</li>
+<li>عندما تكون الوثائق شاملة؛</li>
+<li>عندما تكون البنية بسيطة؛</li>
+<li>عندما يكون نطاق المشروع الأول محددًا جيدًا؛</li>
+<li>عندما يكون الوصول جاهزًا من اليوم الأول؛</li>
+<li>عندما يتوفر التوجيه والإرشاد؛</li>
+<li>كان لدى الفريق برنامج تأهيل فعال.
+قد تكون فترة التأهيل أطول في الحالات التالية:</li>
+<li>عندما يكون النظام شديد التعقيد؛</li>
+<li>عندما تكون الوثائق غير متوفرة؛</li>
+<li>عندما يمتد الدور ليشمل العديد من الفرق؛</li>
+<li>عندما يتأخر منح صلاحيات الوصول الأمنية؛</li>
+<li>عندما ينتقل الموظف من مجال عمل إلى آخر؛</li>
+<li>عندما تكون التوقعات غير واضحة؛</li>
+<li>عندما تفتقر الشركة إلى المسؤولية عن عملية التأهيل.
+يمكن أن يؤدي تقليل مدة التأهيل إلى توفير أكبر مقارنة بتقليل رسوم الإعلان عن الوظيفة.</li>
 </ul>
-<p>Subtotal:</p>
+<h2>تكلفة تأخير منح صلاحيات الوصول</h2>
+<p>المطور الجديد الذي ينتظر عدة أيام للحصول على جهاز كمبيوتر محمول, أو الوصول إلى مستودع البيانات, أو أذونات السحابة, أو الحسابات المطلوبة, يتقاضى راتبه دون أن يتمكن من المساهمة بفعالية.
+التقدير:</p>
 <blockquote>
-<p>$13,500</p>
+<p>تكلفة تأخير الوصول = عدد أيام العمل المتأخرة × تكلفة التوظيف اليومية
+إذا كانت التكلفة اليومية الإجمالية للموظف 700 دولار وتأخر الوصول الضروري لمدة خمسة أيام:
+5 × 700 دولار = 3,500 دولار
+يمكن تجنب ذلك.
+قم بإعداد المعدات وتوفير الوصول قبل تاريخ بدء العمل.</p>
 </blockquote>
-<h3>Vacancy impact</h3>
+<h2>تكلفة اهتمام الإدارة</h2>
+<p>يستثمر المديرون وقتهم في:</p>
 <ul>
-<li>Temporary workload coverage: $18,000</li>
-<li>Estimated project delay: $20,000</li>
+<li>تحديد الدور؛</li>
+<li>إجراء المقابلات؛</li>
+<li>التقييم؛</li>
+<li>التفاوض؛</li>
+<li>الإعداد للانضمام؛</li>
+<li>تحديد الأهداف؛</li>
+<li>مراجعة الأعمال المبكرة؛</li>
+<li>تقديم الملاحظات؛</li>
+<li>تنسيق الدعم.
+بالنسبة لتعيينات كبار الموظفين أو القيادات, قد يكون هذا الاستثمار كبيرًا.
+غالبًا ما يتم تجاهل وقت الإدارة لأنه لا ينتج عنه فاتورة منفصلة. ومع ذلك, يجب تضمينه عند تقييم كفاءة العملية.</li>
 </ul>
-<p>Subtotal:</p>
+<h2>تكلفة التوجيه</h2>
+<p>قد يقضي المرشد وقتًا في:</p>
+<ul>
+<li>العمل الثنائي؛</li>
+<li>مراجعة الكود؛</li>
+<li>شرح النظام؛</li>
+<li>الإجابة على الأسئلة؛</li>
+<li>التعريف بأصحاب المصلحة؛</li>
+<li>مراجعة المشاريع الأولى؛</li>
+<li>المساعدة في التعامل مع الحوادث.
+قد يؤدي هذا إلى انخفاض مؤقت في إنتاجية المرشد.
+ومع ذلك, فإن تقليص التوجيه لتوفير المال قد يطيل فترة التأهيل ويزيد من احتمالية ترك الموظف للعمل.
+الهدف ليس إلغاء التوجيه, بل جعله منظمًا وفعالًا.</li>
+</ul>
+<h2>التكلفة البديلة لفريق التوظيف</h2>
+<p>كل ساعة تُقضى في التوظيف هي ساعة لا تُقضى في أولوية أخرى.
+وقد يشمل ذلك:</p>
+<ul>
+<li>تطوير المنتج؛</li>
+<li>الموثوقية؛</li>
+<li>دعم العملاء؛</li>
+<li>التخطيط؛</li>
+<li>الهندسة؛</li>
+<li>توجيه الموظفين الحاليين؛</li>
+<li>تحسينات الأمان.
+تحد عملية التوظيف الجيدة من الأعمال ذات القيمة المنخفضة حتى يتمكن الفريق من تركيز اهتمامه على التقييم الهادف.</li>
+</ul>
+<h2>تكلفة انسحاب المرشح</h2>
+<p>عندما ينسحب مرشح قوي في مرحلة متأخرة من العملية, قد تخسر الشركة:</p>
+<ul>
+<li>نفقات البحث عن المرشحين؛</li>
+<li>الجهد المبذول في المقابلات؛</li>
+<li>وقت الإدارة؛</li>
+<li>الجهد المبذول في الجدولة؛</li>
+<li>فرصة شغل الوظيفة؛</li>
+<li>الزخم مع المرشحين الآخرين.
+تشمل الأسباب الشائعة للانسحاب ما يلي:</li>
+<li>بطء العملية؛</li>
+<li>عدم وضوح المكافآت؛</li>
+<li>المقابلات المفرطة؛</li>
+<li>التقييمات غير ذات الصلة؛</li>
+<li>سوء التواصل؛</li>
+<li>السلوك السلبي للمقابل؛</li>
+<li>تغيير متطلبات الوظيفة؛</li>
+<li>الافتقار إلى المرونة.
+تتبع حالات الانسحاب باعتبارها تكلفة وإشارة تتعلق بالعملية.</li>
+</ul>
+<h2>تكلفة العروض المرفوضة</h2>
+<p>قد يجبر رفض العرض الشركة على العودة إلى المرشحين السابقين أو إعادة عملية البحث عن المرشحين.
+تشمل الأسباب المحتملة ما يلي:</p>
+<ul>
+<li>أجر أقل من معدل السوق؛</li>
+<li>حصة ملكية غير شفافة؛</li>
+<li>بطء في اتخاذ القرار؛</li>
+<li>نطاق مهام غير واضح؛</li>
+<li>تجربة سيئة للمرشح؛</li>
+<li>خلاف حول العمل عن بُعد؛</li>
+<li>عروض منافسة؛</li>
+<li>تواصل غير متسق؛</li>
+<li>مخاوف بشأن القيادة أو الثقافة المؤسسية.
+قبول العرض هو جزء من كفاءة التوظيف.
+يجب ألا تنتظر الشركة حتى مرحلة تقديم العرض لتكتشف توقعات المرشح بشأن الأجر أو متطلباته العملية.</li>
+</ul>
+<h2>تكلفة التوظيف الفاشل</h2>
+<p>قد يكون الموظف الفاشل شخصًا:</p>
+<ul>
+<li>يغادر بعد فترة وجيزة من انضمامه؛</li>
+<li>لا يستطيع الأداء بالمستوى المتوقع؛</li>
+<li>تم تعيينه في المستوى غير المناسب؛</li>
+<li>يتلقى دعمًا غير كافٍ؛</li>
+<li>يكتشف أن الدور يختلف عما تم وصفه؛</li>
+<li>يضر بأداء الفريق أو الثقة؛</li>
+<li>يتم إنهاء خدمته بعد فترة غير ناجحة.
+قد تشمل التكلفة ما يلي:</li>
+<li>عملية البحث الأصلية؛</li>
+<li>الجهد المبذول في المقابلات؛</li>
+<li>المكافآت المدفوعة؛</li>
+<li>عملية الإلحاق بالعمل؛</li>
+<li>المعدات؛</li>
+<li>وقت الإدارة؛</li>
+<li>فقدان الإنتاجية؛</li>
+<li>تأخير المشروع؛</li>
+<li>التأثير على العملاء؛</li>
+<li>معنويات الفريق؛</li>
+<li>التكاليف القانونية أو تكاليف إنهاء الخدمة؛</li>
+<li>التوظيف البديل.
+لا ينبغي إلقاء اللوم تلقائيًّا على الموظف في حالة التوظيف الفاشل.
+قد ينتج ذلك عن:</li>
+<li>تعريف غير دقيق للوظيفة؛</li>
+<li>تقييم ضعيف؛</li>
+<li>أوصاف وظيفية مضللة؛</li>
+<li>تدريب وتأهيل سيئ؛</li>
+<li>توقعات غير واقعية؛</li>
+<li>مشاكل إدارية؛</li>
+<li>تغيير تنظيمي؛</li>
+<li>دعم غير كافٍ؛</li>
+<li>عدم توافق الأجر مع الوظيفة؛</li>
+<li>ظروف غير صحية داخل الفريق.</li>
+</ul>
+<h2>حساب سيناريو الاستبدال</h2>
+<p>لنفترض أن شركة ما تنفق:</p>
+<ul>
+<li>2,000 دولار على البحث عن المرشحين والأدوات؛</li>
+<li>6,000 دولار على العمالة الداخلية لإجراء المقابلات؛</li>
+<li>8,000 دولار على المعدات والإدارة والتأهيل؛</li>
+<li>60,000 دولار على المكافآت خلال فترة عمل غير ناجحة مدتها أربعة أشهر؛</li>
+<li>25,000 دولار على خسارة الإنتاجية وتأخير المشاريع؛</li>
+<li>5,000 دولار على إجراءات إنهاء الخدمة وإدارة عملية الاستبدال.
+تبلغ التكلفة الأولية التعيين الفاشل هي:</li>
+</ul>
 <blockquote>
-<p>$38,000</p>
+<p>2,000 دولار + 6,000 دولار + 8,000 دولار + 60,000 دولار + 25,000 دولار + 5,000 دولار = 106,000 دولار
+وعندئذٍ يتعين على الشركة البدء في البحث عن بديل, مما يضيف جولة ثانية من تكاليف التوظيف والتأهيل.
+وبالنسبة للوظائف العليا أو ذات الأجور المرتفعة, قد يكون المجموع أكبر بكثير.</p>
 </blockquote>
-<h3>Employment setup</h3>
-<ul>
-<li>Equipment and software: $4,000</li>
-<li>Signing bonus: $10,000</li>
-<li>Administrative setup: $1,000</li>
-</ul>
-<p>Subtotal:</p>
+<h1># استخدم المخاطر المتوقعة بدلاً من افتراض فشل كل عملية توظيف</h1>
+<p>يمكن أن يتضمن نموذج التخطيط المخاطر المتوقعة لفشل التوظيف.
+على سبيل المثال:</p>
 <blockquote>
-<p>$15,000</p>
+<p>تكلفة الاستبدال المتوقعة = احتمال حدوث نتيجة غير ناجحة مبكرة × التكلفة التقديرية للاستبدال
+إذا قدرت الشركة:</p>
 </blockquote>
-<h3>Onboarding and ramp-up</h3>
 <ul>
-<li>Onboarding labor: $5,000</li>
-<li>Estimated productivity gap: $24,000</li>
+<li>مخاطر بنسبة 10% لحدوث نتيجة غير ناجحة مبكرة؛</li>
+<li>تكلفة استبدال تقديرية تبلغ 120,000 دولار؛
+فإن:</li>
 </ul>
-<p>Subtotal:</p>
 <blockquote>
-<p>$29,000</p>
+<p>0.10 × 120,000 دولار = 12,000 دولار تكلفة المخاطر المتوقعة لكل موظف يتم تعيينه
+هذا ليس تنبؤًا بشأن شخص معين. إنه أداة ميزانية على مستوى المحفظة.
+والغرض هو إدراك أن جودة التوظيف والاحتفاظ بالموظفين لهما قيمة مالية.</p>
 </blockquote>
-<h3>Risk-adjusted replacement cost</h3>
+<h2>تكلفة معدل دوران الموظفين بعد بداية ناجحة</h2>
+<p>قد يؤدي المطور أداءً جيدًا ولكنه يغادر بسبب:</p>
 <ul>
-<li>Estimated expected risk: $12,000</li>
+<li>الأجر؛</li>
+<li>الإدارة؛</li>
+<li>الافتقار إلى فرص النمو؛</li>
+<li>الإرهاق؛</li>
+<li>السياسات غير المرنة؛</li>
+<li>المناخ السيئ داخل الفريق؛</li>
+<li>العمل غير المثير للاهتمام؛</li>
+<li>عدم الاستقرار التنظيمي؛</li>
+<li>معايير الترقية غير الواضحة.
+قد تشمل تكلفة الاستبدال ما يلي:</li>
+<li>فقدان المعرفة؛</li>
+<li>تأخير المشاريع؛</li>
+<li>اضطراب الفريق؛</li>
+<li>وظيفة شاغرة أخرى؛</li>
+<li>عملية توظيف أخرى؛</li>
+<li>فترة تأهيل أخرى.
+يُعد الاحتفاظ بالموظفين جزءًا من اقتصاديات التوظيف.
+لا يمكن للشركة أن تحل مشكلة تكلفة التوظيف بشكل كامل بينما تتجاهل أسباب مغادرة الموظفين.</li>
 </ul>
-<h3>Estimated total</h3>
+<h2>فقدان المعرفة</h2>
+<p>قد يمتلك المطورون المغادرون معلومات قيّمة حول:</p>
+<ul>
+<li>البنية؛</li>
+<li>حوادث الإنتاج؛</li>
+<li>متطلبات العملاء؛</li>
+<li>القرارات غير الموثقة؛</li>
+<li>إجراءات النشر؛</li>
+<li>الديون التقنية؛</li>
+<li>العلاقات مع أصحاب المصلحة.
+عندما تتركز المعرفة في شخص واحد, تصبح تكلفة تغيير الموظفين أكثر ارتفاعًا.
+قلل المخاطر من خلال:</li>
+<li>التوثيق؛</li>
+<li>مراجعة الكود؛</li>
+<li>الملكية المشتركة؛</li>
+<li>العمل الثنائي؛</li>
+<li>سجلات البنية؛</li>
+<li>كتيبات التشغيل؛</li>
+<li>تخطيط التعاقب الوظيفي.
+تعمل هذه الممارسات على تحسين المرونة حتى في حالة عدم مغادرة أي شخص.</li>
+</ul>
+<h2>مقارنة التكلفة لكل متقدم, ومقابلة, وعرض عمل, وتعيين</h2>
+<p>قد يخفي رقم واحد للتكلفة لكل تعيين اختلافات مهمة.
+تتبع:</p>
+<h3>التكلفة لكل متقدم</h3>
 <blockquote>
-<p>$2,400 + $13,500 + $38,000 + $15,000 + $29,000 + $12,000 = $109,900</p>
+<p>تكلفة القناة ÷ عدد الطلبات المستلمة
+يُظهر هذا الحجم, وليس الجودة.</p>
 </blockquote>
-<p>This does not include the employee’s ongoing base compensation after reaching normal productivity.</p>
-<p>The example illustrates why optimizing only a $1,200 listing expense is unlikely to produce the largest savings.</p>
-<h2>Separate one-time and recurring costs</h2>
-<p>One-time costs may include:</p>
-<ul>
-<li>sourcing;</li>
-<li>interviews;</li>
-<li>background checks;</li>
-<li>relocation;</li>
-<li>signing bonus;</li>
-<li>laptop;</li>
-<li>initial onboarding.</li>
-</ul>
-<p>Recurring costs may include:</p>
-<ul>
-<li>salary;</li>
-<li>benefits;</li>
-<li>software;</li>
-<li>equipment replacement;</li>
-<li>training;</li>
-<li>management;</li>
-<li>retention programs.</li>
-</ul>
-<p>This distinction helps finance teams model:</p>
-<ul>
-<li>first-year cost;</li>
-<li>annual ongoing cost;</li>
-<li>replacement cost;</li>
-<li>headcount growth.</li>
-</ul>
-<h2>Calculate first-year employment cost</h2>
-<p>A simplified first-year model is:</p>
+<h3>التكلفة لكل متقدم مؤهل</h3>
 <blockquote>
-<p>First-year employment cost = base salary + payroll and benefits + bonus and equity expense + equipment and tools + hiring cost + onboarding and ramp-up cost</p>
+<p>تكلفة القناة ÷ عدد المتقدمين المؤهلين
+هذا أكثر دلالة من التكلفة الإجمالية للطلبات.</p>
 </blockquote>
-<p>For example:</p>
-<ul>
-<li>Base salary: $150,000</li>
-<li>Payroll and benefits: $35,000</li>
-<li>Bonus and equity expense: $25,000</li>
-<li>Equipment and software: $6,000</li>
-<li>Hiring cost: $20,000</li>
-<li>Onboarding and ramp-up: $25,000</li>
-</ul>
-<p>Estimated first-year cost:</p>
+<h3>التكلفة لكل مقابلة</h3>
 <blockquote>
-<p>$150,000 + $35,000 + $25,000 + $6,000 + $20,000 + $25,000 = $261,000</p>
+<p>تكلفة القناة والغربلة ÷ عدد المرشحين الذين تمت مقابلتهم</p>
 </blockquote>
-<p>The exact values depend on the company, but the structure is useful for workforce planning.</p>
-<h2>Do not confuse cost reduction with hiring quality</h2>
-<p>Some cost-cutting strategies create larger downstream expenses.</p>
-<p>Examples include:</p>
+<h3>التكلفة لكل عرض عمل</h3>
+<blockquote>
+<p>إجمالي تكلفة التوظيف ÷ عدد عروض العمل المقدمة</p>
+</blockquote>
+<h3>التكلفة لكل توظيف مقبول</h3>
+<blockquote>
+<p>إجمالي تكلفة التوظيف ÷ عدد العروض المقبولة</p>
+</blockquote>
+<h3>التكلفة لكل توظيف ناجح ومستمر</h3>
+<blockquote>
+<p>إجمالي تكلفة التوظيف ÷ عدد الموظفين الذين يستوفون معايير الأداء والاستبقاء المحددة
+يستغرق تقييم المقياس الأخير وقتًا أطول, لكنه يوفر النظرة الأكثر فائدة لجودة القناة.</p>
+</blockquote>
+<h2>قم بقياس جودة مصادر التوظيف, وليس الحجم فقط</h2>
+<p>قارن قنوات البحث عن المرشحين باستخدام:</p>
 <ul>
-<li>publishing vague roles on low-fit channels;</li>
-<li>eliminating onboarding;</li>
-<li>using unpaid assessments that drive candidates away;</li>
-<li>offering below-market compensation;</li>
-<li>overloading interviewers;</li>
-<li>skipping security setup;</li>
-<li>hiring quickly without a role scorecard;</li>
-<li>reducing mentoring;</li>
-<li>understaffing the team.</li>
+<li>معدل المتقدمين المؤهلين؛</li>
+<li>معدل النجاح في الفرز؛</li>
+<li>معدل النجاح في التقييم؛</li>
+<li>معدل النجاح في المقابلة؛</li>
+<li>معدل تقديم العروض؛</li>
+<li>معدل القبول؛</li>
+<li>المدة المستغرقة للتعيين؛</li>
+<li>معدل الاحتفاظ بالموظفين؛</li>
+<li>رضا مدير التوظيف.
+قد تكون القناة التي تنتج 50 متقدمًا وتوظيفًا واحدًا قويًا أكثر قيمة من تلك التي تنتج 1,000 طلب توظيف دون أي توظيفات.</li>
 </ul>
-<p>The objective is not to minimize the amount spent.</p>
-<p>It is to achieve the best durable outcome for the investment.</p>
-<h2>Spend more where it reduces larger costs</h2>
-<p>Higher spending may be justified when it reduces:</p>
+<h2>حساب كفاءة الفرز</h2>
+<p>أحد المقاييس المفيدة هو:</p>
+<blockquote>
+<p>معدل المتقدمين المؤهلين = الطلبات المؤهلة ÷ إجمالي الطلبات
+إذا أنتجت القناة «أ»:</p>
+</blockquote>
 <ul>
-<li>vacancy time;</li>
-<li>irrelevant applications;</li>
-<li>interviewer workload;</li>
-<li>candidate withdrawal;</li>
-<li>failed-hire risk;</li>
-<li>onboarding time;</li>
-<li>turnover.</li>
+<li>1,000 طلب توظيف؛</li>
+<li>20 مرشحًا مؤهلًا؛
+فإن معدل المؤهلين فيها هو:</li>
 </ul>
-<p>Examples include:</p>
+<blockquote>
+<p>20 ÷ 1,000 = 2%
+إذا أنتجت القناة ب:</p>
+</blockquote>
 <ul>
-<li>a more focused job marketplace;</li>
-<li>structured assessment design;</li>
-<li>interviewer training;</li>
-<li>better onboarding documentation;</li>
-<li>competitive compensation;</li>
-<li>reliable equipment;</li>
-<li>dedicated scheduling support;</li>
-<li>clear role definition.</li>
+<li>100 طلب توظيف؛</li>
+<li>15 مرشحًا مؤهلًا؛
+فإن معدل المرشحين المؤهلين فيها هو:</li>
 </ul>
-<p>A dollar spent preventing a much larger loss is not waste.</p>
-<h2>Improve role definition before sourcing</h2>
-<p>A poorly defined role creates cost throughout the process.</p>
-<p>It may cause:</p>
+<blockquote>
+<p>15 ÷ 100 = 15%
+حتى لو كانت تكلفة القناة ب أعلى, فقد تتطلب وقتًا أقل بكثير في عملية الفرز.</p>
+</blockquote>
+<h2>حساب التكلفة لكل مرشح مؤهل</h2>
+<p>لنفترض:</p>
+<h3>القناة أ</h3>
 <ul>
-<li>irrelevant applications;</li>
-<li>inconsistent screening;</li>
-<li>contradictory interviews;</li>
-<li>level confusion;</li>
-<li>compensation delays;</li>
-<li>candidate rejection;</li>
-<li>early turnover.</li>
+<li>تكلفة الإعلان: 500 دولار</li>
+<li>تكلفة عملية الفرز: 4,000 دولار</li>
+<li>المرشحون المؤهلون: 20</li>
 </ul>
-<p>Before publishing the role, define:</p>
+<blockquote>
+<p>(500 دولار + 4,000 دولار) ÷ 20 = 225 دولارًا لكل مرشح مؤهل</p>
+</blockquote>
+<h3>القناة ب</h3>
 <ul>
-<li>mission;</li>
-<li>outcomes;</li>
-<li>responsibilities;</li>
-<li>level;</li>
-<li>required skills;</li>
-<li>learnable skills;</li>
-<li>compensation;</li>
-<li>working arrangement;</li>
-<li>interview process;</li>
-<li>first-year expectations.</li>
+<li>تكلفة الإعلان: 1,000 دولار</li>
+<li>تكلفة عملية الفرز: 800 دولار</li>
+<li>المرشحون المؤهلون: 15</li>
 </ul>
-<p>Clear roles produce more accurate self-selection and evaluation.</p>
-<h2>Publish compensation transparently</h2>
-<p>Salary transparency can reduce:</p>
+<blockquote>
+<p>(1,000 دولار + 800 دولار) ÷ 15 = 120 دولارًا لكل مرشح مؤهل
+الإعلان الأعلى سعرًا ينتج عنه تكلفة فعالة أقل.
+ولهذا السبب لا ينبغي تقييم رسوم الإعلان عن الوظائف بمعزل عن العوامل الأخرى.</p>
+</blockquote>
+<h2>حساب كفاءة التحويل من المقابلة إلى التعيين</h2>
+<p>هناك مقياس آخر مفيد وهو:</p>
+<blockquote>
+<p>نسبة التحويل من المقابلة إلى التعيين = عدد المرشحين الذين أكملوا مقابلات جوهرية ÷ عدد الموظفين المعينين
+إذا أكمل 20 مرشحًا دورة كاملة من المراحل للتعيين في وظيفة واحدة, فقد تعاني العملية من:</p>
+</blockquote>
 <ul>
-<li>unsuitable applications;</li>
-<li>late-stage withdrawal;</li>
-<li>negotiation surprises;</li>
-<li>wasted interviews;</li>
-<li>inequitable offers.</li>
+<li>ضعف عملية الفرز؛</li>
+<li>معايير غير واضحة؛</li>
+<li>مقابلات غير متسقة؛</li>
+<li>قائمة مرشحين واسعة بشكل مفرط؛</li>
+<li>مشكلة في الأجر؛</li>
+<li>وظيفة غير واقعية.
+انخفاض النسبة لا يعني تلقائيًا أنها أفضل. بل يجب أن تعكس تأهيلًا مبكرًا قويًا وتقييمًا عادلًا.</li>
 </ul>
-<p>State:</p>
+<h2>مقارنة التوظيف المباشر بالتوظيف عبر الوكالات</h2>
+<p>قد تتضمن المقارنة البسيطة ما يلي:
+| فئة التكلفة         | السوق المباشر |                              الوكالة |
+| --------------------- | -----------------: | --------------------------------- -: |
+| الإعلان أو الوصول     |          رسوم ثابتة |                      غالبًا ما تكون مشمولة |
+| البحث الداخلي     |           معتدلة |                               أقل |
+| الفرز             |           داخلي |                مشترك أو بقيادة الوكالة |
+| رسوم التوظيف         |        لا توجد أو منخفضة |             قد تكون كبيرة |
+| ملكية المرشح   |             مباشرة |                قد تكون بوساطة |
+| السرعة                 | تعتمد على القناة | قد تكون أسرع للوظائف المتخصصة |
+| التحكم               |               مرتفع |                              مشترك |
+| ضمان الاستبدال | يعتمد على المنصة |                  يُدرج أحيانًا |
+قد تستحق الوكالة الرسوم التي تتقاضاها عندما توفر وقتًا كبيرًا أو تصل إلى مرشحين لا تستطيع الشركة الوصول إليهم مباشرةً.
+قد يكون التوظيف المباشر أكثر كفاءة عندما تمتلك الشركة عملية توظيف قوية وتستطيع الوصول إلى جمهور تقني مناسب.
+قم بتقييم الجوانب الاقتصادية الكاملة, وليس الأيديولوجية.</p>
+<h2>قارن بين الموظفين الدائمين والمتعاقدين</h2>
+<p>قد يوفر المتعاقدون:</p>
 <ul>
-<li>currency;</li>
-<li>base range;</li>
-<li>geographic rules;</li>
-<li>bonus;</li>
-<li>equity;</li>
-<li>major benefits;</li>
-<li>employment type.</li>
+<li>توفر أسرع؛</li>
+<li>خبرة متخصصة؛</li>
+<li>مدة عمل مرنة؛</li>
+<li>التزام أقل على المدى الطويل.
+وقد ينطوي ذلك أيضًا على:</li>
+<li>أجر ساعي أعلى؛</li>
+<li>هوامش ربح الوكالة؛</li>
+<li>استمرارية أقل؛</li>
+<li>مخاطر نقل المعرفة؛</li>
+<li>متطلبات التصنيف والامتثال؛</li>
+<li>تحكم أقل في التوافر.
+قد يكون المتعاقد أقل تكلفة لمشروع محدد مدته ثلاثة أشهر, وأكثر تكلفة لوظيفة أساسية مستمرة.
+احسب المدة المتوقعة والتكلفة الإجمالية.</li>
 </ul>
-<p>A transparent range helps candidates make an informed decision before both sides invest substantial time.</p>
-<h2>Use structured screening</h2>
-<p>Create a short screening rubric based on the role.</p>
-<p>Evaluate:</p>
+<h2>قارن بين التنقل الداخلي والتوظيف الخارجي</h2>
+<p>قد يؤدي ترقية أو نقل موظف حالي إلى تقليل:</p>
 <ul>
-<li>relevant experience;</li>
-<li>evidence of impact;</li>
-<li>level-appropriate ownership;</li>
-<li>core technical ability;</li>
-<li>transferable experience;</li>
-<li>practical constraints.</li>
+<li>البحث عن المرشحين؛</li>
+<li>إجراء المقابلات؛</li>
+<li>التكيّف الثقافي؛</li>
+<li>فترة التأهيل في سياق الشركة؛</li>
+<li>عدم اليقين.
+ومع ذلك, فإن التنقل الداخلي يخلق شاغرًا آخر ما لم يتم إلغاء العمل السابق أو إعادة توزيعه.
+يجب أن تشمل تكلفة التوظيف الداخلي ما يلي:</li>
+<li>شغل الشاغر؛</li>
+<li>التدريب على الدور الجديد؛</li>
+<li>فترة الانتقال؛</li>
+<li>تعديل الأجر؛</li>
+<li>الدعم الإداري.
+لا يزال التنقل الداخلي أحد أكثر الطرق كفاءة لملء منصب ما والاحتفاظ بالموظفين.</li>
 </ul>
-<p>Avoid using prestige or exact keyword matches as substitutes for capability.</p>
-<p>Structured screening can reduce both labor and bias.</p>
-<h2>Use a realistic technical evaluation</h2>
-<p>A job-relevant assessment can reduce failed-hire risk when it measures the actual work.</p>
-<p>Possible formats include:</p>
+<h2>قارن بين قرارات «البناء» و«الشراء» و«التأجيل»</h2>
+<p>قبل التوظيف, اسأل عما إذا كان ينبغي حل المهمة من خلال:</p>
 <ul>
-<li>code review;</li>
-<li>debugging;</li>
-<li>API design;</li>
-<li>system design;</li>
-<li>project walkthrough;</li>
-<li>pair programming;</li>
-<li>data modeling;</li>
-<li>testing strategy;</li>
-<li>incident analysis.</li>
+<li>موظف دائم؛</li>
+<li>متعاقد؛</li>
+<li>شركة استشارية؛</li>
+<li>خدمة مُدارة؛</li>
+<li>برمجيات؛</li>
+<li>الأتمتة؛</li>
+<li>إعادة تحديد نطاق العمل؛</li>
+<li>التأجيل؛</li>
+<li>إعادة التعيين الداخلي.
+توظيف مطور ليس دائمًا الحل الصحيح.
+على سبيل المثال, قد تخطط شركة ما لتوظيف مهندس لصيانة نظام داخلي مخصص, في حين أن منصة مُدارة قد تكون أقل تكلفة وتقلل من المخاطر التشغيلية.
+يجب أن يكون المنصب موجودًا لأن العمل يخلق قيمة دائمة.</li>
 </ul>
-<p>The assessment should be:</p>
+<h2>إنشاء نموذج تكلفة على مستوى المنصب</h2>
+<p>قبل فتح وظيفة شاغرة, قم بتقدير:</p>
+<h3>التوظيف المباشر</h3>
 <ul>
-<li>appropriately scoped;</li>
-<li>time-bounded;</li>
-<li>accessible;</li>
-<li>explained in advance;</li>
-<li>scored with a rubric;</li>
-<li>respectful of candidate time;</li>
-<li>free from unnecessary surveillance.</li>
+<li>الإعلان عن الوظيفة والبحث عن المرشحين؛</li>
+<li>عمل مسؤول التوظيف؛</li>
+<li>رسوم الوكالات؛</li>
+<li>الأدوات؛</li>
+<li>التقييم؛</li>
+<li>التحقق من الخلفية.</li>
 </ul>
-<p>More assessment time does not automatically produce more signal.</p>
-<h2>Reduce unnecessary interviews</h2>
-<p>Each interview should evaluate a defined competency.</p>
-<p>Remove or combine rounds that:</p>
+<h3>العمالة الداخلية</h3>
 <ul>
-<li>repeat earlier questions;</li>
-<li>exist only because another person wants to meet the candidate;</li>
-<li>evaluate vague “fit”;</li>
-<li>introduce no new evidence;</li>
-<li>delay the decision.</li>
+<li>وقت مدير التوظيف؛</li>
+<li>وقت المقابلات الهندسية؛</li>
+<li>جدولة المواعيد؛</li>
+<li>استخلاص المعلومات؛</li>
+<li>إعداد العرض.</li>
 </ul>
-<p>A shorter, structured process can be both more rigorous and less expensive.</p>
-<h2>Reserve interview blocks</h2>
-<p>Scheduling delay increases vacancy cost and candidate withdrawal.</p>
-<p>Reserve recurring interview time for:</p>
+<h3>تأثير الشاغر</h3>
 <ul>
-<li>technical evaluations;</li>
-<li>manager screens;</li>
-<li>debriefs.</li>
+<li>تأخير العمل؛</li>
+<li>تغطية المتعاقدين؛</li>
+<li>العمل الإضافي؛</li>
+<li>الإيرادات المفقودة؛</li>
+<li>مخاطر الموثوقية.</li>
 </ul>
-<p>Grouping interviews also reduces context switching for the team.</p>
-<h2>Require same-day feedback</h2>
-<p>Delayed feedback creates:</p>
+<h3>ترتيبات التوظيف</h3>
 <ul>
-<li>longer processes;</li>
-<li>incomplete notes;</li>
-<li>scheduling uncertainty;</li>
-<li>repeated discussion.</li>
+<li>مكافأة التوقيع؛</li>
+<li>الانتقال؛</li>
+<li>المعدات؛</li>
+<li>البرمجيات؛</li>
+<li>الإدارة.</li>
 </ul>
-<p>Require interviewers to submit evidence and scores independently on the same day.</p>
-<p>This supports faster, fairer debriefs.</p>
-<h2>Prepare the offer before the final interview</h2>
-<p>Know:</p>
+<h3>التهيئة والتأهيل</h3>
 <ul>
-<li>salary band;</li>
-<li>equity band;</li>
-<li>signing-bonus authority;</li>
-<li>location classification;</li>
-<li>approval path;</li>
-<li>start-date flexibility.</li>
+<li>التدريب؛</li>
+<li>التوجيه؛</li>
+<li>انخفاض الإنتاجية في البداية؛</li>
+<li>دعم المدير.</li>
 </ul>
-<p>Once the team decides to hire, unnecessary offer delay can be costly.</p>
-<h2>Improve onboarding before the employee starts</h2>
-<p>Prepare:</p>
+<h3>المخاطر</h3>
 <ul>
-<li>equipment;</li>
-<li>accounts;</li>
-<li>documentation;</li>
-<li>first-week schedule;</li>
-<li>mentor;</li>
-<li>initial project;</li>
-<li>security access;</li>
-<li>manager expectations.</li>
+<li>رفض العرض؛</li>
+<li>ترك الوظيفة مبكرًا؛</li>
+<li>عدم ملاءمة الوظيفة؛</li>
+<li>تكلفة الاستبدال.
+لا يلزم أن ينتج النموذج رقمًا مثاليًّا. بل يجب أن يؤدي إلى اتخاذ قرارات أفضل.</li>
 </ul>
-<p>Good onboarding reduces the productivity gap and the risk of early departure.</p>
-<h2>Give the new hire a scoped first project</h2>
-<p>An effective first project should be:</p>
+<h2>مثال توضيحي لتكاليف التوظيف</h2>
+<p>لنفترض وظيفة مطور برمجيات رفيع المستوى بالتكاليف التقديرية التالية:</p>
+<h3>التوظيف المباشر</h3>
 <ul>
-<li>meaningful;</li>
-<li>achievable;</li>
-<li>connected to the product;</li>
-<li>supported by documentation;</li>
-<li>reviewable;</li>
-<li>safe to change;</li>
-<li>capable of producing feedback.</li>
+<li>الإعلان عن الوظيفة: 1,200 دولار</li>
+<li>أدوات التوظيف والتقييم: 800 دولار</li>
+<li>التحقق من الخلفية والإجراءات الإدارية: 400 دولار
+المجموع الفرعي:</li>
 </ul>
-<p>Avoid giving a new employee either meaningless cleanup work or a critical system with no support.</p>
-<p>A strong first project accelerates learning and confidence.</p>
-<h2>Define 30-, 60-, and 90-day expectations</h2>
-<p>Document what success looks like.</p>
-<h3>First 30 days</h3>
+<blockquote>
+<p>2,400 دولار</p>
+</blockquote>
+<h3>العمالة الداخلية</h3>
 <ul>
-<li>environment setup;</li>
-<li>product and architecture understanding;</li>
-<li>relationships;</li>
-<li>small contributions;</li>
-<li>initial feedback.</li>
+<li>فحص الطلبات: 2,000 دولار</li>
+<li>وقت مسؤول التوظيف والمنسق: 2,500 دولار</li>
+<li>المقابلات الهندسية وجلسات التقييم: 6,000 دولار</li>
+<li>وقت مدير التوظيف: 3,000 دولار
+المجموع الفرعي:</li>
 </ul>
-<h3>First 60 days</h3>
+<blockquote>
+<p>13,500 دولار</p>
+</blockquote>
+<h3>تأثير الشاغر</h3>
 <ul>
-<li>independent delivery on scoped work;</li>
-<li>participation in reviews;</li>
-<li>operational understanding;</li>
-<li>increasing ownership.</li>
+<li>تغطية عبء العمل المؤقت: 18,000 دولار</li>
+<li>التأخير التقديري في المشروع: 20,000 دولار
+المجموع الفرعي:</li>
 </ul>
-<h3>First 90 days</h3>
+<blockquote>
+<p>38,000 دولار</p>
+</blockquote>
+<h3>تجهيزات التعيين</h3>
 <ul>
-<li>reliable contribution;</li>
-<li>ownership of a meaningful area;</li>
-<li>clear growth plan;</li>
-<li>mutual confirmation of role fit.</li>
+<li>المعدات والبرامج: 4,000 دولار</li>
+<li>مكافأة التوقيع: 10,000 دولار</li>
+<li>التجهيزات الإدارية: 1,000 دولار
+المجموع الفرعي:</li>
 </ul>
-<p>Clear expectations reduce uncertainty and help managers intervene early when support is needed.</p>
-<h2>Invest in retention</h2>
-<p>Retention reduces repeated hiring cost.</p>
-<p>Useful investments may include:</p>
+<blockquote>
+<p>15,000 دولار</p>
+</blockquote>
+<h2># التهيئة والتحضير</h2>
 <ul>
-<li>fair compensation;</li>
-<li>effective managers;</li>
-<li>sustainable workload;</li>
-<li>clear progression;</li>
-<li>meaningful work;</li>
-<li>flexibility;</li>
-<li>psychological safety;</li>
-<li>learning;</li>
-<li>recognition;</li>
-<li>reliable tools;</li>
-<li>inclusive practices.</li>
+<li>تكاليف التهيئة: 5,000 دولار</li>
+<li>الفجوة التقديرية في الإنتاجية: 24,000 دولار
+المجموع الفرعي:</li>
 </ul>
-<p>Retention should not mean preventing people from leaving at all costs.</p>
-<p>It means creating conditions where strong employees can succeed and choose to stay.</p>
-<h2>Conduct stay interviews</h2>
-<p>Ask current developers:</p>
+<blockquote>
+<p>29,000 دولار</p>
+</blockquote>
+<h3>تكلفة الاستبدال المعدلة حسب المخاطر</h3>
 <ul>
-<li>What makes the role worth staying for?</li>
-<li>What creates frustration?</li>
-<li>Do you have room to grow?</li>
-<li>Is workload sustainable?</li>
-<li>Are expectations clear?</li>
-<li>What might cause you to leave?</li>
-<li>Which tools or processes slow you down?</li>
-<li>Do you feel supported by your manager?</li>
+<li>المخاطر المتوقعة التقديرية: 12,000 دولار</li>
 </ul>
-<p>Act on recurring patterns before they become resignations.</p>
-<h2>Monitor compensation equity</h2>
-<p>Replacing underpaid employees is often more expensive than correcting compensation.</p>
-<p>Review:</p>
+<h2># الإجمالي التقديري</h2>
+<blockquote>
+<p>2,400 دولار + 13,500 دولار + 38,000 دولار + 15,000 دولار + 29,000 دولار + 12,000 دولار = 109,900 دولار
+ولا يشمل هذا الأجر الأساسي المستمر للموظف بعد بلوغه مستوى الإنتاجية العادي.
+يوضح المثال لماذا من غير المرجح أن يؤدي تحسين نفقات الإعلان البالغة 1,200 دولار فقط إلى تحقيق أكبر قدر من الوفورات.</p>
+</blockquote>
+<h2>الفصل بين التكاليف غير المتكررة والتكاليف المتكررة</h2>
+<p>قد تشمل التكاليف غير المتكررة ما يلي:</p>
 <ul>
-<li>salary bands;</li>
-<li>compression;</li>
-<li>geographic rules;</li>
-<li>promotion increases;</li>
-<li>negotiation differences;</li>
-<li>market changes;</li>
-<li>internal equity.</li>
+<li>البحث عن المرشحين؛</li>
+<li>المقابلات؛</li>
+<li>التحقق من الخلفية؛</li>
+<li>الانتقال؛</li>
+<li>مكافأة التوقيع؛</li>
+<li>جهاز الكمبيوتر المحمول؛</li>
+<li>التدريب التمهيدي الأولي.
+قد تشمل التكاليف المتكررة ما يلي:</li>
+<li>الراتب؛</li>
+<li>المزايا؛</li>
+<li>البرمجيات؛</li>
+<li>استبدال المعدات؛</li>
+<li>التدريب؛</li>
+<li>الإدارة؛</li>
+<li>برامج الاحتفاظ بالموظفين.
+يساعد هذا التمييز فرق الشؤون المالية على وضع نماذج لـ:</li>
+<li>تكلفة السنة الأولى؛</li>
+<li>التكلفة السنوية المستمرة؛</li>
+<li>تكلفة الاستبدال؛</li>
+<li>نمو عدد الموظفين.</li>
 </ul>
-<p>Do not rely only on counteroffers after someone decides to leave.</p>
-<h2>Track quality of hire carefully</h2>
-<p>Quality of hire should not be reduced to a single subjective rating.</p>
-<p>Use a combination of:</p>
+<h2>حساب تكلفة التوظيف في السنة الأولى</h2>
+<p>نموذج مبسط للسنة الأولى هو:</p>
+<blockquote>
+<p>تكلفة التوظيف في السنة الأولى = الراتب الأساسي + الرواتب والمزايا + المصروفات المتعلقة بالمكافآت والأسهم + المعدات والأدوات + تكلفة التوظيف + تكلفة الإعداد والتأهيل
+على سبيل المثال:</p>
+</blockquote>
 <ul>
-<li>onboarding progress;</li>
-<li>performance against role outcomes;</li>
-<li>manager feedback;</li>
-<li>team feedback;</li>
-<li>retention;</li>
-<li>production impact;</li>
-<li>learning;</li>
-<li>candidate expectations;</li>
-<li>role fit.</li>
+<li>الراتب الأساسي: 150,000 دولار</li>
+<li>الرواتب والمزايا: 35,000 دولار</li>
+<li>المصروفات المتعلقة بالمكافآت والأسهم: 25,000 دولار</li>
+<li>المعدات والبرمجيات: 6,000 دولار</li>
+<li>تكلفة التوظيف: 20,000 دولار</li>
+<li>تكلفة الإعداد والتأهيل: 25,000 دولار
+التكلفة التقديرية للسنة الأولى:</li>
 </ul>
-<p>Review the information over an appropriate period.</p>
-<p>A developer should not be judged as a failed hire because the organization provided no clear role, access, or support.</p>
-<h2>Review the process after every hire</h2>
-<p>Conduct a short retrospective:</p>
+<blockquote>
+<p>150,000 دولار + 35,000 دولار + 25,000 دولار + 6,000 دولار + 20,000 دولار + 25,000 دولار = 261,000 دولار
+تعتمد القيم الدقيقة على الشركة, لكن هذه البنية مفيدة لتخطيط القوى العاملة.</p>
+</blockquote>
+<h2>لا تخلط بين خفض التكاليف وجودة التوظيف</h2>
+<p>تؤدي بعض استراتيجيات خفض التكاليف إلى نفقات لاحقة أكبر.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>Which source produced the candidate?</li>
-<li>How many applicants were reviewed?</li>
-<li>Where did time accumulate?</li>
-<li>Which interviews produced useful evidence?</li>
-<li>Which stages repeated work?</li>
-<li>Did the compensation range fit the market?</li>
-<li>Why did candidates withdraw?</li>
-<li>Was onboarding ready?</li>
-<li>How long did ramp-up take?</li>
-<li>What should change next time?</li>
+<li>نشر إعلانات وظائف غامضة على قنوات غير ملائمة؛</li>
+<li>إلغاء عملية التهيئة؛</li>
+<li>استخدام تقييمات غير مدفوعة الأجر تؤدي إلى إبعاد المرشحين؛</li>
+<li>تقديم تعويضات أقل من سعر السوق؛</li>
+<li>إثقال كاهل القائمين على المقابلات؛</li>
+<li>تخطي إجراءات الأمان؛</li>
+<li>التوظيف بسرعة دون استخدام بطاقة تقييم الوظيفة؛</li>
+<li>تقليل التوجيه والإرشاد؛</li>
+<li>عدم توفير العدد الكافي من الموظفين للفريق.
+الهدف ليس تقليل المبلغ المنفق إلى أدنى حد.
+بل هو تحقيق أفضل نتيجة مستدامة مقابل الاستثمار.</li>
 </ul>
-<p>Small improvements compound across future hires.</p>
-<h2>Build a hiring-cost dashboard</h2>
-<p>A useful dashboard may include:</p>
+<h2>أنفق أكثر حيثما يؤدي ذلك إلى خفض التكاليف الأكبر</h2>
+<p>قد يكون الإنفاق الأعلى مبررًا عندما يؤدي إلى خفض:</p>
 <ul>
-<li>open roles;</li>
-<li>days open;</li>
-<li>applications;</li>
-<li>qualified applications;</li>
-<li>screening hours;</li>
-<li>interviews;</li>
-<li>interviewer hours;</li>
-<li>cost by sourcing channel;</li>
-<li>assessments completed;</li>
-<li>offers;</li>
-<li>acceptance rate;</li>
-<li>candidate withdrawals;</li>
-<li>time-to-hire;</li>
-<li>onboarding progress;</li>
-<li>early retention.</li>
+<li>مدة شغور الوظيفة؛</li>
+<li>الطلبات غير ذات الصلة؛</li>
+<li>عبء العمل على القائمين على المقابلات؛</li>
+<li>انسحاب المرشحين؛</li>
+<li>مخاطر التوظيف الفاشل؛</li>
+<li>وقت التأهيل؛</li>
+<li>معدل دوران الموظفين.
+ومن الأمثلة على ذلك:</li>
+<li>سوق عمل أكثر تركيزًا؛</li>
+<li>تصميم تقييم منظم؛</li>
+<li>تدريب القائمين على المقابلات؛</li>
+<li>وثائق تأهيل أفضل؛</li>
+<li>تعويضات تنافسية؛</li>
+<li>معدات موثوقة؛</li>
+<li>دعم مخصص لجدولة المواعيد؛</li>
+<li>تعريف واضح للوظيفة.
+الدولار الذي يُنفق لمنع خسارة أكبر بكثير ليس إهدارًا.</li>
 </ul>
-<p>Do not collect data only because it is available.</p>
-<p>Track metrics that support decisions.</p>
-<h2>Questions finance and engineering should answer together</h2>
-<p>Hiring cost should not be owned only by recruiting.</p>
-<p>Finance, engineering, recruiting, and people operations should align on:</p>
+<h2>تحسين تعريف الوظيفة قبل البحث عن المرشحين</h2>
+<p>الوظيفة غير المحددة جيدًا تتسبب في تكاليف طوال العملية.
+وقد يتسبب ذلك في:</p>
 <ul>
-<li>total headcount budget;</li>
-<li>salary and benefit assumptions;</li>
-<li>vacancy cost;</li>
-<li>contractor alternatives;</li>
-<li>hiring urgency;</li>
-<li>interviewer capacity;</li>
-<li>onboarding expense;</li>
-<li>expected ramp-up;</li>
-<li>retention risk;</li>
-<li>business impact.</li>
+<li>طلبات توظيف غير ذات صلة؛</li>
+<li>عملية فرز غير متسقة؛</li>
+<li>مقابلات متناقضة؛</li>
+<li>ارتباك بشأن المستوى الوظيفي؛</li>
+<li>تأخيرات في دفع المكافآت؛</li>
+<li>رفض المرشحين؛</li>
+<li>معدل دوران مبكر للموظفين.
+قبل نشر الوظيفة, حدد ما يلي:</li>
+<li>المهمة؛</li>
+<li>النتائج؛</li>
+<li>المسؤوليات؛</li>
+<li>المستوى الوظيفي؛</li>
+<li>المهارات المطلوبة؛</li>
+<li>المهارات القابلة للتعلم؛</li>
+<li>الأجر؛</li>
+<li>ترتيبات العمل؛</li>
+<li>عملية المقابلة؛</li>
+<li>التوقعات للسنة الأولى.
+تؤدي الأدوار الواضحة إلى اختيار ذاتي وتقييم أكثر دقة.</li>
 </ul>
-<p>This creates a more realistic hiring plan than budgeting for salary and job advertising alone.</p>
-<h2>Questions to ask before approving a developer role</h2>
+<h2>نشر الأجر بشفافية</h2>
+<p>يمكن أن تقلل شفافية الأجر مما يلي:</p>
 <ul>
-<li>What outcome requires this hire?</li>
-<li>What happens if the role remains open for three months?</li>
-<li>Can the work be delayed, automated, contracted, or reassigned?</li>
-<li>Which level is genuinely required?</li>
-<li>Is the compensation competitive?</li>
-<li>Which sourcing channels are most likely to reach the right people?</li>
-<li>How much interview capacity is available?</li>
-<li>Is the process ready?</li>
-<li>Is onboarding ready?</li>
-<li>Which metric will show that the hire was successful?</li>
+<li>الطلبات غير المناسبة؛</li>
+<li>الانسحاب في المراحل المتأخرة؛</li>
+<li>المفاجآت في المفاوضات؛</li>
+<li>المقابلات المهدرة؛</li>
+<li>العروض غير العادلة.
+اذكر:</li>
+<li>العملة؛</li>
+<li>النطاق الأساسي؛</li>
+<li>القواعد الجغرافية؛</li>
+<li>المكافآت؛</li>
+<li>الأسهم؛</li>
+<li>المزايا الرئيسية؛</li>
+<li>نوع التوظيف.
+يساعد النطاق الشفاف المرشحين على اتخاذ قرار مستنير قبل أن يستثمر الطرفان وقتًا كبيرًا.</li>
 </ul>
-<p>These questions reduce unnecessary or poorly prepared hiring.</p>
-<h2>A hiring-cost worksheet</h2>
-<p>Use the following template for each role.</p>
-<h3>Role information</h3>
+<h2>استخدم عملية فرز منظمة</h2>
+<p>أنشئ معايير فرز موجزة بناءً على الوظيفة.
+قم بتقييم:</p>
 <ul>
-<li>Role:</li>
-<li>Level:</li>
-<li>Location:</li>
-<li>Employment type:</li>
-<li>Target start date:</li>
-<li>Salary range:</li>
-<li>Hiring owner:</li>
+<li>الخبرة ذات الصلة؛</li>
+<li>أدلة التأثير؛</li>
+<li>مستوى المسؤولية المناسب للوظيفة؛</li>
+<li>القدرات التقنية الأساسية؛</li>
+<li>الخبرة القابلة للتطبيق في مجالات أخرى؛</li>
+<li>القيود العملية.
+تجنب استخدام المكانة أو مطابقة الكلمات المفتاحية بدقة كبديل عن الكفاءة.
+يمكن أن يقلل الفرز المنظم من الجهد المبذول والتحيز.</li>
 </ul>
-<h3>Direct recruiting costs</h3>
+<h2>استخدم تقييمًا تقنيًّا واقعيًّا</h2>
+<p>يمكن للتقييم ذي الصلة بالوظيفة أن يقلل من مخاطر التوظيف الفاشل عندما يقيس العمل الفعلي.
+تشمل الصيغ الممكنة ما يلي:</p>
 <ul>
-<li>Job listings:</li>
-<li>Sourcing tools:</li>
-<li>Agency fees:</li>
-<li>Assessment tools:</li>
-<li>Background checks:</li>
-<li>Referral bonus:</li>
-<li>Candidate travel:</li>
-<li>Other:</li>
+<li>مراجعة الكود؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>تصميم النظام؛</li>
+<li>عرض تفصيلي للمشروع؛</li>
+<li>البرمجة الثنائية؛</li>
+<li>نمذجة البيانات؛</li>
+<li>استراتيجية الاختبار؛</li>
+<li>تحليل الحوادث.
+يجب أن يكون التقييم:</li>
+<li>محدد النطاق بشكل مناسب؛</li>
+<li>محدد المدة؛</li>
+<li>سهل الوصول إليه؛</li>
+<li>موضح مسبقًا؛</li>
+<li>مُقيَّم وفقًا لمعايير محددة؛</li>
+<li>يحترم وقت المرشح؛</li>
+<li>خالٍ من المراقبة غير الضرورية.
+زيادة وقت التقييم لا تؤدي تلقائيًا إلى الحصول على معلومات أكثر دقة.</li>
 </ul>
-<h3>Internal labor</h3>
+<h2>تقليل المقابلات غير الضرورية</h2>
+<p>يجب أن تقيّم كل مقابلة كفاءة محددة.
+قم بإلغاء أو دمج الجولات التي:</p>
 <ul>
-<li>Recruiting hours:</li>
-<li>Hiring-manager hours:</li>
-<li>Engineering interview hours:</li>
-<li>Coordination hours:</li>
-<li>Debrief hours:</li>
-<li>Effective blended hourly rate:</li>
+<li>تكرر أسئلة سابقة؛</li>
+<li>موجودة فقط لأن شخصًا آخر يرغب في مقابلة المرشح؛</li>
+<li>تقيّم «التوافق» الغامض؛</li>
+<li>لا تقدم أي أدلة جديدة؛</li>
+<li>تؤخر اتخاذ القرار.
+يمكن أن تكون العملية الأقصر والمنظمة أكثر صرامة وأقل تكلفة في آن واحد.</li>
 </ul>
-<h3>Vacancy cost</h3>
+<h2>حجز فترات مخصصة للمقابلات</h2>
+<p>يؤدي التأخير في الجدولة إلى زيادة تكلفة الشواغر وانسحاب المرشحين.
+احجز أوقاتًا متكررة للمقابلات من أجل:</p>
 <ul>
-<li>Estimated weekly capacity gap:</li>
-<li>Contractor coverage:</li>
-<li>Delayed revenue:</li>
-<li>Delayed product work:</li>
-<li>Overtime or workload impact:</li>
-<li>Expected days open:</li>
+<li>التقييمات الفنية؛</li>
+<li>المقابلات التمهيدية مع المديرين؛</li>
+<li>جلسات تقييم الأداء.
+كما أن تجميع المقابلات يقلل من الحاجة إلى تغيير سياق العمل بالنسبة للفريق.</li>
 </ul>
-<h3>Employment setup</h3>
+<h2>اشترط تقديم التقييم في نفس اليوم</h2>
+<p>يؤدي تأخير تقديم التقييم إلى:</p>
 <ul>
-<li>Signing bonus:</li>
-<li>Relocation:</li>
-<li>Equipment:</li>
-<li>Software:</li>
-<li>Security and administration:</li>
-<li>Employer-of-record or immigration costs:</li>
+<li>إطالة مدة العمليات؛</li>
+<li>ملاحظات غير مكتملة؛</li>
+<li>عدم اليقين في الجدولة؛</li>
+<li>تكرار المناقشات.
+اشترط على القائمين بالمقابلات تقديم الأدلة والدرجات بشكل مستقل في نفس اليوم.
+وهذا يدعم إجراء جلسات تقييم أسرع وأكثر عدلاً.</li>
 </ul>
-<h3>Onboarding and ramp-up</h3>
+<h2>قم بإعداد العرض قبل المقابلة النهائية</h2>
+<p>اعرف:</p>
 <ul>
-<li>Onboarding labor:</li>
-<li>Training:</li>
-<li>Mentoring:</li>
-<li>Estimated ramp duration:</li>
-<li>Estimated productivity gap:</li>
+<li>نطاق الراتب؛</li>
+<li>نطاق الأسهم؛</li>
+<li>صلاحية منح مكافأة التوقيع؛</li>
+<li>تصنيف الموقع؛</li>
+<li>مسار الموافقة؛</li>
+<li>مرونة تاريخ البدء.
+بمجرد أن يقرر الفريق التوظيف, قد يكون التأخير غير الضروري في تقديم العرض مكلفًا.</li>
 </ul>
-<h3>Risk</h3>
+<h2>تحسين عملية الإعداد قبل بدء عمل الموظف الجديد</h2>
+<p>قم بإعداد:</p>
 <ul>
-<li>Probability of offer rejection:</li>
-<li>Probability of early turnover:</li>
-<li>Estimated replacement cost:</li>
-<li>Risk-adjusted expected cost:</li>
+<li>المعدات؛</li>
+<li>الحسابات؛</li>
+<li>الوثائق؛</li>
+<li>جدول الأسبوع الأول؛</li>
+<li>المرشد؛</li>
+<li>المشروع الأولي؛</li>
+<li>صلاحيات الوصول الأمني؛</li>
+<li>توقعات المدير.
+تقلل عملية الإلحاق الجيدة بالفريق من فجوة الإنتاجية ومخاطر الاستقالة المبكرة.</li>
 </ul>
-<h3>Total</h3>
+<h2>كلف الموظف الجديد بمشروع أول محدد النطاق</h2>
+<p>يجب أن يكون المشروع الأول الفعال:</p>
 <ul>
-<li>Estimated direct hiring cost:</li>
-<li>Estimated internal labor:</li>
-<li>Estimated vacancy cost:</li>
-<li>Estimated setup cost:</li>
-<li>Estimated ramp-up cost:</li>
-<li>Estimated risk cost:</li>
-<li>Estimated total first-year cost:</li>
+<li>ذا مغزى؛</li>
+<li>قابلاً للتحقيق؛</li>
+<li>مرتبطاً بالمنتج؛</li>
+<li>مدعومًا بالوثائق؛</li>
+<li>قابلاً للمراجعة؛</li>
+<li>آمنًا للتغيير؛</li>
+<li>قادرًا على توليد ملاحظات.
+تجنب تكليف الموظف الجديد إما بأعمال تنظيف غير مجدية أو بنظام حرج دون دعم.
+المشروع الأول القوي يُسرّع عملية التعلم ويُعزز الثقة.</li>
 </ul>
-<h2>A practical cost-reduction checklist</h2>
-<p>Before opening the role:</p>
+<h2>حدد التوقعات لـ 30 و60 و90 يومًا</h2>
+<p>وثّق ما يعنيه النجاح.</p>
+<h3>أول 30 يومًا</h3>
 <ul>
-<li>define the role accurately;</li>
-<li>approve compensation;</li>
-<li>identify the decision-maker;</li>
-<li>prepare interview rubrics;</li>
-<li>reserve interviewer capacity;</li>
-<li>choose focused sourcing channels;</li>
-<li>prepare the offer path;</li>
-<li>prepare onboarding.</li>
+<li>إعداد البيئة؛</li>
+<li>فهم المنتج والبنية؛</li>
+<li>العلاقات؛</li>
+<li>مساهمات صغيرة؛</li>
+<li>ملاحظات أولية.</li>
 </ul>
-<p>During hiring:</p>
+<h3>الأيام الـ60 الأولى</h3>
 <ul>
-<li>review applications promptly;</li>
-<li>measure qualified-applicant rate;</li>
-<li>track screening hours;</li>
-<li>use job-relevant assessments;</li>
-<li>eliminate duplicate interviews;</li>
-<li>collect same-day feedback;</li>
-<li>communicate timelines;</li>
-<li>address delays;</li>
-<li>discuss compensation early.</li>
+<li>إنجاز العمل المحدد النطاق بشكل مستقل؛</li>
+<li>المشاركة في المراجعات؛</li>
+<li>فهم العمليات؛</li>
+<li>زيادة الشعور بالمسؤولية.</li>
 </ul>
-<p>After acceptance:</p>
+<h3>الأيام الـ90 الأولى</h3>
 <ul>
-<li>ship equipment before the start date;</li>
-<li>prepare access;</li>
-<li>assign a mentor;</li>
-<li>define the first project;</li>
-<li>document 30-, 60-, and 90-day expectations;</li>
-<li>collect onboarding feedback;</li>
-<li>measure ramp-up;</li>
-<li>conduct a hiring retrospective.</li>
+<li>مساهمة موثوقة؛</li>
+<li>تولي مسؤولية مجال ذي أهمية؛</li>
+<li>خطة نمو واضحة؛</li>
+<li>التأكيد المتبادل على ملاءمة الدور.
+تقلل التوقعات الواضحة من عدم اليقين وتساعد المديرين على التدخل مبكرًا عند الحاجة إلى الدعم.</li>
 </ul>
-<h2>Common budgeting mistakes</h2>
-<h3>Counting only external invoices</h3>
-<p>Internal labor and vacancy impact may be much larger.</p>
-<h3>Comparing job boards only by listing price</h3>
-<p>A lower fee may produce more screening work and fewer qualified candidates.</p>
-<h3>Ignoring interviewer time</h3>
-<p>Engineering interviews have substantial opportunity cost.</p>
-<h3>Treating an open role as cost-free</h3>
-<p>Delayed work and team overload create business impact.</p>
-<h3>Assuming full productivity on day one</h3>
-<p>Ramp-up requires time and support.</p>
-<h3>Ignoring onboarding quality</h3>
-<p>Weak onboarding can extend ramp time and increase turnover.</p>
-<h3>Excluding replacement risk</h3>
-<p>Unsuccessful or short-tenure hires can require the entire process to be repeated.</p>
-<h3>Cutting the wrong expenses</h3>
-<p>Removing structure, mentoring, or onboarding may create larger downstream costs.</p>
-<h3>Failing to measure channel quality</h3>
-<p>Application volume alone does not show value.</p>
-<h3>Ignoring retention</h3>
-<p>Repeatedly replacing developers is an expensive operating model.</p>
-<h2>Where the greatest leverage usually exists</h2>
-<p>Companies often focus on reducing visible recruiting costs because they are easy to measure.</p>
-<p>The greatest opportunities may instead be:</p>
+<h2>الاستثمار في الاحتفاظ بالموظفين</h2>
+<p>يقلل الاحتفاظ بالموظفين من تكاليف التوظيف المتكررة.
+قد تشمل الاستثمارات المفيدة ما يلي:</p>
+<ul>
+<li>أجر عادل؛</li>
+<li>مديرون فعالون؛</li>
+<li>عبء عمل مستدام؛</li>
+<li>مسار ترقية واضح؛</li>
+<li>عمل ذو مغزى؛</li>
+<li>المرونة؛</li>
+<li>الأمان النفسي؛</li>
+<li>التعلم؛</li>
+<li>التقدير؛</li>
+<li>أدوات موثوقة؛</li>
+<li>ممارسات شاملة.
+لا ينبغي أن يعني الاحتفاظ بالموظفين منعهم من المغادرة بأي ثمن.
+بل يعني تهيئة الظروف التي يمكن فيها للموظفين المتميزين النجاح واختيار البقاء.</li>
+</ul>
+<h2>إجراء مقابلات البقاء</h2>
+<p>اسأل المطورين الحاليين:</p>
+<ul>
+<li>ما الذي يجعل هذا المنصب يستحق البقاء فيه؟</li>
+<li>ما الذي يسبب الإحباط؟</li>
+<li>هل لديك مجال للنمو؟</li>
+<li>هل عبء العمل مستدام؟</li>
+<li>هل التوقعات واضحة؟</li>
+<li>ما الذي قد يدفعك إلى المغادرة؟</li>
+<li>ما هي الأدوات أو العمليات التي تعيق عملك؟</li>
+<li>هل تشعر بدعم مديرك؟
+تصرف حيال الأنماط المتكررة قبل أن تتحول إلى استقالات.</li>
+</ul>
+<h2>راقب العدالة في الأجور</h2>
+<p>غالبًا ما يكون استبدال الموظفين ذوي الأجور المنخفضة أكثر تكلفة من تصحيح الأجور.
+راجع:</p>
+<ul>
+<li>نطاقات الرواتب؛</li>
+<li>ضغط الرواتب؛</li>
+<li>القواعد الجغرافية؛</li>
+<li>الزيادات المرتبطة بالترقية؛</li>
+<li>الاختلافات في التفاوض؛</li>
+<li>تغيرات السوق؛</li>
+<li>العدالة الداخلية.
+لا تعتمد فقط على العروض المضادة بعد أن يقرر شخص ما المغادرة.</li>
+</ul>
+<h2>تتبع جودة التوظيف بعناية</h2>
+<p>لا ينبغي اختزال جودة التوظيف في تقييم واحد ذاتي.
+استخدم مزيجًا من:</p>
+<ul>
+<li>تقدم عملية الإلحاق بالعمل؛</li>
+<li>الأداء مقارنة بنتائج الوظيفة؛</li>
+<li>ملاحظات المدير؛</li>
+<li>ملاحظات الفريق؛</li>
+<li>الاحتفاظ بالموظفين؛</li>
+<li>التأثير على الإنتاج؛</li>
+<li>التعلم؛</li>
+<li>توقعات المرشح؛</li>
+<li>ملاءمة الوظيفة.
+راجع المعلومات على مدى فترة زمنية مناسبة.
+لا ينبغي الحكم على مطور برمجيات بأنه توظيف فاشل لأن المؤسسة لم توفر له دورًا واضحًا أو صلاحيات وصول أو دعمًا.</li>
+</ul>
+<h2>راجع العملية بعد كل عملية توظيف</h2>
+<p>قم بإجراء مراجعة قصيرة للماضي:</p>
+<ul>
+<li>ما هو المصدر الذي قدم المرشح؟</li>
+<li>كم عدد المتقدمين الذين تمت مراجعتهم؟</li>
+<li>أين تراكمت المدة الزمنية؟</li>
+<li>أي المقابلات قدمت أدلة مفيدة؟</li>
+<li>أي المراحل تكرر فيها العمل؟</li>
+<li>هل كان نطاق الأجر متوافقًا مع السوق؟</li>
+<li>لماذا انسحب المرشحون؟</li>
+<li>هل كان برنامج التأهيل جاهزًا؟</li>
+<li>كم استغرق وقت التأهيل؟</li>
+<li>ما الذي يجب تغييره في المرة القادمة؟
+التحسينات الصغيرة تتراكم وتؤثر إيجابياً على عمليات التوظيف المستقبلية.</li>
+</ul>
+<h2>إنشاء لوحة معلومات لتكاليف التوظيف</h2>
+<p>قد تتضمن لوحة المعلومات المفيدة ما يلي:</p>
+<ul>
+<li>الوظائف الشاغرة؛</li>
+<li>عدد أيام الشغور؛</li>
+<li>عدد الطلبات؛</li>
+<li>عدد الطلبات المؤهلة؛</li>
+<li>ساعات الفرز؛</li>
+<li>المقابلات؛</li>
+<li>ساعات عمل القائمين على المقابلات؛</li>
+<li>التكلفة حسب قناة البحث عن المرشحين؛</li>
+<li>التقييمات المكتملة؛</li>
+<li>العروض المقدمة؛</li>
+<li>معدل القبول؛</li>
+<li>حالات انسحاب المرشحين؛</li>
+<li>المدة المستغرقة للتوظيف؛</li>
+<li>تقدم عملية الإعداد للانضمام؛</li>
+<li>الاحتفاظ المبكر بالموظفين.
+لا تجمع البيانات لمجرد أنها متاحة.
+تتبع المقاييس التي تدعم اتخاذ القرارات.</li>
+</ul>
+<h2>الأسئلة التي يجب أن تجيب عليها أقسام الشؤون المالية والهندسة معًا</h2>
+<p>لا ينبغي أن تكون تكلفة التوظيف من اختصاص قسم التوظيف وحده.
+يجب أن تتوافق أقسام الشؤون المالية والهندسة والتوظيف وعمليات الموارد البشرية على ما يلي:</p>
+<ul>
+<li>الميزانية الإجمالية لعدد الموظفين؛</li>
+<li>افتراضات الرواتب والمزايا؛</li>
+<li>تكلفة الشواغر؛</li>
+<li>البدائل المتعلقة بالمتعاقدين؛</li>
+<li>مدى إلحاحية التوظيف؛</li>
+<li>قدرة القائمين على إجراء المقابلات؛</li>
+<li>نفقات الإلحاق بالعمل؛</li>
+<li>التوسع المتوقع في الأداء؛</li>
+<li>مخاطر الاحتفاظ بالموظفين؛</li>
+<li>التأثير على الأعمال.
+وهذا يؤدي إلى وضع خطة توظيف أكثر واقعية مقارنة بوضع ميزانية للرواتب والإعلان عن الوظائف فقط.</li>
+</ul>
+<h2>الأسئلة التي يجب طرحها قبل الموافقة على وظيفة مطور برمجيات</h2>
+<ul>
+<li>ما النتيجة المطلوبة من هذا التعيين؟</li>
+<li>ماذا سيحدث إذا ظلت الوظيفة شاغرة لمدة ثلاثة أشهر؟</li>
+<li>هل يمكن تأجيل العمل أو أتمتته أو التعاقد مع مقاول خارجي للقيام به أو إعادة توزيعه؟</li>
+<li>ما هو المستوى المطلوب فعليًّا؟</li>
+<li>هل المكافأة تنافسية؟</li>
+<li>ما هي قنوات البحث التي من المرجح أن تصل إلى الأشخاص المناسبين؟</li>
+<li>ما هي سعة إجراء المقابلات المتاحة؟</li>
+<li>هل العملية جاهزة؟</li>
+<li>هل عملية الإلحاق بالعمل جاهزة؟</li>
+<li>ما هو المقياس الذي سيُظهر أن التعيين كان ناجحًا؟
+تقلل هذه الأسئلة من عمليات التوظيف غير الضرورية أو غير المُعدة جيدًا.</li>
+</ul>
+<h2>ورقة عمل لتكاليف التوظيف</h2>
+<p>استخدم النموذج التالي لكل وظيفة.</p>
+<h3>معلومات الوظيفة</h3>
+<ul>
+<li>الوظيفة:</li>
+<li>المستوى:</li>
+<li>الموقع:</li>
+<li>نوع التوظيف:</li>
+<li>تاريخ البدء المستهدف:</li>
+<li>نطاق الراتب:</li>
+<li>المسؤول عن التوظيف:</li>
+</ul>
+<h3>تكاليف التوظيف المباشرة</h3>
+<ul>
+<li>إعلانات الوظائف:</li>
+<li>أدوات البحث عن المرشحين:</li>
+<li>رسوم الوكالات:</li>
+<li>أدوات التقييم:</li>
+<li>التحقق من الخلفية:</li>
+<li>مكافأة التوصية:</li>
+<li>نفقات سفر المرشح:</li>
+<li>أخرى:</li>
+</ul>
+<h3>العمالة الداخلية</h3>
+<ul>
+<li>ساعات التوظيف:</li>
+<li>ساعات عمل مدير التوظيف:</li>
+<li>ساعات المقابلات الهندسية:</li>
+<li>ساعات التنسيق:</li>
+<li>ساعات تقييم الأداء:</li>
+<li>المعدل الساعي الفعلي المركب:</li>
+</ul>
+<h3>تكلفة الشاغر</h3>
+<ul>
+<li>الفجوة التقديرية في السعة الأسبوعية:</li>
+<li>تغطية المتعاقدين:</li>
+<li>الإيرادات المؤجلة:</li>
+<li>تأخير أعمال المنتج:</li>
+<li>تأثير العمل الإضافي أو عبء العمل:</li>
+<li>عدد الأيام المتوقعة التي سيظل فيها المنصب شاغرًا:</li>
+</ul>
+<h3>إجراءات التوظيف</h3>
+<ul>
+<li>مكافأة التوقيع:</li>
+<li>الانتقال:</li>
+<li>المعدات:</li>
+<li>البرمجيات:</li>
+<li>الأمن والإدارة:</li>
+<li>تكاليف صاحب العمل المسجل أو تكاليف الهجرة:</li>
+</ul>
+<h3>التهيئة والتأهيل</h3>
+<ul>
+<li>العمالة اللازمة للتهيئة:</li>
+<li>التدريب:</li>
+<li>التوجيه:</li>
+<li>المدة التقديرية للتأهيل:</li>
+<li>الفجوة التقديرية في الإنتاجية:</li>
+</ul>
+<h3>المخاطر</h3>
+<ul>
+<li>احتمالية رفض العرض:</li>
+<li>احتمالية ترك الوظيفة مبكرًا:</li>
+<li>التكلفة التقديرية للاستبدال:</li>
+<li>التكلفة المتوقعة المعدلة حسب المخاطر:</li>
+</ul>
+<h3>الإجمالي</h3>
+<ul>
+<li>التكلفة المباشرة المقدرة للتوظيف:</li>
+<li>التكلفة المقدرة لليد العاملة الداخلية:</li>
+<li>التكلفة المقدرة للوظيفة الشاغرة:</li>
+<li>التكلفة المقدرة للإعداد:</li>
+<li>التكلفة المقدرة لبدء العمل:</li>
+<li>التكلفة المقدرة للمخاطر:</li>
+<li>التكلفة الإجمالية المقدرة للسنة الأولى:</li>
+</ul>
+<h2>قائمة مرجعية عملية لخفض التكاليف</h2>
+<p>قبل الإعلان عن الوظيفة:</p>
+<ul>
+<li>حدد الوصف الوظيفي بدقة؛</li>
+<li>اعتمد نظام المكافآت؛</li>
+<li>حدد صانع القرار؛</li>
+<li>قم بإعداد معايير تقييم المقابلات؛</li>
+<li>احجز الوقت الكافي للمقابلات؛</li>
+<li>اختر قنوات توظيف محددة الهدف؛</li>
+<li>قم بإعداد مسار تقديم العرض؛</li>
+<li>قم بإعداد عملية الإلحاق بالعمل.
+أثناء التوظيف:</li>
+<li>راجع الطلبات على الفور؛</li>
+<li>قم بقياس نسبة المتقدمين المؤهلين؛</li>
+<li>تتبع ساعات الفرز؛</li>
+<li>استخدم تقييمات ذات صلة بالوظيفة؛</li>
+<li>تجنب تكرار المقابلات؛</li>
+<li>جمع التعليقات في نفس اليوم؛</li>
+<li>الإبلاغ عن الجداول الزمنية؛</li>
+<li>معالجة حالات التأخير؛</li>
+<li>مناقشة الأجر في وقت مبكر.
+بعد القبول:</li>
+<li>شحن المعدات قبل تاريخ البدء؛</li>
+<li>تجهيز صلاحيات الوصول؛</li>
+<li>تعيين مرشد؛</li>
+<li>تحديد المشروع الأول؛</li>
+<li>توثيق التوقعات لـ 30 و60 و90 يومًا؛</li>
+<li>جمع التعليقات حول عملية الإلحاق؛</li>
+<li>قياس معدل الأداء؛</li>
+<li>إجراء تقييم رجعي لعملية التوظيف.</li>
+</ul>
+<h2>الأخطاء الشائعة في إعداد الميزانية</h2>
+<h3>احتساب الفواتير الخارجية فقط</h3>
+<p>قد يكون تأثير العمالة الداخلية والشواغر أكبر بكثير.</p>
+<h3>مقارنة منصات التوظيف بناءً على سعر الإعلان فقط</h3>
+<p>قد تؤدي الرسوم المنخفضة إلى مزيد من العمل في عملية الفرز وقلة عدد المرشحين المؤهلين.</p>
+<h3>تجاهل وقت القائم بالمقابلة</h3>
+<p>تنطوي المقابلات الهندسية على تكلفة بديلة كبيرة.</p>
+<h3>التعامل مع الوظيفة الشاغرة على أنها خالية من التكلفة</h3>
+<p>يؤدي تأخير العمل وزيادة العبء على الفريق إلى تأثيرات سلبية على الأعمال.</p>
+<h3>افتراض الإنتاجية الكاملة من اليوم الأول</h3>
+<p>يتطلب التدرج في الأداء وقتًا ودعمًا.</p>
+<h3>تجاهل جودة عملية الإلحاق</h3>
+<p>قد يؤدي ضعف عملية الإلحاق إلى إطالة مدة التدرج وزيادة معدل دوران الموظفين.</p>
+<h3>استبعاد مخاطر الاستبدال</h3>
+<p>قد يتطلب التعيين غير الناجح أو قصير المدة إعادة العملية بأكملها.</p>
+<h3>خفض النفقات الخاطئة</h3>
+<p>قد يؤدي إلغاء الهياكل التنظيمية أو التوجيه أو عملية الإلحاق إلى تكاليف لاحقة أكبر.</p>
+<h3>عدم قياس جودة القنوات</h3>
+<p>حجم الطلبات وحده لا يُظهر القيمة.</p>
+<h3>تجاهل الاحتفاظ بالموظفين</h3>
+<p>استبدال المطورين بشكل متكرر هو نموذج تشغيلي مكلف.</p>
+<h2>أين توجد عادةً أكبر الفرص</h2>
+<p>غالبًا ما تركز الشركات على خفض تكاليف التوظيف الظاهرة لأنها سهلة القياس.
+قد تكون الفرص الأكبر بدلاً من ذلك:</p>
 <ol>
-<li>Reducing vacancy time.</li>
-<li>Improving applicant relevance.</li>
-<li>Reducing screening labor.</li>
-<li>Removing duplicate interviews.</li>
-<li>Improving offer acceptance.</li>
-<li>Preparing onboarding.</li>
-<li>Shortening ramp-up.</li>
-<li>Reducing early turnover.</li>
-<li>Improving management.</li>
-<li>Retaining institutional knowledge.</li>
+<li>تقليل مدة شغور الوظيفة.</li>
+<li>تحسين ملاءمة المتقدمين.</li>
+<li>تقليل الجهد المبذول في عملية الفرز.</li>
+<li>إلغاء المقابلات المكررة.</li>
+<li>تحسين معدل قبول العروض.</li>
+<li>الإعداد لبرنامج التأهيل.</li>
+<li>تقصير فترة التأهيل.</li>
+<li>تقليل معدل ترك العمل في المراحل المبكرة.</li>
+<li>تحسين الإدارة.</li>
+<li>الحفاظ على المعرفة المؤسسية.
+قد تتطلب هذه التحسينات استثمارات, لكنها تعالج أكبر فئات التكاليف.</li>
 </ol>
-<p>These improvements may require investment, but they address the largest cost categories.</p>
-<h2>The takeaway</h2>
-<p>The cost of hiring a developer is not the price of a job post.</p>
-<p>It is the combined cost of:</p>
+<h2>النقطة الأساسية</h2>
+<p>تكلفة توظيف مطور ليست مجرد سعر الإعلان عن الوظيفة.
+بل هي التكلفة الإجمالية لما يلي:</p>
 <ul>
-<li>finding the right candidates;</li>
-<li>evaluating them;</li>
-<li>waiting while the role remains open;</li>
-<li>making a competitive offer;</li>
-<li>equipping the new employee;</li>
-<li>onboarding them;</li>
-<li>helping them become productive;</li>
-<li>retaining them;</li>
-<li>absorbing the risk of an unsuccessful match.</li>
+<li>العثور على المرشحين المناسبين؛</li>
+<li>تقييمهم؛</li>
+<li>الانتظار أثناء بقاء الوظيفة شاغرة؛</li>
+<li>تقديم عرض تنافسي؛</li>
+<li>تجهيز الموظف الجديد؛</li>
+<li>إعداده للانضمام إلى الشركة؛</li>
+<li>مساعدته على أن يصبح منتجًا؛</li>
+<li>الاحتفاظ به؛</li>
+<li>تحمل مخاطر عدم نجاح التوظيف.
+يجب أن تتضمن استراتيجية التوظيف الأكثر شمولاً ما يلي:</li>
 </ul>
-<p>A more complete hiring strategy should:</p>
 <ol>
-<li>Define the role before sourcing.</li>
-<li>Use transparent compensation.</li>
-<li>Reach a relevant technical audience.</li>
-<li>Measure qualified candidates rather than raw application volume.</li>
-<li>Calculate internal interview labor.</li>
-<li>reduce vacancy time;</li>
-<li>use structured, job-relevant assessments;</li>
-<li>remove duplicate process steps;</li>
-<li>prepare equipment and access before the start date;</li>
-<li>invest in onboarding and mentorship;</li>
-<li>monitor retention and early performance;</li>
-<li>improve the process after every hire.</li>
+<li>تحديد الوظيفة قبل البدء في البحث عن المرشحين.</li>
+<li>استخدام نظام تعويضات شفاف.</li>
+<li>الوصول إلى جمهور تقني ذي صلة.</li>
+<li>تقييم المرشحين المؤهلين بدلاً من التركيز على حجم الطلبات الأولي.</li>
+<li>حساب الجهد البشري المخصص للمقابلات الداخلية.</li>
+<li>تقليل مدة شغور الوظيفة؛</li>
+<li>استخدام تقييمات منظمة وذات صلة بالوظيفة؛</li>
+<li>إزالة الخطوات المكررة في العملية؛</li>
+<li>تجهيز المعدات وتوفير الوصول قبل تاريخ البدء؛</li>
+<li>الاستثمار في عملية الإلحاق بالعمل والإرشاد؛</li>
+<li>مراقبة معدل الاحتفاظ بالموظفين والأداء في المراحل المبكرة؛</li>
+<li>تحسين العملية بعد كل عملية توظيف.
+إن توفير بضع مئات من الدولارات على إعلان الوظيفة بينما تنفق الآلاف على فرز الطلبات غير المناسبة ليس أمراً فعالاً.
+قد لا يكون تقليص تقييم تقني مفيد من أجل تسريع العملية أمراً فعالاً إذا أدى ذلك إلى زيادة مخاطر التوظيف الفاشل.
+كما أن تقليل الاستثمار في برنامج التأهيل ليس أمراً فعالاً إذا استغرق الموظف الجديد شهوراً إضافية ليصبح منتجاً أو غادر العمل مبكراً.
+الهدف الصحيح ليس التوظيف بأقل تكلفة ممكنة.
+بل هو تحقيق أقوى توظيف ناجح بأقل تكلفة إجمالية معقولة.
+<em>اطلع على نظام التسعير الشفاف المصمم بناءً على الطريقة التي توظف بها الشركات فعلياً. <a href="/pricing">استكشف أسعار JobsList.dev</a>, وقارن بين خيارات الإعلانات, وتواصل مباشرةً مع المهنيين التقنيين المؤهلين.</em></li>
 </ol>
-<p>Saving a few hundred dollars on a listing while spending thousands screening poor-fit applications is not efficient.</p>
-<p>Reducing a useful technical assessment to move faster may not be efficient if it increases failed-hire risk.</p>
-<p>Underinvesting in onboarding is not efficient if the new employee takes months longer to become productive or leaves early.</p>
-<p>The right objective is not to hire as cheaply as possible.</p>
-<p>It is to create the strongest successful hire for the lowest reasonable total cost.</p>
-<p><em>See transparent pricing designed around how companies actually hire. <a href="/pricing">Explore JobsList.dev pricing</a>, compare listing options, and connect directly with qualified technical professionals.</em></p>
-5:["locale","ar","d"]
-6:["slug","how-much-does-it-cost-to-hire-a-developer","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-much-does-it-cost-to-hire-a-developer","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-much-does-it-cost-to-hire-a-developer\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-much-does-it-cost-to-hire-a-developer","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Much Does It Really Cost to Hire a Developer?\",\"description\":\"A practical guide to calculating the full cost of hiring a software developer, including sourcing, interviews, compensation, vacancy impact, onboarding, ramp-up, tools, retention risk, and the cost of a failed hire.\",\"datePublished\":\"2026-04-23T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How Much Does It Really Cost to Hire a Developer?","date":"2026-04-23T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":36,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How Much Does It Really Cost to Hire a Developer? | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to calculating the full cost of hiring a software developer, including sourcing, interviews, compensation, vacancy impact, onboarding, ramp-up, tools, retention risk, and the cost of a failed hire."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How Much Does It Really Cost to Hire a Developer?"}],["$","meta","15",{"property":"og:description","content":"A practical guide to calculating the full cost of hiring a software developer, including sourcing, interviews, compensation, vacancy impact, onboarding, ramp-up, tools, retention risk, and the cost of a failed hire."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-04-23T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How Much Does It Really Cost to Hire a Developer?"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to calculating the full cost of hiring a software developer, including sourcing, interviews, compensation, vacancy impact, onboarding, ramp-up, tools, retention risk, and the cost of a failed hire."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"ما هي التكلفة الحقيقية لتوظيف مطور برمجيات؟\",\"description\":\"دليل عملي لحساب التكلفة الإجمالية لتوظيف مطور برمجيات, بما في ذلك البحث عن المرشحين, والمقابلات, والأجر, وتأثير الشاغر الوظيفي, والتأهيل, وفترة التأقلم, والأدوات, ومخاطر فقدان الموظفين, وتكلفة التوظيف الفاشل.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-04-23T00:00:00.000Z\",\"dateModified\":\"2026-04-23T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/how-much-does-it-cost-to-hire-a-developer/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"ما هي التكلفة الحقيقية لتوظيف مطور برمجيات؟"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي لحساب التكلفة الإجمالية لتوظيف مطور برمجيات, بما في ذلك البحث عن المرشحين, والمقابلات, والأجر, وتأثير الشاغر الوظيفي, والتأهيل, وفترة التأقلم, والأدوات, ومخاطر فقدان الموظفين, وتكلفة التوظيف الفاشل."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-04-23T00:00:00.000Z","children":"22 أبريل 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[40," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التكلفة",{"className":"badge-gray","children":"التكلفة"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","الاستراتيجية",{"className":"badge-gray","children":"الاستراتيجية"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}],["$","span","فرق الهندسة",{"className":"badge-gray","children":"فرق الهندسة"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"ما هي التكلفة الحقيقية لتوظيف مطور برمجيات؟ | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي لحساب التكلفة الإجمالية لتوظيف مطور برمجيات, بما في ذلك البحث عن المرشحين, والمقابلات, والأجر, وتأثير الشاغر الوظيفي, والتأهيل, وفترة التأقلم, والأدوات, ومخاطر فقدان الموظفين, وتكلفة التوظيف الفاشل."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"ما هي التكلفة الحقيقية لتوظيف مطور برمجيات؟"}],["$","meta","15",{"property":"og:description","content":"دليل عملي لحساب التكلفة الإجمالية لتوظيف مطور برمجيات, بما في ذلك البحث عن المرشحين, والمقابلات, والأجر, وتأثير الشاغر الوظيفي, والتأهيل, وفترة التأقلم, والأدوات, ومخاطر فقدان الموظفين, وتكلفة التوظيف الفاشل."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/how-much-does-it-cost-to-hire-a-developer/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-04-23T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"ما هي التكلفة الحقيقية لتوظيف مطور برمجيات؟"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي لحساب التكلفة الإجمالية لتوظيف مطور برمجيات, بما في ذلك البحث عن المرشحين, والمقابلات, والأجر, وتأثير الشاغر الوظيفي, والتأهيل, وفترة التأقلم, والأدوات, ومخاطر فقدان الموظفين, وتكلفة التوظيف الفاشل."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

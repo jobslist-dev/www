@@ -1,467 +1,451 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3b1d,<p>Engineering compensation is one of the few business decisions that compounds for years.</p>
-<p>Every offer you make becomes a reference point for future offers, promotions, raises, budgets, retention conversations, and hiring negotiations. If compensation decisions are made ad hoc, eventually someone discovers that two engineers doing nearly identical work are earning dramatically different salaries—and nobody can clearly explain why.</p>
-<p>That creates frustration, damages trust, slows hiring, and makes promotion conversations emotional instead of objective.</p>
-<p>The good news is that solving this doesn&#39;t require a massive HR department or enterprise software.</p>
-<p>A small company with twenty engineers can build an excellent compensation framework in a weekend.</p>
-<p>The goal isn&#39;t to remove human judgment.</p>
-<p>The goal is to make compensation <strong>consistent, explainable, competitive, and fair.</strong></p>
-<hr>
-<h1>Why compensation frameworks matter</h1>
-<p>Most founders think compensation exists to close offers.</p>
-<p>Experienced engineering leaders know compensation exists to solve four different problems simultaneously:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","engineering-compensation-bands-leveling","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-compensation-bands-leveling","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"engineering-compensation-bands-leveling\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-compensation-bands-leveling","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T54f3,<h2>يعد تعويض المهندسين أحد القرارات التجارية القليلة التي تتراكم آثارها على مدى سنوات.
+فكل عرض تقدمه يصبح نقطة مرجعية للعروض المستقبلية, والترقيات, وزيادات الرواتب, والميزانيات, ومحادثات الاحتفاظ بالموظفين, ومفاوضات التوظيف. وإذا اتُخذت قرارات التعويض بشكل عشوائي, فسيكتشف أحدهم في النهاية أن مهندسين يقومان بعمل متطابق تقريبًا يتقاضيان رواتب مختلفة بشكل كبير — ولا يستطيع أحد تفسير السبب بوضوح.
+وهذا يولد الإحباط, ويضر بالثقة, ويبطئ عملية التوظيف, ويجعل محادثات الترقية عاطفية بدلاً من أن تكون موضوعية.
+الخبر السار هو أن حل هذه المشكلة لا يتطلب قسمًا ضخمًا للموارد البشرية أو برامج مؤسسية.
+يمكن لشركة صغيرة تضم عشرين مهندسًا أن تبني إطارًا ممتازًا للأجور خلال عطلة نهاية أسبوع واحدة.
+الهدف ليس التخلص من الحكم البشري.
+الهدف هو جعل الأجور <strong>متسقة, وقابلة للتفسير, وتنافسية, وعادلة.</strong></h2>
+<h1>لماذا تهم أطر الأجور</h1>
+<p>يعتقد معظم المؤسسين أن الأجور موجودة لإنهاء صفقات التوظيف.
+يعرف قادة الهندسة ذوو الخبرة أن نظام المكافآت موجود لحل أربع مشكلات مختلفة في آن واحد:</p>
 <ul>
-<li>Attract excellent engineers</li>
-<li>Retain great employees</li>
-<li>Reward increasing impact</li>
-<li>Maintain internal fairness</li>
+<li>جذب المهندسين المتميزين</li>
+<li>الاحتفاظ بالموظفين المتميزين</li>
+<li>مكافأة التأثير المتزايد</li>
+<li>الحفاظ على العدالة الداخلية
+إذا فاتتك أي واحدة من هذه العناصر, فسيبدأ النظام بأكمله في الانهيار.
+بدون إطار عمل, ستواجه في النهاية ما يلي:</li>
+<li>موظفون جدد يتقاضون رواتب أعلى من الموظفين المخلصين.</li>
+<li>مهندسون يطالبون بالترقيات لأن شخصًا آخر حصل عليها.</li>
+<li>مديرون يتخذون قرارات مختلفة تجاه أشخاص متشابهين.</li>
+<li>مفاوضات حول العروض تعتمد كليًا على من يتفاوض بأشد قوة.</li>
+<li>صعوبة في توقع تكاليف الرواتب مع نمو الفريق.
+تمنع أنظمة المكافآت الجيدة حدوث هذه المشاكل قبل وقوعها.</li>
 </ul>
-<p>Miss any one of those and the entire system starts breaking down.</p>
-<p>Without a framework you&#39;ll eventually encounter:</p>
-<ul>
-<li>New hires earning more than loyal employees.</li>
-<li>Engineers demanding promotions because someone else got one.</li>
-<li>Managers making different decisions for similar people.</li>
-<li>Offer negotiations based entirely on who negotiates hardest.</li>
-<li>Difficulty forecasting payroll as the team grows.</li>
-</ul>
-<p>Good compensation systems prevent these problems before they happen.</p>
 <hr>
-<h1>What engineering levels actually represent</h1>
-<p>One of the biggest misconceptions in software hiring is that levels measure experience.</p>
-<p>They don&#39;t.</p>
-<p>They measure <strong>scope, ownership, judgment, and impact.</strong></p>
-<p>Years of experience are merely one possible input.</p>
-<p>Someone with three years of experience may comfortably perform at Senior level.</p>
-<p>Someone with ten years may still perform best as a Mid-level engineer.</p>
-<p>The level should describe <strong>what someone consistently delivers</strong>, not how long they&#39;ve been employed.</p>
-<p>Good engineering ladders evaluate:</p>
+<h1>ما الذي تمثله مستويات الهندسة فعليًا</h1>
+<p>أحد أكبر المفاهيم الخاطئة في التوظيف في مجال البرمجيات هو أن المستويات تقيس الخبرة.
+وهذا غير صحيح.
+إنها تقيس <strong>النطاق, والمسؤولية, والحكمة, والتأثير.</strong>
+سنوات الخبرة هي مجرد أحد العوامل المحتملة.
+قد يؤدي شخص لديه ثلاث سنوات من الخبرة مهامه بسهولة على مستوى «كبير».
+وقد يظل شخص لديه عشر سنوات من الخبرة يؤدي أفضل أداء له كمهندس «متوسط المستوى».
+يجب أن يصف المستوى <strong>ما يقدمه الشخص باستمرار</strong>, وليس المدة التي قضاها في العمل.
+تقيّم سلالم الهندسة الجيدة ما يلي:</p>
 <ul>
-<li>Technical ability</li>
-<li>Decision making</li>
-<li>Independence</li>
-<li>Communication</li>
-<li>System ownership</li>
-<li>Mentorship</li>
-<li>Business impact</li>
+<li>القدرة التقنية</li>
+<li>اتخاذ القرار</li>
+<li>الاستقلالية</li>
+<li>التواصل</li>
+<li>ملكية النظام</li>
+<li>الإرشاد</li>
+<li>التأثير على الأعمال
+لا يُقاس أي من هذه العوامل بعدد سنوات الخبرة.</li>
 </ul>
-<p>None of those are measured by birthdays.</p>
 <hr>
-<h1>A practical engineering leveling framework</h1>
-<p>Most companies don&#39;t need twelve engineering levels.</p>
-<p>Four to six clearly defined levels are enough for many organizations.</p>
+<h1>إطار عملي لتصنيف مستويات الهندسة</h1>
+<p>لا تحتاج معظم الشركات إلى اثني عشر مستوىً هندسيًّا.
+فمن المستويات الأربعة إلى الستة المحددة بوضوح ما يكفي للعديد من المؤسسات.</p>
 <table>
 <thead>
 <tr>
-<th>Level</th>
-<th>Typical Title</th>
-<th>Primary Focus</th>
+<th>المستوى</th>
+<th>اللقب النموذجي</th>
+<th>التركيز الأساسي</th>
 </tr>
 </thead>
 <tbody><tr>
 <td>L1</td>
-<td>Junior Engineer</td>
-<td>Learning, execution, growth</td>
+<td>مهندس مبتدئ</td>
+<td>التعلم, التنفيذ, النمو</td>
 </tr>
 <tr>
 <td>L2</td>
-<td>Software Engineer</td>
-<td>Feature ownership</td>
+<td>مهندس برمجيات</td>
+<td>مسؤولية الميزات</td>
 </tr>
 <tr>
 <td>L3</td>
-<td>Senior Engineer</td>
-<td>System ownership and technical leadership</td>
+<td>مهندس أول</td>
+<td>مسؤولية النظام والقيادة التقنية</td>
 </tr>
 <tr>
 <td>L4</td>
-<td>Staff Engineer</td>
-<td>Multi-team technical influence</td>
+<td>مهندس فريق</td>
+<td>التأثير التقني عبر الفرق المتعددة</td>
 </tr>
 <tr>
 <td>L5</td>
-<td>Principal Engineer</td>
-<td>Organization-wide technical strategy</td>
+<td>مهندس رئيسي</td>
+<td>الاستراتيجية التقنية على مستوى المؤسسة</td>
 </tr>
 <tr>
 <td>L6</td>
-<td>Distinguished Engineer</td>
-<td>Long-term company architecture and innovation</td>
+<td>مهندس متميز</td>
+<td>بنية الشركة والابتكار على المدى الطويل</td>
+</tr>
+<tr>
+<td>الأسماء أقل أهمية بكثير من التوقعات.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ما يهم هو أن يفهم الجميع الفرق.</td>
+<td></td>
+<td></td>
 </tr>
 </tbody></table>
-<p>The names matter far less than the expectations.</p>
-<p>What matters is that everyone understands the difference.</p>
 <hr>
-<h1>Define levels by observable behavior</h1>
-<p>Every level should answer four questions.</p>
-<h2>What problems do they solve?</h2>
-<p>Example:</p>
-<p>Junior:</p>
+<h1>تحديد المستويات بناءً على السلوك الملحوظ</h1>
+<p>يجب أن يجيب كل مستوى على أربعة أسئلة.</p>
+<h2>ما هي المشكلات التي يحلونها؟</h2>
+<p>مثال:
+المبتدئ:</p>
 <blockquote>
-<p>Solves clearly defined engineering tasks.</p>
-</blockquote>
-<p>Senior:</p>
-<blockquote>
-<p>Solves ambiguous engineering problems with incomplete information.</p>
+<p>يحل مهام هندسية محددة بوضوح.
+المخضرم:
+يحل مشكلات هندسية غامضة بمعلومات غير كاملة.</p>
 </blockquote>
 <hr>
-<h2>How much supervision do they need?</h2>
-<p>Junior:</p>
-<p>Requires frequent guidance.</p>
-<p>Mid:</p>
-<p>Requires occasional guidance.</p>
-<p>Senior:</p>
-<p>Works independently.</p>
-<p>Staff:</p>
-<p>Creates clarity for others.</p>
-<hr>
-<h2>What systems do they own?</h2>
-<p>Junior:</p>
-<p>Small features.</p>
-<p>Mid:</p>
-<p>Entire services.</p>
-<p>Senior:</p>
-<p>Critical systems.</p>
-<p>Staff:</p>
-<p>Multiple systems.</p>
-<p>Principal:</p>
-<p>Company architecture.</p>
-<p>Ownership scales with level.</p>
-<hr>
-<h2>Who benefits from their work?</h2>
-<p>Junior:</p>
-<p>Their own work.</p>
-<p>Mid:</p>
-<p>Their immediate team.</p>
-<p>Senior:</p>
-<p>Multiple engineers.</p>
-<p>Staff:</p>
-<p>Entire engineering organization.</p>
-<p>Principal:</p>
-<p>Entire business.</p>
-<hr>
-<h1>Promotions should never be calendar events</h1>
-<p>Many companies accidentally promote people simply because they&#39;ve &quot;been here long enough.&quot;</p>
-<p>That creates title inflation.</p>
-<p>Promotion should happen because someone has already been performing consistently at the next level—not because they&#39;re asking for it.</p>
-<p>A useful rule:</p>
+<h2>ما مدى الإشراف الذي يحتاجونه؟</h2>
+<h2>المبتدئ:
+يحتاج إلى توجيه متكرر.
+المتوسط:
+يحتاج إلى توجيه من حين لآخر.
+المخضرم:
+يعمل بشكل مستقل.
+الموظف:
+يوفر الوضوح للآخرين.</h2>
+<h2>ما هي الأنظمة التي يتولون مسؤوليتها؟</h2>
+<h2>المبتدئ:
+ميزات صغيرة.
+المتوسط:
+خدمات كاملة.
+المتمرس:
+أنظمة حيوية.
+الموظف:
+أنظمة متعددة.
+المدير:
+بنية الشركة.
+تتناسب المسؤولية مع المستوى.</h2>
+<h2>من يستفيد من عملهم؟</h2>
+<h2>المبتدئ:
+عملهم الخاص.
+المتوسط:
+فريقهم المباشر.
+المهندس الأقدم:
+عدد من المهندسين.
+الموظف:
+منظمة الهندسة بأكملها.
+المسؤول الرئيسي:
+الشركة بأكملها.</h2>
+<h1>لا ينبغي أبدًا أن تكون الترقيات مجرد أحداث تقويمية</h1>
+<p>تقوم العديد من الشركات بترقية الموظفين عن غير قصد لمجرد أنهم «أمضوا وقتًا كافيًا في الشركة».
+وهذا يؤدي إلى تضخم الألقاب الوظيفية.
+يجب أن تتم الترقية لأن الشخص قد أظهر بالفعل أداءً متسقًا على المستوى الأعلى — وليس لأنه يطلبها.
+قاعدة مفيدة:</p>
 <blockquote>
-<p>Promote people <strong>after</strong> they&#39;ve demonstrated sustained next-level performance.</p>
+<p>قم بترقية الموظفين <strong>بعد</strong> أن يثبتوا أداءً مستدامًا على المستوى الأعلى.
+وليس قبل ذلك.</p>
 </blockquote>
-<p>Not before.</p>
 <hr>
-<h1>Build compensation bands around every level</h1>
-<p>Each engineering level should have a salary range rather than a single number.</p>
-<p>Most companies use:</p>
+<h1>ضع نطاقات تعويضات لكل مستوى</h1>
+<p>يجب أن يكون لكل مستوى هندسي نطاق راتب بدلاً من رقم واحد.
+تستخدم معظم الشركات:</p>
 <ul>
-<li>Minimum</li>
-<li>Midpoint</li>
-<li>Maximum</li>
-</ul>
-<p>Example:</p>
-<table>
+<li>الحد الأدنى</li>
+<li>النقطة الوسطى</li>
+<li>الحد الأقصى
+مثال:<table>
 <thead>
 <tr>
-<th>Level</th>
-<th align="right">Low</th>
-<th align="right">Mid</th>
-<th align="right">High</th>
+<th>المستوى</th>
+<th align="right">الأدنى</th>
+<th align="right">المتوسط</th>
+<th align="right">الأعلى</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Junior</td>
-<td align="right">$80k</td>
-<td align="right">$95k</td>
-<td align="right">$110k</td>
+<td>مبتدئ</td>
+<td align="right">80 ألف دولار</td>
+<td align="right">95 ألف دولار</td>
+<td align="right">110 ألف دولار</td>
 </tr>
 <tr>
-<td>Software Engineer</td>
-<td align="right">$105k</td>
-<td align="right">$125k</td>
-<td align="right">$145k</td>
+<td>مهندس برمجيات</td>
+<td align="right">105 ألف دولار</td>
+<td align="right">125 ألف دولار</td>
+<td align="right">145 ألف دولار</td>
 </tr>
 <tr>
-<td>Senior</td>
-<td align="right">$140k</td>
-<td align="right">$170k</td>
-<td align="right">$200k</td>
+<td>كبير</td>
+<td align="right">140 ألف دولار</td>
+<td align="right">170 ألف دولار</td>
+<td align="right">200 ألف دولار</td>
 </tr>
 <tr>
-<td>Staff</td>
-<td align="right">$180k</td>
-<td align="right">$220k</td>
-<td align="right">$260k</td>
+<td>موظف</td>
+<td align="right">180 ألف دولار</td>
+<td align="right">220 ألف دولار</td>
+<td align="right">260 ألف دولار</td>
 </tr>
 <tr>
-<td>Principal</td>
-<td align="right">$220k</td>
-<td align="right">$280k</td>
-<td align="right">$340k</td>
+<td>رئيسي</td>
+<td align="right">220 ألف دولار</td>
+<td align="right">280 ألف دولار</td>
+<td align="right">340 ألف دولار</td>
+</tr>
+<tr>
+<td>تختلف هذه الأرقام بشكل كبير حسب:</td>
+<td align="right"></td>
+<td align="right"></td>
+<td align="right"></td>
 </tr>
 </tbody></table>
-<p>These numbers vary significantly by:</p>
-<ul>
-<li>Country</li>
-<li>Cost of living</li>
-<li>Remote policy</li>
-<li>Industry</li>
-<li>Funding stage</li>
-</ul>
-<p>The framework matters more than the exact numbers.</p>
-<hr>
-<h1>Why compensation bands overlap</h1>
-<p>Many founders assume salary bands shouldn&#39;t overlap.</p>
-<p>In reality they almost always should.</p>
-<p>For example:</p>
-<p>Top-performing Mid Engineer:</p>
-<p>$165k</p>
-<p>New Senior Engineer:</p>
-<p>$160k</p>
-<p>That&#39;s perfectly reasonable.</p>
-<p>The senior title reflects broader expectations—not an automatic pay jump.</p>
-<p>Otherwise companies end up promoting people simply to justify raises.</p>
-<hr>
-<h1>Positioning yourself against the market</h1>
-<p>Every company competes differently.</p>
-<p>Choose intentionally.</p>
-<p>Common strategies include:</p>
-<h3>Market Median (50th percentile)</h3>
-<p>Suitable for:</p>
-<ul>
-<li>Bootstrapped companies</li>
-<li>Stable businesses</li>
-<li>Predictable hiring</li>
-</ul>
-<p>Advantages:</p>
-<ul>
-<li>Sustainable</li>
-<li>Easy budgeting</li>
-</ul>
-<p>Tradeoffs:</p>
-<ul>
-<li>Harder to attract elite candidates.</li>
+</li>
+<li>البلد</li>
+<li>تكلفة المعيشة</li>
+<li>سياسة العمل عن بُعد</li>
+<li>القطاع</li>
+<li>مرحلة التمويل
+يُعد إطار العمل أكثر أهمية من الأرقام الدقيقة.</li>
 </ul>
 <hr>
-<h3>Above Market (75th percentile)</h3>
-<p>Suitable for:</p>
+<h1>لماذا تتداخل نطاقات الأجور</h1>
+<h2>يفترض العديد من المؤسسين أن نطاقات الرواتب لا ينبغي أن تتداخل.
+في الواقع, ينبغي أن تتداخل في معظم الأحيان.
+على سبيل المثال:
+مهندس متوسط الأداء المتميز:
+165 ألف دولار
+مهندس أول جديد:
+160 ألف دولار
+هذا أمر معقول تمامًا.
+يعكس لقب «أول» توقعات أوسع نطاقًا — وليس قفزة تلقائية في الراتب.
+وإلا فإن الشركات ستنتهي بترقية الموظفين لمجرد تبرير الزيادات في الرواتب.</h2>
+<h1>تحديد موقعك في السوق</h1>
+<p>تتنافس كل شركة بطريقة مختلفة.
+اختر بشكل مدروس.
+تشمل الاستراتيجيات الشائعة ما يلي:</p>
+<h3>متوسط السوق (الشريحة المئوية 50)</h3>
+<p>مناسب لـ:</p>
 <ul>
-<li>Venture-backed startups</li>
-<li>High-growth companies</li>
-<li>Difficult recruiting markets</li>
+<li>الشركات التي تم تمويلها ذاتيًا</li>
+<li>الشركات المستقرة</li>
+<li>التوظيف الذي يمكن التنبؤ به
+المزايا:</li>
+<li>استدامة</li>
+<li>سهولة إعداد الميزانية
+السلبيات:</li>
+<li>صعوبة في جذب المرشحين المتميزين.</li>
 </ul>
-<p>Advantages:</p>
+<hr>
+<h3>أعلى من السوق (الشريحة المئوية 75)</h3>
+<p>مناسب لـ:</p>
 <ul>
-<li>Stronger hiring</li>
-<li>Lower turnover</li>
+<li>الشركات الناشئة المدعومة برأس مال استثماري</li>
+<li>الشركات ذات النمو المرتفع</li>
+<li>أسواق التوظيف الصعبة
+المزايا:</li>
+<li>توظيف أقوى</li>
+<li>معدل دوران أقل
+السلبيات:</li>
+<li>تكاليف رواتب أعلى.</li>
 </ul>
-<p>Tradeoffs:</p>
+<hr>
+<h3>تعويضات مميزة (الشريحة 90+ المئوية)</h3>
+<p>مناسبة لـ:</p>
 <ul>
-<li>Higher payroll costs.</li>
+<li>كثافة المواهب الاستثنائية</li>
+<li>المؤسسات الهندسية الحيوية</li>
+<li>الشركات التي يتمتع فيها كل مهندس بنفوذ هائل
+المزايا:</li>
+<li>الوصول إلى المرشحين المتميزين.
+السلبيات:</li>
+<li>تكلفة عالية.
+يتطلب انضباطًا استثنائيًا في التوظيف.</li>
 </ul>
 <hr>
-<h3>Premium Compensation (90th+ percentile)</h3>
-<p>Suitable for:</p>
+<h1>المكافآت أكثر من مجرد راتب</h1>
+<p>يقوم المهندسون بتقييم الحزمة الكاملة.
+يتضمن العرض التنافسي ما يلي:</p>
 <ul>
-<li>Exceptional talent density</li>
-<li>Critical engineering organizations</li>
-<li>Companies where every engineer has enormous leverage</li>
+<li>الراتب الأساسي</li>
+<li>المكافأة السنوية</li>
+<li>الأسهم</li>
+<li>مساهمات التقاعد</li>
+<li>الرعاية الصحية</li>
+<li>دعم العمل عن بُعد</li>
+<li>ميزانية المكتب المنزلي</li>
+<li>ميزانية التعلم</li>
+<li>ميزانية المؤتمرات</li>
+<li>سياسة الإجازات</li>
+<li>جدول زمني مرن</li>
+<li>إجازة أبوة مدفوعة الأجر
+أحيانًا تفوز الشركة التي تدفع رواتب أقل قليلاً من السوق لأن جميع العوامل الأخرى أقوى بكثير.</li>
 </ul>
-<p>Advantages:</p>
+<hr>
+<h1>يجب شرح الأسهم بوضوح</h1>
+<p>تذكر العديد من الشركات الناشئة موضوع الأسهم دون شرحه.
+يستحق المرشحون أن يفهموا:</p>
 <ul>
-<li>Access to elite candidates.</li>
+<li>عدد الخيارات</li>
+<li>نسبة الملكية</li>
+<li>التقييم الحالي</li>
+<li>سعر التنفيذ</li>
+<li>جدول الاستحقاق</li>
+<li>فترة الانتظار</li>
+<li>توقعات التخفيف</li>
+<li>فترة الممارسة</li>
+<li>ماذا يحدث إذا غادروا
+الشفافية تبني الثقة.
+الالتباس يدمرها.</li>
 </ul>
-<p>Tradeoffs:</p>
+<hr>
+<h1>يجب أن تكون الزيادات في الراتب مبررة بأسباب واضحة</h1>
+<p>تنقسم الزيادات في الراتب عمومًا إلى أربع فئات.</p>
+<h2>التعديل وفقًا للسوق</h2>
+<h2>تغيرت ظروف السوق.
+يحصل كل من يعمل في نفس المستوى الوظيفي على تعديل في الراتب.</h2>
+<h2>الزيادة على أساس الأداء</h2>
+<h2>أداء متميز ضمن المستوى الوظيفي الحالي.
+لا يتطلب ترقية.</h2>
+<h2>الزيادة على أساس الترقية</h2>
+<h2>الانتقال إلى المستوى الهندسي التالي.
+عادةً ما تكون أكبر تعديل في الراتب.</h2>
+<h2>تعديل الاحتفاظ بالموظفين</h2>
+<h2>نادر الحدوث.
+ضروري أحيانًا.
+لا ينبغي أن يصبح الإجراء المعتاد.</h2>
+<h1>كيفية تجنب ضغط الرواتب</h1>
+<p>يحدث ضغط الرواتب عندما يتقاضى الموظفون الجدد رواتب أعلى من رواتب المهندسين الحاليين.
+وهي إحدى أسرع الطرق لفقدان الموظفين ذوي الخبرة.
+يمكن منع ذلك عن طريق:</p>
 <ul>
-<li>Expensive.</li>
+<li>مراجعة الرواتب الداخلية قبل تقديم عروض التوظيف.</li>
+<li>تحديث نطاقات الرواتب سنويًا.</li>
+<li>تعديل رواتب الموظفين المخلصين بما يتماشى مع تحركات السوق.</li>
+<li>تخصيص ميزانية لتصحيحات المكافآت.
+عادةً ما يكون الاحتفاظ بالموظفين أقل تكلفة من استبدالهم.</li>
 </ul>
-<p>Requires exceptional hiring discipline.</p>
 <hr>
-<h1>Compensation is more than salary</h1>
-<p>Engineers evaluate the complete package.</p>
-<p>A competitive offer includes:</p>
+<h1>وضع معايير الترقية</h1>
+<p>تصبح محادثات الترقية أسهل بشكل كبير عندما تكون التوقعات محددة مسبقًا.
+حدد لكل مستوى ما يلي:</p>
 <ul>
-<li>Base salary</li>
-<li>Annual bonus</li>
-<li>Equity</li>
-<li>Retirement contributions</li>
-<li>Healthcare</li>
-<li>Remote work support</li>
-<li>Home office budget</li>
-<li>Learning budget</li>
-<li>Conference budget</li>
-<li>Vacation policy</li>
-<li>Flexible schedule</li>
-<li>Paid parental leave</li>
+<li>الأداء الفني</li>
+<li>جودة الكود</li>
+<li>الهندسة</li>
+<li>التواصل</li>
+<li>الإرشاد</li>
+<li>القيادة</li>
+<li>التأثير على الأعمال</li>
+<li>الموثوقية</li>
+<li>اتخاذ القرار</li>
+<li>فهم احتياجات العملاء
+يجب أن يكون المديرون قادرين على الإشارة إلى أدلة ملموسة.
+وليس مجرد آراء.</li>
 </ul>
-<p>Sometimes a company paying slightly below market still wins because everything else is significantly stronger.</p>
 <hr>
-<h1>Equity should be explained clearly</h1>
-<p>Many startups mention equity without explaining it.</p>
-<p>Candidates deserve to understand:</p>
+<h1>يجب ألا يتفاوض المديرون أبدًا بشأن المستويات الوظيفية</h1>
+<h2>أحد الأخطاء الشائعة:
+يتفاوض المرشح للترقية من مستوى «متوسط» إلى «أعلى».
+المستويات الوظيفية ليست أدوات تفاوض.
+إنها توقعات مؤسسية.
+إذا كان شخص ما يفي حقًّا بتوقعات المستوى «الأعلى»...
+قم بتعيينه في هذا المستوى.
+وإذا لم يكن كذلك...
+قم بزيادة الأجر ضمن النطاق المناسب بدلاً من ذلك.
+يجب ألا تكون الألقاب أبدًا أوراق تفاوض.</h2>
+<h1>تحديث الأجور سنويًّا</h1>
+<p>تتغير رواتب المهندسين.
+وينبغي أن يتغير إطار الأجور الخاص بكم أيضًا.
+المراجعة:</p>
 <ul>
-<li>Number of options</li>
-<li>Percentage ownership</li>
-<li>Current valuation</li>
-<li>Strike price</li>
-<li>Vesting schedule</li>
-<li>Cliff period</li>
-<li>Dilution expectations</li>
-<li>Exercise window</li>
-<li>What happens if they leave</li>
+<li>بيانات السوق</li>
+<li>التضخم</li>
+<li>العروض التنافسية</li>
+<li>مؤشرات الاحتفاظ بالموظفين</li>
+<li>معدلات قبول العروض</li>
+<li>العدالة الداخلية</li>
+<li>معدلات الترقية
+المراجعة السنوية تحافظ على سلامة النظام.</li>
 </ul>
-<p>Transparency builds trust.</p>
-<p>Confusion destroys it.</p>
 <hr>
-<h1>Raises should have clear reasons</h1>
-<p>Raises generally fall into four categories.</p>
-<h2>Market adjustment</h2>
-<p>The market moved.</p>
-<p>Everyone at a level receives an adjustment.</p>
-<hr>
-<h2>Performance increase</h2>
-<p>Outstanding work within the current level.</p>
-<p>No promotion required.</p>
-<hr>
-<h2>Promotion increase</h2>
-<p>Moving to the next engineering level.</p>
-<p>Usually the largest adjustment.</p>
-<hr>
-<h2>Retention adjustment</h2>
-<p>Rare.</p>
-<p>Sometimes necessary.</p>
-<p>Shouldn&#39;t become the normal process.</p>
-<hr>
-<h1>How to avoid salary compression</h1>
-<p>Salary compression happens when new hires earn more than existing engineers.</p>
-<p>It&#39;s one of the fastest ways to lose experienced employees.</p>
-<p>Prevent it by:</p>
+<h1>الشفافية تبني الثقة</h1>
+<p>ليس من الضروري أن تنشروا رواتب كل موظف.
+لكن يجب أن يفهم المهندسون:</p>
 <ul>
-<li>Reviewing internal salaries before extending offers.</li>
-<li>Refreshing bands annually.</li>
-<li>Adjusting loyal employees alongside market movement.</li>
-<li>Budgeting for compensation corrections.</li>
+<li>ما الذي يعنيه كل مستوى.</li>
+<li>كيف تتم الترقيات.</li>
+<li>كيفية عمل الزيادات في الرواتب.</li>
+<li>المهارات التي يُتوقع منهم تطويرها.</li>
+<li>النطاقات التقريبية للأجور.
+من المثير للدهشة أن الموظفين يتقبلون الفروق في الأجور عندما يفهمون <strong>سبب</strong> وجودها.
+أما الغموض, فيتقبلونه بدرجة أقل بكثير.</li>
 </ul>
-<p>Retention is usually cheaper than replacement.</p>
 <hr>
-<h1>Build promotion rubrics</h1>
-<p>Promotion conversations become dramatically easier when expectations already exist.</p>
-<p>For every level define:</p>
+<h1>الأخطاء الشائعة في الأجور</h1>
+<p>تجنب ما يلي إن أمكن:</p>
 <ul>
-<li>Technical execution</li>
-<li>Code quality</li>
-<li>Architecture</li>
-<li>Communication</li>
-<li>Mentorship</li>
-<li>Leadership</li>
-<li>Business impact</li>
-<li>Reliability</li>
-<li>Decision making</li>
-<li>Customer understanding</li>
+<li>التفاوض على كل عرض على حدة.</li>
+<li>مكافأة مدة الخدمة بدلاً من الأثر.</li>
+<li>إنشاء مستويات كثيرة جدًا في وقت مبكر جدًا.</li>
+<li>منح الترقيات لتجنب المحادثات الصعبة حول الأجور.</li>
+<li>إخفاء فلسفة الأجور.</li>
+<li>تجاهل تعديلات السوق لسنوات.</li>
+<li>السماح للموظفين الجدد بتحقيق دخل يفوق بكثير دخل الموظفين المخلصين.</li>
+<li>استخدام الأسهم لتبرير رواتب أقل من السوق دون شفافية.</li>
+<li>تقديم عروض مضادة فقط بعد استقالة شخص ما.
+كل واحد من هذه الأمور يخلق مشاكل باهظة التكلفة على المدى الطويل.</li>
 </ul>
-<p>Managers should be able to point to observable evidence.</p>
-<p>Not opinions.</p>
 <hr>
-<h1>Managers should never negotiate levels</h1>
-<p>One common mistake:</p>
-<p>Candidate negotiates from Mid to Senior.</p>
-<p>Levels aren&#39;t negotiation tools.</p>
-<p>They&#39;re organizational expectations.</p>
-<p>If someone genuinely meets Senior expectations...</p>
-<p>Hire them as Senior.</p>
-<p>If not...</p>
-<p>Increase compensation within the appropriate band instead.</p>
-<p>Titles should never be bargaining chips.</p>
-<hr>
-<h1>Refresh compensation annually</h1>
-<p>Engineering salaries move.</p>
-<p>Your compensation framework should too.</p>
-<p>Review:</p>
+<h1>نصائح للمهندسين</h1>
+<p>يساعدك فهم أطر الأجور على إدارة مسيرتك المهنية بشكل أكثر فعالية.
+أثناء المقابلة, اطرح أسئلة مدروسة مثل:</p>
 <ul>
-<li>Market data</li>
-<li>Inflation</li>
-<li>Competitive offers</li>
-<li>Retention metrics</li>
-<li>Offer acceptance rates</li>
-<li>Internal equity</li>
-<li>Promotion rates</li>
+<li>كيف يتم تحديد مستويات الهندسة؟</li>
+<li>ما الذي يميز «المهندس الأقدم» عن «الموظف»؟</li>
+<li>كم مرة تتم مراجعة نطاقات الأجور؟</li>
+<li>كيف يتم تقييم الترقيات؟</li>
+<li>هل ترتبط الترقيات بمدة الخدمة أم بالتأثير الملموس؟</li>
+<li>هل تنشر الشركة نطاقات الرواتب داخليًّا؟</li>
+<li>كم مرة تُجرى تقييمات الأداء؟</li>
+<li>هل يتم قياس الأجور مقارنةً ببيانات السوق؟
+عادةً ما تمتلك الشركات التي تقدم إجابات واضحة أقسام هندسة ناضجة.
+أما الشركات التي تقدم إجابات غامضة, فغالبًا ما تتخذ قرارات الأجور بشكل تفاعلي.</li>
 </ul>
-<p>A yearly review keeps the system healthy.</p>
 <hr>
-<h1>Transparency builds trust</h1>
-<p>You don&#39;t necessarily need to publish every employee&#39;s salary.</p>
-<p>But engineers should understand:</p>
+<h1>نصائح للمؤسسين وقادة الهندسة</h1>
+<p>تعد فلسفتك في الأجور جزءًا من العلامة التجارية لصاحب العمل.
+تشتهر أقوى مؤسسات الهندسة بما يلي:</p>
 <ul>
-<li>What each level means.</li>
-<li>How promotions happen.</li>
-<li>How raises work.</li>
-<li>What skills they&#39;re expected to develop.</li>
-<li>Approximately where compensation bands sit.</li>
+<li>الأجر العادل</li>
+<li>الترقيات الشفافة</li>
+<li>التوقعات الصادقة</li>
+<li>التسوية المتسقة</li>
+<li>العروض التنافسية</li>
+<li>المفاوضات القائمة على الاحترام
+وتتراكم هذه السمعة بمرور الوقت.
+المهندسون يتحدثون مع بعضهم البعض.
+الشركة المعروفة بأجر عادل تجذب أفضل المرشحين بجهد أقل.</li>
 </ul>
-<p>People are surprisingly accepting of differences in pay when they understand <strong>why</strong> they exist.</p>
-<p>They&#39;re far less accepting of mystery.</p>
 <hr>
-<h1>Common compensation mistakes</h1>
-<p>Avoid these if possible:</p>
-<ul>
-<li>Negotiating every offer independently.</li>
-<li>Rewarding tenure instead of impact.</li>
-<li>Creating too many levels too early.</li>
-<li>Giving promotions to avoid difficult compensation conversations.</li>
-<li>Hiding compensation philosophy.</li>
-<li>Ignoring market adjustments for years.</li>
-<li>Letting new hires dramatically out-earn loyal employees.</li>
-<li>Using equity to justify below-market salaries without transparency.</li>
-<li>Making counteroffers only after someone resigns.</li>
-</ul>
-<p>Every one of these creates expensive long-term problems.</p>
-<hr>
-<h1>Advice for engineers</h1>
-<p>Understanding compensation frameworks helps you navigate your own career more effectively.</p>
-<p>When interviewing, ask thoughtful questions such as:</p>
-<ul>
-<li>How are engineering levels defined?</li>
-<li>What distinguishes Senior from Staff?</li>
-<li>How often are compensation bands reviewed?</li>
-<li>How are promotions evaluated?</li>
-<li>Are promotions tied to tenure or demonstrated impact?</li>
-<li>Does the company publish salary ranges internally?</li>
-<li>How often are performance reviews conducted?</li>
-<li>Is compensation benchmarked against market data?</li>
-</ul>
-<p>Companies with clear answers usually have mature engineering organizations.</p>
-<p>Companies with vague answers often make compensation decisions reactively.</p>
-<hr>
-<h1>Advice for founders and engineering leaders</h1>
-<p>Your compensation philosophy is part of your employer brand.</p>
-<p>The strongest engineering organizations are known for:</p>
-<ul>
-<li>Fair pay</li>
-<li>Transparent promotions</li>
-<li>Honest expectations</li>
-<li>Consistent leveling</li>
-<li>Competitive offers</li>
-<li>Respectful negotiations</li>
-</ul>
-<p>That reputation compounds over time.</p>
-<p>Engineers talk to one another.</p>
-<p>A company known for fair compensation attracts better candidates with less effort.</p>
-<hr>
-<h1>The takeaway</h1>
-<p>Engineering compensation should never depend on who negotiated hardest or which recruiter happened to write the offer.</p>
-<p>A simple leveling framework, transparent salary bands, annual market reviews, and promotion criteria based on demonstrated impact create a hiring system that scales alongside your company. Candidates gain confidence, managers gain consistency, finance gains predictability, and engineers gain a clear understanding of how their careers can grow.</p>
-<p>The best compensation systems don&#39;t eliminate difficult conversations—they make them objective, fair, and grounded in shared expectations rather than guesswork.</p>
-<hr>
-<p><strong>Looking to hire exceptional engineers with a transparent compensation philosophy?</strong> Create a company account on <strong>JobsList.dev</strong>, publish salary ranges, explain your engineering career ladder, and attract developers who value fairness, clarity, and long-term growth.</p>
-5:["locale","ar","d"]
-6:["slug","engineering-compensation-bands-leveling","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-compensation-bands-leveling","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"engineering-compensation-bands-leveling\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-compensation-bands-leveling","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Compensation Bands and Leveling for Engineers\",\"description\":\"Build fair, competitive engineering compensation bands and career levels that improve hiring, retention, promotions, and transparency. Includes a complete framework founders and engineering leaders can adapt.\",\"datePublished\":\"2026-07-15T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Compensation Bands and Leveling for Engineers","date":"2026-07-15T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Compensation Bands and Leveling for Engineers | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Build fair, competitive engineering compensation bands and career levels that improve hiring, retention, promotions, and transparency. Includes a complete framework founders and engineering leaders can adapt."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Compensation Bands and Leveling for Engineers"}],["$","meta","15",{"property":"og:description","content":"Build fair, competitive engineering compensation bands and career levels that improve hiring, retention, promotions, and transparency. Includes a complete framework founders and engineering leaders can adapt."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-15T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Compensation Bands and Leveling for Engineers"}],["$","meta","25",{"name":"twitter:description","content":"Build fair, competitive engineering compensation bands and career levels that improve hiring, retention, promotions, and transparency. Includes a complete framework founders and engineering leaders can adapt."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>النقطة الأساسية</h1>
+<h2>لا ينبغي أبدًا أن يعتمد أجر المهندسين على من تفاوض بأشد قوة أو على أي مسؤول توظيف صادف أنه كتب العرض.
+إن إطارًا بسيطًا لتصنيف المستويات, ونطاقات رواتب شفافة, ومراجعات سنوية للسوق, ومعايير ترقية تستند إلى التأثير المثبت, كل ذلك يخلق نظام توظيف يتوسع بالتوازي مع نمو شركتكم. يكتسب المرشحون الثقة, ويحصل المديرون على الاتساق, ويكتسب قسم الشؤون المالية القدرة على التنبؤ, ويكتسب المهندسون فهمًا واضحًا لكيفية نمو مسيرتهم المهنية.
+أفضل أنظمة المكافآت لا تلغي المحادثات الصعبة — بل تجعلها موضوعية وعادلة وقائمة على توقعات مشتركة بدلاً من التخمينات.</h2>
+<p><strong>هل تبحث عن توظيف مهندسين استثنائيين بفلسفة مكافآت شفافة؟</strong> أنشئ حسابًا للشركة على <strong>JobsList.dev</strong>, وانشر نطاقات الرواتب, ووضح سلمك الوظيفي الهندسي, واجذب المطورين الذين يقدرون العدالة والوضوح والنمو على المدى الطويل.</p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نطاقات الأجور والمستويات الوظيفية للمهندسين\",\"description\":\"وضع نطاقات أجور ومستويات وظيفية عادلة وتنافسية للمهندسين, من شأنها تحسين عمليات التوظيف والاحتفاظ بالموظفين والترقيات والشفافية. يتضمن إطار عمل كامل يمكن للمؤسسين وقادة قسم الهندسة تكييفه وفقًا لاحتياجاتهم.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-15T00:00:00.000Z\",\"dateModified\":\"2026-07-15T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/engineering-compensation-bands-leveling/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نطاقات الأجور والمستويات الوظيفية للمهندسين"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"وضع نطاقات أجور ومستويات وظيفية عادلة وتنافسية للمهندسين, من شأنها تحسين عمليات التوظيف والاحتفاظ بالموظفين والترقيات والشفافية. يتضمن إطار عمل كامل يمكن للمؤسسين وقادة قسم الهندسة تكييفه وفقًا لاحتياجاتهم."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-15T00:00:00.000Z","children":"14 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[10," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","الأجور",{"className":"badge-gray","children":"الأجور"}],["$","span","الاستراتيجية",{"className":"badge-gray","children":"الاستراتيجية"}],["$","span","إدارة الهندسة",{"className":"badge-gray","children":"إدارة الهندسة"}],["$","span","النمو الوظيفي",{"className":"badge-gray","children":"النمو الوظيفي"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نطاقات الأجور والمستويات الوظيفية للمهندسين | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"وضع نطاقات أجور ومستويات وظيفية عادلة وتنافسية للمهندسين, من شأنها تحسين عمليات التوظيف والاحتفاظ بالموظفين والترقيات والشفافية. يتضمن إطار عمل كامل يمكن للمؤسسين وقادة قسم الهندسة تكييفه وفقًا لاحتياجاتهم."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نطاقات الأجور والمستويات الوظيفية للمهندسين"}],["$","meta","15",{"property":"og:description","content":"وضع نطاقات أجور ومستويات وظيفية عادلة وتنافسية للمهندسين, من شأنها تحسين عمليات التوظيف والاحتفاظ بالموظفين والترقيات والشفافية. يتضمن إطار عمل كامل يمكن للمؤسسين وقادة قسم الهندسة تكييفه وفقًا لاحتياجاتهم."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/engineering-compensation-bands-leveling/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-15T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نطاقات الأجور والمستويات الوظيفية للمهندسين"}],["$","meta","27",{"name":"twitter:description","content":"وضع نطاقات أجور ومستويات وظيفية عادلة وتنافسية للمهندسين, من شأنها تحسين عمليات التوظيف والاحتفاظ بالموظفين والترقيات والشفافية. يتضمن إطار عمل كامل يمكن للمؤسسين وقادة قسم الهندسة تكييفه وفقًا لاحتياجاتهم."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

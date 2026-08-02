@@ -1,1520 +1,1480 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Tec69,<p>Backend developer job descriptions often begin with a list of programming languages and end with a vague promise that the candidate will build “scalable, high-performance systems.”</p>
-<p>That tells experienced backend engineers very little.</p>
-<p>A strong candidate wants to understand the actual shape of the work:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","backend-developer-job-description-template","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"backend-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T167c3,<p>غالبًا ما تبدأ أوصاف وظائف مطوري الخلفية بقائمة بلغات البرمجة وتنتهي بوعد غامض بأن المرشح سيقوم ببناء «أنظمة قابلة للتوسع وعالية الأداء».
+وهذا لا يقدم سوى القليل جدًا من المعلومات لمهندسي الخلفية ذوي الخبرة.
+يرغب المرشح القوي في فهم الشكل الفعلي للعمل:</p>
 <ul>
-<li>What does the system do?</li>
-<li>Who depends on it?</li>
-<li>How much traffic or data does it handle?</li>
-<li>Is the architecture a monolith, modular application, service platform, or event-driven system?</li>
-<li>Is the main challenge reliability, integrations, data modeling, performance, security, or migration?</li>
-<li>Which systems would this person own?</li>
-<li>Who owns infrastructure?</li>
-<li>How often does production fail?</li>
-<li>Is there an on-call rotation?</li>
-<li>How much technical debt exists?</li>
-<li>What authority would the engineer have to improve it?</li>
+<li>ما الذي يفعله النظام؟</li>
+<li>من يعتمد عليه؟</li>
+<li>ما حجم حركة المرور أو البيانات التي يتعامل معها؟</li>
+<li>هل البنية عبارة عن تطبيق متجانس أم معياري أم منصة خدمات أم نظام مدفوع بالأحداث؟</li>
+<li>هل التحدي الرئيسي هو الموثوقية أم عمليات التكامل أم نمذجة البيانات أم الأداء أم الأمان أم الترحيل؟</li>
+<li>ما هي الأنظمة التي سيتولى هذا الشخص مسؤوليتها؟</li>
+<li>من المسؤول عن البنية التحتية؟</li>
+<li>كم مرة تتعطل بيئة الإنتاج؟</li>
+<li>هل هناك نظام تناوب للخدمة عند الطلب؟</li>
+<li>ما حجم الديون التقنية الموجودة؟</li>
+<li>ما هي الصلاحيات التي سيتمتع بها المهندس لتحسين النظام؟
+يمكن أن يشير مصطلح «مطور الخلفية» إلى عدة وظائف مختلفة تمامًا.
+قد تتضمن إحدى الأدوار تصميم واجهات برمجة التطبيقات (APIs) والمخططات العلائقية لمنتج آخذ في النمو. وقد تركز وظيفة أخرى على الأنظمة الموزعة عالية الإنتاجية. وقد تتضمن وظيفة أخرى دمج مزودي خدمات الدفع, أو تحديث تطبيق قديم, أو تشغيل مسارات البيانات, أو صيانة منصة داخلية صغيرة ولكنها حاسمة للأعمال.
+يمكن أن تكون كل هذه الأدوار وظائف هندسية قيّمة.
+وهي تجذب مرشحين مختلفين.
+الغرض من الوصف الوظيفي الجيد ليس جعل كل مهندس خلفي يرغب في الحصول على الوظيفة. بل هو مساعدة المهندسين المناسبين على إدراك أن المشكلات والتوقعات وبيئة العمل تتوافق مع ما يرغبون في القيام به بعد ذلك.
+يتضمن هذا الدليل نموذجًا كاملاً لوصف وظيفة مطور الباكيند يمكن نسخه ولصقه مباشرةً, يليه نصائح عملية لتحديد الدور, وفرز الطلبات, وتصميم المقابلات, وتقييم الحس التشغيلي, وتجنب الأخطاء الأكثر شيوعًا في توظيف مطوري الباكيند.</li>
 </ul>
-<p>“Backend developer” can describe several very different jobs.</p>
-<p>One role may involve designing APIs and relational schemas for a growing product. Another may focus on high-throughput distributed systems. Another may involve integrating payment providers, modernizing a legacy application, operating data pipelines, or maintaining a small but business-critical internal platform.</p>
-<p>All of those can be valuable engineering roles.</p>
-<p>They attract different candidates.</p>
-<p>The purpose of a good job description is not to make every backend engineer want the job. It is to help the right engineers recognize that the problems, expectations, and working environment match what they want to do next.</p>
-<p>This guide includes a complete copy-and-paste backend developer job description template, followed by practical advice for defining the role, screening applications, designing interviews, evaluating operational judgment, and avoiding the most common backend-hiring mistakes.</p>
-<h1>Backend Developer Job Description Template</h1>
-<p>Replace each bracketed section with accurate information about your company and role.</p>
-<p>Remove anything that does not apply.</p>
-<p>Do not publish placeholder language or responsibilities copied from another company.</p>
-<h2>[Level] Backend Developer at [Company]</h2>
-<p><strong>Location:</strong> [Remote within approved region / Hybrid in city / On-site in city]</p>
-<p><strong>Employment type:</strong> [Full-time / Part-time / Contract / Contract-to-hire]</p>
-<p><strong>Compensation:</strong> [Currency and salary range], plus [bonus, equity, or other compensation]</p>
-<p><strong>Level:</strong> [Junior / Mid-level / Senior / Staff]</p>
-<p><strong>Reports to:</strong> [Engineering Manager / Director of Engineering / CTO / Technical Lead]</p>
-<p><strong>Team:</strong> [Team name or product domain]</p>
-<h2>About [Company]</h2>
-<p>[Company] builds [plain-language description of the product or platform] for [customers or users].</p>
-<p>Our backend systems currently support:</p>
+<h1>نموذج وصف وظيفة مطور الباكيند</h1>
+<p>استبدل كل قسم بين الأقواس بمعلومات دقيقة عن شركتك والوظيفة.
+احذف أي شيء لا ينطبق على حالتك.
+لا تنشر عبارات عامة أو مسؤوليات منسوخة من شركة أخرى.</p>
+<h2>مطور برمجيات الخلفية [المستوى] في [الشركة]</h2>
+<p><strong>الموقع:</strong> [عن بُعد ضمن المنطقة المعتمدة / نظام هجين في المدينة / في مقر العمل بالمدينة]
+<strong>نوع التوظيف:</strong> [بدوام كامل / بدوام جزئي / بعقد / عقد قابل للتحويل إلى وظيفة دائمة]
+<strong>المكافآت:</strong> [العملة ونطاق الراتب], بالإضافة إلى [مكافأة, أو أسهم, أو مكافآت أخرى]
+<strong>المستوى:</strong> [مبتدئ / متوسط / خبير / موظف]
+<strong>يرفع تقاريره إلى:</strong> [مدير الهندسة / مدير قسم الهندسة / المدير التقني / القائد الفني]
+<strong>الفريق:</strong> [اسم الفريق أو مجال المنتج]</p>
+<h2>نبذة عن [الشركة]</h2>
+<p>تقوم [الشركة] بتطوير [وصف بلغة بسيطة للمنتج أو المنصة] لـ [العملاء أو المستخدمين].
+تدعم أنظمتنا الخلفية حاليًا:</p>
 <ul>
-<li>[number] customers or organizations;</li>
-<li>[number] active users;</li>
-<li>approximately [number] requests, transactions, jobs, or events per day;</li>
-<li>approximately [data volume];</li>
-<li>[availability, latency, or regulatory requirement, when relevant].</li>
+<li>[عدد] عميل أو مؤسسة؛</li>
+<li>[عدد] مستخدم نشط؛</li>
+<li>ما يقارب [عدد] طلبات أو معاملات أو مهام أو أحداث يوميًا؛</li>
+<li>ما يقارب [حجم البيانات]؛</li>
+<li>[التوافر أو زمن الاستجابة أو المتطلبات التنظيمية, عند الاقتضاء].
+نحن نبحث عن مطور أنظمة خلفية من [المستوى] ليتولى مسؤولية [خدمة محددة أو سير عمل أو مجال من منصة العمل أو قدرة تجارية].
+التحدي الرئيسي خلال الأشهر [ستة أو اثني عشر] أشهر هو [نتيجة تقنية أو منتجية محددة].</li>
 </ul>
-<p>We are hiring a [level] Backend Developer to own [specific service, workflow, platform area, or business capability].</p>
-<p>The primary challenge during the first [six or twelve] months will be [specific technical or product outcome].</p>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>Acme builds inventory and order-management software for regional distributors. Our platform supports approximately 3,000 customer organizations, processes 12 million inventory events per day, and integrates with more than 40 warehouse and accounting systems.</p>
-<p>We are hiring a Senior Backend Developer to own the order-allocation and inventory-reservation services. The first six months will focus on eliminating duplicate reservations, improving observability, and moving several high-risk workflows out of a tightly coupled legacy module.</p>
+<p>تقوم شركة Acme بتطوير برامج لإدارة المخزون والطلبات للموزعين الإقليميين. تدعم منصتنا ما يقارب 3,000 مؤسسة عميلة, وتعالج 12 مليون حدث متعلق بالمخزون يوميًا, وتتكامل مع أكثر من 40 نظامًا للمستودعات والمحاسبة.</p>
+<p>نحن نبحث عن مطور خلفي أول ليتولى مسؤولية خدمات تخصيص الطلبات وحجز المخزون. ستركز الأشهر الستة الأولى على إزالة الحجوزات المكررة, وتحسين قابلية المراقبة, ونقل العديد من سير العمل عالية المخاطر من وحدة قديمة مترابطة بشكل وثيق.
+هذا يوضح للمرشحين أكثر بكثير من:
+انضم إلى فريقنا سريع النمو وساعدنا في بناء واجهات برمجة تطبيقات (APIs) قابلة للتوسع.</p>
 </blockquote>
-<p>This tells candidates far more than:</p>
+<h1>سبب وجود هذا الدور</h1>
+<p>اشرح السبب التجاري أو التقني وراء التوظيف.
+تشمل الأسباب المحتملة ما يلي:</p>
+<ul>
+<li>قاعدة العملاء آخذة في النمو؛</li>
+<li>انتقال أحد المهندسين الحاليين إلى فريق آخر؛</li>
+<li>حاجة نظام قديم إلى التحديث؛</li>
+<li>قيام الشركة بإنشاء خدمة جديدة؛</li>
+<li>تحول الموثوقية إلى خطر تجاري؛</li>
+<li>صعوبة صيانة عمليات التكامل؛</li>
+<li>يحتاج الفريق إلى خبرة أقوى في قواعد البيانات؛</li>
+<li>تتحول المنصة من المعالجة الدفعية إلى المعالجة القائمة على الأحداث؛</li>
+<li>تحتاج المؤسسة إلى ملكية تقنية أوسع نطاقًا؛</li>
+<li>يتم توفير قدرة داخلية داخل الشركة.</li>
+</ul>
+<h3>مثال</h3>
 <blockquote>
-<p>Join our fast-growing team and help us build scalable APIs.</p>
+<p>تضاعف حجم الطلبات خلال العام الماضي, وأصبحت العديد من سير العمل التي صُممت في الأصل لقاعدة عملاء أصغر حجمًا تسبب الآن مشاكل في القفل وإعادة المحاولة والتسوية. تم إنشاء هذا الدور لتحسين النظام دون مقاطعة الخدمة للعملاء الحاليين.
+يستحق المرشحون معرفة ما إذا كانوا سينضمون إلى الفريق من أجل الإنشاء, أو الاستقرار, أو الترحيل, أو التوسع, أو الإصلاح.</p>
 </blockquote>
-<h1>Why this role exists</h1>
-<p>Explain the business or technical reason for hiring.</p>
-<p>Possible reasons include:</p>
+<h1>ما ستكون مسؤولاً عنه</h1>
+<p>سيكون هذا الدور مسؤولاً عن:</p>
 <ul>
-<li>the customer base is growing;</li>
-<li>an existing engineer is moving to another team;</li>
-<li>a legacy system needs modernization;</li>
-<li>the company is creating a new service;</li>
-<li>reliability has become a business risk;</li>
-<li>integrations are becoming difficult to maintain;</li>
-<li>the team needs stronger database expertise;</li>
-<li>the platform is moving from batch to event-driven processing;</li>
-<li>the organization needs broader technical ownership;</li>
-<li>an internal capability is being brought in-house.</li>
+<li>[الخدمة, أو واجهة برمجة التطبيقات (API), أو سير العمل, أو قدرات المنصة, أو المجال]؛</li>
+<li>[مخططات قواعد البيانات ذات الصلة وعمليات الترحيل]؛</li>
+<li>[موثوقية الإنتاج وقابلية المراقبة]؛</li>
+<li>[الوثائق الفنية ودلائل التشغيل]؛</li>
+<li>[العلاقات الفنية مع الواجهة الأمامية, أو الأجهزة المحمولة, أو البيانات, أو المنصة, أو الشركاء الخارجيين].
+تشمل المسؤولية المشتركة ما يلي:</li>
+<li>[الهندسة مع كبار المهندسين أو المهندسين العاملين]؛</li>
+<li>[قرارات خارطة الطريق مع فريق المنتج]؛</li>
+<li>[البنية التحتية السحابية مع فريق المنصة]؛</li>
+<li>[ضوابط الأمان مع فريق أمان التطبيقات]؛</li>
+<li>[الاستجابة للحوادث بالتعاون مع فريق هندسة موثوقية الموقع].
+تقع المسؤولية في مكان آخر:</li>
+<li>[تنفيذ الواجهة الأمامية]؛</li>
+<li>[توفير البنية التحتية]؛</li>
+<li>[علم البيانات]؛</li>
+<li>[دعم العملاء]؛</li>
+<li>[إدارة المنتج]؛</li>
+<li>[إدارة الموارد البشرية].
+يمنع تحديد الحدود المرشحين من اكتشافهم بعد الانضمام أن «المسؤولية عن الخلفية» تعني أيضًا إدارة البنية التحتية والدعم وضمان الجودة والأمن ومتطلبات المنتج بشكل مستقل.</li>
 </ul>
-<h3>Example</h3>
+<h1>ما ستقوم به</h1>
+<p>ستقوم بما يلي:</p>
+<ul>
+<li>تصميم خدمات الخلفية وبناؤها واختبارها ونشرها وتشغيلها باستخدام [لغة البرمجة وإطار العمل].</li>
+<li>تولي مسؤولية [نظام أو مجال معين] بدءًا من التصميم التقني وصولًا إلى دعم الإنتاج.</li>
+<li>ترجمة متطلبات المنتج إلى واجهات برمجة تطبيقات (APIs) واضحة, ونماذج بيانات, وعمليات خلفية, وسلوكيات التعامل مع الأعطال.</li>
+<li>تصميم وتطوير مخططات علائقية أو غير علائقية دون إحداث اضطراب غير ضروري للمستخدمين الحاليين.</li>
+<li>بناء واجهات برمجة التطبيقات (APIs) التي تستخدمها [تطبيقات الويب, أو عملاء الأجهزة المحمولة, أو الشركاء, أو الفرق الداخلية, أو المطورين الخارجيين].</li>
+<li>تحسين موثوقية النظام وقابليته للمراقبة وأمنه وزمن الاستجابة وكفاءته من حيث التكلفة.</li>
+<li>التحقيق في حوادث الإنتاج وتحويل الدروس المستفادة إلى اختبارات وتنبيهات وإجراءات وقائية ووثائق تشغيلية أكثر قوة.</li>
+<li>كتابة خطط الترحيل والتعبئة التكميلية والتوافق لتغييرات البيانات وواجهات برمجة التطبيقات (API).</li>
+<li>مراجعة طلبات السحب (pull requests) وتقديم ملاحظات تقنية بناءة.</li>
+<li>التعاون مع فرق الواجهة الأمامية, والهواتف المحمولة, والبيانات, والأمن, والمنصة, والمنتجات, وفرق التعامل المباشر مع العملاء.</li>
+<li>توثيق القرارات الفنية, وسلوك النظام, والمسؤولية, والإجراءات التشغيلية.</li>
+<li>المشاركة في [نظام المناوبة], الموصوف بالتفصيل أدناه.</li>
+<li>المساعدة في تحسين ممارسات التطوير داخل الفريق, وسلامة الإصدارات, والمعايير الهندسية.</li>
+<li>توجيه [المهندسين المبتدئين أو من المستوى المتوسط], عندما يكون ذلك مناسبًا للدور.</li>
+<li>تقييم المفاضلات التقنية وتجنب التعقيد غير الضروري.
+قم بتخصيص هذه القائمة وفقًا للعمل الفعلي.
+إذا كان المهندس سيقضي معظم وقته في عمليات التكامل, أو الترحيل, أو العمل على قواعد البيانات, أو موثوقية المنصة, فاذكر ذلك صراحةً.</li>
+</ul>
+<h1>ما هو شكل النجاح</h1>
+<h2>خلال أول 30 يومًا</h2>
+<p>ستقوم بما يلي:</p>
+<ul>
+<li>إكمال عملية التهيئة الفنية والتنظيمية؛</li>
+<li>تهيئة بيئة التطوير المحلية؛</li>
+<li>فهم المنتج والمستخدمين وسير العمل الأساسي؛</li>
+<li>تعلم البنية وعملية النشر؛</li>
+<li>مراجعة مؤشرات مستوى الخدمة الحالية والحوادث المتكررة؛</li>
+<li>تنفيذ تغيير صغير منخفض المخاطر في بيئة الإنتاج؛</li>
+<li>تحديد الوثائق المفقودة أو القديمة.</li>
+</ul>
+<h2>خلال الـ 60 يومًا الأولى</h2>
+<p>ستقوم بما يلي:</p>
+<ul>
+<li>تولي مسؤولية ميزة خلفية محددة أو تحسين الموثوقية؛</li>
+<li>التحقيق بشكل مستقل في العيوب الروتينية؛</li>
+<li>المساهمة في تصميم واجهة برمجة التطبيقات (API) ومخطط البيانات؛</li>
+<li>المشاركة في مراقبة بيئة الإنتاج ومراجعة الحوادث؛</li>
+<li>تحسين اختبار واحد على الأقل, أو لوحة معلومات, أو تنبيه, أو دليل تشغيل؛</li>
+<li>بناء علاقات مع الفرق التي تستخدم خدماتك.</li>
+</ul>
+<h2>خلال أول 90 يومًا</h2>
+<p>ستقوم بما يلي:</p>
+<ul>
+<li>تنفيذ مشروع خلفي هادف من البداية إلى النهاية؛</li>
+<li>إدارة تغيير في المخطط أو واجهة برمجة التطبيقات (API) بأمان؛</li>
+<li>توضيح المخاطر التقنية والمفاضلات بوضوح؛</li>
+<li>المشاركة بفعالية في الدعم عند الطلب أو دعم الإنتاج؛</li>
+<li>المساهمة في التخطيط التقني؛</li>
+<li>تحديد أهداف لملكية أوسع للنظام.</li>
+</ul>
+<h2>خلال السنة الأولى</h2>
+<p>قد تقوم بما يلي:</p>
+<ul>
+<li>تولي مسؤولية [خدمة أو مجال تقني]؛</li>
+<li>تحسين [الموثوقية, أو زمن الاستجابة, أو التكلفة, أو مؤشر التسليم]؛</li>
+<li>قيادة [مبادرة الترحيل, أو التحديث, أو التكامل, أو التوسع]؛</li>
+<li>توجيه المطورين الآخرين؛</li>
+<li>التأثير على البنية عبر الأنظمة ذات الصلة؛</li>
+<li>تحسين ممارسات الفريق المتعلقة بالحوادث, أو الاختبار, أو الإصدارات.
+يجب أن تعكس مقاييس النجاح النتائج, وليس مجرد حجم التذاكر.</li>
+</ul>
+<h1>ما نبحث عنه</h1>
+<p>قد تكون مناسبًا تمامًا إذا كان لديك:</p>
+<ul>
+<li>[عدد]+ سنوات من الخبرة في تطوير برمجيات الخلفية أو برمجيات جانب الخادم, أو دليل مكافئ على القدرة على العمل في بيئة الإنتاج.</li>
+<li>خبرة قوية في [لغة أو نظام بيئي أساسي واحد].</li>
+<li>خبرة في تصميم وصيانة واجهات برمجة التطبيقات (APIs).</li>
+<li>خبرة عملية في قواعد البيانات, بما في ذلك تصميم المخطط, والفهرسة, وتحليل الاستعلامات, وعمليات الترحيل, وسلامة البيانات.</li>
+<li>خبرة في اختبار سلوك الخلفية على مستوى الوحدة, أو التكامل, أو العقد.</li>
+<li>خبرة في نشر وتشغيل البرمجيات بعد الإصدار.</li>
+<li>مهارات قوية في تصحيح الأخطاء عبر حدود التطبيق, أو قاعدة البيانات, أو قائمة الانتظار, أو ذاكرة التخزين المؤقت, أو الشبكة, أو البنية التحتية.</li>
+<li>القدرة على تقسيم المشكلات الغامضة إلى أعمال تقنية يمكن إدارتها.</li>
+<li>التواصل الكتابي والشفهي الواضح.</li>
+<li>فهم للمصادقة والتفويض والتحقق من صحة المدخلات والأسرار وتصميم الخدمات الآمنة.</li>
+<li>القدرة على تحليل أسباب الفشل وإعادة المحاولة والقدرة على التكرار (idempotency) ومهلة الانتظار (timeouts) والإكمال الجزئي.</li>
+<li>خبرة في التعاون مع المهندسين والشركاء من خارج المجال الهندسي.
+حافظ على تركيز القسم المطلوب.
+لا تدرج كل تقنية في بيئتك على أنها إلزامية.</li>
+</ul>
+<h1>مهارات إضافية مرغوبة</h1>
+<p>قد تكون الخبرة في أي من المجالات التالية مفيدة:</p>
+<ul>
+<li>[قائمة انتظار الرسائل أو منصة تدفق الأحداث]؛</li>
+<li>[ذاكرة التخزين المؤقت أو مخزن البيانات الموزع]؛</li>
+<li>[مزود الخدمات السحابية]؛</li>
+<li>البنية التحتية ككود؛</li>
+<li>الحاويات أو التنسيق؛</li>
+<li>قابلية مراقبة الخدمات؛</li>
+<li>أنظمة التوافر العالي؛</li>
+<li>عمليات ترحيل البيانات الضخمة؛</li>
+<li>بنية متعددة المستأجرين؛</li>
+<li>واجهات برمجة التطبيقات (API) الموجهة للمطورين؛</li>
+<li>البيئات الخاضعة للتنظيم؛</li>
+<li>المعرفة المتخصصة في [التكنولوجيا المالية, أو الرعاية الصحية, أو اللوجستيات, أو التعليم, أو الأمن, أو أي مجال آخر]؛</li>
+<li>تطوير البنية الخلفية مفتوحة المصدر؛</li>
+<li>التوجيه الفني.
+إذا كنت سترفض مرشحًا لعدم توفر أحد هذه العناصر, فهذا يعني أنها ليست اختيارية حقًّا.</li>
+</ul>
+<h1>ما لا تحتاج إليه</h1>
+<p>لا تحتاج إلى:</p>
+<ul>
+<li>خبرة مهنية في استخدام كل أداة في مجموعة أدواتنا؛</li>
+<li>شهادة جامعية في علوم الحاسوب؛</li>
+<li>خبرة عمل سابقة في شركة تكنولوجية شهيرة؛</li>
+<li>خبرة في التعامل مع حركة مرور على نطاق الإنترنت؛</li>
+<li>خبرة في كل من الواجهة الأمامية والبنية التحتية؛</li>
+<li>ملف تعريف عام على GitHub؛</li>
+<li>استيفاء كل المؤهلات الاختيارية.
+أدرج فقط الوعود التي ستلتزم بها عملية التوظيف لديكم.</li>
+</ul>
+<h1>مجموعة تقنيات البنية الخلفية لدينا</h1>
+<p><strong>اللغة الأساسية:</strong> [Go / Java / Kotlin / C# / TypeScript / Python / Ruby / PHP / Rust]
+<strong>الإطار البرمجي:</strong> [Spring Boot / ASP.NET Core / NestJS / FastAPI / Django / Rails / Laravel / Axum / إطار عمل آخر]
+<strong>قاعدة البيانات الأساسية:</strong> [PostgreSQL / MySQL / SQL Server / MongoDB / نظام آخر]
+<strong>التخزين المؤقت:</strong> [Redis / Memcached / لا شيء]
+** نظام المراسلة:** [Kafka / RabbitMQ / SQS / Pub/Sub / NATS / لا شيء]
+<strong>واجهات برمجة التطبيقات (APIs):</strong> [REST / GraphQL / gRPC / webhooks / عقود الأحداث]
+<strong>السحابة:</strong> [AWS / Azure / Google Cloud / منصة مُدارة]
+<strong>البنية التحتية:</strong> [Kubernetes / بدون خادم / آلات افتراضية / حاويات مُدارة]
+<strong>التكامل المستمر/التسليم المستمر (CI/CD):</strong> [GitHub Actions / GitLab CI / Buildkite / CircleCI / نظام آخر]
+<strong>القابلية للمراقبة:</strong> [OpenTelemetry / Datadog / Grafana / Prometheus / Sentry / New Relic]
+<strong>الاختبار:</strong> [اختبار الوحدة, والتكامل, والعقود, ومن البداية إلى النهاية, واختبار الأداء]
+<strong>البنية:</strong> [بنية أحادية معيارية / موجهة للخدمات / مدفوعة بالأحداث / مختلطة]
+<strong>وتيرة النشر:</strong> [عدة مرات في اليوم / أسبوعيًا / إصدارات مجدولة]
+<strong>الواقع التقني الحالي:</strong> [جملة واحدة صادقة عن قاعدة الكود].</p>
+<h3>مثال</h3>
 <blockquote>
-<p>Order volume has doubled during the past year, and several workflows that were originally designed for a smaller customer base now create locking, retry, and reconciliation problems. This role exists to improve the system without interrupting current customers.</p>
+<p>خدمات معالجة الطلبات الأحدث تم اختبارها جيدًا ويمكن نشرها بشكل مستقل. لا تزال العديد من عمليات تكامل الموردين تعمل عبر وحدة استيراد قديمة ذات قابلية مراقبة محدودة, وسيكون استبدال تلك الوحدة جزءًا مهمًا من هذه الوظيفة.
+تلك الجملة تضفي مصداقية.
+يفترض المهندسون ذوو الخبرة وجود دين تقني. ويريدون معرفة نوع الدين الذي تم توظيفهم لمعالجته.</p>
 </blockquote>
-<p>Candidates deserve to know whether they are joining to create, stabilize, migrate, scale, or repair.</p>
-<h1>What you will own</h1>
-<p>This role will own:</p>
+<h1>وصف النظام بأمانة</h1>
+<p>غالبًا ما يهتم المرشحون للعمل في الخلفية بشكل النظام أكثر من اهتمامهم بالإطار.
+اشرح ما إذا كانت البنية:</p>
 <ul>
-<li>[service, API, workflow, platform capability, or domain];</li>
-<li>[relevant database schemas and migrations];</li>
-<li>[production reliability and observability];</li>
-<li>[technical documentation and operational runbooks];</li>
-<li>[technical relationships with frontend, mobile, data, platform, or external partners].</li>
+<li>متجانسة؛</li>
+<li>متجانسة معيارية؛</li>
+<li>تتألف من عدة خدمات؛</li>
+<li>تعتمد على الأحداث؛</li>
+<li>متكاملة بشكل كبير مع أطراف ثالثة؛</li>
+<li>تعتمد بشكل أساسي على المعالجة الدفعية؛</li>
+<li>حساسة للزمن الاستجابة؛</li>
+<li>حساسة للدقة؛</li>
+<li>كثيفة الاستخدام للبيانات؛</li>
+<li>خاضعة للتنظيم؛</li>
+<li>داخلية وليست موجهة للعملاء.</li>
 </ul>
-<p>Shared ownership includes:</p>
-<ul>
-<li>[architecture with senior or staff engineers];</li>
-<li>[roadmap decisions with product];</li>
-<li>[cloud infrastructure with the platform team];</li>
-<li>[security controls with application security];</li>
-<li>[incident response with site reliability engineering].</li>
-</ul>
-<p>Owned elsewhere:</p>
-<ul>
-<li>[frontend implementation];</li>
-<li>[infrastructure provisioning];</li>
-<li>[data science];</li>
-<li>[customer support];</li>
-<li>[product management];</li>
-<li>[people management].</li>
-</ul>
-<p>Defining boundaries prevents candidates from discovering after joining that “backend ownership” also means independently managing infrastructure, support, QA, security, and product requirements.</p>
-<h1>What you will do</h1>
-<p>You will:</p>
-<ul>
-<li>Design, build, test, deploy, and operate backend services using [language and framework].</li>
-<li>Own [specific system or domain] from technical design through production support.</li>
-<li>Translate product requirements into clear APIs, data models, background processes, and failure-handling behavior.</li>
-<li>Design and evolve relational or non-relational schemas without unnecessarily disrupting existing consumers.</li>
-<li>Build APIs used by [web applications, mobile clients, partners, internal teams, or external developers].</li>
-<li>Improve system reliability, observability, security, latency, and cost efficiency.</li>
-<li>Investigate production incidents and convert lessons into stronger tests, alerts, safeguards, and operational documentation.</li>
-<li>Write migrations, backfills, and compatibility plans for data and API changes.</li>
-<li>Review pull requests and provide constructive technical feedback.</li>
-<li>Collaborate with frontend, mobile, data, security, platform, product, and customer-facing teams.</li>
-<li>Document technical decisions, system behavior, ownership, and operational procedures.</li>
-<li>Participate in [on-call rotation], described in detail below.</li>
-<li>Help improve team development practices, release safety, and engineering standards.</li>
-<li>Mentor [junior or mid-level engineers], when appropriate to the role.</li>
-<li>Evaluate technical trade-offs and avoid unnecessary complexity.</li>
-</ul>
-<p>Customize this list around the actual work.</p>
-<p>If the engineer will spend most of their time on integrations, migrations, database work, or platform reliability, say so directly.</p>
-<h1>What success looks like</h1>
-<h2>During the first 30 days</h2>
-<p>You will:</p>
-<ul>
-<li>complete technical and organizational onboarding;</li>
-<li>configure the local development environment;</li>
-<li>understand the product, users, and critical workflows;</li>
-<li>learn the architecture and deployment process;</li>
-<li>review current service-level indicators and recurring incidents;</li>
-<li>ship a small, low-risk production change;</li>
-<li>identify missing or outdated documentation.</li>
-</ul>
-<h2>During the first 60 days</h2>
-<p>You will:</p>
-<ul>
-<li>own a contained backend feature or reliability improvement;</li>
-<li>independently investigate routine defects;</li>
-<li>contribute to API and schema design;</li>
-<li>participate in production monitoring and incident review;</li>
-<li>improve at least one test, dashboard, alert, or operational runbook;</li>
-<li>build relationships with the teams consuming your services.</li>
-</ul>
-<h2>During the first 90 days</h2>
-<p>You will:</p>
-<ul>
-<li>deliver a meaningful backend project end to end;</li>
-<li>manage a schema or API change safely;</li>
-<li>communicate technical risk and trade-offs clearly;</li>
-<li>participate effectively in on-call or production support;</li>
-<li>contribute to technical planning;</li>
-<li>establish goals for broader system ownership.</li>
-</ul>
-<h2>During the first year</h2>
-<p>You may:</p>
-<ul>
-<li>own [service or technical domain];</li>
-<li>improve [reliability, latency, cost, or delivery metric];</li>
-<li>lead [migration, modernization, integration, or scaling initiative];</li>
-<li>mentor other developers;</li>
-<li>influence architecture across related systems;</li>
-<li>improve the team’s incident, testing, or release practices.</li>
-</ul>
-<p>Success measures should reflect outcomes, not merely ticket volume.</p>
-<h1>What we are looking for</h1>
-<p>You may be a strong fit if you have:</p>
-<ul>
-<li>[number]+ years building backend or server-side software, or equivalent evidence of production capability.</li>
-<li>Strong experience with [one essential language or ecosystem].</li>
-<li>Experience designing and maintaining APIs.</li>
-<li>Practical database experience, including schema design, indexing, query analysis, migrations, and data integrity.</li>
-<li>Experience testing backend behavior at the unit, integration, or contract level.</li>
-<li>Experience deploying and operating software after release.</li>
-<li>Strong debugging skills across application, database, queue, cache, network, or infrastructure boundaries.</li>
-<li>Ability to break ambiguous problems into manageable technical work.</li>
-<li>Clear written and verbal communication.</li>
-<li>Understanding of authentication, authorization, input validation, secrets, and secure service design.</li>
-<li>Ability to reason about failure, retries, idempotency, timeouts, and partial completion.</li>
-<li>Experience collaborating with engineers and nonengineering partners.</li>
-</ul>
-<p>Keep the required section focused.</p>
-<p>Do not list every technology in your environment as mandatory.</p>
-<h1>Nice to have</h1>
-<p>Experience with any of the following may be helpful:</p>
-<ul>
-<li>[message queue or event-streaming platform];</li>
-<li>[cache or distributed data store];</li>
-<li>[cloud provider];</li>
-<li>infrastructure as code;</li>
-<li>containers or orchestration;</li>
-<li>service observability;</li>
-<li>high-availability systems;</li>
-<li>large data migrations;</li>
-<li>multi-tenant architecture;</li>
-<li>developer-facing APIs;</li>
-<li>regulated environments;</li>
-<li>domain knowledge in [fintech, healthcare, logistics, education, security, or another field];</li>
-<li>open-source backend development;</li>
-<li>technical mentoring.</li>
-</ul>
-<p>If you would reject a candidate for lacking an item, it is not genuinely optional.</p>
-<h1>What you do not need</h1>
-<p>You do not need:</p>
-<ul>
-<li>professional experience with every tool in our stack;</li>
-<li>a computer-science degree;</li>
-<li>previous employment at a famous technology company;</li>
-<li>experience at internet-scale traffic;</li>
-<li>expertise in both frontend and infrastructure;</li>
-<li>a public GitHub profile;</li>
-<li>to meet every optional qualification.</li>
-</ul>
-<p>Include only promises your hiring process will honor.</p>
-<h1>Our backend stack</h1>
-<p><strong>Primary language:</strong> [Go / Java / Kotlin / C# / TypeScript / Python / Ruby / PHP / Rust]</p>
-<p><strong>Framework:</strong> [Spring Boot / ASP.NET Core / NestJS / FastAPI / Django / Rails / Laravel / Axum / another framework]</p>
-<p><strong>Primary database:</strong> [PostgreSQL / MySQL / SQL Server / MongoDB / another system]</p>
-<p><strong>Caching:</strong> [Redis / Memcached / none]</p>
-<p><strong>Messaging:</strong> [Kafka / RabbitMQ / SQS / Pub/Sub / NATS / none]</p>
-<p><strong>APIs:</strong> [REST / GraphQL / gRPC / webhooks / event contracts]</p>
-<p><strong>Cloud:</strong> [AWS / Azure / Google Cloud / managed platform]</p>
-<p><strong>Infrastructure:</strong> [Kubernetes / serverless / virtual machines / managed containers]</p>
-<p><strong>CI/CD:</strong> [GitHub Actions / GitLab CI / Buildkite / CircleCI / another system]</p>
-<p><strong>Observability:</strong> [OpenTelemetry / Datadog / Grafana / Prometheus / Sentry / New Relic]</p>
-<p><strong>Testing:</strong> [unit, integration, contract, end-to-end, performance testing]</p>
-<p><strong>Architecture:</strong> [modular monolith / service-oriented / event-driven / mixed architecture]</p>
-<p><strong>Deployment cadence:</strong> [several times per day / weekly / scheduled releases]</p>
-<p><strong>Current technical reality:</strong> [one honest sentence about the codebase].</p>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>The newer order-processing services are well tested and independently deployable. Several supplier integrations still run through a legacy import module with limited observability, and replacing that module will be an important part of this role.</p>
+<p>المنتج هو في الأساس نظام متجانس معياري يتضمن ثلاث خدمات داعمة للإشعارات, ومعالجة الملفات, والبحث. لا نخطط لتقسيم كل مجال إلى خدمات مصغرة. ولا يتم إدخال حدود جديدة إلا عندما تبرر ذلك احتياجات التشغيل أو الملكية.
+وهذا يجذب المرشحين الذين يقدرون البنية المدروسة بدلاً من التفكيك المدفوع بالاتجاهات السائدة.</p>
 </blockquote>
-<p>That sentence creates credibility.</p>
-<p>Experienced engineers assume technical debt exists. They want to know what kind of debt they are being hired to address.</p>
-<h1>Describe the system honestly</h1>
-<p>Backend candidates often care more about the shape of the system than the framework.</p>
-<p>Explain whether the architecture is:</p>
+<h1>اذكر الحجم الفعلي</h1>
+<p>تجنب الصفات مثل:</p>
 <ul>
-<li>a monolith;</li>
-<li>a modular monolith;</li>
-<li>several services;</li>
-<li>event driven;</li>
-<li>heavily integrated with third parties;</li>
-<li>primarily batch processing;</li>
-<li>latency sensitive;</li>
-<li>correctness sensitive;</li>
-<li>data intensive;</li>
-<li>regulated;</li>
-<li>internal rather than customer facing.</li>
+<li>ضخم؛</li>
+<li>هائل؛</li>
+<li>فائق الحجم؛</li>
+<li>ذو حجم كبير؛</li>
+<li>على نطاق المؤسسة.
+استخدم الأرقام أو سياقًا تشغيليًا ذا مغزى.
+تشمل المؤشرات المفيدة ما يلي:</li>
+<li>عدد الطلبات في الثانية؛</li>
+<li>عدد الطلبات في اليوم؛</li>
+<li>عدد المعاملات في الشهر؛</li>
+<li>حجم قائمة الانتظار؛</li>
+<li>البيانات المخزنة؛</li>
+<li>المستخدمون النشطون؛</li>
+<li>مؤسسات العملاء؛</li>
+<li>عمليات التكامل الخارجية؛</li>
+<li>مدة الدفعة؛</li>
+<li>ذروة التزامن؛</li>
+<li>هدف التوافر؛</li>
+<li>هدف زمن الاستجابة؛</li>
+<li>تواتر النشر.</li>
 </ul>
-<h3>Example</h3>
+<h3>مثال واسع النطاق</h3>
 <blockquote>
-<p>The product is primarily a modular monolith with three supporting services for notifications, file processing, and search. We are not planning to split every domain into microservices. New boundaries are introduced only when operational or ownership needs justify them.</p>
+<p>تعالج المنصة ما يقارب 80,000 طلب في الدقيقة في أوقات الذروة و250 مليون حدث غير متزامن يوميًا.</p>
 </blockquote>
-<p>That attracts candidates who appreciate deliberate architecture rather than trend-driven decomposition.</p>
-<h1>Publish real scale</h1>
-<p>Avoid adjectives such as:</p>
-<ul>
-<li>massive;</li>
-<li>enormous;</li>
-<li>hyperscale;</li>
-<li>high-volume;</li>
-<li>enterprise-scale.</li>
-</ul>
-<p>Use numbers or meaningful operational context.</p>
-<p>Useful indicators include:</p>
-<ul>
-<li>requests per second;</li>
-<li>requests per day;</li>
-<li>transactions per month;</li>
-<li>queue volume;</li>
-<li>data stored;</li>
-<li>active users;</li>
-<li>customer organizations;</li>
-<li>external integrations;</li>
-<li>batch duration;</li>
-<li>peak concurrency;</li>
-<li>availability target;</li>
-<li>latency objective;</li>
-<li>deployment frequency.</li>
-</ul>
-<h3>Large-scale example</h3>
+<h3>مثال أصغر حجمًا ولكنه معقد</h3>
 <blockquote>
-<p>The platform processes approximately 80,000 requests per minute at peak and 250 million asynchronous events per day.</p>
+<p>نقدم خدماتنا لحوالي 400 عميل من الشركات. حجم الطلبات معتدل, لكن لكل عميل قواعد معقدة تتعلق بالأذونات والفوترة والاحتفاظ بالبيانات.</p>
 </blockquote>
-<h3>Smaller but complex example</h3>
+<h3>مثال خاضع للتنظيم</h3>
 <blockquote>
-<p>We serve approximately 400 enterprise customers. Request volume is moderate, but each customer has complex permission, billing, and data-retention rules.</p>
+<p>حجم المعاملات متواضع, لكن يجب أن يكون كل تغيير في البيانات قابلاً للتتبع ويجب الاحتفاظ به لأغراض إعداد التقارير التنظيمية.</p>
 </blockquote>
-<h3>Regulated example</h3>
+<h3>مثال في مرحلة مبكرة</h3>
 <blockquote>
-<p>Transaction volume is modest, but every data change must be traceable and retained for regulatory reporting.</p>
+<p>نقدم خدماتنا حاليًا لأقل من 100 عميل. التحدي لا يكمن في حجم حركة المرور بعد؛ بل في تصميم الحدود والممارسات التشغيلية التي تسمح للمنتج بالنمو بأمان.
+قد يكون الحجم المتواضع الصادق أمرًا جذابًا.
+لا يرغب كل مهندس خلفي في تشغيل أنظمة موزعة ضخمة.</p>
 </blockquote>
-<h3>Early-stage example</h3>
+<h1>شرح التحدي التقني الأساسي</h1>
+<p>تركز أدوار المهندسين الخلفيين عادةً على مجال واحد أو أكثر من هذه المجالات.</p>
+<h2>تطوير واجهات برمجة التطبيقات (API) والمنتجات</h2>
+<p>يقوم المهندس في المقام الأول بإنشاء واجهات برمجة التطبيقات (API) وسير العمل التجاري لمنتجات الويب أو الأجهزة المحمولة.</p>
+<h2>نمذجة البيانات</h2>
+<p>تركز هذه الوظيفة على تصميم المخططات, وسلامة البيانات, وعمليات الترحيل, وسلوك الاستعلامات, والبيانات التحليلية أو التشغيلية.</p>
+<h2>الأنظمة الموزعة</h2>
+<p>يتضمن العمل التزامن, وحدود الخدمة, وتبادل الرسائل, والاتساق, والتسامح مع الأعطال, والفشل الجزئي.</p>
+<h2>عمليات التكامل</h2>
+<p>يقوم المهندس بربط المزودين الخارجيين, وواجهات برمجة التطبيقات (API) للشركاء, وخدمات الدفع, ومنصات الهوية, أو أنظمة العملاء.</p>
+<h2>الموثوقية</h2>
+<p>يركز الدور على الحوادث, وقابلية المراقبة, والمرونة, والأداء, وتشغيل الإنتاج.</p>
+<h2>تحديث الأنظمة القديمة</h2>
+<p>يقوم المهندس باستبدال أو إعادة هيكلة الأنظمة القديمة بشكل تدريجي دون مقاطعة خدمة العملاء.</p>
+<h2>قدرات المنصة</h2>
+<p>يوفر العمل خدمات المصادقة, والفوترة, والأذونات, والبحث, والإشعارات, والملفات, وتنسيق سير العمل, أو الخدمات المشتركة الأخرى.</p>
+<h2>الصحة الخاضعة للتنظيم</h2>
+<p>يتطلب المجال قابلية تدقيق قوية, وخصوصية, وأمان, وإمكانية التتبع, أو الصحة المالية.
+حدد المحور الرئيسي.
+قد لا يستمتع المرشح الذي يرغب في عمل يعتمد بشكل مكثف على قواعد البيانات بقضاء معظم الأسبوع في دمج واجهات برمجة التطبيقات (API) الخاصة بأطراف ثالثة. وقد لا يرغب أخصائي الأنظمة الموزعة في دور يركز على ميزات منتج CRUD. ولا يخطئ أي من المرشحين.</p>
+<h1>اشرح ملكية البيانات</h1>
+<p>يحتاج مهندسو الخلفية إلى معرفة مسؤوليات البيانات التي تصاحب هذا الدور.
+وضح ما إذا كانوا سيتولون مسؤولية:</p>
+<ul>
+<li>تصميم المخطط؛</li>
+<li>عمليات الترحيل؛</li>
+<li>تصحيح بيانات الإنتاج؛</li>
+<li>الاحتفاظ بالبيانات؛</li>
+<li>الحذف؛</li>
+<li>سجلات التدقيق؛</li>
+<li>النسخ الاحتياطية؛</li>
+<li>الاستعادة؛</li>
+<li>ضوابط الخصوصية؛</li>
+<li>عقود البيانات؛</li>
+<li>نماذج التحليلات؛</li>
+<li>عمليات تصدير بيانات العملاء؛</li>
+<li>التسوية.</li>
+</ul>
+<h3>مثال</h3>
 <blockquote>
-<p>We currently serve fewer than 100 customers. The challenge is not traffic yet; it is designing boundaries and operational practices that let the product grow safely.</p>
+<p>يتولى الفريق مسؤولية مخططات PostgreSQL التي تدعم الاشتراكات, والفواتير, ومحاولات الدفع. يقوم المهندسون بتصميم عمليات الترحيل والتعبئة التكميلية, بينما يتولى فريق المنصة مسؤولية البنية التحتية لقاعدة البيانات, والنسخ الاحتياطية, والتحويل التلقائي في حالة الفشل.
+هذا أوضح من القول:
+مطلوب خبرة في قواعد البيانات.</p>
 </blockquote>
-<p>Honest modest scale can be attractive.</p>
-<p>Not every backend engineer wants to operate enormous distributed systems.</p>
-<h1>Explain the primary technical challenge</h1>
-<p>Backend roles commonly emphasize one or more of these areas.</p>
-<h2>API and product development</h2>
-<p>The engineer primarily builds APIs and business workflows for web or mobile products.</p>
-<h2>Data modeling</h2>
-<p>The role centers on schema design, data integrity, migrations, query behavior, and analytical or operational data.</p>
-<h2>Distributed systems</h2>
-<p>The work involves concurrency, service boundaries, messaging, consistency, fault tolerance, and partial failure.</p>
-<h2>Integrations</h2>
-<p>The engineer connects external providers, partner APIs, payment services, identity platforms, or customer systems.</p>
-<h2>Reliability</h2>
-<p>The role focuses on incidents, observability, resilience, performance, and production operation.</p>
-<h2>Legacy modernization</h2>
-<p>The engineer incrementally replaces or restructures older systems without interrupting customers.</p>
-<h2>Platform capabilities</h2>
-<p>The work provides authentication, billing, permissions, search, notifications, files, workflow orchestration, or other shared services.</p>
-<h2>Regulated correctness</h2>
-<p>The domain requires strong auditability, privacy, security, traceability, or financial correctness.</p>
-<p>Name the primary focus.</p>
-<p>A candidate who wants database-intensive work may not enjoy spending most of the week integrating third-party APIs. A distributed-systems specialist may not want a role centered on CRUD product features. Neither candidate is wrong.</p>
-<h1>Explain data ownership</h1>
-<p>Backend engineers need to know what data responsibilities accompany the role.</p>
-<p>Clarify whether they will own:</p>
+<h1>شرح مستخدمي واجهة برمجة التطبيقات (API)</h1>
+<p>تختلف واجهة برمجة التطبيقات (API) المصممة لعميل ويب داخلي واحد عن واجهة برمجة التطبيقات (API) التي يستخدمها مئات المطورين الخارجيين.
+حدد من يستخدم النظام:</p>
 <ul>
-<li>schema design;</li>
-<li>migrations;</li>
-<li>production data correction;</li>
-<li>data retention;</li>
-<li>deletion;</li>
-<li>audit trails;</li>
-<li>backups;</li>
-<li>recovery;</li>
-<li>privacy controls;</li>
-<li>data contracts;</li>
-<li>analytics models;</li>
-<li>customer exports;</li>
-<li>reconciliation.</li>
+<li>الواجهة الأمامية الداخلية؛</li>
+<li>تطبيقات الجوال الأصلية؛</li>
+<li>العملاء الخارجيون؛</li>
+<li>الشركاء؛</li>
+<li>الخدمات الداخلية؛</li>
+<li>منظومة المطورين العامة؛</li>
+<li>الأجهزة المدمجة؛</li>
+<li>أنظمة المعالجة الدفعية.
+وضح ما إذا كان الدور يشمل:</li>
+<li>إدارة الإصدارات؛</li>
+<li>التوافق؛</li>
+<li>حدود المعدل؛</li>
+<li>وثائق المطورين؛</li>
+<li>حزم أدوات التطوير (SDKs)؛</li>
+<li>webhooks؛</li>
+<li>دعم الشركاء؛</li>
+<li>تخطيط إيقاف الدعم.</li>
 </ul>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>The team owns the PostgreSQL schemas supporting subscriptions, invoices, and payment attempts. Engineers design migrations and backfills, while the platform team owns database infrastructure, backups, and failover.</p>
+<p>يتم استخدام واجهات برمجة التطبيقات (APIs) من قِبل تطبيق الويب الخاص بنا, وعميلين للهواتف المحمولة, وحوالي 60 تكاملاً مع الشركاء. ولذلك, فإن التوافق مع الإصدارات السابقة وخطط إيقاف الدعم الواضحة تعدان جزءين مهمين من العمل.</p>
 </blockquote>
-<p>This is clearer than saying:</p>
+<h1>وصف متطلبات الاتساق والصحة</h1>
+<p>قد تتسامح بعض الأنظمة مع الاتساق النهائي.
+بينما لا تستطيع أنظمة أخرى معالجة نفس الإجراء مرتين بأمان.
+توضيح ما إذا كان العمل يشمل:</p>
+<ul>
+<li>المدفوعات؛</li>
+<li>المخزون؛</li>
+<li>الهوية؛</li>
+<li>الاستحقاقات؛</li>
+<li>الجدولة؛</li>
+<li>الرعاية الصحية؛</li>
+<li>السجلات المالية؛</li>
+<li>سجلات التدقيق؛</li>
+<li>المراسلة؛</li>
+<li>المزامنة.</li>
+</ul>
+<h3>مثال</h3>
 <blockquote>
-<p>Experience with databases required.</p>
+<p>يجب أن تظل حجوزات المخزون صحيحة عبر المحاولات المتكررة والطلبات المتزامنة. يستخدم الفريق قيود قاعدة البيانات, ومفاتيح الإيدمبوتنس, ومهام التسوية بدلاً من الاعتماد فقط على عمليات الفحص على مستوى التطبيق.
+هذا يجذب المهندسين المهتمين بالصحة ويمنح المرشحين موضوعًا هامًا للمناقشة.</p>
 </blockquote>
-<h1>Explain API consumers</h1>
-<p>An API designed for one internal web client differs from an API used by hundreds of external developers.</p>
-<p>State who consumes the system:</p>
+<h1>نشر توقعات نظام المناوبة</h1>
+<p>الاستدعاء عند الحاجة هو شرط عمل جوهري.
+ولا ينبغي الكشف عنه خلال المقابلة النهائية.
+تضمن ما يلي:</p>
 <ul>
-<li>internal frontend;</li>
-<li>native mobile applications;</li>
-<li>external customers;</li>
-<li>partners;</li>
-<li>internal services;</li>
-<li>public developer ecosystem;</li>
-<li>embedded devices;</li>
-<li>batch systems.</li>
+<li>ما إذا كان المنصب يشمل المشاركة في الاستدعاء عند الحاجة؛</li>
+<li>حجم التناوب؛</li>
+<li>التكرار؛</li>
+<li>ساعات التغطية؛</li>
+<li>وقت الاستجابة المتوقع؛</li>
+<li>حجم الاستدعاءات المعتاد؛</li>
+<li>تكرار الاستدعاءات الليلية؛</li>
+<li>دعم تصعيد المشكلات؛</li>
+<li>التعويض أو وقت التعافي؛</li>
+<li>متى ينضم الموظفون الجدد إلى نظام المناوبة.</li>
 </ul>
-<p>Clarify whether the role includes:</p>
-<ul>
-<li>versioning;</li>
-<li>compatibility;</li>
-<li>rate limits;</li>
-<li>developer documentation;</li>
-<li>SDKs;</li>
-<li>webhooks;</li>
-<li>partner support;</li>
-<li>deprecation planning.</li>
-</ul>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>The APIs are consumed by our web application, two mobile clients, and approximately 60 partner integrations. Backward compatibility and clear deprecation plans are therefore important parts of the work.</p>
+<p>ينضم المهندسون إلى نظام مناوبة مكون من ثمانية أشخاص بعد حوالي ثلاثة أشهر من بدء العمل. تستمر المناوبة الأساسية أسبوعًا واحدًا كل ثمانية أسابيع. يتلقى الفريق ما يقارب استدعاءين قابلين للتنفيذ شهريًّا, مع حدوث تنبيهات ليلية بضع مرات كل ربع سنة. يتواجد مهندس مساعد ومدير هندسي لتصعيد المشكلات, ويحصل الموظفون على وقت تعافي بعد الحوادث الليلية الكبيرة.</p>
 </blockquote>
-<h1>Describe consistency and correctness requirements</h1>
-<p>Some systems may tolerate eventual consistency.</p>
-<p>Others cannot safely process the same action twice.</p>
-<p>Clarify whether the work includes:</p>
-<ul>
-<li>payments;</li>
-<li>inventory;</li>
-<li>identity;</li>
-<li>entitlements;</li>
-<li>scheduling;</li>
-<li>healthcare;</li>
-<li>financial records;</li>
-<li>audit logs;</li>
-<li>messaging;</li>
-<li>synchronization.</li>
-</ul>
-<h3>Example</h3>
+<h3>مثال صادق آخر</h3>
 <blockquote>
-<p>Inventory reservations must remain correct across retries and concurrent requests. The team uses database constraints, idempotency keys, and reconciliation jobs rather than relying only on application-level checks.</p>
+<p>عبء المناوبة الحالي أعلى مما نرغب. يتلقى الفريق عدة إخطارات أسبوعياً, تأتي في المقام الأول من أداة الاستيراد القديمة, ويعد تخفيف هذا العبء إحدى المسؤوليات الأولى لهذا الدور.
+قد يمثل المثال الثاني تحديًا, لكنه يتيح للمرشح المناسب أن يختار الانضمام عن علم.</p>
 </blockquote>
-<p>This attracts engineers interested in correctness and gives candidates a meaningful discussion topic.</p>
-<h1>Publish the on-call expectations</h1>
-<p>On-call is a material working condition.</p>
-<p>It should not be revealed during the final interview.</p>
-<p>Include:</p>
+<h1>لا تخفِ مسؤوليات الدعم</h1>
+<p>تتضمن بعض أدوار الباكيند ما يلي:</p>
 <ul>
-<li>whether the role participates;</li>
-<li>rotation size;</li>
-<li>frequency;</li>
-<li>coverage hours;</li>
-<li>expected response time;</li>
-<li>typical page volume;</li>
-<li>overnight frequency;</li>
-<li>escalation support;</li>
-<li>compensation or recovery time;</li>
-<li>when new hires join the rotation.</li>
+<li>التحقيق في بيانات العملاء؛</li>
+<li>دعم عمليات تكامل الشركاء؛</li>
+<li>مراجعة المهام الفاشلة؛</li>
+<li>المشاركة في مكالمات العملاء؛</li>
+<li>تصحيح أخطاء تكوين بيئة الإنتاج؛</li>
+<li>الإجابة على الأسئلة الفنية الداخلية.
+اذكر مقدار الوقت الذي يستهلكه ذلك.</li>
 </ul>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>Engineers join an eight-person on-call rotation after approximately three months of onboarding. The primary rotation lasts one week every eight weeks. The team receives approximately two actionable pages per month, with overnight alerts occurring a few times per quarter. A secondary engineer and engineering manager are available for escalation, and employees receive recovery time after significant overnight incidents.</p>
+<p>يقضي المهندسون حوالي 10% من وقتهم في مساعدة فريق الدعم على التحقيق في مشكلات التكامل أو البيانات المعقدة. يتولى فريق الدعم التواصل مع العملاء, بينما يقدم المهندسون التشخيص الفني والحلول.
+وهذا يمنع «المسؤولين عن الخلفية» من أن يصبحوا فريق دعم في الخطوط الأمامية بشكل غير متوقع.</p>
 </blockquote>
-<h3>Another honest example</h3>
+<h1>اشرح توقعات الأمان</h1>
+<p>غالبًا ما يتعامل مطورو الخلفية مع:</p>
+<ul>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>الأسرار؛</li>
+<li>البيانات الشخصية؛</li>
+<li>البيانات المالية؛</li>
+<li>تحميل الملفات؛</li>
+<li>الإجراءات الإدارية؛</li>
+<li>بيانات اعتماد التكامل؛</li>
+<li>سجلات التدقيق.
+قد تشمل المسؤوليات ذات الصلة ما يلي:</li>
+<li>التحقق من صحة المدخلات؛</li>
+<li>فرض التفويض من جانب الخادم؛</li>
+<li>تطبيق مبدأ «أقل امتياز ممكن»؛</li>
+<li>حماية الأسرار؛</li>
+<li>تجنب السجلات الحساسة؛</li>
+<li>مراجعة التبعيات؛</li>
+<li>تصميم إعدادات افتراضية آمنة؛</li>
+<li>دعم معالجة الثغرات الأمنية؛</li>
+<li>المشاركة في نمذجة التهديدات.
+لا تكتب:</li>
+</ul>
 <blockquote>
-<p>The current on-call load is higher than we want. The team receives several pages per week, primarily from the legacy importer, and reducing that load is one of the first responsibilities of this role.</p>
+<p>مطور الخلفية مسؤول عن أمن التطبيق بالكامل.
+يجب أن يكون الأمن مسؤولية مشتركة ومدعومة.</p>
 </blockquote>
-<p>The second example may be challenging, but it allows the right candidate to opt in knowingly.</p>
-<h1>Do not hide support responsibilities</h1>
-<p>Some backend roles include:</p>
-<ul>
-<li>investigating customer data;</li>
-<li>supporting partner integrations;</li>
-<li>reviewing failed jobs;</li>
-<li>joining customer calls;</li>
-<li>debugging production configuration;</li>
-<li>answering internal technical questions.</li>
-</ul>
-<p>State how much time this consumes.</p>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>Engineers spend approximately 10% of their time helping support investigate complex integration or data issues. The support team owns customer communication, while engineers provide technical diagnosis and fixes.</p>
+<p>يتحمل المهندسون مسؤولية التنفيذ الآمن والتفويض من جانب الخادم ضمن خدماتهم. ويقدم فريق أمن التطبيقات مراجعة التصميم, والأدوات, ودعم الحوادث للتغييرات ذات المخاطر العالية.</p>
 </blockquote>
-<p>This prevents “backend ownership” from becoming unexpected frontline support.</p>
-<h1>Explain security expectations</h1>
-<p>Backend developers often handle:</p>
+<h1>شرح توقعات الأداء</h1>
+<p>يمكن أن يعني الأداء عدة أمور:</p>
 <ul>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>secrets;</li>
-<li>personal data;</li>
-<li>financial data;</li>
-<li>file uploads;</li>
-<li>administrative actions;</li>
-<li>integration credentials;</li>
-<li>audit records.</li>
+<li>زمن انتقال منخفض؛</li>
+<li>إنتاجية عالية؛</li>
+<li>إنجاز الدُفعات بشكل يمكن التنبؤ به؛</li>
+<li>كفاءة قاعدة البيانات؛</li>
+<li>التحكم في التكلفة؛</li>
+<li>استخدام الذاكرة؛</li>
+<li>بدء التشغيل السريع؛</li>
+<li>التوافق مع شبكات الهاتف المحمول؛</li>
+<li>حدود معدل استخدام واجهة برمجة التطبيقات (API) الخارجية.
+حدد العنصر ذي الصلة.</li>
 </ul>
-<p>Relevant responsibilities may include:</p>
-<ul>
-<li>validating input;</li>
-<li>enforcing authorization server-side;</li>
-<li>applying least privilege;</li>
-<li>protecting secrets;</li>
-<li>avoiding sensitive logs;</li>
-<li>reviewing dependencies;</li>
-<li>designing secure defaults;</li>
-<li>supporting vulnerability remediation;</li>
-<li>participating in threat modeling.</li>
-</ul>
-<p>Do not write:</p>
+<h3>مثال</h3>
 <blockquote>
-<p>The backend developer is responsible for all application security.</p>
+<p>تستهدف معظم واجهات برمجة التطبيقات (API) الخاصة بالمنتج زمن انتقال p95 أقل من 300 مللي ثانية. عمليات تصدير البيانات الكبيرة للعملاء تتم بشكل غير متزامن, ومن المتوقع أن تكتمل في غضون 20 دقيقة دون التأثير على حركة المرور التفاعلية.
+يمكن للمرشحين بعد ذلك مناقشة التقدير الهندسي ذي الصلة.</p>
 </blockquote>
-<p>Security should be shared and supported.</p>
-<h3>Example</h3>
+<h1>شرح توقعات الموثوقية</h1>
+<p>تشمل المعلومات المفيدة ما يلي:</p>
+<ul>
+<li>أهداف مستوى الخدمة؛</li>
+<li>أهداف التوافر؛</li>
+<li>ميزانيات الأخطاء؛</li>
+<li>تواتر الحوادث؛</li>
+<li>توقعات الاستعادة؛</li>
+<li>التعافي من الكوارث؛</li>
+<li>استراتيجية النشر؛</li>
+<li>القدرة على التراجع.</li>
+</ul>
+<h3>مثال</h3>
 <blockquote>
-<p>Engineers are responsible for secure implementation and server-side authorization within their services. The application-security team provides design review, tooling, and incident support for higher-risk changes.</p>
+<p>تبلغ نسبة توافر واجهة برمجة تطبيقات الدفع 99.95% . تستخدم الإصدارات طريقة النشر التدريجي ويمكن التراجع عنها بشكل مستقل. يقوم الفريق بمراجعة كل حادثة تؤثر على العملاء وتتبع أعمال المتابعة حتى اكتمالها.
+لا تختلق ممارسات موثوقية ناضجة إذا لم تكن موجودة.
+يمكنك بدلاً من ذلك أن تقول:
+ليس لدينا حتى الآن أهداف رسمية لمستوى الخدمة. سيكون تحديد مؤشرات ذات مغزى وتحسين جودة التنبيهات جزءًا من هذه الوظيفة.</p>
 </blockquote>
-<h1>Explain performance expectations</h1>
-<p>Performance can mean several things:</p>
+<h1>اشرح كيف يتم اتخاذ القرارات الفنية</h1>
+<p>يرغب المرشحون للعمل في الخلفية في معرفة ما إذا كان بإمكانهم التأثير على البنية.
+صف ما يلي:</p>
 <ul>
-<li>low latency;</li>
-<li>high throughput;</li>
-<li>predictable batch completion;</li>
-<li>database efficiency;</li>
-<li>cost control;</li>
-<li>memory usage;</li>
-<li>fast startup;</li>
-<li>mobile-network compatibility;</li>
-<li>external API rate limits.</li>
+<li>المقترحات المكتوبة؛</li>
+<li>مراجعة البنية؛</li>
+<li>مناقشة الفريق؛</li>
+<li>موافقة مهندس الفريق؛</li>
+<li>سلطة المدير؛</li>
+<li>التجريب؛</li>
+<li>التحقق في بيئة الإنتاج.</li>
 </ul>
-<p>Name the relevant one.</p>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>Most product APIs target a p95 latency below 300 milliseconds. Large customer exports are asynchronous and are expected to complete within 20 minutes without affecting interactive traffic.</p>
+<p>يكتب المهندسون مقترحات تصميم موجزة للتغييرات التي تتضمن خدمات جديدة, أو مخططات مشتركة, أو واجهات برمجة تطبيقات عامة. يتخذ الفريق المسؤول القرار بعد مراجعة من الفرق المتأثرة ومهندس الفريق. نفضل القرارات القابلة للتراجع والترحيل التدريجي.
+هذا أكثر فائدة من القول إن الشركة تقدر «الملكية».</p>
 </blockquote>
-<p>Candidates can then discuss relevant engineering judgment.</p>
-<h1>Explain reliability expectations</h1>
-<p>Useful information includes:</p>
+<h1>اشرح العلاقة بالبنية التحتية</h1>
+<p>وضح ما إذا كان مطورو الخلفية:</p>
 <ul>
-<li>service-level objectives;</li>
-<li>availability targets;</li>
-<li>error budgets;</li>
-<li>incident frequency;</li>
-<li>recovery expectations;</li>
-<li>disaster recovery;</li>
-<li>deployment strategy;</li>
-<li>rollback capability.</li>
+<li>يكتبون كود التطبيق فقط؛</li>
+<li>يمتلكون تكوين الخدمة؛</li>
+<li>يحددون البنية التحتية ككود؛</li>
+<li>ينشرون بشكل مستقل؛</li>
+<li>يديرون Kubernetes؛</li>
+<li>يتناوبون على دعم المنصة؛</li>
+<li>يتشاركون مسؤوليات القابلية للمراقبة.</li>
 </ul>
-<h3>Example</h3>
+<h3>مثال</h3>
 <blockquote>
-<p>The payment API has a 99.95% availability target. Releases use progressive rollout and can be rolled back independently. The team reviews every customer-impacting incident and tracks follow-up work to completion.</p>
+<p>يمتلك مهندسو الخلفية حاويات الخدمة, وتكوين وقت التشغيل, ولوحات المعلومات, والتنبيهات, وبيانات النشر. فريق المنصة يمتلك المجموعات والشبكات والبنية التحتية للهوية وأنظمة CI/CD المشتركة.
+هذا يساعد المرشحين على فهم ما إذا كان مصطلح «الخلفية» يشمل أعمالًا مهمة تتعلق بالمنصة.</p>
 </blockquote>
-<p>Do not invent mature reliability practices if they do not exist.</p>
-<p>You may instead say:</p>
+<h1>المكافآت</h1>
+<p>انشر نطاقًا حقيقيًّا للمكافآت.
+قم بتضمين:</p>
+<ul>
+<li>العملة؛</li>
+<li>الراتب الأساسي؛</li>
+<li>المكافأة؛</li>
+<li>الأسهم؛</li>
+<li>التعديل الجغرافي؛</li>
+<li>أجر المتعاقد عند الاقتضاء؛</li>
+<li>المستوى الوظيفي.</li>
+</ul>
+<h3>مثال</h3>
 <blockquote>
-<p>We do not yet have formal service-level objectives. Defining meaningful indicators and improving alert quality will be part of this role.</p>
+<p>الراتب الأساسي: 135,000–175,000 دولار أمريكي
+المكافأة السنوية: حتى 10%
+الأسهم: متوفرة للموظفين المؤهلين
+تختلف المكافآت حسب مستوى الدور وموقع العمل المعتمد.
+تجنب:
+راتب تنافسي بناءً على الخبرة.
+هذه العبارة لا تقدم أي قيمة في اتخاذ القرار.</p>
 </blockquote>
-<h1>Explain how technical decisions are made</h1>
-<p>Backend candidates want to know whether they can influence architecture.</p>
-<p>Describe:</p>
+<h1>المزايا</h1>
+<p>اذكر المزايا بدقة.
+تشمل الفئات المحتملة ما يلي:</p>
+<h2>الصحة والرفاهية</h2>
 <ul>
-<li>written proposals;</li>
-<li>architecture review;</li>
-<li>team discussion;</li>
-<li>staff-engineer approval;</li>
-<li>manager authority;</li>
-<li>experimentation;</li>
-<li>production validation.</li>
+<li>التغطية الطبية؛</li>
+<li>الرعاية السنية والبصرية؛</li>
+<li>دعم الصحة النفسية؛</li>
+<li>تأمين العجز؛</li>
+<li>تأمين على الحياة.</li>
 </ul>
-<h3>Example</h3>
+<h2>الإجازات</h2>
+<ul>
+<li>الإجازة السنوية المدفوعة الأجر؛</li>
+<li>عطلات الشركة؛</li>
+<li>الإجازة المرضية؛</li>
+<li>إجازة الأبوة والأمومة؛</li>
+<li>إجازة الوفاة؛</li>
+<li>فترة التعافي بعد الحوادث.</li>
+</ul>
+<h2>دعم العمل</h2>
+<ul>
+<li>جهاز كمبيوتر محمول؛</li>
+<li>شاشات؛</li>
+<li>ميزانية المكتب المنزلي؛</li>
+<li>تعويض تكاليف الإنترنت؛</li>
+<li>بدل العمل المشترك؛</li>
+<li>أجهزة الاختبار.</li>
+</ul>
+<h2>التطوير</h2>
+<ul>
+<li>ميزانية التعلم؛</li>
+<li>المؤتمرات؛</li>
+<li>دعم الحصول على الشهادات؛</li>
+<li>الكتب؛</li>
+<li>التوجيه؛</li>
+<li>التنقل الداخلي.</li>
+</ul>
+<h2>الموارد المالية</h2>
+<ul>
+<li>مساهمات التقاعد؛</li>
+<li>الأسهم؛</li>
+<li>المكافآت؛</li>
+<li>المشاركة في الأرباح.
+استخدم القيم الفعلية قدر الإمكان.
+تعبير «إجازة مدفوعة الأجر سخية» أقل فائدة من «25 يومًا مدفوع الأجر سنويًّا».</li>
+</ul>
+<h1>توقعات العمل عن بُعد والموقع</h1>
+<p>اذكر:</p>
+<ul>
+<li>البلدان أو الولايات المسموح بها؛</li>
+<li>التداخل المطلوب في المنطقة الزمنية؛</li>
+<li>الحضور إلى المكتب؛</li>
+<li>السفر؛</li>
+<li>الانتقال؛</li>
+<li>هيكل التوظيف؛</li>
+<li>تصريح العمل؛</li>
+<li>ما إذا كان وضع العمل عن بُعد دائمًا.</li>
+</ul>
+<h3>مثال على العمل عن بُعد</h3>
 <blockquote>
-<p>Engineers write short design proposals for changes involving new services, shared schemas, or public APIs. The owning team makes the decision after review from affected teams and a staff engineer. We prefer reversible decisions and incremental migrations.</p>
+<p>هذه الوظيفة تُؤدى عن بُعد داخل الولايات المتحدة وكندا. يجب على أعضاء الفريق الحفاظ على تداخل زمني لمدة أربع ساعات على الأقل مع التوقيت الشرقي للولايات المتحدة. يجتمع الفريق وجهًا لوجه مرتين في السنة, وتتحمل الشركة تكاليف السفر.</p>
 </blockquote>
-<p>This is more useful than saying the company values “ownership.”</p>
-<h1>Explain the relationship with infrastructure</h1>
-<p>Clarify whether backend developers:</p>
-<ul>
-<li>write application code only;</li>
-<li>own service configuration;</li>
-<li>define infrastructure as code;</li>
-<li>deploy independently;</li>
-<li>manage Kubernetes;</li>
-<li>rotate through platform support;</li>
-<li>share observability responsibilities.</li>
-</ul>
-<h3>Example</h3>
+<h3>مثال على العمل المختلط</h3>
 <blockquote>
-<p>Backend engineers own service containers, runtime configuration, dashboards, alerts, and deployment manifests. The platform team owns clusters, networking, identity infrastructure, and shared CI/CD systems.</p>
+<p>هذه الوظيفة مختلطة في أتلانتا, مع حضور إلزامي للمكتب يومي الثلاثاء والخميس.
+لا تعلن عن وظيفة على أنها عن بُعد إذا كان على الموظف أن يقيم بالقرب من المكتب أو قد يُطلب منه العودة لاحقًا.</p>
 </blockquote>
-<p>This helps candidates understand whether “backend” includes significant platform work.</p>
-<h1>Compensation</h1>
-<p>Publish a real compensation range.</p>
-<p>Include:</p>
+<h1>عملية المقابلة</h1>
+<p>يجب أن تقيّم عملية المقابلة القوية الخاصة بوظائف الباك إند العمل الذي سيؤديه المهندس فعليًّا.</p>
+<h2>المرحلة 1: محادثة تمهيدية — 30 دقيقة</h2>
+<p>قابل [المسؤول عن التوظيف أو مدير التوظيف].
+ناقش:</p>
 <ul>
-<li>currency;</li>
-<li>base salary;</li>
-<li>bonus;</li>
-<li>equity;</li>
-<li>geographic adjustment;</li>
-<li>contractor rate where relevant;</li>
-<li>level.</li>
+<li>نطاق الوظيفة؛</li>
+<li>الأجر؛</li>
+<li>الموقع؛</li>
+<li>خبرة المرشح؛</li>
+<li>القيود العملية؛</li>
+<li>عملية المقابلة؛</li>
+<li>أسئلة المرشح.</li>
 </ul>
-<h3>Example</h3>
+<h2>المرحلة 2: مناقشة الأنظمة والخبرة — 60 دقيقة</h2>
+<p>اطلب من المرشح شرح نظام أو نظامين من أنظمة الباك إند التي قام ببنائها أو تشغيلها.
+قم بتقييم:</p>
+<ul>
+<li>مساهمته الشخصية؛</li>
+<li>البنية؛</li>
+<li>نموذج البيانات؛</li>
+<li>تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>الاختبار؛</li>
+<li>النشر؛</li>
+<li>قابلية المراقبة؛</li>
+<li>سلوك الفشل؛</li>
+<li>التعلم من بيئة الإنتاج.</li>
+</ul>
+<h2>المرحلة 3: الجلسة التقنية العملية — من 60 إلى 120 دقيقة</h2>
+<p>اختر نمطًا يشبه طبيعة العمل:</p>
+<ul>
+<li>تصميم واجهة برمجة التطبيقات (API) ونموذج البيانات؛</li>
+<li>تصحيح أخطاء خدمة قائمة؛</li>
+<li>مراجعة طلب سحب (pull request)؛</li>
+<li>تصميم عملية ترحيل؛</li>
+<li>توسيع تطبيق صغير؛</li>
+<li>مناقشة حادثة واقعية؛</li>
+<li>مهمة منزلية مدفوعة الأجر.</li>
+</ul>
+<h2>المرحلة 4: مناقشة الإنتاج والموثوقية — من 45 إلى 60 دقيقة</h2>
+<p>ناقش:</p>
+<ul>
+<li>الحوادث؛</li>
+<li>قابلية المراقبة؛</li>
+<li>عمليات الترحيل؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>خاصية الإيدمبوتنس؛</li>
+<li>المناوبة؛</li>
+<li>الاستعادة؛</li>
+<li>الأمان؛</li>
+<li>المسؤولية التشغيلية.</li>
+</ul>
+<h2>المرحلة 5: محادثة جماعية — 45 دقيقة</h2>
+<p>التعرف على:</p>
+<ul>
+<li>المهندسين المستقبليين؛</li>
+<li>شركاء المنتج أو الواجهة الأمامية؛</li>
+<li>شركاء المنصة أو البيانات؛</li>
+<li>المدير.
+مناقشة التعاون وإتاحة الفرصة للمرشحين لطرح أسئلة جوهرية.</li>
+</ul>
+<h2>القرار</h2>
+<p>نهدف إلى تقديم قرار نهائي أو تحديث واضح في غضون [عدد] أيام عمل.
+نشر العملية مسبقًا.
+لا تضف مراحل مفاجئة إلا إذا كان ذلك ضروريًا حقًا.</p>
+<h1>ما الذي يجب تقييمه أثناء فحص السيرة الذاتية</h1>
+<p>يجب أن تُظهر السيرة الذاتية الخاصة بالخلفية أكثر من مجرد قائمة بالتقنيات.
+ابحث عن أدلة على:</p>
+<ul>
+<li>الملكية التشغيلية؛</li>
+<li>تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>تصميم المخطط؛</li>
+<li>ترحيل البيانات؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الموثوقية؛</li>
+<li>الأداء؛</li>
+<li>الأمان؛</li>
+<li>الاختبار؛</li>
+<li>النشر؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>النتائج القابلة للقياس؛</li>
+<li>التعاون.</li>
+</ul>
+<h2>دليل قوي</h2>
 <blockquote>
-<p>Base salary: $135,000–$175,000 USD
-Annual bonus: Up to 10%
-Equity: Included for eligible employees
-Compensation varies by role level and approved work location.</p>
+<p>أُعيد تصميم سير عمل تجديد الاشتراك باستخدام مفاتيح idempotency وقيود قاعدة البيانات ومهام التسوية, مما أدى إلى خفض الرسوم المكررة من متوسط 14 في الشهر إلى صفر.</p>
 </blockquote>
-<p>Avoid:</p>
+<h2>دليل ضعيف</h2>
 <blockquote>
-<p>Competitive salary based on experience.</p>
+<p>مسؤول عن واجهات برمجة تطبيقات (API) الدفع.</p>
 </blockquote>
-<p>That phrase provides no decision-making value.</p>
-<h1>Benefits</h1>
-<p>List benefits precisely.</p>
-<p>Possible categories include:</p>
-<h2>Health and wellbeing</h2>
-<ul>
-<li>medical coverage;</li>
-<li>dental and vision;</li>
-<li>mental-health support;</li>
-<li>disability insurance;</li>
-<li>life insurance.</li>
-</ul>
-<h2>Time off</h2>
-<ul>
-<li>annual paid leave;</li>
-<li>company holidays;</li>
-<li>sick leave;</li>
-<li>parental leave;</li>
-<li>bereavement leave;</li>
-<li>recovery time after incidents.</li>
-</ul>
-<h2>Work support</h2>
-<ul>
-<li>laptop;</li>
-<li>monitors;</li>
-<li>home-office budget;</li>
-<li>internet reimbursement;</li>
-<li>coworking allowance;</li>
-<li>test devices.</li>
-</ul>
-<h2>Growth</h2>
-<ul>
-<li>learning budget;</li>
-<li>conferences;</li>
-<li>certification support;</li>
-<li>books;</li>
-<li>mentoring;</li>
-<li>internal mobility.</li>
-</ul>
-<h2>Financial</h2>
-<ul>
-<li>retirement contributions;</li>
-<li>equity;</li>
-<li>bonus;</li>
-<li>profit sharing.</li>
-</ul>
-<p>Use actual values when possible.</p>
-<p>“Generous paid time off” is less useful than “25 paid days per year.”</p>
-<h1>Remote and location expectations</h1>
-<p>State:</p>
-<ul>
-<li>permitted countries or states;</li>
-<li>required time-zone overlap;</li>
-<li>office attendance;</li>
-<li>travel;</li>
-<li>relocation;</li>
-<li>employment structure;</li>
-<li>work authorization;</li>
-<li>whether remote status is permanent.</li>
-</ul>
-<h3>Remote example</h3>
+<h2>دليل قوي</h2>
 <blockquote>
-<p>This role is remote within the United States and Canada. Team members must maintain at least four hours of overlap with US Eastern Time. The team meets in person twice per year, with travel covered by the company.</p>
+<p>خفضت زمن الاستجابة p95 من 1.4 ثانية إلى 310 مللي ثانية عن طريق إزالة استعلامات قاعدة البيانات المتكررة وإعادة تصميم فهرسين ذوي حجم كبير.</p>
 </blockquote>
-<h3>Hybrid example</h3>
+<h2>دليل ضعيف</h2>
 <blockquote>
-<p>This role is hybrid in Atlanta, with required office attendance on Tuesdays and Thursdays.</p>
+<p>تحسين أداء التطبيق.</p>
 </blockquote>
-<p>Do not advertise a role as remote when the employee must live near an office or may be required to return later.</p>
-<h1>Interview process</h1>
-<p>A strong backend interview process should evaluate the work the engineer will actually perform.</p>
-<h2>Stage 1: introductory conversation — 30 minutes</h2>
-<p>Meet [recruiter or hiring manager].</p>
-<p>Discuss:</p>
-<ul>
-<li>role scope;</li>
-<li>compensation;</li>
-<li>location;</li>
-<li>candidate experience;</li>
-<li>practical constraints;</li>
-<li>interview process;</li>
-<li>candidate questions.</li>
-</ul>
-<h2>Stage 2: systems and experience discussion — 60 minutes</h2>
-<p>Ask the candidate to walk through one or two backend systems they built or operated.</p>
-<p>Evaluate:</p>
-<ul>
-<li>their personal contribution;</li>
-<li>architecture;</li>
-<li>data model;</li>
-<li>API design;</li>
-<li>testing;</li>
-<li>deployment;</li>
-<li>observability;</li>
-<li>failure behavior;</li>
-<li>production learning.</li>
-</ul>
-<h2>Stage 3: practical technical session — 60 to 120 minutes</h2>
-<p>Choose a format that resembles the work:</p>
-<ul>
-<li>API and data-model design;</li>
-<li>debugging an existing service;</li>
-<li>reviewing a pull request;</li>
-<li>designing a migration;</li>
-<li>extending a small application;</li>
-<li>discussing a realistic incident;</li>
-<li>paid take-home assignment.</li>
-</ul>
-<h2>Stage 4: production and reliability discussion — 45 to 60 minutes</h2>
-<p>Discuss:</p>
-<ul>
-<li>incidents;</li>
-<li>observability;</li>
-<li>migrations;</li>
-<li>retries;</li>
-<li>idempotency;</li>
-<li>on-call;</li>
-<li>recovery;</li>
-<li>security;</li>
-<li>operational ownership.</li>
-</ul>
-<h2>Stage 5: team conversation — 45 minutes</h2>
-<p>Meet:</p>
-<ul>
-<li>future engineers;</li>
-<li>product or frontend partners;</li>
-<li>platform or data partners;</li>
-<li>manager.</li>
-</ul>
-<p>Discuss collaboration and allow substantial candidate questions.</p>
-<h2>Decision</h2>
-<p>We aim to provide a final decision or clear update within [number] business days.</p>
-<p>Publish the process in advance.</p>
-<p>Do not add surprise stages unless genuinely necessary.</p>
-<h1>What to evaluate during résumé screening</h1>
-<p>A backend résumé should show more than a list of technologies.</p>
-<p>Look for evidence of:</p>
-<ul>
-<li>production ownership;</li>
-<li>API design;</li>
-<li>schema design;</li>
-<li>data migration;</li>
-<li>debugging;</li>
-<li>reliability;</li>
-<li>performance;</li>
-<li>security;</li>
-<li>testing;</li>
-<li>deployment;</li>
-<li>incident response;</li>
-<li>measurable outcomes;</li>
-<li>collaboration.</li>
-</ul>
-<h2>Strong evidence</h2>
+<h2>دليل قوي</h2>
 <blockquote>
-<p>Redesigned the subscription-renewal workflow using idempotency keys, database constraints, and reconciliation jobs, reducing duplicate charges from an average of 14 per month to zero.</p>
+<p>قادت عملية ترحيل متوافقة مع الإصدارات السابقة لـ 60 مليون سجل حساب باستخدام عمليات الملء التدريجي, والقراءة المزدوجة, وتقارير التحقق من الصحة.</p>
 </blockquote>
-<h2>Weak evidence</h2>
+<h2>دليل ضعيف</h2>
 <blockquote>
-<p>Responsible for payment APIs.</p>
+<p>عملت على عمليات ترحيل قواعد البيانات.</p>
 </blockquote>
-<h2>Strong evidence</h2>
+<h1>لا تبالغ في تقدير قيمة أرباب العمل المشهورين</h1>
+<p>قد يوفر اسم الشركة المعروفة سياقًا.
+لكنه لا يثبت:</p>
+<ul>
+<li>الملكية؛</li>
+<li>العمق التقني؛</li>
+<li>الحس الإنتاجي؛</li>
+<li>التواصل؛</li>
+<li>الصلة بنظامك.
+قد يتحمل مطور في شركة أصغر مسؤولية شاملة أوسع نطاقًا من شخص في مؤسسة كبيرة عمل ضمن مكون ضيق النطاق.
+قم بتقييم العمل.</li>
+</ul>
+<h1>لا ترفض الخبرة اللغوية القابلة للتطبيق تلقائيًا</h1>
+<p>غالبًا ما تكون أساسيات البرمجة الخلفية قابلة للتطبيق عبر اللغات.
+قد يصبح مهندس Java المتميز منتجًا في Kotlin أو C# بسرعة.
+قد يتكيف مهندس Python المتميز مع TypeScript.
+قد يجلب مهندس Go خبرة قيّمة في التزامن وتصميم الخدمات إلى Rust.
+أعطِ الأولوية لـ:</p>
+<ul>
+<li>تصميم النظام؛</li>
+<li>تقييم واجهات برمجة التطبيقات (API)؛</li>
+<li>قواعد البيانات؛</li>
+<li>الاختبار؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>تشغيل الإنتاج؛</li>
+<li>أساسيات اللغة؛</li>
+<li>القدرة على التعلم.
+لا تشترط خبرة محددة في لغة برمجة ما لم تبرر مخاطر فترة التأقلم ذلك حقًّا.</li>
+</ul>
+<h1>تقييم الكفاءة في مجال قواعد البيانات</h1>
+<p>يجب أن يكون مهندسو الخلفية قادرين على التفكير المنطقي في البيانات, لا مجرد استدعاء أداة ORM.
+تشمل مجالات التقييم المفيدة ما يلي:</p>
+<ul>
+<li>تصميم المخطط؛</li>
+<li>التطبيع وإلغاء التطبيع؛</li>
+<li>الفهارس؛</li>
+<li>القيود؛</li>
+<li>المعاملات؛</li>
+<li>العزل؛</li>
+<li>خطط الاستعلام؛</li>
+<li>عمليات الترحيل؛</li>
+<li>القفل؛</li>
+<li>عمليات الملء اللاحق؛</li>
+<li>الاحتفاظ؛</li>
+<li>الحذف؛</li>
+<li>الاتساق.
+لا يشترط أن يكون المرشح مسؤول قاعدة بيانات.
+بل يجب أن يفهم كيف تؤثر قرارات التطبيق على صحة البيانات وأدائها.</li>
+</ul>
+<h1>أسئلة فحص قواعد البيانات</h1>
+<h2>«أخبرني عن مخطط قاعدة بيانات قمت بتصميمه.»</h2>
+<p>ابحث عن:</p>
+<ul>
+<li>حدود الكيانات؛</li>
+<li>العلاقات؛</li>
+<li>القيود؛</li>
+<li>أنماط الوصول؛</li>
+<li>التغييرات المستقبلية؛</li>
+<li>المفاضلات.</li>
+</ul>
+<h2>«أخبرني عن استعلام بطيء قمت بالتحقيق فيه.»</h2>
+<p>ابحث عن:</p>
+<ul>
+<li>القياس؛</li>
+<li>خطط التنفيذ؛</li>
+<li>الفهارس؛</li>
+<li>تقديرات الصفوف؛</li>
+<li>الاستعلامات المتكررة؛</li>
+<li>حجم النتائج؛</li>
+<li>التخزين المؤقت؛</li>
+<li>التحقق.</li>
+</ul>
+<h2>«صف عملية ترحيل إنتاجية محفوفة بالمخاطر.»</h2>
+<p>انتبه إلى:</p>
+<ul>
+<li>التوافق مع الإصدارات السابقة؛</li>
+<li>المرحلة التجريبية؛</li>
+<li>التعبئة اللاحقة؛</li>
+<li>التحقق من الصحة؛</li>
+<li>التراجع؛</li>
+<li>القفل؛</li>
+<li>التنسيق مع المستخدمين.</li>
+</ul>
+<h2>«متى تستخدم قيدًا في قاعدة البيانات بدلاً من التحقق من الصحة في التطبيق؟»</h2>
+<p>يدرك المرشحون المتميزون أن الثوابت المهمة غالبًا ما تستحق التطبيق بالقرب من البيانات.</p>
+<h1>تقييم القدرة على اتخاذ القرارات المتعلقة بواجهة برمجة التطبيقات (API)</h1>
+<p>قم بتقييم ما إذا كان المرشحون قادرين على تصميم واجهات تظل سهلة الفهم وقابلة للصيانة.
+ناقش:</p>
+<ul>
+<li>حدود الموارد؛</li>
+<li>التحقق من الصحة؛</li>
+<li>استجابات الأخطاء؛</li>
+<li>التفويض؛</li>
+<li>ترقيم الصفحات؛</li>
+<li>التصفية؛</li>
+<li>تحديد الإصدارات؛</li>
+<li>التبسيط؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>التوافق؛</li>
+<li>قابلية المراقبة.</li>
+</ul>
+<h2>سؤال تقييم واجهة برمجة التطبيقات (API)</h2>
 <blockquote>
-<p>Reduced p95 response time from 1.4 seconds to 310 milliseconds by removing repeated database queries and redesigning two high-volume indexes.</p>
+<p>صمم نقطة نهاية تُنشئ عملية دفع أو حجز مخزون. ماذا يحدث عندما يعيد العميل المحاولة بعد انتهاء مهلة الانتظار؟
+يكشف هذا عما إذا كان المرشح يفكر بما يتجاوز المسار السلس.</p>
 </blockquote>
-<h2>Weak evidence</h2>
+<h1>تقييم التعامل مع الأعطال</h1>
+<p>تفشل أنظمة الخلفية بسبب:</p>
+<ul>
+<li>انتهاء مهلة الشبكة؛</li>
+<li>التسليم المكرر؛</li>
+<li>انقطاع التبعية؛</li>
+<li>الإكمال الجزئي؛</li>
+<li>المدخلات غير الصالحة؛</li>
+<li>البيانات القديمة؛</li>
+<li>التنازع على القفل؛</li>
+<li>تراكم الطلبات في قائمة الانتظار؛</li>
+<li>انتهاء صلاحية بيانات الاعتماد؛</li>
+<li>استنفاد الموارد.
+اسأل:</li>
+</ul>
 <blockquote>
-<p>Improved application performance.</p>
+<p>ما الذي يمكن أن يفشل في هذا التصميم, وكيف سيتعافى النظام؟
+المرشحون الأكفاء لا يفترضون أن كل طلب يكتمل مرة واحدة وبالترتيب.</p>
 </blockquote>
-<h2>Strong evidence</h2>
+<h1>فحص المعرفة بـ «القدرة على التكرار»</h1>
+<p>تتعلق «القدرة على التكرار» بشكل خاص بما يلي:</p>
+<ul>
+<li>المدفوعات؛</li>
+<li>الويب هوكس؛</li>
+<li>المهام؛</li>
+<li>المراسلة؛</li>
+<li>المخزون؛</li>
+<li>التزويد؛</li>
+<li>عمليات التكامل.
+اسأل:</li>
+</ul>
 <blockquote>
-<p>Led a backward-compatible migration of 60 million account records using staged backfills, dual reads, and validation reports.</p>
+<p>كيف ستجعل إعادة محاولة هذه العملية آمنة؟
+قد تتناول الإجابات الجيدة ما يلي:</p>
 </blockquote>
-<h2>Weak evidence</h2>
+<ul>
+<li>مفاتيح الإيدمبوتنسي؛</li>
+<li>القيود الفريدة؛</li>
+<li>سجلات العمليات؛</li>
+<li>إزالة التكرار؛</li>
+<li>المعرفات الحتمية؛</li>
+<li>حدود المعاملات؛</li>
+<li>سلوك إعادة التشغيل.</li>
+</ul>
+<h1>تقييم الخبرة التشغيلية</h1>
+<p>الفجوة بين بناء الخدمة وتشغيلها كبيرة.
+اسأل المرشحين عن:</p>
+<ul>
+<li>حادثة في بيئة الإنتاج؛</li>
+<li>نتيجة ترحيل غير متوقعة؛</li>
+<li>جودة التنبيهات؛</li>
+<li>تصميم السجلات؛</li>
+<li>التراجع؛</li>
+<li>فشل التبعية؛</li>
+<li>مشكلة السعة؛</li>
+<li>عيب يؤثر على العملاء.</li>
+</ul>
+<h2>سؤال حول الحوادث</h2>
 <blockquote>
-<p>Worked on database migrations.</p>
+<p>أخبرني عن حادثة في بيئة الإنتاج قمت بالتحقيق فيها شخصيًا. كيف اكتشفتَها, واحتويتها, وحددتَ السبب, ومنعتَ تكرارها؟
+ابحث عن:</p>
 </blockquote>
-<h1>Do not overvalue famous employers</h1>
-<p>A recognizable company name may provide context.</p>
-<p>It does not prove:</p>
-<ul>
-<li>ownership;</li>
-<li>technical depth;</li>
-<li>production judgment;</li>
-<li>communication;</li>
-<li>relevance to your system.</li>
-</ul>
-<p>A developer at a smaller company may have broader end-to-end responsibility than someone at a large organization who worked within a narrow component.</p>
-<p>Evaluate the work.</p>
-<h1>Do not reject transferable language experience automatically</h1>
-<p>Backend fundamentals often transfer across languages.</p>
-<p>A strong Java engineer may become productive in Kotlin or C# quickly.</p>
-<p>A strong Python engineer may adapt to TypeScript.</p>
-<p>A Go engineer may bring valuable concurrency and service-design experience into Rust.</p>
-<p>Prioritize:</p>
-<ul>
-<li>system design;</li>
-<li>API judgment;</li>
-<li>databases;</li>
-<li>testing;</li>
-<li>debugging;</li>
-<li>production operation;</li>
-<li>language fundamentals;</li>
-<li>learning ability.</li>
-</ul>
-<p>Require exact language experience only when the ramp risk genuinely justifies it.</p>
-<h1>Screen for database competence</h1>
-<p>Backend engineers should be able to reason about data, not merely call an ORM.</p>
-<p>Useful screening areas include:</p>
-<ul>
-<li>schema design;</li>
-<li>normalization and denormalization;</li>
-<li>indexes;</li>
-<li>constraints;</li>
-<li>transactions;</li>
-<li>isolation;</li>
-<li>query plans;</li>
-<li>migrations;</li>
-<li>locking;</li>
-<li>backfills;</li>
-<li>retention;</li>
-<li>deletion;</li>
-<li>consistency.</li>
-</ul>
-<p>A candidate does not need to be a database administrator.</p>
-<p>They should understand how application decisions affect data correctness and performance.</p>
-<h1>Database screening questions</h1>
-<h2>“Tell me about a schema you designed.”</h2>
-<p>Listen for:</p>
-<ul>
-<li>entity boundaries;</li>
-<li>relationships;</li>
-<li>constraints;</li>
-<li>access patterns;</li>
-<li>future changes;</li>
-<li>trade-offs.</li>
-</ul>
-<h2>“Tell me about a slow query you investigated.”</h2>
-<p>Listen for:</p>
-<ul>
-<li>measurement;</li>
-<li>execution plans;</li>
-<li>indexes;</li>
-<li>row estimates;</li>
-<li>repeated queries;</li>
-<li>result size;</li>
-<li>caching;</li>
-<li>verification.</li>
-</ul>
-<h2>“Describe a risky production migration.”</h2>
-<p>Listen for:</p>
-<ul>
-<li>backward compatibility;</li>
-<li>staging;</li>
-<li>backfill;</li>
-<li>validation;</li>
-<li>rollback;</li>
-<li>locking;</li>
-<li>consumer coordination.</li>
-</ul>
-<h2>“When would you use a database constraint instead of application validation?”</h2>
-<p>Strong candidates understand that important invariants often deserve enforcement close to the data.</p>
-<h1>Screen for API judgment</h1>
-<p>Evaluate whether candidates can design interfaces that remain understandable and maintainable.</p>
-<p>Discuss:</p>
-<ul>
-<li>resource boundaries;</li>
-<li>validation;</li>
-<li>error responses;</li>
-<li>authorization;</li>
-<li>pagination;</li>
-<li>filtering;</li>
-<li>versioning;</li>
-<li>idempotency;</li>
-<li>retries;</li>
-<li>rate limiting;</li>
-<li>compatibility;</li>
-<li>observability.</li>
-</ul>
-<h2>API screening question</h2>
-<blockquote>
-<p>Design an endpoint that creates a payment or inventory reservation. What happens when the client retries after timing out?</p>
-</blockquote>
-<p>This reveals whether the candidate thinks beyond the happy path.</p>
-<h1>Screen for failure handling</h1>
-<p>Backend systems fail through:</p>
-<ul>
-<li>network timeouts;</li>
-<li>duplicate delivery;</li>
-<li>dependency outages;</li>
-<li>partial completion;</li>
-<li>invalid input;</li>
-<li>stale data;</li>
-<li>lock contention;</li>
-<li>queue backlog;</li>
-<li>expired credentials;</li>
-<li>resource exhaustion.</li>
-</ul>
-<p>Ask:</p>
-<blockquote>
-<p>What can fail in this design, and how would the system recover?</p>
-</blockquote>
-<p>Strong candidates do not assume that every request completes once and in order.</p>
-<h1>Screen for idempotency knowledge</h1>
-<p>Idempotency is especially relevant to:</p>
-<ul>
-<li>payments;</li>
-<li>webhooks;</li>
-<li>jobs;</li>
-<li>messaging;</li>
-<li>inventory;</li>
-<li>provisioning;</li>
-<li>integrations.</li>
-</ul>
-<p>Ask:</p>
-<blockquote>
-<p>How would you make this operation safe to retry?</p>
-</blockquote>
-<p>Good answers may discuss:</p>
-<ul>
-<li>idempotency keys;</li>
-<li>unique constraints;</li>
-<li>operation records;</li>
-<li>deduplication;</li>
-<li>deterministic identifiers;</li>
-<li>transactional boundaries;</li>
-<li>replay behavior.</li>
-</ul>
-<h1>Screen for operational experience</h1>
-<p>The gap between building a service and operating one is significant.</p>
-<p>Ask candidates about:</p>
-<ul>
-<li>a production incident;</li>
-<li>an unexpected migration result;</li>
-<li>alert quality;</li>
-<li>log design;</li>
-<li>rollback;</li>
-<li>dependency failure;</li>
-<li>capacity problem;</li>
-<li>customer-impacting defect.</li>
-</ul>
-<h2>Incident question</h2>
-<blockquote>
-<p>Tell me about a production incident you personally investigated. How did you discover it, contain it, identify the cause, and prevent recurrence?</p>
-</blockquote>
-<p>Look for:</p>
 <ol>
-<li>detection;</li>
-<li>customer or business impact;</li>
-<li>mitigation;</li>
-<li>evidence gathering;</li>
-<li>root cause;</li>
-<li>follow-up safeguards;</li>
-<li>communication;</li>
-<li>learning.</li>
+<li>الكشف؛</li>
+<li>التأثير على العملاء أو الأعمال؛</li>
+<li>التخفيف من حدة الحادث؛</li>
+<li>جمع الأدلة؛</li>
+<li>السبب الجذري؛</li>
+<li>إجراءات الوقاية اللاحقة؛</li>
+<li>التواصل؛</li>
+<li>التعلم.
+تجنب تفضيل السرد الدرامي على التحقيق المنضبط.</li>
 </ol>
-<p>Avoid rewarding dramatic storytelling over disciplined investigation.</p>
-<h1>Screen for observability judgment</h1>
-<p>Ask:</p>
+<h1>تقييم القدرة على تقييم قابلية المراقبة</h1>
+<p>اسأل:</p>
 <blockquote>
-<p>What would you monitor for this service?</p>
+<p>ما الذي ستراقبه في هذه الخدمة؟
+قد تتضمن الإجابات الجيدة ما يلي:</p>
 </blockquote>
-<p>Good answers may include:</p>
 <ul>
-<li>request rate;</li>
-<li>latency;</li>
-<li>error rate;</li>
-<li>saturation;</li>
-<li>queue depth;</li>
-<li>job age;</li>
-<li>retry volume;</li>
-<li>dependency failures;</li>
-<li>business outcomes;</li>
-<li>data reconciliation.</li>
+<li>معدل الطلبات؛</li>
+<li>زمن الاستجابة؛</li>
+<li>معدل الأخطاء؛</li>
+<li>التشبع؛</li>
+<li>عمق قائمة الانتظار؛</li>
+<li>عمر المهمة؛</li>
+<li>حجم المحاولات المتكررة؛</li>
+<li>فشل التبعيات؛</li>
+<li>النتائج التجارية؛</li>
+<li>مطابقة البيانات.
+يميز المهندسون المتميزون بين:</li>
+<li>السجلات؛</li>
+<li>المقاييس؛</li>
+<li>التتبع؛</li>
+<li>التنبيهات؛</li>
+<li>لوحات المعلومات؛</li>
+<li>المؤشرات على مستوى الأعمال.</li>
 </ul>
-<p>Strong engineers distinguish between:</p>
+<h1>فحص أساسيات الأمن</h1>
+<p>تشمل الموضوعات المفيدة ما يلي:</p>
 <ul>
-<li>logs;</li>
-<li>metrics;</li>
-<li>traces;</li>
-<li>alerts;</li>
-<li>dashboards;</li>
-<li>business-level indicators.</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>عزل المستأجر؛</li>
+<li>التحقق من صحة المدخلات؛</li>
+<li>الحقن؛</li>
+<li>الأسرار؛</li>
+<li>تعرض البيانات؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>تسجيل التدقيق؛</li>
+<li>السجلات الحساسة؛</li>
+<li>مخاطر التبعية.</li>
 </ul>
-<h1>Screen for security fundamentals</h1>
-<p>Useful topics include:</p>
-<ul>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>tenant isolation;</li>
-<li>input validation;</li>
-<li>injection;</li>
-<li>secrets;</li>
-<li>data exposure;</li>
-<li>rate limiting;</li>
-<li>audit logging;</li>
-<li>sensitive logs;</li>
-<li>dependency risk.</li>
-</ul>
-<h2>Security screening question</h2>
+<h2>سؤال فحص الأمان</h2>
 <blockquote>
-<p>A user can belong to several organizations. How would you ensure they can access only records belonging to organizations where they have an active membership?</p>
+<p>يمكن أن ينتمي المستخدم إلى عدة مؤسسات. كيف ستضمن أنه لا يمكنه الوصول إلا إلى السجلات التي تنتمي إلى المؤسسات التي لديه عضوية نشطة فيها؟
+ابحث عن التفويض من جانب الخادم, والوصول الحذر إلى البيانات, والاختبار, والرفض الافتراضي.</p>
 </blockquote>
-<p>Look for server-side authorization, careful data access, testing, and denial by default.</p>
-<h1>Screen for migration judgment</h1>
-<p>Backend work frequently involves changing live systems.</p>
-<p>Ask:</p>
+<h1>فحص القدرة على اتخاذ قرارات الترحيل</h1>
+<p>غالبًا ما ينطوي العمل في الخلفية على تغيير الأنظمة الحية.
+اسأل:</p>
 <blockquote>
-<p>How would you replace a heavily used API or database column without taking the product down?</p>
+<p>كيف ستستبدل واجهة برمجة تطبيقات (API) أو عمود قاعدة بيانات مستخدمًا بكثرة دون إيقاف تشغيل المنتج؟
+قد تتناول الإجابات القوية ما يلي:</p>
 </blockquote>
-<p>Strong answers may discuss:</p>
 <ul>
-<li>compatibility;</li>
-<li>additive changes;</li>
-<li>dual reads or writes;</li>
-<li>backfills;</li>
-<li>validation;</li>
-<li>staged rollout;</li>
-<li>feature flags;</li>
-<li>deprecation;</li>
-<li>monitoring;</li>
-<li>cleanup.</li>
+<li>التوافق؛</li>
+<li>التغييرات الإضافية؛</li>
+<li>القراءة أو الكتابة المزدوجة؛</li>
+<li>التعبئة اللاحقة؛</li>
+<li>التحقق من الصحة؛</li>
+<li>النشر على مراحل؛</li>
+<li>علامات الميزات؛</li>
+<li>إيقاف الاستخدام؛</li>
+<li>المراقبة؛</li>
+<li>التنظيف.</li>
 </ul>
-<h1>Screen for appropriate simplicity</h1>
-<p>Not every backend problem needs:</p>
+<h1>تقييم البساطة المناسبة</h1>
+<p>ليست كل مشكلة في الخلفية تحتاج إلى:</p>
 <ul>
-<li>microservices;</li>
-<li>Kafka;</li>
-<li>event sourcing;</li>
-<li>Kubernetes;</li>
-<li>distributed transactions;</li>
-<li>several databases.</li>
+<li>الخدمات الصغيرة؛</li>
+<li>كافكا؛</li>
+<li>مصدر الأحداث؛</li>
+<li>كوبرنيتس؛</li>
+<li>المعاملات الموزعة؛</li>
+<li>قواعد بيانات متعددة.
+اسأل:</li>
 </ul>
-<p>Ask:</p>
 <blockquote>
-<p>When would you keep this inside the existing application instead of creating a new service?</p>
+<p>متى ستحتفظ بهذا داخل التطبيق الحالي بدلاً من إنشاء خدمة جديدة؟
+يمكن للمرشحين المتميزين تبرير كل من الفصل والتوحيد.
+يجب أن تحل التعقيدات مشكلة حقيقية.</p>
 </blockquote>
-<p>Strong candidates can justify both separation and consolidation.</p>
-<p>Complexity should solve a real problem.</p>
-<h1>Screen for communication</h1>
-<p>Backend developers must explain technical decisions to:</p>
+<h1>تقييم مهارات التواصل</h1>
+<p>يجب على مطوري الخلفية شرح القرارات التقنية إلى:</p>
 <ul>
-<li>frontend teams;</li>
-<li>mobile engineers;</li>
-<li>product managers;</li>
-<li>support;</li>
-<li>security;</li>
-<li>platform teams;</li>
-<li>customers or partners.</li>
+<li>فرق الواجهة الأمامية؛</li>
+<li>مهندسي الأجهزة المحمولة؛</li>
+<li>مديري المنتجات؛</li>
+<li>فريق الدعم؛</li>
+<li>فريق الأمن؛</li>
+<li>فرق المنصات؛</li>
+<li>العملاء أو الشركاء.
+اطلب من المرشحين شرح نظام ما على مستويين:</li>
 </ul>
-<p>Ask candidates to explain a system at two levels:</p>
 <ol>
-<li>to another backend engineer;</li>
-<li>to a nontechnical product partner.</li>
+<li>لمهندس خلفي آخر؛</li>
+<li>لشريك منتج غير تقني.
+هذا يكشف ما إذا كان بإمكانهم تكييف طريقة التواصل مع الجمهور المستهدف.</li>
 </ol>
-<p>This reveals whether they can adapt communication to the audience.</p>
-<h1>Screen for ownership without encouraging hero culture</h1>
-<p>Ownership means:</p>
+<h1>تقييم حس المسؤولية دون تشجيع ثقافة «البطل»</h1>
+<p>المسؤولية تعني:</p>
 <ul>
-<li>understanding the outcome;</li>
-<li>identifying risk;</li>
-<li>communicating blockers;</li>
-<li>following through;</li>
-<li>verifying production behavior;</li>
-<li>improving the system after failure.</li>
+<li>فهم النتيجة؛</li>
+<li>تحديد المخاطر؛</li>
+<li>الإبلاغ عن العوائق؛</li>
+<li>المتابعة حتى النهاية؛</li>
+<li>التحقق من سلوك النظام في بيئة الإنتاج؛</li>
+<li>تحسين النظام بعد الفشل.
+وهي لا تعني:</li>
+<li>العمل بمفردك؛</li>
+<li>التواجد باستمرار؛</li>
+<li>قبول نطاق عمل غير محدود؛</li>
+<li>إخفاء المشكلات حتى يتم حلها؛</li>
+<li>أن تصبح الشخص الوحيد الذي يفهم الخدمة.
+اسأل:</li>
 </ul>
-<p>It does not mean:</p>
-<ul>
-<li>working alone;</li>
-<li>being available constantly;</li>
-<li>accepting unlimited scope;</li>
-<li>hiding problems until they are solved;</li>
-<li>becoming the only person who understands a service.</li>
-</ul>
-<p>Ask:</p>
 <blockquote>
-<p>Tell me about a system you owned. How did you ensure other people could support it?</p>
+<p>أخبرني عن نظام كنت مسؤولاً عنه. كيف تأكدت من أن الآخرين يمكنهم دعمه؟
+ابحث عن التوثيق, والمراجعة, ودفاتر التشغيل, ومشاركة المعرفة, والتصميم القابل للصيانة.</p>
 </blockquote>
-<p>Look for documentation, review, runbooks, knowledge sharing, and maintainable design.</p>
-<h1>Job-relevant practical exercises</h1>
-<p>Good backend assessments resemble actual work.</p>
-<h2>API extension exercise</h2>
-<p>Provide a small service and ask the candidate to add:</p>
+<h1>تمارين عملية ذات صلة بالوظيفة</h1>
+<p>تتشابه التقييمات الجيدة للخلفية مع العمل الفعلي.</p>
+<h2>تمرين توسيع واجهة برمجة التطبيقات (API)</h2>
+<p>قدم خدمة صغيرة واطلب من المرشح إضافة:</p>
 <ul>
-<li>one endpoint;</li>
-<li>validation;</li>
-<li>persistence;</li>
-<li>tests;</li>
-<li>error handling.</li>
+<li>نقطة نهاية واحدة؛</li>
+<li>التحقق من الصحة؛</li>
+<li>الاستمرارية؛</li>
+<li>الاختبارات؛</li>
+<li>معالجة الأخطاء.</li>
 </ul>
-<h2>Debugging exercise</h2>
-<p>Provide:</p>
+<h2>تمرين تصحيح الأخطاء</h2>
+<p>قدم:</p>
 <ul>
-<li>a failing test;</li>
-<li>misleading symptom;</li>
-<li>logs;</li>
-<li>a small data or concurrency issue.</li>
+<li>اختبارًا فاشلًا؛</li>
+<li>أعراضًا مضللة؛</li>
+<li>سجلات؛</li>
+<li>مشكلة بسيطة تتعلق بالبيانات أو التزامن.
+راقب عملية التحقيق.</li>
 </ul>
-<p>Observe the investigation process.</p>
-<h2>Code-review exercise</h2>
-<p>Ask the candidate to review a small pull request containing:</p>
+<h2>تمرين مراجعة الكود</h2>
+<p>اطلب من المرشح مراجعة طلب سحب صغير يحتوي على:</p>
 <ul>
-<li>missing authorization;</li>
-<li>repeated queries;</li>
-<li>unclear transaction boundaries;</li>
-<li>inadequate error handling;</li>
-<li>brittle tests.</li>
+<li>تفويض مفقود؛</li>
+<li>استعلامات متكررة؛</li>
+<li>حدود معاملات غير واضحة؛</li>
+<li>معالجة أخطاء غير كافية؛</li>
+<li>اختبارات هشة.
+يكشف هذا عن قدرات التقدير والتواصل.</li>
 </ul>
-<p>This reveals judgment and communication.</p>
-<h2>Data-model exercise</h2>
-<p>Present a business domain and ask the candidate to model:</p>
+<h2>تمرين نموذج البيانات</h2>
+<p>اعرض مجال عمل واطلب من المرشح نمذجة:</p>
 <ul>
-<li>entities;</li>
-<li>relationships;</li>
-<li>constraints;</li>
-<li>expected queries;</li>
-<li>future changes.</li>
+<li>الكيانات؛</li>
+<li>العلاقات؛</li>
+<li>القيود؛</li>
+<li>الاستعلامات المتوقعة؛</li>
+<li>التغييرات المستقبلية.</li>
 </ul>
-<h2>Migration exercise</h2>
-<p>Ask the candidate to plan a safe change to:</p>
+<h2>تمرين الترحيل</h2>
+<p>اطلب من المرشح تخطيط تغيير آمن لـ:</p>
 <ul>
-<li>schema;</li>
-<li>API;</li>
-<li>event contract;</li>
-<li>service boundary.</li>
+<li>المخطط؛</li>
+<li>واجهة برمجة التطبيقات (API)؛</li>
+<li>عقد الأحداث؛</li>
+<li>حدود الخدمة.</li>
 </ul>
-<h2>Incident exercise</h2>
-<p>Present a simplified production incident and ask:</p>
+<h2>تمرين الحوادث</h2>
+<p>اعرض حادثة إنتاج مبسطة واسأل:</p>
 <ul>
-<li>what they would check;</li>
-<li>how they would reduce impact;</li>
-<li>what information they need;</li>
-<li>what follow-up changes they would make.</li>
+<li>ما الذي سيتحقق منه؛</li>
+<li>كيف سيقلل من التأثير؛</li>
+<li>ما هي المعلومات التي يحتاجها؛</li>
+<li>ما هي التغييرات اللاحقة التي سيقوم بها.</li>
 </ul>
-<h1>Avoid oversized take-home assignments</h1>
-<p>A backend take-home should generally take no more than two or three hours.</p>
-<p>State:</p>
+<h1>تجنب الواجبات المنزلية المفرطة في الحجم</h1>
+<p>يجب ألا تستغرق الواجبة المنزلية المتعلقة بالخلفية أكثر من ساعتين أو ثلاث ساعات بشكل عام.
+حدد:</p>
 <ul>
-<li>expected duration;</li>
-<li>evaluation criteria;</li>
-<li>required scope;</li>
-<li>optional scope;</li>
-<li>allowed tools;</li>
-<li>AI policy;</li>
-<li>submission format;</li>
-<li>review timeline.</li>
+<li>المدة المتوقعة؛</li>
+<li>معايير التقييم؛</li>
+<li>النطاق المطلوب؛</li>
+<li>النطاق الاختياري؛</li>
+<li>الأدوات المسموح بها؛</li>
+<li>سياسة الذكاء الاصطناعي؛</li>
+<li>تنسيق التقديم؛</li>
+<li>الجدول الزمني للمراجعة.
+ادفع مقابل المهام الجوهرية.
+قدم بديلاً مباشرًا عندما يكون ذلك ممكنًا.
+لا تطلب أبدًا من المرشحين حل مشكلة إنتاج حقيقية تنوي شركتك استخدامها.</li>
 </ul>
-<p>Pay for substantial assignments.</p>
-<p>Offer a live alternative when possible.</p>
-<p>Never ask candidates to solve a real production problem your company intends to use.</p>
-<h1>AI-tool policy</h1>
-<p>Candidates may use AI tools in ordinary engineering work.</p>
-<p>Define whether they are permitted during assessments.</p>
-<p>One possible policy:</p>
+<h1>سياسة أدوات الذكاء الاصطناعي</h1>
+<p>يجوز للمرشحين استخدام أدوات الذكاء الاصطناعي في الأعمال الهندسية العادية.
+حدد ما إذا كان استخدامها مسموحًا به أثناء التقييمات.
+إحدى السياسات الممكنة:</p>
 <blockquote>
-<p>AI assistants may be used during the practical exercise. Candidates remain responsible for understanding, testing, securing, and explaining all submitted work. The follow-up discussion may include modifying requirements or debugging the solution.</p>
+<p>يُسمح باستخدام مساعدات الذكاء الاصطناعي أثناء التمرين العملي. يظل المرشحون مسؤولين عن فهم واختبار وتأمين وشرح جميع الأعمال المقدمة. قد تتضمن المناقشة اللاحقة تعديل المتطلبات أو تصحيح أخطاء الحل.
+سياسة أخرى محتملة:
+لا يُسمح بالمساعدة من الذكاء الاصطناعي خلال هذا التمرين لأننا نقيّم أساسيات الباك إند دون مساعدة خارجية. يُسمح بالرجوع إلى الوثائق الرسمية والبحث العادي على الويب.
+أياً كانت السياسة التي تختارها:</p>
 </blockquote>
-<p>Another possible policy:</p>
+<ul>
+<li>اذكرها قبل بدء التمرين؛</li>
+<li>طبقها بشكل متسق؛</li>
+<li>تجنب التوقعات الخفية؛</li>
+<li>قم بتقييم القدرات ذات الصلة بالوظيفة.</li>
+</ul>
+<h1>بطاقة تقييم المقابلة</h1>
+<p>استخدم نفس المعايير الأساسية لكل مرشح.
+تشمل الكفاءات المحتملة ما يلي:</p>
+<h2>أساسيات الباك إند</h2>
+<p>يفهم واجهات برمجة التطبيقات (APIs), وهيكل التطبيق, والأخطاء, والتزامن, وسلوك الخدمة.</p>
+<h2>نمذجة البيانات</h2>
+<p>يصمم مخططات واضحة ويحافظ على الثوابت المهمة.</p>
+<h2>الموثوقية</h2>
+<p>يفكر في حالات الفشل, وإعادة المحاولة, والاستعادة, وتأثير ذلك على بيئة الإنتاج.</p>
+<h2>الاختبار</h2>
+<p>يختار الاختبارات بناءً على السلوك والمخاطر.</p>
+<h2>الأمان</h2>
+<p>يطبق المصادقة, والتفويض, والتحقق من الصحة, ومبدأ «أقل امتياز ممكن» بشكل مناسب.</p>
+<h2>الحكم التشغيلي</h2>
+<p>القدرة على نشر أنظمة الإنتاج ومراقبتها وتصحيح أخطائها وتحسينها.</p>
+<h2>التصميم التقني</h2>
+<p>يختار حدودًا معقولة ويشرح المفاضلات.</p>
+<h2>التواصل</h2>
+<p>يشرح القرارات بوضوح ويتعاون بشكل بناء.</p>
+<h2>المسؤولية</h2>
+<p>يتابع العمل حتى مرحلة الإصدار والتحقق من الإنتاج.</p>
+<h2>مستوى الدور</h2>
+<p>يُظهر نطاقًا واستقلالية مناسبين للمنصب.
+قم بتقييم الأدلة الملحوظة.
+تجنب الأحكام الغامضة مثل:</p>
+<ul>
+<li>ليس من ذوي الخبرة الكافية؛</li>
+<li>لم يبدُ تقنيًا؛</li>
+<li>لا يتناسب مع ثقافة الشركة؛</li>
+<li>يفتقر إلى الثقة بالنفس؛</li>
+<li>بدا هادئًا أكثر من اللازم.</li>
+</ul>
+<h1>مواءمة التوقعات حسب المستوى</h1>
+<h1>مطور الخلفية المبتدئ</h1>
+<p>قد يُتوقع منه:</p>
+<ul>
+<li>إكمال التغييرات ذات النطاق الواضح؛</li>
+<li>العمل ضمن الأنماط المعمول بها؛</li>
+<li>كتابة الاختبارات الأساسية؛</li>
+<li>استخدام قاعدة البيانات بأمان؛</li>
+<li>تصحيح الأخطاء بتوجيه؛</li>
+<li>طلب المساعدة بشكل مناسب؛</li>
+<li>المشاركة في مراجعة الكود.
+لا تتوقع منه تصميم بنية أنظمة موزعة بشكل مستقل.</li>
+</ul>
+<h1>مطور خلفي من المستوى المتوسط</h1>
+<p>قد يُتوقع منه:</p>
+<ul>
+<li>تولي مسؤولية الميزات بشكل مستقل؛</li>
+<li>تصميم واجهات برمجة التطبيقات (APIs) والمخططات العادية؛</li>
+<li>تصحيح الأخطاء في مشاكل الإنتاج الروتينية؛</li>
+<li>التعامل مع حالات الغموض التي يمكن التحكم فيها؛</li>
+<li>المساهمة في عمليات الترحيل والأعمال التشغيلية؛</li>
+<li>الإبلاغ عن المخاطر.</li>
+</ul>
+<h1>مطور خلفي من المستوى العالي</h1>
+<p>قد يُتوقع منه:</p>
+<ul>
+<li>تولي مسؤولية الأنظمة المعقدة؛</li>
+<li>قيادة عمليات الترحيل؛</li>
+<li>توقع الأعطال؛</li>
+<li>توجيه المهندسين؛</li>
+<li>تحسين الموثوقية؛</li>
+<li>التأثير على البنية؛</li>
+<li>التنسيق بين الفرق؛</li>
+<li>إجراء مقايضات سليمة في ظل الغموض.</li>
+</ul>
+<h1>مهندس الخلفية (الموظف)</h1>
+<p>قد يُتوقع منه:</p>
+<ul>
+<li>قيادة المبادرات التي تشمل عدة فرق؛</li>
+<li>تحديد التوجه التقني؛</li>
+<li>حل المشكلات المشتركة بين الأنظمة؛</li>
+<li>وضع استراتيجيات الترحيل؛</li>
+<li>تقليل المخاطر التنظيمية؛</li>
+<li>التأثير دون سلطة مباشرة؛</li>
+<li>تحسين معايير الهندسة على نطاق واسع.
+لا تستخدم معيار تقييم واحد لكل مستوى.</li>
+</ul>
+<h1>الأسئلة التي قد يطرحها عليك المرشحون</h1>
+<p>كن مستعدًا للإجابة على:</p>
+<ul>
+<li>ما الذي سأكون مسؤولاً عنه؟</li>
+<li>كيف تبدو البنية؟</li>
+<li>ما هو التحدي التقني الرئيسي؟</li>
+<li>ما حجم حركة المرور والبيانات التي يتعامل معها النظام؟</li>
+<li>كم مرة يتم النشر؟</li>
+<li>من المسؤول عن البنية التحتية؟</li>
+<li>كيف يعمل نظام المناوبة؟</li>
+<li>كم مرة يتم إرسال إشعارات؟</li>
+<li>ما هو آخر حادث كبير وقع؟</li>
+<li>ما هو أكبر مصدر للديون التقنية؟</li>
+<li>كيف يتم التعامل مع تغييرات المخطط؟</li>
+<li>كيف تُتخذ القرارات المتعلقة بالبنية؟</li>
+<li>ما الذي سأعمل عليه أولاً؟</li>
+<li>كيف سيبدو النجاح بعد 90 يومًا؟</li>
+<li>ما نسبة المهام المتعلقة بالدعم أو عمليات التكامل في هذه الوظيفة؟</li>
+<li>لماذا تم فتح هذه الوظيفة؟
+قد تؤدي الإجابات الضعيفة أو المراوغة إلى انسحاب المرشحين ذوي الخبرة.</li>
+</ul>
+<h1>الأخطاء الشائعة في وصف وظائف البايند</h1>
+<h2>سرد الأدوات بدلاً من وصف العمل</h2>
+<p>يتعرف المرشحون على مجموعة التقنيات المستخدمة دون فهم المشكلة.</p>
+<h2>الادعاء بـ«نطاق ضخم» دون دليل</h2>
+<p>تصبح العبارة بلا معنى.</p>
+<h2>إخفاء الديون التقنية</h2>
+<p>يكتشفها المرشحون أثناء فترة التأهيل ويفقدون الثقة.</p>
+<h2>إغفال ذكر «الاستدعاء عند الحاجة»</h2>
+<p>يظهر أحد شروط العمل الرئيسية متأخرًا.</p>
+<h2>اشتراط إتقان كل اللغات والمنصات</h2>
+<p>يصبح نطاق المرشحين ضيقًا دون داعٍ.</p>
+<h2>دمج مهام الباك إند, وDevOps, والأمن, والبيانات, والدعم في وظيفة واحدة</h2>
+<p>يصبح نطاق العمل غير واقعي.</p>
+<h2>تسمية وظيفة تركز أساسًا على التكامل بـ«وظيفة الأنظمة الموزعة»</h2>
+<p>ينضم المرشحون متوقعين عملًا خاطئًا.</p>
+<h2>استخدام ألغاز الخوارزميات لوظيفة تتعلق بالتكامل وقواعد البيانات</h2>
+<p>يقيس هذا الإجراء مدى الاستعداد للمقابلة بدلاً من الأداء الوظيفي.</p>
+<h2>تجاهل مهارات قواعد البيانات</h2>
+<p>يعتمد الدور على البيانات, لكن المقابلة تختبر فقط صياغة التطبيق.</p>
+<h2>تقييم البناء دون التشغيل</h2>
+<p>يمكن للمرشحين إنشاء عروض توضيحية لكنهم قد لا يفهمون مسؤولية الإنتاج.</p>
+<h2>اشتراط خبرة على نطاق الإنترنت لأنظمة متواضعة</h2>
+<p>المرشحون المتميزون يرفضون أنفسهم دون داعٍ.</p>
+<h2>إخفاء أعمال دعم العملاء</h2>
+<p>يكتشف المهندسون مسؤوليات غير متوقعة بعد الانضمام.</p>
+<h2>معاملة كل مرشح من ذوي الخبرة على أنه مهندس معماري</h2>
+<p>قد يتخصص المهندسون ذوو الخبرة العالية في التنفيذ أو الموثوقية أو العمق في مجال معين دون الرغبة في تولي مسؤولية واسعة النطاق عن الهندسة.</p>
+<h1>العبارات التي يجب إزالتها</h1>
+<p>تجنب:</p>
+<ul>
+<li>مطور خلفي نجم؛</li>
+<li>نينجا البرمجة؛</li>
+<li>فرد عالي الأداء؛</li>
+<li>بيئة سريعة الوتيرة؛</li>
+<li>القيام بأدوار متعددة؛</li>
+<li>نطاق ضخم؛</li>
+<li>خدمات صغيرة متطورة؛</li>
+<li>«بنية عالمية المستوى»؛</li>
+<li>«راتب تنافسي»؛</li>
+<li>«الانطلاق بقوة فور الانضمام»؛</li>
+<li>«يجب أن يزدهر تحت الضغط»؛</li>
+<li>«التحرك بسرعة وكسر القواعد»؛</li>
+<li>«لا توجد مهمة دون مستواك».
+استبدلها بالحقائق.
+بدلاً من:</li>
+</ul>
 <blockquote>
-<p>AI assistance is not permitted during this exercise because we are evaluating unaided backend fundamentals. Official documentation and ordinary web search are allowed.</p>
+<p>«العمل على أنظمة واسعة النطاق»
+اكتب:
+«تشغيل خدمات تعالج ما يقارب 25 مليون طلب يوميًا, مع ذروة حركة مرور تقترب من 1,200 طلب في الثانية».
+بدلاً من:
+القيام بمهام متعددة
+اكتب:
+يتكون الدور من حوالي 70% تطوير تطبيقات, و20% أعمال الإنتاج والموثوقية, و10% دعم فني لتكامل الشركاء.
+بدلاً من:
+بيئة عمل سريعة الوتيرة
+اكتب:
+تُراجع أولويات المنتج كل أسبوعين, على الرغم من أن الحوادث العاجلة التي تؤثر على العملاء قد تغير أحيانًا العمل المخطط له.</p>
 </blockquote>
-<p>Whichever policy you choose:</p>
+<h1>قائمة مراجعة وصف الوظيفة في مجال الخلفية</h1>
+<p>قبل النشر, تأكد من أن الإعلان يوضح:</p>
 <ul>
-<li>state it before the exercise;</li>
-<li>apply it consistently;</li>
-<li>avoid secret expectations;</li>
-<li>evaluate role-relevant ability.</li>
+<li>سبب وجود الدور؛</li>
+<li>الغرض من النظام؛</li>
+<li>المستخدمين أو العملاء الرئيسيين؛</li>
+<li>البنية؛</li>
+<li>الحجم الفعلي؛</li>
+<li>التحدي التقني الرئيسي؛</li>
+<li>ما سيتولى المهندس مسؤوليته؛</li>
+<li>مسؤوليات البيانات؛</li>
+<li>مستخدمي واجهة برمجة التطبيقات (API)؛</li>
+<li>حدود البنية التحتية؛</li>
+<li>توقعات الأمان؛</li>
+<li>توقعات الموثوقية؛</li>
+<li>توقعات الأداء؛</li>
+<li>الديون التقنية؛</li>
+<li>تواتر المناوبة؛</li>
+<li>مسؤوليات الدعم؛</li>
+<li>الأجر؛</li>
+<li>المزايا؛</li>
+<li>الموقع؛</li>
+<li>هيكل الفريق؛</li>
+<li>مراحل المقابلة؛</li>
+<li>شكل التقييم؛</li>
+<li>سياسة الذكاء الاصطناعي؛</li>
+<li>نتائج أول 90 يومًا.</li>
 </ul>
-<h1>Interview scorecard</h1>
-<p>Use the same core criteria for every candidate.</p>
-<p>Possible competencies include:</p>
-<h2>Backend fundamentals</h2>
-<p>Understands APIs, application structure, errors, concurrency, and service behavior.</p>
-<h2>Data modeling</h2>
-<p>Designs clear schemas and protects important invariants.</p>
-<h2>Reliability</h2>
-<p>Thinks about failure, retries, recovery, and production impact.</p>
-<h2>Testing</h2>
-<p>Chooses tests based on behavior and risk.</p>
-<h2>Security</h2>
-<p>Applies authentication, authorization, validation, and least privilege appropriately.</p>
-<h2>Operational judgment</h2>
-<p>Can deploy, observe, debug, and improve production systems.</p>
-<h2>Technical design</h2>
-<p>Chooses reasonable boundaries and explains trade-offs.</p>
-<h2>Communication</h2>
-<p>Explains decisions clearly and collaborates constructively.</p>
-<h2>Ownership</h2>
-<p>Follows work through release and production verification.</p>
-<h2>Role level</h2>
-<p>Demonstrates scope and independence appropriate to the position.</p>
-<p>Score observable evidence.</p>
-<p>Avoid vague judgments such as:</p>
+<h1>قائمة مراجعة للتوافق مع مدير التوظيف</h1>
+<p>قبل الإعلان عن الوظيفة, يجب أن يكون مدير التوظيف قادرًا على الإجابة عن:</p>
 <ul>
-<li>not senior enough;</li>
-<li>did not feel technical;</li>
-<li>not a culture fit;</li>
-<li>lacked confidence;</li>
-<li>seemed too quiet.</li>
+<li>ما هو النظام أو المجال الذي سيتولى هذا الشخص مسؤوليته؟</li>
+<li>ما هو أول مشروع رئيسي؟</li>
+<li>ما هو مستوى الاستقلالية المطلوب؟</li>
+<li>ما هي المهارات الإلزامية حقًّا؟</li>
+<li>ما هي التقنيات التي يمكن تعلمها؟</li>
+<li>من يتولى مسؤولية البنية التحتية؟</li>
+<li>من يتولى مسؤولية عمليات قاعدة البيانات؟</li>
+<li>ما حجم العمل أثناء أوقات الاستدعاء؟</li>
+<li>ما حجم أعباء الدعم الموجودة؟</li>
+<li>ما هي الديون التقنية التي سيرثها هذا الشخص؟</li>
+<li>ما الذي سيجعل التعيين ناجحًا بعد ستة أشهر؟</li>
+<li>ما الأدلة التي ستجمعها كل مرحلة من مراحل المقابلة؟</li>
+<li>من يتخذ القرار النهائي؟</li>
+<li>هل برنامج تأهيل الموظفين الجدد جاهز؟</li>
 </ul>
-<h1>Calibrate expectations by level</h1>
-<h1>Junior Backend Developer</h1>
-<p>May be expected to:</p>
+<h1>قائمة مراجعة فحص السيرة الذاتية</h1>
+<p>ابحث عن أدلة على:</p>
 <ul>
-<li>complete clearly scoped changes;</li>
-<li>work within established patterns;</li>
-<li>write basic tests;</li>
-<li>use the database safely;</li>
-<li>debug with guidance;</li>
-<li>ask for help appropriately;</li>
-<li>participate in code review.</li>
+<li>مسؤولية نظام الخلفية؛</li>
+<li>واجهات برمجة التطبيقات (APIs)؛</li>
+<li>قواعد البيانات؛</li>
+<li>عمليات الترحيل؛</li>
+<li>الاختبارات؛</li>
+<li>النشر؛</li>
+<li>قابلية المراقبة؛</li>
+<li>الحوادث؛</li>
+<li>الموثوقية؛</li>
+<li>الأمان؛</li>
+<li>الأداء؛</li>
+<li>النتائج القابلة للقياس؛</li>
+<li>التواصل؛</li>
+<li>التعاون.
+لا تشترط:</li>
+<li>كل التقنيات الموجودة في مجموعتك؛</li>
+<li>شهادة جامعية محددة؛</li>
+<li>جهة عمل مشهورة؛</li>
+<li>مستودعات عامة؛</li>
+<li>حركة مرور على نطاق الإنترنت؛</li>
+<li>سنوات خبرة تتجاوز ما يتطلبه الدور.</li>
 </ul>
-<p>Do not expect independent distributed-system architecture.</p>
-<h1>Mid-Level Backend Developer</h1>
-<p>May be expected to:</p>
+<h1>قائمة مراجعة للمحاور</h1>
+<p>قبل المقابلة:</p>
 <ul>
-<li>own features independently;</li>
-<li>design ordinary APIs and schemas;</li>
-<li>debug routine production problems;</li>
-<li>handle manageable ambiguity;</li>
-<li>contribute to migrations and operational work;</li>
-<li>communicate risk.</li>
+<li>افهم الكفاءة المحددة؛</li>
+<li>راجع مستوى الوظيفة؛</li>
+<li>استخدم أسئلة متسقة؛</li>
+<li>افهم سياق النظام؛</li>
+<li>اعرف الأدوات المسموح بها؛</li>
+<li>افهم التسهيلات المطلوبة.
+أثناء المقابلة:</li>
+<li>اشرح شكل المقابلة؛</li>
+<li>اجمع الأدلة؛</li>
+<li>اطرح أسئلة متابعة؛</li>
+<li>ميز بين العمل الجماعي والمساهمة الشخصية؛</li>
+<li>تجنب الأسئلة التافهة غير ذات الصلة؛</li>
+<li>اسمح للمرشح بطرح الأسئلة.
+بعد المقابلة:</li>
+<li>تقديم الملاحظات بشكل مستقل؛</li>
+<li>الاستشهاد بأدلة محددة؛</li>
+<li>المقارنة مع معايير التقييم؛</li>
+<li>التمييز بين المخاوف والتفضيلات؛</li>
+<li>تجنب استخدام لغة غامضة بشأن التوافق الثقافي؛</li>
+<li>الرد على الفور.</li>
 </ul>
-<h1>Senior Backend Developer</h1>
-<p>May be expected to:</p>
+<h1>مثال أقصر جاهز للنشر</h1>
+<h2>مطور خلفي أول — منصة المدفوعات</h2>
+<p><strong>الموقع:</strong> عن بُعد داخل الولايات المتحدة
+<strong>الراتب:</strong> 150,000–185,000 دولار أمريكي أساسي, بالإضافة إلى أسهم
+<strong>نوع التوظيف:</strong> بدوام كامل
+<strong>يرفع تقاريره إلى:</strong> مدير الهندسة</p>
+<h3>نبذة عنا</h3>
+<p>تقوم شركة Acme بتطوير برامج إدارة الاشتراكات التي تستخدمها أكثر من 8,000 شركة عبر الإنترنت. تعالج منصة الدفع الخاصة بنا ما يقارب 20 مليون عملية فوترة وتجديد شهريًّا عبر العديد من مزودي خدمات الدفع الخارجيين.
+نحن نبحث عن مطور خلفي أول ليتولى مسؤولية عمليات إعادة محاولة الدفع والتسوية وتكامل مزودي الخدمة.
+ستركز الأشهر الستة الأولى على استبدال سير عمل إعادة المحاولة القديم, وتحسين رؤية المعاملات, وتقليل عمليات التسوية اليدوية.</p>
+<h3>المهام التي ستقوم بها</h3>
 <ul>
-<li>own complex systems;</li>
-<li>lead migrations;</li>
-<li>anticipate failure;</li>
-<li>mentor engineers;</li>
-<li>improve reliability;</li>
-<li>influence architecture;</li>
-<li>coordinate across teams;</li>
-<li>make sound trade-offs under ambiguity.</li>
+<li>بناء وتشغيل خدمات TypeScript وPostgreSQL.</li>
+<li>تولي مسؤولية سير عمل إعادة محاولات الدفع والتسوية.</li>
+<li>تصميم واجهات برمجة تطبيقات (APIs) متجانسة ومهام تعمل في الخلفية.</li>
+<li>تطوير المخططات من خلال عمليات الترحيل الآمنة والتعبئة التكميلية.</li>
+<li>تحسين قابلية المراقبة, وإرسال التنبيهات, والاستجابة للحوادث.</li>
+<li>العمل مع فرق المنتج, والدعم, والمالية, والمنصة.</li>
+<li>مراجعة الكود وتوجيه المهندسين الآخرين.</li>
+<li>الانضمام إلى نظام المناوبة المكون من سبعة أشخاص بعد الانتهاء من فترة التأهيل.</li>
 </ul>
-<h1>Staff Backend Engineer</h1>
-<p>May be expected to:</p>
+<h3>ما نبحث عنه</h3>
 <ul>
-<li>lead initiatives spanning several teams;</li>
-<li>establish technical direction;</li>
-<li>solve cross-system problems;</li>
-<li>create migration strategies;</li>
-<li>reduce organizational risk;</li>
-<li>influence without direct authority;</li>
-<li>improve engineering standards broadly.</li>
+<li>خبرة في بناء وتشغيل أنظمة الخلفية في بيئة الإنتاج.</li>
+<li>خبرة قوية في TypeScript أو Java أو Go أو C# أو لغة مماثلة.</li>
+<li>إلمام قوي بأساسيات قواعد البيانات العلائقية.</li>
+<li>خبرة في واجهات برمجة التطبيقات (APIs) والمعالجة في الخلفية والأعطال غير المتزامنة.</li>
+<li>مهارات عملية في الاختبار وتصحيح الأخطاء.</li>
+<li>مهارات اتصال كتابية واضحة.</li>
+<li>خبرة في دعم البرامج بعد الإصدار.</li>
 </ul>
-<p>Do not use one interview bar for every level.</p>
-<h1>Questions candidates may ask you</h1>
-<p>Be prepared to answer:</p>
+<h3>مهارات إضافية مرغوبة</h3>
 <ul>
-<li>What would I own?</li>
-<li>What does the architecture look like?</li>
-<li>What is the main technical challenge?</li>
-<li>How much traffic and data does the system handle?</li>
-<li>How often do you deploy?</li>
-<li>Who owns infrastructure?</li>
-<li>How does on-call work?</li>
-<li>How often does it page?</li>
-<li>What was the most recent major incident?</li>
-<li>What is the largest source of technical debt?</li>
-<li>How are schema changes handled?</li>
-<li>How are architectural decisions made?</li>
-<li>What would I work on first?</li>
-<li>What does success look like after 90 days?</li>
-<li>How much of the role involves support or integrations?</li>
-<li>Why is the position open?</li>
+<li>خبرة في أنظمة الدفع أو الأنظمة المالية.</li>
+<li>خبرة في Kafka أو RabbitMQ أو أي نظام مراسلة آخر.</li>
+<li>خبرة في AWS.</li>
+<li>خبرة في OpenTelemetry.</li>
+<li>أنظمة SaaS متعددة المستأجرين.</li>
 </ul>
-<p>Weak or evasive answers can cause experienced candidates to withdraw.</p>
-<h1>Common backend job-description mistakes</h1>
-<h2>Listing tools instead of describing work</h2>
-<p>Candidates learn the stack but not the problem.</p>
-<h2>Claiming “massive scale” without evidence</h2>
-<p>The phrase becomes meaningless.</p>
-<h2>Hiding technical debt</h2>
-<p>Candidates discover it during onboarding and lose trust.</p>
-<h2>Omitting on-call</h2>
-<p>A major working condition appears late.</p>
-<h2>Requiring every language and platform</h2>
-<p>The candidate pool becomes unnecessarily narrow.</p>
-<h2>Combining backend, DevOps, security, data, and support into one role</h2>
-<p>The scope becomes unrealistic.</p>
-<h2>Calling a primarily integration role a distributed-systems role</h2>
-<p>Candidates join expecting the wrong work.</p>
-<h2>Using algorithm puzzles for an integration and database role</h2>
-<p>The process measures interview preparation rather than job performance.</p>
-<h2>Ignoring database skill</h2>
-<p>The role depends on data, but the interview tests only application syntax.</p>
-<h2>Evaluating construction without operation</h2>
-<p>Candidates can build demos but may not understand production responsibility.</p>
-<h2>Requiring internet-scale experience for modest systems</h2>
-<p>Excellent candidates self-reject unnecessarily.</p>
-<h2>Hiding customer support work</h2>
-<p>Engineers discover unexpected responsibilities after joining.</p>
-<h2>Treating every senior candidate as an architect</h2>
-<p>Strong senior engineers may specialize in execution, reliability, or domain depth without wanting broad architecture ownership.</p>
-<h1>Phrases to remove</h1>
-<p>Avoid:</p>
+<h3>مجموعة التقنيات التي نستخدمها</h3>
+<p>TypeScript, وNode.js, وPostgreSQL, وRedis, وKafka, وAWS, وGitHub Actions, وOpenTelemetry, وGrafana.
+تم اختبار خدمة الفوترة الأساسية بشكل جيد. أما وحدة استيراد مزودي الخدمة القديمة فهي تعاني من قابلية مراقبة محدودة وتسبب معظم عبء المناوبة الحالي للفريق. ويشكل استبدالها جزءًا من مهام هذه الوظيفة.</p>
+<h3>القابلية للتوسع والموثوقية</h3>
 <ul>
-<li>rockstar backend developer;</li>
-<li>coding ninja;</li>
-<li>high-performance individual;</li>
-<li>fast-paced environment;</li>
-<li>wear many hats;</li>
-<li>massive scale;</li>
-<li>cutting-edge microservices;</li>
-<li>world-class architecture;</li>
-<li>competitive salary;</li>
-<li>hit the ground running;</li>
-<li>must thrive under pressure;</li>
-<li>move fast and break things;</li>
-<li>no task is beneath you.</li>
+<li>ما يقارب 20 مليون حدث فوترة شهريًا</li>
+<li>ذروة معدل المعالجة تبلغ حوالي 400 حدث في الثانية</li>
+<li>هدف توفر يبلغ 99.95% لواجهات برمجة تطبيقات (APIs) الدفع</li>
+<li>طرح تدريجي للإنتاج مع التراجع التلقائي</li>
+<li>مراجعة شهرية للحوادث المتعلقة بالأعطال التي تؤثر على العملاء</li>
 </ul>
-<p>Replace them with facts.</p>
-<p>Instead of:</p>
-<blockquote>
-<p>Work on high-scale systems</p>
-</blockquote>
-<p>write:</p>
-<blockquote>
-<p>Operate services processing approximately 25 million requests per day, with peak traffic near 1,200 requests per second.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>Wear many hats</p>
-</blockquote>
-<p>write:</p>
-<blockquote>
-<p>The role is approximately 70% application development, 20% production and reliability work, and 10% technical support for partner integrations.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>Fast-paced environment</p>
-</blockquote>
-<p>write:</p>
-<blockquote>
-<p>Product priorities are reviewed every two weeks, though urgent customer-impacting incidents may occasionally change planned work.</p>
-</blockquote>
-<h1>Backend job-description review checklist</h1>
-<p>Before publishing, confirm that the listing explains:</p>
-<ul>
-<li>why the role exists;</li>
-<li>the system’s purpose;</li>
-<li>the primary users or customers;</li>
-<li>the architecture;</li>
-<li>the real scale;</li>
-<li>the main technical challenge;</li>
-<li>what the engineer will own;</li>
-<li>data responsibilities;</li>
-<li>API consumers;</li>
-<li>infrastructure boundaries;</li>
-<li>security expectations;</li>
-<li>reliability expectations;</li>
-<li>performance expectations;</li>
-<li>technical debt;</li>
-<li>on-call frequency;</li>
-<li>support responsibilities;</li>
-<li>compensation;</li>
-<li>benefits;</li>
-<li>location;</li>
-<li>team structure;</li>
-<li>interview stages;</li>
-<li>assessment format;</li>
-<li>AI policy;</li>
-<li>first 90-day outcomes.</li>
-</ul>
-<h1>Hiring-manager alignment checklist</h1>
-<p>Before opening the role, the hiring manager should be able to answer:</p>
-<ul>
-<li>Which system or domain will this person own?</li>
-<li>What is the first major project?</li>
-<li>What level of independence is required?</li>
-<li>Which skills are truly mandatory?</li>
-<li>Which technologies can be learned?</li>
-<li>Who owns infrastructure?</li>
-<li>Who owns database operations?</li>
-<li>How much on-call work exists?</li>
-<li>What support load exists?</li>
-<li>Which technical debt will the person inherit?</li>
-<li>What would make the hire successful after six months?</li>
-<li>What evidence will each interview stage collect?</li>
-<li>Who makes the final decision?</li>
-<li>Is onboarding ready?</li>
-</ul>
-<h1>Résumé-screening checklist</h1>
-<p>Look for evidence of:</p>
-<ul>
-<li>backend system ownership;</li>
-<li>APIs;</li>
-<li>databases;</li>
-<li>migrations;</li>
-<li>tests;</li>
-<li>deployment;</li>
-<li>observability;</li>
-<li>incidents;</li>
-<li>reliability;</li>
-<li>security;</li>
-<li>performance;</li>
-<li>measurable results;</li>
-<li>communication;</li>
-<li>collaboration.</li>
-</ul>
-<p>Do not require:</p>
-<ul>
-<li>every technology in your stack;</li>
-<li>a specific degree;</li>
-<li>a famous employer;</li>
-<li>public repositories;</li>
-<li>internet-scale traffic;</li>
-<li>years beyond what the role requires.</li>
-</ul>
-<h1>Interviewer checklist</h1>
-<p>Before the interview:</p>
-<ul>
-<li>understand the assigned competency;</li>
-<li>review the role level;</li>
-<li>use consistent questions;</li>
-<li>understand the system context;</li>
-<li>know the permitted tools;</li>
-<li>understand accommodations.</li>
-</ul>
-<p>During the interview:</p>
-<ul>
-<li>explain the format;</li>
-<li>gather evidence;</li>
-<li>ask follow-up questions;</li>
-<li>distinguish team work from personal contribution;</li>
-<li>avoid unrelated trivia;</li>
-<li>allow candidate questions.</li>
-</ul>
-<p>After the interview:</p>
-<ul>
-<li>submit feedback independently;</li>
-<li>cite specific evidence;</li>
-<li>compare against the rubric;</li>
-<li>distinguish concerns from preferences;</li>
-<li>avoid vague culture-fit language;</li>
-<li>respond promptly.</li>
-</ul>
-<h1>A shorter ready-to-publish example</h1>
-<h2>Senior Backend Developer — Payments Platform</h2>
-<p><strong>Location:</strong> Remote within the United States
-<strong>Compensation:</strong> $150,000–$185,000 base, plus equity
-<strong>Employment type:</strong> Full-time
-<strong>Reports to:</strong> Engineering Manager</p>
-<h3>About us</h3>
-<p>Acme builds subscription-management software used by more than 8,000 online businesses. Our payment platform processes approximately 20 million billing and renewal events each month across several external payment providers.</p>
-<p>We are hiring a Senior Backend Developer to own payment retries, reconciliation, and provider integrations.</p>
-<p>The first six months will focus on replacing an older retry workflow, improving transaction visibility, and reducing manual reconciliation.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Build and operate TypeScript and PostgreSQL services.</li>
-<li>Own payment-retry and reconciliation workflows.</li>
-<li>Design idempotent APIs and background jobs.</li>
-<li>Evolve schemas through safe migrations and backfills.</li>
-<li>Improve observability, alerting, and incident response.</li>
-<li>Work with product, support, finance, and platform teams.</li>
-<li>Review code and mentor other engineers.</li>
-<li>Join a seven-person on-call rotation after onboarding.</li>
-</ul>
-<h3>What we are looking for</h3>
-<ul>
-<li>Experience building and operating production backend systems.</li>
-<li>Strong experience in TypeScript, Java, Go, C#, or a comparable language.</li>
-<li>Strong relational-database fundamentals.</li>
-<li>Experience with APIs, background processing, and asynchronous failure.</li>
-<li>Practical testing and debugging skills.</li>
-<li>Clear written communication.</li>
-<li>Experience supporting software after release.</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Payments or financial-system experience.</li>
-<li>Kafka, RabbitMQ, or another messaging system.</li>
-<li>AWS.</li>
-<li>OpenTelemetry.</li>
-<li>Multi-tenant SaaS systems.</li>
-</ul>
-<h3>Our stack</h3>
-<p>TypeScript, Node.js, PostgreSQL, Redis, Kafka, AWS, GitHub Actions, OpenTelemetry, and Grafana.</p>
-<p>The core billing service is well tested. An older provider-import module has limited observability and creates most of the team’s current on-call load. Replacing it is part of this role.</p>
-<h3>Scale and reliability</h3>
-<ul>
-<li>Approximately 20 million billing events per month</li>
-<li>Peak throughput of roughly 400 events per second</li>
-<li>99.95% availability target for payment APIs</li>
-<li>Progressive production rollout with automated rollback</li>
-<li>Monthly incident review for customer-impacting failures</li>
-</ul>
-<h3>On-call</h3>
-<p>The rotation includes seven engineers. Each engineer is primary for one week approximately every seven weeks. The team receives about two actionable pages per month, with overnight alerts occurring a few times per quarter. A secondary engineer is always available, and recovery time is provided after significant overnight incidents.</p>
-<h3>Interview process</h3>
+<h3>نوبات العمل</h3>
+<p>يتضمن نظام التناوب سبعة مهندسين. يكون كل مهندس هو المسؤول الرئيسي لمدة أسبوع واحد تقريبًا كل سبعة أسابيع. يتلقى الفريق حوالي إخطارين يتطلبان اتخاذ إجراء شهريًّا, مع حدوث تنبيهات ليلية بضع مرات كل ربع سنة. يتواجد مهندس احتياطي دائمًا, ويتم توفير وقت للتعافي بعد الحوادث الليلية الكبيرة.</p>
+<h3>عملية المقابلة</h3>
 <ol>
-<li>30-minute hiring-manager conversation.</li>
-<li>60-minute discussion about a backend system you built and operated.</li>
-<li>90-minute collaborative API, data-model, and failure-handling exercise.</li>
-<li>45-minute production and incident discussion.</li>
-<li>45-minute team conversation.</li>
+<li>محادثة مدتها 30 دقيقة مع مدير التوظيف.</li>
+<li>مناقشة مدتها 60 دقيقة حول نظام الخلفية الذي قمت ببنائه وتشغيله.</li>
+<li>تمرين تعاوني مدته 90 دقيقة حول واجهات برمجة التطبيقات (API) ونموذج البيانات ومعالجة الأعطال.</li>
+<li>مناقشة مدتها 45 دقيقة حول الإنتاج والحوادث.</li>
+<li>محادثة مع الفريق مدتها 45 دقيقة.
+لا توجد ألغاز خوارزمية ولا مهام منزلية غير مدفوعة الأجر.
+نسعى إلى إصدار قرار في غضون عشرة أيام عمل.</li>
 </ol>
-<p>No algorithm puzzles and no unpaid take-home assignment.</p>
-<p>We aim to provide a decision within ten business days.</p>
-<h3>Benefits</h3>
+<h3>المزايا</h3>
 <ul>
-<li>Medical, dental, and vision coverage</li>
-<li>25 days of annual paid leave</li>
-<li>Twelve weeks of paid parental leave</li>
-<li>$2,000 annual learning budget</li>
-<li>Laptop and home-office stipend</li>
-<li>401(k) matching</li>
-<li>Two annual company gatherings with travel covered</li>
+<li>تغطية طبية وطب الأسنان والرؤية</li>
+<li>25 يومًا من الإجازة السنوية المدفوعة الأجر</li>
+<li>اثنا عشر أسبوعًا من إجازة الأبوة/الأمومة المدفوعة الأجر</li>
+<li>ميزانية تعليمية سنوية بقيمة 2,000 دولار</li>
+<li>جهاز كمبيوتر محمول وبدل مكتب منزلي</li>
+<li>مساهمة الشركة في خطة 401(k)</li>
+<li>تجمعان سنويان للشركة مع تغطية تكاليف السفر</li>
 </ul>
-<h3>How to apply</h3>
-<p>Apply through [link] and tell us briefly about a backend system you owned after it reached production.</p>
-<p>We provide reasonable accommodations throughout the interview process.</p>
-<h1>The takeaway</h1>
-<p>Backend developers evaluate opportunities by understanding the systems they will inherit, the problems they will solve, and the operational responsibility they will carry.</p>
-<p>A strong backend job description should clearly explain:</p>
+<h3>كيفية التقديم</h3>
+<p>تقدم عبر [الرابط] وأخبرنا باختصار عن نظام الخلفية الذي كنت مسؤولاً عنه بعد دخوله مرحلة الإنتاج.
+نوفر تسهيلات معقولة طوال عملية المقابلة.</p>
+<h1>النقطة الأساسية</h1>
+<p>يقوم مطورو الخلفية بتقييم الفرص من خلال فهم الأنظمة التي سيتولون مسؤوليتها, والمشكلات التي سيحلونها, والمسؤولية التشغيلية التي سيتحملونها.
+يجب أن يوضح الوصف الوظيفي القوي لوظيفة الخلفية بوضوح ما يلي:</p>
 <ol>
-<li>What the system does.</li>
-<li>Who depends on it.</li>
-<li>How much traffic or data it handles.</li>
-<li>Which technical challenge matters most.</li>
-<li>What the engineer will own.</li>
-<li>Which data and API responsibilities are included.</li>
-<li>Where the infrastructure boundary sits.</li>
-<li>What technical debt exists.</li>
-<li>How often production support or on-call occurs.</li>
-<li>What success looks like after joining.</li>
-<li>How candidates will be evaluated.</li>
-<li>How much the role pays.</li>
+<li>ما الذي يفعله النظام.</li>
+<li>من يعتمد عليه.</li>
+<li>حجم حركة المرور أو البيانات التي يتعامل معها.</li>
+<li>ما هو التحدي التقني الأكثر أهمية.</li>
+<li>ما هي المسؤوليات التي سيتولاها المهندس.</li>
+<li>ما هي مسؤوليات البيانات وواجهات برمجة التطبيقات (API) المشمولة.</li>
+<li>أين تقع حدود البنية التحتية.</li>
+<li>ما هي الديون التقنية الموجودة.</li>
+<li>كم مرة يتم تقديم الدعم في مرحلة الإنتاج أو العمل عند الطلب.</li>
+<li>كيف سيبدو النجاح بعد الانضمام.</li>
+<li>كيف سيتم تقييم المرشحين.</li>
+<li>مقدار الراتب المخصص للوظيفة.
+أفضل الإعلانات عن الوظائف لا تدعي أن النظام مثالي.
+بل تصف الفرصة المتاحة بأمانة.
+قد يتحمس مهندس البايندند لتحديث أداة استيراد قديمة, أو تحقيق الاستقرار في منصة الدفع, أو إعادة تصميم مخطط البيانات, أو تقليل أعطال قوائم الانتظار, أو إنشاء خدمة جديدة. كل ما يحتاجه المرشح هو معلومات كافية ليدرك أن هذا التحدي هو ما يريده.
+صف النظام الحقيقي.
+انشر الحجم الحقيقي.
+حدد المشكلة الفعلية.
+اشرح مسؤولية الملكية.
+اكشف عن نظام الاستدعاء عند الحاجة.
+اجري المقابلة حول قواعد البيانات, معالجة الأعطال, وعمليات الترحيل, والأمن, والموثوقية, وحكم الإنتاج بدلاً من التفاهات المحفوظة عن ظهر قلب.
+هذه هي الطريقة التي تجذب بها مطوري الباكيند الذين لا يفهمون فقط كيفية إنشاء الخدمات, بل وكيفية تشغيلها وتحسينها بعد أن يبدأ المستخدمون الحقيقيون في الاعتماد على النتيجة.
+<em>هل تبحث عن توظيف مطوري باكيند؟ <a href="/auth/register?role=COMPANY">أنشئ حسابًا للشركة على JobsList.dev</a>, وانشر وظيفة شفافة, وتواصل مباشرةً مع المهندسين الذين تتوافق خبراتهم مع الأنظمة التي تحتاج إلى بنائها وتشغيلها.</em></li>
 </ol>
-<p>The strongest postings do not pretend the system is perfect.</p>
-<p>They communicate the opportunity honestly.</p>
-<p>A backend engineer may be excited to modernize a legacy importer, stabilize a payment platform, redesign a schema, reduce queue failures, or build a new service. The candidate only needs enough information to recognize that the challenge is one they want.</p>
-<p>Describe the real system.</p>
-<p>Publish real scale.</p>
-<p>Name the actual problem.</p>
-<p>Explain ownership.</p>
-<p>Disclose on-call.</p>
-<p>Interview for databases, failure handling, migrations, security, reliability, and production judgment rather than memorized trivia.</p>
-<p>That is how you attract backend developers who understand not only how to create services, but how to operate and improve them after real users begin depending on the result.</p>
-<p><em>Hiring backend developers? <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish a transparent role, and connect directly with engineers whose experience matches the systems you need to build and operate.</em></p>
-5:["locale","ar","d"]
-6:["slug","backend-developer-job-description-template","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"backend-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","backend-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Backend Developer Job Description Template (With Screening Tips)\",\"description\":\"A complete backend developer job description template you can copy and customize, with practical guidance for defining system ownership, scale, data responsibilities, reliability expectations, on-call duties, and job-relevant technical interviews.\",\"datePublished\":\"2026-07-08T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Backend Developer Job Description Template (With Screening Tips)","date":"2026-07-08T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":36,"html":"$3"},"assessment":{"href":"/assessments/backend-engineer/","roleName":"Backend Engineer"}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Backend Developer Job Description Template (With Screening Tips) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete backend developer job description template you can copy and customize, with practical guidance for defining system ownership, scale, data responsibilities, reliability expectations, on-call duties, and job-relevant technical interviews."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Backend Developer Job Description Template (With Screening Tips)"}],["$","meta","15",{"property":"og:description","content":"A complete backend developer job description template you can copy and customize, with practical guidance for defining system ownership, scale, data responsibilities, reliability expectations, on-call duties, and job-relevant technical interviews."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-08T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Backend Developer Job Description Template (With Screening Tips)"}],["$","meta","25",{"name":"twitter:description","content":"A complete backend developer job description template you can copy and customize, with practical guidance for defining system ownership, scale, data responsibilities, reliability expectations, on-call duties, and job-relevant technical interviews."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نموذج وصف وظيفي لمطور الخلفية (مع نصائح للفرز)\",\"description\":\"نموذج كامل لوصف وظيفي لمطور الخلفية يمكنك نسخه وتخصيصه, مع إرشادات عملية لتحديد ملكية النظام, وحجمه, والمسؤوليات المتعلقة بالبيانات, وتوقعات الموثوقية, ومهام المناوبة, والمقابلات الفنية ذات الصلة بالوظيفة.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-08T00:00:00.000Z\",\"dateModified\":\"2026-07-08T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/backend-developer-job-description-template/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نموذج وصف وظيفي لمطور الخلفية (مع نصائح للفرز)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"نموذج كامل لوصف وظيفي لمطور الخلفية يمكنك نسخه وتخصيصه, مع إرشادات عملية لتحديد ملكية النظام, وحجمه, والمسؤوليات المتعلقة بالبيانات, وتوقعات الموثوقية, ومهام المناوبة, والمقابلات الفنية ذات الصلة بالوظيفة."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-08T00:00:00.000Z","children":"7 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[40," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","وصف-الوظائف",{"className":"badge-gray","children":"وصف-الوظائف"}],["$","span","قوالب",{"className":"badge-gray","children":"قوالب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","تطوير-الخلفية",{"className":"badge-gray","children":"تطوير-الخلفية"}],["$","span","توظيف-المطورين",{"className":"badge-gray","children":"توظيف-المطورين"}],["$","span","المقابلات الفنية",{"className":"badge-gray","children":"المقابلات الفنية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","aside",null,{"className":"card mt-12 p-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide text-surface-400","children":"blog.article.related"}],["$","h2",null,{"className":"mt-1 text-lg font-semibold text-surface-900 dark:text-white","children":"Backend Engineer blog.article.skillsAssessment"}],["$","p",null,{"className":"mt-2 text-sm text-surface-500 dark:text-surface-400","children":"blog.article.roleAssessmentDescription"}],["$","$La",null,{"href":"/assessments/backend-engineer/","className":"mt-4 inline-block text-sm font-medium text-brand-600 hover:text-brand-700","children":"blog.article.viewAssessment →"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نموذج وصف وظيفي لمطور الخلفية (مع نصائح للفرز) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"نموذج كامل لوصف وظيفي لمطور الخلفية يمكنك نسخه وتخصيصه, مع إرشادات عملية لتحديد ملكية النظام, وحجمه, والمسؤوليات المتعلقة بالبيانات, وتوقعات الموثوقية, ومهام المناوبة, والمقابلات الفنية ذات الصلة بالوظيفة."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نموذج وصف وظيفي لمطور الخلفية (مع نصائح للفرز)"}],["$","meta","15",{"property":"og:description","content":"نموذج كامل لوصف وظيفي لمطور الخلفية يمكنك نسخه وتخصيصه, مع إرشادات عملية لتحديد ملكية النظام, وحجمه, والمسؤوليات المتعلقة بالبيانات, وتوقعات الموثوقية, ومهام المناوبة, والمقابلات الفنية ذات الصلة بالوظيفة."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/backend-developer-job-description-template/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-08T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نموذج وصف وظيفي لمطور الخلفية (مع نصائح للفرز)"}],["$","meta","27",{"name":"twitter:description","content":"نموذج كامل لوصف وظيفي لمطور الخلفية يمكنك نسخه وتخصيصه, مع إرشادات عملية لتحديد ملكية النظام, وحجمه, والمسؤوليات المتعلقة بالبيانات, وتوقعات الموثوقية, ومهام المناوبة, والمقابلات الفنية ذات الصلة بالوظيفة."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

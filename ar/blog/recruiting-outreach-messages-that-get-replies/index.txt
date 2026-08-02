@@ -1,428 +1,363 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3a8b,<h1>How to Write Recruiting Outreach That Developers Actually Reply To</h1>
-<p>Every experienced developer has an inbox full of recruiting messages that all sound exactly the same.</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","recruiting-outreach-messages-that-get-replies","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"recruiting-outreach-messages-that-get-replies\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T4be3,<h1>كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين</h1>
+<p>كل مطور متمرس لديه صندوق بريد وارد مليء برسائل توظيف تبدو جميعها متشابهة تمامًا.</p>
 <blockquote>
-<p>&quot;I came across your profile...&quot;</p>
-<p>&quot;We have an exciting opportunity...&quot;</p>
-<p>&quot;We&#39;re a fast-growing startup...&quot;</p>
-<p>&quot;Do you have 30 minutes this week?&quot;</p>
+<p>&quot;لقد صادفت ملفك الشخصي...&quot;</p>
+<p>&quot;لدينا فرصة مثيرة...&quot;</p>
+<p>&quot;نحن شركة ناشئة سريعة النمو...&quot;</p>
+<p>&quot;هل لديك 30 دقيقة هذا الأسبوع؟&quot;</p>
 </blockquote>
-<p>Most are deleted in seconds.</p>
-<p>The problem isn&#39;t that developers never change jobs—they do. The problem is that most outreach gives them no reason to spend time learning more. It asks for attention before providing value.</p>
-<p>Great recruiting outreach isn&#39;t about clever wording or persuasive copywriting. It&#39;s about demonstrating that you&#39;ve done your homework, explaining why the opportunity is genuinely relevant, and making it effortless for someone to continue the conversation.</p>
-<p>Whether you&#39;re an internal recruiter, hiring manager, founder, or agency recruiter, these principles dramatically improve response rates while building a stronger employer reputation.</p>
+<p>يتم حذف معظم هذه الرسائل في غضون ثوانٍ.</p>
+<p>المشكلة ليست أن المطورين لا يغيرون وظائفهم أبدًا — فهم يفعلون ذلك بالفعل. المشكلة هي أن معظم رسائل التواصل لا تمنحهم أي سبب لقضاء الوقت في معرفة المزيد. فهي تطلب الاهتمام قبل تقديم أي قيمة.</p>
+<p>لا تكمن فعالية التواصل التوظيفي الجيد في الصياغة الذكية أو النصوص الإقناعية. بل تكمن في إثبات أنك قمت بواجبك, وشرح سبب كون الفرصة ذات صلة حقيقية, وتسهيل متابعة المحادثة على الطرف الآخر.</p>
+<p>سواء كنت مسؤول توظيف داخليًّا, أو مدير توظيف, أو مؤسسًا, أو مسؤول توظيف في وكالة, فإن هذه المبادئ تعمل على تحسين معدلات الرد بشكل كبير, مع تعزيز سمعة الشركة كصاحب عمل في الوقت نفسه.</p>
 <hr>
-<h2>Why Most Recruiting Messages Fail</h2>
-<p>Developers receive dozens—or even hundreds—of recruiting messages every year.</p>
-<p>After seeing enough of them, they can identify a mass template within the first sentence.</p>
-<p>Typical messages usually contain:</p>
+<h2>لماذا تفشل معظم رسائل التوظيف</h2>
+<p>يتلقى المطورون عشرات — أو حتى مئات — من رسائل التوظيف كل عام.</p>
+<p>وبعد رؤية عدد كافٍ منها, يمكنهم التعرف على القوالب النمطية المكررة من الجملة الأولى.</p>
+<p>عادةً ما تحتوي الرسائل النمطية على:</p>
 <ul>
-<li>Generic compliments</li>
-<li>No evidence the sender read their profile</li>
-<li>No salary information</li>
-<li>No explanation of the product</li>
-<li>No explanation of the actual work</li>
-<li>A request for a phone call immediately</li>
+<li>مجاملات عامة</li>
+<li>عدم وجود دليل على أن المرسل قد قرأ ملفهم الشخصي</li>
+<li>عدم وجود معلومات عن الراتب</li>
+<li>عدم وجود شرح للمنتج</li>
+<li>عدم وجود شرح للعمل الفعلي</li>
+<li>طلب إجراء مكالمة هاتفية على الفور</li>
 </ul>
-<p>Imagine receiving the following:</p>
+<p>تخيل أنك تلقيت الرسالة التالية:</p>
 <blockquote>
-<p>&quot;Hi Alex,</p>
-<p>I was impressed with your profile. We have an exciting opportunity with a rapidly growing company using cutting-edge technologies. Would you have 30 minutes this week?&quot;</p>
+<p>&quot;مرحبًا أليكس,</p>
+<p>لقد أعجبني ملفك الشخصي. لدينا فرصة مثيرة مع شركة سريعة النمو تستخدم أحدث التقنيات. هل لديك 30 دقيقة هذا الأسبوع؟&quot;</p>
 </blockquote>
-<p>Nothing about that message tells the recipient:</p>
+<p>لا يوجد في هذه الرسالة ما يوضح للمستلم:</p>
 <ul>
-<li>Why they were contacted</li>
-<li>Why this role fits them</li>
-<li>Why this company is different</li>
-<li>Whether the compensation is competitive</li>
-<li>Whether it&#39;s worth interrupting their day</li>
+<li>سبب الاتصال به</li>
+<li>سبب ملاءمة هذا المنصب له</li>
+<li>سبب تميز هذه الشركة</li>
+<li>ما إذا كان الأجر تنافسيًا</li>
+<li>ما إذا كان الأمر يستحق مقاطعة يومه</li>
 </ul>
-<p>Deleting it is the rational response.</p>
+<p>حذفها هو الرد المنطقي.</p>
 <hr>
-<h1>Remember Who Is Evaluating Whom</h1>
-<p>Recruiters often think they&#39;re evaluating candidates.</p>
-<p>Experienced developers know the reverse is equally true.</p>
-<p>Every message becomes an early signal about your company.</p>
-<p>Developers ask themselves:</p>
+<h1>تذكر من الذي يقيّم من</h1>
+<p>غالبًا ما يعتقد مسؤولو التوظيف أنهم هم من يقيّمون المرشحين.</p>
+<p>لكن المطورين ذوي الخبرة يعرفون أن العكس صحيح أيضًا.</p>
+<p>كل رسالة تصبح مؤشرًا مبكرًا عن شركتك.</p>
+<p>يسأل المطورون أنفسهم:</p>
 <ul>
-<li>Does this company understand engineering?</li>
-<li>Does this recruiter understand what I actually do?</li>
-<li>Is this role real or was I scraped from LinkedIn?</li>
-<li>Will interviews be organized?</li>
-<li>Is this another company hiding compensation?</li>
+<li>هل تفهم هذه الشركة مجال الهندسة؟</li>
+<li>هل يفهم مسؤول التوظيف هذا ما أقوم به فعليًّا؟</li>
+<li>هل هذه الوظيفة حقيقية أم أن بياناتي تم استخراجها من LinkedIn؟</li>
+<li>هل سيتم تنظيم مقابلات؟</li>
+<li>هل هذه شركة أخرى تخفي تفاصيل الأجر؟</li>
 </ul>
-<p>The outreach itself becomes your first interview.</p>
+<p>التواصل نفسه يصبح بمثابة مقابلتك الأولى.</p>
 <hr>
-<h1>Research Before You Write</h1>
-<p>Personalization isn&#39;t writing someone&#39;s first name.</p>
-<p>It&#39;s showing that you understand something meaningful about their work.</p>
-<p>Good sources include:</p>
+<h1>ابحث قبل أن تكتب</h1>
+<p>التخصيص لا يعني مجرد كتابة الاسم الأول للشخص.</p>
+<p>بل يعني إظهار أنك تفهم شيئًا ذا مغزى عن عمله.</p>
+<p>من المصادر الجيدة ما يلي:</p>
 <ul>
-<li>GitHub repositories</li>
-<li>Open-source contributions</li>
-<li>Personal websites</li>
-<li>Technical blogs</li>
-<li>Conference talks</li>
-<li>Engineering podcasts</li>
-<li>LinkedIn articles</li>
-<li>Stack Overflow activity</li>
-<li>Public portfolio projects</li>
+<li>مستودعات GitHub</li>
+<li>المساهمات في المشاريع مفتوحة المصدر</li>
+<li>المواقع الشخصية</li>
+<li>المدونات التقنية</li>
+<li>محاضرات المؤتمرات</li>
+<li>البودكاستات الهندسية</li>
+<li>مقالات LinkedIn</li>
+<li>النشاط على Stack Overflow</li>
+<li>مشاريع المحفظة العامة</li>
 </ul>
-<p>You don&#39;t need to spend twenty minutes researching someone.</p>
-<p>Two or three genuine minutes often produces enough context to write a message that feels human.</p>
+<p>لست بحاجة إلى قضاء عشرين دقيقة في البحث عن شخص ما.</p>
+<p>غالبًا ما توفر دقيقتان أو ثلاث دقائق حقيقية سياقًا كافيًا لكتابة رسالة تبدو إنسانية.</p>
 <hr>
-<h2>What Developers Actually Want to Read</h2>
-<p>Good outreach answers the questions developers naturally have.</p>
-<h3>Why me?</h3>
-<p>Mention something specific.</p>
-<p>Examples:</p>
+<h2>ما يريد المطورون قراءته فعليًّا</h2>
+<p>التواصل الجيد يجيب على الأسئلة التي تطرأ بشكل طبيعي في أذهان المطورين.</p>
+<h3>لماذا أنا؟</h3>
+<p>اذكر شيئًا محددًا.</p>
+<p>أمثلة:</p>
 <ul>
-<li>a project</li>
-<li>a library</li>
-<li>a technical article</li>
-<li>a conference presentation</li>
-<li>an architecture discussion</li>
-<li>a GitHub repository</li>
-<li>an interesting pull request</li>
+<li>مشروع</li>
+<li>مكتبة برمجية</li>
+<li>مقال تقني</li>
+<li>عرض تقديمي في مؤتمر</li>
+<li>مناقشة حول البنية</li>
+<li>مستودع GitHub</li>
+<li>طلب سحب مثير للاهتمام</li>
 </ul>
-<p>Not:</p>
+<p>لا تقل:</p>
 <blockquote>
-<p>&quot;I love your experience.&quot;</p>
+<p>&quot;أعجبني خبرتك.&quot;</p>
 </blockquote>
-<p>Instead:</p>
+<p>بدلاً من ذلك:</p>
 <blockquote>
-<p>&quot;I enjoyed reading your post about optimizing PostgreSQL indexes. We solve similar scaling problems.&quot;</p>
+<p>&quot;لقد استمتعت بقراءة منشورك حول تحسين فهارس PostgreSQL. نحن نحل مشكلات توسع مماثلة.&quot;</p>
 </blockquote>
-<p>Specificity earns attention.</p>
+<p>التحديد يجذب الانتباه.</p>
 <hr>
-<h3>What does your company actually build?</h3>
-<p>Skip marketing language.</p>
-<p>Don&#39;t write:</p>
+<h3>ما الذي تبنيه شركتك فعليًّا؟</h3>
+<p>تجنب اللغة التسويقية.</p>
+<p>لا تكتب:</p>
 <blockquote>
-<p>&quot;We&#39;re disrupting digital transformation.&quot;</p>
+<p>&quot;نحن نحدث ثورة في التحول الرقمي.&quot;</p>
 </blockquote>
-<p>Write:</p>
+<p>اكتب:</p>
 <blockquote>
-<p>&quot;We build scheduling software used by over 12,000 healthcare providers.&quot;</p>
+<p>مرحبًا سارة,</p>
+<p>قرأتُ مؤخرًا مقالك حول تقليل زمن استجابة واجهة برمجة التطبيقات (API) باستخدام لغة Rust, ولا سيما القسم الذي تناولتِ فيه تجميع الطلبات غير المتزامنة.</p>
+<p>يعمل فريق الهندسة لدينا في Acme على حل تحديات أداء مشابهة جدًّا لمنصة لوجستية تعالج ملايين الشحنات يوميًا.</p>
+<p>نحن نبحث عن مهندس خلفي أول لقيادة خدمات استيعاب الأحداث لدينا.</p>
+<p>الراتب يتراوح بين 180 ألف و220 ألف دولار بالإضافة إلى أسهم, والعمل عن بُعد بالكامل داخل أمريكا الشمالية.</p>
+<p>إذا كنتِ ترغبين في معرفة المزيد, يسعدني أن أرسل لكِ التفاصيل. لا ضغوط على الإطلاق إذا لم يكن التوقيت مناسبًا.</p>
 </blockquote>
-<p>Or:</p>
-<blockquote>
-<p>&quot;We process payment transactions for online retailers across North America.&quot;</p>
-</blockquote>
-<p>Developers care about real products.</p>
-<hr>
-<h3>What problem would I solve?</h3>
-<p>Titles are weak.</p>
-<p>Problems are compelling.</p>
-<p>Instead of:</p>
-<blockquote>
-<p>Senior Backend Engineer</p>
-</blockquote>
-<p>Write:</p>
-<blockquote>
-<p>You&#39;ll lead the redesign of our event ingestion platform processing over 5 billion events each day.</p>
-</blockquote>
-<p>Or:</p>
-<blockquote>
-<p>You&#39;ll own our offline synchronization engine for mobile devices used by field technicians.</p>
-</blockquote>
-<p>Interesting work attracts engineers.</p>
-<hr>
-<h3>What&#39;s the technology stack?</h3>
-<p>Keep it concise.</p>
-<p>Examples:</p>
+<p>لاحظ ما هو مفقود:</p>
 <ul>
-<li>Rust</li>
-<li>Go</li>
-<li>TypeScript</li>
-<li>React</li>
-<li>PostgreSQL</li>
-<li>Kubernetes</li>
-<li>AWS</li>
-</ul>
-<p>Don&#39;t overwhelm the message with twenty technologies.</p>
-<p>Three to six is usually enough.</p>
-<hr>
-<h3>What&#39;s the salary?</h3>
-<p>One of the biggest reasons outreach is ignored is uncertainty.</p>
-<p>Developers don&#39;t want to spend weeks interviewing only to discover the compensation doesn&#39;t align with their expectations.</p>
-<p>Whenever possible include:</p>
-<ul>
-<li>salary range</li>
-<li>bonus</li>
-<li>equity</li>
-<li>benefits</li>
-<li>remote policy</li>
-</ul>
-<p>Transparency builds trust immediately.</p>
-<hr>
-<h2>A High-Performing Outreach Structure</h2>
-<p>Keep the message between <strong>120–180 words</strong>.</p>
-<p>Structure:</p>
-<ol>
-<li>Personalized opening</li>
-<li>Company description</li>
-<li>Role description</li>
-<li>Salary range</li>
-<li>Simple next step</li>
-</ol>
-<p>Example:</p>
-<blockquote>
-<p>Hi Sarah,</p>
-<p>I recently read your article about reducing API latency using Rust, especially your section on async request batching.</p>
-<p>Our engineering team at Acme is solving very similar performance challenges for a logistics platform processing millions of shipments every day.</p>
-<p>We&#39;re hiring a Senior Backend Engineer to lead our event ingestion services.</p>
-<p>Compensation is $180k–$220k plus equity, fully remote within North America.</p>
-<p>If you&#39;re open to learning more, I&#39;d be happy to send over the details. No pressure at all if the timing isn&#39;t right.</p>
-</blockquote>
-<p>Notice what&#39;s missing:</p>
-<ul>
-<li>exaggerated hype</li>
-<li>buzzwords</li>
-<li>pressure</li>
-<li>unnecessary meetings</li>
+<li>الضجيج المبالغ فيه</li>
+<li>المصطلحات الرنانة</li>
+<li>الضغط</li>
+<li>الاجتماعات غير الضرورية</li>
 </ul>
 <hr>
-<h1>Keep It About Them</h1>
-<p>Most recruiting messages spend 90% of their words talking about the company.</p>
-<p>Reverse that.</p>
-<p>Instead of:</p>
+<h1>ركز على المتلقي</h1>
+<p>تخصص معظم رسائل التوظيف 90% من كلماتها للحديث عن الشركة.</p>
+<p>اقلب هذا الأمر.</p>
+<p>بدلاً من:</p>
 <blockquote>
-<p>We&#39;re growing...</p>
+<p>نحن ننمو...</p>
 </blockquote>
-<p>Try:</p>
+<p>جرب:</p>
 <blockquote>
-<p>Based on your work with distributed systems, I thought this role might genuinely interest you.</p>
+<p>بناءً على خبرتك في العمل مع الأنظمة الموزعة, اعتقدت أن هذا الدور قد يثير اهتمامك حقًا.</p>
 </blockquote>
-<p>Developers care about:</p>
+<p>ما يهم المطورين هو:</p>
 <ul>
-<li>interesting problems</li>
-<li>technical ownership</li>
-<li>learning opportunities</li>
-<li>impact</li>
-<li>engineering quality</li>
+<li>المشكلات المثيرة للاهتمام</li>
+<li>الملكية التقنية</li>
+<li>فرص التعلم</li>
+<li>التأثير</li>
+<li>جودة الهندسة</li>
 </ul>
-<p>Your company is simply the context.</p>
+<p>شركتك هي مجرد السياق.</p>
 <hr>
-<h1>Don&#39;t Oversell</h1>
-<p>Developers are naturally skeptical.</p>
-<p>Avoid:</p>
+<h1>لا تبالغ في الترويج</h1>
+<p>المطورون متشككون بطبيعتهم.</p>
+<p>تجنب:</p>
 <ul>
-<li>revolutionary</li>
-<li>world-changing</li>
-<li>unicorn</li>
-<li>rockstar</li>
-<li>ninja</li>
-<li>game-changing</li>
-<li>disruptive</li>
-<li>cutting-edge</li>
+<li>ثوري</li>
+<li>يغير العالم</li>
+<li>يونيكورن</li>
+<li>نجم روك</li>
+<li>نينجا</li>
+<li>يغير قواعد اللعبة</li>
+<li>ثوري</li>
+<li>متطور</li>
 </ul>
-<p>Replace adjectives with facts.</p>
-<p>Instead of:</p>
+<p>استبدل الصفات بالحقائق.</p>
+<p>بدلاً من:</p>
 <blockquote>
-<p>Amazing engineering culture</p>
+<p>ثقافة هندسية مذهلة</p>
 </blockquote>
-<p>Write:</p>
+<p>اكتب:</p>
 <blockquote>
-<p>We deploy multiple times per day with automated testing and small pull requests.</p>
+<p>نقوم بالنشر عدة مرات يوميًا باستخدام الاختبارات الآلية وطلبات السحب الصغيرة.</p>
 </blockquote>
-<p>Facts are more persuasive than marketing.</p>
+<p>الحقائق أكثر إقناعًا من التسويق.</p>
 <hr>
-<h1>Make Saying &quot;Yes&quot; Easy</h1>
-<p>Don&#39;t ask for a meeting immediately.</p>
-<p>Lower the commitment.</p>
-<p>Better closing questions include:</p>
+<h1>اجعل قول «نعم» أمرًا سهلاً</h1>
+<p>لا تطلب عقد اجتماع على الفور.</p>
+<p>قلل من مستوى الالتزام المطلوب.</p>
+<p>من بين الأسئلة الختامية الأفضل ما يلي:</p>
 <ul>
-<li>Want me to send more details?</li>
-<li>Worth a quick look?</li>
-<li>Would it be helpful if I shared the job description?</li>
-<li>Interested in learning more?</li>
-<li>Happy to answer questions if you&#39;re curious.</li>
+<li>هل تريد أن أرسل لك المزيد من التفاصيل؟</li>
+<li>هل يستحق الأمر إلقاء نظرة سريعة؟</li>
+<li>هل سيكون من المفيد أن أشاركك الوصف الوظيفي؟</li>
+<li>هل أنت مهتم بمعرفة المزيد؟</li>
+<li>يسعدني الإجابة على أسئلتك إذا كان لديك أي استفسارات.</li>
 </ul>
-<p>Small asks generate more responses.</p>
+<p>الطلبات البسيطة تولد ردودًا أكثر.</p>
 <hr>
-<h1>Respect Their Time</h1>
-<p>Developers are busy.</p>
-<p>Help them evaluate the opportunity quickly.</p>
-<p>Include:</p>
+<h1>احترم وقتهم</h1>
+<p>المطورون مشغولون.</p>
+<p>ساعدهم على تقييم الفرصة بسرعة.</p>
+<p>أدرج ما يلي:</p>
 <ul>
-<li>remote or onsite</li>
-<li>salary</li>
-<li>tech stack</li>
-<li>product</li>
-<li>mission</li>
-<li>location</li>
-<li>team size (if relevant)</li>
+<li>العمل عن بُعد أو في المكتب</li>
+<li>الراتب</li>
+<li>مجموعة التقنيات المستخدمة</li>
+<li>المنتج</li>
+<li>المهمة</li>
+<li>الموقع</li>
+<li>حجم الفريق (إن كان ذلك ذا صلة)</li>
 </ul>
-<p>Every unanswered question creates friction.</p>
-<p>Reduce friction.</p>
-<p>Increase replies.</p>
+<p>كل سؤال دون إجابة يخلق توتراً.</p>
+<p>قلل من التوتر.</p>
+<p>زُد من الردود.</p>
 <hr>
-<h1>Common Outreach Mistakes</h1>
-<p>Avoid these entirely.</p>
-<h2>Generic compliments</h2>
-<p>Bad:</p>
+<h1>الأخطاء الشائعة في التواصل</h1>
+<p>تجنب هذه الأخطاء تماماً.</p>
+<h2>الإطراءات العامة</h2>
+<p>سيئ:</p>
 <blockquote>
-<p>I was impressed with your background.</p>
+<p>لقد أعجبتني خلفيتك المهنية.</p>
 </blockquote>
-<p>Good:</p>
+<p>جيد:</p>
 <blockquote>
-<p>Your open-source work on Redis clustering caught my attention.</p>
+<p>لفت انتباهي عملك في مجال البرمجيات مفتوحة المصدر على تجميع Redis.</p>
 </blockquote>
 <hr>
-<h2>Walls of text</h2>
-<p>Keep messages readable.</p>
-<p>Short paragraphs.</p>
-<p>White space.</p>
-<p>Developers skim.</p>
+<h2>النصوص الطويلة</h2>
+<p>اجعل الرسائل سهلة القراءة.</p>
+<p>فقرات قصيرة.</p>
+<p>مسافات بيضاء.</p>
+<p>المطورون يقرؤون بسرعة.</p>
 <hr>
-<h2>Huge requirement lists</h2>
-<p>The first message isn&#39;t the place for twenty bullet points.</p>
-<p>Focus on:</p>
+<h2>قوائم المتطلبات الضخمة</h2>
+<p>الرسالة الأولى ليست المكان المناسب لعشرين نقطة.</p>
+<p>ركز على:</p>
 <ul>
-<li>problem</li>
-<li>impact</li>
-<li>opportunity</li>
+<li>المشكلة</li>
+<li>التأثير</li>
+<li>الفرصة</li>
 </ul>
 <hr>
-<h2>Immediate meeting requests</h2>
-<p>Don&#39;t ask strangers for thirty minutes.</p>
-<p>Earn the conversation.</p>
+<h2>طلبات الاجتماع الفورية</h2>
+<p>لا تطلب من الغرباء تخصيص ثلاثين دقيقة.</p>
+<p>اكسب الحق في إجراء المحادثة.</p>
 <hr>
-<h2>Hidden salary</h2>
-<p>This is one of the fastest ways to reduce response rates.</p>
-<p>Transparency helps everyone.</p>
+<h2>الراتب غير المعلن</h2>
+<p>هذه إحدى أسرع الطرق لتقليل معدلات الرد.</p>
+<p>الشفافية تفيد الجميع.</p>
 <hr>
-<h2>Incorrect personalization</h2>
-<p>Nothing destroys credibility faster than:</p>
+<h2>التخصيص غير الصحيح</h2>
+<p>لا شيء يدمر المصداقية أسرع من:</p>
 <ul>
-<li>wrong name</li>
-<li>wrong company</li>
-<li>wrong programming language</li>
-<li>wrong specialty</li>
+<li>الاسم الخاطئ</li>
+<li>الشركة الخاطئة</li>
+<li>لغة البرمجة الخاطئة</li>
+<li>التخصص الخاطئ</li>
 </ul>
-<p>Double-check everything.</p>
+<p>تحقق جيدًا من كل شيء.</p>
 <hr>
-<h1>AI Can Help—But Don&#39;t Let It Sound Like AI</h1>
-<p>AI tools can help recruiters:</p>
+<h1>الذكاء الاصطناعي يمكن أن يساعد — لكن لا تجعله يبدو وكأنه الذكاء الاصطناعي</h1>
+<p>يمكن لأدوات الذكاء الاصطناعي أن تساعد مسؤولي التوظيف على:</p>
 <ul>
-<li>improve grammar</li>
-<li>shorten messages</li>
-<li>rewrite paragraphs</li>
-<li>summarize company information</li>
-<li>create draft outreach</li>
+<li>تحسين القواعد النحوية</li>
+<li>اختصار الرسائل</li>
+<li>إعادة صياغة الفقرات</li>
+<li>تلخيص معلومات الشركة</li>
+<li>إنشاء مسودات لرسائل التواصل</li>
 </ul>
-<p>But never copy and paste AI-generated messages without editing them.</p>
-<p>Developers increasingly recognize generic AI writing.</p>
-<p>Use AI for:</p>
+<p>ولكن لا تقم أبدًا بنسخ ولصق الرسائل التي أنشأها الذكاء الاصطناعي دون تحريرها.</p>
+<p>يتزايد إدراك المطورين للكتابة النمطية الناتجة عن الذكاء الاصطناعي.</p>
+<p>استخدم الذكاء الاصطناعي من أجل:</p>
 <ul>
-<li>editing</li>
-<li>proofreading</li>
-<li>improving clarity</li>
+<li>التحرير</li>
+<li>التدقيق اللغوي</li>
+<li>تحسين الوضوح</li>
 </ul>
-<p>Not for replacing genuine research.</p>
-<p>The most effective outreach still includes one or two human-written sentences that reference the candidate&#39;s actual work.</p>
+<p>وليس لاستبدال البحث الحقيقي.</p>
+<p>لا تزال الرسائل الأكثر فعالية في التواصل تتضمن جملة أو جملتين مكتوبتين بواسطة الإنسان تشيران إلى العمل الفعلي للمرشح.</p>
 <hr>
-<h1>Follow Up Professionally</h1>
-<p>Many developers simply miss the first message.</p>
-<p>Following up once is reasonable.</p>
-<p>A good follow-up:</p>
+<h1>المتابعة بشكل احترافي</h1>
+<p>كثيرًا ما يغفل العديد من المطورين الرسالة الأولى.</p>
+<p>من المعقول إجراء متابعة واحدة.</p>
+<p>المتابعة الجيدة:</p>
 <ul>
-<li>is brief</li>
-<li>references the earlier message</li>
-<li>adds one new piece of information</li>
-<li>doesn&#39;t pressure the recipient</li>
+<li>تكون موجزة</li>
+<li>تشير إلى الرسالة السابقة</li>
+<li>تضيف معلومة جديدة واحدة</li>
+<li>لا تضغط على المتلقي</li>
 </ul>
-<p>Example:</p>
+<p>مثال:</p>
 <blockquote>
-<p>Hi Sarah,</p>
-<p>Just following up in case my previous message got buried.</p>
-<p>We&#39;ve since published a new engineering article explaining the platform I mentioned, so I thought I&#39;d share it.</p>
-<p>Happy to send details if you&#39;re interested.</p>
+<p>مرحبًا سارة,</p>
+<p>أتابع معكِ فقط تحسبًا لعدم وصول رسالتي السابقة إليكِ.</p>
+<p>لقد نشرنا منذ ذلك الحين مقالًا هندسيًّا جديدًا يشرح المنصة التي ذكرتها, لذا فكرت في مشاركتها معكِ.</p>
+<p>يسعدني إرسال التفاصيل إذا كنتِ مهتمة.</p>
 </blockquote>
-<p>That&#39;s enough.</p>
-<p>If there&#39;s no response after a second message, move on respectfully.</p>
-<p>Persistence is valuable.</p>
-<p>Spam is not.</p>
+<p>هذا يكفي.</p>
+<p>إذا لم يرد أي رد بعد الرسالة الثانية, فانتقل إلى المرشح التالي باحترام.</p>
+<p>المثابرة أمر قيّم.</p>
+<p>أما الرسائل غير المرغوب فيها فليست كذلك.</p>
 <hr>
-<h1>Build Long-Term Relationships</h1>
-<p>Not every conversation should end in an immediate hire.</p>
-<p>Many outstanding developers respond with:</p>
+<h1>بناء علاقات طويلة الأمد</h1>
+<p>ليس من الضروري أن تنتهي كل محادثة بتعيين فوري.</p>
+<p>يرد العديد من المطورين المتميزين بقولهم:</p>
 <ul>
-<li>Maybe later.</li>
-<li>Not this year.</li>
-<li>Check back in six months.</li>
+<li>ربما لاحقًا.</li>
+<li>ليس هذا العام.</li>
+<li>تواصل معي بعد ستة أشهر.</li>
 </ul>
-<p>Treat those responses as successes.</p>
-<p>Keep notes.</p>
-<p>Reconnect thoughtfully.</p>
-<p>The candidate who says &quot;no&quot; today may become your best hire next year.</p>
-<p>Great recruiting is relationship building, not transaction processing.</p>
+<p>تعامل مع هذه الردود على أنها نجاحات.</p>
+<p>احتفظ بملاحظات.</p>
+<p>أعد الاتصال بشكل مدروس.</p>
+<p>المرشح الذي يقول «لا» اليوم قد يصبح أفضل موظف لديك العام المقبل.</p>
+<p>التوظيف الناجح هو بناء العلاقات, وليس مجرد معالجة المعاملات.</p>
 <hr>
-<h1>Measure the Right Metrics</h1>
-<p>Sending more messages isn&#39;t success.</p>
-<p>Track outcomes instead.</p>
-<p>Useful recruiting metrics include:</p>
+<h1>قياس المؤشرات الصحيحة</h1>
+<p>إرسال المزيد من الرسائل لا يعني النجاح.</p>
+<p>بدلاً من ذلك, قم بتتبع النتائج.</p>
+<p>تشمل المقاييس المفيدة في التوظيف ما يلي:</p>
 <ul>
-<li>Response rate</li>
-<li>Positive response rate</li>
-<li>Qualified conversations</li>
-<li>Interview conversion rate</li>
-<li>Offer acceptance rate</li>
-<li>Time-to-hire</li>
-<li>Cost-per-hire</li>
-<li>Candidate satisfaction</li>
-<li>Referral rate</li>
+<li>معدل الاستجابة</li>
+<li>معدل الاستجابة الإيجابية</li>
+<li>المحادثات المؤهلة</li>
+<li>معدل تحويل المقابلات</li>
+<li>معدل قبول العروض</li>
+<li>الوقت المستغرق للتوظيف</li>
+<li>تكلفة التوظيف</li>
+<li>رضا المرشحين</li>
+<li>معدل التوصية</li>
 </ul>
-<p>Small improvements in outreach quality often produce meaningful improvements across the entire hiring funnel.</p>
+<p>غالبًا ما تؤدي التحسينات الصغيرة في جودة التواصل إلى تحسينات ملموسة عبر مسار التوظيف بأكمله.</p>
 <hr>
-<h1>Recruiting Outreach Checklist</h1>
-<p>Before pressing <strong>Send</strong>, ask yourself:</p>
+<h1>قائمة مراجعة للتواصل في مجال التوظيف</h1>
+<p>قبل الضغط على <strong>إرسال</strong>, اسأل نفسك:</p>
 <ul>
-<li>✅ Did I reference something specific about the candidate?</li>
-<li>✅ Did I explain what the company actually builds?</li>
-<li>✅ Did I describe the real problem they&#39;d solve?</li>
-<li>✅ Did I include compensation or a meaningful range?</li>
-<li>✅ Is the message under 180 words?</li>
-<li>✅ Did I avoid buzzwords and clichés?</li>
-<li>✅ Is the next step simple?</li>
-<li>✅ Would I reply if I received this message?</li>
+<li>✅ هل أشرت إلى شيء محدد يتعلق بالمرشح؟</li>
+<li>✅ هل أوضحت ما الذي تقوم الشركة بتطويره فعليًّا؟</li>
+<li>✅ هل وصفت المشكلة الحقيقية التي سيقوم المرشح بحلها؟</li>
+<li>✅ هل أدرجت الراتب أو نطاقًا ملموسًا له؟</li>
+<li>✅ هل يقل عدد كلمات الرسالة عن 180 كلمة؟</li>
+<li>✅ هل تجنبت المصطلحات الرنانة والكليشيهات؟</li>
+<li>✅ هل الخطوة التالية بسيطة؟</li>
+<li>✅ هل كنت سأرد لو تلقيت هذه الرسالة؟</li>
 </ul>
-<p>If you can&#39;t answer &quot;yes&quot; to every question, revise the message first.</p>
+<p>إذا لم تتمكن من الإجابة بـ«نعم» على كل سؤال, فقم بمراجعة الرسالة أولاً.</p>
 <hr>
-<h1>Advice for Developers Receiving Outreach</h1>
-<p>Recruiting outreach isn&#39;t only something employers should improve.</p>
-<p>Developers can also make themselves easier to discover.</p>
-<p>Consider including:</p>
+<h1>نصائح للمطورين الذين يتلقون رسائل توظيف</h1>
+<p>التواصل التوظيفي ليس أمراً يجب على أصحاب العمل فقط تحسينه.</p>
+<p>يمكن للمطورين أيضاً أن يجعلوا من السهل اكتشافهم.</p>
+<p>فكر في تضمين ما يلي:</p>
 <ul>
-<li>Current technology stack</li>
-<li>Preferred role</li>
-<li>Remote or relocation preferences</li>
-<li>Portfolio website</li>
-<li>GitHub profile</li>
-<li>Personal projects</li>
-<li>Conference talks</li>
-<li>Open-source contributions</li>
-<li>Salary expectations (if you&#39;re comfortable sharing them)</li>
+<li>مجموعة التقنيات الحالية</li>
+<li>الدور المفضل</li>
+<li>تفضيلات العمل عن بُعد أو الانتقال إلى مكان آخر</li>
+<li>موقع الويب الخاص بمحفظة الأعمال</li>
+<li>ملف GitHub الشخصي</li>
+<li>المشاريع الشخصية</li>
+<li>محاضرات المؤتمرات</li>
+<li>المساهمات في المشاريع مفتوحة المصدر</li>
+<li>توقعات الراتب (إذا كنت لا تمانع في مشاركتها)</li>
 </ul>
-<p>A complete professional profile helps recruiters determine whether an opportunity is genuinely relevant, reducing unwanted messages and improving the quality of the ones you do receive.</p>
+<p>يساعد الملف الشخصي المهني الكامل مسؤولي التوظيف على تحديد ما إذا كانت فرصة العمل ذات صلة حقيقية أم لا, مما يقلل من الرسائل غير المرغوب فيها ويحسن جودة الرسائل التي تتلقاها بالفعل.</p>
 <hr>
-<h1>The Takeaway</h1>
-<p>Developers don&#39;t ignore recruiting outreach because they&#39;re impossible to reach—they ignore it because most messages feel interchangeable.</p>
-<p>The best recruiting messages are short, specific, transparent, and respectful. They explain why the recipient was chosen, what the company actually builds, the meaningful problems they&#39;ll solve, and the compensation they can expect. They make it easy to say &quot;yes,&quot; just as importantly, easy to say &quot;no.&quot;</p>
-<p>Whether you&#39;re hiring one engineer or building an entire engineering organization, better outreach leads to better conversations, stronger employer branding, higher response rates, and ultimately better hires.</p>
+<h1>النقطة الأساسية</h1>
+<p>لا يتجاهل المطورون رسائل التوظيف لأن الوصول إليهم مستحيل — بل يتجاهلونها لأن معظم الرسائل تبدو متشابهة.</p>
+<p>أفضل رسائل التوظيف هي تلك التي تكون قصيرة ومحددة وشفافة ومحترمة. فهي تشرح سبب اختيار المستلم, وما الذي تقوم الشركة بتطويره فعليًّا, والمشكلات المهمة التي سيقومون بحلها, والمكافآت التي يمكنهم توقعها. وهي تجعل من السهل قول «نعم», والأهم من ذلك, تجعل من السهل قول «لا».</p>
+<p>سواء كنت توظف مهندسًا واحدًا أو تبني قسمًا هندسيًّا كاملًا, فإن التواصل الأفضل يؤدي إلى محادثات أفضل, وعلامة تجارية أقوى لصاحب العمل, ومعدلات استجابة أعلى, وفي النهاية توظيفات أفضل.</p>
 <hr>
-<p><strong>Looking for developers who are already interested in new opportunities? Create your company profile on JobsList.dev, publish your engineering roles, and connect directly with talented software professionals from around the world.</strong></p>
-5:["locale","ar","d"]
-6:["slug","recruiting-outreach-messages-that-get-replies","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"recruiting-outreach-messages-that-get-replies\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","recruiting-outreach-messages-that-get-replies","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Write Recruiting Outreach That Developers Actually Reply To\",\"description\":\"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers.\",\"datePublished\":\"2026-06-29T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Write Recruiting Outreach That Developers Actually Reply To","date":"2026-06-29T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Write Recruiting Outreach That Developers Actually Reply To | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","15",{"property":"og:description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-29T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Write Recruiting Outreach That Developers Actually Reply To"}],["$","meta","25",{"name":"twitter:description","content":"Most recruiting outreach is ignored because it's generic, vague, and asks too much too soon. Learn how to write personalized messages that earn replies and build lasting relationships with developers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p><strong>هل تبحث عن مطورين مهتمين بالفعل بفرص عمل جديدة؟ أنشئ ملف تعريف لشركتك على JobsList.dev, وانشر وظائفك الهندسية, وتواصل مباشرةً مع محترفي البرمجيات الموهوبين من جميع أنحاء العالم.</strong></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين\",\"description\":\"يتم تجاهل معظم رسائل التوظيف لأنها عامة وغامضة وتطلب الكثير في وقت مبكر جدًّا. تعرَّف على كيفية كتابة رسائل مخصصة تحظى بالردود وتبني علاقات دائمة مع المطورين.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-06-29T00:00:00.000Z\",\"dateModified\":\"2026-06-29T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/recruiting-outreach-messages-that-get-replies/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"يتم تجاهل معظم رسائل التوظيف لأنها عامة وغامضة وتطلب الكثير في وقت مبكر جدًّا. تعرَّف على كيفية كتابة رسائل مخصصة تحظى بالردود وتبني علاقات دائمة مع المطورين."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-29T00:00:00.000Z","children":"28 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","البحث عن المواهب",{"className":"badge-gray","children":"البحث عن المواهب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","التعيين",{"className":"badge-gray","children":"التعيين"}],["$","span","التواصل",{"className":"badge-gray","children":"التواصل"}],["$","span","العلامة التجارية لصاحب العمل",{"className":"badge-gray","children":"العلامة التجارية لصاحب العمل"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"يتم تجاهل معظم رسائل التوظيف لأنها عامة وغامضة وتطلب الكثير في وقت مبكر جدًّا. تعرَّف على كيفية كتابة رسائل مخصصة تحظى بالردود وتبني علاقات دائمة مع المطورين."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين"}],["$","meta","15",{"property":"og:description","content":"يتم تجاهل معظم رسائل التوظيف لأنها عامة وغامضة وتطلب الكثير في وقت مبكر جدًّا. تعرَّف على كيفية كتابة رسائل مخصصة تحظى بالردود وتبني علاقات دائمة مع المطورين."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/recruiting-outreach-messages-that-get-replies/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-29T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيفية كتابة رسائل توظيف تجذب ردودًا فعلية من المطورين"}],["$","meta","27",{"name":"twitter:description","content":"يتم تجاهل معظم رسائل التوظيف لأنها عامة وغامضة وتطلب الكثير في وقت مبكر جدًّا. تعرَّف على كيفية كتابة رسائل مخصصة تحظى بالردود وتبني علاقات دائمة مع المطورين."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

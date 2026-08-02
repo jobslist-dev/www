@@ -1,502 +1,473 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T4160,<p>Hiring doesn&#39;t end when you find the right candidate.</p>
-<p>It ends when that candidate actually accepts your offer, shows up on day one excited to join your company, and becomes an engaged employee.</p>
-<p>Many companies lose exceptional engineers without realizing why. They assume compensation wasn&#39;t competitive or another company offered a more exciting product. Often the deciding factor is much simpler:</p>
-<p><strong>The hiring experience itself.</strong></p>
-<p>Top candidates pay close attention to every interaction. They notice how quickly you communicate, whether interviewers respect their time, whether promises are kept, and whether the organization appears organized.</p>
-<p>Your hiring process is the first product candidates experience.</p>
-<p>If that product feels frustrating, slow, or disorganized, they naturally assume working there will feel the same.</p>
-<p>Candidate experience isn&#39;t HR polish.</p>
-<p>It&#39;s one of the highest ROI investments an engineering organization can make.</p>
-<hr>
-<h1>Why candidate experience matters</h1>
-<p>Exceptional candidates usually have options.</p>
-<p>Many senior engineers receive recruiter messages every week.</p>
-<p>Staff engineers, architects, DevOps engineers, AI specialists, security engineers, and engineering managers often have multiple interview processes running simultaneously.</p>
-<p>The companies that win aren&#39;t always those offering:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","candidate-experience-that-wins-offers","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","candidate-experience-that-wins-offers","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"candidate-experience-that-wins-offers\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","candidate-experience-that-wins-offers","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T5d79,<h2>لا ينتهي التوظيف بمجرد العثور على المرشح المناسب.
+بل ينتهي عندما يقبل ذلك المرشح عرضك فعليًّا, ويحضر في أول يوم عمل متحمسًا للانضمام إلى شركتك, ويصبح موظفًا ملتزمًا.
+تفقد العديد من الشركات مهندسين استثنائيين دون أن تدرك السبب. فهي تفترض أن الأجر لم يكن تنافسيًا أو أن شركة أخرى عرضت منتجًا أكثر إثارة. غالبًا ما يكون العامل الحاسم أبسط من ذلك بكثير:
+<strong>تجربة التوظيف نفسها.</strong>
+يولي أفضل المرشحين اهتمامًا شديدًا لكل تفاعل. فهم يلاحظون مدى سرعة تواصلكم, وما إذا كان القائمون على المقابلات يحترمون وقتهم, وما إذا كانت الوعود تُنفذ, وما إذا كانت المؤسسة تبدو منظمة.
+عملية التوظيف الخاصة بك هي أول «منتج» يختبره المرشحون.
+وإذا كان هذا «المنتج» يبعث على الإحباط, أو بطيئًا, أو غير منظم, فسيفترضون بطبيعة الحال أن العمل هناك سيكون بنفس الشعور.
+تجربة المرشح ليست مجرد لمسة تجميلية من قسم الموارد البشرية.
+بل هي أحد الاستثمارات ذات العائد الأعلى على الاستثمار (ROI) التي يمكن لمؤسسة هندسية أن تقوم بها.</h2>
+<h1>لماذا تهم تجربة المرشح</h1>
+<p>عادةً ما يكون لدى المرشحين المتميزين خيارات متعددة.
+يتلقى العديد من المهندسين ذوي الخبرة رسائل من مسؤولي التوظيف كل أسبوع.
+غالبًا ما يخضع المهندسون العاملون, والمهندسون المعماريون, ومهندسو DevOps, وأخصائيو الذكاء الاصطناعي, ومهندسو الأمن, ومديرو الهندسة لعدة عمليات مقابلة تجري في وقت واحد.
+الشركات التي تفوز ليست دائمًا تلك التي تقدم:</p>
 <ul>
-<li>The highest salary</li>
-<li>The biggest equity package</li>
-<li>The fanciest office</li>
-<li>Unlimited vacation</li>
-<li>Free lunches</li>
+<li>أعلى راتب</li>
+<li>أكبر حزمة أسهم</li>
+<li>أرقى مكتب</li>
+<li>إجازة غير محدودة</li>
+<li>وجبات غداء مجانية
+غالبًا ما تفوز لأن المرشحين يثقون بها أكثر.
+تُبنى الثقة خلال عملية المقابلة.
+كل تفاعل إما يزيد من تلك الثقة أو يقللها.</li>
 </ul>
-<p>They frequently win because candidates trust them more.</p>
-<p>Trust is built during the interview process.</p>
-<p>Every interaction either increases or decreases that trust.</p>
 <hr>
-<h1>The hiring process is your first product</h1>
-<p>Candidates experience your organization long before they become employees.</p>
-<p>They experience:</p>
+<h1>عملية التوظيف هي منتجك الأول</h1>
+<p>يتعرف المرشحون على مؤسستك قبل أن يصبحوا موظفين بوقت طويل.
+ويختبرون:</p>
 <ul>
-<li>Your careers page</li>
-<li>Your application form</li>
-<li>Your recruiter</li>
-<li>Your interview scheduling</li>
-<li>Your communication</li>
-<li>Your interviewers</li>
-<li>Your technical assessments</li>
-<li>Your response times</li>
-<li>Your offer process</li>
+<li>صفحة الوظائف الخاصة بك</li>
+<li>نموذج التقديم الخاص بك</li>
+<li>مسؤول التوظيف لديك</li>
+<li>جدولة المقابلات الخاصة بك</li>
+<li>طريقة تواصلك</li>
+<li>القائمين على المقابلات لديك</li>
+<li>التقييمات الفنية الخاصة بك</li>
+<li>أوقات استجابتك</li>
+<li>عملية تقديم العرض الخاصة بك
+وهم يسألون أنفسهم:</li>
 </ul>
-<p>They&#39;re asking themselves:</p>
 <blockquote>
-<p>&quot;If this is how they treat candidates, how do they treat employees?&quot;</p>
+<p>&quot;إذا كانت هذه هي الطريقة التي يعاملون بها المرشحين, فكيف يعاملون الموظفين؟&quot;
+يؤثر هذا السؤال على معدلات القبول أكثر بكثير مما تدركه العديد من الشركات.</p>
 </blockquote>
-<p>That question influences acceptance rates far more than many companies realize.</p>
 <hr>
-<h1>Every touchpoint matters</h1>
-<p>Candidate experience begins before someone clicks &quot;Apply.&quot;</p>
-<p>Ask yourself:</p>
+<h1>كل نقطة تواصل مهمة</h1>
+<p>تبدأ تجربة المرشح قبل أن ينقر أحدهم على زر «تقديم الطلب».
+اسأل نفسك:</p>
 <ul>
-<li>Is your careers page modern?</li>
-<li>Does it explain what your company actually builds?</li>
-<li>Are salary ranges published?</li>
-<li>Are interview steps clearly explained?</li>
-<li>Are engineering blogs available?</li>
-<li>Can candidates meet future teammates before accepting?</li>
+<li>هل صفحة الوظائف الخاصة بك حديثة؟</li>
+<li>هل تشرح ما تقوم شركتك بتطويره فعليًا؟</li>
+<li>هل نطاقات الرواتب منشورة؟</li>
+<li>هل خطوات المقابلة موضحة بوضوح؟</li>
+<li>هل تتوفر مدونات هندسية؟</li>
+<li>هل يمكن للمرشحين مقابلة زملائهم المستقبليين في الفريق قبل قبول العرض؟
+كل سؤال دون إجابة يخلق حالة من عدم اليقين.
+كل حالة من عدم اليقين تزيد من احتمال انسحابهم من عملية التوظيف.</li>
 </ul>
-<p>Every unanswered question creates uncertainty.</p>
-<p>Every uncertainty increases the chance they&#39;ll abandon your process.</p>
 <hr>
-<h1>The first response sets the tone</h1>
-<p>The first recruiter email establishes expectations.</p>
-<p>Bad example:</p>
+<h1>الرد الأول يحدد نبرة التواصل</h1>
+<p>تحدد الرسالة الإلكترونية الأولى من مسؤول التوظيف التوقعات.
+مثال سيئ:</p>
 <blockquote>
-<p>Thanks for applying.</p>
-<p>We&#39;ll be in touch.</p>
+<p>شكرًا على تقديمك للطلب.</p>
+<p>سنتواصل معك.
+مثال جيد:
+شكرًا على تقديمك للطلب.</p>
+<p>إليك ما سيحدث بعد ذلك.</p>
+<p>• مراجعة السيرة الذاتية في غضون يومي عمل
+• مكالمة تعريفية
+• مقابلة فنية
+• مقابلة مع الفريق
+• القرار النهائي في غضون عشرة أيام عمل</p>
+<p>سنبقيك على اطلاع بعد كل مرحلة.
+رسالة واحدة تقضي على أيام من عدم اليقين.</p>
 </blockquote>
-<p>Good example:</p>
-<blockquote>
-<p>Thanks for applying.</p>
-<p>Here&#39;s what happens next.</p>
-<p>• Resume review within two business days
-• Intro call
-• Technical interview
-• Team interview
-• Final decision within ten business days</p>
-<p>We&#39;ll keep you updated after every stage.</p>
-</blockquote>
-<p>One message eliminates days of uncertainty.</p>
 <hr>
-<h1>Speed is respect</h1>
-<p>One of the biggest reasons companies lose great candidates is simple:</p>
-<p>They&#39;re too slow.</p>
-<p>The strongest developers rarely remain available for long.</p>
-<p>An experienced engineer might receive:</p>
+<h1>السرعة هي احترام</h1>
+<p>أحد أكبر الأسباب التي تجعل الشركات تفقد المرشحين المتميزين بسيط:
+إنها بطيئة للغاية.
+نادرًا ما يظل المطورون الأكفأ متاحين لفترة طويلة.
+قد يتلقى مهندس متمرس:</p>
 <ul>
-<li>five recruiter messages this week</li>
-<li>three interviews next week</li>
-<li>two offers the following week</li>
+<li>خمس رسائل من مسؤول التوظيف هذا الأسبوع</li>
+<li>ثلاث مقابلات الأسبوع المقبل</li>
+<li>عرضين في الأسبوع الذي يليه
+في حين أن بعض الشركات تستغرق:</li>
+<li>أسبوعًا واحدًا لمراجعة الطلبات</li>
+<li>أسبوعًا آخر لتحديد مواعيد المقابلات</li>
+<li>أسبوعًا آخر للحصول على الملاحظات الداخلية</li>
+<li>أسبوعًا آخر للحصول على الموافقات
+وبحلول ذلك الوقت, يكون المرشح قد قبل عرضًا آخر بالفعل.
+الشركات السريعة ليست متهورة.
+إنها حاسمة.</li>
 </ul>
-<p>Meanwhile some companies take:</p>
-<ul>
-<li>one week to review applications</li>
-<li>another week to schedule interviews</li>
-<li>another week for internal feedback</li>
-<li>another week for approvals</li>
-</ul>
-<p>By then the candidate has already accepted another offer.</p>
-<p>Fast companies aren&#39;t reckless.</p>
-<p>They&#39;re decisive.</p>
 <hr>
-<h1>Publish your hiring timeline</h1>
-<p>Candidates appreciate knowing exactly what to expect.</p>
-<p>Include:</p>
+<h1>انشر الجدول الزمني لعملية التوظيف</h1>
+<p>يقدّر المرشحون معرفة ما يمكن توقعه بالضبط.
+قم بتضمين:</p>
 <table>
 <thead>
 <tr>
-<th>Stage</th>
-<th>Typical Time</th>
+<th>المرحلة</th>
+<th>المدة المعتادة</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Application Review</td>
-<td>1–3 business days</td>
+<td>مراجعة الطلب</td>
+<td>1–3 أيام عمل</td>
 </tr>
 <tr>
-<td>Recruiter Conversation</td>
-<td>30 minutes</td>
+<td>محادثة مع مسؤول التوظيف</td>
+<td>30 دقيقة</td>
 </tr>
 <tr>
-<td>Technical Interview</td>
-<td>60–90 minutes</td>
+<td>المقابلة الفنية</td>
+<td>60–90 دقيقة</td>
 </tr>
 <tr>
-<td>Team Interviews</td>
-<td>Same day where possible</td>
+<td>مقابلات الفريق</td>
+<td>في نفس اليوم إن أمكن</td>
 </tr>
 <tr>
-<td>Final Decision</td>
-<td>Within 2–3 business days</td>
+<td>القرار النهائي</td>
+<td>في غضون 2–3 أيام عمل</td>
 </tr>
 <tr>
-<td>Offer Discussion</td>
-<td>Within 24 hours</td>
+<td>مناقشة العرض</td>
+<td>في غضون 24 ساعة</td>
+</tr>
+<tr>
+<td>القدرة على التنبؤ تقلل من التوتر.</td>
+<td></td>
 </tr>
 </tbody></table>
-<p>Predictability reduces stress.</p>
 <hr>
-<h1>Communication beats silence</h1>
-<p>Silence creates anxiety.</p>
-<p>Candidates begin wondering:</p>
+<h1>التواصل أفضل من الصمت</h1>
+<p>الصمت يولد القلق.
+يبدأ المرشحون في التساؤل:</p>
 <ul>
-<li>Did they forget me?</li>
-<li>Was I rejected?</li>
-<li>Did something change?</li>
-<li>Should I keep waiting?</li>
+<li>هل نسوا أمري؟</li>
+<li>هل تم رفضي؟</li>
+<li>هل تغير شيء ما؟</li>
+<li>هل يجب أن أستمر في الانتظار؟
+حتى في حالة عدم وجود مستجدات, أرسل رسالة.
+رسالة بريد إلكتروني مدتها ثلاثون ثانية تقول:</li>
 </ul>
-<p>Even when there isn&#39;t an update, send one.</p>
-<p>A thirty-second email saying:</p>
 <blockquote>
-<p>&quot;We&#39;re still interviewing this week and expect to have feedback Friday.&quot;</p>
+<p>&quot;ما زلنا نجري المقابلات هذا الأسبوع ونتوقع أن تكون لدينا ردود يوم الجمعة.&quot;
+أفضل بكثير من الاختفاء.</p>
 </blockquote>
-<p>is dramatically better than disappearing.</p>
 <hr>
-<h1>Never ghost candidates</h1>
-<p>Ghosting damages your employer brand.</p>
-<p>People remember.</p>
-<p>Many candidates later become:</p>
+<h1>لا تتجاهل المرشحين أبدًا</h1>
+<p>التجاهل يضر بسمعة شركتك كصاحب عمل.
+الناس يتذكرون.
+يصبح العديد من المرشحين لاحقًا:</p>
 <ul>
-<li>future applicants</li>
-<li>customers</li>
-<li>startup founders</li>
-<li>hiring managers</li>
-<li>conference speakers</li>
-<li>open-source maintainers</li>
-</ul>
-<p>Every rejected candidate is still part of your reputation.</p>
-<p>Always close the loop.</p>
-<p>Even a thoughtful rejection can leave someone with a positive impression.</p>
-<hr>
-<h1>Respect the candidate&#39;s time</h1>
-<p>Hiring requires effort from both sides.</p>
-<p>Remember that candidates often:</p>
-<ul>
-<li>interview before work</li>
-<li>interview during lunch</li>
-<li>interview after work</li>
-<li>take vacation days</li>
-<li>arrange childcare</li>
-<li>travel</li>
-<li>prepare presentations</li>
-</ul>
-<p>Don&#39;t waste that effort.</p>
-<p>Good practices include:</p>
-<ul>
-<li>Starting interviews on time.</li>
-<li>Ending on time.</li>
-<li>Keeping interview loops focused.</li>
-<li>Eliminating duplicate questions.</li>
-<li>Providing interview agendas in advance.</li>
-<li>Avoiding unnecessary rounds.</li>
+<li>متقدمين في المستقبل</li>
+<li>عملاء</li>
+<li>مؤسسي شركات ناشئة</li>
+<li>مديري توظيف</li>
+<li>متحدثين في المؤتمرات</li>
+<li>مشرفين على مشاريع مفتوحة المصدر
+كل مرشح تم رفضه لا يزال جزءًا من سمعتك.
+أكمل دائمًا الدورة.
+حتى الرفض المدروس يمكن أن يترك انطباعًا إيجابيًا لدى الشخص.</li>
 </ul>
 <hr>
-<h1>Right-size your interview process</h1>
-<p>Longer isn&#39;t better.</p>
-<p>Ask yourself:</p>
-<p>Does this role really require:</p>
+<h1>احترم وقت المرشح</h1>
+<p>يتطلب التوظيف جهدًا من كلا الطرفين.
+تذكر أن المرشحين غالبًا ما:</p>
 <ul>
-<li>Six interviews?</li>
-<li>Three technical assessments?</li>
-<li>Two take-home projects?</li>
-<li>Four executive conversations?</li>
+<li>يجرون المقابلات قبل العمل</li>
+<li>يجرون المقابلات أثناء استراحة الغداء</li>
+<li>يجرون المقابلات بعد العمل</li>
+<li>يأخذون أيام إجازة</li>
+<li>يرتبون رعاية أطفالهم</li>
+<li>يسافرون</li>
+<li>يعدون العروض التقديمية
+لا تضيع هذا الجهد.
+تشمل الممارسات الجيدة ما يلي:</li>
+<li>بدء المقابلات في الوقت المحدد.</li>
+<li>إنهاء المقابلة في الموعد المحدد.</li>
+<li>الحفاظ على تركيز مراحل المقابلة.</li>
+<li>تجنب تكرار الأسئلة.</li>
+<li>توفير جداول أعمال المقابلة مسبقًا.</li>
+<li>تجنب الجولات غير الضرورية.</li>
 </ul>
-<p>Probably not.</p>
-<p>Typical engineering hiring can often be completed with:</p>
+<hr>
+<h1>حدد الحجم المناسب لعملية المقابلة</h1>
+<p>الطول ليس بالضرورة أفضل.
+اسأل نفسك:
+هل يتطلب هذا المنصب حقًا:</p>
+<ul>
+<li>ست مقابلات؟</li>
+<li>ثلاثة تقييمات فنية؟</li>
+<li>مشروعين للقيام بهما في المنزل؟</li>
+<li>أربع محادثات مع الإدارة التنفيذية؟
+ربما لا.
+غالبًا ما يمكن إتمام عملية التوظيف الهندسية النموذجية من خلال:</li>
+</ul>
 <ol>
-<li>Recruiter conversation</li>
-<li>Technical discussion</li>
-<li>Practical coding or system design</li>
-<li>Team conversation</li>
-<li>Hiring manager decision</li>
+<li>محادثة مع مسؤول التوظيف</li>
+<li>مناقشة فنية</li>
+<li>اختبار عملي في البرمجة أو تصميم الأنظمة</li>
+<li>محادثة مع الفريق</li>
+<li>قرار مدير التوظيف
+العمليات البسيطة تجذب المرشحين الأكثر كفاءة.</li>
 </ol>
-<p>Simple processes attract stronger candidates.</p>
 <hr>
-<h1>Design better technical interviews</h1>
-<p>Candidates should leave interviews thinking:</p>
+<h1>صمم مقابلات فنية أفضل</h1>
+<p>يجب أن يغادر المرشحون المقابلات وهم يفكرون:</p>
 <blockquote>
-<p>&quot;That was challenging, but fair.&quot;</p>
+<p>&quot;كان ذلك صعبًا, لكنه عادل.&quot;
+وليس:
+&quot;ما كان ذلك بحق السماء؟&quot;
+المقابلات الفنية الجيدة تشبه العمل الهندسي الحقيقي.
+ومن الأمثلة على ذلك:</p>
 </blockquote>
-<p>Not:</p>
+<ul>
+<li>تصحيح أخطاء تطبيق موجود</li>
+<li>مراجعة طلب سحب (pull request)</li>
+<li>تصميم نظام صغير</li>
+<li>تحسين كود موجود</li>
+<li>مناقشة قرارات الهندسة</li>
+<li>البرمجة الثنائية</li>
+<li>استعراض المشاريع السابقة
+تجنب الاختبارات التافهة التي لا تشبه الوظيفة الفعلية.</li>
+</ul>
+<hr>
+<h1>إذا كنت تستخدم المهام المنزلية</h1>
+<p>احترم أوقات المساء لدى المرشحين.
+يجب أن تتسم المهمة الجيدة التي تُعطى للقيام بها في المنزل بما يلي:</p>
+<ul>
+<li>ألا تستغرق أكثر من 2–3 ساعات.</li>
+<li>أن تشرح التوقعات بوضوح.</li>
+<li>أن تركز على عمل واقعي.</li>
+<li>ألا تشبه أبدًا العمل الإنتاجي غير المدفوع الأجر.</li>
+<li>أن تتضمن معايير التقييم.</li>
+<li>أن يتبعها نقاش مباشر.
+كلما أمكن, قدم بديلاً للبرمجة الثنائية المباشرة.
+يقدم المرشحون أداءً أفضل في صيغ مختلفة.</li>
+</ul>
+<hr>
+<h1>كل مُحاور يمثل شركتك</h1>
+<p>لن يتذكر المرشحون كل سؤال.
+بل سيتذكرون كيف جعلهم القائمون على المقابلة يشعرون.
+القائمون على المقابلة الأكفاء:</p>
+<ul>
+<li>يأتون مستعدين.</li>
+<li>يقرؤون السيرة الذاتية مسبقًا.</li>
+<li>يستمعون باهتمام.</li>
+<li>يشجعون على النقاش.</li>
+<li>يطرحون أسئلة متابعة مدروسة.</li>
+<li>يظلون فضوليين.</li>
+<li>يعاملون المرشحين كزملاء فريق في المستقبل.
+القائمون على المقابلة الضعفاء:</li>
+<li>يتأخرون عن الموعد.</li>
+<li>يطرحون أسئلة متكررة.</li>
+<li>يتفقدون بريدهم الإلكتروني أثناء المقابلات.</li>
+<li>يقاطعون باستمرار.</li>
+<li>يحاولون «الفوز».</li>
+<li>يحولون المقابلات إلى استجوابات.
+المقابلة هي عملية تسويق.
+لا تنسَ ذلك أبدًا.</li>
+</ul>
+<hr>
+<h1>نسق فريق المقابلة الخاص بك</h1>
+<p>لا ينبغي أن يُطلب من المرشحين الإجابة على السؤال:
+«أخبرني عن نفسك.»
+خمس مرات منفصلة.
+قسّم مسؤوليات القائمين على المقابلة.
+مثال:
+| المقابل           | التركيز                     |
+| ------------------- | ------ ------------------- |
+| مسؤول التوظيف           | الدوافع واللوجستيات  |
+| مدير الهندسة | الخبرة السابقة           |
+| مهندس أول     | العمق التقني           |
+| شريك المنتج     | التعاون             |
+| أعضاء الفريق        | الثقافة وأسلوب العمل |</p>
+<h2>يجب أن تبني كل مقابلة على المحادثات السابقة.</h2>
+<h1>قم بتسويق الفرصة</h1>
+<p>تقضي العديد من الشركات العملية بأكملها في تقييم المرشحين.
+وقليل جدًا منها يخصص وقتًا كافيًا لتسويق الفرصة.
+تذكر:
+أفضل المرشحين يجرون مقابلة معك أيضًا.
+تحدث عن:</p>
+<ul>
+<li>الثقافة الهندسية</li>
+<li>التحديات التقنية</li>
+<li>استقلالية الفريق</li>
+<li>خارطة طريق المنتج</li>
+<li>النمو الوظيفي</li>
+<li>الإرشاد</li>
+<li>قرارات الهندسة المعمارية</li>
+<li>ميزانية التعلم</li>
+<li>ممارسات العمل عن بُعد</li>
+<li>فلسفة القيادة
+الهدف ليس الإقناع.
+الهدف هو إثارة الحماس المستنير.</li>
+</ul>
+<hr>
+<h1>كن صادقًا بشأن التحديات</h1>
+<p>كل شركة لديها مشاكل.
+والمرشحون يدركون ذلك.
+بدلاً من التظاهر بأن كل شيء مثالي, اشرح ما يلي:</p>
+<ul>
+<li>الديون التقنية الحالية</li>
+<li>خطط التوظيف</li>
+<li>تحديات التوسع</li>
+<li>الأنظمة القديمة</li>
+<li>التغييرات التنظيمية</li>
+<li>عمليات الترحيل المرتقبة
+الصدق يبني المصداقية.
+والمثير للدهشة أن العديد من المهندسين ذوي الخبرة ينجذبون إلى المشكلات الصعبة.</li>
+</ul>
+<hr>
+<h1>محادثة العرض مهمة</h1>
+<p>لا ترسل ملف PDF عبر البريد الإلكتروني دون سياق.
+كلما أمكن:</p>
+<ul>
+<li>حدد موعدًا لإجراء مكالمة.</li>
+<li>هنئ المرشح.</li>
+<li>اشرح سبب اختياره.</li>
+<li>استعرض تفاصيل الأجر.</li>
+<li>اشرح المزايا.</li>
+<li>ناقش حصة الأسهم.</li>
+<li>أجب على الأسئلة.</li>
+<li>حدد الخطوات التالية.
+يتذكر الناس الطريقة التي يتم بها تقديم العروض.</li>
+</ul>
+<hr>
+<h1>اجعل التفاوض تعاونيًا</h1>
+<p>لا ينبغي أن يبدو التفاوض وكأنه صراع.
+قد يسأل المرشحون عن:</p>
+<ul>
+<li>الراتب</li>
+<li>حصة الأسهم</li>
+<li>مكافآت التوقيع</li>
+<li>العمل عن بُعد</li>
+<li>الإجازات</li>
+<li>التطوير المهني</li>
+<li>ميزانيات المعدات</li>
+<li>تواريخ بدء العمل
+تعامل مع هذه الأمور على أنها محادثات.
+التفاوض القائم على الاحترام يعزز الثقة قبل أن يبدأ العمل حتى.</li>
+</ul>
+<hr>
+<h1>حافظ على التواصل بعد تقديم العرض</h1>
+<p>القبول ليس خط النهاية.
+غالبًا ما يكون هناك:</p>
+<ul>
+<li>فترة إشعار</li>
+<li>فحوصات الخلفية</li>
+<li>الانتقال</li>
+<li>إجراءات التأشيرة</li>
+<li>شحن المعدات
+ابقَ على اتصال.
+من بين الأفكار:</li>
+<li>رسائل البريد الإلكتروني الترحيبية</li>
+<li>تعريف المرشح بالفريق</li>
+<li>دعوات الانضمام إلى Slack (عند الاقتضاء)</li>
+<li>قوائم القراءة</li>
+<li>الوثائق الهندسية</li>
+<li>لقاءات التعارف</li>
+<li>جداول الأسبوع الأول
+قلل من عدم اليقين.
+زود من الحماس.</li>
+</ul>
+<hr>
+<h1>تجربة المرشح تؤثر على العلامة التجارية لصاحب العمل</h1>
+<p>المرشحون يتحدثون.
+يكتبون التقييمات.
+ينشرون على الإنترنت.
+يخبرون زملاء العمل.
+تجربة مقابلة إيجابية باستمرار تؤدي إلى:</p>
+<ul>
+<li>تقييمات أفضل على الإنترنت</li>
+<li>المزيد من التوصيات</li>
+<li>معدلات قبول أعلى</li>
+<li>توظيف أسهل في المستقبل</li>
+<li>سمعة أقوى لصاحب العمل
+يصبح التوظيف أسهل كل ربع سنة لأن المرشحين السابقين يوصون بك.</li>
+</ul>
+<hr>
+<h1>المقاييس التي يجب على كل فريق توظيف تتبعها</h1>
+<p>حسّن ما تقيسه.
+تشمل مقاييس التوظيف المفيدة ما يلي:</p>
+<ul>
+<li>الوقت المستغرق حتى الرد الأول</li>
+<li>الوقت المستغرق حتى التوظيف</li>
+<li>نسبة المقابلات إلى العروض</li>
+<li>معدل قبول العروض</li>
+<li>درجة رضا المرشح</li>
+<li>معدل إكمال الطلبات</li>
+<li>معدل عدم الحضور للمقابلة</li>
+<li>معدل التوصيات</li>
+<li>وقت استجابة مدير التوظيف</li>
+<li>مؤشر الترويج الصافي (NPS) للمرشح
+غالبًا ما تكشف هذه المقاييس عن العقبات قبل أن يلاحظها مسؤولو التوظيف بوقت طويل.</li>
+</ul>
+<hr>
+<h1>قائمة مراجعة لتجربة المرشح</h1>
+<p>قبل الإعلان عن الوظيفة التالية, اسأل نفسك:</p>
+<ul>
+<li>هل وصف الوظيفة صادق ومحدد؟</li>
+<li>هل يعرف المرشحون كل مراحل المقابلة؟</li>
+<li>هل تم نشر نطاقات الرواتب؟</li>
+<li>هل يقرأ القائمون على المقابلات السير الذاتية مسبقًا؟</li>
+<li>هل المقابلات ذات صلة بالوظيفة الفعلية؟</li>
+<li>هل المهام المنزلية معقولة؟</li>
+<li>هل نتواصل بين كل مرحلة وأخرى؟</li>
+<li>هل نرد بسرعة؟</li>
+<li>هل نختتم دائمًا المسار؟</li>
+<li>هل سنستمتع بالخضوع لعملية التوظيف الخاصة بنا؟
+إذا ترددت في الإجابة على العديد من هذه الأسئلة, فهذا يعني أنك حددت فرصًا للتحسين.</li>
+</ul>
+<hr>
+<h1>الأخطاء الشائعة التي تكلف الشركات موظفين ممتازين</h1>
+<p>تجنب هذه الأخطاء الشائعة:</p>
+<ul>
+<li>تجاهل المرشحين بعد المقابلات.</li>
+<li>استغراق أسابيع لترتيب موعد المرحلة التالية.</li>
+<li>طرح أسئلة متكررة عبر عدة مقابلات.</li>
+<li>إجراء جولات مقابلة أكثر من اللازم.</li>
+<li>تقديم تقييمات فنية غامضة.</li>
+<li>طلب عمل غير مدفوع الأجر يشبه مهام الإنتاج.</li>
+<li>إخفاء تفاصيل الأجر حتى النهاية.</li>
+<li>مفاجأة المرشحين بمقابلات إضافية.</li>
+<li>إرسال رسائل بريد إلكتروني عامة للرفض دون أي سياق.</li>
+<li>التعامل مع المقابلات كاستجوابات بدلاً من محادثات.
+كل خطأ يزيد من احتمالية قبول أفضل مرشح لديك لعرض عمل آخر.</li>
+</ul>
+<hr>
+<h1>النقطة الأساسية</h1>
+<p>تجربة المرشح هي إحدى المزايا القليلة المتاحة لكل شركة في مجال التوظيف, بغض النظر عن حجمها أو ميزانيتها.
+لست بحاجة إلى أكبر فريق توظيف أو أكبر حزمة تعويضات لجذب مهندسين استثنائيين. ما تحتاجه هو عملية توظيف منظمة ومحترمة وشفافة وإنسانية بحق.
+تحرك بسرعة. تواصل باستمرار. احترم وقت الناس. صمم مقابلات تعكس طبيعة العمل الحقيقية. أبقِ المرشحين على اطلاع. قدم العروض بعناية, وابقَ على تواصل معهم حتى يوم انضمامهم الأول.
+الشركات التي تخلق باستمرار تجارب مرشحين متميزة لا تكتفي بتوظيف أشخاص أفضل فحسب — بل تبني علامات تجارية أقوى كصاحب عمل, وتكسب المزيد من التوصيات, وتقضي وقتًا أقل في التوظيف على المدى الطويل.
+عندما ينسحب المرشحون من عمليتك — حتى لو لم يتلقوا عرضًا — يجب أن يكونوا قادرين على القول:</p>
 <blockquote>
-<p>&quot;What on earth was that?&quot;</p>
+<p>«كانت تلك واحدة من أفضل تجارب المقابلات التي مررت بها.»
+هذه سمعة تتعزز مع كل تعيين.</p>
 </blockquote>
-<p>Great technical interviews resemble real engineering work.</p>
-<p>Examples include:</p>
-<ul>
-<li>Debugging an existing application</li>
-<li>Reviewing a pull request</li>
-<li>Designing a small system</li>
-<li>Improving existing code</li>
-<li>Discussing architecture decisions</li>
-<li>Pair programming</li>
-<li>Walking through previous projects</li>
-</ul>
-<p>Avoid trivia quizzes that don&#39;t resemble the actual job.</p>
 <hr>
-<h1>If you use take-home assignments</h1>
-<p>Respect people&#39;s evenings.</p>
-<p>A good take-home should:</p>
+<h2>موارد ذات صلة</h2>
+<p>إذا كنت تعمل على تحسين عملية التوظيف لديك, فقد تجد هذه الأدلة مفيدة أيضًا:</p>
 <ul>
-<li>Take no more than 2–3 hours.</li>
-<li>Clearly explain expectations.</li>
-<li>Focus on realistic work.</li>
-<li>Never resemble unpaid production work.</li>
-<li>Include evaluation criteria.</li>
-<li>Be followed by a live discussion.</li>
+<li><strong>كيفية تصميم مهمة منزلية لا يمانع المرشحون في أدائها</strong></li>
+<li><strong>كيفية كتابة رسائل توظيف يستجيب لها المطورون فعليًّا</strong></li>
+<li><ul>
+<li><em>نموذج الوصف الوظيفي لمهندس البرمجيات (انسخ, الصق, قم بالتخصيص)</em>*</li>
 </ul>
-<p>Whenever possible, offer a live pairing alternative.</p>
-<p>Different candidates perform better in different formats.</p>
-<hr>
-<h1>Every interviewer represents your company</h1>
-<p>Candidates won&#39;t remember every question.</p>
-<p>They&#39;ll remember how interviewers made them feel.</p>
-<p>Strong interviewers:</p>
-<ul>
-<li>Arrive prepared.</li>
-<li>Read the résumé beforehand.</li>
-<li>Listen carefully.</li>
-<li>Encourage discussion.</li>
-<li>Ask thoughtful follow-up questions.</li>
-<li>Stay curious.</li>
-<li>Treat candidates like future teammates.</li>
-</ul>
-<p>Weak interviewers:</p>
-<ul>
-<li>Show up late.</li>
-<li>Ask repetitive questions.</li>
-<li>Check email during interviews.</li>
-<li>Interrupt constantly.</li>
-<li>Try to &quot;win.&quot;</li>
-<li>Turn interviews into interrogations.</li>
-</ul>
-<p>Interviewing is marketing.</p>
-<p>Never forget that.</p>
-<hr>
-<h1>Coordinate your interview team</h1>
-<p>Candidates shouldn&#39;t answer:</p>
-<p>&quot;Tell me about yourself.&quot;</p>
-<p>five separate times.</p>
-<p>Share interviewer responsibilities.</p>
-<p>Example:</p>
-<table>
-<thead>
-<tr>
-<th>Interview</th>
-<th>Focus</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Recruiter</td>
-<td>Motivation and logistics</td>
-</tr>
-<tr>
-<td>Engineering Manager</td>
-<td>Past experience</td>
-</tr>
-<tr>
-<td>Senior Engineer</td>
-<td>Technical depth</td>
-</tr>
-<tr>
-<td>Product Partner</td>
-<td>Collaboration</td>
-</tr>
-<tr>
-<td>Team Members</td>
-<td>Culture and working style</td>
-</tr>
-</tbody></table>
-<p>Each interview should build on previous conversations.</p>
-<hr>
-<h1>Sell the opportunity</h1>
-<p>Many companies spend the entire process evaluating candidates.</p>
-<p>Very few spend enough time selling the opportunity.</p>
-<p>Remember:</p>
-<p>Top candidates are interviewing you too.</p>
-<p>Talk about:</p>
-<ul>
-<li>Engineering culture</li>
-<li>Technical challenges</li>
-<li>Team autonomy</li>
-<li>Product roadmap</li>
-<li>Career growth</li>
-<li>Mentorship</li>
-<li>Architecture decisions</li>
-<li>Learning budget</li>
-<li>Remote work practices</li>
-<li>Leadership philosophy</li>
-</ul>
-<p>The goal isn&#39;t persuasion.</p>
-<p>The goal is informed excitement.</p>
-<hr>
-<h1>Be honest about challenges</h1>
-<p>Every company has problems.</p>
-<p>Candidates know this.</p>
-<p>Instead of pretending everything is perfect, explain:</p>
-<ul>
-<li>Current technical debt</li>
-<li>Hiring plans</li>
-<li>Scaling challenges</li>
-<li>Legacy systems</li>
-<li>Organizational changes</li>
-<li>Upcoming migrations</li>
-</ul>
-<p>Honesty builds credibility.</p>
-<p>Surprisingly, many experienced engineers are attracted to difficult problems.</p>
-<hr>
-<h1>The offer conversation matters</h1>
-<p>Don&#39;t email a PDF without context.</p>
-<p>Whenever possible:</p>
-<ul>
-<li>Schedule a call.</li>
-<li>Congratulate the candidate.</li>
-<li>Explain why they were selected.</li>
-<li>Walk through compensation.</li>
-<li>Explain benefits.</li>
-<li>Discuss equity.</li>
-<li>Answer questions.</li>
-<li>Outline next steps.</li>
-</ul>
-<p>People remember how offers are delivered.</p>
-<hr>
-<h1>Make negotiation collaborative</h1>
-<p>Negotiation shouldn&#39;t feel adversarial.</p>
-<p>Candidates may ask about:</p>
-<ul>
-<li>Salary</li>
-<li>Equity</li>
-<li>Signing bonuses</li>
-<li>Remote work</li>
-<li>Vacation</li>
-<li>Professional development</li>
-<li>Equipment budgets</li>
-<li>Start dates</li>
-</ul>
-<p>Treat these as conversations.</p>
-<p>A respectful negotiation strengthens trust before employment even begins.</p>
-<hr>
-<h1>Stay engaged after the offer</h1>
-<p>Acceptance isn&#39;t the finish line.</p>
-<p>There&#39;s often:</p>
-<ul>
-<li>a notice period</li>
-<li>background checks</li>
-<li>relocation</li>
-<li>visa paperwork</li>
-<li>equipment shipping</li>
-</ul>
-<p>Stay connected.</p>
-<p>Ideas include:</p>
-<ul>
-<li>Welcome emails</li>
-<li>Team introductions</li>
-<li>Slack invitations (where appropriate)</li>
-<li>Reading lists</li>
-<li>Engineering documentation</li>
-<li>Meet-and-greets</li>
-<li>First-week schedules</li>
-</ul>
-<p>Reduce uncertainty.</p>
-<p>Increase excitement.</p>
-<hr>
-<h1>Candidate experience influences employer branding</h1>
-<p>Candidates talk.</p>
-<p>They write reviews.</p>
-<p>They post online.</p>
-<p>They tell coworkers.</p>
-<p>A consistently positive interview experience creates:</p>
-<ul>
-<li>Better online reviews</li>
-<li>More referrals</li>
-<li>Higher acceptance rates</li>
-<li>Easier future hiring</li>
-<li>Stronger employer reputation</li>
-</ul>
-<p>Hiring becomes easier every quarter because previous candidates recommend you.</p>
-<hr>
-<h1>Metrics every hiring team should track</h1>
-<p>Improve what you measure.</p>
-<p>Useful hiring metrics include:</p>
-<ul>
-<li>Time to first response</li>
-<li>Time to hire</li>
-<li>Interview-to-offer ratio</li>
-<li>Offer acceptance rate</li>
-<li>Candidate satisfaction score</li>
-<li>Application completion rate</li>
-<li>Interview no-show rate</li>
-<li>Referral rate</li>
-<li>Hiring manager response time</li>
-<li>Candidate Net Promoter Score (NPS)</li>
-</ul>
-<p>These metrics often reveal bottlenecks long before recruiters notice them.</p>
-<hr>
-<h1>Candidate experience checklist</h1>
-<p>Before opening your next role, ask yourself:</p>
-<ul>
-<li>Is our job description honest and specific?</li>
-<li>Do candidates know every interview stage?</li>
-<li>Are salary ranges published?</li>
-<li>Do interviewers read résumés beforehand?</li>
-<li>Are interviews relevant to the actual job?</li>
-<li>Are take-home assignments reasonable?</li>
-<li>Do we communicate between every stage?</li>
-<li>Do we respond quickly?</li>
-<li>Do we always close the loop?</li>
-<li>Would we enjoy going through our own hiring process?</li>
-</ul>
-<p>If you hesitate on several of these questions, you&#39;ve identified opportunities to improve.</p>
-<hr>
-<h1>Common mistakes that cost companies great hires</h1>
-<p>Avoid these common pitfalls:</p>
-<ul>
-<li>Ghosting candidates after interviews.</li>
-<li>Taking weeks to schedule the next stage.</li>
-<li>Asking repetitive questions across multiple interviews.</li>
-<li>Running more interview rounds than necessary.</li>
-<li>Giving vague technical assessments.</li>
-<li>Requesting unpaid work that resembles production tasks.</li>
-<li>Hiding compensation until the end.</li>
-<li>Surprising candidates with additional interviews.</li>
-<li>Delivering generic rejection emails with no context.</li>
-<li>Treating interviews like interrogations instead of conversations.</li>
-</ul>
-<p>Each mistake increases the likelihood that your strongest candidate accepts another offer.</p>
-<hr>
-<h1>The takeaway</h1>
-<p>Candidate experience is one of the few hiring advantages available to every company, regardless of size or budget.</p>
-<p>You don&#39;t need the largest recruiting team or the biggest compensation package to win exceptional engineers. You need a hiring process that is organized, respectful, transparent, and genuinely human.</p>
-<p>Move quickly. Communicate often. Respect people&#39;s time. Design interviews that reflect real work. Keep candidates informed. Deliver offers thoughtfully, and remain engaged until their first day.</p>
-<p>The companies that consistently create outstanding candidate experiences don&#39;t just hire better people—they build stronger employer brands, earn more referrals, and spend less time recruiting over the long term.</p>
-<p>When candidates walk away from your process—even if they don&#39;t receive an offer—they should be able to say:</p>
-<blockquote>
-<p>&quot;That was one of the best interview experiences I&#39;ve had.&quot;</p>
-</blockquote>
-<p>That&#39;s a reputation that compounds with every hire.</p>
-<hr>
-<h2>Related resources</h2>
-<p>If you&#39;re improving your hiring process, you may also find these guides helpful:</p>
-<ul>
-<li><strong>How to Design a Take-Home Assignment Candidates Won&#39;t Resent</strong></li>
-<li><strong>How to Write Recruiting Outreach That Developers Actually Reply To</strong></li>
-<li><strong>Software Engineer Job Description Template (Copy, Paste, Customize)</strong></li>
-<li><strong>Engineering Manager Job Description Template (With Screening Tips)</strong></li>
-<li><strong>How to Hire Junior Developers (and Actually Get Value From Them)</strong></li>
+</li>
+<li><strong>نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للفرز)</strong></li>
+<li><strong>كيفية توظيف المطورين المبتدئين (والحصول على قيمة حقيقية منهم)</strong></li>
 </ul>
 <hr>
-<p><em>Ready to hire developers who are excited to join your company? <strong>Post your role on JobsList.dev</strong> and build a hiring experience that top engineers remember for all the right reasons.</em></p>
-5:["locale","ar","d"]
-6:["slug","candidate-experience-that-wins-offers","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","candidate-experience-that-wins-offers","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"candidate-experience-that-wins-offers\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","candidate-experience-that-wins-offers","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Candidate Experience: Winning Offers Before You Make Them\",\"description\":\"A practical guide to creating an exceptional candidate experience that attracts top talent, strengthens your employer brand, and dramatically improves offer acceptance rates.\",\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Candidate Experience: Winning Offers Before You Make Them","date":"2026-07-11T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":10,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Candidate Experience: Winning Offers Before You Make Them | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to creating an exceptional candidate experience that attracts top talent, strengthens your employer brand, and dramatically improves offer acceptance rates."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Candidate Experience: Winning Offers Before You Make Them"}],["$","meta","15",{"property":"og:description","content":"A practical guide to creating an exceptional candidate experience that attracts top talent, strengthens your employer brand, and dramatically improves offer acceptance rates."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Candidate Experience: Winning Offers Before You Make Them"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to creating an exceptional candidate experience that attracts top talent, strengthens your employer brand, and dramatically improves offer acceptance rates."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p><em>هل أنت مستعد لتوظيف مطورين متحمسين للانضمام إلى شركتك؟ <strong>انشر الوظيفة على JobsList.dev</strong> وابني تجربة توظيف يتذكرها أفضل المهندسين للأسباب الصحيحة.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"تجربة المرشح: عروض ناجحة قبل تقديمها\",\"description\":\"دليل عملي لخلق تجربة استثنائية للمرشح تجذب أفضل المواهب, وتعزز العلامة التجارية لشركتك كصاحب عمل, وتحسّن معدلات قبول العروض بشكل كبير.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"dateModified\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/candidate-experience-that-wins-offers/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"تجربة المرشح: عروض ناجحة قبل تقديمها"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي لخلق تجربة استثنائية للمرشح تجذب أفضل المواهب, وتعزز العلامة التجارية لشركتك كصاحب عمل, وتحسّن معدلات قبول العروض بشكل كبير."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-11T00:00:00.000Z","children":"10 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[11," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","تجربة المرشح",{"className":"badge-gray","children":"تجربة المرشح"}],["$","span","العلامة التجارية كصاحب عمل",{"className":"badge-gray","children":"العلامة التجارية كصاحب عمل"}],["$","span","التعيين",{"className":"badge-gray","children":"التعيين"}],["$","span","اكتساب المواهب",{"className":"badge-gray","children":"اكتساب المواهب"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"تجربة المرشح: عروض ناجحة قبل تقديمها | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي لخلق تجربة استثنائية للمرشح تجذب أفضل المواهب, وتعزز العلامة التجارية لشركتك كصاحب عمل, وتحسّن معدلات قبول العروض بشكل كبير."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"تجربة المرشح: عروض ناجحة قبل تقديمها"}],["$","meta","15",{"property":"og:description","content":"دليل عملي لخلق تجربة استثنائية للمرشح تجذب أفضل المواهب, وتعزز العلامة التجارية لشركتك كصاحب عمل, وتحسّن معدلات قبول العروض بشكل كبير."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/candidate-experience-that-wins-offers/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"تجربة المرشح: عروض ناجحة قبل تقديمها"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي لخلق تجربة استثنائية للمرشح تجذب أفضل المواهب, وتعزز العلامة التجارية لشركتك كصاحب عمل, وتحسّن معدلات قبول العروض بشكل كبير."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

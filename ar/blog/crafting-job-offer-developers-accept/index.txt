@@ -1,558 +1,541 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T4539,<hr>
-<p>Hiring doesn&#39;t end when you&#39;ve identified your preferred candidate.</p>
-<p>In many ways, the offer stage is where the real competition begins.</p>
-<p>Strong developers rarely interview with only one company. By the time you&#39;re ready to extend an offer, your candidate may already have other interviews in progress, competing offers on the table, or be deciding whether leaving their current employer is worthwhile at all.</p>
-<p>Many companies spend weeks carefully sourcing candidates, coordinating interviews, and evaluating technical ability—only to lose the person because the offer arrives too slowly, lacks clarity, or fails to explain why joining the company is genuinely exciting.</p>
-<p>Closing exceptional talent isn&#39;t about &quot;selling.&quot;</p>
-<p>It&#39;s about presenting an honest, compelling opportunity that aligns with the candidate&#39;s goals while demonstrating that your company is organized, respectful, transparent, and ready to invest in their success.</p>
-<p>This guide explains how to build an offer developers feel confident accepting.</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","crafting-job-offer-developers-accept","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"crafting-job-offer-developers-accept\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T5fc9,<h2>لا تنتهي عملية التوظيف بمجرد تحديد المرشح المفضل لديك.
+من نواحٍ عديدة, تعد مرحلة تقديم العرض هي المكان الذي تبدأ فيه المنافسة الحقيقية.
+نادرًا ما يجري المطورون المتميزون مقابلة مع شركة واحدة فقط. بحلول الوقت الذي تكون فيه مستعدًا لتقديم عرض, قد يكون مرشحك قد خضع بالفعل لمقابلات أخرى, أو لديه عروض منافسة على الطاولة, أو يكون بصدد اتخاذ قرار بشأن ما إذا كان ترك عمله الحالي يستحق العناء أم لا.
+تقضي العديد من الشركات أسابيع في البحث بعناية عن المرشحين, وتنسيق المقابلات, وتقييم القدرات التقنية — لتفقد في النهاية الشخص المطلوب لأن العرض يصل متأخرًا جدًّا, أو يفتقر إلى الوضوح, أو يفشل في توضيح سبب كون الانضمام إلى الشركة أمرًا مثيرًا حقًّا.
+إن ضم المواهب الاستثنائية لا يتعلق بـ«البيع».
+بل يتعلق الأمر بتقديم فرصة صادقة وجذابة تتوافق مع أهداف المرشح, مع إظهار أن شركتك منظمة ومحترمة وشفافة ومستعدة للاستثمار في نجاحه.
+يشرح هذا الدليل كيفية صياغة عرض يشعر المطورون بالثقة في قبوله.</h2>
+<h1>عملية إقناع المرشح تبدأ قبل تقديم العرض بوقت طويل</h1>
+<p>العرض ليس الانطباع الأول.
+بل هو التأكيد النهائي لكل الانطباعات التي تركتها بالفعل.
+بحلول الوقت الذي يتلقى فيه المرشح العرض, يكون قد قام بالفعل بتقييم:</p>
+<ul>
+<li>طريقة تواصلك</li>
+<li>جودة المقابلة</li>
+<li>القيادة التقنية</li>
+<li>الثقافة الهندسية</li>
+<li>سرعة الاستجابة</li>
+<li>احترام وقته</li>
+<li>الشفافية</li>
+<li>الاحترافية</li>
+<li>التنظيم
+إذا بدا عملية المقابلة فوضوية, فغالبًا ما يفترض المرشحون أن العمل في تلك الشركة سيكون بنفس الشعور.
+وبالمثل, إذا كانت كل تفاعلاتك مدروسة, وفي الوقت المناسب, ومحترمة, فمن المرجح جدًّا أن يثقوا في عرضك.
+كل تفاعل إما يبني الثقة أو يقللها.</li>
+</ul>
 <hr>
-<h1>Closing starts long before the offer</h1>
-<p>The offer isn&#39;t the first impression.</p>
-<p>It&#39;s the final confirmation of every impression you&#39;ve already made.</p>
-<p>By the time a candidate receives an offer they&#39;ve already evaluated:</p>
+<h1>افهم ما الذي يقيّمه المطورون حقًا</h1>
+<p>الراتب مهم.
+لكن المهندسين ذوي الخبرة لا يختارون أبدًا بناءً على الراتب وحده.
+إنهم يقيّمون الفرصة بأكملها.
+ومن الأسئلة التي تدور في أذهانهم:</p>
 <ul>
-<li>your communication</li>
-<li>interview quality</li>
-<li>technical leadership</li>
-<li>engineering culture</li>
-<li>responsiveness</li>
-<li>respect for their time</li>
-<li>transparency</li>
-<li>professionalism</li>
-<li>organization</li>
+<li>هل سأستمتع بهذا العمل؟</li>
+<li>هل سأتعلم هنا؟</li>
+<li>هل سيدعمني مديري؟</li>
+<li>هل القيادة كفؤة؟</li>
+<li>هل يحترم فريق الهندسة الجودة؟</li>
+<li>هل هذه الشركة مستقرة ماليًا؟</li>
+<li>هل سأظل أستمتع بهذا العمل بعد عامين من الآن؟</li>
+<li>هل يمكنني الوثوق بما يقولونه لي؟</li>
+<li>هل تعكس عملية المقابلة ثقافة الشركة؟
+العروض الرائعة تجيب على هذه الأسئلة قبل أن تُطرح أصلاً.</li>
 </ul>
-<p>If the interview process felt chaotic, candidates often assume working there will feel the same.</p>
-<p>Likewise, if every interaction was thoughtful, timely, and respectful, they&#39;re much more likely to trust your offer.</p>
-<p>Every interaction either builds or reduces confidence.</p>
 <hr>
-<h1>Understand what developers are really evaluating</h1>
-<p>Salary matters.</p>
-<p>But experienced engineers almost never choose based on salary alone.</p>
-<p>They&#39;re evaluating the complete opportunity.</p>
-<p>Questions running through their mind include:</p>
+<h1>اعرف ما الذي يحفز مرشحك</h1>
+<p>يقدّر كل مطور أشياء مختلفة.
+بالنسبة لمرشح ما:</p>
 <ul>
-<li>Will I enjoy this work?</li>
-<li>Will I learn here?</li>
-<li>Will my manager support me?</li>
-<li>Is leadership competent?</li>
-<li>Does the engineering team respect quality?</li>
-<li>Is this company financially stable?</li>
-<li>Will I still enjoy this job two years from now?</li>
-<li>Can I trust what they&#39;re telling me?</li>
-<li>Is the interview process representative of the culture?</li>
+<li>العمل عن بُعد
+قد يكون أكثر قيمة من 10,000 دولار إضافية.
+بالنسبة لآخر:</li>
+<li>الملكية التقنية</li>
+<li>العمل على المشاريع مفتوحة المصدر</li>
+<li>قرارات الهندسة
+هي الأكثر أهمية.
+قد يعطي شخص آخر الأولوية لـ:</li>
+<li>الاستقرار</li>
+<li>التوازن بين العمل والحياة الشخصية</li>
+<li>ساعات العمل المرنة</li>
+<li>فرص التعلم</li>
+<li>التوجيه</li>
+<li>النمو القيادي
+بدلاً من افتراض أن الجميع يبحثون عن أعلى راتب, اقضِ بعض الوقت في فهم ما يهم الفرد.
+اطرح أسئلة طوال عملية المقابلة:</li>
+<li>ما الذي جذبك إلى هذه الفرصة؟</li>
+<li>كيف سيبدو دورك التالي المثالي؟</li>
+<li>ما أنواع المشاريع التي تمنحك الحماس؟</li>
+<li>ما الذي تأمل في تعلمه خلال السنوات القليلة المقبلة؟</li>
+<li>ما الذي قد يجعل ترك منصبك الحالي أمرًا يستحق العناء؟
+تساعدك هذه المحادثات على صياغة عرض يحل مشكلة المرشح فعليًّا.</li>
 </ul>
-<p>Great offers answer these questions before they&#39;re even asked.</p>
 <hr>
-<h1>Know what motivates your candidate</h1>
-<p>Every developer values different things.</p>
-<p>For one candidate:</p>
+<h1>يجب أن تكون المكافآت تنافسية — وليست غامضة</h1>
+<p>يجب ألا تبدو المحادثات حول المكافآت أبدًا وكأنها لعبة تخمين.
+كلما أمكن, قم بالتواصل بشأن توقعات الراتب في وقت مبكر.
+الشفافية في المكافآت:</p>
 <ul>
-<li>remote work</li>
+<li>يوفر الوقت للجميع</li>
+<li>يقلل من ضغوط التفاوض</li>
+<li>يبني الثقة</li>
+<li>يمنع المفاجآت في المراحل المتأخرة</li>
+<li>يجذب المرشحين الذين يتوافقون بالفعل مع ميزانيتك
+العرض التنافسي لا يعني بالضرورة أعلى راتب في السوق.
+بل يعني الدفع العادل مقابل:</li>
+<li>الخبرة</li>
+<li>المسؤوليات</li>
+<li>الموقع</li>
+<li>التأثير</li>
+<li>ظروف السوق الحالية
+يقدّر المطورون الصدق أكثر بكثير من ألعاب التفاوض.</li>
 </ul>
-<p>may be worth more than another $10,000.</p>
-<p>For another:</p>
-<ul>
-<li>technical ownership</li>
-<li>open-source work</li>
-<li>architecture decisions</li>
-</ul>
-<p>matter most.</p>
-<p>Someone else may prioritize:</p>
-<ul>
-<li>stability</li>
-<li>work-life balance</li>
-<li>flexible hours</li>
-<li>learning opportunities</li>
-<li>mentoring</li>
-<li>leadership growth</li>
-</ul>
-<p>Instead of assuming everyone optimizes for salary, spend time understanding what matters to the individual.</p>
-<p>Ask questions throughout the interview process:</p>
-<ul>
-<li>What attracted you to this opportunity?</li>
-<li>What would your ideal next role look like?</li>
-<li>What kinds of projects energize you?</li>
-<li>What do you hope to learn over the next few years?</li>
-<li>What would make leaving your current position worthwhile?</li>
-</ul>
-<p>These conversations help you craft an offer that actually solves the candidate&#39;s problem.</p>
 <hr>
-<h1>Compensation should be competitive—not mysterious</h1>
-<p>Compensation conversations should never feel like a guessing game.</p>
-<p>Whenever possible, communicate salary expectations early.</p>
-<p>Transparent compensation:</p>
+<h1>فكر بما يتجاوز الراتب الأساسي</h1>
+<p>يقوم المرشحون بتقييم إجمالي التعويضات.
+يجب أن يشرح العرض بوضوح كل مكون.</p>
+<h2>الراتب الأساسي</h2>
+<h2>الراتب السنوي المضمون.
+كن واضحًا.
+تجنب النطاقات المربكة بمجرد تقديم العرض.</h2>
+<h2>مكافآت الأداء</h2>
+<p>اشرح:</p>
 <ul>
-<li>saves everyone time</li>
-<li>reduces negotiation stress</li>
-<li>builds trust</li>
-<li>prevents late-stage surprises</li>
-<li>attracts candidates already aligned with your budget</li>
+<li>شروط الأهلية</li>
+<li>الأهداف</li>
+<li>جدول الدفع</li>
+<li>معدلات الدفع السابقة إذا كان ذلك مناسبًا
+لا توحي بأن المكافآت مضمونة إذا لم تكن كذلك.</li>
 </ul>
-<p>A competitive offer doesn&#39;t necessarily mean the highest salary in the market.</p>
-<p>It means paying fairly for:</p>
+<hr>
+<h2>الأسهم</h2>
+<p>إذا كانت شركتك تقدم أسهمًا, فاشرح ذلك بوضوح.
+غالبًا ما يتلقى المرشحون منحًا من الأسهم دون فهم:</p>
 <ul>
-<li>experience</li>
-<li>responsibilities</li>
-<li>location</li>
-<li>impact</li>
-<li>current market conditions</li>
+<li>جداول الاستحقاق</li>
+<li>فترات الانتظار</li>
+<li>فترات ممارسة الحق</li>
+<li>السيولة</li>
+<li>التخفيف</li>
+<li>التقييم الحالي</li>
+<li>إمكانيات الخروج
+تجنب التعامل مع الأسهم وكأنها «أموال مجانية».
+بدلاً من ذلك, اشرح ما تمثله.</li>
 </ul>
-<p>Developers appreciate honesty far more than negotiation games.</p>
 <hr>
-<h1>Think beyond base salary</h1>
-<p>Candidates evaluate total compensation.</p>
-<p>An offer should clearly explain every component.</p>
-<h2>Base salary</h2>
-<p>The guaranteed annual salary.</p>
-<p>Be clear.</p>
-<p>Avoid confusing ranges once you&#39;re extending an offer.</p>
-<hr>
-<h2>Performance bonuses</h2>
-<p>Explain:</p>
+<h2>المزايا</h2>
+<p>يقارن المرشحون بين:</p>
 <ul>
-<li>eligibility</li>
-<li>targets</li>
-<li>payout schedule</li>
-<li>historical payout rates if appropriate</li>
+<li>التغطية الطبية</li>
+<li>خطط التقاعد</li>
+<li>إجازة الأبوة</li>
+<li>الإجازات المدفوعة الأجر</li>
+<li>برامج العافية</li>
+<li>دعم الصحة النفسية</li>
+<li>التأمين على الحياة</li>
+<li>التغطية في حالات العجز</li>
+<li>التعليم المستمر</li>
+<li>ميزانيات حضور المؤتمرات</li>
+<li>سداد تكاليف الشهادات
+في بعض الأحيان, تعمل المزايا الممتازة على تحسين الراتب المتوسط بشكل ملموس.</li>
 </ul>
-<p>Don&#39;t imply bonuses are guaranteed if they aren&#39;t.</p>
 <hr>
-<h2>Equity</h2>
-<p>If your company offers equity, explain it clearly.</p>
-<p>Candidates often receive stock grants without understanding:</p>
+<h2>المعدات</h2>
+<p>اشرح ما يحصل عليه المطورون.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>vesting schedules</li>
-<li>cliffs</li>
-<li>exercise windows</li>
-<li>liquidity</li>
-<li>dilution</li>
-<li>current valuation</li>
-<li>exit possibilities</li>
+<li>اختيار الكمبيوتر المحمول</li>
+<li>الشاشات</li>
+<li>المعدات المريحة</li>
+<li>بدل العمل من المنزل</li>
+<li>تراخيص البرامج</li>
+<li>أجهزة التطوير
+يلاحظ المهندسون ما إذا كانت الشركات تستثمر في أدوات جيدة.</li>
 </ul>
-<p>Avoid treating equity like &quot;free money.&quot;</p>
-<p>Instead explain what it represents.</p>
 <hr>
-<h2>Benefits</h2>
-<p>Candidates compare:</p>
+<h2>ميزانية التعلم</h2>
+<p>يضع العديد من المطورين النمو في مقدمة أولوياتهم.
+ومن الأمثلة:</p>
 <ul>
-<li>medical coverage</li>
-<li>retirement plans</li>
-<li>parental leave</li>
-<li>paid time off</li>
-<li>wellness programs</li>
-<li>mental health support</li>
-<li>life insurance</li>
-<li>disability coverage</li>
-<li>continuing education</li>
-<li>conference budgets</li>
-<li>certification reimbursement</li>
+<li>حضور المؤتمرات</li>
+<li>الكتب</li>
+<li>الدورات التدريبية عبر الإنترنت</li>
+<li>الشهادات</li>
+<li>التدريب الداخلي</li>
+<li>برامج الإرشاد
+يمكن أن تصبح فرص التعلم عوامل تمييز رئيسية.</li>
 </ul>
-<p>Sometimes excellent benefits meaningfully improve an otherwise average salary.</p>
 <hr>
-<h2>Equipment</h2>
-<p>Explain what developers receive.</p>
-<p>Examples include:</p>
-<ul>
-<li>laptop choice</li>
-<li>monitors</li>
-<li>ergonomic equipment</li>
-<li>home-office stipend</li>
-<li>software licenses</li>
-<li>development hardware</li>
-</ul>
-<p>Engineers notice whether companies invest in good tooling.</p>
-<hr>
-<h2>Learning budget</h2>
-<p>Many developers prioritize growth.</p>
-<p>Examples:</p>
-<ul>
-<li>conference attendance</li>
-<li>books</li>
-<li>online courses</li>
-<li>certifications</li>
-<li>internal training</li>
-<li>mentorship programs</li>
-</ul>
-<p>Learning opportunities can become major differentiators.</p>
-<hr>
-<h1>Don&#39;t oversell equity</h1>
-<p>Startups frequently overestimate the persuasive power of stock options.</p>
-<p>Avoid statements like:</p>
+<h1>لا تبالغ في الترويج لحصص الأسهم</h1>
+<p>غالبًا ما تبالغ الشركات الناشئة في تقدير القوة الإقناعية لخيارات الأسهم.
+تجنب العبارات مثل:</p>
 <blockquote>
-<p>These shares could be worth millions.</p>
+<p>قد تبلغ قيمة هذه الأسهم الملايين.
+بدلاً من ذلك, اشرح ما يلي:</p>
 </blockquote>
-<p>Instead explain:</p>
 <ul>
-<li>strike price</li>
-<li>vesting</li>
-<li>dilution</li>
-<li>risks</li>
-<li>current funding stage</li>
+<li>سعر التنفيذ</li>
+<li>استحقاق الأسهم</li>
+<li>التخفيف</li>
+<li>المخاطر</li>
+<li>مرحلة التمويل الحالية
+الشفافية تولد المصداقية.</li>
 </ul>
-<p>Transparency creates credibility.</p>
 <hr>
-<h1>Explain career growth</h1>
-<p>Candidates are joining more than a job.</p>
-<p>They&#39;re joining a trajectory.</p>
-<p>Describe:</p>
+<h1>اشرح مسار النمو الوظيفي</h1>
+<p>المرشحون لا ينضمون إلى مجرد وظيفة.
+بل ينضمون إلى مسار مهني.
+صف ما يلي:</p>
 <ul>
-<li>promotion expectations</li>
-<li>leveling framework</li>
-<li>mentorship</li>
-<li>leadership opportunities</li>
-<li>architecture ownership</li>
-<li>cross-functional work</li>
-<li>internal mobility</li>
-<li>technical specialization</li>
+<li>توقعات الترقية</li>
+<li>إطار تحديد المستويات الوظيفية</li>
+<li>الإرشاد</li>
+<li>فرص القيادة</li>
+<li>ملكية البنية</li>
+<li>العمل متعدد الوظائف</li>
+<li>التنقل الداخلي</li>
+<li>التخصص التقني
+يبقى الناس حيث يمكنهم النمو.</li>
 </ul>
-<p>People stay where they can grow.</p>
 <hr>
-<h1>Sell the mission—not marketing slogans</h1>
-<p>Developers enjoy solving meaningful problems.</p>
-<p>Instead of saying:</p>
+<h1>روّج للرسالة — لا لشعارات التسويق</h1>
+<p>يستمتع المطورون بحل المشكلات ذات المغزى.
+بدلاً من القول:</p>
 <blockquote>
-<p>We&#39;re changing the world.</p>
-</blockquote>
-<p>Say:</p>
-<blockquote>
-<p>Our platform processes millions of financial transactions every month, and you&#39;ll own the services responsible for payment reliability.</p>
-</blockquote>
-<p>Concrete problems are more persuasive than vague missions.</p>
-<hr>
-<h1>Show why the work matters</h1>
-<p>Explain:</p>
-<ul>
-<li>customers</li>
-<li>business impact</li>
-<li>engineering challenges</li>
-<li>technical complexity</li>
-<li>long-term roadmap</li>
-</ul>
-<p>Developers want to understand:</p>
-<blockquote>
-<p>Why should I spend the next several years building this?</p>
-</blockquote>
-<p>Answer that question.</p>
-<hr>
-<h1>Help candidates imagine themselves succeeding</h1>
-<p>Describe what success looks like.</p>
-<p>For example:</p>
-<h3>First month</h3>
-<ul>
-<li>onboard successfully</li>
-<li>understand architecture</li>
-<li>ship first improvements</li>
-</ul>
-<h3>First three months</h3>
-<ul>
-<li>own production services</li>
-<li>participate in planning</li>
-<li>improve reliability</li>
-</ul>
-<h3>First year</h3>
-<ul>
-<li>lead significant initiatives</li>
-<li>mentor teammates</li>
-<li>influence technical direction</li>
-</ul>
-<p>Specific expectations reduce uncertainty.</p>
-<hr>
-<h1>Move quickly after making your decision</h1>
-<p>One of the biggest reasons companies lose candidates is unnecessary delay.</p>
-<p>Once you&#39;ve decided:</p>
-<ul>
-<li>prepare approvals</li>
-<li>finalize compensation</li>
-<li>schedule the conversation</li>
-<li>send written documents promptly</li>
-</ul>
-<p>Avoid letting internal bureaucracy create silence.</p>
-<p>Momentum matters.</p>
-<hr>
-<h1>Deliver the offer personally</h1>
-<p>A great offer deserves a conversation.</p>
-<p>Whenever practical:</p>
-<ul>
-<li>call the candidate</li>
-<li>congratulate them</li>
-<li>express genuine enthusiasm</li>
-<li>explain why they stood out</li>
-<li>answer questions</li>
-<li>walk through compensation</li>
-</ul>
-<p>Candidates appreciate hearing:</p>
-<blockquote>
-<p>We&#39;re genuinely excited about having you join us.</p>
-</blockquote>
-<p>That enthusiasm is difficult to communicate through a PDF attachment.</p>
-<hr>
-<h1>Explain why you chose them</h1>
-<p>Developers often wonder:</p>
-<blockquote>
-<p>Why me?</p>
-</blockquote>
-<p>Tell them.</p>
-<p>Examples:</p>
-<ul>
-<li>technical depth</li>
-<li>communication</li>
-<li>ownership</li>
-<li>thoughtful design decisions</li>
-<li>collaboration</li>
-<li>curiosity</li>
-<li>debugging ability</li>
-<li>leadership potential</li>
-</ul>
-<p>Recognition reinforces confidence.</p>
-<hr>
-<h1>Share what excites the team</h1>
-<p>A hiring manager should explain:</p>
-<ul>
-<li>upcoming projects</li>
-<li>technical direction</li>
-<li>product roadmap</li>
-<li>engineering improvements</li>
-<li>future responsibilities</li>
-</ul>
-<p>Help candidates picture themselves contributing.</p>
-<hr>
-<h1>Present the written offer clearly</h1>
-<p>The written offer should include:</p>
-<ul>
-<li>job title</li>
-<li>employment type</li>
-<li>manager</li>
-<li>location</li>
-<li>remote expectations</li>
-<li>salary</li>
-<li>bonus</li>
-<li>equity</li>
-<li>benefits summary</li>
-<li>start date</li>
-<li>contingencies</li>
-<li>acceptance deadline</li>
-</ul>
-<p>Avoid hidden surprises.</p>
-<hr>
-<h1>Expect negotiation</h1>
-<p>Negotiation is normal.</p>
-<p>It isn&#39;t a sign the candidate is difficult.</p>
-<p>Most experienced professionals negotiate because they&#39;re making an important life decision.</p>
-<p>Treat the conversation collaboratively.</p>
-<hr>
-<h1>Listen before responding</h1>
-<p>Instead of immediately defending the offer, ask:</p>
-<ul>
-<li>Which part concerns you?</li>
-<li>Is compensation the primary issue?</li>
-<li>Are you comparing another offer?</li>
-<li>Is flexibility more important?</li>
-<li>Would a different start date help?</li>
-</ul>
-<p>Sometimes the issue isn&#39;t salary.</p>
-<hr>
-<h1>Know what can move</h1>
-<p>Before extending offers, define:</p>
-<p>Can change:</p>
-<ul>
-<li>salary</li>
-<li>bonus</li>
-<li>equity</li>
-<li>title</li>
-<li>start date</li>
-<li>PTO</li>
-<li>equipment</li>
-<li>remote flexibility</li>
-<li>learning budget</li>
-</ul>
-<p>Cannot change:</p>
-<ul>
-<li>salary band limits</li>
-<li>visa policies</li>
-<li>legal requirements</li>
-<li>organizational structure</li>
-</ul>
-<p>Preparation allows faster responses.</p>
-<hr>
-<h1>Don&#39;t negotiate against yourself</h1>
-<p>If the candidate hasn&#39;t asked for changes, don&#39;t begin increasing compensation automatically.</p>
-<p>Present your strongest fair offer.</p>
-<p>Then respond thoughtfully if negotiation occurs.</p>
-<hr>
-<h1>Never punish respectful negotiation</h1>
-<p>A candidate negotiating professionally is behaving responsibly.</p>
-<p>Negative reactions damage trust.</p>
-<p>Instead respond with:</p>
-<blockquote>
-<p>That&#39;s a reasonable question. Let me see what&#39;s possible.</p>
+<p>نحن نغير العالم.
+قل:
+تعالج منصتنا ملايين المعاملات المالية كل شهر, وستكون مسؤولاً عن الخدمات التي تضمن موثوقية الدفع.
+المشكلات الملموسة أكثر إقناعاً من الرسائل الغامضة.</p>
 </blockquote>
 <hr>
-<h1>Avoid exploding offers</h1>
-<p>Exploding offers force candidates to accept immediately.</p>
-<p>These usually create resentment.</p>
-<p>Instead provide a reasonable review period.</p>
-<p>Candidates often need time to:</p>
+<h1>أظهر أهمية العمل</h1>
+<p>اشرح:</p>
 <ul>
-<li>discuss with family</li>
-<li>compare offers</li>
-<li>relocate</li>
-<li>understand benefits</li>
-<li>evaluate equity</li>
+<li>العملاء</li>
+<li>التأثير على الأعمال</li>
+<li>التحديات الهندسية</li>
+<li>التعقيد التقني</li>
+<li>خارطة الطريق طويلة المدى
+يريد المطورون أن يفهموا:</li>
 </ul>
-<p>Reasonable deadlines demonstrate confidence.</p>
+<blockquote>
+<p>لماذا يجب أن أقضي السنوات القليلة القادمة في بناء هذا؟
+أجب عن هذا السؤال.</p>
+</blockquote>
 <hr>
-<h1>Handle competing offers professionally</h1>
-<p>Candidates may receive multiple offers.</p>
-<p>If they share another offer:</p>
-<p>Don&#39;t attack competitors.</p>
-<p>Instead reinforce your own strengths.</p>
-<p>Explain:</p>
+<h1>ساعد المرشحين على تخيل أنفسهم وهم ينجحون</h1>
+<p>صف كيف يبدو النجاح.
+على سبيل المثال:</p>
+<h3>الشهر الأول</h3>
 <ul>
-<li>technical challenges</li>
-<li>culture</li>
-<li>ownership</li>
-<li>growth</li>
-<li>compensation</li>
-<li>mission</li>
+<li>الاندماج بنجاح</li>
+<li>فهم البنية</li>
+<li>إطلاق التحسينات الأولى</li>
 </ul>
-<p>Candidates respond better to confidence than criticism.</p>
-<hr>
-<h1>If you can&#39;t match compensation</h1>
-<p>Sometimes another company simply pays more.</p>
-<p>If so, be honest.</p>
-<p>You might emphasize:</p>
+<h3>الأشهر الثلاثة الأولى</h3>
 <ul>
-<li>remote flexibility</li>
-<li>engineering ownership</li>
-<li>leadership opportunities</li>
-<li>mission</li>
-<li>stability</li>
-<li>work-life balance</li>
-<li>smaller bureaucracy</li>
-<li>faster career progression</li>
+<li>تولي مسؤولية خدمات الإنتاج</li>
+<li>المشاركة في التخطيط</li>
+<li>تحسين الموثوقية</li>
 </ul>
-<p>Never criticize someone for choosing differently.</p>
-<hr>
-<h1>Stay connected after acceptance</h1>
-<p>Acceptance isn&#39;t the finish line.</p>
-<p>Candidates sometimes withdraw before their start date.</p>
-<p>Maintain momentum.</p>
-<p>Examples:</p>
+<h3>السنة الأولى</h3>
 <ul>
-<li>welcome email</li>
-<li>onboarding schedule</li>
-<li>equipment updates</li>
-<li>introductions</li>
-<li>engineering documentation</li>
-<li>company news</li>
-<li>first-week agenda</li>
-</ul>
-<p>Help them feel like part of the team before day one.</p>
-<hr>
-<h1>Prepare onboarding before they arrive</h1>
-<p>Nothing undermines excitement faster than:</p>
-<ul>
-<li>missing accounts</li>
-<li>unavailable equipment</li>
-<li>unclear responsibilities</li>
-<li>idle first weeks</li>
-</ul>
-<p>A prepared onboarding plan reinforces that they made the right decision.</p>
-<hr>
-<h1>Learn from declined offers</h1>
-<p>Every declined offer is useful feedback.</p>
-<p>Ask respectfully whether the candidate is willing to share why.</p>
-<p>Patterns may reveal:</p>
-<ul>
-<li>compensation issues</li>
-<li>interview delays</li>
-<li>unclear role descriptions</li>
-<li>competing benefits</li>
-<li>remote expectations</li>
-<li>company reputation</li>
-<li>manager concerns</li>
-</ul>
-<p>Use the information to improve future offers.</p>
-<hr>
-<h1>Common mistakes</h1>
-<p>Avoid:</p>
-<ul>
-<li>hiding salary until the last minute</li>
-<li>making candidates chase updates</li>
-<li>delaying approvals</li>
-<li>treating negotiation as confrontation</li>
-<li>vague equity explanations</li>
-<li>generic offer conversations</li>
-<li>inconsistent compensation</li>
-<li>unrealistic promises</li>
-<li>surprise policy changes</li>
-<li>rushing onboarding</li>
-</ul>
-<p>Most failed offers aren&#39;t lost because of one dramatic mistake.</p>
-<p>They&#39;re lost through dozens of small frustrations.</p>
-<hr>
-<h1>Offer checklist</h1>
-<p>Before extending an offer, verify:</p>
-<ul>
-<li>Compensation is approved.</li>
-<li>Salary aligns with market expectations.</li>
-<li>Bonus structure is documented.</li>
-<li>Equity is explained clearly.</li>
-<li>Benefits are summarized.</li>
-<li>Remote expectations are documented.</li>
-<li>Career growth has been discussed.</li>
-<li>Interview feedback is complete.</li>
-<li>The written offer is accurate.</li>
-<li>Approval chain is complete.</li>
-<li>Hiring manager is available for questions.</li>
-<li>Onboarding preparations have started.</li>
+<li>قيادة مبادرات مهمة</li>
+<li>توجيه زملاء الفريق</li>
+<li>التأثير على التوجه التقني
+التوقعات المحددة تقلل من عدم اليقين.</li>
 </ul>
 <hr>
-<h1>Closing checklist</h1>
-<p>When presenting the offer:</p>
+<h1>تحرك بسرعة بعد اتخاذ قرارك</h1>
+<p>أحد أكبر أسباب خسارة الشركات للمرشحين هو التأخير غير الضروري.
+بمجرد أن تتخذ قرارك:</p>
 <ul>
-<li>Congratulate the candidate.</li>
-<li>Explain why they were selected.</li>
-<li>Express genuine enthusiasm.</li>
-<li>Walk through compensation.</li>
-<li>Explain growth opportunities.</li>
-<li>Answer every question honestly.</li>
-<li>Discuss timelines clearly.</li>
-<li>Encourage thoughtful review.</li>
-<li>Follow up promptly.</li>
-<li>Stay available.</li>
+<li>قم بإعداد الموافقات</li>
+<li>حدد الراتب النهائي</li>
+<li>حدد موعد المحادثة</li>
+<li>أرسل المستندات المكتوبة على الفور
+تجنب أن تتسبب البيروقراطية الداخلية في حدوث صمت.
+الزخم مهم.</li>
 </ul>
 <hr>
-<h1>The takeaway</h1>
-<p>Exceptional developers rarely accept an offer based solely on the largest salary.</p>
-<p>They choose organizations that inspire confidence.</p>
-<p>That confidence comes from a hiring process that is transparent, respectful, organized, technically credible, and genuinely enthusiastic about bringing them onto the team.</p>
-<p>A strong offer combines:</p>
+<h1>قدم العرض شخصيًا</h1>
+<p>العرض الرائع يستحق محادثة.
+كلما كان ذلك ممكنًا:</p>
 <ul>
-<li>competitive compensation;</li>
-<li>meaningful technical work;</li>
-<li>clear growth opportunities;</li>
-<li>transparent communication;</li>
-<li>thoughtful negotiation;</li>
-<li>fast decision-making;</li>
-<li>excellent onboarding.</li>
+<li>اتصل بالمرشح</li>
+<li>هنئه</li>
+<li>عبّر عن حماس حقيقي</li>
+<li>اشرح سبب تميّزه</li>
+<li>أجب على الأسئلة</li>
+<li>استعرض تفاصيل المكافآت
+يقدّر المرشحون سماع:</li>
 </ul>
-<p>When candidates believe your company values both their skills and their future, accepting the offer becomes much easier.</p>
-<p>The most successful hiring teams don&#39;t &quot;convince&quot; great developers to join.</p>
-<p>They create an opportunity that talented people genuinely want to say <strong>yes</strong> to.</p>
-<p><em>Ready to hire developers who are excited to join your team? Create a verified company account on <strong>JobsList.dev</strong>, publish transparent job listings with salary ranges, and connect directly with engineers looking for meaningful work—not recruiter spam or endless hiring loops.</em></p>
-5:["locale","ar","d"]
-6:["slug","crafting-job-offer-developers-accept","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"crafting-job-offer-developers-accept\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","crafting-job-offer-developers-accept","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing\",\"description\":\"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum.\",\"datePublished\":\"2026-06-16T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing","date":"2026-06-16T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":10,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","15",{"property":"og:description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-16T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Crafting a Job Offer Developers Won't Refuse: Compensation and Closing"}],["$","meta","25",{"name":"twitter:description","content":"A complete guide to creating competitive developer offers, structuring compensation, negotiating fairly, and closing top engineering candidates without losing momentum."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<blockquote>
+<p>نحن متحمسون حقًا لانضمامك إلينا.
+يصعب إيصال هذا الحماس عبر مرفق PDF.</p>
+</blockquote>
+<hr>
+<h1>اشرح سبب اختيارك له</h1>
+<p>غالبًا ما يتساءل المطورون:</p>
+<blockquote>
+<p>لماذا أنا؟
+أخبرهم.
+أمثلة:</p>
+</blockquote>
+<ul>
+<li>العمق التقني</li>
+<li>التواصل</li>
+<li>روح المبادرة</li>
+<li>قرارات التصميم المدروسة</li>
+<li>التعاون</li>
+<li>الفضول</li>
+<li>القدرة على تصحيح الأخطاء</li>
+<li>الإمكانات القيادية
+التقدير يعزز الثقة.</li>
+</ul>
+<hr>
+<h1>شارك ما يثير حماس الفريق</h1>
+<p>يجب على مدير التوظيف أن يشرح:</p>
+<ul>
+<li>المشاريع القادمة</li>
+<li>التوجه التقني</li>
+<li>خارطة طريق المنتج</li>
+<li>التحسينات الهندسية</li>
+<li>المسؤوليات المستقبلية
+ساعد المرشحين على تصور أنفسهم وهم يساهمون في العمل.</li>
+</ul>
+<hr>
+<h1>اعرض العرض المكتوب بوضوح</h1>
+<p>يجب أن يتضمن العرض المكتوب:</p>
+<ul>
+<li>المسمى الوظيفي</li>
+<li>نوع التوظيف</li>
+<li>المدير المباشر</li>
+<li>الموقع</li>
+<li>توقعات العمل عن بُعد</li>
+<li>الراتب</li>
+<li>المكافأة</li>
+<li>الأسهم</li>
+<li>ملخص المزايا</li>
+<li>تاريخ البدء</li>
+<li>الشروط الطارئة</li>
+<li>الموعد النهائي للقبول
+تجنب المفاجآت غير المتوقعة.</li>
+</ul>
+<hr>
+<h1>توقع إجراء مفاوضات</h1>
+<h2>التفاوض أمر طبيعي.
+وهو ليس مؤشراً على أن المرشح شخص صعب المراس.
+فمعظم المهنيين ذوي الخبرة يتفاوضون لأنهم يتخذون قرارًا مهمًا في حياتهم.
+تعامل مع المحادثة بروح تعاونية.</h2>
+<h1>استمع قبل الرد</h1>
+<p>بدلاً من الدفاع عن العرض على الفور, اسأل:</p>
+<ul>
+<li>ما الجزء الذي يثير قلقك؟</li>
+<li>هل التعويض هو المشكلة الأساسية؟</li>
+<li>هل تقارن هذا العرض بعرض آخر؟</li>
+<li>هل المرونة أكثر أهمية؟</li>
+<li>هل سيساعدك تغيير تاريخ البدء؟
+أحيانًا لا تكون المشكلة هي الراتب.</li>
+</ul>
+<hr>
+<h1>اعرف ما يمكن تغييره</h1>
+<p>قبل تقديم العروض, حدد ما يلي:
+يمكن تغييره:</p>
+<ul>
+<li>الراتب</li>
+<li>المكافأة</li>
+<li>الأسهم</li>
+<li>المسمى الوظيفي</li>
+<li>تاريخ بدء العمل</li>
+<li>إجازة مدفوعة الأجر</li>
+<li>المعدات</li>
+<li>مرونة العمل عن بُعد</li>
+<li>ميزانية التدريب
+لا يمكن تغييره:</li>
+<li>حدود نطاق الراتب</li>
+<li>سياسات التأشيرات</li>
+<li>المتطلبات القانونية</li>
+<li>الهيكل التنظيمي
+التحضير يتيح ردودًا أسرع.</li>
+</ul>
+<hr>
+<h1>لا تتفاوض ضد مصلحتك</h1>
+<h2>إذا لم يطلب المرشح أي تغييرات, فلا تبدأ في زيادة الأجر تلقائيًا.
+قدم أفضل عرض عادل لديك.
+ثم رد بعناية إذا دخلت في مفاوضات.</h2>
+<h1>لا تعاقب أبدًا على التفاوض المحترم</h1>
+<p>المرشح الذي يتفاوض باحتراف يتصرف بمسؤولية.
+ردود الفعل السلبية تضر بالثقة.
+بدلاً من ذلك, رد بقول:</p>
+<blockquote>
+<p>هذا سؤال معقول. دعني أرى ما يمكن فعله.</p>
+</blockquote>
+<hr>
+<h1>تجنب العروض ذات المدة المحددة</h1>
+<p>العروض ذات المدة المحددة تجبر المرشحين على القبول فوراً.
+وهذا عادةً ما يثير الاستياء.
+بدلاً من ذلك, وفر فترة مراجعة معقولة.
+غالباً ما يحتاج المرشحون إلى وقت من أجل:</p>
+<ul>
+<li>مناقشة الأمر مع العائلة</li>
+<li>مقارنة العروض</li>
+<li>الانتقال</li>
+<li>فهم المزايا</li>
+<li>تقييم الأسهم
+المواعيد النهائية المعقولة تُظهر الثقة.</li>
+</ul>
+<hr>
+<h1>تعامل مع العروض المنافسة باحترافية</h1>
+<p>قد يتلقى المرشحون عروضاً متعددة.
+إذا أطلعوك على عرض آخر:
+لا تهاجم المنافسين.
+بدلاً من ذلك, ركز على نقاط قوتك.
+اشرح:</p>
+<ul>
+<li>التحديات الفنية</li>
+<li>الثقافة</li>
+<li>الشعور بالملكية</li>
+<li>النمو</li>
+<li>الأجر</li>
+<li>المهمة
+يستجيب المرشحون للثقة بشكل أفضل من النقد.</li>
+</ul>
+<hr>
+<h1>إذا لم تتمكن من مطابقة الأجر</h1>
+<p>أحيانًا تدفع شركة أخرى ببساطة راتبًا أعلى.
+إذا كان الأمر كذلك, فكن صادقًا.
+يمكنك التركيز على:</p>
+<ul>
+<li>المرونة في العمل عن بُعد</li>
+<li>الملكية الهندسية</li>
+<li>فرص القيادة</li>
+<li>المهمة</li>
+<li>الاستقرار</li>
+<li>التوازن بين العمل والحياة</li>
+<li>بيروقراطية أقل</li>
+<li>تقدم وظيفي أسرع
+لا تنتقد أبدًا أي شخص لاختياره خيارًا مختلفًا.</li>
+</ul>
+<hr>
+<h1>حافظ على التواصل بعد القبول</h1>
+<p>القبول ليس خط النهاية.
+أحيانًا ينسحب المرشحون قبل تاريخ بدء العمل.
+حافظ على الزخم.
+أمثلة:</p>
+<ul>
+<li>رسالة بريد إلكتروني ترحيبية</li>
+<li>جدول التهيئة</li>
+<li>تحديثات المعدات</li>
+<li>التعارف</li>
+<li>الوثائق الهندسية</li>
+<li>أخبار الشركة</li>
+<li>جدول أعمال الأسبوع الأول
+ساعدهم على الشعور بأنهم جزء من الفريق قبل اليوم الأول.</li>
+</ul>
+<hr>
+<h1>قم بإعداد عملية التهيئة قبل وصولهم</h1>
+<p>لا شيء يقوض الحماس أسرع من:</p>
+<ul>
+<li>الحسابات المفقودة</li>
+<li>المعدات غير المتوفرة</li>
+<li>المسؤوليات غير الواضحة</li>
+<li>الأسابيع الأولى الخالية من العمل
+خطة التهيئة المعدة مسبقًا تعزز شعورهم بأنهم اتخذوا القرار الصحيح.</li>
+</ul>
+<hr>
+<h1>تعلم من العروض المرفوضة</h1>
+<p>كل عرض مرفوض يمثل ملاحظات مفيدة.
+اسأل باحترام ما إذا كان المرشح على استعداد لمشاركة أسباب الرفض.
+قد تكشف الأنماط عن:</p>
+<ul>
+<li>مشكلات في الأجر</li>
+<li>تأخيرات في المقابلات</li>
+<li>أوصاف غير واضحة للوظيفة</li>
+<li>مزايا منافسة</li>
+<li>توقعات العمل عن بُعد</li>
+<li>سمعة الشركة</li>
+<li>مخاوف المدير
+استخدم هذه المعلومات لتحسين العروض المستقبلية.</li>
+</ul>
+<hr>
+<h1>الأخطاء الشائعة</h1>
+<p>تجنب:</p>
+<ul>
+<li>إخفاء الراتب حتى اللحظة الأخيرة</li>
+<li>إجبار المرشحين على ملاحقتك للحصول على التحديثات</li>
+<li>تأخير الموافقات</li>
+<li>التعامل مع التفاوض على أنه مواجهة</li>
+<li>تفسيرات غامضة بشأن الأسهم</li>
+<li>محادثات عامة حول العرض</li>
+<li>تعويضات غير متسقة</li>
+<li>وعود غير واقعية</li>
+<li>تغييرات مفاجئة في السياسات</li>
+<li>التسرع في عملية التعيين
+معظم العروض الفاشلة لا تُفقد بسبب خطأ واحد جسيم.
+بل تُفقد بسبب عشرات الإحباطات الصغيرة.</li>
+</ul>
+<hr>
+<h1>قائمة مراجعة العرض</h1>
+<p>قبل تقديم العرض, تحقق مما يلي:</p>
+<ul>
+<li>تمت الموافقة على التعويض.</li>
+<li>يتوافق الراتب مع توقعات السوق.</li>
+<li>أن تكون هيكلية المكافآت موثقة.</li>
+<li>أن يتم شرح الأسهم بوضوح.</li>
+<li>أن تكون المزايا موجزة.</li>
+<li>أن تكون توقعات العمل عن بُعد موثقة.</li>
+<li>أن يكون النمو الوظيفي قد نوقش.</li>
+<li>أن تكون ملاحظات المقابلة كاملة.</li>
+<li>أن يكون العرض المكتوب دقيقًا.</li>
+<li>أن تكون سلسلة الموافقات كاملة.</li>
+<li>أن يكون مدير التوظيف متاحًا للإجابة على الأسئلة.</li>
+<li>أن تكون الاستعدادات لبدء العمل قد بدأت.</li>
+</ul>
+<hr>
+<h1>قائمة مراجعة الختام</h1>
+<p>عند تقديم العرض:</p>
+<ul>
+<li>هنئ المرشح.</li>
+<li>اشرح سبب اختياره.</li>
+<li>عبّر عن حماس حقيقي.</li>
+<li>استعرض تفاصيل الأجر.</li>
+<li>اشرح فرص التطور الوظيفي.</li>
+<li>أجب على كل سؤال بأمانة.</li>
+<li>ناقش الجداول الزمنية بوضوح.</li>
+<li>شجّع على المراجعة المتأنية.</li>
+<li>تابع الأمر على الفور.</li>
+<li>كن متاحًا.</li>
+</ul>
+<hr>
+<h1>النقطة الأساسية</h1>
+<p>نادرًا ما يقبل المطورون المتميزون عرضًا يعتمد فقط على الراتب الأعلى.
+فهم يختارون المؤسسات التي توحي بالثقة.
+وتأتي هذه الثقة من عملية توظيف تتسم بالشفافية والاحترام والتنظيم والمصداقية التقنية, وتُظهر حماسًا حقيقيًّا لضمهم إلى الفريق.
+العرض القوي يجمع بين:</p>
+<ul>
+<li>أجر تنافسي؛</li>
+<li>عمل تقني ذي مغزى؛</li>
+<li>فرص نمو واضحة؛</li>
+<li>تواصل شفاف؛</li>
+<li>مفاوضات مدروسة؛</li>
+<li>اتخاذ قرارات سريع؛</li>
+<li>عملية انضمام ممتازة.
+عندما يقتنع المرشحون بأن شركتك تقدر مهاراتهم ومستقبلهم على حد سواء, يصبح قبول العرض أسهل بكثير.
+فرق التوظيف الأكثر نجاحًا لا «تقنع» المطورين المتميزين بالانضمام.
+بل تخلق فرصة يرغب الموهوبون حقًّا في أن يقولوا <strong>نعم</strong> لها.
+<em>هل أنت مستعد لتوظيف مطورين متحمسين للانضمام إلى فريقك؟ أنشئ حسابًا معتمدًا لشركتك على <strong>JobsList.dev</strong>, وانشر إعلانات وظائف شفافة تتضمن نطاقات الرواتب, وتواصل مباشرةً مع المهندسين الباحثين عن عمل ذي مغزى — بدلاً من الرسائل غير المرغوب فيها من شركات التوظيف أو حلقات التوظيف التي لا تنتهي.</em></li>
+</ul>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"صياغة عرض عمل لن يرفضه المطورون: المكافآت وإتمام الصفقة\",\"description\":\"دليل شامل لوضع عروض عمل تنافسية للمطورين, وهيكلة المكافآت, والتفاوض بشكل عادل, وإتمام التعاقد مع أفضل المرشحين في مجال الهندسة دون فقدان الزخم.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-06-16T05:00:00.000Z\",\"dateModified\":\"2026-06-16T05:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/crafting-job-offer-developers-accept/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"صياغة عرض عمل لن يرفضه المطورون: المكافآت وإتمام الصفقة"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل شامل لوضع عروض عمل تنافسية للمطورين, وهيكلة المكافآت, والتفاوض بشكل عادل, وإتمام التعاقد مع أفضل المرشحين في مجال الهندسة دون فقدان الزخم."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-16T05:00:00.000Z","children":"16 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[11," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الأجر",{"className":"badge-gray","children":"الأجر"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","العروض",{"className":"badge-gray","children":"العروض"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}],["$","span","التعيين",{"className":"badge-gray","children":"التعيين"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"صياغة عرض عمل لن يرفضه المطورون: المكافآت وإتمام الصفقة | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل شامل لوضع عروض عمل تنافسية للمطورين, وهيكلة المكافآت, والتفاوض بشكل عادل, وإتمام التعاقد مع أفضل المرشحين في مجال الهندسة دون فقدان الزخم."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"صياغة عرض عمل لن يرفضه المطورون: المكافآت وإتمام الصفقة"}],["$","meta","15",{"property":"og:description","content":"دليل شامل لوضع عروض عمل تنافسية للمطورين, وهيكلة المكافآت, والتفاوض بشكل عادل, وإتمام التعاقد مع أفضل المرشحين في مجال الهندسة دون فقدان الزخم."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/crafting-job-offer-developers-accept/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-16T05:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"صياغة عرض عمل لن يرفضه المطورون: المكافآت وإتمام الصفقة"}],["$","meta","27",{"name":"twitter:description","content":"دليل شامل لوضع عروض عمل تنافسية للمطورين, وهيكلة المكافآت, والتفاوض بشكل عادل, وإتمام التعاقد مع أفضل المرشحين في مجال الهندسة دون فقدان الزخم."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

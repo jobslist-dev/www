@@ -1,88 +1,88 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Tce4a,<p>Most developers treat their professional profile like a form they are required to complete.</p>
-<p>They paste in parts of their résumé, add a list of technologies, select a current job title, and leave the page untouched until the next job search begins.</p>
-<p>That approach misses what a professional profile is designed to do.</p>
-<p>A résumé is usually reviewed after someone has already received it.</p>
-<p>A searchable profile must complete two earlier tasks:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-developers-should-set-up-a-profile-that-recruiters-actually-find\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T12e3f,<p>يعامل معظم المطورين ملفهم الشخصي المهني وكأنه نموذج يُطلب منهم تعبئته.
+فهم يلصقون أجزاء من سيرتهم الذاتية, ويضيفون قائمة بالتقنيات, ويختارون المسمى الوظيفي الحالي, ثم يتركون الصفحة دون تغيير حتى يبدأ البحث عن الوظيفة التالية.
+هذا النهج يغفل الغرض الذي صُمم من أجله الملف الشخصي المهني.
+عادةً ما تتم مراجعة السيرة الذاتية بعد أن يكون شخص ما قد استلمها بالفعل.
+أما الملف الشخصي القابل للبحث فيجب أن ينجز مهمتين مسبقتين:</p>
 <ol>
-<li>Appear in the right searches.</li>
-<li>Convince someone to keep reading after a brief skim.</li>
+<li>الظهور في عمليات البحث المناسبة.</li>
+<li>إقناع القارئ بمواصلة القراءة بعد تصفح سريع.
+قد يفشل الملف الشخصي قبل أن يصل أي شخص إلى قسم خبرتك.
+قد تكون مهندسًا ممتازًا في مجال البرمجة الخلفية, ولكن إذا لم يحتوِ ملفك الشخصي أبدًا على العبارات التي يبحث عنها مسؤولو التوظيف, فقد لا تظهر في نتائج بحثهم.
+قد تكون لديك إنجازات تقنية مهمة, ولكن إذا كان عنوان ملفك الشخصي يقتصر على «مهندس برمجيات في Acme», فقد لا يفتح الشخص الذي يراجع النتائج ملفك الشخصي أبدًا.
+يجب أن يساعد الملف الشخصي القوي للمطور القارئ المناسب على فهم ما يلي بسرعة:</li>
 </ol>
-<p>A profile can fail before anyone reaches your experience section.</p>
-<p>You may be an excellent backend engineer, but if your profile never contains the phrases recruiters search for, you may not appear in their results.</p>
-<p>You may have meaningful technical achievements, but if your headline says only “Software Engineer at Acme,” the person scanning results may never open your profile.</p>
-<p>A strong developer profile should help the right reader understand, quickly:</p>
 <ul>
-<li>what kind of developer you are;</li>
-<li>which technologies you use professionally;</li>
-<li>what level of responsibility you have;</li>
-<li>which problems you solve well;</li>
-<li>what you have built or improved;</li>
-<li>where you can work;</li>
-<li>what kind of role you want next;</li>
-<li>how to contact you.</li>
+<li>أي نوع من المطورين أنت؛</li>
+<li>التقنيات التي تستخدمها في عملك؛</li>
+<li>مستوى المسؤولية التي تتحملها؛</li>
+<li>المشكلات التي تجيد حلها؛</li>
+<li>ما قمت ببنائه أو تحسينه؛</li>
+<li>الأماكن التي يمكنك العمل فيها؛</li>
+<li>نوع الدور الذي تريده في المرحلة التالية؛</li>
+<li>كيفية الاتصال بك.
+الهدف ليس جذب كل مسؤول توظيف.
+بل أن تصبح أسهل في العثور عليك من قبل الشركات وفرق التوظيف ذات الصلة بك.</li>
 </ul>
-<p>The goal is not to attract every recruiter.</p>
-<p>It is to become easier to find by the companies and hiring teams that are relevant to you.</p>
-<h1>Understand how recruiters search for developers</h1>
-<p>Recruiters and hiring managers often begin with a search query rather than a name.</p>
-<p>They may search for combinations such as:</p>
+<h1>فهم كيفية بحث مسؤولي التوظيف عن المطورين</h1>
+<p>غالبًا ما يبدأ مسؤولو التوظيف ومديرو التوظيف باستعلام بحث بدلاً من اسم.
+قد يبحثون عن مجموعات مثل:</p>
 <ul>
-<li>Senior Backend Engineer PostgreSQL</li>
-<li>React TypeScript remote</li>
-<li>Staff Platform Engineer Kubernetes</li>
+<li>مهندس خلفي أول PostgreSQL</li>
+<li>React TypeScript عن بُعد</li>
+<li>مهندس منصة Kubernetes</li>
 <li>iOS Swift SwiftUI</li>
-<li>Python data engineer Airflow</li>
-<li>Rust distributed systems</li>
-<li>Frontend accessibility design systems</li>
+<li>مهندس بيانات Python Airflow</li>
+<li>أنظمة موزعة Rust</li>
+<li>أنظمة تصميم إمكانية الوصول للواجهة الأمامية</li>
 <li>Android Kotlin Jetpack Compose</li>
 <li>Node.js GraphQL AWS</li>
-<li>Security engineer application security</li>
+<li>مهندس أمن تطبيقات
+قد يقومون بعد ذلك بتضييق نطاق النتائج حسب:</li>
+<li>الموقع؛</li>
+<li>المنطقة الزمنية؛</li>
+<li>مستوى الخبرة؛</li>
+<li>سنوات الخبرة؛</li>
+<li>المسمى الوظيفي الحالي أو السابق؛</li>
+<li>التوافر؛</li>
+<li>تفضيلات التوظيف؛</li>
+<li>القطاع؛</li>
+<li>اللغة؛</li>
+<li>تصريح العمل.
+إذا لم يتضمن ملفك الشخصي المصطلحات التي تصف خبرتك بدقة, فقد لا تظهر في نتائج البحث على الإطلاق.
+هذا لا يعني أنه يجب عليك ملء الصفحة بكلمات مفتاحية متكررة.
+بل يعني أن هويتك المهنية يجب أن تُعبَّر عنها باللغة التي يستخدمها أصحاب العمل فعليًّا.</li>
 </ul>
-<p>They may then narrow results by:</p>
+<h1>ابدأ بتحديد ما تريد أن يتم العثور عليك بناءً عليه</h1>
+<p>قبل إعادة كتابة ملفك الشخصي, حدد نوع الفرصة التي تريدها.
+غالبًا ما يصبح الملف الشخصي الذي يحاول جذب كل الأدوار التقنية غامضًا.
+اكتب ما يلي:</p>
+<h2>الدور المستهدف</h2>
+<p>أمثلة:</p>
 <ul>
-<li>location;</li>
-<li>time zone;</li>
-<li>seniority;</li>
-<li>years of experience;</li>
-<li>current or previous title;</li>
-<li>availability;</li>
-<li>employment preference;</li>
-<li>industry;</li>
-<li>language;</li>
-<li>work authorization.</li>
+<li>مهندس خلفي (Backend) أول</li>
+<li>مهندس منتجات واجهة المستخدم (Frontend)</li>
+<li>مطور TypeScript متكامل (Full-Stack)</li>
+<li>مهندس تطبيقات iOS للهواتف المحمولة</li>
+<li>مهندس بيانات</li>
+<li>مهندس منصات</li>
+<li>مدير هندسي</li>
+<li>مهندس أمن التطبيقات</li>
+<li>مطور برمجيات مبتدئ</li>
 </ul>
-<p>If your profile does not contain the terms that accurately describe your experience, you may not appear in the search at all.</p>
-<p>That does not mean you should fill the page with repeated keywords.</p>
-<p>It means your professional identity should be expressed in the language employers actually use.</p>
-<h1>Start by defining what you want to be found for</h1>
-<p>Before rewriting your profile, decide what type of opportunity you want.</p>
-<p>A profile trying to attract every technical role usually becomes vague.</p>
-<p>Write down:</p>
-<h2>Target role</h2>
-<p>Examples:</p>
-<ul>
-<li>Senior Backend Engineer</li>
-<li>Frontend Product Engineer</li>
-<li>Full-Stack TypeScript Developer</li>
-<li>Mobile iOS Engineer</li>
-<li>Data Engineer</li>
-<li>Platform Engineer</li>
-<li>Engineering Manager</li>
-<li>Application Security Engineer</li>
-<li>Junior Software Developer</li>
-</ul>
-<h2>Primary technologies</h2>
-<p>Choose the technologies you use confidently and want to continue using.</p>
-<p>Examples:</p>
+<h2>التقنيات الأساسية</h2>
+<p>اختر التقنيات التي تستخدمها بثقة وترغب في الاستمرار في استخدامها.
+أمثلة:</p>
 <ul>
 <li>TypeScript</li>
 <li>React</li>
@@ -98,214 +98,188 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>AWS</li>
 <li>Kubernetes</li>
 </ul>
-<h2>Preferred problems</h2>
-<p>Examples:</p>
+<h2>المشكلات المفضلة</h2>
+<p>أمثلة:</p>
 <ul>
-<li>API design;</li>
-<li>performance;</li>
-<li>developer tooling;</li>
-<li>data pipelines;</li>
-<li>payments;</li>
-<li>security;</li>
-<li>accessibility;</li>
-<li>platform reliability;</li>
-<li>mobile applications;</li>
-<li>distributed systems;</li>
-<li>product engineering;</li>
-<li>internal tools.</li>
+<li>تصميم واجهات برمجة التطبيقات (API)؛</li>
+<li>الأداء؛</li>
+<li>أدوات المطورين؛</li>
+<li>مسارات البيانات؛</li>
+<li>المدفوعات؛</li>
+<li>الأمان؛</li>
+<li>سهولة الوصول؛</li>
+<li>موثوقية المنصات؛</li>
+<li>تطبيقات الأجهزة المحمولة؛</li>
+<li>الأنظمة الموزعة؛</li>
+<li>هندسة المنتجات؛</li>
+<li>الأدوات الداخلية.</li>
 </ul>
-<h2>Work preferences</h2>
-<p>Examples:</p>
+<h2>تفضيلات العمل</h2>
+<p>أمثلة:</p>
 <ul>
-<li>remote within the United States;</li>
-<li>remote across North America;</li>
-<li>hybrid in Chicago;</li>
-<li>contract work;</li>
-<li>full-time only;</li>
-<li>individual-contributor roles;</li>
-<li>management;</li>
-<li>startup teams;</li>
-<li>enterprise environments;</li>
-<li>open-source companies.</li>
+<li>العمل عن بُعد داخل الولايات المتحدة؛</li>
+<li>العمل عن بُعد في جميع أنحاء أمريكا الشمالية؛</li>
+<li>العمل الهجين في شيكاغو؛</li>
+<li>العمل بعقود محددة المدة؛</li>
+<li>العمل بدوام كامل فقط؛</li>
+<li>الأدوار الفردية؛</li>
+<li>الإدارة؛</li>
+<li>فرق الشركات الناشئة؛</li>
+<li>بيئات المؤسسات الكبيرة؛</li>
+<li>الشركات التي تعتمد على البرمجيات مفتوحة المصدر.</li>
 </ul>
-<h2>Exclusions</h2>
-<p>Examples:</p>
+<h2>الاستثناءات</h2>
+<p>أمثلة:</p>
 <ul>
-<li>no relocation;</li>
-<li>no agency contracting;</li>
-<li>no management roles;</li>
-<li>no unpaid trial work;</li>
-<li>no on-call-heavy positions;</li>
-<li>no roles requiring frequent travel.</li>
+<li>لا للانتقال إلى مكان عمل آخر؛</li>
+<li>لا للتعاقد عبر وكالات التوظيف؛</li>
+<li>لا للأدوار الإدارية؛</li>
+<li>لا للعمل التجريبي غير مدفوع الأجر؛</li>
+<li>لا للوظائف التي تتطلب الاستدعاء المتكرر؛</li>
+<li>لا للأدوار التي تتطلب السفر المتكرر.
+يصبح هذا التعريف الأساس لبقية الملف الشخصي.</li>
 </ul>
-<p>This definition becomes the foundation for the rest of the profile.</p>
-<h1>Use a recognizable professional title</h1>
-<p>Your internal title may not match the language employers search for.</p>
-<p>A company might call you:</p>
+<h1>استخدم لقبًا مهنيًّا معروفًا</h1>
+<p>قد لا يتطابق لقبك الداخلي مع المصطلحات التي يبحث عنها أصحاب العمل.
+قد تطلق عليك الشركة أحد الألقاب التالية:</p>
 <ul>
-<li>Software Craftsperson III</li>
-<li>Technical Member of Staff</li>
-<li>Product Builder</li>
-<li>Application Specialist</li>
-<li>Solutions Developer</li>
-<li>Digital Engineer</li>
-<li>Technology Consultant</li>
+<li>حرفي برمجيات من المستوى الثالث</li>
+<li>عضو فني في فريق العمل</li>
+<li>مُصمم منتجات</li>
+<li>أخصائي تطبيقات</li>
+<li>مطور حلول</li>
+<li>مهندس رقمي</li>
+<li>مستشار تقني
+قد تكون هذه الألقاب ذات مغزى داخليًّا, لكنها ضعيفة في عمليات البحث.
+احتفظ باللقب الدقيق الذي يطلقه عليك صاحب العمل في قسم «الخبرة», لكن استخدم لقبًا معروفًا في السوق في العنوان أو الملخص عند الاقتضاء.
+على سبيل المثال:</li>
 </ul>
-<p>Those titles may be meaningful internally but weak in search.</p>
-<p>Keep the accurate employer title in your experience section, but use a recognizable market title in your headline or summary when appropriate.</p>
-<p>For example:</p>
 <blockquote>
-<p>Senior Backend Engineer specializing in Go, PostgreSQL, and distributed services</p>
+<p>مهندس خلفي أول متخصص في Go وPostgreSQL والخدمات الموزعة
+أو:
+مهندس منصة يركز على Kubernetes والبنية التحتية للمطورين والموثوقية
+لا تبالغ في تقدير مستواك.
+ترجم المصطلحات غير المألوفة دون تحريف مسؤولياتك.</p>
 </blockquote>
-<p>or:</p>
-<blockquote>
-<p>Staff Platform Engineer focused on Kubernetes, developer infrastructure, and reliability</p>
-</blockquote>
-<p>Do not inflate your level.</p>
-<p>Translate unusual terminology without misrepresenting your responsibility.</p>
-<h1>Write a headline that earns the click</h1>
-<p>The headline is one of the highest-value sections of your profile.</p>
-<p>It may appear:</p>
+<h1>اكتب عنوانًا يجذب النقرات</h1>
+<p>يُعد العنوان أحد أقسام ملفك الشخصي الأكثر قيمة.
+قد يظهر:</p>
 <ul>
-<li>in search results;</li>
-<li>beside your name;</li>
-<li>in recommendations;</li>
-<li>in recruiter dashboards;</li>
-<li>in messages;</li>
-<li>in profile previews.</li>
+<li>في نتائج البحث؛</li>
+<li>بجانب اسمك؛</li>
+<li>في التوصيات؛</li>
+<li>في لوحات معلومات مسؤولي التوظيف؛</li>
+<li>في الرسائل؛</li>
+<li>في معاينات الملف الشخصي.
+العنوان الضعيف يهدر هذه المساحة.</li>
 </ul>
-<p>A weak headline wastes this space.</p>
-<h2>Weak headline</h2>
+<h2>عنوان ضعيف</h2>
 <blockquote>
-<p>Software Engineer at Acme Corporation</p>
+<p>مهندس برمجيات في شركة Acme
+يُعلم هذا العنوان القارئ باسم جهة عملك وفئة وظيفية عامة.
+ولا يوضح:</p>
 </blockquote>
-<p>This tells the reader your employer and a broad category.</p>
-<p>It does not explain:</p>
 <ul>
-<li>frontend or backend;</li>
-<li>technology;</li>
-<li>seniority;</li>
-<li>specialization;</li>
-<li>availability;</li>
-<li>preferred work.</li>
+<li>الواجهة الأمامية أم الخلفية؛</li>
+<li>التكنولوجيا؛</li>
+<li>مستوى الخبرة؛</li>
+<li>التخصص؛</li>
+<li>التوافر؛</li>
+<li>نوع العمل المفضل.</li>
 </ul>
-<h2>Stronger headline structure</h2>
-<p>Use:</p>
+<h2>بنية عنوان أقوى</h2>
+<p>استخدم:</p>
 <blockquote>
-<p>[Recognizable role] · [Core technologies or specialty] · [Optional preference or outcome]</p>
+<p>[دور معروف] · [التقنيات الأساسية أو التخصص] · [تفضيل اختياري أو النتيجة المرجوة]
+أمثلة:
+مهندس خلفي أول · Go, PostgreSQL, الأنظمة الموزعة · منفتح على الوظائف عن بُعد
+مهندس منتجات الواجهة الأمامية · React, TypeScript, إمكانية الوصول, أنظمة التصميم
+مهندس بيانات · Python, SQL, Airflow, Snowflake · مسارات معالجة الدُفعات والتدفق
+مهندس iOS · Swift, SwiftUI, أداء الأجهزة المحمولة · العمل عن بُعد في الولايات المتحدة
+مطور متكامل مبتدئ · React, Node.js, PostgreSQL · مستعد للوظائف المخصصة للمبتدئين
+مدير هندسي · منصات المطورين, تنمية الفريق, القيادة عن بُعد
+يجب أن يصف عنوانك الوظيفي ما تريد أن يتم توظيفك للقيام به بعد ذلك, بشرط أن يظل صادقًا مع خبرتك.</p>
 </blockquote>
-<p>Examples:</p>
+<h1>تجنب الإفراط في استخدام الكلمات المفتاحية في العنوان</h1>
+<p>من الصعب الوثوق بعنوان مثل هذا:</p>
 <blockquote>
-<p>Senior Backend Engineer · Go, PostgreSQL, distributed systems · Open to remote roles</p>
+<p>مهندس أول متكامل السحابة, ديفوبس, الذكاء الاصطناعي, بلوكتشين, React, Node, Python, Java, AWS, Azure, GCP
+فهو يشير إلى اتساع نطاق الخبرة دون تركيز.
+اختر الهوية الأقوى.
+يمكنك تضمين المهارات الإضافية في مكان آخر.</p>
 </blockquote>
-<blockquote>
-<p>Frontend Product Engineer · React, TypeScript, accessibility, design systems</p>
-</blockquote>
-<blockquote>
-<p>Data Engineer · Python, SQL, Airflow, Snowflake · Batch and streaming pipelines</p>
-</blockquote>
-<blockquote>
-<p>iOS Engineer · Swift, SwiftUI, mobile performance · Remote US</p>
-</blockquote>
-<blockquote>
-<p>Junior Full-Stack Developer · React, Node.js, PostgreSQL · Open to entry-level roles</p>
-</blockquote>
-<blockquote>
-<p>Engineering Manager · Developer platforms, team growth, remote leadership</p>
-</blockquote>
-<p>Your headline should describe what you want to be hired to do next, provided it remains truthful to your experience.</p>
-<h1>Avoid headline keyword overload</h1>
-<p>A headline such as this is difficult to trust:</p>
-<blockquote>
-<p>Senior Staff Full-Stack Cloud DevOps AI Blockchain React Node Python Java AWS Azure GCP Engineer</p>
-</blockquote>
-<p>It signals breadth without focus.</p>
-<p>Choose the strongest identity.</p>
-<p>You can include additional skills elsewhere.</p>
-<h1>Write a summary that answers three questions</h1>
-<p>Your summary should help the reader understand:</p>
+<h1>اكتب ملخصًا يجيب على ثلاثة أسئلة</h1>
+<p>يجب أن يساعد ملخصك القارئ على فهم:</p>
 <ol>
-<li>What do you do?</li>
-<li>What evidence supports that?</li>
-<li>What do you want next?</li>
+<li>ماذا تفعل؟</li>
+<li>ما الدليل الذي يدعم ذلك؟</li>
+<li>ما الذي تريده بعد ذلك؟
+عادةً ما تكفي ثلاث إلى خمس فقرات قصيرة.</li>
 </ol>
-<p>Three to five short paragraphs are usually enough.</p>
-<h1>Paragraph one: explain what you do</h1>
-<p>Be concrete.</p>
-<p>Weak:</p>
+<h1>الفقرة الأولى: اشرح ماذا تفعل</h1>
+<p>كن محددًا.
+ضعيف:</p>
 <blockquote>
-<p>Passionate software engineer with a proven track record of delivering innovative solutions in fast-paced environments.</p>
+<p>مهندس برمجيات شغوف يتمتع بسجل حافل في تقديم حلول مبتكرة في بيئات سريعة الوتيرة.
+أقوى:
+أنا مهندس خلفي (backend) متخصص في TypeScript وPostgreSQL وتصميم واجهات برمجة التطبيقات (API). عادةً ما أعمل على أنظمة كثيفة المعاملات حيث تكتسب الدقة وقابلية المراقبة والمعالجة الموثوقة للأعطال أهمية كبيرة.
+مثال آخر:
+أقوم بتطوير منتجات واجهة مستخدم (frontend) سهلة الاستخدام باستخدام React وTypeScript. عادةً ما يقع عملي في نقطة التقاء بين أنظمة التصميم وحالة التطبيقات المعقدة والأداء وسير العمل الموجه للعملاء.
+هذا يمنح القارئ على الفور إطارًا تقنيًّا.</p>
 </blockquote>
-<p>Stronger:</p>
+<h1>الفقرة الثانية: تقديم الأدلة</h1>
+<p>أدرج نتيجة أو نتيجتين.
+على سبيل المثال:</p>
 <blockquote>
-<p>I am a backend engineer focused on TypeScript, PostgreSQL, and API design. I usually work on transaction-heavy systems where correctness, observability, and reliable failure handling matter.</p>
+<p>في Acme, قمت بإعادة تصميم خدمة استحقاقات الاشتراك, وخفضت حالات الفوترة المكررة من خلال ضوابط الإيدمبوتنس, وحسّنت زمن استجابة واجهة برمجة التطبيقات (API) p95 من حوالي 700 مللي ثانية إلى 180 مللي ثانية.
+أو:
+قمت بقيادة عملية ترحيل لوحة معلومات قديمة إلى نظام تصميم React مشترك, وقللت من تكرار كود المكونات, وحسّنت أداء لوحة المفاتيح وقارئ الشاشة عبر سير عمل الحساب الرئيسي.
+الأدلة تحول الادعاءات إلى مصداقية.</p>
 </blockquote>
-<p>Another example:</p>
+<h1>الفقرة الثالثة: اشرح ما تريده</h1>
+<p>هذا يساعد مسؤولي التوظيف على تقرير ما إذا كان الاتصال بك أمرًا منطقيًا.
+مثال:</p>
 <blockquote>
-<p>I build accessible frontend products with React and TypeScript. My work usually sits at the intersection of design systems, complex application state, performance, and customer-facing workflows.</p>
+<p>أنا مهتم بالوظائف العليا في مجال البايندند ضمن فرق تركز على المنتجات, حيث يمكنني تولي مسؤولية الخدمات بدءًا من التصميم وحتى الإنتاج. أنا منفتح على الوظائف عن بُعد داخل الولايات المتحدة, ولا أسعى حاليًا إلى شغل مناصب في مجال إدارة الهندسة.
+أو:
+أنا أبحث عن وظيفة مبتدئة في مجال الواجهة الأمامية أو وظيفة متكاملة مع مراجعة منتظمة للكود وتوجيه إرشادي. أنا مهتم بشكل خاص بأدوات المطورين, والتعليم, والمنتجات التي تركز على إمكانية الوصول.
+هذا يصفّي الرسائل غير ذات الصلة دون منع الفرص غير المتوقعة.</p>
 </blockquote>
-<p>This immediately gives the reader a technical frame.</p>
-<h1>Paragraph two: provide evidence</h1>
-<p>Include one or two outcomes.</p>
-<p>For example:</p>
+<h1>اكتب بصيغة المتكلم</h1>
+<p>عادةً ما تبدو صيغة المتكلم أكثر مباشرةً وإنسانيةً.
+يفضل:</p>
 <blockquote>
-<p>At Acme, I redesigned the subscription-entitlement service, reduced duplicate billing events through idempotency controls, and improved p95 API latency from approximately 700 ms to 180 ms.</p>
+<p>أقوم ببناء خدمات الباك إند لمنتجات تعتمد على البيانات بكثافة.
+تجنب:
+أليكس هو محترف تقني يركز على النتائج ويتمتع بشغف بالتميز.
+غالبًا ما تبدو الملخصات المكتوبة بصيغة الغائب وكأنها سير ذاتية مؤسسية عامة.</p>
 </blockquote>
-<p>Or:</p>
-<blockquote>
-<p>I led the migration of a legacy dashboard into a shared React design system, reduced duplicated component code, and improved keyboard and screen-reader behavior across the primary account workflow.</p>
-</blockquote>
-<p>Evidence converts claims into credibility.</p>
-<h1>Paragraph three: explain what you want</h1>
-<p>This helps recruiters decide whether contacting you makes sense.</p>
-<p>Example:</p>
-<blockquote>
-<p>I am interested in senior backend roles at product-focused teams where I can own services from design through production. I am open to remote positions within the United States and am not currently pursuing engineering-management roles.</p>
-</blockquote>
-<p>Or:</p>
-<blockquote>
-<p>I am looking for a junior frontend or full-stack role with regular code review and mentorship. I am especially interested in developer tools, education, and accessibility-focused products.</p>
-</blockquote>
-<p>This filters irrelevant messages without preventing unexpected opportunities.</p>
-<h1>Write in first person</h1>
-<p>First person usually sounds more direct and human.</p>
-<p>Prefer:</p>
-<blockquote>
-<p>I build backend services for data-heavy products.</p>
-</blockquote>
-<p>Avoid:</p>
-<blockquote>
-<p>Alex is a results-oriented technology professional with a passion for excellence.</p>
-</blockquote>
-<p>Third-person summaries often sound like generic corporate biographies.</p>
-<h1>Remove empty adjectives</h1>
-<p>Words such as these add little without evidence:</p>
+<h1>تخلص من الصفات الفارغة</h1>
+<p>الكلمات مثل هذه لا تضيف شيئًا يذكر دون دليل:</p>
 <ul>
-<li>passionate;</li>
-<li>innovative;</li>
-<li>dynamic;</li>
-<li>results-driven;</li>
-<li>highly motivated;</li>
-<li>visionary;</li>
-<li>world-class;</li>
-<li>strategic;</li>
-<li>detail-oriented;</li>
-<li>collaborative;</li>
-<li>hard-working.</li>
+<li>شغوف؛</li>
+<li>مبتكر؛</li>
+<li>ديناميكي؛</li>
+<li>يركز على النتائج؛</li>
+<li>متحمس للغاية؛</li>
+<li>صاحب رؤية؛</li>
+<li>عالمي المستوى؛</li>
+<li>استراتيجي؛</li>
+<li>يهتم بالتفاصيل؛</li>
+<li>متعاون؛</li>
+<li>مجتهد.
+قد تكون تمتلك هذه الصفات حقًا.
+أظهرها من خلال عملك.
+بدلاً من:</li>
 </ul>
-<p>You may genuinely possess these qualities.</p>
-<p>Demonstrate them through work.</p>
-<p>Instead of:</p>
 <blockquote>
-<p>Highly collaborative engineer</p>
+<p>مهندس يتمتع بروح تعاونية عالية
+اكتب:
+قمت بتنسيق عملية ترحيل واجهة برمجة التطبيقات (API) عبر فرق المنتجات, والهواتف المحمولة, والدعم, والمنصات مع الحفاظ على التوافق مع الإصدارات السابقة للعملاء الأقدم.</p>
 </blockquote>
-<p>write:</p>
-<blockquote>
-<p>Coordinated an API migration across product, mobile, support, and platform teams while maintaining backward compatibility for older clients.</p>
-</blockquote>
-<h1>Name technologies precisely</h1>
-<p>Search systems and human reviewers recognize specific terms.</p>
-<p>Prefer:</p>
+<h1>حدد أسماء التقنيات بدقة</h1>
+<p>تتعرف أنظمة البحث والمراجعون البشريون على المصطلحات المحددة.
+يفضل استخدام:</p>
 <ul>
 <li>TypeScript</li>
 <li>React</li>
@@ -315,1060 +289,980 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>Amazon Web Services</li>
 <li>AWS</li>
 <li>GraphQL</li>
-<li>REST APIs</li>
-<li>OpenTelemetry</li>
+<li>واجهات برمجة التطبيقات REST</li>
+<li>OpenTelemetry
+تجنب استبدال أسماء التقنيات المحددة بفئات غامضة مثل:</li>
+<li>أدوات الويب الحديثة؛</li>
+<li>تقنيات السحابة؛</li>
+<li>أنظمة قواعد البيانات؛</li>
+<li>أطر عمل الواجهة الأمامية؛</li>
+<li>تطوير الخلفية.
+استخدم الاسم الكامل والاختصار الشائع معًا عندما يكون ذلك مفيدًا.
+على سبيل المثال:</li>
 </ul>
-<p>Avoid replacing specific technology names with vague categories such as:</p>
-<ul>
-<li>modern web tools;</li>
-<li>cloud technologies;</li>
-<li>database systems;</li>
-<li>frontend frameworks;</li>
-<li>backend development.</li>
-</ul>
-<p>Use both the full name and common abbreviation when helpful.</p>
-<p>For example:</p>
 <blockquote>
-<p>Amazon Web Services (AWS)</p>
+<p>Amazon Web Services (AWS)
+أو:
+التكامل المستمر والتسليم المستمر (CI/CD)
+لا تكرر كل مصطلح بشكل غير طبيعي.
+ضعها في المكان المناسب.</p>
 </blockquote>
-<p>or:</p>
-<blockquote>
-<p>Continuous integration and continuous delivery (CI/CD)</p>
-</blockquote>
-<p>Do not repeat every term unnaturally.</p>
-<p>Place them where they belong.</p>
-<h1>Build a focused skills section</h1>
-<p>Your skills section should represent the work you can discuss and want to perform.</p>
-<p>A useful grouping may include:</p>
-<h2>Languages</h2>
+<h1>أنشئ قسمًا مركّزًا على المهارات</h1>
+<p>يجب أن يعكس قسم المهارات الخاص بك العمل الذي يمكنك مناقشته وترغب في أدائه.
+قد تتضمن المجموعات المفيدة ما يلي:</p>
+<h2>اللغات البرمجية</h2>
 <ul>
 <li>TypeScript</li>
 <li>JavaScript</li>
 <li>Python</li>
 <li>SQL</li>
 </ul>
-<h2>Frontend</h2>
+<h2>الواجهة الأمامية</h2>
 <ul>
 <li>React</li>
 <li>Next.js</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>Tailwind CSS</li>
-<li>Accessibility</li>
+<li>إمكانية الوصول</li>
 </ul>
-<h2>Backend</h2>
+<h2>الخلفية</h2>
 <ul>
 <li>Node.js</li>
-<li>REST APIs</li>
+<li>واجهات برمجة التطبيقات REST</li>
 <li>GraphQL</li>
-<li>Authentication</li>
-<li>Background jobs</li>
+<li>المصادقة</li>
+<li>المهام الخلفية</li>
 </ul>
-<h2>Data</h2>
+<h2>البيانات</h2>
 <ul>
 <li>PostgreSQL</li>
 <li>Redis</li>
-<li>Data modeling</li>
-<li>Query optimization</li>
+<li>نمذجة البيانات</li>
+<li>تحسين الاستعلامات</li>
 </ul>
-<h2>Infrastructure and tools</h2>
+<h2>البنية التحتية والأدوات</h2>
 <ul>
 <li>AWS</li>
 <li>Docker</li>
 <li>Kubernetes</li>
 <li>GitHub Actions</li>
 <li>OpenTelemetry</li>
-<li>Git</li>
+<li>Git
+هذا أوضح من قائمة واحدة تضم خمسين مصطلحًا غير مرتبطة ببعضها.</li>
 </ul>
-<p>This is clearer than a single list of fifty unrelated terms.</p>
-<h1>Order skills by the work you want</h1>
-<p>The first skills a recruiter sees should reflect your target role.</p>
-<p>A developer applying for backend roles should not lead with Photoshop because they used it several years ago.</p>
-<p>A frontend engineer interested in accessibility should not bury it below a long list of minor packages.</p>
-<p>Order skills by:</p>
+<h1>رتب المهارات حسب العمل الذي تريده</h1>
+<p>يجب أن تعكس المهارات الأولى التي يراها مسؤول التوظيف الدور الذي تستهدفه.
+لا ينبغي للمطور الذي يتقدم لوظائف في الخلفية أن يبدأ بـ Photoshop لمجرد أنه استخدمه منذ عدة سنوات.
+ولا ينبغي لمهندس الواجهة الأمامية المهتم بإمكانية الوصول أن يدفن هذه المهارة أسفل قائمة طويلة من الحزم الثانوية.
+رتب المهارات حسب:</p>
 <ol>
-<li>relevance;</li>
-<li>strength;</li>
-<li>recency;</li>
-<li>target-role importance.</li>
+<li>الصلة بالوظيفة؛</li>
+<li>القوة؛</li>
+<li>حداثة الاستخدام؛</li>
+<li>الأهمية بالنسبة للوظيفة المستهدفة.</li>
 </ol>
-<h1>Remove skills you cannot defend</h1>
-<p>Do not list a technology merely because:</p>
+<h1>احذف المهارات التي لا يمكنك الدفاع عنها</h1>
+<p>لا تدرج تقنية ما لمجرد:</p>
 <ul>
-<li>you completed one tutorial;</li>
-<li>you watched a course;</li>
-<li>another teammate used it;</li>
-<li>it appears in job descriptions;</li>
-<li>an AI tool added it to your profile.</li>
+<li>أنك أكملت درسًا تعليميًا واحدًا؛</li>
+<li>شاهدت دورة تدريبية؛</li>
+<li>استخدمها زميل آخر في الفريق؛</li>
+<li>تظهر في الوصف الوظيفي؛</li>
+<li>أضافتها أداة ذكاء اصطناعي إلى ملفك الشخصي.
+افترض أن المُحاور قد يسألك:</li>
+<li>أين استخدمتها؟</li>
+<li>ما الذي قمت بتطويره؟</li>
+<li>ما هي المشكلات التي واجهتها؟</li>
+<li>ما الذي كنت ستفعله بشكل مختلف؟</li>
+<li>ما مدى إتقانك لها اليوم؟
+قوائم المهارات الصادقة تبني الثقة.</li>
 </ul>
-<p>Assume an interviewer may ask:</p>
+<h1>حوّل الخبرة إلى دليل</h1>
+<p>لا ينبغي أن يقتصر الملف الشخصي على مجرد تكرار المسؤوليات الواردة في الوصف الوظيفي.
+نقطة خبرة ضعيفة:</p>
+<blockquote>
+<p>مسؤول عن تطوير خدمات البايند.
+أقوى:
+قمت ببناء وتشغيل خدمات Node.js التي تدعم توفير الحسابات لأكثر من 40,000 مؤسسة عميلة.
+ضعيف:
+عملت مع قواعد بيانات PostgreSQL.
+صيغة أقوى:
+خفضت مدة استعلام التقارير من 18 ثانية إلى أقل من ثانيتين من خلال إعادة تصميم الفهارس وإزالة عمليات الربط المتكررة عبر السجلات التاريخية.
+صيغة ضعيفة:
+شاركت في مراجعات الكود.
+صيغة أقوى:
+راجعت التغييرات في الخلفية وقواعد البيانات عبر فريق مكون من ستة مهندسين, وقدمت قائمة مراجعة لطلبات السحب (pull-request) تغطي عمليات الترحيل, وقابلية المراقبة, وسلوك الفشل, والتراجع.</p>
+</blockquote>
+<h1>استخدم بنية نقاط موجهة نحو التأثير</h1>
+<p>من الأنماط المفيدة ما يلي:</p>
+<blockquote>
+<p>[الإجراء] + [النظام أو المشكلة] + [النهج التقني] + [النتيجة أو الأهمية]
+أمثلة:
+خفضت تكاليف معالجة الصور بنسبة 31% عن طريق نقل التحويلات المكررة إلى ذاكرة تخزين مؤقتة تعتمد على المحتوى.
+صممت نموذج أذونات للحسابات متعددة المنظمات باستخدام قواعد PostgreSQL على مستوى الصفوف واختبارات التفويض من جانب الخدمة.
+تم ترحيل مسار النشر من الإصدارات اليدوية إلى GitHub Actions, مما أدى إلى تقليل متوسط وقت التحضير للإصدار من 45 دقيقة إلى أقل من عشر دقائق.
+تم إنشاء سير عمل للمزامنة دون اتصال بالإنترنت للفنيين الميدانيين باستخدام التخزين المحلي الدائم وقوائم انتظار إعادة المحاولة واكتشاف التعارضات.
+تم إدخال فحوصات أتمتة لإمكانية الوصول واختبارات يدوية للوحة المفاتيح عبر مسار إتمام عملية الدفع, مما أدى إلى حل 23 مشكلة ذات أولوية عالية قبل الإطلاق.</p>
+</blockquote>
+<h1>استخدم الأرقام بحذر</h1>
+<p>تجعل المقاييس العمل أكثر واقعية عندما تكون صادقة وذات مغزى.
+قد تشمل الأرقام المفيدة ما يلي:</p>
 <ul>
-<li>Where did you use it?</li>
-<li>What did you build?</li>
-<li>What problems did you encounter?</li>
-<li>What would you do differently?</li>
-<li>How strong are you with it today?</li>
+<li>زمن الاستجابة؛</li>
+<li>التكلفة؛</li>
+<li>عدد المستخدمين؛</li>
+<li>المعاملات؛</li>
+<li>تواتر النشر؛</li>
+<li>معدل الحوادث؛</li>
+<li>معدل الفشل؛</li>
+<li>وقت الاختبار؛</li>
+<li>وقت البناء؛</li>
+<li>حجم الدعم؛</li>
+<li>معدل التبني؛</li>
+<li>تأثير الإيرادات؛</li>
+<li>الساعات الموفرة؛</li>
+<li>حجم الفريق؛</li>
+<li>حجم التخزين.
+أمثلة:</li>
 </ul>
-<p>Honest skill lists build trust.</p>
-<h1>Turn experience into evidence</h1>
-<p>A profile should not simply reproduce the responsibilities from your job description.</p>
-<p>Weak experience bullet:</p>
 <blockquote>
-<p>Responsible for developing backend services.</p>
+<p>خفض وقت الاستجابة p95 من 1.2 ثانية إلى 280 مللي ثانية.
+خفض الإنفاق الشهري على البنية التحتية بحوالي 4,000 دولار.
+دعم أكثر من 3 ملايين طلب واجهة برمجة التطبيقات (API) يوميًا.
+أتمتة سير عمل التسوية اليدوية الذي كان يتطلب سابقًا ثماني ساعات عمل للموظفين أسبوعيًا.
+لا تختلق الدقة.
+استخدم عبارات مثل:</p>
 </blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Built and operated Node.js services supporting account provisioning for more than 40,000 customer organizations.</p>
-</blockquote>
-<p>Weak:</p>
-<blockquote>
-<p>Worked with PostgreSQL databases.</p>
-</blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Reduced a reporting query from 18 seconds to under two seconds by redesigning indexes and removing repeated joins across historical records.</p>
-</blockquote>
-<p>Weak:</p>
-<blockquote>
-<p>Participated in code reviews.</p>
-</blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Reviewed backend and database changes across a six-engineer team and introduced a pull-request checklist covering migrations, observability, failure behavior, and rollback.</p>
-</blockquote>
-<h1>Use an impact-oriented bullet structure</h1>
-<p>A useful pattern is:</p>
-<blockquote>
-<p>[Action] + [system or problem] + [technical approach] + [result or significance]</p>
-</blockquote>
-<p>Examples:</p>
-<blockquote>
-<p>Reduced image-processing costs by 31% by moving duplicate transformations into a content-addressed cache.</p>
-</blockquote>
-<blockquote>
-<p>Designed a permission model for multi-organization accounts using PostgreSQL row-level rules and service-side authorization tests.</p>
-</blockquote>
-<blockquote>
-<p>Migrated the deployment pipeline from manual releases to GitHub Actions, reducing average release preparation from 45 minutes to under ten.</p>
-</blockquote>
-<blockquote>
-<p>Built an offline synchronization workflow for field technicians using local persistence, retry queues, and conflict detection.</p>
-</blockquote>
-<blockquote>
-<p>Introduced automated accessibility checks and manual keyboard testing across the checkout flow, resolving 23 high-priority issues before launch.</p>
-</blockquote>
-<h1>Use numbers carefully</h1>
-<p>Metrics make work more concrete when they are truthful and meaningful.</p>
-<p>Useful numbers may include:</p>
 <ul>
-<li>latency;</li>
-<li>cost;</li>
-<li>users;</li>
-<li>transactions;</li>
-<li>deployment frequency;</li>
-<li>incident rate;</li>
-<li>failure rate;</li>
-<li>test time;</li>
-<li>build time;</li>
-<li>support volume;</li>
-<li>adoption;</li>
-<li>revenue impact;</li>
-<li>hours saved;</li>
-<li>team size;</li>
-<li>storage volume.</li>
+<li>تقريبًا؛</li>
+<li>حوالي؛</li>
+<li>أكثر من؛</li>
+<li>أقل من؛</li>
+<li>تقريبًا؛
+عندما لا تتوفر الأرقام الدقيقة.</li>
 </ul>
-<p>Examples:</p>
+<h1>اشرح الحجم دون مبالغة</h1>
+<p>ليس كل مطور يعمل على مليارات الأحداث.
+قد يعني الحجم أيضًا:</p>
+<ul>
+<li>قواعد عمل معقدة؛</li>
+<li>متطلبات دقة عالية؛</li>
+<li>بيانات خاضعة للتنظيم؛</li>
+<li>العديد من عمليات التكامل؛</li>
+<li>مستخدمون دوليون؛</li>
+<li>فرق صغيرة ذات مسؤولية واسعة؛</li>
+<li>أنظمة طويلة العمر؛</li>
+<li>متطلبات إمكانية الوصول؛</li>
+<li>الاستخدام دون اتصال بالإنترنت؛</li>
+<li>قيود تشغيلية.
+مثال:</li>
+</ul>
 <blockquote>
-<p>Cut p95 response time from 1.2 seconds to 280 milliseconds.</p>
+<p>توليت مسؤولية خدمة جدولة تستخدمها 120 عيادة, حيث يمكن أن تؤثر الأحداث المكررة أو المفقودة على مواعيد المرضى.
+وهذا أمر ذو مغزى حتى بدون حركة مرور على نطاق الإنترنت.</p>
 </blockquote>
+<h1>أوضح مساهمتك الفردية</h1>
+<p>نتائج الفريق مهمة, لكن مسؤولي التوظيف بحاجة إلى فهم ما قمت به أنت.
+استخدم ضمير «أنا» في الملخصات والأفعال الواضحة في النقاط الخاصة بالخبرة.
+بالنسبة للمشاريع الجماعية, اشرح:</p>
+<ul>
+<li>ما كانت مسؤوليتك؛</li>
+<li>ما هي القرارات التي اتخذتها؛</li>
+<li>الأنظمة التي قمت بتنفيذها؛</li>
+<li>كيف تعاونت مع الفريق؛</li>
+<li>ما حققه الفريق.
+تجنب نسب الفضل لنفسك على إنجازات المؤسسة بأكملها.
+مثال:</li>
+</ul>
 <blockquote>
-<p>Reduced monthly infrastructure spend by approximately $4,000.</p>
+<p>كجزء من فريق مكون من أربعة مهندسين, كنت مسؤولاً عن ترحيل قاعدة البيانات, وتغييرات واجهة برمجة التطبيقات (API) المتوافقة مع الإصدارات السابقة, ومراقبة النشر لمشروع دمج الحسابات.</p>
 </blockquote>
+<h1>أظهر ما هو أكثر من مجرد التنفيذ</h1>
+<p>غالبًا ما تتضمن الأدوار الهندسية أعمالًا تتجاوز كتابة كود الميزات.
+أدرج أدلة ذات صلة بما يلي:</p>
+<ul>
+<li>الهندسة المعمارية؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>التوجيه؛</li>
+<li>التوظيف؛</li>
+<li>التوثيق؛</li>
+<li>إمكانية الوصول؛</li>
+<li>الأمان؛</li>
+<li>الأداء؛</li>
+<li>اكتشاف المنتجات؛</li>
+<li>التنسيق بين الفرق؛</li>
+<li>القيادة التقنية؛</li>
+<li>التواصل مع العملاء.
+مثال:</li>
+</ul>
 <blockquote>
-<p>Supported more than 3 million API requests per day.</p>
+<p>قمت بكتابة تقرير مراجعة الحادث وتنفيذ ضوابط الإيدمبوتنتية بعد أن تسببت «سباق إعادة المحاولة» في حدوث أحداث دفع مكررة.
+وهذا يبرهن على تحمل المسؤولية التشغيلية.</p>
 </blockquote>
+<h1>أضف المشاريع التي تعزز هويتك المستهدفة</h1>
+<p>تعتبر المشاريع ذات قيمة خاصة بالنسبة لـ:</p>
+<ul>
+<li>المطورين المبتدئين؛</li>
+<li>من يغيرون مسارهم المهني؛</li>
+<li>المساهمين في المشاريع مفتوحة المصدر؛</li>
+<li>العاملين لحسابهم الخاص؛</li>
+<li>المطورين الذين ينتقلون إلى تخصص جديد؛</li>
+<li>المرشحين الذين يتسم عملهم المهني بالسرية.
+يجب أن تتضمن مدخلة المشروع القوية ما يلي:</li>
+<li>ما الذي يفعله المشروع؛</li>
+<li>من يستفيد منه؛</li>
+<li>مساهمتك؛</li>
+<li>التقنيات الأساسية؛</li>
+<li>رابط نشط؛</li>
+<li>رابط المصدر؛</li>
+<li>نتيجة ذات مغزى؛</li>
+<li>تحدٍ تقني واحد.</li>
+</ul>
+<h2>عرض مشروع ضعيف</h2>
 <blockquote>
-<p>Automated a manual reconciliation workflow that previously required eight staff hours per week.</p>
+<p>تطبيق مهام تم بناؤه باستخدام React.</p>
 </blockquote>
-<p>Do not invent precision.</p>
-<p>Use language such as:</p>
-<ul>
-<li>approximately;</li>
-<li>about;</li>
-<li>more than;</li>
-<li>fewer than;</li>
-<li>roughly;</li>
-</ul>
-<p>when exact figures are unavailable.</p>
-<h1>Explain scale without exaggerating</h1>
-<p>Not every developer works on billions of events.</p>
-<p>Scale can also mean:</p>
-<ul>
-<li>complex business rules;</li>
-<li>high correctness requirements;</li>
-<li>regulated data;</li>
-<li>many integrations;</li>
-<li>international users;</li>
-<li>small teams with broad ownership;</li>
-<li>long-lived systems;</li>
-<li>accessibility requirements;</li>
-<li>offline use;</li>
-<li>operational constraints.</li>
-</ul>
-<p>Example:</p>
+<h2>عرض مشروع أقوى</h2>
 <blockquote>
-<p>Owned a scheduling service used by 120 clinics where duplicate or missing events could affect patient appointments.</p>
+<p>قمت ببناء ونشر منصة مهام متعددة المنظمات باستخدام React وNode.js وPostgreSQL. قمت بتنفيذ تدفقات الدعوة, والأذونات القائمة على الأدوار, والتحديثات المتفائلة, واختبارات التفويض. أعدت تصميم نموذج العضوية بعد أن احتاج المستخدمون الأوائل إلى الوصول إلى أكثر من منظمة واحدة.
+المساهمة الثانية تمنح القارئ ما يمكن تقييمه.</p>
 </blockquote>
-<p>That is meaningful even without internet-scale traffic.</p>
-<h1>Clarify your individual contribution</h1>
-<p>Team outcomes matter, but recruiters need to understand what you did.</p>
-<p>Use “I” in summaries and clear verbs in experience bullets.</p>
-<p>For team projects, explain:</p>
+<h1>اختر الجودة على حساب كمية المشاريع</h1>
+<p>ثلاثة مشاريع قوية أفضل من عشرين مستودعًا غير مكتمل.
+أبرز المشاريع التي تُظهر:</p>
 <ul>
-<li>what you owned;</li>
-<li>which decisions you made;</li>
-<li>which systems you implemented;</li>
-<li>how you collaborated;</li>
-<li>what the team achieved.</li>
+<li>الاكتمال؛</li>
+<li>التقدير السليم؛</li>
+<li>النشر؛</li>
+<li>التوثيق؛</li>
+<li>الاختبار؛</li>
+<li>التكرار؛</li>
+<li>ملاحظات المستخدمين؛</li>
+<li>التعقيد ذي المغزى.
+أزل أو قلل من التركيز على:</li>
+<li>النسخ المقلدة من البرامج التعليمية؛</li>
+<li>العروض التوضيحية المعطلة؛</li>
+<li>المستودعات التي تفتقر إلى التوضيح؛</li>
+<li>الكود المنسوخ الذي لا يمكنك مناقشته؛</li>
+<li>التجارب المهجورة التي تضعف قيمة الأعمال الأقوى.</li>
 </ul>
-<p>Avoid claiming credit for the entire organization.</p>
-<p>Example:</p>
+<h1>اكتب وثائق مفيدة للمشروع</h1>
+<p>يجب أن يتمكن مدير التوظيف من فهم مشروعك دون الحاجة إلى الاتصال بك.
+قم بتضمين:</p>
+<ul>
+<li>الغرض؛</li>
+<li>المستخدمين؛</li>
+<li>البنية؛</li>
+<li>الميزات الرئيسية؛</li>
+<li>الإعداد؛</li>
+<li>الاختبار؛</li>
+<li>النشر؛</li>
+<li>المفاضلات؛</li>
+<li>القيود؛</li>
+<li>التحسينات المستقبلية؛</li>
+<li>لقطات شاشة أو عرض توضيحي.
+كما أن ملف README الواضح يعد دليلاً على التواصل غير المتزامن.</li>
+</ul>
+<h1>ضع رابطًا للعمل الذي يثبت ادعاءاتك</h1>
+<p>قد تشمل الروابط المفيدة ما يلي:</p>
+<ul>
+<li>GitHub؛</li>
+<li>الموقع الشخصي؛</li>
+<li>محفظة الأعمال؛</li>
+<li>التطبيقات الحية؛</li>
+<li>المساهمات في المشاريع مفتوحة المصدر؛</li>
+<li>سجلات الحزم؛</li>
+<li>المقالات التقنية؛</li>
+<li>المحاضرات؛</li>
+<li>تسجيلات المؤتمرات؛</li>
+<li>دراسات الحالة.
+لا تجعل مسؤولي التوظيف يبحثون عنها.
+ضع الروابط الأكثر أهمية في مكان يسهل رؤيتها.</li>
+</ul>
+<h1>نظم ملفك الشخصي على GitHub</h1>
+<p>يمكن لملفك الشخصي العام على GitHub أن يدعم صورتك المهنية, ولكن فقط إذا تم تنظيمه بشكل جيد.
+تحقق من:</p>
+<ul>
+<li>المستودعات المثبتة؛</li>
+<li>أوصاف المستودعات؛</li>
+<li>جودة ملف README؛</li>
+<li>روابط العروض التوضيحية العاملة؛</li>
+<li>معلومات الترخيص حيثما كان ذلك مناسبًا؛</li>
+<li>تعليمات الاختبار؛</li>
+<li>مشكلات التبعية الحديثة؛</li>
+<li>الأسرار المكشوفة؛</li>
+<li>محتوى العناصر النائبة غير المكتمل.
+أرشِف المستودعات التي تسبب الارتباك.
+لست بحاجة إلى إخفاء سجل تعلمك, لكن يجب أن تظهر أفضل أعمالك أولًا.</li>
+</ul>
+<h1>لا تزيف نشاط المساهمة</h1>
+<p>الرسم البياني الأخضر الكثيف للمساهمات لا يثبت القدرة.
+تجنب:</p>
+<ul>
+<li>عمليات التسجيل التي لا معنى لها؛</li>
+<li>الضوضاء الآلية؛</li>
+<li>تعديلات README اليومية التي يتم إنشاؤها فقط لتبدو نشطًا؛</li>
+<li>تقسيم تغيير واحد إلى عشرات من عمليات التسجيل المصطنعة.
+إن سجلًا أصغر من العمل الحقيقي يكون أكثر مصداقية.</li>
+</ul>
+<h1>أضف كتابات تقنية عندما تدعم ملفك الشخصي</h1>
+<p>لست بحاجة إلى أن تصبح منشئ محتوى.
+يمكن لبعض المقالات المدروسة أن توفر دليلًا قويًّا.
+تشمل الموضوعات المحتملة:</p>
+<ul>
+<li>خطأ برمجي صعب؛</li>
+<li>قرار متعلق بالبنية؛</li>
+<li>عملية ترحيل؛</li>
+<li>تحسين في إمكانية الوصول؛</li>
+<li>تحقيق في الأداء؛</li>
+<li>دروس مستفادة من نهج فاشل؛</li>
+<li>أداة قمت بتطويرها؛</li>
+<li>مراجعة لحادثة؛</li>
+<li>كيف تعلمت تقنية ما.
+تُظهر المقالة المفيدة ما يلي:</li>
+<li>الفهم التقني؛</li>
+<li>التواصل الكتابي؛</li>
+<li>التفكير المتعمق؛</li>
+<li>الرغبة في مشاركة المعرفة.
+قد تكون مشاركتان قويتان في السنة أكثر قيمة من التحديثات السطحية المتكررة.</li>
+</ul>
+<h1>استخدم صورة ملف شخصي واضحة وحديثة عند الاقتضاء</h1>
+<p>يمكن لصورة الملف الشخصي أن تجعل الصفحة المهنية تبدو أكثر اكتمالًا وسهولة في التعرف عليها.
+استخدم صورة:</p>
+<ul>
+<li>حديثة؛</li>
+<li>واضحة؛</li>
+<li>جيدة الإضاءة؛</li>
+<li>مركزة في الوسط؛</li>
+<li>مناسبة للمنصة؛</li>
+<li>بسيطة بصريًا.
+لا تحتاج إلى:</li>
+<li>تصوير احترافي في الاستوديو؛</li>
+<li>ملابس رسمية؛</li>
+<li>خلفية مكتبية مصطنعة؛</li>
+<li>تعديلات مكثفة.
+تجنب:</li>
+<li>الصور الجماعية؛</li>
+<li>الصور البعيدة لكامل الجسم؛</li>
+<li>الصور القديمة؛</li>
+<li>الفلاتر المُشتتة للانتباه؛</li>
+<li>الصور المُقتطعة بشكل غير واضح.
+في الحالات التي تكون فيها الصورة اختيارية وتفضل عدم استخدامها, ركز على إكمال المعلومات المتبقية في ملفك الشخصي.</li>
+</ul>
+<h1>اذكر الموقع وتفضيلات العمل عن بُعد بوضوح</h1>
+<p>يؤثر الموقع على إمكانية قيام مسؤولي التوظيف بتعيينك.
+أدرج:</p>
+<ul>
+<li>المدينة أو المنطقة؛</li>
+<li>البلد؛</li>
+<li>المنطقة الزمنية؛</li>
+<li>تفضيلات العمل عن بُعد؛</li>
+<li>تفضيلات الانتقال؛</li>
+<li>تصريح العمل عند الاقتضاء.
+أمثلة:</li>
+</ul>
 <blockquote>
-<p>As part of a four-engineer team, I owned the database migration, backward-compatible API changes, and deployment monitoring for the account-merging project.</p>
+<p>شيكاغو, إلينوي · التوقيت المركزي للولايات المتحدة · متاح للوظائف عن بُعد داخل الولايات المتحدة
+برلين, ألمانيا · UTC+1/UTC+2 · متاح للوظائف عن بُعد داخل الاتحاد الأوروبي
+تورونتو, كندا · متاح للوظائف المختلطة أو عن بُعد · لا رغبة في الانتقال
+العمل عن بُعد داخل الولايات المتحدة · متاح لمدة أربع ساعات من التداخل مع التوقيت المحيطي
+لا تشارك عنوان الشارع.</p>
 </blockquote>
-<h1>Show more than implementation</h1>
-<p>Engineering roles often include work beyond writing feature code.</p>
-<p>Include relevant evidence of:</p>
+<h1>أوضح تفضيلاتك الوظيفية</h1>
+<p>يمكنك تحديد ما إذا كنت مهتمًا بما يلي:</p>
 <ul>
-<li>architecture;</li>
-<li>debugging;</li>
-<li>incident response;</li>
-<li>mentoring;</li>
-<li>hiring;</li>
-<li>documentation;</li>
-<li>accessibility;</li>
-<li>security;</li>
-<li>performance;</li>
-<li>product discovery;</li>
-<li>cross-team coordination;</li>
-<li>technical leadership;</li>
-<li>customer communication.</li>
+<li>بدوام كامل؛</li>
+<li>بدوام جزئي؛</li>
+<li>بعقد؛</li>
+<li>بعقد قابل للتحويل إلى وظيفة دائمة؛</li>
+<li>عمل حر؛</li>
+<li>تدريب داخلي؛</li>
+<li>تدريب مهني؛</li>
+<li>مساهم فردي؛</li>
+<li>إدارة.
+هذا يقلل من الاتصالات غير ذات الصلة.
+مثال:</li>
 </ul>
-<p>Example:</p>
 <blockquote>
-<p>Wrote the incident review and implemented idempotency controls after a retry race caused duplicate payment events.</p>
+<p>متاح للوظائف العليا كمساهم فردي. لا أفكر حاليًا في إدارة الهندسة أو العمل بعقود قصيرة الأجل.</p>
 </blockquote>
-<p>This demonstrates operational ownership.</p>
-<h1>Add projects that strengthen your target identity</h1>
-<p>Projects are especially valuable for:</p>
+<h1>حدد مدى توفر وقتك بدقة</h1>
+<p>يمكنك استخدام عبارات مثل:</p>
 <ul>
-<li>junior developers;</li>
-<li>career changers;</li>
-<li>open-source contributors;</li>
-<li>freelancers;</li>
-<li>developers moving into a new specialty;</li>
-<li>candidates whose professional work is confidential.</li>
+<li>منفتح على الفرص؛</li>
+<li>أجري مقابلات بنشاط؛</li>
+<li>أستكشف الفرص بشكل غير رسمي؛</li>
+<li>متاح ابتداءً من تاريخ محدد؛</li>
+<li>لا أبحث حاليًا؛</li>
+<li>منفتح على المناصب الاستثنائية.
+حافظ على تحديث معلوماتك.
+إن ترك حالة «أبحث بنشاط» دون تغيير لمدة عامين يجعل الملف الشخصي يبدو مهجورًا.</li>
 </ul>
-<p>A strong project entry should include:</p>
+<h1>سهّل عملية الاتصال بك</h1>
+<p>قدم وسيلة اتصال احترافية.
+قد تشمل الخيارات ما يلي:</p>
 <ul>
-<li>what it does;</li>
-<li>who it serves;</li>
-<li>your contribution;</li>
-<li>core technologies;</li>
-<li>live link;</li>
-<li>source link;</li>
-<li>meaningful outcome;</li>
-<li>one technical challenge.</li>
+<li>المراسلة عبر المنصة؛</li>
+<li>البريد الإلكتروني المهني؛</li>
+<li>نموذج الاتصال؛</li>
+<li>رابط تحديد المواعيد عند الاقتضاء.
+لا تنشر تفاصيل شخصية غير ضرورية مثل:</li>
+<li>عنوان المنزل؛</li>
+<li>رقم الهاتف الشخصي؛</li>
+<li>أرقام الهوية الحكومية؛</li>
+<li>حسابات وسائل التواصل الاجتماعي الخاصة.
+تحقق من طلبات الرسائل ومجلد البريد العشوائي أثناء البحث عن وظيفة.</li>
 </ul>
-<h2>Weak project entry</h2>
-<blockquote>
-<p>Task app built with React.</p>
-</blockquote>
-<h2>Stronger project entry</h2>
-<blockquote>
-<p>Built and deployed a multi-organization task platform using React, Node.js, and PostgreSQL. Implemented invitation flows, role-based permissions, optimistic updates, and authorization tests. Redesigned the membership model after early users needed access to more than one organization.</p>
-</blockquote>
-<p>The second entry gives the reader something to evaluate.</p>
-<h1>Choose quality over project quantity</h1>
-<p>Three strong projects are better than twenty unfinished repositories.</p>
-<p>Feature projects that demonstrate:</p>
-<ul>
-<li>completion;</li>
-<li>judgment;</li>
-<li>deployment;</li>
-<li>documentation;</li>
-<li>testing;</li>
-<li>iteration;</li>
-<li>user feedback;</li>
-<li>meaningful complexity.</li>
-</ul>
-<p>Remove or de-emphasize:</p>
-<ul>
-<li>tutorial clones;</li>
-<li>broken demos;</li>
-<li>repositories with no explanation;</li>
-<li>copied code you cannot discuss;</li>
-<li>abandoned experiments that dilute stronger work.</li>
-</ul>
-<h1>Write useful project documentation</h1>
-<p>A hiring manager should be able to understand your project without contacting you.</p>
-<p>Include:</p>
-<ul>
-<li>purpose;</li>
-<li>users;</li>
-<li>architecture;</li>
-<li>key features;</li>
-<li>setup;</li>
-<li>testing;</li>
-<li>deployment;</li>
-<li>trade-offs;</li>
-<li>limitations;</li>
-<li>future improvements;</li>
-<li>screenshots or demo.</li>
-</ul>
-<p>A clear README is also evidence of asynchronous communication.</p>
-<h1>Link to the work that proves your claims</h1>
-<p>Useful links may include:</p>
-<ul>
-<li>GitHub;</li>
-<li>personal website;</li>
-<li>portfolio;</li>
-<li>live applications;</li>
-<li>open-source contributions;</li>
-<li>package registries;</li>
-<li>technical articles;</li>
-<li>talks;</li>
-<li>conference recordings;</li>
-<li>case studies.</li>
-</ul>
-<p>Do not make recruiters search for them.</p>
-<p>Place the strongest links where they are easy to see.</p>
-<h1>Curate your GitHub profile</h1>
-<p>A public GitHub profile can support your professional profile, but only when curated.</p>
-<p>Check:</p>
-<ul>
-<li>pinned repositories;</li>
-<li>repository descriptions;</li>
-<li>README quality;</li>
-<li>working demo links;</li>
-<li>license information where relevant;</li>
-<li>test instructions;</li>
-<li>recent dependency issues;</li>
-<li>exposed secrets;</li>
-<li>unfinished placeholder content.</li>
-</ul>
-<p>Archive repositories that create confusion.</p>
-<p>You do not need to hide your learning history, but your best work should appear first.</p>
-<h1>Do not manufacture contribution activity</h1>
-<p>A dense green contribution graph does not prove ability.</p>
-<p>Avoid:</p>
-<ul>
-<li>meaningless commits;</li>
-<li>automated noise;</li>
-<li>daily README edits created only to appear active;</li>
-<li>splitting one change into dozens of artificial commits.</li>
-</ul>
-<p>A smaller history of real work is more credible.</p>
-<h1>Add technical writing when it supports your profile</h1>
-<p>You do not need to become a content creator.</p>
-<p>A few thoughtful pieces can provide strong evidence.</p>
-<p>Possible topics include:</p>
-<ul>
-<li>a difficult bug;</li>
-<li>an architecture decision;</li>
-<li>a migration;</li>
-<li>an accessibility improvement;</li>
-<li>a performance investigation;</li>
-<li>lessons from a failed approach;</li>
-<li>a tool you built;</li>
-<li>an incident review;</li>
-<li>how you learned a technology.</li>
-</ul>
-<p>A useful article demonstrates:</p>
-<ul>
-<li>technical understanding;</li>
-<li>written communication;</li>
-<li>reflection;</li>
-<li>willingness to share knowledge.</li>
-</ul>
-<p>Two strong posts per year can be more valuable than frequent shallow updates.</p>
-<h1>Use a clear, current profile photo when appropriate</h1>
-<p>A profile photo can make a professional page feel more complete and recognizable.</p>
-<p>Use an image that is:</p>
-<ul>
-<li>current;</li>
-<li>clear;</li>
-<li>well lit;</li>
-<li>centered;</li>
-<li>appropriate to the platform;</li>
-<li>visually simple.</li>
-</ul>
-<p>You do not need:</p>
-<ul>
-<li>professional studio photography;</li>
-<li>formal clothing;</li>
-<li>an artificial office background;</li>
-<li>heavy editing.</li>
-</ul>
-<p>Avoid:</p>
-<ul>
-<li>group photos;</li>
-<li>distant full-body images;</li>
-<li>outdated photos;</li>
-<li>distracting filters;</li>
-<li>unclear crops.</li>
-</ul>
-<p>Where a photo is optional and you prefer not to use one, focus on making the remaining profile information complete.</p>
-<h1>Make location and remote preferences explicit</h1>
-<p>Location affects whether recruiters can hire you.</p>
-<p>Include:</p>
-<ul>
-<li>city or region;</li>
-<li>country;</li>
-<li>time zone;</li>
-<li>remote preference;</li>
-<li>relocation preference;</li>
-<li>work authorization when appropriate.</li>
-</ul>
-<p>Examples:</p>
-<blockquote>
-<p>Chicago, Illinois · US Central Time · Open to remote US roles</p>
-</blockquote>
-<blockquote>
-<p>Berlin, Germany · UTC+1/UTC+2 · Open to EU remote positions</p>
-</blockquote>
-<blockquote>
-<p>Toronto, Canada · Open to hybrid or remote roles · No relocation</p>
-</blockquote>
-<blockquote>
-<p>Remote within the United States · Available for four hours of Pacific Time overlap</p>
-</blockquote>
-<p>Do not share a street address.</p>
-<h1>Clarify employment preferences</h1>
-<p>You may specify whether you are interested in:</p>
-<ul>
-<li>full-time;</li>
-<li>part-time;</li>
-<li>contract;</li>
-<li>contract-to-hire;</li>
-<li>freelance;</li>
-<li>internship;</li>
-<li>apprenticeship;</li>
-<li>individual-contributor;</li>
-<li>management.</li>
-</ul>
-<p>This reduces irrelevant outreach.</p>
-<p>Example:</p>
-<blockquote>
-<p>Open to senior individual-contributor roles. Not currently considering engineering management or short-term contract work.</p>
-</blockquote>
-<h1>State availability carefully</h1>
-<p>You may use language such as:</p>
-<ul>
-<li>open to opportunities;</li>
-<li>actively interviewing;</li>
-<li>casually exploring;</li>
-<li>available from a specific date;</li>
-<li>not currently looking;</li>
-<li>open to exceptional roles.</li>
-</ul>
-<p>Keep it current.</p>
-<p>An “actively looking” status left unchanged for two years makes the profile appear abandoned.</p>
-<h1>Make it easy to contact you</h1>
-<p>Provide a professional contact path.</p>
-<p>Options may include:</p>
-<ul>
-<li>platform messaging;</li>
-<li>professional email;</li>
-<li>contact form;</li>
-<li>scheduling link where appropriate.</li>
-</ul>
-<p>Do not publish unnecessary personal details such as:</p>
-<ul>
-<li>home address;</li>
-<li>personal phone number;</li>
-<li>government identifiers;</li>
-<li>private social accounts.</li>
-</ul>
-<p>Check your message requests and spam folder while job searching.</p>
-<h1>Use a professional email address</h1>
-<p>Prefer an address based on your name or established professional identity.</p>
-<p>Examples:</p>
+<h1>استخدم عنوان بريد إلكتروني مهني</h1>
+<p>يفضل أن يكون العنوان مستندًا إلى اسمك أو هويتك المهنية الراسخة.
+أمثلة:</p>
 <ul>
 <li><a href="mailto:alex.goretoy@example.com">alex.goretoy@example.com</a></li>
-<li><a href="mailto:alex@alexgoretoy.dev">alex@alexgoretoy.dev</a></li>
+<li><a href="mailto:alex@alexgoretoy.dev">alex@alexgoretoy.dev</a>
+تجنب العناوين التي قد تبدو غير جادة أو يصعب نطقها.
+تأكد أيضًا من:</li>
+<li>أن صندوق الوارد يعمل؛</li>
+<li>أن سعة التخزين ليست ممتلئة؛</li>
+<li>أن اسم العرض الخاص بك صحيح؛</li>
+<li>أن التوقيع محدث؛</li>
+<li>ألا تأتي الردود من اسم مستعار غير ذي صلة.</li>
 </ul>
-<p>Avoid addresses that may look unserious or be difficult to dictate.</p>
-<p>Also ensure that:</p>
+<h1>حافظ على دقة التواريخ</h1>
+<p>يجب أن يتطابق ملفك الشخصي وسيرتك الذاتية في:</p>
 <ul>
-<li>the inbox works;</li>
-<li>storage is not full;</li>
-<li>your display name is correct;</li>
-<li>the signature is current;</li>
-<li>replies do not come from an unrelated alias.</li>
+<li>أسماء أرباب العمل؛</li>
+<li>المسميات الوظيفية؛</li>
+<li>تواريخ البدء؛</li>
+<li>تواريخ الانتهاء؛</li>
+<li>التعليم؛</li>
+<li>توقيت المشاريع.
+لا بأس بالاختلافات الطفيفة في التنسيق.
+التناقضات تثير الشك.
+الفجوات في المسيرة المهنية أمر شائع.
+لا داعي لإخفائها باستخدام تواريخ مضللة.
+عند الضرورة, يمكنك إضافة تفسير موجز مثل:</li>
+<li>إجازة رعاية؛</li>
+<li>الدراسة؛</li>
+<li>الاستشارات المستقلة؛</li>
+<li>إجازة مرضية؛</li>
+<li>السفر؛</li>
+<li>البحث عن وظيفة؛</li>
+<li>مشاريع شخصية.
+لا تكشف إلا عما تشعر بالراحة في مشاركته.</li>
 </ul>
-<h1>Keep dates accurate</h1>
-<p>Your profile and résumé should agree on:</p>
-<ul>
-<li>employer names;</li>
-<li>job titles;</li>
-<li>start dates;</li>
-<li>end dates;</li>
-<li>education;</li>
-<li>project timing.</li>
-</ul>
-<p>Minor differences in formatting are fine.</p>
-<p>Contradictions create doubt.</p>
-<p>Career gaps are common.</p>
-<p>You do not need to hide them through misleading dates.</p>
-<p>Where useful, you can add a concise explanation such as:</p>
-<ul>
-<li>caregiving leave;</li>
-<li>study;</li>
-<li>independent consulting;</li>
-<li>health leave;</li>
-<li>travel;</li>
-<li>job search;</li>
-<li>personal projects.</li>
-</ul>
-<p>Disclose only what you are comfortable sharing.</p>
-<h1>Explain career changes clearly</h1>
-<p>A career changer should connect previous experience to engineering.</p>
-<p>Example:</p>
+<h1>اشرح التغييرات المهنية بوضوح</h1>
+<p>يجب على من يغير مساره المهني ربط خبرته السابقة بالهندسة.
+مثال:</p>
 <blockquote>
-<p>Before moving into software development, I spent six years in logistics operations. That experience shapes how I build workflow tools, handle exceptions, and communicate with nontechnical users.</p>
+<p>قبل الانتقال إلى مجال تطوير البرمجيات, قضيت ست سنوات في العمليات اللوجستية. تلك الخبرة تشكل طريقة بناء أدوات سير العمل, والتعامل مع الاستثناءات, والتواصل مع المستخدمين غير التقنيين.
+هذا يحول العمل السابق إلى سياق ذي صلة.</p>
 </blockquote>
-<p>This turns previous work into relevant context.</p>
-<h1>Adjust the profile for your career level</h1>
-<h1>Junior developers</h1>
-<p>Emphasize:</p>
+<h1>اضبط ملفك الشخصي وفقًا لمستواك المهني</h1>
+<h1>المطورون المبتدئون</h1>
+<p>ركز على:</p>
 <ul>
-<li>projects;</li>
-<li>learning;</li>
-<li>internships;</li>
-<li>open source;</li>
-<li>transferable experience;</li>
-<li>deployed work;</li>
-<li>testing;</li>
-<li>problem solving;</li>
-<li>target role.</li>
+<li>المشاريع؛</li>
+<li>التعلم؛</li>
+<li>التدريب الداخلي؛</li>
+<li>البرمجيات مفتوحة المصدر؛</li>
+<li>الخبرة القابلة للتطبيق في مجالات أخرى؛</li>
+<li>الأعمال التي تم نشرها؛</li>
+<li>الاختبار؛</li>
+<li>حل المشكلات؛</li>
+<li>الدور المستهدف.
+نموذج للعنوان:</li>
 </ul>
-<p>Sample headline:</p>
 <blockquote>
-<p>Junior Full-Stack Developer · React, TypeScript, Node.js, PostgreSQL · Open to entry-level roles</p>
+<p>مطور مبتدئ متكامل · React, TypeScript, Node.js, PostgreSQL · متاح للوظائف المبتدئة
+نموذج للملخص:
+أنا مطور مبتدئ متعدد التخصصات أقوم بتطوير تطبيقات TypeScript باستخدام React وNode.js وPostgreSQL. أفضل مشروع قمت به هو منصة جدولة متعددة المستخدمين تتضمن المصادقة, وأذونات المؤسسات, والاختبارات الآلية, ونشرًا عامًا.</p>
+<p>قبل الانتقال إلى مجال التطوير, عملت في عمليات الرعاية الصحية, حيث تعلمت توثيق سير العمل, والتحقيق في الأخطاء, والتواصل مع المستخدمين تحت ضغط الوقت.</p>
+<p>أبحث عن وظيفة مبتدئة تتضمن مراجعة منتظمة للكود وتوجيهًا إرشاديًا, ويفضل أن تكون ضمن فريق منتج يعمل على تطوير أدوات عملية للعملاء.</p>
 </blockquote>
-<p>Sample summary:</p>
+<h1>مطورون من المستوى المتوسط</h1>
+<p>التركيز على:</p>
+<ul>
+<li>المسؤولية المستقلة عن الميزات؛</li>
+<li>أنظمة الإنتاج؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>التسليم؛</li>
+<li>العمل متعدد الوظائف؛</li>
+<li>النتائج القابلة للقياس.
+نموذج للعنوان:</li>
+</ul>
 <blockquote>
-<p>I am a junior full-stack developer building TypeScript applications with React, Node.js, and PostgreSQL. My strongest project is a multi-user scheduling platform with authentication, organization permissions, automated tests, and a public deployment.</p>
-<p>Before moving into development, I worked in healthcare operations, where I learned to document workflows, investigate errors, and communicate with users under time pressure.</p>
-<p>I am looking for a junior role with regular code review and mentorship, ideally on a product team building practical tools for customers.</p>
+<p>مهندس برمجيات · TypeScript, React, Node.js, PostgreSQL · ميزات المنتج من البداية إلى النهاية</p>
 </blockquote>
-<h1>Mid-level developers</h1>
-<p>Emphasize:</p>
+<h1>المطورون الكبار</h1>
+<p>ركز على:</p>
 <ul>
-<li>independent feature ownership;</li>
-<li>production systems;</li>
-<li>debugging;</li>
-<li>delivery;</li>
-<li>cross-functional work;</li>
-<li>measurable outcomes.</li>
+<li>ملكية النظام؛</li>
+<li>الغموض؛</li>
+<li>البنية؛</li>
+<li>التوجيه؛</li>
+<li>الحوادث؛</li>
+<li>التأثير عبر الفرق؛</li>
+<li>النتائج التجارية.
+عنوان نموذجي:</li>
 </ul>
-<p>Sample headline:</p>
 <blockquote>
-<p>Software Engineer · TypeScript, React, Node.js, PostgreSQL · Product features end to end</p>
+<p>مهندس خلفي رفيع المستوى · Go, PostgreSQL, أنظمة قائمة على الأحداث · الموثوقية والمدفوعات</p>
 </blockquote>
-<h1>Senior developers</h1>
-<p>Emphasize:</p>
+<h1>المهندسون الدائمون والمهندسون الرئيسيون</h1>
+<p>التركيز على:</p>
 <ul>
-<li>system ownership;</li>
-<li>ambiguity;</li>
-<li>architecture;</li>
-<li>mentoring;</li>
-<li>incidents;</li>
-<li>cross-team influence;</li>
-<li>business outcomes.</li>
+<li>النطاق التنظيمي؛</li>
+<li>المبادرات متعددة الفرق؛</li>
+<li>الاستراتيجية التقنية؛</li>
+<li>البنية طويلة الأجل؛</li>
+<li>التأثير؛</li>
+<li>عمليات الترحيل؛</li>
+<li>الحد من المخاطر؛</li>
+<li>القيادة دون سلطة مباشرة.
+عنوان نموذجي:</li>
 </ul>
-<p>Sample headline:</p>
 <blockquote>
-<p>Senior Backend Engineer · Go, PostgreSQL, event-driven systems · Reliability and payments</p>
+<p>مهندس منصة · البنية التحتية للمطورين, Kubernetes, قابلية المراقبة · القيادة التقنية لعدة فرق</p>
 </blockquote>
-<h1>Staff and principal engineers</h1>
-<p>Emphasize:</p>
+<h1>مديرو الهندسة</h1>
+<p>ركز على:</p>
 <ul>
-<li>organizational scope;</li>
-<li>multi-team initiatives;</li>
-<li>technical strategy;</li>
-<li>long-term architecture;</li>
-<li>influence;</li>
-<li>migrations;</li>
-<li>risk reduction;</li>
-<li>leadership without direct authority.</li>
+<li>حجم الفريق؛</li>
+<li>التوظيف؛</li>
+<li>الترقيات؛</li>
+<li>إدارة الأداء؛</li>
+<li>التسليم؛</li>
+<li>التغيير التنظيمي؛</li>
+<li>المصداقية التقنية؛</li>
+<li>الشراكة عبر الوظائف.
+عنوان نموذجي:</li>
 </ul>
-<p>Sample headline:</p>
 <blockquote>
-<p>Staff Platform Engineer · Developer infrastructure, Kubernetes, observability · Multi-team technical leadership</p>
+<p>مدير هندسي · منصات المطورين · نمو الفريق, أنظمة التسليم, القيادة عن بُعد</p>
 </blockquote>
-<h1>Engineering managers</h1>
-<p>Emphasize:</p>
+<h1>إنشاء نسخ مختلفة من الملف الشخصي حسب الدور</h1>
+<p>قد تكون لديك خبرة مناسبة لعدة أدوار.
+لا تعرض جميع الاحتمالات بنفس القدر من الأهمية.
+يجب على المطور الشامل الذي يهتم في المقام الأول بأعمال الخلفية أن يبدأ بعرض أدلة تتعلق بالخلفية.
+يمكنك الاحتفاظ بنسخ مختلفة من:</p>
 <ul>
-<li>team size;</li>
-<li>hiring;</li>
-<li>promotions;</li>
-<li>performance management;</li>
-<li>delivery;</li>
-<li>organizational change;</li>
-<li>technical credibility;</li>
-<li>cross-functional partnership.</li>
+<li>الملخص؛</li>
+<li>السيرة الذاتية؛</li>
+<li>ترتيب المشاريع؛</li>
+<li>الصفحة الرئيسية لمحفظة الأعمال؛</li>
+<li>رسالة التقديم.
+لا تنشئ هويات متناقضة.
+غيّر التركيز, لا الحقائق.</li>
 </ul>
-<p>Sample headline:</p>
+<h1>استخدم لغة السوق المستهدف</h1>
+<p>قد تستخدم الأسواق المختلفة مصطلحات مختلفة.
+أمثلة:</p>
+<ul>
+<li>السيرة الذاتية مقابل CV؛</li>
+<li>مهندس برمجيات مقابل مطور برمجيات؛</li>
+<li>إجازة مقابل إجازة سنوية؛</li>
+<li>العمل عن بُعد في الولايات المتحدة مقابل العمل عن بُعد في منطقة أوروبا والشرق الأوسط وأفريقيا؛</li>
+<li>401(k) مقابل المعاش التقاعدي؛</li>
+<li>متعاقد مقابل مستقل.
+استخدم المصطلحات المألوفة لدى أصحاب العمل الذين تستهدفهم.
+بالنسبة للبحث الدولي, ضع في اعتبارك تقديم:</li>
+<li>ملف تعريفي باللغة الإنجليزية؛</li>
+<li>ملف تعريفي باللغة المحلية؛</li>
+<li>أوصاف مشاريع مترجمة؛</li>
+<li>معلومات واضحة عن المنطقة الزمنية.
+لا تعتمد على الترجمة الآلية للمزاعم الفنية دون مراجعة النتيجة.</li>
+</ul>
+<h1>صمم ملفك للتبحث دون الإفراط في استخدام الكلمات المفتاحية</h1>
+<p>قد يكرر الملف التعريفي الجيد المصطلحات المهمة بشكل طبيعي عبر:</p>
+<ul>
+<li>العنوان؛</li>
+<li>الملخص؛</li>
+<li>المهارات؛</li>
+<li>الخبرة الوظيفية؛</li>
+<li>أوصاف المشاريع.
+على سبيل المثال, قد يذكر ملف تعريف متخصص في البايندك PostgreSQL في:</li>
+<li>العنوان؛</li>
+<li>النقطة الخاصة بالوظيفة الحالية؛</li>
+<li>وصف المشروع؛</li>
+<li>قسم المهارات.
+وهذا أمر طبيعي.
+أما حشو الكلمات المفتاحية فيبدو كالتالي:</li>
+</ul>
 <blockquote>
-<p>Engineering Manager · Developer platforms · Team growth, delivery systems, remote leadership</p>
+<p>خبير PostgreSQL, مطور PostgreSQL, Backend PostgreSQL, قاعدة بيانات PostgreSQL, مهندس PostgreSQL.
+وهذا يضر بقابلية القراءة والمصداقية.
+اكتب للبشر أولاً مع التأكد من وجود المصطلحات الصحيحة.</p>
 </blockquote>
-<h1>Create role-specific profile variants</h1>
-<p>You may have experience suitable for several roles.</p>
-<p>Do not present all possibilities with equal weight.</p>
-<p>A full-stack developer interested primarily in backend work should lead with backend evidence.</p>
-<p>You may maintain different versions of:</p>
+<h1>راجع الوصف الوظيفي لمواءمة الكلمات المفتاحية</h1>
+<p>اجمع ما بين عشرة إلى عشرين إعلانًا وظيفيًا يتطابق مع هدفك.
+سجل المصطلحات المتكررة.
+على سبيل المثال, قد تذكر الوظائف العليا في مجال البرمجة الخلفية بشكل متكرر:</p>
 <ul>
-<li>summary;</li>
-<li>résumé;</li>
-<li>project order;</li>
-<li>portfolio landing page;</li>
-<li>application message.</li>
+<li>تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>PostgreSQL؛</li>
+<li>الأنظمة الموزعة؛</li>
+<li>قابلية المراقبة؛</li>
+<li>البنية التحتية السحابية؛</li>
+<li>الاختبار؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>التوجيه والإرشاد؛</li>
+<li>ملكية النظام.
+قارن هذه المصطلحات بملفك الشخصي.
+اسأل نفسك:</li>
+<li>ما هي القدرات التي أمتلكها فعليًّا؟</li>
+<li>ما هي القدرات التي لا تظهر إلا لأنني استخدمت صياغة مختلفة؟</li>
+<li>ما هي القدرات التي يجب أن تظهر في العنوان الرئيسي لملفي الشخصي؟</li>
+<li>ما هي القدرات التي يجب أن تدرج في نقاط الخبرة؟</li>
+<li>ما هي القدرات التي لا أمتلكها بعد؟
+أضف صياغة دقيقة.
+لا تنسخ متطلبات لا يمكنك تلبيةها.</li>
 </ul>
-<p>Do not create contradictory identities.</p>
-<p>Change emphasis, not facts.</p>
-<h1>Use the language of your target market</h1>
-<p>Different markets may use different terms.</p>
-<p>Examples:</p>
+<h1>اجعل «المراجعة السريعة في عشر ثوانٍ» فعالة</h1>
+<p>يجب أن يرى مسؤول التوظيف الذي يفتح ملفك الشخصي بسرعة:</p>
 <ul>
-<li>résumé versus CV;</li>
-<li>software engineer versus software developer;</li>
-<li>vacation versus annual leave;</li>
-<li>remote US versus remote EMEA;</li>
-<li>401(k) versus pension;</li>
-<li>contractor versus freelancer.</li>
+<li>المسمى الوظيفي المستهدف؛</li>
+<li>مستوى الخبرة؛</li>
+<li>المهارات الأساسية؛</li>
+<li>الموقع؛</li>
+<li>التوافر؛</li>
+<li>مؤشر أو مؤشرين على التأثير؛</li>
+<li>المنصب الأخير؛</li>
+<li>روابط لإثبات ذلك.
+راجع الجزء العلوي من ملفك الشخصي بحجم الشاشة العادي.
+اسأل نفسك:</li>
 </ul>
-<p>Use terminology familiar to the employers you are targeting.</p>
-<p>For international searches, consider providing:</p>
-<ul>
-<li>English profile;</li>
-<li>local-language profile;</li>
-<li>translated project descriptions;</li>
-<li>clear time-zone information.</li>
-</ul>
-<p>Do not rely on automatic translation for technical claims without reviewing the result.</p>
-<h1>Build for search without keyword stuffing</h1>
-<p>A healthy profile may naturally repeat important terms across:</p>
-<ul>
-<li>headline;</li>
-<li>summary;</li>
-<li>skills;</li>
-<li>job experience;</li>
-<li>project descriptions.</li>
-</ul>
-<p>For example, a backend profile may mention PostgreSQL in:</p>
-<ul>
-<li>headline;</li>
-<li>current-role bullet;</li>
-<li>project description;</li>
-<li>skills section.</li>
-</ul>
-<p>That is normal.</p>
-<p>Keyword stuffing looks like this:</p>
 <blockquote>
-<p>PostgreSQL expert PostgreSQL developer PostgreSQL backend PostgreSQL database PostgreSQL engineer.</p>
+<p>هل يمكن لأي شخص فهم هويتي المهنية دون الحاجة إلى التمرير؟
+إذا لم يكن الأمر كذلك, فقم بالتحسين:</p>
 </blockquote>
-<p>It damages readability and credibility.</p>
-<p>Write for humans first while ensuring the correct terms are present.</p>
-<h1>Review job descriptions for keyword alignment</h1>
-<p>Collect ten to twenty job postings that match your target.</p>
-<p>Record recurring terms.</p>
-<p>For example, senior backend roles may repeatedly mention:</p>
 <ul>
-<li>API design;</li>
-<li>PostgreSQL;</li>
-<li>distributed systems;</li>
-<li>observability;</li>
-<li>cloud infrastructure;</li>
-<li>testing;</li>
-<li>incident response;</li>
-<li>mentoring;</li>
-<li>system ownership.</li>
+<li>العنوان الرئيسي؛</li>
+<li>مقدمة الملخص؛</li>
+<li>ترتيب المهارات؛</li>
+<li>وصف المنصب الحالي؛</li>
+<li>الموقع؛</li>
+<li>معلومات الاتصال.</li>
 </ul>
-<p>Compare these terms with your profile.</p>
-<p>Ask:</p>
+<h1>تخلص من الفوضى البصرية والنصية</h1>
+<p>يجب أن يكون الملف الشخصي المهني سهل القراءة.
+تجنب:</p>
 <ul>
-<li>Which capabilities do I actually have?</li>
-<li>Which are missing only because I used different wording?</li>
-<li>Which should appear in my headline?</li>
-<li>Which belong in experience bullets?</li>
-<li>Which do I not yet possess?</li>
+<li>الفقرات الطويلة المتصلة؛</li>
+<li>قوائم التقنيات الضخمة؛</li>
+<li>الرموز الزخرفية في كل سطر؛</li>
+<li>الإفراط في استخدام الأحرف الكبيرة؛</li>
+<li>الكلمات الرنانة المتكررة؛</li>
+<li>التفاصيل الشخصية غير ذات الصلة؛</li>
+<li>عدة دعوات متنافسة لاتخاذ إجراء؛</li>
+<li>وصف المناصب القديمة بتفاصيل أكثر من المناصب الحديثة.
+استخدم:</li>
+<li>فقرات قصيرة؛</li>
+<li>أقسام واضحة؛</li>
+<li>نقاط موجزة؛</li>
+<li>روابط ذات صلة؛</li>
+<li>تواريخ متسقة؛</li>
+<li>تنسيق سهل القراءة.</li>
 </ul>
-<p>Add accurate language.</p>
-<p>Do not copy requirements you cannot support.</p>
-<h1>Make the ten-second skim work</h1>
-<p>A recruiter opening your profile should quickly see:</p>
+<h1>حماية المعلومات السرية</h1>
+<p>لا تكشف عن:</p>
 <ul>
-<li>target title;</li>
-<li>seniority;</li>
-<li>core skills;</li>
-<li>location;</li>
-<li>availability;</li>
-<li>one or two impact signals;</li>
-<li>recent role;</li>
-<li>links to proof.</li>
+<li>شفرة المصدر المملوكة لصاحب العمل؛</li>
+<li>هويات العملاء دون إذن؛</li>
+<li>مخططات البنية الداخلية؛</li>
+<li>الثغرات الأمنية؛</li>
+<li>المقاييس الخاصة؛</li>
+<li>المنتجات التي لم يتم طرحها بعد؛</li>
+<li>بيانات الاعتماد؛</li>
+<li>مجموعات البيانات الخاصة؛</li>
+<li>تفاصيل الحوادث التي تظل سرية.
+يمكنك وصف العمل بعبارات عامة.
+مثال:</li>
 </ul>
-<p>Review the top of your profile at normal screen size.</p>
-<p>Ask:</p>
 <blockquote>
-<p>Can someone understand my professional identity without scrolling?</p>
+<p>أعدت تصميم سير عمل أحداث الدفع لمنصة اشتراكات تعالج ملايين المعاملات السنوية.
+لا داعي لتحديد هوية العملاء السريين أو الكشف عن تفاصيل التنفيذ الداخلية.</p>
 </blockquote>
-<p>If not, improve:</p>
+<h1>تحقق من صحة كل ادعاء عام</h1>
+<p>كن مستعدًا لتوضيح:</p>
 <ul>
-<li>headline;</li>
-<li>summary opening;</li>
-<li>skills order;</li>
-<li>current-role description;</li>
-<li>location;</li>
-<li>contact information.</li>
+<li>المقاييس؛</li>
+<li>حجم النظام؛</li>
+<li>التقنيات؛</li>
+<li>الملكية؛</li>
+<li>نتائج الفريق؛</li>
+<li>المسميات الوظيفية؛</li>
+<li>تواريخ التوظيف.
+تجنب:</li>
+<li>ادعاء أن إنجازات الفريق هي عمل فردي؛</li>
+<li>المبالغة في المسميات الوظيفية؛</li>
+<li>تقديم نموذج أولي على أنه نظام إنتاجي؛</li>
+<li>وصف نفسك بأنك خبير في كل مهارة مذكورة؛</li>
+<li>الإيحاء بأن الكود الذي قمت بكتابته يثبت قدرتك المستقلة.
+المصداقية تتراكم.
+وكذلك التناقض.</li>
 </ul>
-<h1>Remove visual and textual clutter</h1>
-<p>A professional profile should be easy to scan.</p>
-<p>Avoid:</p>
+<h1>حافظ على التناسق بين ملفك الشخصي وسيرتك الذاتية</h1>
+<p>يمكن أن يحتوي الملف الشخصي على تفاصيل أكثر من السيرة الذاتية, لكن القصة الأساسية يجب أن تتطابق.
+تحقق من:</p>
 <ul>
-<li>long unbroken paragraphs;</li>
-<li>enormous technology lists;</li>
-<li>decorative symbols in every line;</li>
-<li>excessive capitalization;</li>
-<li>repeated buzzwords;</li>
-<li>unrelated personal details;</li>
-<li>several competing calls to action;</li>
-<li>outdated roles described in more detail than recent ones.</li>
+<li>العنوان والوظيفة المستهدفة؛</li>
+<li>أسماء أرباب العمل؛</li>
+<li>تواريخ العمل؛</li>
+<li>المسميات الوظيفية؛</li>
+<li>التقنيات؛</li>
+<li>الإنجازات الرئيسية؛</li>
+<li>التعليم؛</li>
+<li>الموقع؛</li>
+<li>الروابط.
+قد يقارن مسؤول التوظيف بينهما قبل الاتصال بك.</li>
 </ul>
-<p>Use:</p>
+<h1>حافظ على تحديث ملفك الشخصي أثناء العمل</h1>
+<p>لا تنتظر حتى يتم تسريحك من العمل, أو تستقيل, أو تبدأ في البحث العاجل عن وظيفة.
+كل بضعة أشهر:</p>
 <ul>
-<li>short paragraphs;</li>
-<li>clear sections;</li>
-<li>concise bullets;</li>
-<li>relevant links;</li>
-<li>consistent dates;</li>
-<li>readable formatting.</li>
+<li>أضف إنجازات ذات مغزى؛</li>
+<li>حدّث المهارات؛</li>
+<li>احذف الأدوات التي عفا عليها الزمن؛</li>
+<li>أصلح الروابط المعطلة؛</li>
+<li>حدّث لقطات شاشة المشاريع؛</li>
+<li>راجع ملخصك؛</li>
+<li>تأكد من تفضيلاتك الوظيفية؛</li>
+<li>أضف كتابات أو محاضرات جديدة؛</li>
+<li>تحقق من معلومات الاتصال.
+يؤدي التحديث التدريجي إلى تفاصيل أفضل مقارنة بمحاولة تذكر ثلاث سنوات من العمل أثناء بحث مرهق عن وظيفة.</li>
 </ul>
-<h1>Protect confidential information</h1>
-<p>Do not reveal:</p>
+<h1>احتفظ بسجل خاص بالإنجازات</h1>
+<p>احتفظ بسجل خاص بما يلي:</p>
 <ul>
-<li>source code owned by an employer;</li>
-<li>customer identities without permission;</li>
-<li>internal architecture diagrams;</li>
-<li>security vulnerabilities;</li>
-<li>private metrics;</li>
-<li>unreleased products;</li>
-<li>credentials;</li>
-<li>proprietary datasets;</li>
-<li>incident details that remain confidential.</li>
+<li>المشاريع؛</li>
+<li>المقاييس؛</li>
+<li>القرارات الفنية؛</li>
+<li>الحوادث؛</li>
+<li>التعليقات؛</li>
+<li>التوجيه؛</li>
+<li>عمليات الإطلاق؛</li>
+<li>التحسينات؛</li>
+<li>الترقيات؛</li>
+<li>نتائج العملاء.
+سجل سياقًا كافيًا لكتابة نقاط موجزة صادقة في ملفك الشخصي لاحقًا.
+لا تقم بتخزين معلومات سرية عن الشركة في نظام شخصي غير آمن.
+قد تتضمن الإدخالة البسيطة ما يلي:</li>
+<li>المشكلة؛</li>
+<li>دورك؛</li>
+<li>الإجراء؛</li>
+<li>التكنولوجيا؛</li>
+<li>النتيجة؛</li>
+<li>الصياغة العامة المعتمدة.</li>
 </ul>
-<p>You can describe work in generalized terms.</p>
-<p>Example:</p>
+<h1>صيغ تواصلك مع مسؤولي التوظيف بالتركيز على التفاصيل</h1>
+<p>قد يجذب الملف الشخصي الغامض المزيد من الرسائل, لكنه يقلل من مدى ملاءمتها.
+أما الملف الشخصي الدقيق فيمكن أن ينتج محادثات أقل عددًا وأفضل جودة.
+فكر في ذكر:</p>
+<ul>
+<li>الدور المستهدف؛</li>
+<li>التقنيات المفضلة؛</li>
+<li>نوع التوظيف؛</li>
+<li>موقع العمل؛</li>
+<li>المستوى الوظيفي؛</li>
+<li>القطاعات التي تهمك؛</li>
+<li>الترتيبات المستبعدة.
+مثال:</li>
+</ul>
 <blockquote>
-<p>Redesigned a payment-event workflow for a subscription platform processing millions of annual transactions.</p>
+<p>مهتم بدور رفيع المستوى في مجال البرمجة الخلفية أو المنصات باستخدام Go أو TypeScript أو Rust. العمل عن بُعد في الولايات المتحدة فقط. لا أسعى إلى مناصب إدارية أو الانتقال إلى مكان آخر أو عقود قصيرة الأجل مع وكالات التوظيف.
+سيتجاهل بعض مسؤولي التوظيف هذه التفضيلات.
+لكن الكثير منهم لن يفعلوا ذلك.
+ومع ذلك, فإن الملف الشخصي يحسّن عملية التصفية.</p>
 </blockquote>
-<p>You do not need to identify confidential customers or expose internal implementation details.</p>
-<h1>Verify every public claim</h1>
-<p>Be prepared to explain:</p>
+<h1>حدد مدى رغبتك في جعل عملية البحث علنية</h1>
+<p>اعتمادًا على وضعك, يمكنك الاختيار بين:</p>
 <ul>
-<li>metrics;</li>
-<li>system scale;</li>
-<li>technologies;</li>
-<li>ownership;</li>
-<li>team outcomes;</li>
-<li>job titles;</li>
-<li>employment dates.</li>
+<li>إعلان رغبتك في العمل للجميع؛</li>
+<li>إظهار ملفك الشخصي لمسؤولي التوظيف فقط؛</li>
+<li>عدم تحديد حالة واضحة؛</li>
+<li>التواصل الموجه فقط.
+ضع في اعتبارك:</li>
+<li>سياسات جهة العمل الحالية؛</li>
+<li>العلاقات المهنية؛</li>
+<li>الخصوصية؛</li>
+<li>مدى إلحاحية الأمر؛</li>
+<li>حجم الرسائل المطلوب.
+لا يزال بإمكانك تحسين إمكانية العثور عليك دون الإعلان علنًا عن بحثك النشط عن وظيفة.</li>
 </ul>
-<p>Avoid:</p>
+<h1>استخدم نشاطك بشكل استراتيجي</h1>
+<p>لست بحاجة إلى النشر يوميًا.
+قد تشمل الأنشطة المفيدة ما يلي:</p>
 <ul>
-<li>claiming team accomplishments as individual work;</li>
-<li>inflating titles;</li>
-<li>presenting a prototype as a production system;</li>
-<li>calling yourself an expert in every listed skill;</li>
-<li>implying that generated code proves independent ability.</li>
+<li>مشاركة درس تقني؛</li>
+<li>التعليق بعمق على المناقشات الهندسية؛</li>
+<li>نشر تحديث عن مشروع؛</li>
+<li>كتابة دراسة حالة قصيرة؛</li>
+<li>تهنئة زملاء الفريق؛</li>
+<li>المشاركة في مشاريع مفتوحة المصدر؛</li>
+<li>الإجابة على سؤال تقني مفيد.
+تجنب تحويل ملفك الشخصي إلى تيار من المحتوى التحفيزي العام الذي لا علاقة له بعملك.
+الاتساق والملاءمة أهم من التكرار.</li>
 </ul>
-<p>Credibility compounds.</p>
-<p>So does inconsistency.</p>
-<h1>Keep your profile and résumé aligned</h1>
-<p>The profile can contain more detail than the résumé, but the central story should match.</p>
-<p>Check:</p>
+<h1>راجع إعدادات الخصوصية والأمان</h1>
+<p>تحقق مما يلي:</p>
 <ul>
-<li>headline and target role;</li>
-<li>employer names;</li>
-<li>job dates;</li>
-<li>titles;</li>
-<li>technologies;</li>
-<li>major achievements;</li>
-<li>education;</li>
-<li>location;</li>
-<li>links.</li>
+<li>من يمكنه رؤية بريدك الإلكتروني؛</li>
+<li>من يمكنه مراسلتك؛</li>
+<li>ما إذا كان صاحب العمل يرى نشاطك؛</li>
+<li>ما إذا كانت تفاصيل الاتصال عامة؛</li>
+<li>ما إذا كانت المستندات التي تم تحميلها تكشف عن معلومات شخصية؛</li>
+<li>ما إذا كانت مشاريع محفظتك تحتوي على أسرار؛</li>
+<li>ما إذا كانت تفاصيل الموقع أكثر دقة مما هو ضروري.
+لا تنشر:</li>
+<li>العنوان الكامل للمنزل؛</li>
+<li>تاريخ الميلاد؛</li>
+<li>رقم الهوية الحكومية؛</li>
+<li>المعلومات المصرفية؛</li>
+<li>رقم الهاتف الخاص ما لم يكن ذلك مقصودًا؛</li>
+<li>مستندات العمل السرية.</li>
 </ul>
-<p>A recruiter may compare them before contacting you.</p>
-<h1>Keep the profile updated while employed</h1>
-<p>Do not wait until a layoff, resignation, or urgent search.</p>
-<p>Every few months:</p>
+<h1>احذر من عمليات الاحتيال المتعلقة بمسؤولي التوظيف والوظائف</h1>
+<p>قد يجذب الملف الشخصي القابل للاكتشاف اتصالات احتيالية.
+تشمل العلامات التحذيرية ما يلي:</p>
 <ul>
-<li>add meaningful accomplishments;</li>
-<li>update skills;</li>
-<li>remove obsolete tools;</li>
-<li>fix broken links;</li>
-<li>update project screenshots;</li>
-<li>review your summary;</li>
-<li>confirm work preferences;</li>
-<li>add new writing or talks;</li>
-<li>verify contact information.</li>
+<li>عروض دون مقابلات؛</li>
+<li>أجر مرتفع بشكل غير عادي مقابل عمل غامض؛</li>
+<li>التواصل عبر الدردشة المشفرة فقط؛</li>
+<li>نطاقات البريد الإلكتروني الشخصية؛</li>
+<li>طلبات دفع ثمن المعدات؛</li>
+<li>إرسال شيكات مقابل المشتريات؛</li>
+<li>طلبات الحصول على التفاصيل المصرفية قبل تقديم عرض عمل شرعي؛</li>
+<li>طلبات تقديم وثائق الهوية في وقت مبكر بشكل غير معتاد؛</li>
+<li>مواقع إلكترونية مزيفة للشركات؛</li>
+<li>مسؤولو التوظيف الذين لا يمكن التحقق من هويتهم.
+تحقق من:</li>
+<li>نطاق الشركة؛</li>
+<li>هوية مسؤول التوظيف؛</li>
+<li>صفحة الوظائف؛</li>
+<li>الإعلان الرسمي عن الوظيفة؛</li>
+<li>وجود الشركة العلني.
+لا تدفع أبدًا مقابل الحصول على وظيفة.</li>
 </ul>
-<p>Updating gradually produces better detail than trying to remember three years of work during a stressful job search.</p>
-<h1>Maintain a private achievement log</h1>
-<p>Keep a private record of:</p>
+<h1>استخدم أدوات الذكاء الاصطناعي بحذر عند تحسين ملفك الشخصي</h1>
+<p>يمكن أن يساعدك الذكاء الاصطناعي في:</p>
 <ul>
-<li>projects;</li>
-<li>metrics;</li>
-<li>technical decisions;</li>
-<li>incidents;</li>
-<li>feedback;</li>
-<li>mentoring;</li>
-<li>launches;</li>
-<li>improvements;</li>
-<li>promotions;</li>
-<li>customer outcomes.</li>
+<li>تقصير النص؛</li>
+<li>تنظيم الأقسام؛</li>
+<li>تحديد العبارات الغامضة؛</li>
+<li>إنشاء عناوين بديلة؛</li>
+<li>تحسين القواعد النحوية؛</li>
+<li>تحويل الملاحظات إلى نقاط مسودة؛</li>
+<li>مقارنة ملفك الشخصي مع الوصف الوظيفي.
+تظل مسؤولاً عن كل ادعاء.
+لا تسمح لأداة الذكاء الاصطناعي بما يلي:</li>
+<li>اختلاق المقاييس؛</li>
+<li>إضافة تقنيات لم تستخدمها؛</li>
+<li>تضخيم مستواك؛</li>
+<li>اختلاق خبرات قيادية؛</li>
+<li>الكشف عن معلومات سرية؛</li>
+<li>تحويل العمل الجماعي إلى إنجاز فردي.
+إليك عملية مفيدة:</li>
 </ul>
-<p>Record enough context to write truthful profile bullets later.</p>
-<p>Do not store confidential company information in an insecure personal system.</p>
-<p>A simple entry might include:</p>
-<ul>
-<li>problem;</li>
-<li>your role;</li>
-<li>action;</li>
-<li>technology;</li>
-<li>result;</li>
-<li>approved public wording.</li>
-</ul>
-<h1>Shape recruiter outreach through specificity</h1>
-<p>A vague profile may attract more messages but lower relevance.</p>
-<p>A precise profile can produce fewer, better conversations.</p>
-<p>Consider stating:</p>
-<ul>
-<li>target role;</li>
-<li>preferred technologies;</li>
-<li>employment type;</li>
-<li>work location;</li>
-<li>level;</li>
-<li>industries of interest;</li>
-<li>excluded arrangements.</li>
-</ul>
-<p>Example:</p>
-<blockquote>
-<p>Interested in senior backend or platform roles using Go, TypeScript, or Rust. Remote US only. Not pursuing management, relocation, or short-term agency contracts.</p>
-</blockquote>
-<p>Some recruiters will ignore preferences.</p>
-<p>Many will not.</p>
-<p>The profile still improves the filtering process.</p>
-<h1>Decide how public you want the search to be</h1>
-<p>Depending on your situation, you may choose:</p>
-<ul>
-<li>publicly open to work;</li>
-<li>visible only to recruiters;</li>
-<li>no explicit status;</li>
-<li>targeted outreach only.</li>
-</ul>
-<p>Consider:</p>
-<ul>
-<li>current employer policies;</li>
-<li>professional relationships;</li>
-<li>privacy;</li>
-<li>urgency;</li>
-<li>desired message volume.</li>
-</ul>
-<p>You can still improve searchability without announcing an active job search publicly.</p>
-<h1>Use activity strategically</h1>
-<p>You do not need to post daily.</p>
-<p>Useful activity may include:</p>
-<ul>
-<li>sharing a technical lesson;</li>
-<li>commenting thoughtfully on engineering discussions;</li>
-<li>publishing a project update;</li>
-<li>writing a short case study;</li>
-<li>congratulating teammates;</li>
-<li>participating in open source;</li>
-<li>answering a useful technical question.</li>
-</ul>
-<p>Avoid turning your profile into a stream of generic motivational content unrelated to your work.</p>
-<p>Consistency and relevance matter more than frequency.</p>
-<h1>Review privacy and security settings</h1>
-<p>Check:</p>
-<ul>
-<li>who can see your email;</li>
-<li>who can message you;</li>
-<li>whether your employer sees activity;</li>
-<li>whether contact details are public;</li>
-<li>whether uploaded documents expose personal information;</li>
-<li>whether portfolio projects contain secrets;</li>
-<li>whether location details are more precise than necessary.</li>
-</ul>
-<p>Do not publish:</p>
-<ul>
-<li>full home address;</li>
-<li>date of birth;</li>
-<li>government identification;</li>
-<li>bank information;</li>
-<li>private phone number unless intentional;</li>
-<li>confidential employment documents.</li>
-</ul>
-<h1>Watch for recruiter and job scams</h1>
-<p>A discoverable profile may attract fraudulent contact.</p>
-<p>Warning signs include:</p>
-<ul>
-<li>offers without interviews;</li>
-<li>unusually high compensation for vague work;</li>
-<li>communication only through encrypted chat;</li>
-<li>personal email domains;</li>
-<li>requests to pay for equipment;</li>
-<li>checks sent for purchases;</li>
-<li>requests for banking details before a legitimate offer;</li>
-<li>requests for identity documents unusually early;</li>
-<li>cloned company websites;</li>
-<li>recruiters who cannot be verified.</li>
-</ul>
-<p>Verify:</p>
-<ul>
-<li>company domain;</li>
-<li>recruiter identity;</li>
-<li>careers page;</li>
-<li>official job listing;</li>
-<li>public company presence.</li>
-</ul>
-<p>Never pay to receive a job.</p>
-<h1>Use AI tools carefully when improving your profile</h1>
-<p>AI can help you:</p>
-<ul>
-<li>shorten text;</li>
-<li>organize sections;</li>
-<li>identify vague phrases;</li>
-<li>generate alternative headlines;</li>
-<li>improve grammar;</li>
-<li>turn notes into draft bullets;</li>
-<li>compare your profile with job descriptions.</li>
-</ul>
-<p>You remain responsible for every claim.</p>
-<p>Do not allow an AI tool to:</p>
-<ul>
-<li>invent metrics;</li>
-<li>add technologies you have not used;</li>
-<li>inflate your level;</li>
-<li>fabricate leadership;</li>
-<li>expose confidential information;</li>
-<li>transform team work into individual ownership.</li>
-</ul>
-<p>A useful process is:</p>
 <ol>
-<li>Write factual notes.</li>
-<li>Ask AI to organize them.</li>
-<li>Verify every sentence.</li>
-<li>restore your natural voice;</li>
-<li>Remove exaggeration.</li>
-<li>Confirm confidentiality.</li>
+<li>اكتب ملاحظات تستند إلى الحقائق.</li>
+<li>اطلب من الذكاء الاصطناعي تنظيمها.</li>
+<li>تحقق من كل جملة.</li>
+<li>استعد أسلوبك الطبيعي؛</li>
+<li>تخلص من المبالغة.</li>
+<li>تأكد من السرية.</li>
 </ol>
-<h1>Ask another person to perform the ten-second test</h1>
-<p>Give your profile to:</p>
+<h1>اطلب من شخص آخر إجراء «اختبار العشر ثوان»</h1>
+<p>اعرض ملفك الشخصي على:</p>
 <ul>
-<li>a developer;</li>
-<li>hiring manager;</li>
-<li>recruiter;</li>
-<li>mentor;</li>
-<li>trusted peer.</li>
+<li>مطور برمجيات؛</li>
+<li>مدير التوظيف؛</li>
+<li>مسؤول التوظيف؛</li>
+<li>مرشد؛</li>
+<li>زميل موثوق به.
+اطلب منهم الاطلاع عليه لمدة عشر ثوانٍ ثم الإجابة على الأسئلة التالية:</li>
+<li>أي نوع من المطورين أنا؟</li>
+<li>ما المستوى الذي أبدو عليه؟</li>
+<li>ما التقنيات التي أستخدمها؟</li>
+<li>ما المشكلات التي أحلها؟</li>
+<li>ما الدور الذي أريده؟</li>
+<li>أين يمكنني العمل؟</li>
+<li>ما الأدلة التي برزت؟
+تكشف إجاباتهم عما ينقله ملفك الشخصي فعليًّا.</li>
 </ul>
-<p>Ask them to look for ten seconds and then answer:</p>
+<h1>تدقيق قابلية البحث</h1>
+<p>ابحث في نص ملفك الشخصي عن المصطلحات المرتبطة بالدور الذي تستهدفه.
+على سبيل المثال, قد يتوقع مهندس خلفي رفيع المستوى أن يجد:</p>
 <ul>
-<li>What kind of developer am I?</li>
-<li>What level do I appear to be?</li>
-<li>Which technologies do I use?</li>
-<li>What problems do I solve?</li>
-<li>What role do I want?</li>
-<li>Where can I work?</li>
-<li>What evidence stood out?</li>
-</ul>
-<p>Their answers reveal what your profile actually communicates.</p>
-<h1>Audit searchability</h1>
-<p>Search your profile text for the terms associated with your target role.</p>
-<p>For example, a senior backend engineer might expect to find:</p>
-<ul>
-<li>Senior Backend Engineer</li>
-<li>API design</li>
+<li>مهندس خلفي رفيع المستوى</li>
+<li>تصميم واجهة برمجة التطبيقات (API)</li>
 <li>PostgreSQL</li>
-<li>distributed systems</li>
-<li>observability</li>
+<li>الأنظمة الموزعة</li>
+<li>قابلية المراقبة</li>
 <li>AWS</li>
-<li>testing</li>
-<li>production</li>
-<li>incident response</li>
-<li>mentoring</li>
+<li>الاختبار</li>
+<li>الإنتاج</li>
+<li>الاستجابة للحوادث</li>
+<li>التوجيه
+قد يتوقع مطور تطبيقات الجوال:</li>
+<li>iOS أو Android</li>
+<li>Swift أو Kotlin</li>
+<li>SwiftUI أو Jetpack Compose</li>
+<li>App Store أو Google Play</li>
+<li>أداء الأجهزة المحمولة</li>
+<li>السلوك في وضع عدم الاتصال</li>
+<li>الإبلاغ عن الأعطال</li>
+<li>إمكانية الوصول</li>
+<li>إدارة الإصدارات
+أضف فقط المصطلحات التي تصف عملك بصدق.</li>
 </ul>
-<p>A mobile developer might expect:</p>
+<h1>هيكل ملف تعريف كامل</h1>
+<p>قد يتبع ملف تعريف المطور المفيد الترتيب التالي:</p>
+<h2>الاسم</h2>
+<p>استخدم الاسم المهني الذي تستخدمه باستمرار في جميع التطبيقات.</p>
+<h2>العنوان</h2>
+<p>اذكر الدور والتخصص والتقنيات والتفضيلات ذات الصلة.</p>
+<h2>الموقع وتفضيلات العمل</h2>
+<p>أدرج المدينة أو المنطقة, والمنطقة الزمنية, وحالة العمل عن بُعد, وتفضيلات الانتقال.</p>
+<h2>الملخص</h2>
+<p>اشرح:</p>
 <ul>
-<li>iOS or Android</li>
-<li>Swift or Kotlin</li>
-<li>SwiftUI or Jetpack Compose</li>
-<li>App Store or Google Play</li>
-<li>mobile performance</li>
-<li>offline behavior</li>
-<li>crash reporting</li>
-<li>accessibility</li>
-<li>release management</li>
+<li>ماذا تفعل؛</li>
+<li>الأدلة؛</li>
+<li>ماذا تريد.</li>
 </ul>
-<p>Add only terms that truthfully describe your work.</p>
-<h1>A complete profile structure</h1>
-<p>A useful developer profile may follow this order:</p>
-<h2>Name</h2>
-<p>Use the professional name you consistently use across applications.</p>
-<h2>Headline</h2>
-<p>State role, specialty, technologies, and relevant preference.</p>
-<h2>Location and work preference</h2>
-<p>Include city or region, time zone, remote status, and relocation preference.</p>
-<h2>Summary</h2>
-<p>Explain:</p>
-<ul>
-<li>what you do;</li>
-<li>evidence;</li>
-<li>what you want.</li>
-</ul>
-<h2>Core skills</h2>
-<p>Group and order relevant skills.</p>
-<h2>Experience</h2>
-<p>Use impact-focused bullets.</p>
-<h2>Featured projects</h2>
-<p>Show proof of work.</p>
-<h2>Education and training</h2>
-<p>Include relevant degrees, courses, apprenticeships, or certifications.</p>
-<h2>Open source and community work</h2>
-<p>Include meaningful contributions.</p>
-<h2>Writing and talks</h2>
-<p>Add technical communication evidence.</p>
-<h2>Links and contact</h2>
-<p>Make the next step easy.</p>
-<h1>Sample backend developer profile</h1>
-<h2>Headline</h2>
+<h2>المهارات الأساسية</h2>
+<p>صنف المهارات ذات الصلة ورتبها.</p>
+<h2>الخبرة</h2>
+<p>استخدم نقاطًا تركز على التأثير.</p>
+<h2>المشاريع البارزة</h2>
+<p>اعرض أدلة على عملك.</p>
+<h2>التعليم والتدريب</h2>
+<p>أدرج الشهادات الأكاديمية أو الدورات التدريبية أو برامج التلمذة الصناعية أو الشهادات ذات الصلة.</p>
+<h2>العمل في مجال البرمجيات مفتوحة المصدر والمجتمع</h2>
+<p>أدرج المساهمات ذات الأهمية.</p>
+<h2>الكتابة والمحاضرات</h2>
+<p>أضف أدلة على قدراتك في التواصل التقني.</p>
+<h2>الروابط وبيانات الاتصال</h2>
+<p>اجعل الخطوة التالية سهلة.</p>
+<h1>نموذج لملف تعريف مطور البايند</h1>
+<h2>العنوان</h2>
 <blockquote>
-<p>Senior Backend Engineer · TypeScript, PostgreSQL, distributed services · Remote US</p>
+<p>مهندس بايند أول · TypeScript, PostgreSQL, الخدمات الموزعة · العمل عن بُعد في الولايات المتحدة</p>
 </blockquote>
-<h2>Summary</h2>
+<h2>الملخص</h2>
 <blockquote>
-<p>I build backend systems for subscription and marketplace products using TypeScript, Node.js, PostgreSQL, and AWS. My strongest work is in API design, data integrity, background processing, observability, and production debugging.</p>
-<p>At Acme, I redesigned the entitlement service used by more than 30,000 customer accounts, reduced duplicate events through idempotency controls, and cut p95 response time from approximately 900 ms to 240 ms.</p>
-<p>I am interested in senior individual-contributor roles where I can own services from design through production. I am open to remote US positions and am not currently pursuing engineering management.</p>
+<p>أقوم ببناء أنظمة البايند لمنتجات الاشتراكات والسوق باستخدام TypeScript وNode.js وPostgreSQL وAWS. تتمثل نقاط قوتي في تصميم واجهات برمجة التطبيقات (API), وسلامة البيانات, والمعالجة في الخلفية, وقابلية المراقبة, وتصحيح الأخطاء في بيئة الإنتاج.</p>
+<p>في شركة Acme, قمت بإعادة تصميم خدمة الاستحقاقات التي يستخدمها أكثر من 30,000 حساب عميل, وقللت الأحداث المكررة من خلال ضوابط التماثلية, وخفضت وقت الاستجابة p95 من حوالي 900 مللي ثانية إلى 240 مللي ثانية.</p>
+<p>أنا مهتم بالوظائف الفردية رفيعة المستوى التي تتيح لي تولي مسؤولية الخدمات من مرحلة التصميم وحتى مرحلة الإنتاج. أنا منفتح على الوظائف عن بُعد في الولايات المتحدة, ولا أسعى حاليًا إلى مناصب في إدارة الهندسة.</p>
 </blockquote>
-<h2>Skills</h2>
+<h2>المهارات</h2>
 <ul>
 <li>TypeScript</li>
 <li>Node.js</li>
 <li>PostgreSQL</li>
-<li>REST APIs</li>
+<li>واجهات برمجة التطبيقات REST (REST APIs)</li>
 <li>GraphQL</li>
 <li>Redis</li>
 <li>AWS</li>
@@ -1376,168 +1270,160 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>OpenTelemetry</li>
 <li>GitHub Actions</li>
 </ul>
-<h1>Sample frontend developer profile</h1>
-<h2>Headline</h2>
+<h1>نموذج لملف تعريف مطور الواجهة الأمامية</h1>
+<h2>العنوان</h2>
 <blockquote>
-<p>Frontend Product Engineer · React, TypeScript, accessibility, design systems</p>
+<p>مهندس منتجات الواجهة الأمامية · React, TypeScript, إمكانية الوصول, أنظمة التصميم</p>
 </blockquote>
-<h2>Summary</h2>
+<h2>الملخص</h2>
 <blockquote>
-<p>I build accessible web applications with React and TypeScript, with a focus on complex product workflows, design systems, performance, and reliable state management.</p>
-<p>I recently led the migration of a customer dashboard into a shared component system, reduced duplicated interface code, and improved keyboard and screen-reader support across the primary account flows.</p>
-<p>I am interested in senior frontend or product-engineering roles at teams that treat accessibility and design quality as engineering responsibilities.</p>
+<p>أقوم بتطوير تطبيقات ويب سهلة الوصول باستخدام React وTypeScript, مع التركيز على سير عمل المنتجات المعقدة, وأنظمة التصميم, والأداء, وإدارة الحالة الموثوقة.</p>
+<p>قمت مؤخرًا بقيادة عملية ترحيل لوحة تحكم العملاء إلى نظام مكونات مشترك, وقللت من تكرار كود الواجهة, وحسّنت دعم لوحة المفاتيح وقارئ الشاشة عبر تدفقات الحسابات الأساسية.</p>
+<p>أنا مهتم بالوظائف العليا في مجال الواجهة الأمامية أو هندسة المنتجات ضمن فرق تعتبر إمكانية الوصول وجودة التصميم من مسؤوليات الهندسة.</p>
 </blockquote>
-<h1>Sample junior developer profile</h1>
-<h2>Headline</h2>
+<h1>نموذج لملف تعريفي لمطور مبتدئ</h1>
+<h2>العنوان</h2>
 <blockquote>
-<p>Junior Full-Stack Developer · React, TypeScript, Node.js, PostgreSQL · Open to entry-level roles</p>
+<p>مطور متكامل مبتدئ · React, TypeScript, Node.js, PostgreSQL · منفتح على الوظائف المبتدئة</p>
 </blockquote>
-<h2>Summary</h2>
+<h2>ملخص</h2>
 <blockquote>
-<p>I am a junior full-stack developer building and deploying TypeScript applications with React, Node.js, and PostgreSQL.</p>
-<p>My primary project is a multi-organization scheduling platform with account authentication, role-based permissions, automated tests, and a public deployment. I redesigned the membership model after early users needed access to several organizations.</p>
-<p>Before moving into software development, I worked in operations, where I gained experience documenting workflows, investigating errors, and communicating with nontechnical users. I am looking for a junior role with code review, mentorship, and meaningful production work.</p>
+<p>أنا مطور مبتدئ متكامل (Full-Stack) أقوم بإنشاء ونشر تطبيقات TypeScript باستخدام React وNode.js وPostgreSQL.</p>
+<p>مشروعي الرئيسي هو منصة جدولة متعددة المؤسسات تتضمن مصادقة الحسابات, وأذونات قائمة على الأدوار, واختبارات آلية, ونشر عام. قمت بإعادة تصميم نموذج العضوية بعد أن احتاج المستخدمون الأوائل إلى الوصول إلى عدة مؤسسات.</p>
+<p>قبل الانتقال إلى مجال تطوير البرمجيات, عملت في قسم العمليات, حيث اكتسبت خبرة في توثيق سير العمل, والتحقيق في الأخطاء, والتواصل مع المستخدمين غير التقنيين. أبحث عن وظيفة مبتدئة تتضمن مراجعة الكود, والإرشاد, وأعمال إنتاجية ذات مغزى.</p>
 </blockquote>
-<h1>Profile checklist</h1>
-<p>Before publishing or updating your profile, confirm that:</p>
+<h1>قائمة مراجعة الملف الشخصي</h1>
+<p>قبل نشر ملفك الشخصي أو تحديثه, تأكد من:</p>
 <ul>
-<li>your headline identifies a recognizable role;</li>
-<li>your primary technologies are named;</li>
-<li>your target seniority is accurate;</li>
-<li>your location and work preferences are clear;</li>
-<li>the first summary paragraph explains what you do;</li>
-<li>the summary contains evidence;</li>
-<li>the summary states what you want next;</li>
-<li>experience bullets describe outcomes;</li>
-<li>metrics are truthful;</li>
-<li>skills are ordered by relevance;</li>
-<li>weak or obsolete skills are removed;</li>
-<li>projects include working links;</li>
-<li>project descriptions explain your contribution;</li>
-<li>GitHub repositories are curated;</li>
-<li>dates match your résumé;</li>
-<li>your photo is current where used;</li>
-<li>contact information works;</li>
-<li>private information is protected;</li>
-<li>no confidential company information is exposed;</li>
-<li>spelling and formatting are consistent;</li>
-<li>your availability status is current.</li>
+<li>أن العنوان الرئيسي يحدد دورًا معروفًا؛</li>
+<li>ذكر التقنيات الرئيسية التي تستخدمها؛</li>
+<li>دقة مستوى الخبرة المستهدف؛</li>
+<li>وضوح موقعك وتفضيلاتك الوظيفية؛</li>
+<li>أن الفقرة الأولى من الملخص تشرح ما تقوم به؛</li>
+<li>أن الملخص يحتوي على أدلة؛</li>
+<li>أن الملخص يوضح ما تريده في المرحلة التالية؛</li>
+<li>أن النقاط الخاصة بالخبرة تصف النتائج المحققة؛</li>
+<li>أن المقاييس صحيحة؛</li>
+<li>أن المهارات مرتبة حسب الأهمية؛</li>
+<li>تم حذف المهارات الضعيفة أو التي عفا عليها الزمن؛</li>
+<li>تتضمن المشاريع روابط عاملة؛</li>
+<li>توضح أوصاف المشاريع مساهمتك؛</li>
+<li>تم تنظيم مستودعات GitHub؛</li>
+<li>تتطابق التواريخ مع سيرتك الذاتية؛</li>
+<li>صورتك حديثة حيثما استُخدمت؛</li>
+<li>معلومات الاتصال صالحة؛</li>
+<li>المعلومات الخاصة محمية؛</li>
+<li>لم يتم الكشف عن أي معلومات سرية تخص الشركة؛</li>
+<li>التهجئة والتنسيق متسقان؛</li>
+<li>حالة توفرك حديثة.</li>
 </ul>
-<h1>Ten-second skim checklist</h1>
-<p>At the top of the profile, a reader should be able to identify:</p>
+<h1>قائمة مراجعة سريعة في عشر ثوانٍ</h1>
+<p>في الجزء العلوي من الملف الشخصي, يجب أن يتمكن القارئ من تحديد:</p>
 <ul>
-<li>role;</li>
-<li>level;</li>
-<li>specialty;</li>
-<li>primary technologies;</li>
-<li>location;</li>
-<li>remote preference;</li>
-<li>one credibility signal;</li>
-<li>availability.</li>
+<li>الدور؛</li>
+<li>المستوى؛</li>
+<li>التخصص؛</li>
+<li>التقنيات الأساسية؛</li>
+<li>الموقع؛</li>
+<li>تفضيل العمل عن بُعد؛</li>
+<li>مؤشر واحد على المصداقية؛</li>
+<li>التوافر.
+إذا كان أحد هذه العناصر مفقودًا, فقرر ما إذا كان يجب إضافته.</li>
 </ul>
-<p>If one of these is missing, decide whether it should be added.</p>
-<h1>Quarterly maintenance checklist</h1>
-<p>Every three months:</p>
+<h1>قائمة مراجعة الصيانة الفصلية</h1>
+<p>كل ثلاثة أشهر:</p>
 <ul>
-<li>update your current role;</li>
-<li>add one meaningful achievement;</li>
-<li>review skills;</li>
-<li>remove outdated preferences;</li>
-<li>test public links;</li>
-<li>update projects;</li>
-<li>check message settings;</li>
-<li>review the summary;</li>
-<li>verify availability;</li>
-<li>review privacy;</li>
-<li>compare the profile with current target roles.</li>
+<li>قم بتحديث دورك الحالي؛</li>
+<li>أضف إنجازًا واحدًا ذا مغزى؛</li>
+<li>راجع المهارات؛</li>
+<li>احذف التفضيلات التي عفا عليها الزمن؛</li>
+<li>اختبر الروابط العامة؛</li>
+<li>قم بتحديث المشاريع؛</li>
+<li>تحقق من إعدادات الرسائل؛</li>
+<li>راجع الملخص؛</li>
+<li>تحقق من التوافر؛</li>
+<li>راجع إعدادات الخصوصية؛</li>
+<li>قارن الملف الشخصي بالأدوار المستهدفة الحالية.</li>
 </ul>
-<h1>Common profile mistakes</h1>
-<h2>Using only an employer title</h2>
-<p>The headline provides no searchable specialization.</p>
-<h2>Writing a summary full of adjectives</h2>
-<p>The reader sees claims without evidence.</p>
-<h2>Listing every technology ever touched</h2>
-<p>The profile loses focus and credibility.</p>
-<h2>Describing responsibilities instead of outcomes</h2>
-<p>The experience section looks interchangeable with every other candidate.</p>
-<h2>Hiding work preferences</h2>
-<p>Recruiters contact you for roles you cannot accept.</p>
-<h2>Leaving links broken</h2>
-<p>Proof of work becomes a negative signal.</p>
-<h2>Using inconsistent dates</h2>
-<p>The profile creates unnecessary doubt.</p>
-<h2>Claiming team work as personal ownership</h2>
-<p>Trust declines during the interview.</p>
-<h2>Waiting until an emergency to update</h2>
-<p>Important achievements are forgotten.</p>
-<h2>Posting constantly without substance</h2>
-<p>Activity creates noise rather than credibility.</p>
-<h2>Copying AI-generated language without review</h2>
-<p>The profile sounds generic or contains invented claims.</p>
-<h1>Phrases to remove</h1>
-<p>Replace phrases such as:</p>
+<h1>الأخطاء الشائعة في الملف الشخصي</h1>
+<h2>استخدام لقب الوظيفة لدى صاحب العمل فقط</h2>
+<p>العنوان لا يوفر تخصصًا قابلًا للبحث.</p>
+<h2>كتابة ملخص مليء بالصفات</h2>
+<p>يرى القارئ ادعاءات دون أدلة.</p>
+<h2>سرد كل تقنية تعاملت معها من قبل</h2>
+<p>يفقد الملف الشخصي التركيز والمصداقية.</p>
+<h2>وصف المسؤوليات بدلاً من النتائج</h2>
+<p>يبدو قسم الخبرة متشابهًا مع كل مرشح آخر.</p>
+<h2>إخفاء تفضيلات العمل</h2>
+<p>يتصل بك مسؤولو التوظيف بشأن وظائف لا يمكنك قبولها.</p>
+<h2>ترك الروابط معطلة</h2>
+<p>يصبح دليل العمل إشارة سلبية.</p>
+<h2>استخدام تواريخ غير متسقة</h2>
+<p>يخلق الملف الشخصي شكوكًا لا داعي لها.</p>
+<h2>ادعاء العمل الجماعي على أنه إنجاز شخصي</h2>
+<p>تتراجع الثقة خلال المقابلة.</p>
+<h2>الانتظار حتى حدوث حالة طارئة لتحديث الملف</h2>
+<p>يتم نسيان الإنجازات المهمة.</p>
+<h2>النشر المستمر دون مضمون</h2>
+<p>تخلق الأنشطة ضجيجًا بدلًا من المصداقية.</p>
+<h2>نسخ نصوص مولدة بالذكاء الاصطناعي دون مراجعة</h2>
+<p>يبدو الملف الشخصي عامًّا أو يحتوي على ادعاءات مختلقة.</p>
+<h1>العبارات التي يجب إزالتها</h1>
+<p>استبدل عبارات مثل:</p>
 <ul>
-<li>passionate developer;</li>
-<li>coding ninja;</li>
-<li>results-driven professional;</li>
-<li>team player;</li>
-<li>strategic thinker;</li>
-<li>hard worker;</li>
-<li>self-starter;</li>
-<li>dynamic environment;</li>
-<li>innovative solutions;</li>
-<li>excellent communicator;</li>
-<li>extensive experience;</li>
-<li>proven track record;</li>
-<li>cutting-edge technologies.</li>
+<li>مطور شغوف؛</li>
+<li>خبير البرمجة؛</li>
+<li>محترف يركز على النتائج؛</li>
+<li>لاعب فريق؛</li>
+<li>مفكر استراتيجي؛</li>
+<li>مجتهد؛</li>
+<li>مبادر؛</li>
+<li>بيئة ديناميكية؛</li>
+<li>حلول مبتكرة؛</li>
+<li>متواصل ممتاز؛</li>
+<li>خبرة واسعة؛</li>
+<li>سجل حافل بالإنجازات؛</li>
+<li>تقنيات متطورة.
+استبدلها بأدلة.
+بدلاً من:</li>
 </ul>
-<p>Replace them with evidence.</p>
-<p>Instead of:</p>
 <blockquote>
-<p>Excellent communicator</p>
+<p>متواصل ممتاز
+اكتب:
+كتب مقترحات التنفيذ وعمليات التسليم غير المتزامنة لفريق يعمل عبر أربع مناطق زمنية.
+بدلاً من:
+مهندس يركز على النتائج
+اكتب:
+خفض حالات فشل النشر بنسبة 38% بعد إدخال عمليات التحقق من الصحة قبل الإصدار وفحوصات التراجع.</p>
 </blockquote>
-<p>write:</p>
-<blockquote>
-<p>Wrote implementation proposals and asynchronous handoffs for a team working across four time zones.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>Results-driven engineer</p>
-</blockquote>
-<p>write:</p>
-<blockquote>
-<p>Reduced deployment failures by 38% after introducing pre-release validation and rollback checks.</p>
-</blockquote>
-<h1>The takeaway</h1>
-<p>A developer profile has two primary jobs:</p>
+<h1>النقطة الأساسية</h1>
+<p>لملف تعريف المطور مهمتان أساسيتان:</p>
 <ol>
-<li>Appear in relevant searches.</li>
-<li>Give the reader enough confidence to contact you.</li>
+<li>الظهور في عمليات البحث ذات الصلة.</li>
+<li>منح القارئ الثقة الكافية للاتصال بك.
+لتحقيق كلا الهدفين:</li>
 </ol>
-<p>To accomplish both:</p>
 <ul>
-<li>choose a clear target identity;</li>
-<li>use a recognizable professional title;</li>
-<li>name technologies accurately;</li>
-<li>write a headline that communicates role and specialty;</li>
-<li>keep the summary short, specific, and human;</li>
-<li>include one or two concrete outcomes;</li>
-<li>state what you want next;</li>
-<li>turn responsibilities into evidence;</li>
-<li>order skills according to your target role;</li>
-<li>show projects and real work;</li>
-<li>make location and employment preferences clear;</li>
-<li>keep dates and claims accurate;</li>
-<li>protect confidential information;</li>
-<li>maintain the profile before the next urgent job search.</li>
+<li>اختر هوية مستهدفة واضحة؛</li>
+<li>استخدم لقبًا مهنيًّا معروفًا؛</li>
+<li>اذكر التقنيات بدقة؛</li>
+<li>اكتب عنوانًا يوضح الدور والتخصص؛</li>
+<li>اجعل الملخص قصيرًا ومحددًا وذو طابع إنساني؛</li>
+<li>أدرج نتيجة أو نتيجتين ملموستين؛</li>
+<li>حدد ما تريده في المرحلة التالية؛</li>
+<li>حوّل المسؤوليات إلى أدلة ملموسة؛</li>
+<li>رتب المهارات وفقًا للدور الذي تستهدفه؛</li>
+<li>اعرض المشاريع والأعمال الفعلية؛</li>
+<li>أوضح تفضيلاتك فيما يتعلق بالموقع والعمل؛</li>
+<li>حافظ على دقة التواريخ والبيانات؛</li>
+<li>احرص على حماية المعلومات السرية؛</li>
+<li>حافظ على تحديث ملفك الشخصي قبل البحث العاجل التالي عن وظيفة.
+الهدف ليس تحقيق أقصى قدر من الظهور.
+بل هو <strong>الظهور ذو الصلة</strong>.
+لست بحاجة إلى أن يعثر عليك كل مسؤول توظيف.
+بل تحتاج إلى أن تفهم فرق التوظيف المناسبة ما يمكنك القيام به, وما تريد القيام به بعد ذلك, ولماذا يستحق الأمر أن يخصصوا وقتهم لبدء محادثة معك.
+<em>هل أنت مستعد لتسهيل اكتشافك من قبل الشركات المناسبة؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا مجانيًّا للمطورين على JobsList.dev</a>, واعرض مهاراتك ومشاريعك بوضوح, وتواصل مباشرةً مع الفرق التي توظف المواهب التقنية.</em></li>
 </ul>
-<p>The goal is not maximum visibility.</p>
-<p>It is <strong>relevant visibility</strong>.</p>
-<p>You do not need every recruiter to find you.</p>
-<p>You need the right hiring teams to understand what you can do, what you want to do next, and why beginning a conversation with you is worth their time.</p>
-<p><em>Ready to become easier for the right companies to discover? <a href="/auth/register?role=EMPLOYEE">Create a free developer profile on JobsList.dev</a>, present your skills and projects clearly, and connect directly with teams hiring technical talent.</em></p>
-5:["locale","ar","d"]
-6:["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-developers-should-set-up-a-profile-that-recruiters-actually-find\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-developers-should-set-up-a-profile-that-recruiters-actually-find","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Developers Should Set Up a Profile That Recruiters Actually Find\",\"description\":\"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam.\",\"datePublished\":\"2026-07-04T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How Developers Should Set Up a Profile That Recruiters Actually Find","date":"2026-07-04T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":32,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How Developers Should Set Up a Profile That Recruiters Actually Find | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How Developers Should Set Up a Profile That Recruiters Actually Find"}],["$","meta","15",{"property":"og:description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-04T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How Developers Should Set Up a Profile That Recruiters Actually Find"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide for developers who want to build a searchable professional profile, communicate their value quickly, showcase credible work, and attract relevant opportunities instead of generic recruiter spam."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا\",\"description\":\"دليل عملي للمطورين الراغبين في إنشاء ملف تعريفي مهني قابل للبحث, وإبراز قيمتهم بسرعة, وعرض أعمال موثوقة, وجذب الفرص ذات الصلة بدلاً من الرسائل غير المرغوب فيها العامة التي يرسلها مسؤولو التوظيف.\",\"image\":[\"https://jobslist.dev/images/blog/en/how-developers-should-set-up-a-profile-that-recruiters-actually-find.png\"],\"datePublished\":\"2026-07-04T00:00:00.000Z\",\"dateModified\":\"2026-07-04T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/how-developers-should-set-up-a-profile-that-recruiters-actually-find/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/images/blog/en/how-developers-should-set-up-a-profile-that-recruiters-actually-find.png","alt":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي للمطورين الراغبين في إنشاء ملف تعريفي مهني قابل للبحث, وإبراز قيمتهم بسرعة, وعرض أعمال موثوقة, وجذب الفرص ذات الصلة بدلاً من الرسائل غير المرغوب فيها العامة التي يرسلها مسؤولو التوظيف."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-04T00:00:00.000Z","children":"3 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[35," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span","الملف الشخصي المهني",{"className":"badge-gray","children":"الملف الشخصي المهني"}],["$","span","العلامة التجارية الشخصية",{"className":"badge-gray","children":"العلامة التجارية الشخصية"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي للمطورين الراغبين في إنشاء ملف تعريفي مهني قابل للبحث, وإبراز قيمتهم بسرعة, وعرض أعمال موثوقة, وجذب الفرص ذات الصلة بدلاً من الرسائل غير المرغوب فيها العامة التي يرسلها مسؤولو التوظيف."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا"}],["$","meta","15",{"property":"og:description","content":"دليل عملي للمطورين الراغبين في إنشاء ملف تعريفي مهني قابل للبحث, وإبراز قيمتهم بسرعة, وعرض أعمال موثوقة, وجذب الفرص ذات الصلة بدلاً من الرسائل غير المرغوب فيها العامة التي يرسلها مسؤولو التوظيف."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/how-developers-should-set-up-a-profile-that-recruiters-actually-find/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/how-developers-should-set-up-a-profile-that-recruiters-actually-find.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا — JobsList.dev Reading Room"}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-04T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي للمطورين الراغبين في إنشاء ملف تعريفي مهني قابل للبحث, وإبراز قيمتهم بسرعة, وعرض أعمال موثوقة, وجذب الفرص ذات الصلة بدلاً من الرسائل غير المرغوب فيها العامة التي يرسلها مسؤولو التوظيف."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/how-developers-should-set-up-a-profile-that-recruiters-actually-find.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"كيف ينبغي للمطورين إنشاء ملف تعريفي يستطيع مسؤولو التوظيف العثور عليه فعليًّا — JobsList.dev Reading Room"}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

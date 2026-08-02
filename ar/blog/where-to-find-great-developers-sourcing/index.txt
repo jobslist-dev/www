@@ -1,1567 +1,1542 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Td87f,<hr>
-<p>Finding great developers is not simply a matter of publishing a job and waiting for applications.</p>
-<p>Some excellent engineers are actively searching and will respond quickly to a clear, relevant opportunity. Others are employed, selective, and not browsing job boards every day. Many become open to a conversation only when the right role reaches them through a trusted platform, professional community, colleague, technical project, or thoughtful message.</p>
-<p>A strong sourcing strategy must therefore reach both:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","where-to-find-great-developers-sourcing","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"where-to-find-great-developers-sourcing\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T1562f,<p>العثور على مطورين متميزين ليس مجرد مسألة نشر إعلان وظيفة وانتظار الطلبات.</p>
+<p>بعض المهندسين المتميزين يبحثون بنشاط عن فرص عمل وسيستجيبون بسرعة لفرصة واضحة وذات صلة. والبعض الآخر يعملون بالفعل, وهم انتقائيون ولا يتصفحون مواقع الوظائف يوميًا. ويصبح الكثيرون منفتحين على إجراء محادثة فقط عندما تصلهم الوظيفة المناسبة عبر منصة موثوقة, أو مجتمع مهني, أو زميل, أو مشروع تقني, أو رسالة مدروسة.</p>
+<p>لذلك, يجب أن تصل استراتيجية التوظيف القوية إلى كل من:</p>
 <ul>
-<li><strong>active candidates</strong> who are looking now;</li>
-<li><strong>passive candidates</strong> who may consider the right opportunity;</li>
-<li><strong>future candidates</strong> who are not ready today but could become strong hires later.</li>
+<li><strong>المرشحين النشطين</strong> الذين يبحثون عن وظيفة حالياً؛</li>
+<li><strong>المرشحين غير النشطين</strong> الذين قد يفكرون في الفرصة المناسبة؛</li>
+<li><strong>المرشحين المستقبليين</strong> الذين ليسوا مستعدين اليوم ولكن قد يصبحون موظفين متميزين لاحقاً.</li>
 </ul>
-<p>The objective is not to collect the largest possible number of résumés.</p>
-<p>It is to build a reliable pipeline of people who:</p>
+<p>الهدف ليس جمع أكبر عدد ممكن من السير الذاتية.</p>
+<p>بل هو بناء قاعدة موثوقة من الأشخاص الذين:</p>
 <ul>
-<li>have relevant skills or transferable ability;</li>
-<li>understand the opportunity;</li>
-<li>meet the practical requirements;</li>
-<li>are genuinely interested;</li>
-<li>can succeed in the role;</li>
-<li>receive a respectful hiring experience.</li>
+<li>يمتلكون المهارات ذات الصلة أو القدرات القابلة للتطبيق في مجالات أخرى؛</li>
+<li>يفهمون طبيعة الفرصة المتاحة؛</li>
+<li>يستوفون المتطلبات العملية؛</li>
+<li>يبدون اهتمامًا حقيقيًّا؛</li>
+<li>قادرون على النجاح في هذا المنصب؛</li>
+<li>يحظون بتجربة توظيف تتسم بالاحترام.</li>
 </ul>
-<p>That requires more than one sourcing channel.</p>
-<p>It requires a deliberate system.</p>
-<h2>Start by defining who you are trying to find</h2>
-<p>Sourcing becomes ineffective when the role is vague.</p>
-<p>A request such as:</p>
+<p>وهذا يتطلب أكثر من قناة واحدة للبحث عن المرشحين.</p>
+<p>بل يتطلب نظامًا مدروسًا.</p>
+<h2>ابدأ بتحديد هوية الشخص الذي تسعى للعثور عليه</h2>
+<p>يصبح البحث عن المرشحين غير فعال عندما يكون الوصف الوظيفي غامضًا.</p>
+<p>طلب مثل:</p>
 <blockquote>
-<p>Find us a senior full-stack developer.</p>
+<p>ابحثوا لنا عن مطور كبار متخصص في البرمجة الشاملة (full-stack).</p>
 </blockquote>
-<p>leaves too many unanswered questions.</p>
-<p>Before searching, clarify:</p>
+<p>يترك الكثير من الأسئلة دون إجابة.</p>
+<p>قبل البدء في البحث, قم بتوضيح ما يلي:</p>
 <ul>
-<li>What will the person build?</li>
-<li>Which problems will they own?</li>
-<li>What level of independence is required?</li>
-<li>Which technical competencies are essential?</li>
-<li>Which technologies can be learned?</li>
-<li>Is the role remote, hybrid, or on-site?</li>
-<li>Which locations are supported?</li>
-<li>What is the compensation range?</li>
-<li>Is work authorization or sponsorship available?</li>
-<li>What does success look like during the first year?</li>
-<li>Why would a strong developer leave another job for this one?</li>
+<li>ما الذي سيقوم هذا الشخص بتطويره؟</li>
+<li>ما هي المشكلات التي سيتولى مسؤوليتها؟</li>
+<li>ما هو مستوى الاستقلالية المطلوب؟</li>
+<li>ما هي الكفاءات التقنية الأساسية؟</li>
+<li>ما هي التقنيات التي يمكن تعلمها؟</li>
+<li>هل المنصب عن بُعد, أم مختلط, أم في الموقع؟</li>
+<li>ما هي المواقع المدعومة؟</li>
+<li>ما هو نطاق الأجر؟</li>
+<li>هل تتوفر رخصة عمل أو رعاية؟</li>
+<li>كيف يبدو النجاح خلال السنة الأولى؟</li>
+<li>لماذا قد يترك مطور متميز وظيفته الحالية من أجل هذه الوظيفة؟</li>
 </ul>
-<p>A precise role creates a precise search.</p>
-<h2>Build a sourcing profile</h2>
-<p>A sourcing profile is a practical description of the person who could succeed in the role.</p>
-<p>It should include more than keywords.</p>
-<p>For example:</p>
-<h3>Role mission</h3>
-<p>Own and improve the backend services responsible for customer subscriptions, billing, and payment recovery.</p>
-<h3>Required capabilities</h3>
+<p>الوصف الدقيق للوظيفة يؤدي إلى بحث دقيق.</p>
+<h2>إنشاء ملف تعريفي للتوظيف</h2>
+<p>ملف التعريف للتوظيف هو وصف عملي للشخص الذي يمكنه النجاح في هذه الوظيفة.</p>
+<p>يجب أن يتضمن أكثر من مجرد كلمات مفتاحية.</p>
+<p>على سبيل المثال:</p>
+<h3>مهمة الدور</h3>
+<p>تولي مسؤولية خدمات الباك إند المسؤولة عن اشتراكات العملاء والفوترة واسترداد المدفوعات, والعمل على تحسينها.</p>
+<h3>القدرات المطلوبة</h3>
 <ul>
-<li>production backend development;</li>
-<li>API and relational data modeling;</li>
-<li>testing and debugging;</li>
-<li>reliability and error handling;</li>
-<li>clear technical communication;</li>
-<li>independent ownership appropriate to a senior engineer.</li>
+<li>تطوير البنية الخلفية للإنتاج؛</li>
+<li>نمذجة واجهات برمجة التطبيقات (API) والبيانات العلائقية؛</li>
+<li>الاختبار وتصحيح الأخطاء؛</li>
+<li>الموثوقية ومعالجة الأخطاء؛</li>
+<li>التواصل الفني الواضح؛</li>
+<li>تحمل المسؤولية بشكل مستقل بما يتناسب مع منصب مهندس أول.</li>
 </ul>
-<h3>Transferable experience</h3>
-<p>Candidates may come from:</p>
+<h3>الخبرة القابلة للتطبيق</h3>
+<p>يمكن أن يكون المرشحون من المجالات التالية:</p>
 <ul>
-<li>payments;</li>
-<li>ecommerce;</li>
-<li>financial software;</li>
-<li>account management;</li>
-<li>SaaS billing;</li>
-<li>subscription platforms;</li>
-<li>other transactional systems.</li>
+<li>أنظمة الدفع؛</li>
+<li>التجارة الإلكترونية؛</li>
+<li>البرمجيات المالية؛</li>
+<li>إدارة الحسابات؛</li>
+<li>الفوترة في نموذج SaaS؛</li>
+<li>منصات الاشتراكات؛</li>
+<li>أنظمة المعاملات الأخرى.</li>
 </ul>
-<h3>Learnable tools</h3>
-<p>The company uses TypeScript, PostgreSQL, Redis, and AWS, but strong experience with comparable technologies may be acceptable.</p>
-<h3>Practical constraints</h3>
+<h3>الأدوات القابلة للتعلم</h3>
+<p>تستخدم الشركة TypeScript وPostgreSQL وRedis وAWS, ولكن قد تُقبل خبرة قوية في تقنيات مماثلة.</p>
+<h3>القيود العملية</h3>
 <ul>
-<li>remote within supported countries;</li>
-<li>four hours of overlap with US Eastern Time;</li>
-<li>base salary of $150,000–$180,000;</li>
-<li>no current visa sponsorship.</li>
+<li>العمل عن بُعد من داخل البلدان المدعومة؛</li>
+<li>تداخل أربع ساعات مع التوقيت الشرقي للولايات المتحدة؛</li>
+<li>راتب أساسي يتراوح بين 150,000 و180,000 دولار؛</li>
+<li>لا توجد رعاية حالية للحصول على تأشيرة.</li>
 </ul>
-<p>This profile gives recruiters, hiring managers, and sourcers a shared target.</p>
-<h2>Avoid searching for an impossible person</h2>
-<p>Many sourcing plans fail because the target is an unrealistic combination of:</p>
+<p>يوفر هذا الملف الشخصي هدفًا مشتركًا للمسؤولين عن التوظيف ومديري التوظيف ومستقطبي المواهب.</p>
+<h2>تجنب البحث عن شخص مستحيل</h2>
+<p>تفشل العديد من خطط استقطاب المواهب لأن الهدف يمثل مزيجًا غير واقعي من:</p>
 <ul>
-<li>rare skills;</li>
-<li>extensive experience;</li>
-<li>low compensation;</li>
-<li>immediate availability;</li>
-<li>narrow location;</li>
-<li>perfect industry background;</li>
-<li>exact stack familiarity;</li>
-<li>leadership ability;</li>
-<li>willingness to accept limited scope.</li>
+<li>مهارات نادرة؛</li>
+<li>خبرة واسعة؛</li>
+<li>أجر منخفض؛</li>
+<li>توفر فوري؛</li>
+<li>موقع محدد؛</li>
+<li>خلفية مثالية في المجال؛</li>
+<li>إلمام تام بمجموعة التقنيات المستخدمة؛</li>
+<li>قدرة قيادية؛</li>
+<li>استعداد لقبول نطاق عمل محدود.</li>
 </ul>
-<p>Review whether every requirement is genuinely necessary.</p>
-<p>Ask:</p>
+<p>راجع ما إذا كانت كل متطلبات الوظيفة ضرورية حقًّا.</p>
+<p>اسأل نفسك:</p>
 <ul>
-<li>Could a capable developer learn this tool?</li>
-<li>Could experience from another industry transfer?</li>
-<li>Is the level consistent with the salary?</li>
-<li>Is the location restriction essential?</li>
-<li>Are we combining several jobs into one?</li>
-<li>Would the role appeal to someone who already has these capabilities?</li>
+<li>هل يمكن لمطور متمكن تعلم استخدام هذه الأداة؟</li>
+<li>هل يمكن الاستفادة من الخبرة المكتسبة في قطاع آخر؟</li>
+<li>هل المستوى الوظيفي متناسب مع الراتب؟</li>
+<li>هل شرط الموقع ضروري؟</li>
+<li>هل ندمج عدة وظائف في وظيفة واحدة؟</li>
+<li>هل ستجذب هذه الوظيفة شخصًا يمتلك هذه القدرات بالفعل؟</li>
 </ul>
-<p>A sourcing problem may actually be a role-design or compensation problem.</p>
-<h2>Understand active, passive, and future candidates</h2>
-<p>Different candidates require different approaches.</p>
-<h2>Active candidates</h2>
-<p>Active candidates are currently looking for work.</p>
-<p>They may be:</p>
+<p>قد تكون مشكلة البحث عن المرشحين في الواقع مشكلة تتعلق بتصميم الوظيفة أو نظام المكافآت.</p>
+<h2>فهم المرشحين النشطين والمرشحين غير النشطين والمرشحين المستقبليين</h2>
+<p>يتطلب كل نوع من المرشحين نهجًا مختلفًا.</p>
+<h2>المرشحون النشطون</h2>
+<p>المرشحون النشطون يبحثون حاليًا عن عمل.</p>
+<p>قد يقومون بما يلي:</p>
 <ul>
-<li>browsing job boards;</li>
-<li>using search engines;</li>
-<li>setting job alerts;</li>
-<li>updating professional profiles;</li>
-<li>contacting former colleagues;</li>
-<li>applying directly to company career pages.</li>
+<li>تصفح مواقع الوظائف؛</li>
+<li>استخدام محركات البحث؛</li>
+<li>إعداد تنبيهات الوظائف؛</li>
+<li>تحديث ملفاتهم المهنية؛</li>
+<li>الاتصال بزملائهم السابقين؛</li>
+<li>التقدم مباشرةً عبر صفحات التوظيف الخاصة بالشركات.</li>
 </ul>
-<p>They usually value:</p>
+<p>وعادةً ما يقدّرون:</p>
 <ul>
-<li>clear role descriptions;</li>
-<li>transparent compensation;</li>
-<li>fast applications;</li>
-<li>prompt responses;</li>
-<li>predictable interview timelines.</li>
+<li>الوصف الواضح للوظيفة؛</li>
+<li>الشفافية في الأجر؛</li>
+<li>سرعة عملية التقديم؛</li>
+<li>الردود السريعة؛</li>
+<li>الجداول الزمنية المحددة للمقابلات.</li>
 </ul>
-<p>The best way to reach them is through discoverable, relevant listings.</p>
-<h2>Passive candidates</h2>
-<p>Passive candidates are not actively applying but may consider a compelling opportunity.</p>
-<p>They may respond when the role offers:</p>
+<p>أفضل طريقة للوصول إليهم هي من خلال إعلانات الوظائف التي يمكن العثور عليها وذات الصلة.</p>
+<h2>المرشحون غير النشطون</h2>
+<p>المرشحون غير النشطون لا يتقدمون بطلبات بشكل نشط, لكنهم قد يفكرون في فرصة جذابة.</p>
+<p>قد يستجيبون عندما توفر الوظيفة:</p>
 <ul>
-<li>better technical scope;</li>
-<li>stronger compensation;</li>
-<li>more autonomy;</li>
-<li>remote flexibility;</li>
-<li>meaningful ownership;</li>
-<li>leadership opportunities;</li>
-<li>a more interesting problem;</li>
-<li>healthier working conditions;</li>
-<li>improved career growth.</li>
+<li>نطاقًا تقنيًّا أفضل؛</li>
+<li>تعويضات أعلى؛</li>
+<li>مزيدًا من الاستقلالية؛</li>
+<li>مرونة في العمل عن بُعد؛</li>
+<li>ملكية ذات مغزى؛</li>
+<li>فرصًا قيادية؛</li>
+<li>مشكلة أكثر إثارة للاهتمام؛</li>
+<li>ظروف عمل أكثر صحة؛</li>
+<li>نموًّا مهنيًّا محسَّنًا.</li>
 </ul>
-<p>They are more likely to be reached through:</p>
+<p>من المرجح الوصول إليهم من خلال:</p>
 <ul>
-<li>targeted outreach;</li>
-<li>referrals;</li>
-<li>technical communities;</li>
-<li>public work;</li>
-<li>events;</li>
-<li>professional relationships;</li>
-<li>employer-brand content.</li>
+<li>التواصل الموجه؛</li>
+<li>التوصيات؛</li>
+<li>المجتمعات الفنية؛</li>
+<li>العمل العام؛</li>
+<li>الفعاليات؛</li>
+<li>العلاقات المهنية؛</li>
+<li>محتوى العلامة التجارية كجهة عمل.</li>
 </ul>
-<p>Passive does not mean uninterested.</p>
-<p>It means the opportunity must earn their attention.</p>
-<h2>Future candidates</h2>
-<p>Some people are not ready to move now.</p>
-<p>They may be:</p>
+<p>كون المرشح «غير نشط» لا يعني أنه غير مهتم.</p>
+<p>بل يعني أن الفرصة يجب أن تستحق اهتمامه.</p>
+<h2>المرشحون المستقبليون</h2>
+<p>بعض الأشخاص ليسوا مستعدين للتغيير في الوقت الحالي.</p>
+<p>قد يكونون:</p>
 <ul>
-<li>finishing a major project;</li>
-<li>waiting for equity to vest;</li>
-<li>completing a degree;</li>
-<li>handling personal commitments;</li>
-<li>satisfied in their current role;</li>
-<li>interested but not yet qualified;</li>
-<li>living outside a supported region.</li>
+<li>في صدد إنهاء مشروع كبير؛</li>
+<li>في انتظار استحقاق أسهمهم؛</li>
+<li>في صدد إكمال دراستهم الجامعية؛</li>
+<li>منشغلين بالتزامات شخصية؛</li>
+<li>راضين عن مناصبهم الحالية؛</li>
+<li>مهتمين ولكنهم غير مؤهلين بعد؛</li>
+<li>يعيشون خارج المنطقة التي تغطيها خدماتنا.</li>
 </ul>
-<p>A respectful relationship today may become a hire months or years later.</p>
-<p>Long-term sourcing treats “not now” as different from “never.”</p>
-<h2>Use a developer-focused job marketplace</h2>
-<p>A specialist technical job board can be one of the strongest sources of active candidates.</p>
-<p>Unlike broad platforms serving every profession, a developer-focused marketplace begins with an audience already interested in technical work.</p>
-<p>That can improve:</p>
+<p>قد تتحول العلاقة القائمة على الاحترام اليوم إلى توظيف بعد أشهر أو سنوات.</p>
+<p>التوظيف على المدى الطويل يعامل عبارة «ليس الآن» على أنها مختلفة عن «أبدًا».</p>
+<h2>استخدم سوق عمل يركز على المطورين</h2>
+<p>يمكن أن تكون لوحة إعلانات الوظائف التقنية المتخصصة أحد أقوى مصادر المرشحين النشطين.</p>
+<p>على عكس المنصات العامة التي تخدم جميع المهن, يبدأ سوق العمل الذي يركز على المطورين بجمهور مهتم بالفعل بالعمل التقني.</p>
+<p>ويمكن أن يؤدي ذلك إلى تحسين:</p>
 <ul>
-<li>candidate relevance;</li>
-<li>role discovery;</li>
-<li>salary matching;</li>
-<li>stack matching;</li>
-<li>remote-work filtering;</li>
-<li>seniority alignment;</li>
-<li>application quality;</li>
-<li>screening efficiency.</li>
+<li>مدى ملاءمة المرشح؛</li>
+<li>اكتشاف الوظائف؛</li>
+<li>مطابقة الراتب؛</li>
+<li>مطابقة مجموعة التقنيات؛</li>
+<li>تصفية العمل عن بُعد؛</li>
+<li>توافق الأقدمية؛</li>
+<li>جودة طلبات الترشح؛</li>
+<li>كفاءة عملية الفرز.</li>
 </ul>
-<p>The pool may be smaller than a generalist platform, but the percentage of relevant people can be substantially higher.</p>
-<h2>Publish enough information for self-selection</h2>
-<p>A listing should help candidates determine whether the role fits before they apply.</p>
-<p>Include:</p>
+<p>قد تكون قاعدة المرشحين أصغر من تلك الموجودة على المنصات العامة, لكن نسبة الأشخاص المناسبين قد تكون أعلى بكثير.</p>
+<h2>انشر معلومات كافية لتسهيل عملية الاختيار الذاتي</h2>
+<p>يجب أن تساعد إعلانات الوظائف المرشحين على تحديد ما إذا كانت الوظيفة مناسبة لهم قبل التقدم لها.</p>
+<p>قم بتضمين:</p>
 <ul>
-<li>recognizable title;</li>
-<li>accurate level;</li>
-<li>role mission;</li>
-<li>concrete responsibilities;</li>
-<li>salary range;</li>
-<li>location;</li>
-<li>remote expectations;</li>
-<li>employment type;</li>
-<li>technology environment;</li>
-<li>required capabilities;</li>
-<li>optional experience;</li>
-<li>interview process;</li>
-<li>accommodations;</li>
-<li>expected timeline.</li>
+<li>عنوان واضح ومميز؛</li>
+<li>المستوى الوظيفي الدقيق؛</li>
+<li>مهمة الدور الوظيفي؛</li>
+<li>المسؤوليات المحددة؛</li>
+<li>نطاق الراتب؛</li>
+<li>الموقع؛</li>
+<li>توقعات العمل عن بُعد؛</li>
+<li>نوع التوظيف؛</li>
+<li>البيئة التقنية؛</li>
+<li>الكفاءات المطلوبة؛</li>
+<li>الخبرة الاختيارية؛</li>
+<li>عملية المقابلة؛</li>
+<li>التسهيلات المتاحة؛</li>
+<li>الجدول الزمني المتوقع.</li>
 </ul>
-<p>Better self-selection reduces unsuitable applications and improves candidate trust.</p>
-<h2>Use job alerts</h2>
-<p>Many qualified developers do not browse listings every day.</p>
-<p>They rely on alerts for:</p>
+<p>يؤدي تحسين عملية الاختيار الذاتي إلى تقليل الطلبات غير المناسبة وتعزيز ثقة المرشحين.</p>
+<h2>استخدم تنبيهات الوظائف</h2>
+<p>لا يقوم العديد من المطورين المؤهلين بتصفح إعلانات الوظائف يوميًا.</p>
+<p>فهم يعتمدون على التنبيهات الخاصة بما يلي:</p>
 <ul>
-<li>role type;</li>
-<li>language;</li>
-<li>framework;</li>
-<li>location;</li>
-<li>remote status;</li>
-<li>seniority;</li>
-<li>compensation.</li>
+<li>نوع الوظيفة؛</li>
+<li>لغة البرمجة؛</li>
+<li>إطار العمل؛</li>
+<li>الموقع؛</li>
+<li>إمكانية العمل عن بُعد؛</li>
+<li>مستوى الخبرة؛</li>
+<li>الأجر.</li>
 </ul>
-<p>Accurate classification helps your role reach them when it matches their preferences.</p>
-<p>A listing with vague categories or an inflated title may miss the right alerts.</p>
-<h2>Optimize your company profile</h2>
-<p>The job listing attracts initial attention.</p>
-<p>The company profile helps convert that attention into an application.</p>
-<p>Developers may want to know:</p>
+<p>يساعد التصنيف الدقيق في وصول إعلان وظيفتك إليهم عندما تتطابق مع تفضيلاتهم.</p>
+<p>قد يفوت إعلان الوظيفة الذي يحتوي على فئات غامضة أو عنوان مبالغ فيه التنبيهات المناسبة.</p>
+<h2>تحسين ملف تعريف شركتك</h2>
+<p>تجذب إعلانات الوظائف الانتباه الأولي.</p>
+<p>ويساعد ملف تعريف الشركة في تحويل هذا الانتباه إلى طلب توظيف.</p>
+<p>قد يرغب المطورون في معرفة:</p>
 <ul>
-<li>what the company builds;</li>
-<li>who uses the product;</li>
-<li>what the engineering team owns;</li>
-<li>how technical decisions are made;</li>
-<li>how often software is deployed;</li>
-<li>how on-call works;</li>
-<li>whether engineers have autonomy;</li>
-<li>what the interview involves;</li>
-<li>whether the company is verified;</li>
-<li>what growth looks like.</li>
+<li>ما الذي تنتجه الشركة؛</li>
+<li>من يستخدم المنتج؛</li>
+<li>ما الذي يتولاه فريق الهندسة؛</li>
+<li>كيف تُتخذ القرارات التقنية؛</li>
+<li>كم مرة يتم نشر البرامج؛</li>
+<li>كيف يعمل نظام المناوبة؛</li>
+<li>ما إذا كان المهندسون يتمتعون بالاستقلالية؛</li>
+<li>ما الذي تتضمنه المقابلة؛</li>
+<li>ما إذا كانت الشركة معتمدة؛</li>
+<li>كيف يبدو نمو الشركة.</li>
 </ul>
-<p>A complete profile reduces uncertainty, especially for companies without a famous brand.</p>
-<h2>Maintain a strong careers page</h2>
-<p>Your careers page should serve as the canonical source for open roles.</p>
-<p>It should provide:</p>
+<p>يقلل الملف التعريفي الكامل من عدم اليقين, خاصة بالنسبة للشركات التي لا تمتلك علامة تجارية مشهورة.</p>
+<h2>حافظ على صفحة وظائف قوية</h2>
+<p>يجب أن تكون صفحة الوظائف الخاصة بك المصدر الرسمي للوظائف الشاغرة.</p>
+<p>ويجب أن توفر:</p>
 <ul>
-<li>accurate listings;</li>
-<li>salary information;</li>
-<li>workplace expectations;</li>
-<li>engineering culture;</li>
-<li>benefits;</li>
-<li>interview guidance;</li>
-<li>accessibility information;</li>
-<li>privacy information;</li>
-<li>contact details.</li>
+<li>إعلانات وظائف دقيقة؛</li>
+<li>معلومات عن الراتب؛</li>
+<li>توقعات مكان العمل؛</li>
+<li>ثقافة الهندسة؛</li>
+<li>المزايا؛</li>
+<li>إرشادات المقابلة؛</li>
+<li>معلومات حول إمكانية الوصول؛</li>
+<li>معلومات الخصوصية؛</li>
+<li>تفاصيل الاتصال.</li>
 </ul>
-<p>Make sure listings are:</p>
+<p>تأكد من أن إعلانات الوظائف:</p>
 <ul>
-<li>indexed by search engines;</li>
-<li>mobile-friendly;</li>
-<li>accessible;</li>
-<li>easy to share;</li>
-<li>removed or marked closed when filled;</li>
-<li>consistent with external job boards.</li>
+<li>مفهرسة من قبل محركات البحث؛</li>
+<li>متوافقة مع الأجهزة المحمولة؛</li>
+<li>سهلة الوصول؛</li>
+<li>سهلة المشاركة؛</li>
+<li>تُحذف أو تُعلم بأنها مغلقة عند شغل الوظيفة؛</li>
+<li>متسقة مع منصات التوظيف الخارجية.</li>
 </ul>
-<p>Candidates may discover the role elsewhere but visit your website before applying.</p>
-<h2>Use employee referrals</h2>
-<p>Your current team may know excellent developers through:</p>
+<p>قد يكتشف المرشحون الوظيفة في مكان آخر, لكنهم يزورون موقعك الإلكتروني قبل التقدم لها.</p>
+<h2>استخدم توصيات الموظفين</h2>
+<p>قد يعرف فريقك الحالي مطورين ممتازين من خلال:</p>
 <ul>
-<li>previous employers;</li>
-<li>open-source work;</li>
-<li>universities;</li>
-<li>professional communities;</li>
-<li>conferences;</li>
-<li>former clients;</li>
-<li>past collaborations.</li>
+<li>أرباب العمل السابقين؛</li>
+<li>الأعمال مفتوحة المصدر؛</li>
+<li>الجامعات؛</li>
+<li>المجتمعات المهنية؛</li>
+<li>المؤتمرات؛</li>
+<li>العملاء السابقين؛</li>
+<li>التعاونات السابقة.</li>
 </ul>
-<p>Referrals can provide:</p>
+<p>يمكن أن توفر التوصيات:</p>
 <ul>
-<li>trusted introductions;</li>
-<li>stronger context;</li>
-<li>faster responses;</li>
-<li>access to passive candidates;</li>
-<li>better understanding of the opportunity.</li>
+<li>تعريفات موثوقة؛</li>
+<li>سياق أقوى؛</li>
+<li>استجابات أسرع؛</li>
+<li>الوصول إلى المرشحين غير النشطين؛</li>
+<li>فهم أفضل للفرصة المتاحة.</li>
 </ul>
-<p>However, referrals should supplement broader sourcing rather than replace it.</p>
-<h2>Make referrals easy</h2>
-<p>Employees are more likely to refer people when they receive:</p>
+<p>ومع ذلك, يجب أن تكون التوصيات مكمّلة لعمليات البحث الأوسع نطاقًا عن المرشحين, لا أن تحل محلها.</p>
+<h2>اجعل عملية التوصية سهلة</h2>
+<p>يزداد احتمال قيام الموظفين بتوصية أشخاص عندما يتلقون:</p>
 <ul>
-<li>a clear role summary;</li>
-<li>transparent compensation;</li>
-<li>a shareable link;</li>
-<li>examples of relevant profiles;</li>
-<li>a simple submission process;</li>
-<li>prompt updates;</li>
-<li>clarity about referral rewards.</li>
+<li>ملخصًا واضحًا للوظيفة؛</li>
+<li>تعويضات شفافة؛</li>
+<li>رابطًا قابلاً للمشاركة؛</li>
+<li>أمثلة على الملفات الشخصية ذات الصلة؛</li>
+<li>عملية تقديم بسيطة؛</li>
+<li>تحديثات فورية؛</li>
+<li>وضوحًا بشأن مكافآت التوصية.</li>
 </ul>
-<p>Do not ask:</p>
+<p>لا تسأل:</p>
 <blockquote>
-<p>Do you know any developers?</p>
+<p>هل تعرف أي مطورين؟</p>
 </blockquote>
-<p>Ask something more specific:</p>
+<p>اسأل سؤالًا أكثر تحديدًا:</p>
 <blockquote>
-<p>We are looking for a senior backend engineer who has owned transactional APIs, relational data, and production reliability. Experience in payments is helpful but not required. The role is remote in the United States and pays $150,000–$180,000.</p>
+<p>نحن نبحث عن مهندس خلفي رفيع المستوى كان مسؤولاً عن واجهات برمجة التطبيقات (API) الخاصة بالمعاملات, والبيانات العلائقية, وموثوقية بيئة الإنتاج. تُعد الخبرة في مجال المدفوعات ميزة إضافية ولكنها ليست شرطاً أساسياً. الوظيفة عن بُعد في الولايات المتحدة, ويتراوح الراتب بين 150,000 و180,000 دولار.</p>
 </blockquote>
-<p>Specific requests generate better referrals.</p>
-<h2>Prevent referrals from narrowing the team</h2>
-<p>People’s professional networks often resemble their existing workplaces and backgrounds.</p>
-<p>To reduce overreliance on familiar networks:</p>
+<p>تؤدي الطلبات المحددة إلى توصيات أفضل.</p>
+<h2>تجنب أن تؤدي التوصيات إلى تضييق نطاق الفريق</h2>
+<p>غالباً ما تشبه الشبكات المهنية للأشخاص أماكن عملهم الحالية وخلفياتهم.</p>
+<p>لتقليل الاعتماد المفرط على الشبكات المألوفة:</p>
 <ul>
-<li>source through multiple channels;</li>
-<li>encourage employees to share roles broadly;</li>
-<li>use the same evaluation criteria for everyone;</li>
-<li>track where referrals originate;</li>
-<li>review whether the referral pool is too concentrated;</li>
-<li>do not bypass structured interviews.</li>
+<li>ابحث عن المرشحين عبر قنوات متعددة؛</li>
+<li>شجع الموظفين على نشر الوظائف على نطاق واسع؛</li>
+<li>استخدم نفس معايير التقييم للجميع؛</li>
+<li>تتبع مصدر التوصيات؛</li>
+<li>راجع ما إذا كانت مجموعة المرشحين الموصى بهم مركزة بشكل مفرط؛</li>
+<li>لا تتجاوز المقابلات المنظمة.</li>
 </ul>
-<p>A referral should increase awareness, not lower the bar or create an insider-only process.</p>
-<h2>Reconnect with former candidates</h2>
-<p>Past applicants can become excellent future hires.</p>
-<p>Review candidates who:</p>
+<p>يجب أن تزيد التوصية من الوعي, لا أن تخفض معايير القبول أو تخلق عملية مقتصرة على المطلعين فقط.</p>
+<h2>إعادة التواصل مع المرشحين السابقين</h2>
+<p>يمكن للمتقدمين السابقين أن يصبحوا موظفين ممتازين في المستقبل.</p>
+<p>راجع المرشحين الذين:</p>
 <ul>
-<li>reached final interviews;</li>
-<li>were strong but not selected;</li>
-<li>fit another level;</li>
-<li>withdrew due to timing;</li>
-<li>declined an offer respectfully;</li>
-<li>lacked one learnable skill;</li>
-<li>were interested in future opportunities.</li>
+<li>وصلوا إلى المقابلات النهائية؛</li>
+<li>كانوا مؤهلين بقوة ولكن لم يتم اختيارهم؛</li>
+<li>كانوا مناسبين لمستوى وظيفي آخر؛</li>
+<li>انسحبوا بسبب التوقيت؛</li>
+<li>رفضوا العرض بأدب؛</li>
+<li>كانوا يفتقرون إلى مهارة واحدة يمكن اكتسابها؛</li>
+<li>أبدوا اهتمامًا بفرص مستقبلية.</li>
 </ul>
-<p>Before contacting them, review:</p>
+<p>قبل الاتصال بهم, راجع ما يلي:</p>
 <ul>
-<li>previous consent and privacy obligations;</li>
-<li>how long their data may be retained;</li>
-<li>whether the new role is genuinely relevant;</li>
-<li>what has changed since the previous process.</li>
+<li>الموافقات السابقة والالتزامات المتعلقة بالخصوصية؛</li>
+<li>المدة التي قد يتم الاحتفاظ خلالها ببياناتهم؛</li>
+<li>ما إذا كان المنصب الجديد مناسبًا حقًّا؛</li>
+<li>ما الذي تغير منذ العملية السابقة.</li>
 </ul>
-<p>A thoughtful message might say:</p>
+<p>قد يكون نص رسالة مدروسة كما يلي:</p>
 <blockquote>
-<p>We spoke last year about a backend role. Your experience with subscription systems stood out, but the position was filled before we could continue. We have now opened a senior billing-platform role with broader ownership and a base range of $155,000–$180,000. I wanted to ask whether the scope might be relevant now.</p>
+<p>تحدثنا العام الماضي عن وظيفة في مجال الباك إند. كانت خبرتك في أنظمة الاشتراكات متميزة, لكن تم شغل الوظيفة قبل أن نتمكن من متابعة الأمر. وقد فتحنا الآن وظيفة رفيعة المستوى في منصة الفوترة تتضمن مسؤوليات أوسع نطاقًا, براتب أساسي يتراوح بين 155,000 و180,000 دولار. أردت أن أسألك عما إذا كان نطاق هذه الوظيفة مناسبًا لك الآن.</p>
 </blockquote>
-<p>This is more useful than placing every rejected applicant into an indefinite marketing list.</p>
-<h2>Reconnect with former employees</h2>
-<p>Former employees may return with:</p>
+<p>وهذا أكثر فائدة من وضع كل متقدم تم رفضه في قائمة تسويقية غير محددة المدة.</p>
+<h2>إعادة التواصل مع الموظفين السابقين</h2>
+<p>قد يعود الموظفون السابقون وهم يتمتعون بما يلي:</p>
 <ul>
-<li>new skills;</li>
-<li>broader experience;</li>
-<li>stronger networks;</li>
-<li>deeper industry knowledge;</li>
-<li>renewed interest in the company.</li>
+<li>مهارات جديدة؛</li>
+<li>خبرة أوسع؛</li>
+<li>شبكات علاقات أقوى؛</li>
+<li>معرفة أعمق بالقطاع؛</li>
+<li>اهتمام متجدد بالشركة.</li>
 </ul>
-<p>A healthy alumni network can support:</p>
+<p>يمكن لشبكة الخريجين القوية أن تدعم:</p>
 <ul>
-<li>rehires;</li>
-<li>referrals;</li>
-<li>partnerships;</li>
-<li>employer reputation;</li>
-<li>knowledge sharing.</li>
+<li>إعادة التوظيف؛</li>
+<li>التوصيات؛</li>
+<li>الشراكات؛</li>
+<li>سمعة الشركة كصاحب عمل؛</li>
+<li>مشاركة المعرفة.</li>
 </ul>
-<p>Do not assume every departure damaged the relationship.</p>
-<p>People leave for many reasonable reasons and may become stronger candidates later.</p>
-<h2>Find developers through open-source communities</h2>
-<p>Open-source work can reveal real technical activity.</p>
-<p>You may discover developers through:</p>
+<p>لا تفترض أن كل رحيل قد أضر بالعلاقة.</p>
+<p>يغادر الأشخاص لأسباب معقولة عديدة وقد يصبحون مرشحين أقوى لاحقًا.</p>
+<h2>البحث عن المطورين من خلال مجتمعات البرمجيات مفتوحة المصدر</h2>
+<p>يمكن أن يكشف العمل في مجال البرمجيات مفتوحة المصدر عن نشاط تقني حقيقي.</p>
+<p>قد تكتشف مطورين من خلال:</p>
 <ul>
-<li>project maintainers;</li>
-<li>contributors;</li>
-<li>issue discussions;</li>
-<li>pull requests;</li>
-<li>documentation;</li>
-<li>release notes;</li>
-<li>community forums;</li>
-<li>package ecosystems.</li>
+<li>القائمين على صيانة المشاريع؛</li>
+<li>المساهمين؛</li>
+<li>مناقشات المشكلات؛</li>
+<li>طلبات السحب؛</li>
+<li>الوثائق؛</li>
+<li>ملاحظات الإصدار؛</li>
+<li>منتديات المجتمع؛</li>
+<li>أنظمة الحزم.</li>
 </ul>
-<p>Open-source participation can provide evidence of:</p>
+<p>يمكن أن توفر المشاركة في المشاريع مفتوحة المصدر دليلاً على:</p>
 <ul>
-<li>code quality;</li>
-<li>collaboration;</li>
-<li>communication;</li>
-<li>maintenance;</li>
-<li>technical judgment;</li>
-<li>ability to work in an existing codebase.</li>
+<li>جودة الكود؛</li>
+<li>التعاون؛</li>
+<li>التواصل؛</li>
+<li>الصيانة؛</li>
+<li>التقدير التقني؛</li>
+<li>القدرة على العمل في قاعدة كود موجودة.</li>
 </ul>
-<h2>Do not treat open source as a free candidate database</h2>
-<p>Open-source communities exist to build and maintain software, not to receive recruiting spam.</p>
-<p>Engage respectfully.</p>
-<p>Good practices include:</p>
+<h2>لا تعامل المشاريع مفتوحة المصدر كقاعدة بيانات مجانية للمرشحين</h2>
+<p>توجد مجتمعات البرمجيات مفتوحة المصدر بهدف تطوير البرمجيات وصيانتها, وليس لتلقي رسائل التوظيف غير المرغوب فيها.</p>
+<p>تفاعل باحترام.</p>
+<p>تشمل الممارسات الجيدة ما يلي:</p>
 <ul>
-<li>understanding the person’s contribution;</li>
-<li>contacting them through an appropriate professional channel;</li>
-<li>making the opportunity genuinely relevant;</li>
-<li>avoiding recruiting messages inside technical issue threads;</li>
-<li>respecting project community rules;</li>
-<li>not demanding free consulting;</li>
-<li>not assuming maintainers are available.</li>
+<li>فهم مساهمة الشخص المعني؛</li>
+<li>الاتصال به عبر قناة مهنية مناسبة؛</li>
+<li>التأكد من أن الفرصة ذات صلة حقيقية به؛</li>
+<li>تجنب إرسال رسائل التوظيف داخل سلاسل المناقشات المتعلقة بالمشكلات التقنية؛</li>
+<li>احترام قواعد مجتمع المشروع؛</li>
+<li>عدم المطالبة باستشارات مجانية؛</li>
+<li>عدم افتراض أن القائمين على الصيانة متاحون دائمًا.</li>
 </ul>
-<p>A message should demonstrate that you reviewed the work.</p>
-<p>For example:</p>
+<p>يجب أن تظهر الرسالة أنك قمت بمراجعة العمل.</p>
+<p>على سبيل المثال:</p>
 <blockquote>
-<p>I read your pull request improving retry behavior in the Atlas queue client. The way you handled duplicate delivery is closely related to a backend reliability role we are hiring for. The position owns transactional workflows in a TypeScript and PostgreSQL platform and has a base range of $150,000–$180,000. Would a brief overview be useful?</p>
+<p>لقد قرأت طلب السحب الذي قدمته لتحسين سلوك إعادة المحاولة في عميل قائمة انتظار Atlas. الطريقة التي تعاملت بها مع التسليم المكرر ترتبط ارتباطًا وثيقًا بدور موثوقية الخلفية الذي نبحث عن شاغل له. يتولى شاغل هذا المنصب إدارة سير عمل المعاملات في منصة TypeScript وPostgreSQL, ويتراوح الراتب الأساسي بين 150,000 و180,000 دولار. هل سيكون من المفيد تقديم نبذة موجزة؟</p>
 </blockquote>
-<h2>Look beyond the most visible maintainers</h2>
-<p>High-profile maintainers receive frequent outreach.</p>
-<p>Strong candidates may also include:</p>
+<h2>انظر إلى ما وراء المشرفين الأكثر بروزًا</h2>
+<p>يتلقى المشرفون البارزون اتصالات متكررة.</p>
+<p>قد يشمل المرشحون الأقوياء أيضًا:</p>
 <ul>
-<li>consistent smaller contributors;</li>
-<li>documentation maintainers;</li>
-<li>test contributors;</li>
-<li>issue triagers;</li>
-<li>plugin authors;</li>
-<li>package maintainers;</li>
-<li>community moderators;</li>
-<li>developers building related tools.</li>
+<li>المساهمين الصغار المنتظمين؛</li>
+<li>مشرفو الوثائق؛</li>
+<li>المساهمون في الاختبارات؛</li>
+<li>القائمون على تصنيف المشكلات؛</li>
+<li>مؤلفو المكونات الإضافية؛</li>
+<li>مشرفو الحزم؛</li>
+<li>مشرفو المجتمع؛</li>
+<li>المطورون الذين يبنون أدوات ذات صلة.</li>
 </ul>
-<p>Contribution quality and relevance matter more than follower counts.</p>
-<h2>Review public work carefully</h2>
-<p>Public code can provide useful context, but it should not become a universal requirement.</p>
-<p>Many excellent developers:</p>
+<p>تعد جودة المساهمة وأهميتها أكثر أهمية من عدد المتابعين.</p>
+<h2>راجع الأعمال العامة بعناية</h2>
+<p>يمكن أن يوفر الكود العام سياقًا مفيدًا, ولكن لا ينبغي أن يصبح متطلبًا عامًّا.</p>
+<p>العديد من المطورين المتميزين:</p>
 <ul>
-<li>work only in private repositories;</li>
-<li>cannot disclose employer code;</li>
-<li>do not have time for side projects;</li>
-<li>have caregiving responsibilities;</li>
-<li>prefer not to build publicly;</li>
-<li>are restricted by employment agreements.</li>
+<li>يعملون فقط في مستودعات خاصة؛</li>
+<li>لا يمكنهم الكشف عن كود الشركة التي يعملون بها؛</li>
+<li>ليس لديهم وقت لمشاريع جانبية؛</li>
+<li>لديهم مسؤوليات رعاية؛</li>
+<li>يفضلون عدم نشر أعمالهم علنًا؛</li>
+<li>يخضعون لقيود اتفاقيات العمل.</li>
 </ul>
-<p>Public work is one signal among many.</p>
-<p>Do not penalize candidates who lack it.</p>
-<h2>Find developers through technical writing</h2>
-<p>Technical articles can reveal:</p>
+<p>العمل العلني هو مؤشر واحد من بين مؤشرات عديدة.</p>
+<p>لا تعاقب المرشحين الذين يفتقرون إليه.</p>
+<h2>العثور على المطورين من خلال الكتابة التقنية</h2>
+<p>يمكن أن تكشف المقالات التقنية عن:</p>
 <ul>
-<li>depth of understanding;</li>
-<li>ability to explain complex ideas;</li>
-<li>practical experience;</li>
-<li>reflection;</li>
-<li>communication;</li>
-<li>domain specialization.</li>
+<li>عمق الفهم؛</li>
+<li>القدرة على شرح الأفكار المعقدة؛</li>
+<li>الخبرة العملية؛</li>
+<li>التفكير المتعمق؛</li>
+<li>مهارات التواصل؛</li>
+<li>التخصص في المجال.</li>
 </ul>
-<p>Sources may include:</p>
+<p>قد تشمل المصادر:</p>
 <ul>
-<li>personal blogs;</li>
-<li>company engineering blogs;</li>
-<li>newsletters;</li>
-<li>technical publications;</li>
-<li>documentation;</li>
-<li>tutorials;</li>
-<li>research papers;</li>
-<li>conference summaries.</li>
+<li>المدونات الشخصية؛</li>
+<li>مدونات الهندسة الخاصة بالشركات؛</li>
+<li>النشرات الإخبارية؛</li>
+<li>المنشورات التقنية؛</li>
+<li>الوثائق؛</li>
+<li>الدروس التعليمية؛</li>
+<li>الأوراق البحثية؛</li>
+<li>ملخصات المؤتمرات.</li>
 </ul>
-<p>Look for writing related to the role’s actual problems.</p>
-<p>A thoughtful article about database migrations may be more relevant to your search than a large social following.</p>
-<h2>Reach out based on substance</h2>
-<p>Do not send:</p>
+<p>ابحث عن كتابات تتعلق بالمشكلات الفعلية للوظيفة.</p>
+<p>قد يكون المقال المدروس حول عمليات ترحيل قواعد البيانات أكثر صلة ببحثك من عدد المتابعين الكبير على مواقع التواصل الاجتماعي.</p>
+<h2>تواصل بناءً على المضمون</h2>
+<p>لا ترسل:</p>
 <blockquote>
-<p>I saw your blog and thought you would be perfect for an exciting opportunity.</p>
+<p>رأيت مدونتك واعتقدت أنك ستكون المرشح المثالي لفرصة مثيرة.</p>
 </blockquote>
-<p>Reference the actual work.</p>
-<p>For example:</p>
+<p>أشر إلى العمل الفعلي.</p>
+<p>على سبيل المثال:</p>
 <blockquote>
-<p>Your article about zero-downtime PostgreSQL migrations described the exact rollback and compatibility issues our platform team is addressing. We are hiring a senior engineer to lead a multi-service schema migration and improve deployment safety. The role is remote within the United States with a base range of $160,000–$190,000.</p>
+<p>وصف مقالك حول عمليات ترحيل PostgreSQL دون توقف التوقف عن العمل بالضبط مشكلات التراجع والتوافق التي يعالجها فريق منصتنا. نحن نبحث عن مهندس أول لقيادة عملية ترحيل مخطط متعدد الخدمات وتحسين أمان النشر. الوظيفة عن بُعد داخل الولايات المتحدة براتب أساسي يتراوح بين 160,000 و190,000 دولار.</p>
 </blockquote>
-<p>Specificity proves relevance.</p>
-<h2>Find developers through conference talks and meetups</h2>
-<p>Speakers and participants may demonstrate:</p>
+<p>التحديد يثبت الصلة بالموضوع.</p>
+<h2>ابحث عن المطورين من خلال محاضرات المؤتمرات واللقاءات</h2>
+<p>يمكن للمتحدثين والمشاركين إظهار:</p>
 <ul>
-<li>technical expertise;</li>
-<li>communication;</li>
-<li>community engagement;</li>
-<li>leadership;</li>
-<li>curiosity;</li>
-<li>interest in a domain.</li>
+<li>الخبرة الفنية؛</li>
+<li>مهارات التواصل؛</li>
+<li>المشاركة المجتمعية؛</li>
+<li>القيادة؛</li>
+<li>الفضول؛</li>
+<li>الاهتمام بمجال معين.</li>
 </ul>
-<p>Possible sources include:</p>
+<p>تشمل المصادر المحتملة ما يلي:</p>
 <ul>
-<li>conference schedules;</li>
-<li>recorded talks;</li>
-<li>local meetups;</li>
-<li>virtual events;</li>
-<li>workshops;</li>
-<li>unconferences;</li>
-<li>hackathons;</li>
-<li>user groups.</li>
+<li>جداول المؤتمرات؛</li>
+<li>المحاضرات المسجلة؛</li>
+<li>اللقاءات المحلية؛</li>
+<li>الفعاليات الافتراضية؛</li>
+<li>ورش العمل؛</li>
+<li>«الاجتماعات غير الرسمية»؛</li>
+<li>مسابقات البرمجة؛</li>
+<li>مجموعات المستخدمين.</li>
 </ul>
-<p>Do not focus only on keynote speakers.</p>
-<p>Organizers, workshop leaders, panel participants, and active attendees may also be excellent candidates.</p>
-<h2>Participate rather than only extract</h2>
-<p>A company that appears only when it needs candidates may struggle to build trust.</p>
-<p>Support communities through:</p>
+<p>لا تركز فقط على المتحدثين الرئيسيين.</p>
+<p>قد يكون المنظمون وقادة ورش العمل والمشاركون في حلقات النقاش والحاضرون النشطون مرشحين ممتازين أيضًا.</p>
+<h2>شارك بدلاً من الاكتفاء بالاستفادة فقط</h2>
+<p>قد تواجه الشركة التي لا تظهر إلا عندما تحتاج إلى مرشحين صعوبة في بناء الثقة.</p>
+<p>ادعم المجتمعات من خلال:</p>
 <ul>
-<li>sponsorship;</li>
-<li>venues;</li>
-<li>speakers;</li>
-<li>educational content;</li>
-<li>open-source contributions;</li>
-<li>mentoring;</li>
-<li>scholarships;</li>
-<li>practical workshops.</li>
+<li>الرعاية؛</li>
+<li>توفير الأماكن؛</li>
+<li>المتحدثين؛</li>
+<li>المحتوى التعليمي؛</li>
+<li>المساهمات في البرمجيات مفتوحة المصدر؛</li>
+<li>التوجيه؛</li>
+<li>المنح الدراسية؛</li>
+<li>ورش العمل العملية.</li>
 </ul>
-<p>Community participation should create real value, not disguise recruiting as education.</p>
-<h2>Find developers through professional communities</h2>
-<p>Developers gather in communities built around:</p>
+<p>يجب أن تخلق المشاركة في المجتمع قيمة حقيقية, لا أن تُقنّع عملية التوظيف تحت ستار التعليم.</p>
+<h2>ابحث عن المطورين من خلال المجتمعات المهنية</h2>
+<p>يتجمع المطورون في مجتمعات مبنية حول:</p>
 <ul>
-<li>languages;</li>
-<li>frameworks;</li>
-<li>cloud platforms;</li>
-<li>security;</li>
-<li>data engineering;</li>
-<li>mobile development;</li>
-<li>accessibility;</li>
-<li>game development;</li>
-<li>machine learning;</li>
-<li>open source;</li>
-<li>specific industries.</li>
+<li>اللغات البرمجية؛</li>
+<li>أطر العمل؛</li>
+<li>المنصات السحابية؛</li>
+<li>الأمن؛</li>
+<li>هندسة البيانات؛</li>
+<li>تطوير تطبيقات الجوال؛</li>
+<li>إمكانية الوصول؛</li>
+<li>تطوير الألعاب؛</li>
+<li>التعلم الآلي؛</li>
+<li>البرمجيات مفتوحة المصدر؛</li>
+<li>صناعات محددة.</li>
 </ul>
-<p>These may exist on:</p>
+<p>قد توجد هذه المجتمعات على:</p>
 <ul>
-<li>forums;</li>
-<li>chat communities;</li>
-<li>social platforms;</li>
-<li>mailing lists;</li>
-<li>local groups;</li>
-<li>private professional networks.</li>
+<li>المنتديات؛</li>
+<li>مجتمعات الدردشة؛</li>
+<li>المنصات الاجتماعية؛</li>
+<li>قوائم البريد الإلكتروني؛</li>
+<li>المجموعات المحلية؛</li>
+<li>الشبكات المهنية الخاصة.</li>
 </ul>
-<p>Before posting a role:</p>
+<p>قبل نشر إعلان وظيفة:</p>
 <ul>
-<li>read the community rules;</li>
-<li>use designated job channels;</li>
-<li>provide salary and location details;</li>
-<li>avoid repeated posting;</li>
-<li>do not direct-message members indiscriminately;</li>
-<li>contribute outside recruiting when appropriate.</li>
+<li>اقرأ قواعد المجتمع؛</li>
+<li>استخدم القنوات المخصصة للوظائف؛</li>
+<li>قدم تفاصيل الراتب والموقع؛</li>
+<li>تجنب النشر المتكرر؛</li>
+<li>لا ترسل رسائل مباشرة إلى الأعضاء بشكل عشوائي؛</li>
+<li>ساهم في أمور أخرى بخلاف التوظيف عند الاقتضاء.</li>
 </ul>
-<p>Trust is easier to lose than to build.</p>
-<h2>Use social platforms selectively</h2>
-<p>Social platforms can help distribute roles and identify technical professionals.</p>
-<p>Useful approaches include:</p>
+<p>فقدان الثقة أسهل من بنائها.</p>
+<h2>استخدم المنصات الاجتماعية بشكل انتقائي</h2>
+<p>يمكن أن تساعد المنصات الاجتماعية في توزيع الأدوار وتحديد المهنيين التقنيين.</p>
+<p>تشمل الأساليب المفيدة ما يلي:</p>
 <ul>
-<li>sharing the role from the company account;</li>
-<li>asking engineers to share with context;</li>
-<li>publishing technical content;</li>
-<li>joining relevant conversations;</li>
-<li>highlighting real engineering work;</li>
-<li>using focused search;</li>
-<li>contacting people through professional messaging.</li>
+<li>مشاركة الوظيفة من حساب الشركة؛</li>
+<li>مطالبة المهندسين بمشاركة المنشورات مع سياقها؛</li>
+<li>نشر محتوى تقني؛</li>
+<li>الانضمام إلى المحادثات ذات الصلة؛</li>
+<li>تسليط الضوء على الأعمال الهندسية الفعلية؛</li>
+<li>استخدام البحث المركّز؛</li>
+<li>التواصل مع الأشخاص عبر الرسائل المهنية.</li>
 </ul>
-<p>Avoid turning every interaction into a recruiting pitch.</p>
-<p>A developer who follows your engineering content may become a candidate later.</p>
-<h2>Build an engineering content strategy</h2>
-<p>Technical content can attract candidates long before a role opens.</p>
-<p>Topics may include:</p>
+<p>تجنب تحويل كل تفاعل إلى عرض توظيفي.</p>
+<p>قد يصبح المطور الذي يتابع محتواك الهندسي مرشحًا في وقت لاحق.</p>
+<h2>وضع استراتيجية للمحتوى الهندسي</h2>
+<p>يمكن للمحتوى التقني جذب المرشحين قبل وقت طويل من فتح الوظيفة.</p>
+<p>قد تشمل الموضوعات ما يلي:</p>
 <ul>
-<li>architecture decisions;</li>
-<li>migrations;</li>
-<li>performance work;</li>
-<li>incident reviews;</li>
-<li>accessibility;</li>
-<li>developer tooling;</li>
-<li>testing;</li>
-<li>security;</li>
-<li>infrastructure;</li>
-<li>product-engineering trade-offs;</li>
-<li>lessons from failed approaches.</li>
+<li>قرارات الهندسة المعمارية؛</li>
+<li>عمليات الترحيل؛</li>
+<li>أعمال تحسين الأداء؛</li>
+<li>مراجعات الحوادث؛</li>
+<li>إمكانية الوصول؛</li>
+<li>أدوات المطورين؛</li>
+<li>الاختبار؛</li>
+<li>الأمان؛</li>
+<li>البنية التحتية؛</li>
+<li>المفاضلات بين المنتج والهندسة؛</li>
+<li>الدروس المستفادة من الأساليب الفاشلة.</li>
 </ul>
-<p>Good engineering content answers:</p>
+<p>المحتوى الهندسي الجيد يجيب على الأسئلة التالية:</p>
 <ul>
-<li>What problems does the team solve?</li>
-<li>How does it think?</li>
-<li>What does it care about?</li>
-<li>What could a developer learn there?</li>
-<li>Are engineers trusted to communicate publicly?</li>
+<li>ما هي المشكلات التي يحلها الفريق؟</li>
+<li>كيف يفكر الفريق؟</li>
+<li>ما الذي يهمه الفريق؟</li>
+<li>ما الذي يمكن للمطور أن يتعلمه هناك؟</li>
+<li>هل يُعتمد على المهندسين في التواصل علنًا؟</li>
 </ul>
-<p>One useful article can continue attracting candidates for years.</p>
-<h2>Be honest in technical content</h2>
-<p>Do not turn engineering writing into empty employer-brand promotion.</p>
-<p>Strong candidates notice when an article:</p>
+<p>يمكن لمقال واحد مفيد أن يستمر في جذب المرشحين لسنوات.</p>
+<h2>كن صادقًا في المحتوى التقني</h2>
+<p>لا تحولوا الكتابة الهندسية إلى ترويج فارغ لعلامة الشركة كصاحب عمل.</p>
+<p>يلاحظ المرشحون المتميزون عندما يكون المقال:</p>
 <ul>
-<li>avoids technical detail;</li>
-<li>exaggerates scale;</li>
-<li>hides every challenge;</li>
-<li>attributes everything to company brilliance;</li>
-<li>exists only to advertise jobs.</li>
+<li>يتجنب التفاصيل التقنية؛</li>
+<li>يبالغ في حجم المشروع؛</li>
+<li>يخفي كل التحديات؛</li>
+<li>ينسب كل شيء إلى براعة الشركة؛</li>
+<li>لا يهدف إلا إلى الإعلان عن الوظائف.</li>
 </ul>
-<p>The most credible content explains:</p>
+<p>المحتوى الأكثر مصداقية هو الذي يشرح:</p>
 <ul>
-<li>constraints;</li>
-<li>trade-offs;</li>
-<li>mistakes;</li>
-<li>learning;</li>
-<li>unresolved challenges.</li>
+<li>القيود؛</li>
+<li>المفاضلات؛</li>
+<li>الأخطاء؛</li>
+<li>الدروس المستفادة؛</li>
+<li>التحديات التي لم تُحل بعد.</li>
 </ul>
-<p>Authenticity makes the company more attractive, not less.</p>
-<h2>Find developers through GitHub and public portfolios</h2>
-<p>Public portfolios may include:</p>
+<p>الأصالة تجعل الشركة أكثر جاذبية, لا أقل.</p>
+<h2>ابحث عن المطورين عبر GitHub والمحافظ العامة</h2>
+<p>قد تتضمن المحافظ العامة:</p>
 <ul>
-<li>repositories;</li>
-<li>applications;</li>
-<li>design-engineering work;</li>
-<li>technical case studies;</li>
-<li>documentation;</li>
-<li>package contributions;</li>
-<li>project write-ups.</li>
+<li>مستودعات؛</li>
+<li>تطبيقات؛</li>
+<li>أعمال التصميم والهندسة؛</li>
+<li>دراسات الحالة الفنية؛</li>
+<li>الوثائق؛</li>
+<li>المساهمات في الحزم البرمجية؛</li>
+<li>تقارير المشاريع.</li>
 </ul>
-<p>Evaluate thoughtfully.</p>
-<p>Look for:</p>
+<p>قم بالتقييم بعناية.</p>
+<p>ابحث عن:</p>
 <ul>
-<li>clarity;</li>
-<li>problem selection;</li>
-<li>ownership;</li>
-<li>testing;</li>
-<li>documentation;</li>
-<li>maintainability;</li>
-<li>technical decisions;</li>
-<li>continued development.</li>
+<li>الوضوح؛</li>
+<li>اختيار المشكلة؛</li>
+<li>الملكية؛</li>
+<li>الاختبار؛</li>
+<li>التوثيق؛</li>
+<li>قابلية الصيانة؛</li>
+<li>القرارات التقنية؛</li>
+<li>التطوير المستمر.</li>
 </ul>
-<p>Do not use:</p>
+<p>لا تستخدم:</p>
 <ul>
-<li>star count;</li>
-<li>contribution graph color;</li>
-<li>repository quantity;</li>
-<li>follower count;</li>
+<li>عدد النجوم؛</li>
+<li>لون الرسم البياني للمساهمات؛</li>
+<li>عدد المستودعات؛</li>
+<li>عدد المتابعين؛</li>
 </ul>
-<p>as substitutes for ability.</p>
-<h2>Search by problem, not only technology</h2>
-<p>Searching for an exact framework may exclude strong transferable candidates.</p>
-<p>Instead of searching only for:</p>
+<p>كبدائل للقدرة.</p>
+<h2>ابحث حسب المشكلة, وليس فقط حسب التكنولوجيا</h2>
+<p>قد يؤدي البحث عن إطار عمل محدد إلى استبعاد مرشحين أقوياء قابلين للتطبيق في مجالات أخرى.</p>
+<p>بدلاً من البحث فقط عن:</p>
 <blockquote>
-<p>React engineer</p>
+<p>مهندس React</p>
 </blockquote>
-<p>consider the underlying capability:</p>
+<p>ضع في اعتبارك القدرات الأساسية:</p>
 <ul>
-<li>complex user interfaces;</li>
-<li>component architecture;</li>
-<li>accessibility;</li>
-<li>frontend performance;</li>
-<li>design systems;</li>
-<li>testing;</li>
-<li>browser behavior.</li>
+<li>واجهات المستخدم المعقدة؛</li>
+<li>بنية المكونات؛</li>
+<li>سهولة الوصول؛</li>
+<li>أداء الواجهة الأمامية؛</li>
+<li>أنظمة التصميم؛</li>
+<li>الاختبار؛</li>
+<li>سلوك المتصفح.</li>
 </ul>
-<p>A developer with strong Vue, Angular, or web-platform experience may become productive in React quickly.</p>
-<p>Similarly, a backend engineer with strong Java, Go, C#, or Python experience may transfer into another language when the fundamentals align.</p>
-<h2>Find candidates through universities</h2>
-<p>Universities can support hiring for:</p>
+<p>قد يصبح المطور الذي يتمتع بخبرة قوية في Vue أو Angular أو منصات الويب منتجًا في React بسرعة.</p>
+<p>وبالمثل, يمكن لمهندس الباك إند الذي يتمتع بخبرة قوية في لغات البرمجة مثل Java أو Go أو C# أو Python أن ينتقل إلى لغة أخرى عندما تتوافق أساسياتها مع متطلبات العمل.</p>
+<h2>البحث عن المرشحين من خلال الجامعات</h2>
+<p>يمكن للجامعات دعم عمليات التوظيف في المجالات التالية:</p>
 <ul>
-<li>internships;</li>
-<li>apprenticeships;</li>
-<li>graduate roles;</li>
-<li>research-heavy positions;</li>
-<li>early-career engineering;</li>
-<li>specialized technical disciplines.</li>
+<li>برامج التدريب الداخلي؛</li>
+<li>برامج التلمذة المهنية؛</li>
+<li>وظائف الخريجين؛</li>
+<li>الوظائف التي تعتمد بشكل كبير على البحث؛</li>
+<li>وظائف الهندسة في المراحل المبكرة من الحياة المهنية؛</li>
+<li>التخصصات التقنية المتخصصة.</li>
 </ul>
-<p>Useful relationships may include:</p>
+<p>قد تشمل العلاقات المفيدة ما يلي:</p>
 <ul>
-<li>career centers;</li>
-<li>faculty;</li>
-<li>student organizations;</li>
-<li>capstone programs;</li>
-<li>research labs;</li>
-<li>hackathons;</li>
-<li>alumni groups;</li>
-<li>cooperative education programs.</li>
+<li>مراكز التوظيف؛</li>
+<li>أعضاء هيئة التدريس؛</li>
+<li>المنظمات الطلابية؛</li>
+<li>برامج التخرج؛</li>
+<li>مختبرات الأبحاث؛</li>
+<li>مسابقات البرمجة (هاكاثون)؛</li>
+<li>مجموعات الخريجين؛</li>
+<li>برامج التعليم التعاوني.</li>
 </ul>
-<p>A campus strategy should begin before graduation season.</p>
-<h2>Evaluate potential, not professional polish</h2>
-<p>Early-career candidates may lack:</p>
+<p>يجب أن تبدأ استراتيجية التوظيف في الحرم الجامعي قبل موسم التخرج.</p>
+<h2>تقييم الإمكانات, وليس الكفاءة المهنية</h2>
+<p>قد يفتقر المرشحون في بداية مسيرتهم المهنية إلى:</p>
 <ul>
-<li>commercial projects;</li>
-<li>polished résumés;</li>
-<li>interview experience;</li>
-<li>industry terminology.</li>
+<li>المشاريع التجارية؛</li>
+<li>السير الذاتية المُحسَّنة؛</li>
+<li>خبرة المقابلات؛</li>
+<li>المصطلحات الخاصة بالقطاع.</li>
 </ul>
-<p>Evaluate:</p>
+<p>قم بتقييم:</p>
 <ul>
-<li>fundamentals;</li>
-<li>learning ability;</li>
-<li>projects;</li>
-<li>debugging;</li>
-<li>communication;</li>
-<li>curiosity;</li>
-<li>response to feedback;</li>
-<li>ability to complete scoped work.</li>
+<li>الأساسيات؛</li>
+<li>القدرة على التعلم؛</li>
+<li>المشاريع؛</li>
+<li>تصحيح الأخطاء البرمجية؛</li>
+<li>التواصل؛</li>
+<li>الفضول؛</li>
+<li>الاستجابة للتعليقات؛</li>
+<li>القدرة على إنجاز العمل المحدد النطاق.</li>
 </ul>
-<p>Do not apply senior-hire expectations to students and recent graduates.</p>
-<h2>Partner with bootcamps and apprenticeship programs</h2>
-<p>Strong programs may produce candidates with:</p>
+<p>لا تطبق توقعات توظيف كبار الموظفين على الطلاب والخريجين الجدد.</p>
+<h2>تشارك مع برامج التدريب المكثف وبرامج التلمذة الصناعية</h2>
+<p>قد تنتج البرامج القوية مرشحين يتمتعون بما يلي:</p>
 <ul>
-<li>practical project experience;</li>
-<li>career-change maturity;</li>
-<li>strong motivation;</li>
-<li>collaborative habits;</li>
-<li>rapid learning ability.</li>
+<li>خبرة عملية في المشاريع؛</li>
+<li>النضج اللازم لتغيير المسار المهني؛</li>
+<li>دافع قوي؛</li>
+<li>عادات تعاونية؛</li>
+<li>قدرة على التعلم السريع.</li>
 </ul>
-<p>Evaluate the individual rather than accepting or rejecting candidates based on the program’s brand.</p>
-<p>Ask programs about:</p>
+<p>قم بتقييم الفرد بدلاً من قبول أو رفض المرشحين بناءً على سمعة البرنامج.</p>
+<p>اسأل البرامج عن:</p>
 <ul>
-<li>curriculum;</li>
-<li>selection;</li>
-<li>assessment;</li>
-<li>employer partnerships;</li>
-<li>graduate support;</li>
-<li>accessibility;</li>
-<li>placement practices;</li>
-<li>outcome reporting.</li>
+<li>المناهج الدراسية؛</li>
+<li>عملية الاختيار؛</li>
+<li>التقييم؛</li>
+<li>الشراكات مع أرباب العمل؛</li>
+<li>دعم الخريجين؛</li>
+<li>سهولة الوصول؛</li>
+<li>ممارسات التوظيف؛</li>
+<li>إعداد تقارير النتائج.</li>
 </ul>
-<p>Consider structured apprenticeships that combine paid work, mentorship, and clear progression.</p>
-<h2>Build internal apprenticeship pathways</h2>
-<p>A company can develop technical talent from adjacent roles.</p>
-<p>Potential candidates may come from:</p>
+<p>ينبغي النظر في برامج تدريب مهني منظمة تجمع بين العمل المدفوع الأجر, والإرشاد, ومسار الترقي الواضح.</p>
+<h2>إنشاء مسارات تدريب مهني داخلية</h2>
+<p>يمكن للشركة تنمية المواهب الفنية من خلال الوظائف ذات الصلة.</p>
+<p>قد يأتي المرشحون المحتملون من:</p>
 <ul>
-<li>technical support;</li>
-<li>quality assurance;</li>
-<li>implementation;</li>
-<li>data analysis;</li>
-<li>operations;</li>
-<li>design;</li>
-<li>customer engineering;</li>
-<li>IT;</li>
-<li>solutions consulting.</li>
+<li>الدعم الفني؛</li>
+<li>ضمان الجودة؛</li>
+<li>التنفيذ؛</li>
+<li>تحليل البيانات؛</li>
+<li>العمليات؛</li>
+<li>التصميم؛</li>
+<li>هندسة خدمة العملاء؛</li>
+<li>تكنولوجيا المعلومات؛</li>
+<li>استشارات الحلول.</li>
 </ul>
-<p>These employees may already understand:</p>
+<p>قد يكون هؤلاء الموظفون على دراية بالفعل بما يلي:</p>
 <ul>
-<li>the product;</li>
-<li>customers;</li>
-<li>internal systems;</li>
-<li>company culture;</li>
-<li>business constraints.</li>
+<li>المنتج؛</li>
+<li>العملاء؛</li>
+<li>الأنظمة الداخلية؛</li>
+<li>ثقافة الشركة؛</li>
+<li>قيود العمل.</li>
 </ul>
-<p>With training and mentorship, internal mobility can create strong developers while improving retention.</p>
-<h2>Source from adjacent technical disciplines</h2>
-<p>Do not assume every developer has always held a developer title.</p>
-<p>Relevant candidates may include:</p>
+<p>من خلال التدريب والإرشاد, يمكن للتنقل الداخلي أن يساهم في تكوين مطورين أقوياء مع تحسين معدل الاحتفاظ بالموظفين.</p>
+<h2>البحث في التخصصات التقنية المجاورة</h2>
+<p>لا تفترض أن كل مطور قد شغل دائمًا منصب مطور.</p>
+<p>قد يشمل المرشحون المناسبون:</p>
 <ul>
-<li>QA automation engineers;</li>
-<li>site reliability engineers;</li>
-<li>data analysts;</li>
-<li>implementation engineers;</li>
-<li>solutions architects;</li>
-<li>technical support engineers;</li>
-<li>designers who code;</li>
-<li>researchers;</li>
-<li>system administrators;</li>
-<li>technical founders.</li>
+<li>مهندسي أتمتة ضمان الجودة؛</li>
+<li>مهندسي موثوقية المواقع؛</li>
+<li>محللي البيانات؛</li>
+<li>مهندسي التنفيذ؛</li>
+<li>مهندسي الحلول؛</li>
+<li>مهندسي الدعم الفني؛</li>
+<li>المصممين الذين يكتبون الأكواد؛</li>
+<li>الباحثين؛</li>
+<li>مسؤولي الأنظمة؛</li>
+<li>المؤسسين التقنيين.</li>
 </ul>
-<p>Evaluate capability and trajectory, not title history alone.</p>
-<h2>Use specialized recruiting agencies selectively</h2>
-<p>An agency may help when:</p>
+<p>قم بتقييم القدرات والمسار المهني, لا تاريخ المناصب وحدها.</p>
+<h2>استخدم وكالات التوظيف المتخصصة بشكل انتقائي</h2>
+<p>قد تساعد الوكالة في الحالات التالية:</p>
 <ul>
-<li>the role is difficult to fill;</li>
-<li>internal recruiting capacity is limited;</li>
-<li>confidentiality is required;</li>
-<li>the search is urgent;</li>
-<li>the market is unfamiliar;</li>
-<li>executive or highly specialized expertise is needed.</li>
+<li>صعوبة شغل الوظيفة؛</li>
+<li>محدودية القدرات الداخلية في مجال التوظيف؛</li>
+<li>ضرورة الحفاظ على السرية؛</li>
+<li>الطابع العاجل لعملية البحث؛</li>
+<li>عدم الإلمام بالسوق؛</li>
+<li>الحاجة إلى خبرة تنفيذية أو متخصصة للغاية.</li>
 </ul>
-<p>Before engaging an agency, clarify:</p>
+<p>قبل التعاقد مع وكالة, يجب توضيح ما يلي:</p>
 <ul>
-<li>fees;</li>
-<li>exclusivity;</li>
-<li>candidate ownership;</li>
-<li>replacement guarantees;</li>
-<li>communication;</li>
-<li>screening standards;</li>
-<li>diversity strategy;</li>
-<li>data handling;</li>
-<li>authorization to submit candidates;</li>
-<li>whether compensation information is shared.</li>
+<li>الرسوم؛</li>
+<li>الحصرية؛</li>
+<li>ملكية المرشحين؛</li>
+<li>ضمانات الاستبدال؛</li>
+<li>التواصل؛</li>
+<li>معايير الفرز؛</li>
+<li>استراتيجية التنوع؛</li>
+<li>معالجة البيانات؛</li>
+<li>تفويض تقديم المرشحين؛</li>
+<li>ما إذا كانت معلومات التعويضات تُشارك أم لا.</li>
 </ul>
-<p>An agency should complement the company’s hiring process, not obscure it.</p>
-<h2>Avoid duplicate outreach</h2>
-<p>When several agencies or internal recruiters contact the same person, the company appears disorganized.</p>
-<p>Use a shared system to track:</p>
+<p>يجب أن تُكمل الوكالة عملية التوظيف في الشركة, لا أن تحجبها.</p>
+<h2>تجنب التواصل المكرر</h2>
+<p>عندما تتصل عدة وكالات أو مسؤولي توظيف داخليين بنفس الشخص, تبدو الشركة غير منظمة.</p>
+<p>استخدم نظامًا مشتركًا لتتبع:</p>
 <ul>
-<li>candidate identity;</li>
-<li>source;</li>
-<li>contact owner;</li>
-<li>message history;</li>
-<li>response;</li>
-<li>consent;</li>
-<li>next follow-up date.</li>
+<li>هوية المرشح؛</li>
+<li>المصدر؛</li>
+<li>المسؤول عن الاتصال؛</li>
+<li>سجل الرسائل؛</li>
+<li>الرد؛</li>
+<li>الموافقة؛</li>
+<li>موعد المتابعة التالي.</li>
 </ul>
-<p>Set rules preventing uncoordinated duplicate messages.</p>
-<h2>Write outreach developers will read</h2>
-<p>Developers receive large volumes of generic recruiting messages.</p>
-<p>The most effective outreach is:</p>
+<p>ضع قواعد تمنع تكرار الرسائل غير المنسقة.</p>
+<h2>اكتب رسائل تواصل يقرأها المطورون</h2>
+<p>يتلقى المطورون كميات كبيرة من رسائل التوظيف العامة.</p>
+<p>أكثر رسائل التواصل فعالية هي:</p>
 <ul>
-<li>relevant;</li>
-<li>specific;</li>
-<li>brief;</li>
-<li>transparent;</li>
-<li>respectful.</li>
+<li>ذات صلة؛</li>
+<li>محددة؛</li>
+<li>موجزة؛</li>
+<li>شفافة؛</li>
+<li>محترمة.</li>
 </ul>
-<p>A useful message answers:</p>
+<p>الرسالة المفيدة تجيب على:</p>
 <ul>
-<li>Why are you contacting me?</li>
-<li>What is the role?</li>
-<li>What problem would I work on?</li>
-<li>What level is it?</li>
-<li>What does it pay?</li>
-<li>Where can I work?</li>
-<li>Why might my experience be relevant?</li>
-<li>What is the next step?</li>
+<li>لماذا تتصل بي؟</li>
+<li>ما هي الوظيفة؟</li>
+<li>ما هي المشكلة التي سأعمل على حلها؟</li>
+<li>ما هو مستوى الوظيفة؟</li>
+<li>ما هو الراتب؟</li>
+<li>أين يمكنني العمل؟</li>
+<li>لماذا قد تكون خبرتي ذات صلة؟</li>
+<li>ما هي الخطوة التالية؟</li>
 </ul>
-<h2>A practical outreach structure</h2>
-<h3>Subject</h3>
-<p>Use a clear subject rather than artificial urgency.</p>
-<p>Example:</p>
+<h2>هيكل عملي لرسائل التواصل</h2>
+<h3>الموضوع</h3>
+<p>استخدم موضوعًا واضحًا بدلاً من الإيحاء بوجود إلحاح مصطنع.</p>
+<p>مثال:</p>
 <blockquote>
-<p>Senior backend role — subscription reliability and PostgreSQL</p>
+<p>وظيفة رفيعة المستوى في مجال الباك إند — موثوقية الاشتراكات وPostgreSQL</p>
 </blockquote>
-<h3>Opening</h3>
-<p>Reference relevant evidence.</p>
+<h3>مقدمة</h3>
+<p>أشر إلى أدلة ذات صلة.</p>
 <blockquote>
-<p>I read your write-up about designing idempotent payment workflows at Northlake.</p>
+<p>قرأت مقالتك حول تصميم سير عمل الدفع المتكرر في Northlake.</p>
 </blockquote>
-<h3>Connection</h3>
-<p>Explain why it relates.</p>
+<h3>الصلة</h3>
+<p>اشرح سبب ارتباط ذلك بالوظيفة.</p>
 <blockquote>
-<p>We are rebuilding the services responsible for subscription retries and payment recovery, and your experience appears closely related.</p>
+<p>نحن نعمل على إعادة بناء الخدمات المسؤولة عن إعادة محاولات الاشتراك واسترداد المدفوعات, ويبدو أن خبرتك ترتبط ارتباطًا وثيقًا بذلك.</p>
 </blockquote>
-<h3>Role summary</h3>
-<p>Provide concrete details.</p>
+<h3>ملخص الوظيفة</h3>
+<p>قدم تفاصيل محددة.</p>
 <blockquote>
-<p>The position is a senior backend role using TypeScript and PostgreSQL, with long-term ownership of billing reliability.</p>
+<p>الوظيفة هي منصب رفيع المستوى في مجال الباك إند باستخدام TypeScript وPostgreSQL, مع مسؤولية طويلة الأمد عن موثوقية الفوترة.</p>
 </blockquote>
-<h3>Compensation and logistics</h3>
-<p>Be transparent.</p>
+<h3>الأجر والتفاصيل اللوجستية</h3>
+<p>كن شفافًا.</p>
 <blockquote>
-<p>It is remote within the United States, with a base range of $155,000–$180,000.</p>
+<p>العمل عن بُعد داخل الولايات المتحدة, مع راتب أساسي يتراوح بين 155,000 و180,000 دولار.</p>
 </blockquote>
-<h3>Low-pressure next step</h3>
+<h3>الخطوة التالية دون ضغوط</h3>
 <blockquote>
-<p>I can send the full role details here, and there is no pressure to schedule a call unless the scope is relevant.</p>
+<p>يمكنني إرسال التفاصيل الكاملة للوظيفة هنا, ولا يوجد أي ضغط لترتيب مكالمة ما لم يكن نطاق العمل مناسبًا.</p>
 </blockquote>
-<p>This is enough information for an informed response.</p>
-<h2>Avoid fake personalization</h2>
-<p>Replacing a name in a mass template is not meaningful personalization.</p>
-<p>Weak:</p>
+<p>هذه المعلومات كافية لتقديم رد مستنير.</p>
+<h2>تجنب التخصيص الزائف</h2>
+<p>استبدال الاسم في قالب جماعي لا يُعد تخصيصًا ذي مغزى.</p>
+<p>ضعيف:</p>
 <blockquote>
-<p>I was impressed by your impressive background and think you would be perfect for our exciting opportunity.</p>
+<p>لقد أعجبتني خلفيتك المهنية الرائعة وأعتقد أنك ستكون المرشح المثالي لفرصتنا المثيرة.</p>
 </blockquote>
-<p>Strong:</p>
+<p>قوي:</p>
 <blockquote>
-<p>Your pull request addressing partial failures in the Orion SDK was relevant because this role owns similar retry and recovery problems.</p>
+<p>كان طلب السحب الذي قدمته لمعالجة الأعطال الجزئية في Orion SDK ذا صلة لأن هذا الدور يتعامل مع مشكلات مماثلة تتعلق بإعادة المحاولة والاستعادة.</p>
 </blockquote>
-<p>Use automation to organize outreach, not to manufacture false familiarity.</p>
-<h2>Be honest about why you chose the candidate</h2>
-<p>Do not say someone is a perfect fit after reading one profile.</p>
-<p>Use measured language:</p>
+<p>استخدم الأتمتة لتنظيم التواصل, وليس لتصنيع علاقة مألوفة زائفة.</p>
+<h2>كن صادقًا بشأن سبب اختيارك للمرشح</h2>
+<p>لا تقل إن شخصًا ما مناسب تمامًا بعد قراءة ملف تعريفي واحد.</p>
+<p>استخدم لغة متزنة:</p>
 <ul>
-<li>Your experience appears relevant.</li>
-<li>The project looks connected to our current work.</li>
-<li>Your background may align with the role.</li>
-<li>I thought the scope might be worth sharing.</li>
+<li>تبدو خبرتك ذات صلة.</li>
+<li>يبدو أن المشروع مرتبط بعملنا الحالي.</li>
+<li>قد تتوافق خلفيتك مع متطلبات الوظيفة.</li>
+<li>رأيت أن نطاق العمل يستحق المشاركة.</li>
 </ul>
-<p>Overstated claims reduce trust.</p>
-<h2>Include compensation early</h2>
-<p>Leaving compensation out forces the candidate to invest time before learning whether the opportunity is viable.</p>
-<p>Include:</p>
+<p>المبالغة في الادعاءات تقلل من الثقة.</p>
+<h2>اذكر الأجر في وقت مبكر</h2>
+<p>إغفال ذكر الأجر يجبر المرشح على استثمار الوقت قبل أن يعرف ما إذا كانت الفرصة مجدية أم لا.</p>
+<p>قم بتضمين:</p>
 <ul>
-<li>base range;</li>
-<li>contract rate where applicable;</li>
-<li>currency;</li>
-<li>location adjustments;</li>
-<li>major bonus or equity structure when relevant.</li>
+<li>النطاق الأساسي للراتب؛</li>
+<li>معدل الأجر التعاقدي حيثما ينطبق ذلك؛</li>
+<li>العملة؛</li>
+<li>تعديلات الموقع؛</li>
+<li>هيكل المكافآت أو الأسهم الرئيسية عند الاقتضاء.</li>
 </ul>
-<p>Transparency improves reply quality.</p>
-<h2>Keep the first message short</h2>
-<p>The first message is not the job description.</p>
-<p>Aim to provide enough information for the person to decide whether they want more.</p>
-<p>A concise note often performs better than:</p>
+<p>الشفافية تحسن جودة الردود.</p>
+<h2>اجعل الرسالة الأولى موجزة</h2>
+<p>الرسالة الأولى ليست وصفًا وظيفيًّا.</p>
+<p>احرص على تقديم معلومات كافية لتتمكن الشخص من تقرير ما إذا كان يرغب في معرفة المزيد.</p>
+<p>غالبًا ما تكون الملاحظة الموجزة أكثر فعالية من:</p>
 <ul>
-<li>several paragraphs of company history;</li>
-<li>a long technology list;</li>
-<li>exaggerated mission statements;</li>
-<li>a request for an immediate call;</li>
-<li>repeated follow-ups.</li>
+<li>عدة فقرات عن تاريخ الشركة؛</li>
+<li>قائمة طويلة بالتقنيات؛</li>
+<li>بيانات مهمة مبالغ فيها؛</li>
+<li>طلب إجراء مكالمة فورية؛</li>
+<li>متابعات متكررة.</li>
 </ul>
-<p>Link to a complete, accurate role page.</p>
-<h2>Give people a graceful way to decline</h2>
-<p>A respectful message might say:</p>
+<p>أرفق رابطًا لصفحة الوظيفة الكاملة والدقيقة.</p>
+<h2>امنح الأشخاص طريقة لائقة للرفض</h2>
+<p>قد تقول رسالة محترمة ما يلي:</p>
 <blockquote>
-<p>If the timing is not right, no response is required. I am also happy to reconnect later if the scope is relevant but the timing is not.</p>
+<p>إذا لم يكن التوقيت مناسبًا, فلا داعي للرد. كما يسعدني التواصل معك لاحقًا إذا كان نطاق العمل مناسبًا ولكن التوقيت غير مناسب.</p>
 </blockquote>
-<p>Do not pressure people into explaining why they are not interested.</p>
-<h2>Follow up carefully</h2>
-<p>One or two relevant follow-ups may be reasonable.</p>
-<p>Avoid:</p>
+<p>لا تضغط على الأشخاص لشرح سبب عدم اهتمامهم.</p>
+<h2>تابع الأمر بحذر</h2>
+<p>قد يكون من المعقول إرسال متابعة أو اثنتين ذات صلة.</p>
+<p>تجنب:</p>
 <ul>
-<li>messaging every day;</li>
-<li>contacting several personal accounts;</li>
-<li>sending guilt-based messages;</li>
-<li>pretending earlier messages were missed accidentally;</li>
-<li>continuing after a clear decline;</li>
-<li>using false deadlines.</li>
+<li>إرسال رسائل يوميًا؛</li>
+<li>الاتصال بعدة حسابات شخصية؛</li>
+<li>إرسال رسائل تستهدف إثارة الشعور بالذنب؛</li>
+<li>التظاهر بأن الرسائل السابقة فُوتت عن غير قصد؛</li>
+<li>الاستمرار في التواصل بعد رفض واضح؛</li>
+<li>استخدام مواعيد نهائية زائفة.</li>
 </ul>
-<p>A follow-up should add information.</p>
-<p>For example:</p>
+<p>يجب أن تضيف المتابعة معلومات جديدة.</p>
+<p>على سبيل المثال:</p>
 <blockquote>
-<p>One additional detail that may be relevant: the company has now approved fully remote hiring across Canada, and the role includes staff-level scope rather than only feature delivery.</p>
+<p>تفصيل إضافي قد يكون ذا صلة: وافقت الشركة الآن على التوظيف عن بُعد بالكامل في جميع أنحاء كندا, ويشمل الدور نطاقًا على مستوى الموظفين بدلاً من الاكتفاء بتسليم الميزات فقط.</p>
 </blockquote>
-<h2>Respect communication boundaries</h2>
-<p>Use professional contact information when available.</p>
-<p>Do not:</p>
+<h2>احترام حدود التواصل</h2>
+<p>استخدم معلومات الاتصال المهنية عندما تكون متاحة.</p>
+<p>لا تقم بما يلي:</p>
 <ul>
-<li>scrape private phone numbers;</li>
-<li>contact family members;</li>
-<li>message personal accounts repeatedly;</li>
-<li>bypass explicit preferences;</li>
-<li>continue after an opt-out;</li>
-<li>use sensitive personal information for personalization.</li>
+<li>جمع أرقام الهواتف الخاصة؛</li>
+<li>الاتصال بأفراد العائلة؛</li>
+<li>إرسال رسائل متكررة إلى الحسابات الشخصية؛</li>
+<li>تجاهل التفضيلات الصريحة؛</li>
+<li>الاستمرار في التواصل بعد رفض المرشح؛</li>
+<li>استخدام المعلومات الشخصية الحساسة لأغراض التخصيص.</li>
 </ul>
-<p>Candidate sourcing should remain professional and proportionate.</p>
-<h2>Make outreach accessible</h2>
-<p>Use:</p>
+<p>يجب أن يظل البحث عن المرشحين مهنياً ومتناسباً.</p>
+<h2>اجعل التواصل سهل الوصول</h2>
+<p>استخدم:</p>
 <ul>
-<li>plain language;</li>
-<li>readable formatting;</li>
-<li>descriptive links;</li>
-<li>concise paragraphs;</li>
-<li>clear role details.</li>
+<li>لغة بسيطة؛</li>
+<li>تنسيق سهل القراءة؛</li>
+<li>روابط وصفية؛</li>
+<li>فقرات موجزة؛</li>
+<li>تفاصيل واضحة عن الوظيفة.</li>
 </ul>
-<p>Avoid images containing essential text without an accessible alternative.</p>
-<p>Give candidates a way to request accommodations during the hiring process.</p>
-<h2>Build a referral and outreach cadence</h2>
-<p>Sourcing should not begin only when a role becomes urgent.</p>
-<p>A healthy cadence may include:</p>
+<p>تجنب الصور التي تحتوي على نص أساسي دون بديل يمكن الوصول إليه.</p>
+<p>امنح المرشحين وسيلة لطلب التسهيلات خلال عملية التوظيف.</p>
+<h2>بناء إيقاع منتظم للتوصيات والتواصل</h2>
+<p>لا ينبغي أن يبدأ البحث عن المرشحين فقط عندما تصبح الوظيفة ملحة.</p>
+<p>قد يشمل الإيقاع السليم ما يلي:</p>
 <ul>
-<li>weekly review of priority roles;</li>
-<li>monthly community engagement;</li>
-<li>regular alumni contact;</li>
-<li>quarterly referral reminders;</li>
-<li>ongoing technical content;</li>
-<li>periodic follow-up with warm prospects;</li>
-<li>continuous review of past finalists.</li>
+<li>مراجعة أسبوعية للوظائف ذات الأولوية؛</li>
+<li>تفاعل شهري مع المجتمع؛</li>
+<li>اتصال منتظم بالخريجين؛</li>
+<li>تذكيرات ربع سنوية بالتوصيات؛</li>
+<li>محتوى تقني مستمر؛</li>
+<li>متابعة دورية مع المرشحين المحتملين؛</li>
+<li>مراجعة مستمرة للمرشحين النهائيين السابقين.</li>
 </ul>
-<p>The goal is to maintain relationships rather than repeatedly starting from zero.</p>
-<h2>Create a talent community carefully</h2>
-<p>A talent community may help people stay connected through:</p>
+<p>الهدف هو الحفاظ على العلاقات بدلاً من البدء من الصفر مرارًا وتكرارًا.</p>
+<h2>إنشاء مجتمع المواهب بعناية</h2>
+<p>قد يساعد مجتمع المواهب الأشخاص على البقاء على تواصل من خلال:</p>
 <ul>
-<li>role alerts;</li>
-<li>engineering updates;</li>
-<li>event invitations;</li>
-<li>relevant articles;</li>
-<li>community programs.</li>
+<li>تنبيهات الوظائف الشاغرة؛</li>
+<li>آخر مستجدات الهندسة؛</li>
+<li>دعوات الفعاليات؛</li>
+<li>المقالات ذات الصلة؛</li>
+<li>برامج المجتمع.</li>
 </ul>
-<p>Participation should be:</p>
+<p>يجب أن تكون المشاركة:</p>
 <ul>
-<li>voluntary;</li>
-<li>clearly explained;</li>
-<li>easy to leave;</li>
-<li>respectful of privacy;</li>
-<li>relevant rather than promotional.</li>
+<li>طوعية؛</li>
+<li>موضحة بوضوح؛</li>
+<li>يسهل الانسحاب منها؛</li>
+<li>تحترم الخصوصية؛</li>
+<li>ذات صلة بالموضوع بدلاً من أن تكون ترويجية.</li>
 </ul>
-<p>Do not add candidates to marketing lists without appropriate permission.</p>
-<h2>Record useful sourcing context</h2>
-<p>For each prospect, store only information that is relevant and permitted.</p>
-<p>Useful fields may include:</p>
+<p>لا تقم بإضافة المرشحين إلى قوائم التسويق دون الحصول على الإذن المناسب.</p>
+<h2>تسجيل سياق البحث عن المواهب المفيد</h2>
+<p>بالنسبة لكل مرشح محتمل, احفظ فقط المعلومات ذات الصلة والمسموح بها.</p>
+<p>قد تشمل الحقول المفيدة ما يلي:</p>
 <ul>
-<li>professional profile;</li>
-<li>relevant experience;</li>
-<li>source;</li>
-<li>role interest;</li>
-<li>location;</li>
-<li>compensation expectations when voluntarily provided;</li>
-<li>communication history;</li>
-<li>follow-up preference;</li>
-<li>consent and retention status.</li>
+<li>الملف المهني؛</li>
+<li>الخبرة ذات الصلة؛</li>
+<li>المصدر؛</li>
+<li>الاهتمام بالوظيفة؛</li>
+<li>الموقع؛</li>
+<li>توقعات الأجر عند تقديمها طواعيةً؛</li>
+<li>سجل التواصل؛</li>
+<li>تفضيلات المتابعة؛</li>
+<li>حالة الموافقة والاحتفاظ بالبيانات.</li>
 </ul>
-<p>Avoid subjective or inappropriate notes.</p>
-<p>Weak:</p>
+<p>تجنب الملاحظات الذاتية أو غير الملائمة.</p>
+<p>ملاحظة ضعيفة:</p>
 <blockquote>
-<p>Seems old for this team.</p>
+<p>يبدو أكبر من العمر المناسب لهذا الفريق.</p>
 </blockquote>
-<p>Appropriate:</p>
+<p>ملاحظة ملائمة:</p>
 <blockquote>
-<p>Candidate said the current role requires four hours of overlap with Central European Time; this opening requires six hours with Pacific Time.</p>
+<p>ذكر المرشح أن المنصب الحالي يتطلب أربع ساعات من التداخل مع توقيت أوروبا الوسطى؛ بينما تتطلب هذه الوظيفة الشاغرة ست ساعات مع توقيت المحيط الهادئ.</p>
 </blockquote>
-<p>Notes should be factual and job-related.</p>
-<h2>Protect candidate data</h2>
-<p>Sourcing data may include personal information.</p>
-<p>Your process should address:</p>
+<p>يجب أن تكون الملاحظات واقعية ومتعلقة بالوظيفة.</p>
+<h2>حماية بيانات المرشح</h2>
+<p>قد تتضمن بيانات البحث عن المرشحين معلومات شخصية.</p>
+<p>يجب أن تتناول إجراءاتك ما يلي:</p>
 <ul>
-<li>lawful collection;</li>
-<li>consent where required;</li>
-<li>purpose limitation;</li>
-<li>access controls;</li>
-<li>retention;</li>
-<li>deletion;</li>
-<li>vendor handling;</li>
-<li>international transfers;</li>
-<li>security;</li>
-<li>candidate requests.</li>
+<li>جمع البيانات بشكل قانوني؛</li>
+<li>الحصول على الموافقة عند الحاجة؛</li>
+<li>تقييد الغرض؛</li>
+<li>ضوابط الوصول؛</li>
+<li>الاحتفاظ بالبيانات؛</li>
+<li>الحذف؛</li>
+<li>التعامل مع الموردين؛</li>
+<li>عمليات النقل الدولية؛</li>
+<li>الأمان؛</li>
+<li>طلبات المرشحين.</li>
 </ul>
-<p>Do not keep every profile indefinitely simply because someone might become relevant later.</p>
-<p>Coordinate with qualified privacy and legal advisors for the jurisdictions involved.</p>
-<h2>Use AI cautiously in sourcing</h2>
-<p>AI can assist with:</p>
+<p>لا تحتفظ بكل ملف تعريفي إلى أجل غير مسمى لمجرد أن الشخص المعني قد يصبح ذا صلة في وقت لاحق.</p>
+<p>تنسق مع مستشارين مؤهلين في مجالي الخصوصية والشؤون القانونية في الولايات القضائية المعنية.</p>
+<h2>استخدم الذكاء الاصطناعي بحذر في عملية البحث عن المرشحين</h2>
+<p>يمكن للذكاء الاصطناعي المساعدة في:</p>
 <ul>
-<li>generating search variations;</li>
-<li>summarizing public professional information;</li>
-<li>drafting messages;</li>
-<li>organizing prospects;</li>
-<li>identifying possible related experience;</li>
-<li>scheduling;</li>
-<li>reporting.</li>
+<li>إنشاء صيغ بحث متنوعة؛</li>
+<li>تلخيص المعلومات المهنية العامة؛</li>
+<li>صياغة الرسائل؛</li>
+<li>تنظيم قوائم المرشحين المحتملين؛</li>
+<li>تحديد الخبرات ذات الصلة المحتملة؛</li>
+<li>جدولة المواعيد؛</li>
+<li>إعداد التقارير.</li>
 </ul>
-<p>AI should not independently determine who deserves an opportunity.</p>
-<p>Risks include:</p>
+<p>يجب ألا يحدد الذكاء الاصطناعي بشكل مستقل من يستحق الحصول على فرصة.</p>
+<p>تشمل المخاطر ما يلي:</p>
 <ul>
-<li>reproducing historical hiring bias;</li>
-<li>inferring sensitive attributes;</li>
-<li>overvaluing keywords;</li>
-<li>fabricating candidate information;</li>
-<li>generating misleading personalization;</li>
-<li>ranking candidates through opaque criteria.</li>
+<li>تكرار التحيز التاريخي في التوظيف؛</li>
+<li>استنتاج سمات حساسة؛</li>
+<li>المبالغة في تقييم الكلمات المفتاحية؛</li>
+<li>اختلاق معلومات عن المرشحين؛</li>
+<li>إنشاء تخصيصات مضللة؛</li>
+<li>ترتيب المرشحين وفقًا لمعايير غير شفافة.</li>
 </ul>
-<p>Human review remains essential.</p>
-<h2>Do not infer sensitive traits</h2>
-<p>Do not use sourcing systems to infer or target people based on sensitive characteristics unless a lawful, carefully governed purpose applies.</p>
-<p>Avoid inferring:</p>
+<p>يظل المراجعة البشرية أمرًا ضروريًا.</p>
+<h2>لا تستنتج سمات حساسة</h2>
+<p>لا تستخدم أنظمة البحث عن المرشحين لاستنتاج أو استهداف الأشخاص بناءً على سمات حساسة ما لم يكن هناك غرض قانوني يخضع لرقابة دقيقة.</p>
+<p>تجنب استنتاج:</p>
 <ul>
-<li>health;</li>
-<li>disability;</li>
-<li>ethnicity;</li>
-<li>religion;</li>
-<li>sexual orientation;</li>
-<li>family status;</li>
-<li>political beliefs;</li>
-<li>age.</li>
+<li>الحالة الصحية؛</li>
+<li>الإعاقة؛</li>
+<li>العرق؛</li>
+<li>الدين؛</li>
+<li>الميل الجنسي؛</li>
+<li>الحالة الأسرية؛</li>
+<li>المعتقدات السياسية؛</li>
+<li>العمر.</li>
 </ul>
-<p>Evaluate professional evidence relevant to the role.</p>
-<h2>Build inclusive search strategies</h2>
-<p>A narrow search may reproduce the composition of the existing team.</p>
-<p>Expand the search by:</p>
+<p>قم بتقييم الأدلة المهنية ذات الصلة بالوظيفة.</p>
+<h2>وضع استراتيجيات بحث شاملة</h2>
+<p>قد يؤدي البحث الضيق إلى تكرار تكوين الفريق الحالي.</p>
+<p>قم بتوسيع نطاق البحث من خلال:</p>
 <ul>
-<li>considering adjacent titles;</li>
-<li>including transferable technologies;</li>
-<li>reducing unnecessary degree requirements;</li>
-<li>removing prestige filters;</li>
-<li>searching different professional communities;</li>
-<li>including career changers;</li>
-<li>supporting remote or flexible work;</li>
-<li>publishing compensation;</li>
-<li>offering accessible interviews.</li>
+<li>أخذ المؤهلات المماثلة في الاعتبار؛</li>
+<li>تضمين التقنيات القابلة للتطبيق في مجالات أخرى؛</li>
+<li>تقليل متطلبات الشهادات غير الضرورية؛</li>
+<li>إزالة معايير الانتقائية القائمة على المكانة؛</li>
+<li>البحث في مجتمعات مهنية متنوعة؛</li>
+<li>تضمين من يغيرون مسارهم المهني؛</li>
+<li>دعم العمل عن بُعد أو المرن؛</li>
+<li>الإعلان عن الأجور؛</li>
+<li>توفير مقابلات يسهل الوصول إليها.</li>
 </ul>
-<p>Inclusion begins with who receives the opportunity to be considered.</p>
-<h2>Search for capabilities, not prestige</h2>
-<p>Avoid relying primarily on:</p>
+<p>تبدأ الشمولية بمن يحصل على فرصة أن يُؤخذ في الاعتبار.</p>
+<h2>ابحث عن القدرات, لا عن المكانة</h2>
+<p>تجنب الاعتماد بشكل أساسي على:</p>
 <ul>
-<li>famous company names;</li>
-<li>elite universities;</li>
-<li>highly visible projects;</li>
-<li>large social followings;</li>
-<li>previous titles.</li>
+<li>أسماء الشركات الشهيرة؛</li>
+<li>الجامعات المرموقة؛</li>
+<li>المشاريع البارزة؛</li>
+<li>عدد المتابعين الكبير على مواقع التواصل الاجتماعي؛</li>
+<li>المسميات الوظيفية السابقة.</li>
 </ul>
-<p>Look for evidence of:</p>
+<p>ابحث عن أدلة على:</p>
 <ul>
-<li>ownership;</li>
-<li>learning;</li>
-<li>problem-solving;</li>
-<li>production work;</li>
-<li>technical judgment;</li>
-<li>collaboration;</li>
-<li>relevant outcomes.</li>
+<li>روح المبادرة؛</li>
+<li>التعلم؛</li>
+<li>حل المشكلات؛</li>
+<li>العمل الإنتاجي؛</li>
+<li>التقدير الفني؛</li>
+<li>التعاون؛</li>
+<li>النتائج ذات الصلة.</li>
 </ul>
-<p>Prestige can be context, but it should not become the search strategy.</p>
-<h2>Improve your employer brand</h2>
-<p>Candidates who receive outreach will research the company.</p>
-<p>They may review:</p>
+<p>قد يكون المكانة عاملاً في السياق, لكن لا ينبغي أن تصبح استراتيجية البحث.</p>
+<h2>حسّن علامتك التجارية كصاحب عمل</h2>
+<p>سيقوم المرشحون الذين تتواصل معهم بالبحث عن الشركة.</p>
+<p>قد يراجعون:</p>
 <ul>
-<li>product quality;</li>
-<li>engineering blog;</li>
-<li>employee profiles;</li>
-<li>public reviews;</li>
-<li>GitHub activity;</li>
-<li>compensation;</li>
-<li>leadership;</li>
-<li>layoffs;</li>
-<li>remote practices;</li>
-<li>interview reports;</li>
-<li>company stability.</li>
+<li>جودة المنتج؛</li>
+<li>مدونة الهندسة؛</li>
+<li>ملفات تعريف الموظفين؛</li>
+<li>التقييمات العامة؛</li>
+<li>نشاط GitHub؛</li>
+<li>الأجر؛</li>
+<li>القيادة؛</li>
+<li>عمليات التسريح؛</li>
+<li>ممارسات العمل عن بُعد؛</li>
+<li>تقارير المقابلات؛</li>
+<li>استقرار الشركة.</li>
 </ul>
-<p>Your sourcing results depend partly on what they discover.</p>
-<p>A strong employer brand is built through:</p>
+<p>تعتمد نتائج عملية البحث عن المرشحين جزئيًا على ما يكتشفونه.</p>
+<p>تُبنى العلامة التجارية القوية لصاحب العمل من خلال:</p>
 <ul>
-<li>honest role descriptions;</li>
-<li>transparent compensation;</li>
-<li>credible leadership;</li>
-<li>respectful interviews;</li>
-<li>useful technical content;</li>
-<li>consistent employee experience;</li>
-<li>prompt candidate communication.</li>
+<li>أوصاف وظيفية صادقة؛</li>
+<li>تعويضات شفافة؛</li>
+<li>قيادة ذات مصداقية؛</li>
+<li>مقابلات تتسم بالاحترام؛</li>
+<li>محتوى تقني مفيد؛</li>
+<li>تجربة موظفين متسقة؛</li>
+<li>التواصل الفوري مع المرشحين.</li>
 </ul>
-<p>Outreach cannot compensate indefinitely for a weak reputation.</p>
-<h2>Give engineers a visible voice</h2>
-<p>Candidates trust engineers discussing real work more than polished recruiting campaigns.</p>
-<p>Support employees who want to:</p>
+<p>لا يمكن للتواصل الترويجي أن يعوض إلى الأبد عن السمعة الضعيفة.</p>
+<h2>امنح المهندسين منبراً بارزاً</h2>
+<p>يثق المرشحون في المهندسين الذين يتحدثون عن العمل الفعلي أكثر من ثقتهم في حملات التوظيف المصقولة.</p>
+<p>ادعم الموظفين الذين يرغبون في:</p>
 <ul>
-<li>write;</li>
-<li>speak;</li>
-<li>contribute to open source;</li>
-<li>join podcasts;</li>
-<li>teach workshops;</li>
-<li>attend meetups;</li>
-<li>explain architecture.</li>
+<li>الكتابة؛</li>
+<li>التحدث؛</li>
+<li>المساهمة في مشاريع البرمجيات مفتوحة المصدر؛</li>
+<li>المشاركة في البودكاست؛</li>
+<li>تقديم ورش عمل؛</li>
+<li>حضور اللقاءات؛</li>
+<li>شرح البنية التقنية.</li>
 </ul>
-<p>Do not force participation or turn employees into unpaid recruiters.</p>
-<p>Create opportunities and support.</p>
-<h2>Make the role worth responding to</h2>
-<p>Sourcing cannot fix an unattractive opportunity.</p>
-<p>Strong candidates may ignore a role because of:</p>
+<p>لا تجبر الموظفين على المشاركة ولا تحولهم إلى موظفي توظيف غير مدفوعي الأجر.</p>
+<p>وفر الفرص والدعم.</p>
+<h2>اجعل الوظيفة تستحق الاهتمام</h2>
+<p>لا يمكن لعملية البحث عن المرشحين أن تعوض عن فرصة عمل غير جذابة.</p>
+<p>قد يتجاهل المرشحون المتميزون وظيفة ما بسبب:</p>
 <ul>
-<li>below-market compensation;</li>
-<li>unclear ownership;</li>
-<li>excessive interview stages;</li>
-<li>mandatory relocation;</li>
-<li>misleading remote language;</li>
-<li>heavy on-call work;</li>
-<li>unstable leadership;</li>
-<li>poor product direction;</li>
-<li>vague responsibilities;</li>
-<li>lack of growth.</li>
+<li>أجر أقل من متوسط السوق؛</li>
+<li>عدم وضوح المسؤوليات؛</li>
+<li>مراحل مقابلة مفرطة؛</li>
+<li>الانتقال الإلزامي؛</li>
+<li>لغة مضللة بشأن العمل عن بُعد؛</li>
+<li>عبء عمل كبير أثناء أوقات الاستدعاء؛</li>
+<li>قيادة غير مستقرة؛</li>
+<li>توجيه ضعيف للمنتج؛</li>
+<li>مسؤوليات غامضة؛</li>
+<li>عدم وجود فرص للنمو.</li>
 </ul>
-<p>Before increasing outreach volume, improve the role itself.</p>
-<h2>Coordinate recruiting and hiring managers</h2>
-<p>Sourcing works better when hiring managers provide:</p>
+<p>قبل زيادة حجم التواصل, قم بتحسين الوظيفة نفسها.</p>
+<h2>التنسيق بين مسؤولي البحث عن المرشحين ومديري التوظيف</h2>
+<p>يعمل البحث عن المرشحين بشكل أفضل عندما يوفر مديرو التوظيف:</p>
 <ul>
-<li>clear priorities;</li>
-<li>fast profile feedback;</li>
-<li>examples of relevant backgrounds;</li>
-<li>realistic flexibility;</li>
-<li>timely interview availability;</li>
-<li>accurate role details.</li>
+<li>أولويات واضحة؛</li>
+<li>تعليقات سريعة على الملفات الشخصية؛</li>
+<li>أمثلة على الخلفيات ذات الصلة؛</li>
+<li>مرونة واقعية؛</li>
+<li>توفر مواعيد للمقابلات في الوقت المناسب؛</li>
+<li>تفاصيل دقيقة عن الوظيفة.</li>
 </ul>
-<p>Recruiters should not spend weeks searching while the hiring manager repeatedly changes the target.</p>
-<p>Set a review cadence.</p>
-<p>For example:</p>
+<p>يجب ألا يقضي مسؤولو التوظيف أسابيع في البحث بينما يقوم مدير التوظيف بتغيير الهدف مرارًا وتكرارًا.</p>
+<p>حدد وتيرة المراجعة.</p>
+<p>على سبيل المثال:</p>
 <ul>
-<li>review the first ten sourced profiles;</li>
-<li>identify false positives and missed patterns;</li>
-<li>adjust the search;</li>
-<li>confirm compensation and scope;</li>
-<li>repeat until alignment is stable.</li>
+<li>راجع أول عشرة ملفات شخصية تم العثور عليها؛</li>
+<li>حدد النتائج الإيجابية الخاطئة والأنماط التي فاتتك؛</li>
+<li>عدّل عملية البحث؛</li>
+<li>تأكد من الأجر ونطاق العمل؛</li>
+<li>كرر العملية حتى يصبح التوافق مستقرًا.</li>
 </ul>
-<h2>Calibrate with sample profiles</h2>
-<p>Before launching a large campaign, review several hypothetical or public professional profiles.</p>
-<p>For each one, ask:</p>
+<h2>قم بالمعايرة باستخدام نماذج للملفات الشخصية</h2>
+<p>قبل إطلاق حملة توظيف واسعة النطاق, قم بمراجعة عدة ملفات تعريف مهنية افتراضية أو عامة.</p>
+<p>بالنسبة لكل ملف, اسأل نفسك:</p>
 <ul>
-<li>Would this person likely succeed?</li>
-<li>Which evidence supports that view?</li>
-<li>Which uncertainty requires evaluation?</li>
-<li>Are we rejecting them only because the stack differs?</li>
-<li>Is the level appropriate?</li>
-<li>Would the role appeal to them?</li>
+<li>هل من المرجح أن ينجح هذا الشخص؟</li>
+<li>ما هي الأدلة التي تدعم هذا الرأي؟</li>
+<li>ما هي نقاط عدم اليقين التي تتطلب التقييم؟</li>
+<li>هل نرفضه فقط لأن مجموعة التقنيات التي يجيدها تختلف عما نبحث عنه؟</li>
+<li>هل المستوى مناسب؟</li>
+<li>هل ستجذبهم هذه الوظيفة؟</li>
 </ul>
-<p>This exercise reveals hidden assumptions early.</p>
-<h2>Measure sourcing performance</h2>
-<p>Do not evaluate sourcing by messages sent or applications received alone.</p>
-<p>Track the full funnel.</p>
-<p>Useful metrics include:</p>
+<p>يكشف هذا التمرين عن الافتراضات الخفية في مرحلة مبكرة.</p>
+<h2>قياس أداء عملية البحث عن المرشحين</h2>
+<p>لا تقم بتقييم عملية البحث عن المرشحين بناءً على الرسائل المرسلة أو الطلبات المستلمة وحدها.</p>
+<p>تتبع مسار العملية بالكامل.</p>
+<p>تشمل المقاييس المفيدة ما يلي:</p>
 <ul>
-<li>prospects identified;</li>
-<li>messages delivered;</li>
-<li>response rate;</li>
-<li>interested response rate;</li>
-<li>recruiter screens;</li>
-<li>qualified screens;</li>
-<li>technical interviews;</li>
-<li>final interviews;</li>
-<li>offers;</li>
-<li>accepted offers;</li>
-<li>candidate withdrawals;</li>
-<li>time to first qualified candidate;</li>
-<li>time to shortlist;</li>
-<li>cost per qualified candidate;</li>
-<li>source of hire;</li>
-<li>retention.</li>
+<li>المرشحون المحتملون الذين تم تحديدهم؛</li>
+<li>الرسائل التي تم تسليمها؛</li>
+<li>معدل الاستجابة؛</li>
+<li>معدل الاستجابة من قبل المهتمين؛</li>
+<li>عمليات الفرز التي أجراها مسؤولو التوظيف؛</li>
+<li>عمليات الفرز التي تم خلالها تحديد المرشحين المؤهلين؛</li>
+<li>المقابلات الفنية؛</li>
+<li>المقابلات النهائية؛</li>
+<li>العروض المقدمة؛</li>
+<li>العروض المقبولة؛</li>
+<li>انسحاب المرشحين؛</li>
+<li>الوقت المستغرق للوصول إلى أول مرشح مؤهل؛</li>
+<li>الوقت المستغرق لوضع قائمة المرشحين المختارين؛</li>
+<li>التكلفة لكل مرشح مؤهل؛</li>
+<li>مصدر التوظيف؛</li>
+<li>معدل الاحتفاظ بالموظفين.</li>
 </ul>
-<h2>Separate response rate from positive response rate</h2>
-<p>A campaign may receive many replies that say no.</p>
-<p>Track:</p>
+<h2>الفصل بين معدل الاستجابة ومعدل الاستجابة الإيجابية</h2>
+<p>قد تتلقى الحملة العديد من الردود التي تعبر عن الرفض.</p>
+<p>تتبع:</p>
 <blockquote>
-<p>Response rate = all responses ÷ delivered messages</p>
+<p>معدل الاستجابة = إجمالي الردود ÷ الرسائل المرسلة</p>
 </blockquote>
-<p>and:</p>
+<p>و:</p>
 <blockquote>
-<p>Positive response rate = interested responses ÷ delivered messages</p>
+<p>معدل الاستجابة الإيجابية = الردود التي تعبر عن الاهتمام ÷ الرسائل المرسلة</p>
 </blockquote>
-<p>A low response rate may indicate:</p>
+<p>قد يشير معدل الاستجابة المنخفض إلى:</p>
 <ul>
-<li>poor deliverability;</li>
-<li>generic messages;</li>
-<li>incorrect contact details;</li>
-<li>weak subject lines.</li>
+<li>ضعف إمكانية التسليم؛</li>
+<li>رسائل عامة؛</li>
+<li>تفاصيل اتصال غير صحيحة؛</li>
+<li>عناوين رسائل ضعيفة.</li>
 </ul>
-<p>A high response rate but low positive response rate may indicate:</p>
+<p>قد يشير معدل الاستجابة المرتفع مع انخفاض معدل الاستجابة الإيجابية إلى:</p>
 <ul>
-<li>compensation mismatch;</li>
-<li>unattractive role;</li>
-<li>irrelevant targeting;</li>
-<li>location restrictions;</li>
-<li>unclear scope.</li>
+<li>عدم توافق الأجر؛</li>
+<li>وظيفة غير جذابة؛</li>
+<li>استهداف غير ملائم؛</li>
+<li>قيود على الموقع؛</li>
+<li>نطاق غير واضح.</li>
 </ul>
-<h2>Measure qualified conversion</h2>
-<p>A high positive response rate is not enough if candidates do not meet the requirements.</p>
-<p>Track:</p>
+<h2>قياس التحويل المؤهل</h2>
+<p>لا يكفي تحقيق معدل استجابة إيجابي مرتفع إذا كان المرشحون لا يستوفون المتطلبات.</p>
+<p>المؤشر:</p>
 <blockquote>
-<p>Qualified outreach conversion = qualified candidates entering the process ÷ delivered outreach messages</p>
+<p>معدل تحويل حملات التواصل المؤهلة = عدد المرشحين المؤهلين الذين دخلوا العملية ÷ عدد رسائل التواصل المرسلة</p>
 </blockquote>
-<p>This helps determine whether the search itself is accurate.</p>
-<h2>Measure source quality</h2>
-<p>For each source, track:</p>
+<p>يساعد هذا في تحديد مدى دقة عملية البحث نفسها.</p>
+<h2>قياس جودة المصادر</h2>
+<p>بالنسبة لكل مصدر, قم بتتبع:</p>
 <ul>
-<li>qualified candidates;</li>
-<li>interviews;</li>
-<li>offers;</li>
-<li>acceptances;</li>
-<li>time-to-hire;</li>
-<li>retention;</li>
-<li>screening effort;</li>
-<li>candidate experience.</li>
+<li>المرشحين المؤهلين؛</li>
+<li>المقابلات؛</li>
+<li>العروض؛</li>
+<li>حالات القبول؛</li>
+<li>المدة المستغرقة للتعيين؛</li>
+<li>معدل الاحتفاظ بالموظفين؛</li>
+<li>جهد الفرز؛</li>
+<li>تجربة المرشح.</li>
 </ul>
-<p>A source producing fewer candidates may still be more valuable if those candidates progress further.</p>
-<h2>Measure recruiter and hiring-manager time</h2>
-<p>Sourcing cost includes:</p>
+<p>قد يظل المصدر الذي ينتج عددًا أقل من المرشحين أكثر قيمة إذا ما تقدم هؤلاء المرشحون إلى مراحل لاحقة.</p>
+<h2>قياس وقت مسؤول التوظيف ومدير التوظيف</h2>
+<p>تشمل تكلفة البحث عن المرشحين ما يلي:</p>
 <ul>
-<li>research;</li>
-<li>outreach;</li>
-<li>follow-up;</li>
-<li>screening;</li>
-<li>coordination;</li>
-<li>profile review;</li>
-<li>calibration.</li>
+<li>البحث؛</li>
+<li>التواصل؛</li>
+<li>المتابعة؛</li>
+<li>الفرز؛</li>
+<li>التنسيق؛</li>
+<li>مراجعة الملفات الشخصية؛</li>
+<li>المعايرة.</li>
 </ul>
-<p>A channel should be evaluated by total effort, not only platform fees.</p>
-<h2>Track reasons for decline</h2>
-<p>Where candidates voluntarily share the reason, group responses such as:</p>
+<p>يجب تقييم القناة بناءً على الجهد الإجمالي, وليس فقط رسوم المنصة.</p>
+<h2>تتبع أسباب الرفض</h2>
+<p>عندما يشارك المرشحون السبب طواعيةً, قم بتصنيف الردود إلى مجموعات مثل:</p>
 <ul>
-<li>not looking;</li>
-<li>compensation;</li>
-<li>location;</li>
-<li>role scope;</li>
-<li>company stage;</li>
-<li>technology;</li>
-<li>management;</li>
-<li>timing;</li>
-<li>on-call;</li>
-<li>remote policy;</li>
-<li>accepted another role.</li>
+<li>غير باحث عن عمل؛</li>
+<li>الأجر؛</li>
+<li>الموقع؛</li>
+<li>نطاق الدور الوظيفي؛</li>
+<li>مرحلة تطور الشركة؛</li>
+<li>التكنولوجيا؛</li>
+<li>الإدارة؛</li>
+<li>التوقيت؛</li>
+<li>العمل عند الطلب؛</li>
+<li>سياسة العمل عن بُعد؛</li>
+<li>قبول دور وظيفي آخر.</li>
 </ul>
-<p>Use trends to improve the opportunity.</p>
-<p>Do not pressure people to provide a reason.</p>
-<h2>Review message performance carefully</h2>
-<p>Compare variations in:</p>
+<p>استخدم الاتجاهات لتحسين الفرصة.</p>
+<p>لا تضغط على الأشخاص لتقديم سبب.</p>
+<h2>راجع أداء الرسائل بعناية</h2>
+<p>قارن الاختلافات في:</p>
 <ul>
-<li>subject line;</li>
-<li>length;</li>
-<li>compensation visibility;</li>
-<li>role specificity;</li>
-<li>personalization;</li>
-<li>call to action;</li>
-<li>sender;</li>
-<li>follow-up timing.</li>
+<li>سطر الموضوع؛</li>
+<li>الطول؛</li>
+<li>وضوح الأجر؛</li>
+<li>تحديد الوظيفة؛</li>
+<li>التخصيص؛</li>
+<li>الدعوة إلى اتخاذ إجراء؛</li>
+<li>المرسل؛</li>
+<li>توقيت المتابعة.</li>
 </ul>
-<p>Avoid optimizing messages purely to increase replies through manipulation.</p>
-<p>The goal is informed interest, not curiosity clicks.</p>
-<h2>Track time to shortlist</h2>
-<p>Define a viable shortlist, such as five candidates who meet the agreed screening criteria.</p>
-<p>Then measure:</p>
+<p>تجنب تحسين الرسائل لمجرد زيادة الردود من خلال التلاعب.</p>
+<p>الهدف هو إثارة الاهتمام المستنير, وليس النقرات بدافع الفضول.</p>
+<h2>قياس الوقت المستغرق في وضع قائمة المرشحين المختارين</h2>
+<p>حدد قائمة مرشحين مختارين قابلة للتطبيق, مثل خمسة مرشحين يستوفون معايير الفرز المتفق عليها.</p>
+<p>ثم قم بقياس:</p>
 <blockquote>
-<p>Time to shortlist = time from opening the role to identifying the target number of qualified candidates</p>
+<p>الوقت المستغرق في وضع قائمة المرشحين المختارين = الوقت المستغرق من لحظة الإعلان عن الوظيفة حتى تحديد العدد المستهدف من المرشحين المؤهلين</p>
 </blockquote>
-<p>This is often more useful than raw application or outreach volume.</p>
-<h2>Build sourcing service levels</h2>
-<p>Set practical expectations.</p>
-<p>For example:</p>
-<table>
-<thead>
-<tr>
-<th>Activity</th>
-<th align="right">Target</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Hiring-manager feedback on sourced profiles</td>
-<td align="right">2 business days</td>
-</tr>
-<tr>
-<td>Candidate reply acknowledgment</td>
-<td align="right">1 business day</td>
-</tr>
-<tr>
-<td>Initial conversation scheduling</td>
-<td align="right">3 business days</td>
-</tr>
-<tr>
-<td>Post-screen decision</td>
-<td align="right">1 business day</td>
-</tr>
-<tr>
-<td>Candidate update during delays</td>
-<td align="right">Every 3 business days</td>
-</tr>
-<tr>
-<td>Data deletion request</td>
-<td align="right">Per documented privacy process</td>
-</tr>
-</tbody></table>
-<p>Fast follow-through matters.</p>
-<p>A strong prospect may lose interest when the company takes a week to respond after initiating contact.</p>
-<h2>Common sourcing mistakes</h2>
-<h2>Relying on one job board</h2>
-<p>No single channel reaches every relevant candidate.</p>
-<h2>Chasing maximum application volume</h2>
-<p>Large volumes can create screening cost without improving the shortlist.</p>
-<h2>Searching only exact technology keywords</h2>
-<p>Transferable developers are missed.</p>
-<h2>Targeting only famous companies</h2>
-<p>Prestige replaces evidence.</p>
-<h2>Sending generic mass outreach</h2>
-<p>Strong candidates recognize and ignore it.</p>
-<h2>Hiding compensation</h2>
-<p>Candidates cannot evaluate whether the conversation is worthwhile.</p>
-<h2>Contacting people repeatedly</h2>
-<p>Aggressive follow-up damages the employer brand.</p>
-<h2>Treating open-source communities as recruiting databases</h2>
-<p>Community trust is lost.</p>
-<h2>Failing to coordinate internal and agency outreach</h2>
-<p>Candidates receive duplicate or conflicting messages.</p>
-<h2>Ignoring past finalists</h2>
-<p>The company restarts every search from zero.</p>
-<h2>Collecting candidate data indefinitely</h2>
-<p>Privacy and trust risks increase.</p>
-<h2>Failing to fix the role</h2>
-<p>More sourcing cannot rescue unclear scope, weak compensation, or an excessive interview process.</p>
-<h2>Measuring only top-of-funnel activity</h2>
-<p>Messages and applications do not prove hiring value.</p>
-<h2>A balanced sourcing strategy</h2>
-<p>A healthy technical sourcing plan may combine:</p>
-<h3>Inbound</h3>
+<p>وغالبًا ما يكون هذا المقياس أكثر فائدة من مجرد حجم الطلبات الواردة أو حجم حملات التوعية.</p>
+<h2>وضع مستويات خدمة البحث عن المرشحين</h2>
+<p>حدد توقعات عملية.</p>
+<p>على سبيل المثال:</p>
+<p>| النشاط                                    |                         الهدف |
+| ------------------------------------------- | ---------------------------- -: |
+| ملاحظات مدير التوظيف على الملفات الشخصية التي تم العثور عليها |                يومان عمل |
+| إقرار استلام رد المرشح              |                 يوم عمل واحد |
+| تحديد موعد المحادثة الأولية             |                3 أيام عمل |
+| قرار ما بعد الفرز                        |                 يوم عمل واحد |
+| إطلاع المرشح على المستجدات أثناء فترات التأخير              |          كل 3 أيام عمل |
+| طلب حذف البيانات                       | وفقًا لإجراءات الخصوصية الموثقة |</p>
+<p>المتابعة السريعة أمر مهم.</p>
+<p>قد يفقد المرشح الواعد اهتمامه إذا استغرقت الشركة أسبوعًا للرد بعد بدء الاتصال.</p>
+<h2>الأخطاء الشائعة في البحث عن المرشحين</h2>
+<h2>الاعتماد على منصة توظيف واحدة</h2>
+<p>لا توجد قناة واحدة تصل إلى كل المرشحين المناسبين.</p>
+<h2>السعي وراء أكبر عدد ممكن من الطلبات</h2>
+<p>قد يؤدي العدد الكبير من الطلبات إلى تكاليف فرز دون تحسين قائمة المرشحين المختارين.</p>
+<h2>البحث عن الكلمات المفتاحية التقنية المطابقة تمامًا فقط</h2>
+<p>يتم تفويت المطورين القادرين على التكيف مع مجالات أخرى.</p>
+<h2>استهداف الشركات الشهيرة فقط</h2>
+<p>السمعة تحل محل الأدلة.</p>
+<h2>إرسال رسائل تواصل جماعية عامة</h2>
+<p>المرشحون المتميزون يدركون ذلك ويتجاهلونه.</p>
+<h2>إخفاء تفاصيل الأجر</h2>
+<p>لا يستطيع المرشحون تقييم ما إذا كانت المحادثة تستحق العناء.</p>
+<h2>الاتصال بالأشخاص بشكل متكرر</h2>
+<p>المتابعة المفرطة تضر بسمعة العلامة التجارية لصاحب العمل.</p>
+<h2>التعامل مع مجتمعات المصادر المفتوحة كقواعد بيانات للتوظيف</h2>
+<p>يؤدي ذلك إلى فقدان ثقة المجتمع.</p>
+<h2>عدم التنسيق بين جهود التواصل الداخلية وتلك التي تقوم بها الوكالات</h2>
+<p>يتلقى المرشحون رسائل مكررة أو متضاربة.</p>
+<h2>تجاهل المرشحين النهائيين السابقين</h2>
+<p>تبدأ الشركة كل عملية بحث من الصفر.</p>
+<h2>جمع بيانات المرشحين إلى أجل غير مسمى</h2>
+<p>تزداد مخاطر الخصوصية والثقة.</p>
+<h2>عدم تحديد مهام الوظيفة بوضوح</h2>
+<p>لا يمكن لمزيد من عمليات البحث عن المرشحين أن تعوض عن نطاق العمل غير الواضح, أو الأجر الضعيف, أو عملية المقابلات المفرطة.</p>
+<h2>قياس الأنشطة في مرحلة «قمة القمع» فقط</h2>
+<p>الرسائل والطلبات لا تثبت قيمة التوظيف.</p>
+<h2>استراتيجية توظيف متوازنة</h2>
+<p>قد تجمع خطة التوظيف التقنية السليمة بين:</p>
+<h3>القنوات الواردة</h3>
 <ul>
-<li>developer-focused marketplace;</li>
-<li>company careers page;</li>
-<li>job alerts;</li>
-<li>search-engine visibility;</li>
-<li>selected generalist platforms.</li>
+<li>سوق يركز على المطورين؛</li>
+<li>صفحة الوظائف الخاصة بالشركة؛</li>
+<li>تنبيهات الوظائف؛</li>
+<li>الظهور في محركات البحث؛</li>
+<li>منصات عامة مختارة.</li>
 </ul>
-<h3>Relationship-based</h3>
+<h3>القنوات القائمة على العلاقات</h3>
 <ul>
-<li>employee referrals;</li>
-<li>alumni;</li>
-<li>former candidates;</li>
-<li>professional networks;</li>
-<li>customers and partners where appropriate.</li>
+<li>توصيات الموظفين؛</li>
+<li>خريجو الشركة؛</li>
+<li>المرشحون السابقون؛</li>
+<li>الشبكات المهنية؛</li>
+<li>العملاء والشركاء عند الاقتضاء.</li>
 </ul>
-<h3>Community-based</h3>
+<h3>القائمة على المجتمع</h3>
 <ul>
-<li>open source;</li>
-<li>technical groups;</li>
-<li>conferences;</li>
-<li>meetups;</li>
-<li>newsletters;</li>
-<li>engineering content.</li>
+<li>البرمجيات مفتوحة المصدر؛</li>
+<li>المجموعات التقنية؛</li>
+<li>المؤتمرات؛</li>
+<li>اللقاءات؛</li>
+<li>النشرات الإخبارية؛</li>
+<li>المحتوى الهندسي.</li>
 </ul>
-<h3>Outbound</h3>
+<h3>التوظيف الخارجي</h3>
 <ul>
-<li>targeted professional outreach;</li>
-<li>specialist sourcing;</li>
-<li>agency support for selected roles.</li>
+<li>التواصل المهني الموجه؛</li>
+<li>التوظيف المتخصص؛</li>
+<li>دعم الوكالات للوظائف المختارة.</li>
 </ul>
-<h3>Early-career</h3>
+<h3>المبتدئون في مجال العمل</h3>
 <ul>
-<li>universities;</li>
-<li>apprenticeships;</li>
-<li>bootcamps;</li>
-<li>internal mobility.</li>
+<li>الجامعات؛</li>
+<li>برامج التدريب المهني؛</li>
+<li>الدورات التدريبية المكثفة؛</li>
+<li>التنقل الداخلي.</li>
 </ul>
-<p>The mix should change by role.</p>
-<h2>Example sourcing plan for a senior backend engineer</h2>
-<h3>Week 1</h3>
+<p>يجب أن يختلف هذا المزيج حسب الوظيفة.</p>
+<h2>مثال على خطة البحث عن مرشحين لمهندس خلفي رفيع المستوى</h2>
+<h3>الأسبوع الأول</h3>
 <ul>
-<li>Publish the role on a developer-focused marketplace.</li>
-<li>Publish the canonical role on the company website.</li>
-<li>Activate job alerts.</li>
-<li>Share the role internally.</li>
-<li>Review previous finalists.</li>
-<li>Create a list of relevant technical communities.</li>
-<li>Approve the outreach message and compensation language.</li>
+<li>نشر إعلان الوظيفة على منصة توظيف مخصصة للمطورين.</li>
+<li>نشر الوصف الرسمي للوظيفة على الموقع الإلكتروني للشركة.</li>
+<li>تفعيل تنبيهات الوظائف.</li>
+<li>مشاركة الوظيفة داخليًّا.</li>
+<li>مراجعة المرشحين النهائيين السابقين.</li>
+<li>إنشاء قائمة بالمجتمعات التقنية ذات الصلة.</li>
+<li>الموافقة على رسالة التواصل وصيغة التعويضات.</li>
 </ul>
-<h3>Week 2</h3>
+<h3>الأسبوع الثاني</h3>
 <ul>
-<li>Begin targeted outreach to 25–40 carefully selected prospects.</li>
-<li>Contact relevant alumni and referrals.</li>
-<li>Share a technical article connected to the role.</li>
-<li>Review initial applications within two business days.</li>
-<li>Calibrate the search using early profiles.</li>
+<li>بدء التواصل الموجه مع 25–40 مرشحًا محتملًا تم اختيارهم بعناية.</li>
+<li>الاتصال بالخريجين ذوي الصلة والأشخاص المُحالين.</li>
+<li>مشاركة مقال تقني مرتبط بالوظيفة.</li>
+<li>مراجعة الطلبات الأولية في غضون يومي عمل.</li>
+<li>ضبط عملية البحث باستخدام الملفات الشخصية الأولية.</li>
 </ul>
-<h3>Week 3</h3>
+<h3>الأسبوع الثالث</h3>
 <ul>
-<li>Expand into adjacent backgrounds.</li>
-<li>Review response and qualification rates.</li>
-<li>Adjust messaging or role details.</li>
-<li>Engage a specialist recruiter only if needed.</li>
-<li>Continue prompt candidate movement.</li>
+<li>توسيع نطاق البحث ليشمل الخلفيات المجاورة.</li>
+<li>مراجعة معدلات الاستجابة والمؤهلات.</li>
+<li>تعديل الرسائل أو تفاصيل الوظيفة.</li>
+<li>الاستعانة بمتخصص في التوظيف فقط عند الحاجة.</li>
+<li>مواصلة المتابعة السريعة للمرشحين.</li>
 </ul>
-<h3>Week 4</h3>
+<h3>الأسبوع الرابع</h3>
 <ul>
-<li>Evaluate source quality.</li>
-<li>Measure time to shortlist.</li>
-<li>Identify bottlenecks.</li>
-<li>Stop low-performing, high-effort activity.</li>
-<li>Deepen the strongest channels.</li>
+<li>تقييم جودة مصادر التوظيف.</li>
+<li>قياس الوقت المستغرق في وضع القائمة المختصرة.</li>
+<li>تحديد المعوقات.</li>
+<li>إيقاف الأنشطة ذات الأداء الضعيف والتي تتطلب جهدًا كبيرًا.</li>
+<li>تعزيز القنوات الأكثر فعالية.</li>
 </ul>
-<h2>Example sourcing plan for an early-career developer</h2>
+<h2>مثال على خطة البحث عن مطور في بداية مسيرته المهنية</h2>
 <ul>
-<li>Publish a clear entry-level listing.</li>
-<li>Remove unnecessary experience requirements.</li>
-<li>Partner with universities and apprenticeship programs.</li>
-<li>Share the role with community groups.</li>
-<li>Offer a practical, accessible assessment.</li>
-<li>evaluate projects and learning ability;</li>
-<li>explain mentoring and growth;</li>
-<li>publish the salary range;</li>
-<li>provide a clear hiring timeline.</li>
+<li>نشر إعلان وظيفي واضح للمبتدئين.</li>
+<li>حذف متطلبات الخبرة غير الضرورية.</li>
+<li>إقامة شراكات مع الجامعات وبرامج التدريب المهني.</li>
+<li>مشاركة تفاصيل الوظيفة مع المجموعات المجتمعية.</li>
+<li>تقديم تقييم عملي وسهل الوصول.</li>
+<li>تقييم المشاريع والقدرة على التعلم؛</li>
+<li>شرح نظام التوجيه والتطوير المهني؛</li>
+<li>نشر نطاق الراتب؛</li>
+<li>تحديد جدول زمني واضح لعملية التوظيف.</li>
 </ul>
-<p>Early-career sourcing should focus on potential, not polished professional history.</p>
-<h2>Example sourcing plan for a specialized security engineer</h2>
+<p>يجب أن يركز البحث عن المواهب في بداية المسيرة المهنية على الإمكانات, وليس على السيرة المهنية المُصقولة.</p>
+<h2>مثال على خطة البحث عن مهندس أمن متخصص</h2>
 <ul>
-<li>Define the exact security responsibility.</li>
-<li>Search relevant professional communities.</li>
-<li>Engage through conferences and technical writing.</li>
-<li>Review open-source security contributions.</li>
-<li>Use targeted outreach based on demonstrated expertise.</li>
-<li>Consider a specialist recruiter.</li>
-<li>Offer transparent compensation and reporting lines.</li>
-<li>explain authority, resources, and executive support;</li>
-<li>avoid combining every security discipline into one role.</li>
+<li>تحديد المسؤولية الأمنية بدقة.</li>
+<li>البحث في المجتمعات المهنية ذات الصلة.</li>
+<li>التواصل من خلال المؤتمرات والكتابات الفنية.</li>
+<li>مراجعة المساهمات الأمنية في المشاريع مفتوحة المصدر.</li>
+<li>استخدام التواصل الموجه بناءً على الخبرة المثبتة.</li>
+<li>النظر في الاستعانة بمتخصص في التوظيف.</li>
+<li>تقديم تعويضات شفافة وتسلسل هرمي واضح.</li>
+<li>شرح الصلاحيات والموارد والدعم التنفيذي؛</li>
+<li>تجنب دمج جميع تخصصات الأمن في دور واحد.</li>
 </ul>
-<p>Specialists need to understand whether the company is genuinely prepared to support their work.</p>
-<h2>A sourcing-channel worksheet</h2>
-<p>For each channel, record:</p>
-<h3>Channel</h3>
+<p>يحتاج المتخصصون إلى فهم ما إذا كانت الشركة مستعدة حقًا لدعم عملهم.</p>
+<h2>ورقة عمل لقنوات البحث عن المرشحين</h2>
+<p>بالنسبة لكل قناة, قم بتسجيل:</p>
+<h3>القناة</h3>
 <ul>
-<li>Name:</li>
-<li>Audience:</li>
-<li>Cost:</li>
-<li>Owner:</li>
-<li>Role type:</li>
-<li>Start date:</li>
+<li>الاسم:</li>
+<li>الجمهور المستهدف:</li>
+<li>التكلفة:</li>
+<li>المسؤول:</li>
+<li>نوع الدور:</li>
+<li>تاريخ البدء:</li>
 </ul>
-<h3>Funnel</h3>
+<h3>مسار التوظيف</h3>
 <ul>
-<li>Views or prospects:</li>
-<li>Applications or messages:</li>
-<li>Responses:</li>
-<li>Positive responses:</li>
-<li>Qualified screens:</li>
-<li>Technical interviews:</li>
-<li>Final interviews:</li>
-<li>Offers:</li>
-<li>Acceptances:</li>
+<li>المشاهدات أو العملاء المحتملون:</li>
+<li>الطلبات أو الرسائل:</li>
+<li>الردود:</li>
+<li>الردود الإيجابية:</li>
+<li>المرشحون المؤهلون بعد الفرز:</li>
+<li>المقابلات الفنية:</li>
+<li>المقابلات النهائية:</li>
+<li>العروض:</li>
+<li>حالات القبول:</li>
 </ul>
-<h3>Efficiency</h3>
+<h3>الكفاءة</h3>
 <ul>
-<li>Screening hours:</li>
-<li>Sourcing hours:</li>
-<li>Time to first qualified candidate:</li>
-<li>Time to shortlist:</li>
-<li>Cost per qualified candidate:</li>
-<li>Cost per accepted hire:</li>
+<li>ساعات الفرز:</li>
+<li>ساعات البحث عن المرشحين:</li>
+<li>الوقت المستغرق للوصول إلى أول مرشح مؤهل:</li>
+<li>الوقت المستغرق لتحديد القائمة المختصرة:</li>
+<li>التكلفة لكل مرشح مؤهل:</li>
+<li>التكلفة لكل موظف تم تعيينه:</li>
 </ul>
-<h3>Quality</h3>
+<h3>الجودة</h3>
 <ul>
-<li>Relevance:</li>
-<li>Candidate experience:</li>
-<li>Hiring-manager feedback:</li>
-<li>Retention:</li>
-<li>First-year performance where available:</li>
+<li>مدى ملاءمة المرشح للوظيفة:</li>
+<li>تجربة المرشح:</li>
+<li>ملاحظات مدير التوظيف:</li>
+<li>معدل الاحتفاظ بالموظفين:</li>
+<li>أداء الموظف في السنة الأولى (إن وجد):</li>
 </ul>
-<h3>Decision</h3>
+<h3>القرار</h3>
 <ul>
-<li>Continue:</li>
-<li>Expand:</li>
-<li>Modify:</li>
-<li>Pause:</li>
-<li>Replace:</li>
+<li>المتابعة:</li>
+<li>التوسيع:</li>
+<li>التعديل:</li>
+<li>الإيقاف المؤقت:</li>
+<li>الاستبدال:</li>
 </ul>
-<h2>A sourcing-readiness checklist</h2>
-<p>Before beginning, confirm that:</p>
+<h2>قائمة مراجعة لاستعداد عملية البحث عن المرشحين</h2>
+<p>قبل البدء, تأكد من:</p>
 <ul>
-<li>the role mission is clear;</li>
-<li>expected outcomes are defined;</li>
-<li>level is accurate;</li>
-<li>required capabilities are limited to genuine needs;</li>
-<li>transferable experience is understood;</li>
-<li>compensation is approved;</li>
-<li>location rules are clear;</li>
-<li>interview stages are ready;</li>
-<li>the company profile is complete;</li>
-<li>the careers page is accurate;</li>
-<li>source tracking is configured;</li>
-<li>outreach templates are approved;</li>
-<li>privacy and retention rules are documented;</li>
-<li>hiring-manager review time is reserved.</li>
+<li>أن مهمة الوظيفة واضحة؛</li>
+<li>أن النتائج المتوقعة محددة؛</li>
+<li>أن المستوى دقيق؛</li>
+<li>أن القدرات المطلوبة تقتصر على الاحتياجات الحقيقية؛</li>
+<li>أن الخبرة القابلة للتطبيق مفهومة؛</li>
+<li>أن المكافأة معتمدة؛</li>
+<li>أن قواعد الموقع واضحة؛</li>
+<li>أن مراحل المقابلة جاهزة؛</li>
+<li>أن ملف تعريف الشركة كامل؛</li>
+<li>أن صفحة الوظائف دقيقة؛</li>
+<li>أن نظام تتبع المصادر قد تم تهيئته؛</li>
+<li>أن نماذج التواصل قد تمت الموافقة عليها؛</li>
+<li>أن قواعد الخصوصية والاحتفاظ بالبيانات موثقة؛</li>
+<li>أن وقت مراجعة مدير التوظيف محجوز.</li>
 </ul>
-<h2>An outreach checklist</h2>
-<p>Before contacting someone, confirm that:</p>
+<h2>قائمة مراجعة للتواصل</h2>
+<p>قبل الاتصال بأي شخص, تأكد من:</p>
 <ul>
-<li>the person’s experience appears relevant;</li>
-<li>the message references real professional evidence;</li>
-<li>the role is described accurately;</li>
-<li>compensation is included;</li>
-<li>location requirements are included;</li>
-<li>the message is concise;</li>
-<li>the next step is low pressure;</li>
-<li>contact details were obtained appropriately;</li>
-<li>no colleague or agency has already contacted them;</li>
-<li>the company can respond promptly if they are interested.</li>
+<li>أن خبرة الشخص تبدو ذات صلة؛</li>
+<li>أن الرسالة تشير إلى أدلة مهنية حقيقية؛</li>
+<li>أن الوصف الوظيفي دقيق؛</li>
+<li>أن المكافأة مذكورة؛</li>
+<li>أن متطلبات الموقع مذكورة؛</li>
+<li>أن الرسالة موجزة؛</li>
+<li>أن الخطوة التالية لا تنطوي على ضغط كبير؛</li>
+<li>أن تفاصيل الاتصال تم الحصول عليها بطريقة مناسبة؛</li>
+<li>أنه لم يتصل به أي زميل أو وكالة من قبل؛</li>
+<li>أن الشركة قادرة على الرد فوراً في حال اهتم المرشح بالوظيفة.</li>
 </ul>
-<h2>A candidate-relationship checklist</h2>
-<p>After someone responds:</p>
+<h2>قائمة مراجعة للعلاقة مع المرشح</h2>
+<p>بعد أن يرد المرشح:</p>
 <ul>
-<li>acknowledge the reply quickly;</li>
-<li>answer questions directly;</li>
-<li>do not force an immediate call;</li>
-<li>explain the interview process;</li>
-<li>document communication preferences;</li>
-<li>respect a decline;</li>
-<li>ask permission before future contact where appropriate;</li>
-<li>communicate delays;</li>
-<li>avoid adding them to unrelated marketing lists;</li>
-<li>preserve the relationship whether or not they are hired.</li>
+<li>الرد على الرسالة بسرعة؛</li>
+<li>الإجابة على الأسئلة بشكل مباشر؛</li>
+<li>عدم الإلحاح على إجراء مكالمة فورية؛</li>
+<li>شرح إجراءات المقابلة؛</li>
+<li>تسجيل تفضيلات التواصل؛</li>
+<li>احترام الرفض؛</li>
+<li>طلب الإذن قبل أي اتصال مستقبلي, حيثما كان ذلك مناسبًا؛</li>
+<li>الإبلاغ عن أي تأخيرات؛</li>
+<li>تجنب إضافة المرشحين إلى قوائم تسويقية غير ذات صلة؛</li>
+<li>الحفاظ على العلاقة سواء تم تعيينهم أم لا.</li>
 </ul>
-<h2>The takeaway</h2>
-<p>Great developers are not found through one universal channel.</p>
-<p>Some are actively searching on focused job marketplaces.</p>
-<p>Some are building in open-source communities.</p>
-<p>Some are sharing ideas through articles and talks.</p>
-<p>Some are learning through universities, apprenticeships, and bootcamps.</p>
-<p>Some are former candidates, former employees, referrals, or people who may become interested months from now.</p>
-<p>An effective sourcing strategy:</p>
+<h2>النقطة الأساسية</h2>
+<p>لا يمكن العثور على المطورين المتميزين من خلال قناة واحدة شاملة.</p>
+<p>البعض يبحث بنشاط في منصات التوظيف المتخصصة.</p>
+<p>البعض يساهم في تطوير المشاريع داخل مجتمعات البرمجيات مفتوحة المصدر.</p>
+<p>البعض يشارك الأفكار من خلال المقالات والمحاضرات.</p>
+<p>البعض يتعلم من خلال الجامعات وبرامج التدريب المهني ودورات التدريب المكثفة.</p>
+<p>البعض هم مرشحون سابقون, أو موظفون سابقون, أو مرشحون موصى بهم, أو أشخاص قد يصبحون مهتمين بعد أشهر من الآن.</p>
+<p>استراتيجية فعالة لاكتشاف المواهب:</p>
 <ol>
-<li>Defines the role before beginning the search.</li>
-<li>Separates essential capabilities from learnable tools.</li>
-<li>Reaches active candidates through relevant, transparent listings.</li>
-<li>Uses referrals without depending on narrow networks.</li>
-<li>Engages technical communities respectfully.</li>
-<li>Reviews public work without requiring it from everyone.</li>
-<li>Uses thoughtful, specific outreach for passive candidates.</li>
-<li>Includes compensation and logistics early.</li>
-<li>Builds relationships with future candidates.</li>
-<li>Protects privacy and communication boundaries.</li>
-<li>Measures qualified candidates rather than raw activity.</li>
-<li>Improves the role when sourcing results expose a deeper problem.</li>
-<li>Coordinates recruiters, hiring managers, agencies, and interviewers.</li>
-<li>Treats every candidate interaction as part of the employer brand.</li>
+<li>يحدد الوظيفة قبل البدء في عملية البحث.</li>
+<li>يفصل بين القدرات الأساسية والأدوات التي يمكن تعلمها.</li>
+<li>يصل إلى المرشحين النشطين من خلال إعلانات وظيفية ملائمة وشفافة.</li>
+<li>يستخدم التوصيات دون الاعتماد على شبكات ضيقة.</li>
+<li>يتفاعل مع المجتمعات التقنية باحترام.</li>
+<li>يراجع الأعمال المنشورة علنًا دون اشتراط ذلك من الجميع.</li>
+<li>يستخدم أساليب تواصل مدروسة ومحددة مع المرشحين غير النشطين.</li>
+<li>يدرج مسألة المكافآت واللوجستيات في مرحلة مبكرة.</li>
+<li>يبني علاقات مع المرشحين المستقبليين.</li>
+<li>يحمي الخصوصية وحدود التواصل.</li>
+<li>يقيّم المرشحين المؤهلين بدلاً من النشاط الخام.</li>
+<li>يحسّن الوصف الوظيفي عندما تكشف نتائج البحث عن مشكلة أعمق.</li>
+<li>ينسق بين مسؤولي التوظيف ومديري التعيين والوكالات والمحاورين.</li>
+<li>يعامل كل تفاعل مع المرشح كجزء من العلامة التجارية لصاحب العمل.</li>
 </ol>
-<p>The best sourcing does not feel like mass marketing.</p>
-<p>It feels like a relevant opportunity reaching the right person at the right time, presented with enough honesty for that person to make an informed decision.</p>
-<p>Build a strong inbound presence.</p>
-<p>Search beyond familiar titles and companies.</p>
-<p>Write outreach that proves you understand the person’s work.</p>
-<p>Stay in contact with talented people whose timing is not right today.</p>
-<p>Over time, sourcing becomes less about urgently finding strangers and more about maintaining trusted connections with the technical communities your company depends on.</p>
-<p><em>Reach active developers through a focused, transparent hiring marketplace. <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish your role, and connect directly with technical professionals whose experience matches the work.</em></p>
-5:["locale","ar","d"]
-6:["slug","where-to-find-great-developers-sourcing","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"where-to-find-great-developers-sourcing\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","where-to-find-great-developers-sourcing","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Where to Find Great Developers: A Guide to Sourcing Technical Talent\",\"description\":\"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships.\",\"datePublished\":\"2026-06-15T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Where to Find Great Developers: A Guide to Sourcing Technical Talent","date":"2026-06-15T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":33,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Where to Find Great Developers: A Guide to Sourcing Technical Talent | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","15",{"property":"og:description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-15T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Where to Find Great Developers: A Guide to Sourcing Technical Talent"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to finding and attracting software developers through specialist job boards, referrals, technical communities, open source, direct outreach, events, universities, and long-term talent relationships."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p>أفضل عملية بحث عن المرشحين لا تبدو كالتسويق الجماعي.</p>
+<p>بل تبدو كفرصة ملائمة تصل إلى الشخص المناسب في الوقت المناسب, تُعرض بقدر كافٍ من الصدق لتمكين ذلك الشخص من اتخاذ قرار مستنير.</p>
+<p>قم ببناء حضور قوي في مجال التوظيف الداخلي.</p>
+<p>ابحث خارج نطاق المسميات الوظيفية والشركات المألوفة.</p>
+<p>اكتب رسائل تواصل تثبت أنك تفهم طبيعة عمل الشخص.</p>
+<p>ابقَ على اتصال مع الأشخاص الموهوبين الذين لم يحن وقتهم المناسب اليوم.</p>
+<p>بمرور الوقت, يصبح البحث عن المواهب أقل ارتباطًا بالعثور العاجل على غرباء, وأكثر ارتباطًا بالحفاظ على علاقات موثوقة مع المجتمعات التقنية التي تعتمد عليها شركتك.</p>
+<p><em>تواصل مع المطورين النشطين من خلال منصة توظيف مركزة وشفافة. <a href="/auth/register?role=COMPANY">أنشئ حسابًا للشركة على JobsList.dev</a>, وانشر إعلان الوظيفة, وتواصل مباشرةً مع المهنيين التقنيين الذين تتوافق خبراتهم مع متطلبات العمل.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"أين تجد المطورين المتميزين: دليل لاكتشاف المواهب التقنية\",\"description\":\"دليل عملي للعثور على مطوري البرمجيات وجذبهم من خلال منصات التوظيف المتخصصة, والتوصيات, والمجتمعات التقنية, ومشاريع البرمجيات مفتوحة المصدر, والتواصل المباشر, والفعاليات, والجامعات, والعلاقات طويلة الأمد مع المواهب.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-06-15T00:00:00.000Z\",\"dateModified\":\"2026-06-15T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/where-to-find-great-developers-sourcing/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"أين تجد المطورين المتميزين: دليل لاكتشاف المواهب التقنية"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي للعثور على مطوري البرمجيات وجذبهم من خلال منصات التوظيف المتخصصة, والتوصيات, والمجتمعات التقنية, ومشاريع البرمجيات مفتوحة المصدر, والتواصل المباشر, والفعاليات, والجامعات, والعلاقات طويلة الأمد مع المواهب."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-15T00:00:00.000Z","children":"14 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[37," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","البحث عن المواهب",{"className":"badge-gray","children":"البحث عن المواهب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","التعيين",{"className":"badge-gray","children":"التعيين"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}],["$","span","المواهب التقنية",{"className":"badge-gray","children":"المواهب التقنية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"أين تجد المطورين المتميزين: دليل لاكتشاف المواهب التقنية | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي للعثور على مطوري البرمجيات وجذبهم من خلال منصات التوظيف المتخصصة, والتوصيات, والمجتمعات التقنية, ومشاريع البرمجيات مفتوحة المصدر, والتواصل المباشر, والفعاليات, والجامعات, والعلاقات طويلة الأمد مع المواهب."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"أين تجد المطورين المتميزين: دليل لاكتشاف المواهب التقنية"}],["$","meta","15",{"property":"og:description","content":"دليل عملي للعثور على مطوري البرمجيات وجذبهم من خلال منصات التوظيف المتخصصة, والتوصيات, والمجتمعات التقنية, ومشاريع البرمجيات مفتوحة المصدر, والتواصل المباشر, والفعاليات, والجامعات, والعلاقات طويلة الأمد مع المواهب."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/where-to-find-great-developers-sourcing/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-15T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"أين تجد المطورين المتميزين: دليل لاكتشاف المواهب التقنية"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي للعثور على مطوري البرمجيات وجذبهم من خلال منصات التوظيف المتخصصة, والتوصيات, والمجتمعات التقنية, ومشاريع البرمجيات مفتوحة المصدر, والتواصل المباشر, والفعاليات, والجامعات, والعلاقات طويلة الأمد مع المواهب."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

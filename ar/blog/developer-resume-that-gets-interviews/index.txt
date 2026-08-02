@@ -1,60 +1,876 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T1673,<p>سيرتك الذاتية لها مهمة واحدة: أن تحصل لك على المقابلة. لن تجعلك تُوظَّف؛ فهذا دور المقابلة، لذا عليها أن تؤدي هذه المهمة الوحيدة بإتقان. تفشل معظم السير الذاتية للمطوّرين لأنها تسرد المهام بدلاً من الأثر وتدفن الأجزاء الجيدة. إليك كيف تصلح سيرتك.</p>
-<h2>ابدأ بالأثر لا بالمسؤوليات</h2>
-<p>أكبر تحسين يمكنك إجراؤه هو تحويل &quot;مسؤول عن X&quot; إلى &quot;حققت Y عبر القيام بـ X&quot;. فمديرو التوظيف يقرؤون بسرعة بحثاً عن النتائج.</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","developer-resume-that-gets-interviews","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"developer-resume-that-gets-interviews\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Tcb11,<p>لدى سيرتك الذاتية مهمة أساسية واحدة: أن تكسبك فرصة المحادثة التالية.
+لن تؤدي السيرة الذاتية بحد ذاتها إلى تعيينك. ولن تثبت كل ما تعرفه. ولن تحل محل المقابلة الفنية, أو محفظة الأعمال, أو التوصيات, أو عينة العمل.
+ما يمكنها فعله هو أن تجعل مسؤول التوظيف, أو مدير التوظيف, أو قائد فريق الهندسة يفكر:</p>
+<blockquote>
+<p>&quot; يبدو أن هذا الشخص قادر على حل المشكلات التي نواجهها. أريد معرفة المزيد.&quot;
+هذا هو المعيار الذي يجب أن تُصمم سيرتك الذاتية بناءً عليه.
+تفشل معظم السير الذاتية للمطورين لأسباب يمكن توقعها. فهي تصف المسؤوليات بدلاً من النتائج, أو تسرد كل تقنية تعامل معها المرشح من قبل, أو تخفي الإنجازات المهمة داخل فقرات طويلة, أو تقدم نفس الوثيقة العامة لكل جهة توظيف.
+أما السيرة الذاتية القوية للمطور فهي مختلفة. فهي:</p>
+</blockquote>
 <ul>
-<li>❌ &quot;مسؤول عن الـ API الخلفية (backend).&quot;</li>
-<li>✅ &quot;خفّضت زمن الاستجابة p95 للـ API بنسبة 40% عبر إعادة تصميم طبقة التخزين المؤقت (caching)، موفّراً نحو 3000 دولار شهرياً في تكاليف البنية التحتية.&quot;</li>
+<li>سهلة القراءة؛</li>
+<li>محددة؛</li>
+<li>قائمة على الأدلة؛</li>
+<li>ذات صلة بالوظيفة؛</li>
+<li>ذات مصداقية تقنية؛</li>
+<li>قابلة للقراءة من قبل البشر وأنظمة تتبع المتقدمين؛</li>
+<li>صادقة بشأن نطاق العمل والخبرة.
+يشرح هذا الدليل كيفية إنشاء سيرة ذاتية من هذا النوع.</li>
 </ul>
-<p>استخدم النمط <strong>[فعل حركي] + [ما فعلته] + [نتيجة قابلة للقياس]</strong>. الأرقام - النسب المئوية والدولارات والمستخدمون والوقت الموفَّر - تجعلك ملموساً وموثوقاً. وإذا لم تكن لديك مقاييس دقيقة، فقدّرها بأمانة (&quot;~&quot;، &quot;تقريباً&quot;).</p>
-<h2>اجعلها قابلة للمسح السريع في 10 ثوانٍ</h2>
-<p>يقضي القائمون على التوظيف والمهندسون ثوانٍ فقط في القراءة الأولى. ساعدهم:</p>
+<h2>ابدأ بمنظور مدير التوظيف</h2>
+<p>قبل إعادة كتابة سيرتك الذاتية, افهم كيف سيتم استخدامها.
+يرغب المراجع العادي في الإجابة عن بعض الأسئلة بسرعة:</p>
 <ul>
-<li><strong>أقسام واضحة</strong>: ملخص (اختياري، سطران)، الخبرة، المهارات، المشاريع، التعليم.</li>
-<li>الخبرة <strong>بترتيب زمني عكسي</strong>، الأحدث أولاً.</li>
-<li><strong>نقاط لا فقرات</strong> - من 3 إلى 5 لكل وظيفة، تبدأ كل واحدة بفعل قوي.</li>
-<li><strong>صفحة واحدة</strong> لمعظم الناس؛ وصفحتان فقط إذا كانت لديك أكثر من 8 سنوات من العمل ذي الصلة.</li>
+<li>ما نوع المهندس الذي يمثله هذا الشخص؟</li>
+<li>على أي مستوى عمل؟</li>
+<li>ما هي الأنظمة أو المنتجات أو الفرق التي عمل عليها؟</li>
+<li>ما هي مساهمته الشخصية؟</li>
+<li>ما هي النتائج القابلة للقياس التي حققها؟</li>
+<li>هل تتطابق خبرته مع التحديات التي ينطوي عليها هذا المنصب؟</li>
+<li>هل هناك أدلة كافية لتبرير إجراء مقابلة؟
+يجب أن تجعل سيرتك الذاتية العثور على هذه الإجابات أمرًا سهلاً.
+وهذا يعني أن الوثيقة لا ينبغي أن تُقرأ كسيرة ذاتية. بل يجب أن تُقرأ كحجة موجزة توضح لماذا خلفيتك ذات صلة بالمنصب.</li>
 </ul>
-<h2>اجتَز الفلاتر دون حشو الكلمات المفتاحية</h2>
-<p>تفحص شركات كثيرة السير الذاتية (ببرمجيات أو بقائمة تحقّق بشرية) مقابل الوصف الوظيفي. لست بحاجة إلى التحايل على النظام؛ بل عليك أن تعكس اللغة الحقيقية:</p>
+<h2>ابدأ بالتأثير, لا بالمسؤوليات</h2>
+<p>أكبر تحسين يمكن لمعظم المطورين القيام به هو استبدال النقاط القائمة على المهام بنقاط قائمة على النتائج.
+تصف النقاط الضعيفة ما كانت تتطلبه الوظيفة:</p>
 <ul>
-<li>استخدم <strong>المصطلحات الدقيقة</strong> الواردة في الإعلان حيثما تنطبق عليك فعلاً (&quot;PostgreSQL&quot; وليس مجرد &quot;SQL&quot; إذا كان هذا ما طلبوه).</li>
-<li>احتفظ بقسم <strong>المهارات</strong> يضم تقنياتك الفعلية (stack) مجمّعة (اللغات، الأطر البرمجية، الأدوات، الحوسبة السحابية).</li>
-<li>تجنّب الجداول والأعمدة والرسوميات التي تعجز أدوات التحليل عن معالجتها؛ فالتصميم النظيف بعمود واحد هو الأكثر أماناً.</li>
+<li>«مسؤول عن واجهة برمجة التطبيقات (API) للخلفية.»</li>
+<li>«عملت على مكونات React.»</li>
+<li>«شاركت في مراجعات الكود.»</li>
+<li>«ساعدت في صيانة البنية التحتية السحابية.»</li>
+<li>«تعاونت مع مديري المنتجات.»
+هذه العبارات ليست خاطئة بالضرورة, لكنها لا توضح للقارئ ما إذا كنت فعالاً أم لا.
+أما النقاط الأقوى فتُظهر ما الذي تغير بفضل عملك:</li>
+<li>«خفضت زمن استجابة واجهة برمجة التطبيقات (API) p95 بنسبة 40% من خلال إعادة تصميم طبقات التخزين المؤقت والاستعلام.»</li>
+<li>«أنشأت نظام مكونات React قابل لإعادة الاستخدام, مما أدى إلى تقليل وقت تسليم الميزات بنسبة 25% تقريبًا.»</li>
+<li>«أدخلت إرشادات منظمة لمراجعة الكود, مما أدى إلى تقليل العيوب المتكررة في الإنتاج.»</li>
+<li>«خفضت تكاليف البنية التحتية الشهرية بحوالي 3,000 دولار من خلال سياسات تحديد الحجم المناسب ودورة حياة التخزين.»</li>
+<li>«التعاون مع فرق المنتج والتصميم لإطلاق مسار تأهيل المستخدمين الجدد الذي حسّن معدل التنشيط بنسبة 18٪.»
+هناك صيغة مفيدة وهي:
+<strong>الإجراء + النطاق + الطريقة + النتيجة</strong>
+على سبيل المثال:</li>
 </ul>
-<h2>أظهِر عملاً حقيقياً</h2>
-<p>بالنسبة إلى المطوّرين، الدليل أفضل من الصفات:</p>
+<blockquote>
+<p>«تم ترحيل 14 خدمة إنتاجية من خط أنابيب نشر مشترك إلى سير عمل CI/CD معزول, مما أدى إلى خفض الإصدارات الفاشلة بنسبة 35٪.»
+لا يجب أن تكون النتيجة مالية دائمًا. تشمل النتائج المفيدة ما يلي:</p>
+</blockquote>
 <ul>
-<li>ضَع رابطاً لحساب <strong>GitHub</strong> الخاص بك، أو <strong>معرض أعمالك</strong>، أو <strong>مشروع</strong> بارز مع وصف من سطر واحد لما يفعله وللتقنيات المستخدمة.</li>
-<li>لكل مشروع: المشكلة، ونهجك، والنتيجة. عبارة &quot;بنيت تطبيق محادثة في الوقت الحقيقي (TypeScript، WebSockets) يتحمّل 5000 مستخدم متزامن&quot; تقول أكثر من &quot;متمكّن من TypeScript&quot;.</li>
+<li>أوقات استجابة أسرع؛</li>
+<li>عدد حوادث أقل؛</li>
+<li>موثوقية أعلى؛</li>
+<li>تكاليف أقل؛</li>
+<li>زيادة في معدل التحويل؛</li>
+<li>تحسين إمكانية الوصول؛</li>
+<li>دورات نشر أقصر؛</li>
+<li>عدد تذاكر الدعم أقل؛</li>
+<li>تغطية اختبار أعلى؛</li>
+<li>تأهيل أسرع للمطورين؛</li>
+<li>تحسين الوضع الأمني؛</li>
+<li>زيادة اعتماد المستخدمين؛</li>
+<li>تقليل العمل اليدوي؛</li>
+<li>تحسين دقة البيانات.</li>
 </ul>
-<h2>خصّصها (ولو قليلاً)</h2>
-<p>لست بحاجة إلى سيرة ذاتية جديدة لكل طلب، لكن خصّص دقيقتين:</p>
+<h2>استخدم المقاييس دون اختراعها</h2>
+<p>الأرقام تجعل الإنجازات أكثر مصداقية, لكن يجب أن تكون صادقة.
+تشمل المقاييس الجيدة ما يلي:</p>
 <ul>
-<li>أعِد ترتيب النقاط بحيث تكون الخبرة الأكثر <strong>صلة</strong> في الأعلى.</li>
-<li>عدّل سطر الملخص ليطابق الوظيفة.</li>
-<li>احذف أي شيء غير ذي صلة يخفّف من قوة الإشارة.</li>
+<li>نسبة التحسن؛</li>
+<li>الوقت الموفر؛</li>
+<li>الإيرادات المتأثرة؛</li>
+<li>التكلفة المخفضة؛</li>
+<li>عدد المستخدمين المدعومين؛</li>
+<li>الطلبات المعالجة؛</li>
+<li>الحوادث التي تم منعها؛</li>
+<li>وقت التشغيل المحقق؛</li>
+<li>حجم الفريق؛</li>
+<li>مدة المشروع؛</li>
+<li>تكرار النشر؛</li>
+<li>تغطية الاختبار؛</li>
+<li>وقت الاستجابة؛</li>
+<li>معدل الأخطاء؛</li>
+<li>حجم البيانات.
+أمثلة:</li>
+<li>«تم دعم أكثر من 200,000 مستخدم نشط شهريًّا.»</li>
+<li>«تم تقليل متوسط وقت النشر من 35 دقيقة إلى 12 دقيقة.»</li>
+<li>«تم تحسين تغطية الاختبارات الآلية من 54% إلى 81%.»</li>
+<li>«تم تقليل العمل اليدوي في المطابقة بنحو 10 ساعات أسبوعيًّا.»</li>
+<li>«الحفاظ على نسبة توفر تبلغ 99.95% عبر الخدمات الموجهة للعملاء.»
+عندما لا تتوفر الأرقام الدقيقة, استخدم صياغة حذرة:</li>
+<li>تقريبًا؛</li>
+<li>تقريبيًّا؛</li>
+<li>أكثر من؛</li>
+<li>أقل من؛</li>
+<li>حوالي؛</li>
+<li>تقديريًّا؛</li>
+<li>عبر عدة فرق؛</li>
+<li>في ذروة حركة المرور.
+لا تختلق دقة لا يمكنك إثباتها.
+هذا مقبول:</li>
 </ul>
-<h2>أخطاء شائعة عليك حذفها</h2>
+<blockquote>
+<p>«خفض حجم طلبات الدعم بنسبة 20٪ تقريبًا بعد تحسين عمليات التحقق ورسائل الخطأ.»
+هذا غير مقبول:
+«خفض عدد تذاكر الدعم بنسبة 23.71٪»
+ما لم تكن قد قمت بقياس ذلك فعليًّا.</p>
+</blockquote>
+<h2>أظهر مساهمتك الفردية</h2>
+<p>عادةً ما يكون العمل التقني تعاونيًّا, لكن أصحاب العمل ما زالوا بحاجة إلى فهم ما قمت به شخصيًّا.
+نقطة ضعيفة تقول:</p>
+<blockquote>
+<p>«قام الفريق بترحيل المنصة إلى Kubernetes.»
+نقطة أقوى تقول:
+«صممت قوالب النشر وعملية الطرح لترحيل Kubernetes الذي شمل 18 خدمة.»
+نسخة قوية أخرى:
+«قادت عملية الترحيل من جانب التطبيق إلى Kubernetes بالتعاون مع مهندسي المنصة في عمليات المجموعات.»
+استخدم لغة تعكس دورك بدقة:</p>
+</blockquote>
 <ul>
-<li>عبارات الهدف (&quot;أبحث عن دور مليء بالتحديات…&quot;) - تهدر أعلى الصفحة.</li>
-<li>جدار من كل تقنية لمستها مرة واحدة.</li>
-<li>الأخطاء المطبعية وعدم اتساق الزمن أو التنسيق - تُقرأ على أنها إهمال.</li>
-<li>سرد المهارات الشخصية دون دليل (&quot;متواصل بارع&quot;).</li>
+<li>أنشأ؛</li>
+<li>صمم؛</li>
+<li>قاد؛</li>
+<li>نفذ؛</li>
+<li>تولى المسؤولية؛</li>
+<li>نقل؛</li>
+<li>أدخل؛</li>
+<li>حسّن؛</li>
+<li>أتمت؛</li>
+<li>حقق؛</li>
+<li>نسق؛</li>
+<li>ساهم؛</li>
+<li>تعاون؛</li>
+<li>دعم.
+لا تدّعي الملكية الحصرية للعمل الذي أنجزه فريق بأكمله. عادةً ما يطرح القائمون على المقابلات الفنية أسئلة متابعة, ومن السهل كشف الادعاءات المبالغ فيها.</li>
 </ul>
-<h2>الخلاصة</h2>
-<p>السيرة الذاتية الجيدة للمطوّر قابلة للمسح السريع، ومرتكزة على الأثر، وصادقة، ومدعومة بعمل حقيقي. ابدأ بالنتائج والأرقام، واعكس لغة الوظيفة، وضَع روابط للأدلة، وأبقِها موجزة. افعل ذلك وستحوّل عدداً أكبر بكثير من الطلبات إلى مقابلات.</p>
-<p><em>مستعد لتطبيق ذلك؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفاً تعريفياً مجانياً على JobsList.dev</a> وقدّم طلبك مباشرة إلى الشركات، دون وسطاء توظيف.</em></p>
-5:["locale","ar","d"]
-6:["slug","developer-resume-that-gets-interviews","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"developer-resume-that-gets-interviews\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-resume-that-gets-interviews","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف تكتب سيرة ذاتية للمطوّرين تحصل فعلاً على مقابلات عمل\",\"description\":\"للمطوّرين والمهندسين: كيف تحدّث سيرتك الذاتية لتجتاز القراءة السريعة، وتتخطى الفلاتر، وتحصل على المقابلات، مع أمثلة ملموسة قبل وبعد.\",\"datePublished\":\"2026-03-05T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"كيف تكتب سيرة ذاتية للمطوّرين تحصل فعلاً على مقابلات عمل","date":"2026-03-05T00:00:00.000Z","author":"فريق JobsList.dev","readingTime":2,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف تكتب سيرة ذاتية للمطوّرين تحصل فعلاً على مقابلات عمل | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"للمطوّرين والمهندسين: كيف تحدّث سيرتك الذاتية لتجتاز القراءة السريعة، وتتخطى الفلاتر، وتحصل على المقابلات، مع أمثلة ملموسة قبل وبعد."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف تكتب سيرة ذاتية للمطوّرين تحصل فعلاً على مقابلات عمل"}],["$","meta","15",{"property":"og:description","content":"للمطوّرين والمهندسين: كيف تحدّث سيرتك الذاتية لتجتاز القراءة السريعة، وتتخطى الفلاتر، وتحصل على المقابلات، مع أمثلة ملموسة قبل وبعد."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-03-05T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"كيف تكتب سيرة ذاتية للمطوّرين تحصل فعلاً على مقابلات عمل"}],["$","meta","25",{"name":"twitter:description","content":"للمطوّرين والمهندسين: كيف تحدّث سيرتك الذاتية لتجتاز القراءة السريعة، وتتخطى الفلاتر، وتحصل على المقابلات، مع أمثلة ملموسة قبل وبعد."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h2>اجعل السيرة الذاتية قابلة للقراءة السريعة في عشر ثوانٍ</h2>
+<p>تكون معظم المراجعات الأولية سريعة.
+يجب أن تكون أهم المعلومات الخاصة بك مرئية دون الحاجة إلى أن يبحث القارئ عنها.
+استخدم بنية واضحة:</p>
+<ol>
+<li>الاسم وتفاصيل الاتصال</li>
+<li>ملخص مهني, إن كان مفيدًا</li>
+<li>المهارات التقنية</li>
+<li>الخبرة</li>
+<li>مشاريع مختارة</li>
+<li>التعليم</li>
+<li>الشهادات أو المنشورات أو الأعمال مفتوحة المصدر عند الاقتضاء
+بالنسبة لكل دور:</li>
+</ol>
+<ul>
+<li>ضع اسم الشركة واللقب الوظيفي والتواريخ في مكان بارز؛</li>
+<li>أدرج الموقع أو عبارة «عن بُعد» عند الحاجة؛</li>
+<li>استخدم من ثلاث إلى ست نقاط؛</li>
+<li>ضع النقطة الأقوى والأكثر صلة بالموضوع أولاً؛</li>
+<li>اجعل معظم النقاط في سطر واحد أو سطرين؛</li>
+<li>استخدم صيغة زمنية وعلامات ترقيم متسقة.
+تجنب الكتل النصية الكبيرة. السيرة الذاتية ليست المكان المناسب للنصوص السردية المكثفة.</li>
+</ul>
+<h2>استخدم الترتيب الزمني العكسي للخبرات</h2>
+<p>بالنسبة لمعظم المطورين, يعد الترتيب الزمني العكسي التنسيق الأكثر وضوحًا:</p>
+<ul>
+<li>المنصب الحالي أو الأحدث أولًا؛</li>
+<li>المناصب السابقة أدناه؛</li>
+<li>التعليم قرب النهاية ما لم تكن في بداية مسيرتك المهنية.
+يساعد هذا التنسيق أصحاب العمل على فهم تطورك ومستواك الحالي بسرعة.
+غالبًا ما تثير السير الذاتية الوظيفية, التي تصنف الخبرات حسب المهارات فقط, الشكوك لأنها قد تخفي التواريخ أو الفجوات أو الخبرة العملية المحدودة.
+يمكن أن ينجح التنسيق المختلط لمن يغيرون مسارهم المهني, لكن يجب أن يتضمن تاريخًا وظيفيًّا واضحًا.</li>
+</ul>
+<h2>اكتب ملخصًا مهنيًّا مفيدًا</h2>
+<p>الملخص اختياري.
+ويكون أكثر فائدةً عندما يشرح بسرعة أمرًا غير واضح من المسميات الوظيفية وحدها.
+ملخص ضعيف:</p>
+<blockquote>
+<p>«مهندس برمجيات مجتهد يبحث عن منصب مليء بالتحديات في شركة متنامية.»
+هذا لا يقول شيئًا تقريبًا.
+ملخص أقوى:
+«مهندس برمجيات خلفية (Backend) يتمتع بست سنوات من الخبرة في بناء واجهات برمجة تطبيقات (APIs) مالية ذات أحجام كبيرة باستخدام TypeScript وJava وPostgreSQL وAWS. يركز على الموثوقية, وسير عمل الدفع, والأنظمة الموزعة.»
+مثال آخر:
+«مهندس واجهة مستخدم (Frontend) متخصص في React وTypeScript وإمكانية الوصول وأنظمة التصميم لمنتجات SaaS بين الشركات (B2B). يتمتع بخبرة في قيادة عمليات ترحيل واجهات المستخدم (UI) وتحسين أداء المنتجات عبر التطبيقات الكبيرة.»
+احرص على أن يقتصر الملخص على سطرين أو ثلاثة.
+لا تستخدم الملخص لتكرار صفات غامضة مثل:</p>
+</blockquote>
+<ul>
+<li>متحمس؛</li>
+<li>شغوف؛</li>
+<li>قادر على العمل ضمن فريق؛</li>
+<li>مبادر؛</li>
+<li>يهتم بالتفاصيل؛</li>
+<li>يركز على النتائج.
+أظهر هذه الصفات من خلال أدلة ملموسة في قسم الخبرة.</li>
+</ul>
+<h2>صغ عنوان سيرتك الذاتية بعناية</h2>
+<p>يجب أن يعكس عنوان سيرتك الذاتية مستواك الفعلي والوظيفة التي تستهدفها.
+أمثلة:</p>
+<ul>
+<li>مهندس برمجيات الخلفية</li>
+<li>مهندس واجهة المستخدم الأول</li>
+<li>مهندس المنصات</li>
+<li>مطور تطبيقات الجوال</li>
+<li>مدير الهندسة</li>
+<li>مهندس البيانات</li>
+<li>مهندس الأمن</li>
+<li>مهندس TypeScript متكامل
+تجنب العناوين العامة غير الضرورية مثل:</li>
+<li>خبير تقني</li>
+<li>نينجا البرمجة</li>
+<li>خبير البرمجيات</li>
+<li>مبتكر رقمي
+العناوين الواضحة أسهل في الفهم للمسؤولين عن التوظيف وأنظمة تتبع المتقدمين.</li>
+</ul>
+<h2>أنشئ قسمًا للمهارات التقنية يضيف قيمة</h2>
+<p>يجب أن يساعد قسم المهارات القارئ على فهم نطاق مهاراتك التقنية الحالية.
+قم بتجميع المهارات في فئات:
+<strong>اللغات:</strong> TypeScript, JavaScript, Python, Go, SQL
+<strong>أطر العمل:</strong> React, Next.js, Node.js, Django
+<strong>قواعد البيانات:</strong> PostgreSQL, Redis, Elasticsearch
+<strong>السحابة والبنية التحتية:</strong> AWS, Docker, Kubernetes, Terraform
+<strong>الأدوات:</strong> GitHub Actions, Datadog, Sentry, Linux
+أدرج فقط التقنيات التي يمكنك مناقشتها بثقة معقولة.
+لا تدرج كل أداة استخدمتها مرة واحدة.
+قد تجعلك السيرة الذاتية التي تحتوي على 40 تقنية غير مترابطة تبدو أقل مصداقية, وليس أكثر تنوعًا.
+فكر في فصل مستويات الكفاءة فقط عندما تكون ذات مغزى:</p>
+<ul>
+<li>أساسي: TypeScript, Node.js, PostgreSQL</li>
+<li>معرفة عملية: Go, Redis, Kubernetes
+تجنب استخدام أشرطة المهارات الرسومية. فالشريط الذي يعرض «JavaScript: 90%» لا يحمل أي معنى موضوعي وقد يربك أنظمة تتبع المتقدمين.</li>
+</ul>
+<h2>طابق لغة وصف الوظيفة</h2>
+<p>غالبًا ما تبحث أنظمة تتبع المتقدمين والمراجعون البشريون عن المصطلحات التي تظهر في إعلان الوظيفة.
+لا يجب عليك حشو الكلمات المفتاحية بشكل غير طبيعي, ولكن عليك استخدام اللغة الفعلية التي يستخدمها صاحب العمل عندما تصف خبرتك بدقة.
+إذا كان الإعلان ينص على:</p>
+<ul>
+<li>PostgreSQL؛</li>
+<li>واجهات برمجة التطبيقات REST؛</li>
+<li>AWS Lambda؛</li>
+<li>CI/CD؛</li>
+<li>الأنظمة الموزعة؛</li>
+<li>إمكانية الوصول؛</li>
+<li>الاستجابة للحوادث؛
+وإذا كانت لديك تلك الخبرة, فاستخدم تلك المصطلحات بالضبط.
+تجنب استبدال المصطلحات المحددة ببدائل غامضة.
+على سبيل المثال:</li>
+<li>استخدم «PostgreSQL» بدلاً من مجرد «قواعد البيانات العلائقية»؛</li>
+<li>استخدم «React» بدلاً من «تطوير الواجهة الأمامية» فقط؛</li>
+<li>استخدم «AWS» بدلاً من «المنصات السحابية» فقط؛</li>
+<li>استخدم «CI/CD» بدلاً من «أتمتة النشر» فقط.
+هذا ليس استغلالاً للنظام. إنه تواصل واضح.</li>
+</ul>
+<h2>لا تعتمد على الكلمات المفتاحية وحدها</h2>
+<p>قد تساعد الكلمات المفتاحية في ظهور سيرتك الذاتية في نتائج البحث, لكنها لا تثبت كفاءتك.
+قارن:</p>
+<blockquote>
+<p>«React, TypeScript, Node.js, PostgreSQL, AWS»
+مع:
+«قمت بإنشاء لوحة تحكم للعمليات باستخدام TypeScript وReact مدعومة بـ Node.js وPostgreSQL, مما أدى إلى تقليل وقت المراجعة اليدوية للحالات بنسبة 30٪.»
+تحتوي النسخة الثانية على كلمات رئيسية مفيدة وتوضح كيف قمت بتطبيقها.</p>
+</blockquote>
+<h2>اجعل التنسيق متوافقًا مع نظام تتبع المتقدمين</h2>
+<p>قد تبدو السيرة الذاتية المتقنة بصريًا مثيرة للإعجاب, لكنها قد تفشل في التحليل بشكل صحيح.
+تشمل خيارات التنسيق الأكثر أمانًا ما يلي:</p>
+<ul>
+<li>تخطيط أحادي العمود؛</li>
+<li>عناوين قياسية؛</li>
+<li>خطوط شائعة؛</li>
+<li>نقاط عادية؛</li>
+<li>تواريخ واضحة؛</li>
+<li>تفاصيل الاتصال بنص عادي؛</li>
+<li>عناصر زخرفية محدودة؛</li>
+<li>عدم وضع معلومات مهمة داخل الرؤوس أو التذييلات.
+تجنب:</li>
+<li>الجداول المعقدة؛</li>
+<li>الأعمدة الضيقة المتعددة؛</li>
+<li>النص المضمن في الصور؛</li>
+<li>المخططات البيانية؛</li>
+<li>أشرطة التقدم؛</li>
+<li>الرموز غير المعتادة التي لا تحتوي على تسميات نصية؛</li>
+<li>الإفراط في استخدام الألوان؛</li>
+<li>وضع المعلومات المهمة في الأعمدة الجانبية فقط.
+احفظ السيرة الذاتية النهائية بصيغة PDF ما لم يطلب صاحب العمل صيغة أخرى.
+قبل الإرسال, انسخ كل النص من ملف PDF والصقه في محرر نص عادي. إذا ظهر المحتوى بترتيب منطقي, فمن المرجح أن يتم تحليل المستند بشكل صحيح.</li>
+</ul>
+<h2>استخدم اسم ملف احترافي</h2>
+<p>لا تقم بتحميل:</p>
+<ul>
+<li>resume-final-final-2.pdf؛</li>
+<li>newresume.pdf؛</li>
+<li>cvupdated.pdf؛</li>
+<li>document1.pdf.
+استخدم اسمًا واضحًا:</li>
+</ul>
+<pre><code class="language-text">alex-johnson-software-engineer-resume.pdf
+</code></pre>
+<p>أو:</p>
+<pre><code class="language-text">alex-johnson-backend-engineer.pdf
+</code></pre>
+<p>هذا التفصيل البسيط يسهل على مسؤولي التوظيف التعرف على المستند وتخزينه.</p>
+<h2>اكتب نقاطًا أقوى لوصف خبراتك</h2>
+<p>يجب أن تجيب كل نقطة على واحد على الأقل من هذه الأسئلة:</p>
+<ul>
+<li>ما الذي قمت بتطويره؟</li>
+<li>ما المشكلة التي قمت بحلها؟</li>
+<li>ما الذي تغير بعد ذلك؟</li>
+<li>ما كان حجم نطاق العمل؟</li>
+<li>ما هي التقنيات التي كانت مهمة؟</li>
+<li>ما الذي كنت مسؤولاً عنه شخصيًا؟</li>
+<li>من استفاد من ذلك؟</li>
+</ul>
+<h3>ضعيف</h3>
+<blockquote>
+<p>&quot;عملت على الخدمات الصغيرة.&quot;</p>
+</blockquote>
+<h3>أفضل</h3>
+<blockquote>
+<p>&quot;قمت بإنشاء وصيانة خدمات صغيرة باستخدام Node.js لدعم إنشاء الحسابات والفوترة.&quot;</p>
+</blockquote>
+<h3>قوي</h3>
+<blockquote>
+<p>&quot;صممت وأطلقت ثلاث خدمات باستخدام Node.js لإنشاء الحسابات والفوترة, حيث عالجنا أكثر من 1.2 مليون حدث شهريًا بتوافر بلغ 99.95%.&quot;</p>
+</blockquote>
+<h3>ضعيف</h3>
+<blockquote>
+<p>«أصلحت الأخطاء البرمجية في التطبيق.»</p>
+</blockquote>
+<h3>أفضل</h3>
+<blockquote>
+<p>«عالجت عيوب الإنتاج عبر مسار إتمام عملية الدفع.»</p>
+</blockquote>
+<h3>قوي</h3>
+<blockquote>
+<p>«خفضت أخطاء الإنتاج المتعلقة بإتمام عملية الدفع بنسبة 32% من خلال تتبع الأعطال المتكررة, وتعزيز عمليات التحقق من الصحة, وإضافة تغطية تراجعية آلية.»</p>
+</blockquote>
+<h3>ضعيف</h3>
+<blockquote>
+<p>«ساعدت المطورين المبتدئين.»</p>
+</blockquote>
+<h3>أفضل</h3>
+<blockquote>
+<p>«قدمت التوجيه لثلاثة مهندسين مبتدئين من خلال مراجعات الكود وجلسات العمل الثنائي.»</p>
+</blockquote>
+<h3>قوي</h3>
+<blockquote>
+<p>«قدمت التوجيه لثلاثة مهندسين مبتدئين من خلال جلسات عمل ثنائية أسبوعية ومراجعات منظمة, مما ساعد اثنين منهم على تولي مسؤولية خدمات الإنتاج بشكل مستقل في غضون ستة أشهر.»</p>
+</blockquote>
+<h2>استخدم الأفعال القوية, لكن تجنب المبالغة</h2>
+<p>من الأفعال الافتتاحية المفيدة ما يلي:</p>
+<ul>
+<li>صممت؛</li>
+<li>أتمتت؛</li>
+<li>أنشأت؛</li>
+<li>صمم؛</li>
+<li>طور؛</li>
+<li>نفذ؛</li>
+<li>حسّن؛</li>
+<li>أدخل؛</li>
+<li>أطلق؛</li>
+<li>قاد؛</li>
+<li>صان؛</li>
+<li>نقل؛</li>
+<li>حسّن الأداء؛</li>
+<li>خفض؛</li>
+<li>أعاد هيكلة؛</li>
+<li>وسّع النطاق؛</li>
+<li>أمّن؛</li>
+<li>بسط؛</li>
+<li>موّحد؛</li>
+<li>دعم.
+توخى الحذر عند استخدام «صمم» و«تولى» و«قاد». لا تستخدمها إلا عندما تصف بدقة صلاحياتك ومساهمتك.</li>
+</ul>
+<h2>أضف سياقًا للشركات غير المألوفة</h2>
+<p>إذا كنت قد عملت في شركة قد لا يعرفها القارئ, فأضف وصفًا موجزًا.
+مثال:
+<strong>Northlake Systems — مهندس برمجيات أول</strong>
+<em>برمجيات لوجستية B2B تخدم شركات النقل الإقليمية</em>
+يساعد هذا المراجع على فهم البيئة دون الحاجة إلى البحث عن الشركة.</p>
+<h2>اشرح النطاق حيثما يكون ذلك مهمًا</h2>
+<p>تختلف الألقاب الفنية بشكل كبير بين الشركات.
+قد يكون «المهندس الأول» في إحدى الشركات مسؤولاً عن خدمة واحدة. وفي شركة أخرى, قد ينطوي نفس اللقب على تصميم بنية تقنية لمنصة كبيرة.
+أضف سياقًا من خلال النقاط التالية:</p>
+<ul>
+<li>حجم الفريق؛</li>
+<li>نطاق المستخدمين؛</li>
+<li>نطاق النظام؛</li>
+<li>النطاق الجغرافي؛</li>
+<li>حجم البيانات؛</li>
+<li>نوع المنتج؛</li>
+<li>الأهمية التجارية؛</li>
+<li>مسؤوليات الاستجابة عند الطلب.
+مثال:</li>
+</ul>
+<blockquote>
+<p>«توليت مسؤولية خدمات المصادقة والهوية التي تستخدمها 14 منتجًا داخليًّا وحوالي 300,000 حساب عميل.»</p>
+</blockquote>
+<h2>أظهر التقدم</h2>
+<p>تعد الترقيات والمسؤوليات المتزايدة مؤشرات قيّمة.
+إذا شغلت عدة مناصب في شركة واحدة, فاعرضها بشكل منفصل تحت نفس اسم صاحب العمل:
+<strong>Acme Technologies</strong>
+<strong>مهندس برمجيات أول</strong>
+2024–حتى الآن
+<strong>مهندس برمجيات</strong>
+2021–2024
+هذا يوضح التقدم بشكل أوضح من دمج كل شيء في بند واحد.</p>
+<h2>أدرج المشاريع التي تعزز ملفك</h2>
+<p>تعد المشاريع ذات قيمة خاصة بالنسبة لـ:</p>
+<ul>
+<li>الطلاب؛</li>
+<li>من يغيرون مسارهم المهني؛</li>
+<li>المطورين الذين تعلموا بأنفسهم؛</li>
+<li>المطورين العائدين بعد فترة توقف؛</li>
+<li>المرشحين ذوي الخبرة المهنية المحدودة؛</li>
+<li>المهندسين الذين يستهدفون تخصصًا جديدًا.
+يجب أن يتضمن بند المشروع القوي ما يلي:</li>
+<li>المشكلة؛</li>
+<li>ما قمت بتطويره؛</li>
+<li>التقنيات المستخدمة؛</li>
+<li>ما الذي جعله مثيرًا للاهتمام من الناحية التقنية؛</li>
+<li>الاستخدام أو التبني أو النتائج؛</li>
+<li>رابط فعال عند الاقتضاء.
+مثال ضعيف:</li>
+</ul>
+<blockquote>
+<p>«قمت بتطوير أداة لإدارة المهام باستخدام React.»
+مثال أقوى:
+«قمت بتطوير تطبيق تعاوني لإدارة المهام باستخدام Next.js وPostgreSQL وWebSockets, بما في ذلك التحديثات في الوقت الفعلي, والأذونات القائمة على الأدوار, والنشر الآلي.»
+أقوى بعد:
+«قمت بإنشاء ونشر تطبيق تعاوني لإدارة المهام باستخدام Next.js وPostgreSQL وWebSockets؛ ودعمت أكثر من 800 مستخدم مسجل وحافظت على تقييم 4.8/5 في التعليقات.»
+لا تقم بتضمين مشاريع تعليمية تبدو مطابقة لآلاف المشاريع الأخرى ما لم تكن قد قمت بتوسيعها بشكل جوهري.</p>
+</blockquote>
+<h2>قم بربط الروابط الداعمة بشكل انتقائي</h2>
+<p>قد تشمل الروابط المفيدة ما يلي:</p>
+<ul>
+<li>GitHub؛</li>
+<li>موقع شخصي؛</li>
+<li>محفظة أعمال؛</li>
+<li>منتج قيد التشغيل؛</li>
+<li>كتابات تقنية؛</li>
+<li>مساهمات في المشاريع مفتوحة المصدر؛</li>
+<li>تطبيقات منشورة؛</li>
+<li>محاضرات في المؤتمرات؛</li>
+<li>ملفات تعريف سجل الحزم.
+تأكد من أن الروابط تعمل.
+ثبّت المستودعات التي تريد أن يراها أصحاب العمل أولاً.
+قد يكون ملف تعريف GitHub الذي يحتوي على مئات التجارب المهجورة أقل فائدة من محفظة أعمال صغيرة تضم ثلاثة مشاريع مصقولة مع وثائق واضحة.</li>
+</ul>
+<h2>تحسين توثيق المشروع</h2>
+<p>إذا قمت بربط مشروع ما, فيجب أن يساعد المستودع المراجع على فهمه.
+يتضمن ملف README المفيد ما يلي:</p>
+<ul>
+<li>ما الذي يفعله المشروع؛</li>
+<li>سبب إنشائك له؛</li>
+<li>لقطات شاشة؛</li>
+<li>نظرة عامة على البنية؛</li>
+<li>تعليمات الإعداد؛</li>
+<li>القرارات التقنية الرئيسية؛</li>
+<li>القيود المعروفة؛</li>
+<li>تعليمات الاختبار؛</li>
+<li>معلومات النشر.
+لا تفترض أن المراجع سيفحص الكود دون سياق.</li>
+</ul>
+<h2>تعامل مع الأعمال السرية بحذر</h2>
+<p>يجب ألا تكشف أبدًا عن معلومات خاصة بالملكية, أو بيانات العملاء, أو التفاصيل الحساسة من الناحية الأمنية, أو الكود الداخلي.
+لا يزال بإمكانك وصف العمل بمستوى مفيد.
+بدلاً من:</p>
+<blockquote>
+<p>«قمت بإنشاء محرك مكافحة الاحتيال الداخلي باستخدام قواعد سرية خاصة بالعملاء.»
+قل:
+«قمت بإنشاء خدمات تحليل المخاطر لسير عمل المدفوعات ذات الحجم الكبير, مما أدى إلى تحسين دقة المراجعة وتقليل الحاجة إلى التحقيق اليدوي.»
+ركز على المشكلة وحجمها والنتيجة دون الكشف عن المعلومات المحمية.</p>
+</blockquote>
+<h2>أظهر القيادة دون تغيير لقبك الوظيفي</h2>
+<p>لست بحاجة إلى أن تكون مديرًا لإظهار القيادة.
+تشمل الأمثلة ذات الصلة ما يلي:</p>
+<ul>
+<li>توجيه المهندسين؛</li>
+<li>قيادة التصميم التقني؛</li>
+<li>تنسيق عمليات الترحيل؛</li>
+<li>تحسين المعايير؛</li>
+<li>تولي مسؤولية الاستجابة للحوادث؛</li>
+<li>تيسير مراجعات البنية؛</li>
+<li>إدخال ممارسات التوثيق؛</li>
+<li>مساعدة الفرق على اعتماد أدوات جديدة؛</li>
+<li>تقليل المخاطر التشغيلية.
+مثال:</li>
+</ul>
+<blockquote>
+<p>«قادت التخطيط التقني لعملية ترحيل استمرت ستة أشهر وشارك فيها أربعة فرق هندسية وأكثر من 20 خدمة.»</p>
+</blockquote>
+<h2>أظهر مهارات التواصل من خلال النتائج</h2>
+<p>لا تكتفِ بذكر «مهارات تواصل ممتازة».
+أظهر كيف أثر التواصل على العمل:</p>
+<ul>
+<li>«أعددت وثائق الترحيل التي اعتمدتها أربعة فرق.»</li>
+<li>«قدمت مقترحات الهندسة المعمارية إلى قيادات الهندسة والمنتجات.»</li>
+<li>«تعاونت مع فريق الدعم لتحديد المشكلات المتكررة للعملاء.»</li>
+<li>«ترجمة متطلبات الامتثال إلى مهام تنفيذية.»</li>
+<li>«تيسير عمليات المراجعة بعد وقوع الحوادث وتتبع الإجراءات التصحيحية.»
+الأدلة أكثر إقناعًا من الصفات.</li>
+</ul>
+<h2>تناول الفجوات في مسيرتك المهنية بأمانة</h2>
+<p>لا داعي للإسهاب في تفسير أي فجوة.
+يمكنك إدراج ملاحظة قصيرة وواقعية عندما يكون ذلك مفيدًا:
+<strong>فترة توقف عن العمل</strong>
+2024–2025</p>
+<ul>
+<li>إتمام مسؤوليات رعاية الأسرة.</li>
+<li>جددت مهاراتي في TypeScript والبنية التحتية السحابية.</li>
+<li>قمت بإنشاء ونشر تطبيقين مفتوحين المصدر.
+قد تشمل الإدخالات المشروعة الأخرى ما يلي:</li>
+<li>الدراسة المستقلة؛</li>
+<li>العمل الحر؛</li>
+<li>الاستشارات؛</li>
+<li>رعاية أفراد الأسرة؛</li>
+<li>الإجازة الطبية؛</li>
+<li>الانتقال إلى مكان آخر؛</li>
+<li>ريادة الأعمال؛</li>
+<li>التعليم.
+لا تختلق أعمالًا لملء الفراغ.</li>
+</ul>
+<h2>اعرض العمل الحر والعقود بوضوح</h2>
+<p>يمكن تجميع الأعمال الحرة عندما تكون المهام الفردية قصيرة المدة.
+مثال:
+<strong>مستشار برمجيات مستقل</strong>
+2022–2024</p>
+<ul>
+<li>قمت بتسليم تطبيقات ويب وعمليات تكامل لخمسة عملاء من الشركات الصغيرة.</li>
+<li>قمت بتطوير ميزات الدفع, والجدولة, وإعداد التقارير باستخدام TypeScript وNext.js وPostgreSQL.</li>
+<li>خفضت عبء العمل الإداري اليدوي لأحد العملاء بنحو 15 ساعة أسبوعيًا.
+عندما تسمح السرية بذلك, اذكر أسماء العملاء أو القطاعات المهمة.</li>
+</ul>
+<h2>يجب على المطورين في بداية مسيرتهم المهنية التركيز على الأدلة</h2>
+<p>إذا كانت خبرتك المهنية محدودة, فركز على:</p>
+<ul>
+<li>التدريب الداخلي؛</li>
+<li>المشاريع الختامية؛</li>
+<li>المساهمات في البرمجيات مفتوحة المصدر؛</li>
+<li>العمل الحر؛</li>
+<li>مسابقات البرمجة (هاكاثون)؛</li>
+<li>الأبحاث؛</li>
+<li>المنظمات الطلابية؛</li>
+<li>المساعدة في التدريس؛</li>
+<li>المشاريع الشخصية التي تم نشرها؛</li>
+<li>المقررات الدراسية ذات الصلة.
+لا داعي للتظاهر بأن مشروعًا دراسيًّا كان منصة تجارية. صِفْه بأمانة وسلِّط الضوء على القرارات التقنية التي اتخذتها.</li>
+</ul>
+<h2>يجب على المهندسين ذوي الخبرة التركيز على نطاق العمل والتأثير</h2>
+<p>يجب أن تُظهر السير الذاتية للمستوى العالي أكثر من مجرد التنفيذ.
+تشمل المؤشرات المفيدة ما يلي:</p>
+<ul>
+<li>الهندسة المعمارية؛</li>
+<li>التأثير عبر الفرق؛</li>
+<li>ملكية النظام؛</li>
+<li>الموثوقية؛</li>
+<li>النضج التشغيلي؛</li>
+<li>التوجيه؛</li>
+<li>قيادة التعامل مع الحوادث؛</li>
+<li>تخطيط الترحيل؛</li>
+<li>الأمن؛</li>
+<li>الاستراتيجية التقنية؛</li>
+<li>التأثير على الأعمال.
+يجب أن توضح السيرة الذاتية للمهندس الكبير ليس فقط أنك قادر على كتابة الأكواد البرمجية, بل أنك قادر على تحسين الأنظمة ومساعدة المهندسين الآخرين على النجاح.</li>
+</ul>
+<h2>يجب على مديري الهندسة إبراز النتائج التنظيمية</h2>
+<p>يجب على المديرين تضمين ما يلي:</p>
+<ul>
+<li>حجم الفريق؛</li>
+<li>التوظيف؛</li>
+<li>الاحتفاظ بالموظفين؛</li>
+<li>تحسينات التسليم؛</li>
+<li>التدريب؛</li>
+<li>التخطيط؛</li>
+<li>إدارة أصحاب المصلحة؛</li>
+<li>تحسينات العمليات؛</li>
+<li>جودة الهندسة؛</li>
+<li>التغيير التنظيمي.
+ضعيف:</li>
+</ul>
+<blockquote>
+<p>«أدارت فريقًا من المهندسين.»
+قوي:
+«أدارت ثمانية مهندسين في مجالات المنصات والتكامل, ووظفت ثلاثة أعضاء في الفريق, وحسّنت قابلية التنبؤ بالتسليم الفصلي من خلال تخطيط وملكية أوضح.»</p>
+</blockquote>
+<h2>تكييف السيرة الذاتية لتغيير المسار المهني</h2>
+<p>عند الانتقال إلى مجال تقني جديد, حدد الأدلة القابلة للتطبيق.
+على سبيل المثال, قد يركز مهندس ضمان الجودة الذي ينتقل إلى مجال تطوير البرمجيات على:</p>
+<ul>
+<li>أطر العمل للأتمتة؛</li>
+<li>البرمجة النصية؛</li>
+<li>التكامل المستمر/التسليم المستمر (CI/CD)؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>البنية التحتية للاختبار؛</li>
+<li>التحقق من صحة واجهات برمجة التطبيقات (API)؛</li>
+<li>المساهمات في الكود.
+يمكن لمهندس البايند الذي ينتقل إلى مجال الأمن أن يركز على:</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>البرمجة الآمنة؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>نمذجة التهديدات؛</li>
+<li>معالجة الثغرات الأمنية.
+لا تخفي خبرتك السابقة. أعد صياغتها حول القدرات ذات الصلة بالمنصب الجديد.</li>
+</ul>
+<h2>يعتمد ترتيب المعلومات التعليمية على الخبرة</h2>
+<p>ضع المعلومات التعليمية في الجزء العلوي من السيرة الذاتية عندما:</p>
+<ul>
+<li>تكون طالبًا؛</li>
+<li>تكون قد تخرجت مؤخرًا؛</li>
+<li>تكون الشهادة ذات صلة وثيقة بالمنصب؛</li>
+<li>يقدّر صاحب العمل المؤهلات الأكاديمية بشكل خاص.
+ضعها في الجزء السفلي عندما تكون خبرتك المهنية أقوى وأكثر صلة بالمنصب.
+أدرج ما يلي:</li>
+<li>المؤسسة التعليمية؛</li>
+<li>الدرجة العلمية؛</li>
+<li>التخصص؛</li>
+<li>سنة التخرج, إذا كان ذلك مفيدًا؛</li>
+<li>التقديرات المتميزة؛</li>
+<li>المقررات الدراسية ذات الصلة بشكل خاص للمرشحين في بداية مسيرتهم المهنية.
+لا تحتاج عادةً إلى ذكر المرحلة الثانوية إذا كنت حاصلاً على تعليم عالٍ أو تتمتع بخبرة كبيرة.</li>
+</ul>
+<h2>يجب أن تدعم الشهادات الوظيفة</h2>
+<p>تكون الشهادات مفيدة عندما تكون ذات صلة بالمنصب.
+قد تشمل الأمثلة ما يلي:</p>
+<ul>
+<li>شهادات السحابة؛</li>
+<li>شهادات الأمان؛</li>
+<li>شهادات الشبكات؛</li>
+<li>شهادات المشاريع أو المنتجات؛</li>
+<li>المؤهلات الخاصة بمنصات معينة.
+لا تدع الشهادات تهيمن على السيرة الذاتية إذا كانت خبرتك العملية أقوى.</li>
+</ul>
+<h2>احذف المحتوى ذي القيمة المنخفضة</h2>
+<p>فكر في حذف:</p>
+<ul>
+<li>الأهداف العامة؛</li>
+<li>العنوان الكامل؛</li>
+<li>المراجع المتاحة عند الطلب؛</li>
+<li>الصورة الشخصية, ما لم يكن ذلك معتادًا ومناسبًا في سوق العمل الذي تتعامل معه؛</li>
+<li>العمر, أو الحالة الاجتماعية, أو التفاصيل الشخصية غير ذات الصلة؛</li>
+<li>كل وظيفة شغلتها من قبل؛</li>
+<li>التقنيات القديمة التي لا صلة لها بالوظيفة؛</li>
+<li>قوائم طويلة من المهارات الشخصية؛</li>
+<li>الهوايات التي لا قيمة مهنية لها؛</li>
+<li>البرامج الأساسية مثل تطبيقات المكتب الأساسية.
+يجب أن تستحق كل سطر المساحة المخصصة له.</li>
+</ul>
+<h2>صفحة واحدة أم صفحتان؟</h2>
+<p>غالبًا ما تكون الصفحة الواحدة مناسبة لـ:</p>
+<ul>
+<li>الطلاب؛</li>
+<li>المطورين في بداية مسيرتهم المهنية؛</li>
+<li>المرشحين الذين لديهم بضع سنوات من الخبرة؛</li>
+<li>من يغيرون مسارهم المهني ولديهم خبرة عمل ذات صلة محدودة.
+قد تكون الصفحتان مناسبتين لـ:</li>
+<li>كبار المهندسين؛</li>
+<li>المديرين؛</li>
+<li>المهندسين المعماريين؛</li>
+<li>الاستشاريين؛</li>
+<li>المرشحين ذوي الخبرة الطويلة ذات الصلة؛</li>
+<li>الأشخاص الذين لديهم منشورات مهمة, أو براءات اختراع, أو أعمال مفتوحة المصدر.
+لا تحشر مسيرة مهنية طويلة في صفحة واحدة مكتظة. ولا تمدد خبرة محدودة لتملأ صفحتين.
+الصلة بالوظيفة المهمة أهم من عدد الصفحات التعسفي.</li>
+</ul>
+<h2>صمم السيرة الذاتية خصيصًا لكل وظيفة</h2>
+<p>لست بحاجة إلى إعادة كتابة كل شيء لكل طلب توظيف, لكن يجب عليك تعديل الوثيقة.
+بالنسبة لكل وظيفة:</p>
+<ol>
+<li>حدد المتطلبات الأساسية.</li>
+<li>ضع النقاط الأكثر صلة في مقدمة السيرة الذاتية.</li>
+<li>استخدم المصطلحات الدقيقة الواردة في إعلان الوظيفة.</li>
+<li>احذف التفاصيل ذات القيمة المنخفضة.</li>
+<li>عدّل الملخص المهني.</li>
+<li>أعد ترتيب المهارات حسب مدى صلتها بالوظيفة.</li>
+<li>سلط الضوء على المشاريع ذات الصلة.</li>
+<li>احفظ السيرة الذاتية باسم ملف خاص بالوظيفة.
+قد تعطي طلبات التوظيف في مجال هندسة المنصات الأولوية لما يلي:</li>
+</ol>
+<ul>
+<li>Kubernetes؛</li>
+<li>Terraform؛</li>
+<li>CI/CD؛</li>
+<li>قابلية المراقبة؛</li>
+<li>الموثوقية؛</li>
+<li>الاستجابة للحوادث.
+قد تعطي طلبات التوظيف في مجال الواجهة الأمامية الأولوية لما يلي:</li>
+<li>React؛</li>
+<li>TypeScript؛</li>
+<li>أنظمة التصميم؛</li>
+<li>سهولة الوصول؛</li>
+<li>الأداء؛</li>
+<li>الاختبار.
+يمكن أن تظل الخبرة الأساسية كما هي بينما يتغير التركيز.</li>
+</ul>
+<h2>أنشئ سيرة ذاتية رئيسية</h2>
+<p>احتفظ بوثيقة رئيسية خاصة تحتوي على:</p>
+<ul>
+<li>كل دور؛</li>
+<li>كل نقطة قوية؛</li>
+<li>كل مشروع؛</li>
+<li>كل تقنية؛</li>
+<li>كل نتيجة قابلة للقياس؛</li>
+<li>كل عرض تقديمي؛</li>
+<li>كل شهادة؛</li>
+<li>كل مساهمة رئيسية.
+ثم أنشئ نسخًا موجزة وموجهة من هذا المصدر.
+هذا يمنعك من نسيان الإنجازات المفيدة ويجعل عملية التخصيص أسرع.</li>
+</ul>
+<h2>احتفظ بسجل للإنجازات</h2>
+<p>لا تنتظر حتى تبدأ عملية البحث عن وظيفة لتتذكر ما قمت به.
+تتبع إنجازاتك على مدار العام:</p>
+<ul>
+<li>عمليات الإطلاق؛</li>
+<li>عمليات الترحيل؛</li>
+<li>الحوادث التي تم حلها؛</li>
+<li>تحسينات الأداء؛</li>
+<li>خفض التكاليف؛</li>
+<li>الثناء من أصحاب المصلحة؛</li>
+<li>نتائج التوجيه؛</li>
+<li>نمو عدد المستخدمين؛</li>
+<li>تحسينات الأمان؛</li>
+<li>تحسينات العمليات.
+سجل السياق والمقاييس بينما لا تزال حاضرة في ذهنك.
+يساعد ذلك أيضًا في تقييمات الأداء ومناقشات الترقية.</li>
+</ul>
+<h2>راجع السيرة الذاتية للتأكد من مصداقيتها</h2>
+<p>قبل الإرسال, اسأل نفسك ما إذا كان كل بند من البنود يمكنه الصمود أمام الأسئلة التكميلية.
+يجب أن تكون مستعدًا لشرح:</p>
+<ul>
+<li>المشكلة؛</li>
+<li>دورك؛</li>
+<li>النهج التقني؛</li>
+<li>المفاضلات؛</li>
+<li>مشاركة الفريق؛</li>
+<li>النتيجة؛</li>
+<li>كيف تم قياس النتيجة؛</li>
+<li>ما الذي كنت ستفعله بشكل مختلف.
+إذا لم تتمكن من شرح أحد الادعاءات, فقم بمراجعته.</li>
+</ul>
+<h2>تدقيق النص كما لو كان كود برمجي</h2>
+<p>قد تؤدي الأخطاء الصغيرة إلى إضعاف سيرة ذاتية قوية بخلاف ذلك.
+تحقق من:</p>
+<ul>
+<li>عدم اتساق علامات الترقيم؛</li>
+<li>تنسيقات التواريخ المختلطة؛</li>
+<li>عدم اتساق استخدام الأحرف الكبيرة؛</li>
+<li>أسماء التقنيات غير الصحيحة؛</li>
+<li>تغييرات في الأزمنة؛</li>
+<li>الروابط المعطلة؛</li>
+<li>المسافات الزائدة؛</li>
+<li>الكلمات المكررة؛</li>
+<li>الأخطاء الإملائية؛</li>
+<li>مشكلات المحاذاة.
+استخدم صيغة المضارع للمسؤوليات الحالية وصيغة الماضي للأعمال المنجزة.
+أمثلة:
+المنصب الحالي:</li>
+</ul>
+<blockquote>
+<p>«قيادة مراجعات الهندسة المعمارية لخدمات الدفع.»
+مشروع مكتمل:
+«ترحيل خدمات الدفع إلى منصة جديدة لمعالجة الأحداث.»</p>
+</blockquote>
+<h2>اطلب التعليقات من الأشخاص المناسبين</h2>
+<p>غالبًا ما يكون المراجعون الأكثر فائدة هم:</p>
+<ul>
+<li>شخص مسؤول عن التوظيف في المنصب الذي تستهدفه؛</li>
+<li>مهندس في مستوى أعلى منك؛</li>
+<li>مسؤول توظيف على دراية بسوقك؛</li>
+<li>مدير سابق؛</li>
+<li>زميل موثوق به يتمتع بمهارات كتابة قوية.
+اطرح أسئلة محددة:</li>
+<li>ما هي, في رأيك, أقوى مؤهلاتي؟</li>
+<li>ما المستوى الذي تشير إليه هذه السيرة الذاتية؟</li>
+<li>ما هي النقاط غير الواضحة؟</li>
+<li>ما المعلومات الناقصة؟</li>
+<li>ما الذي قد يجعلك تتردد في إجراء مقابلة معي؟</li>
+<li>هل تتوافق السيرة الذاتية مع الوظيفة التي أستهدفها؟
+عادةً ما ينتج عن سؤال «هل تبدو هذه السيرة الذاتية جيدة؟» تعليقات غامضة.</li>
+</ul>
+<h2>استخدم الذكاء الاصطناعي بحذر</h2>
+<p>يمكن للذكاء الاصطناعي مساعدتك في:</p>
+<ul>
+<li>إعادة صياغة النقاط الضعيفة؛</li>
+<li>تحديد المقاييس الناقصة؛</li>
+<li>مقارنة سيرتك الذاتية بوصف الوظيفة؛</li>
+<li>تحسين القواعد النحوية؛</li>
+<li>تقصير المحتوى المتكرر؛</li>
+<li>توليد صياغات بديلة.
+لكن لا تدع الذكاء الاصطناعي يختلق:</li>
+<li>الإنجازات؛</li>
+<li>التقنيات؛</li>
+<li>مسؤوليات القيادة؛</li>
+<li>المقاييس؛</li>
+<li>أرباب العمل؛</li>
+<li>المؤهلات؛</li>
+<li>نطاق المشروع.
+تعامل مع الذكاء الاصطناعي كمحرر, وليس كمصدر لتاريخك المهني.</li>
+</ul>
+<h2>قائمة مراجعة عملية للسيرة الذاتية</h2>
+<p>قبل التقدم للوظيفة, تأكد من أن سيرتك الذاتية:</p>
+<ul>
+<li>تحدد بوضوح الوظيفة التي تستهدفها؛</li>
+<li>تعرض أقوى خبراتك في البداية؛</li>
+<li>تستخدم نتائج قابلة للقياس حيثما أمكن؛</li>
+<li>تشرح مساهمتك الفردية؛</li>
+<li>تتضمن التقنيات ذات الصلة؛</li>
+<li>تتجنب الادعاءات غير المدعومة؛</li>
+<li>يستخدم هيكلًا بسيطًا من عمود واحد؛</li>
+<li>لا يحتوي على روابط معطلة؛</li>
+<li>يستخدم اسم ملف احترافي؛</li>
+<li>يتوافق مع الوصف الوظيفي دون الإفراط في استخدام الكلمات المفتاحية؛</li>
+<li>يتجنب الأخطاء الإملائية وأخطاء التنسيق؛</li>
+<li>يكون قابلاً للقراءة عند نسخه كنص عادي؛</li>
+<li>يتضمن فقط المعلومات ذات الصلة والتي يمكن الدفاع عنها.</li>
+</ul>
+<h2>مثال كامل قبل وبعد</h2>
+<h3>قبل</h3>
+<p><strong>مهندس برمجيات</strong></p>
+<ul>
+<li>مسؤول عن خدمات الخلفية.</li>
+<li>عملت مع AWS.</li>
+<li>ساعدت في تحسين الأداء.</li>
+<li>شاركت في مراجعات الكود.</li>
+<li>أصلحت مشكلات الإنتاج.</li>
+</ul>
+<h3>بعد</h3>
+<p><strong>مهندس برمجيات</strong></p>
+<ul>
+<li>قمت ببناء وصيانة خدمات TypeScript التي تعالج أكثر من 800,000 معاملة شهريًا.</li>
+<li>قمت بترحيل أحمال العمل غير المتزامنة إلى قوائم انتظار AWS ووحدات العمل, مما أدى إلى تقليل المهام الفاشلة بنسبة 38%.</li>
+<li>حسّن زمن استجابة API p95 من 620 مللي ثانية إلى 360 مللي ثانية من خلال ضبط الاستعلامات والتخزين المؤقت.</li>
+<li>أدخل قائمة مراجعة ساعدت في تقليل العيوب المتكررة في الإنتاج على مستوى الفريق.</li>
+<li>شارك في الاستجابة عند الطلب ونفذ نظام مراقبة لأكثر خمسة أنماط فشل شيوعًا.
+أما النسخة الثانية فتخبر القارئ بما يلي:</li>
+<li>ما الذي أنشأه المرشح؛</li>
+<li>التقنيات التي استخدمها؛</li>
+<li>حجم المشروع؛</li>
+<li>النتائج؛</li>
+<li>المسؤولية التشغيلية؛</li>
+<li>التأثير على جودة عمل الفريق.
+هذا هو ما يؤهلك للحصول على مقابلات العمل.</li>
+</ul>
+<h2>النقطة الأساسية</h2>
+<p>السيرة الذاتية القوية للمطور ليست تلك التي تحتوي على أكبر عدد من التقنيات, أو التنسيق الأكثر زخرفة, أو الصفات الأكثر إثارة للإعجاب.
+بل هي تلك التي تنقل بسرعة:</p>
+<ul>
+<li>أي نوع من المهندسين أنت؛</li>
+<li>ما هي المشكلات التي قمت بحلها؛</li>
+<li>ما مدى ضخامة تلك المشكلات؛</li>
+<li>ما هي مساهمتك الشخصية؛</li>
+<li>ما الذي تحسّن بفضل عملك؛</li>
+<li>لماذا تعتبر خبرتك ذات صلة بالوظيفة.
+ابدأ بأهم النقاط. استخدم مقاييس موثوقة. اجعل الوثيقة سهلة القراءة. استخدم لغة تتناسب مع الوظيفة المعروضة. أرفق روابط لأدلة ذات مغزى. احذف أي شيء يضعف الرسالة.
+لا يحتاج سيرتك الذاتية إلى سرد قصة حياتك المهنية بالكامل.
+بل يجب أن تجعل صاحب العمل المناسب يرغب في معرفة الباقي.
+<em>هل أنت مستعد لتفعيل سيرتك الذاتية؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًّا احترافيًّا مجانيًّا على JobsList.dev</a>, واكتشف فرصًا شفافة, وتقدم مباشرةً إلى الشركات التي تبحث عن موظفين.</em></li>
+</ul>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيفية كتابة سيرة ذاتية للمطورين تضمن حصولك فعليًّا على مقابلات عمل\",\"description\":\"دليل عملي للمطورين والمهندسين الذين يرغبون في سيرة ذاتية تجتاز اختبار القراءة السريعة, وتُبرز التأثير الحقيقي, وتتوافق مع أنظمة تتبع المتقدمين, وتحوّل المزيد من طلبات التوظيف إلى مقابلات عمل.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-03-05T00:00:00.000Z\",\"dateModified\":\"2026-03-05T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/developer-resume-that-gets-interviews/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيفية كتابة سيرة ذاتية للمطورين تضمن حصولك فعليًّا على مقابلات عمل"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي للمطورين والمهندسين الذين يرغبون في سيرة ذاتية تجتاز اختبار القراءة السريعة, وتُبرز التأثير الحقيقي, وتتوافق مع أنظمة تتبع المتقدمين, وتحوّل المزيد من طلبات التوظيف إلى مقابلات عمل."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-03-05T00:00:00.000Z","children":"4 مارس 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[23," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","السيرة الذاتية",{"className":"badge-gray","children":"السيرة الذاتية"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","المقابلات",{"className":"badge-gray","children":"المقابلات"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيفية كتابة سيرة ذاتية للمطورين تضمن حصولك فعليًّا على مقابلات عمل | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي للمطورين والمهندسين الذين يرغبون في سيرة ذاتية تجتاز اختبار القراءة السريعة, وتُبرز التأثير الحقيقي, وتتوافق مع أنظمة تتبع المتقدمين, وتحوّل المزيد من طلبات التوظيف إلى مقابلات عمل."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيفية كتابة سيرة ذاتية للمطورين تضمن حصولك فعليًّا على مقابلات عمل"}],["$","meta","15",{"property":"og:description","content":"دليل عملي للمطورين والمهندسين الذين يرغبون في سيرة ذاتية تجتاز اختبار القراءة السريعة, وتُبرز التأثير الحقيقي, وتتوافق مع أنظمة تتبع المتقدمين, وتحوّل المزيد من طلبات التوظيف إلى مقابلات عمل."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/developer-resume-that-gets-interviews/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-03-05T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيفية كتابة سيرة ذاتية للمطورين تضمن حصولك فعليًّا على مقابلات عمل"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي للمطورين والمهندسين الذين يرغبون في سيرة ذاتية تجتاز اختبار القراءة السريعة, وتُبرز التأثير الحقيقي, وتتوافق مع أنظمة تتبع المتقدمين, وتحوّل المزيد من طلبات التوظيف إلى مقابلات عمل."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

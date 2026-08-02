@@ -1,850 +1,820 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T9542,<p>Online assessments should evaluate your skills—not monitor your face, inspect your room, or take control of your computer.</p>
-<p>Yet many candidates have encountered assessment systems that require them to:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"no-webcam-no-surveillance-how-we-respect-candidates\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Td3b7,<p>ينبغي أن تقيّم التقييمات عبر الإنترنت مهاراتك — لا أن تراقب وجهك, أو تتفحص غرفتك, أو تتحكم في جهاز الكمبيوتر الخاص بك.
+ومع ذلك, واجه العديد من المرشحين أنظمة تقييم تطلب منهم:</p>
 <ul>
-<li>activate a webcam;</li>
-<li>share or record their screen;</li>
-<li>install a lockdown browser;</li>
-<li>remain visibly centered in front of a camera;</li>
-<li>scan their room;</li>
-<li>provide identification on video;</li>
-<li>allow software to analyze eye movement, facial position, or background noise;</li>
-<li>accept automated warnings when ordinary behavior is labeled “suspicious.”</li>
+<li>تشغيل كاميرا الويب؛</li>
+<li>مشاركة شاشتهم أو تسجيلها؛</li>
+<li>تثبيت متصفح مقفل؛</li>
+<li>البقاء في منتصف إطار الكاميرا بشكل واضح؛</li>
+<li>مسح غرفتهم بصريًا؛</li>
+<li>تقديم إثبات الهوية عبر الفيديو؛</li>
+<li>السماح للبرمجيات بتحليل حركة العين, أو وضع الوجه, أو الضوضاء في الخلفية؛</li>
+<li>قبول التحذيرات الآلية عندما يُصنف السلوك العادي على أنه «مشبوه».
+تقييمات JobsList.dev لا تعمل بهذه الطريقة.
+لقد اخترنا عن عمد نهجًا يحترم الخصوصية لأن المرشحين يستحقون أن يُعاملوا كمحترفين. يجب أن تكون قادرًا على إظهار قدراتك دون تحويل منزلك, أو وجهك, أو حركات جسمك, أو جهازك الشخصي إلى جزء من التقييم.
+صُممت تقييماتنا لقياس:</li>
+<li>الفهم التقني؛</li>
+<li>حل المشكلات؛</li>
+<li>فهم الكود البرمجي؛</li>
+<li>القدرة على تقييم أخطاء البرمجة؛</li>
+<li>المعرفة ذات الصلة بالوظيفة؛</li>
+<li>المفاضلات الهندسية؛</li>
+<li>اتخاذ القرار.
+وهي ليست مصممة لمراقبتك.
+يشرح هذا الدليل:</li>
+<li>ما لا تسجله JobsList.dev أبدًا؛</li>
+<li>ما هي المعلومات التي يستخدمها التقييم؛</li>
+<li>كيف تعمل نزاهة التقييم دون مراقبة تدخلية؛</li>
+<li>ما المقصود بسياق تركيز المتصفح؛</li>
+<li>ما قد تراه الشركات؛</li>
+<li>كيفية حماية خصوصيتك أثناء التقييم؛</li>
+<li>لماذا يمكن لتصميم التقييم القائم على الثقة أن ينتج أدلة توظيف أفضل.</li>
 </ul>
-<p>JobsList.dev assessments do not work that way.</p>
-<p>We deliberately chose a privacy-respecting approach because candidates deserve to be treated as professionals. You should be able to demonstrate your ability without turning your home, face, body movements, or personal device into part of the evaluation.</p>
-<p>Our assessments are designed to measure:</p>
+<h1>الإجابة المختصرة</h1>
+<p>أثناء تقييم JobsList.dev:</p>
 <ul>
-<li>technical understanding;</li>
-<li>problem-solving;</li>
-<li>code comprehension;</li>
-<li>debugging judgment;</li>
-<li>role-relevant knowledge;</li>
-<li>engineering trade-offs;</li>
-<li>decision-making.</li>
+<li>لا يتم تنشيط كاميرا الويب الخاصة بك؛</li>
+<li>لا يتم تسجيل وجهك؛</li>
+<li>لا يتم تسجيل شاشتك؛</li>
+<li>لا يتم استخدام الميكروفون الخاص بك للاستماع إليك؛</li>
+<li>لا يتم جمع المعلومات البيومترية؛</li>
+<li>لا يتم تثبيت متصفح مغلق؛</li>
+<li>لا يتم فحص جهازك بالكامل؛</li>
+<li>لا تقرر الخوارزمية ما إذا كانت حركات عينيك تبدو مشبوهة؛</li>
+<li>لا يؤدي سياق تركيز المتصفح إلى رسوبك تلقائيًا.
+نقوم بتقييم العمل الذي تقدمه.
+ولا نراقبك أثناء إنجازه.</li>
 </ul>
-<p>They are not designed to monitor you.</p>
-<p>This guide explains:</p>
+<h1>ما لا نفعله أبدًا</h1>
+<p>أوضح طريقة لشرح نهجنا هي توضيح ما لا يشكل جزءًا من تقييم JobsList.dev.</p>
+<h1>لا مراقبة عبر كاميرا الويب</h1>
+<p>لا تتطلب تقييمات JobsList.dev تشغيل الكاميرا.
+نحن لا:</p>
 <ul>
-<li>what JobsList.dev never records;</li>
-<li>what information an assessment does use;</li>
-<li>how assessment integrity works without invasive proctoring;</li>
-<li>what browser-focus context means;</li>
-<li>what companies may see;</li>
-<li>how to protect your own privacy during an assessment;</li>
-<li>why trust-based assessment design can produce better hiring evidence.</li>
+<li>نراقبك أثناء التقييم؛</li>
+<li>نسجل مقطع فيديو لك؛</li>
+<li>نلتقط صورًا دورية من كاميرا الويب؛</li>
+<li>نمسح غرفتك بصريًّا؛</li>
+<li>نتحقق من بقائك في وضع واحد؛</li>
+<li>نحلل الاتجاه الذي تنظر إليه؛</li>
+<li>نحاول عد الأشخاص الآخرين الموجودين في الغرفة؛</li>
+<li>نفحص محيطك المادي.
+مظهرك ليس جزءًا من نتيجة تقييمك.</li>
 </ul>
-<h1>The short answer</h1>
-<p>During a JobsList.dev assessment:</p>
+<h1>لا تحليل للوجه أو العين</h1>
+<p>نحن لا نستخدم أنظمة آلية لاستنتاج السلوك من:</p>
 <ul>
-<li>your webcam is not activated;</li>
-<li>your face is not recorded;</li>
-<li>your screen is not recorded;</li>
-<li>your microphone is not used to listen to you;</li>
-<li>biometric information is not collected;</li>
-<li>a lockdown browser is not installed;</li>
-<li>your entire device is not inspected;</li>
-<li>an algorithm does not decide whether your eye movements look suspicious;</li>
-<li>browser-focus context does not automatically fail you.</li>
+<li>اتجاه العين؛</li>
+<li>حركة الرأس؛</li>
+<li>تعابير الوجه؛</li>
+<li>الوضعية الجسدية؛</li>
+<li>عدد المرات التي تنظر فيها بعيدًا؛</li>
+<li>ما إذا كنت تظل في منتصف إطار الكاميرا.
+إن تحويل نظرك عن الشاشة ليس دليلاً موثوقاً على عدم الأمانة.
+قد يعني ذلك أنك:</li>
+<li>تفكر؛</li>
+<li>تريح عينيك؛</li>
+<li>تتحقق من ملاحظات مكتوبة بخط اليد عندما يُسمح بذلك؛</li>
+<li>تستجيب لشيء ما في بيئتك المحيطة؛</li>
+<li>تتعامل مع إعاقة أو حاجة صحية؛</li>
+<li>تعمل بالطريقة الأكثر راحةً لك.
+نحن لا نحاول تحويل الحركات البشرية العادية إلى درجة مخاطر.</li>
 </ul>
-<p>We evaluate the work you submit.</p>
-<p>We do not watch you complete it.</p>
-<h1>What we never do</h1>
-<p>The clearest way to explain our approach is to state what is not part of a JobsList.dev assessment.</p>
-<h1>No webcam monitoring</h1>
-<p>JobsList.dev assessments do not require you to activate your camera.</p>
-<p>We do not:</p>
+<h1>لا تسجيل للشاشة</h1>
+<p>لا يقوم موقع JobsList.dev بتسجيل فيديو لشاشتك أثناء إكمالك للتقييم.
+نحن لا ننشئ لقطات تُظهر:</p>
 <ul>
-<li>watch you during the assessment;</li>
-<li>record video of you;</li>
-<li>capture periodic webcam images;</li>
-<li>scan your room;</li>
-<li>verify that you remain in one position;</li>
-<li>analyze where you are looking;</li>
-<li>attempt to count other people in the room;</li>
-<li>inspect your physical surroundings.</li>
+<li>كل صفحة تزورها؛</li>
+<li>كل تطبيق تفتحه؛</li>
+<li>إشعاراتك؛</li>
+<li>سطح مكتبك؛</li>
+<li>ملفاتك؛</li>
+<li>نوافذ المتصفح الأخرى لديك؛</li>
+<li>معلومات لا علاقة لها بالتقييم.
+لا تتلقى الشركة المُوظِّفة تسجيلاً لشاشتك لأن التقييم لا يُنشئ أي تسجيل من هذا القبيل.</li>
 </ul>
-<p>Your appearance is not part of your assessment result.</p>
-<h1>No facial or eye analysis</h1>
-<p>We do not use automated systems to infer behavior from:</p>
+<h1>لا مشاركة قسرية للشاشة</h1>
+<p>لست بحاجة إلى الانضمام إلى مكالمة ومشاركة سطح مكتبك مع مراقب.
+تُكمل التقييم من خلال واجهة التقييم العادية على جهازك الخاص.</p>
+<h1>لا مراقبة عبر الميكروفون</h1>
+<p>لا تستمع JobsList.dev إلى غرفتك أثناء التقييم.
+نحن لا نسجل:</p>
 <ul>
-<li>eye direction;</li>
-<li>head movement;</li>
-<li>facial expression;</li>
-<li>posture;</li>
-<li>how often you look away;</li>
-<li>whether you remain centered in the camera frame.</li>
+<li>صوتك؛</li>
+<li>المحادثات في الخلفية؛</li>
+<li>ضوضاء المنزل؛</li>
+<li>الأشخاص الآخرين في محيطك؛</li>
+<li>الصوت الصادر من جهازك.
+لا داعي لأن تصبح منزلك صامتًا من أجل منصة التقييم.</li>
 </ul>
-<p>Looking away from a screen is not reliable evidence of dishonesty.</p>
-<p>It may mean you are:</p>
+<h1>لا جمع للبيانات البيومترية</h1>
+<p>نحن لا نجمع بيانات التقييم البيومترية مثل:</p>
 <ul>
-<li>thinking;</li>
-<li>resting your eyes;</li>
-<li>checking handwritten notes when permitted;</li>
-<li>responding to something in your environment;</li>
-<li>managing a disability or health need;</li>
-<li>working in the way that is most comfortable for you.</li>
+<li>هندسة الوجه؛</li>
+<li>بصمات الصوت؛</li>
+<li>أنماط النظر؛</li>
+<li>قوالب الهوية المستمدة من وجهك؛</li>
+<li>الملفات الشخصية البيومترية السلوكية.
+نحن لا نحتاج إلى تلك المعلومات لتقييم إجاباتك, لذا لا نطلبها.</li>
 </ul>
-<p>We do not attempt to convert ordinary human movement into a risk score.</p>
-<h1>No screen recording</h1>
-<p>JobsList.dev does not record a video of your screen while you complete an assessment.</p>
-<p>We do not create footage showing:</p>
+<h1>لا متصفح مقفل</h1>
+<p>لا يشترط JobsList.dev عليك تثبيت متصفح خاص يتحكم في جهاز الكمبيوتر الخاص بك.
+نحن لا نطلب منك تثبيت برامج:</p>
 <ul>
-<li>every page you visit;</li>
-<li>every application you open;</li>
-<li>your notifications;</li>
-<li>your desktop;</li>
-<li>your files;</li>
-<li>your other browser windows;</li>
-<li>information unrelated to the assessment.</li>
+<li>تحجب التطبيقات الأخرى؛</li>
+<li>تعطل اختصارات لوحة المفاتيح؛</li>
+<li>تقيد عناصر التحكم في نظام التشغيل؛</li>
+<li>تفحص العمليات الجارية؛</li>
+<li>تغلق البرامج غير ذات الصلة؛</li>
+<li>تمنع الاستخدام العادي للجهاز؛</li>
+<li>تظل مثبتة بعد انتهاء التقييم.
+أنت تستخدم متصفحك الخاص وجهازك الخاص.</li>
 </ul>
-<p>The hiring company does not receive a recording of your screen because no such recording is created by the assessment.</p>
-<h1>No forced screen sharing</h1>
-<p>You do not need to join a call and share your desktop with a proctor.</p>
-<p>You complete the assessment through the normal assessment interface on your own device.</p>
-<h1>No microphone surveillance</h1>
-<p>JobsList.dev does not listen to your room during an assessment.</p>
-<p>We do not record:</p>
-<ul>
-<li>your voice;</li>
-<li>background conversations;</li>
-<li>household noise;</li>
-<li>other people in your environment;</li>
-<li>audio from your device.</li>
-</ul>
-<p>Your home does not need to become silent for the assessment platform.</p>
-<h1>No biometric data collection</h1>
-<p>We do not collect biometric assessment data such as:</p>
-<ul>
-<li>facial geometry;</li>
-<li>voiceprints;</li>
-<li>gaze patterns;</li>
-<li>identity templates derived from your face;</li>
-<li>behavioral biometric profiles.</li>
-</ul>
-<p>We do not need that information to evaluate your answers, so we do not ask for it.</p>
-<h1>No lockdown browser</h1>
-<p>JobsList.dev does not require you to install a special browser that takes over your computer.</p>
-<p>We do not ask you to install software that:</p>
-<ul>
-<li>blocks other applications;</li>
-<li>disables keyboard shortcuts;</li>
-<li>restricts operating-system controls;</li>
-<li>scans running processes;</li>
-<li>closes unrelated programs;</li>
-<li>prevents ordinary device use;</li>
-<li>remains installed after the assessment.</li>
-</ul>
-<p>You use your own browser and your own device.</p>
-<h1>No hidden remote control</h1>
-<p>The assessment does not give JobsList.dev or the hiring company remote control over your computer.</p>
-<p>We cannot browse through your files, inspect unrelated applications, or operate your device.</p>
-<h1>No automated cheating verdict</h1>
-<p>JobsList.dev does not turn one technical or browser event into an automatic declaration that you cheated.</p>
-<p>A system should not make a serious judgment about a candidate based on one decontextualized event.</p>
-<p>Assessment information is evidence for human review, not an automated accusation.</p>
-<h1>Why we reject invasive proctoring</h1>
-<p>Our position is not that assessment integrity is unimportant.</p>
-<p>It is that surveillance is not the only—or best—way to support it.</p>
-<p>We reject invasive proctoring for several reasons.</p>
-<h1>It begins the relationship with suspicion</h1>
-<p>A hiring process is often a candidate’s first sustained interaction with a company.</p>
-<p>Requiring candidates to surrender extensive privacy communicates:</p>
+<h1>لا يوجد تحكم عن بُعد خفي</h1>
+<p>لا يمنح التقييم موقع JobsList.dev أو الشركة المُوظِّفة حق التحكم عن بُعد في جهاز الكمبيوتر الخاص بك.
+لا يمكننا تصفح ملفاتك, أو فحص التطبيقات غير ذات الصلة, أو تشغيل جهازك.</p>
+<h1>لا يوجد حكم آلي بالغش</h1>
+<p>لا يحول موقع JobsList.dev أي حدث تقني أو متعلق بالمتصفح إلى إعلان آلي بأنك قمت بالغش.
+لا ينبغي لأي نظام أن يصدر حكمًا جادًّا على مرشح بناءً على حدث واحد خارج سياقه.
+معلومات التقييم هي أدلة للمراجعة البشرية, وليست اتهامًا آليًّا.</p>
+<h1>لماذا نرفض المراقبة التدخلية</h1>
+<p>موقفنا ليس أن نزاهة التقييم غير مهمة.
+بل أن المراقبة ليست الطريقة الوحيدة — أو الأفضل — لدعمها.
+نرفض المراقبة التدخلية لعدة أسباب.</p>
+<h1>إنها تبدأ العلاقة بالشك</h1>
+<p>غالبًا ما تكون عملية التوظيف أول تفاعل مستمر للمرشح مع الشركة.
+إن مطالبة المرشحين بالتنازل عن قدر كبير من خصوصيتهم تعني:</p>
 <blockquote>
-<p>We assume you may be dishonest, so we need to watch you.</p>
+<p>نحن نفترض أنك قد تكون غير أمين, لذا نحتاج إلى مراقبتك.
+وهذا أساس ضعيف لعلاقة مهنية.
+ترغب الشركات في توظيف أشخاص يمكنها الوثوق بهم فيما يتعلق بما يلي:</p>
 </blockquote>
-<p>That is a poor foundation for a professional relationship.</p>
-<p>Companies want to hire people they can trust with:</p>
 <ul>
-<li>production systems;</li>
-<li>customer information;</li>
-<li>company infrastructure;</li>
-<li>business decisions;</li>
-<li>source code;</li>
-<li>credentials;</li>
-<li>confidential plans.</li>
+<li>أنظمة الإنتاج؛</li>
+<li>معلومات العملاء؛</li>
+<li>البنية التحتية للشركة؛</li>
+<li>القرارات التجارية؛</li>
+<li>شفرة المصدر؛</li>
+<li>بيانات الاعتماد؛</li>
+<li>الخطط السرية.
+يجب أن يبدأ التقييم القائم على الاحترام من الثقة المهنية مع الاستمرار في استخدام إجراءات وقائية مدروسة.</li>
 </ul>
-<p>A respectful assessment should begin from professional trust while still using thoughtful safeguards.</p>
-<h1>It collects information unrelated to the job</h1>
-<p>A candidate’s bedroom, kitchen, family members, body movements, or facial expressions generally have nothing to do with whether they can design an API, debug a service, write accessible frontend code, or reason about a database.</p>
-<p>Assessment systems should minimize irrelevant information rather than collect it because the technology makes collection possible.</p>
-<h1>It can make ordinary behavior look suspicious</h1>
-<p>Human behavior is variable.</p>
-<p>During an assessment, a candidate may:</p>
+<h1>يجمع معلومات لا علاقة لها بالوظيفة</h1>
+<p>غرفة نوم المرشح, أو مطبخه, أو أفراد أسرته, أو حركات جسده, أو تعابير وجهه, لا علاقة لها عمومًا بقدرته على تصميم واجهة برمجة تطبيقات (API), أو تصحيح أخطاء خدمة ما, أو كتابة كود واجهة مستخدم سهل الاستخدام, أو تحليل قاعدة بيانات.
+ينبغي لأنظمة التقييم أن تقلل من المعلومات غير ذات الصلة إلى أدنى حد ممكن بدلاً من جمعها لمجرد أن التكنولوجيا تتيح ذلك.</p>
+<h1>قد يجعل السلوك العادي يبدو مريبًا</h1>
+<p>السلوك البشري متغير.
+أثناء التقييم, قد يقوم المرشح بما يلي:</p>
 <ul>
-<li>look away while thinking;</li>
-<li>read a question aloud;</li>
-<li>move frequently;</li>
-<li>use assistive technology;</li>
-<li>pause for a health need;</li>
-<li>respond to a child or family member;</li>
-<li>work from a shared space;</li>
-<li>experience an unstable connection;</li>
-<li>change posture;</li>
-<li>use more than one monitor;</li>
-<li>take longer to read a question.</li>
+<li>يحوّل نظره بعيدًا أثناء التفكير؛</li>
+<li>يقرأ السؤال بصوت عالٍ؛</li>
+<li>يتحرك بشكل متكرر؛</li>
+<li>يستخدم تقنيات مساعدة؛</li>
+<li>يتوقف مؤقتًا لضرورة صحية؛</li>
+<li>يستجيب لطفل أو أحد أفراد الأسرة؛</li>
+<li>يعمل من مساحة مشتركة؛</li>
+<li>يعاني من اتصال غير مستقر؛</li>
+<li>يغير وضعية جسده؛</li>
+<li>يستخدم أكثر من شاشة واحدة؛</li>
+<li>يستغرق وقتًا أطول في قراءة السؤال.
+هذه السلوكيات لا تدل على عدم الأمانة.
+الأنظمة التي تحاول استنتاج النية منها تخاطر بإثارة شكوك زائفة.</li>
 </ul>
-<p>Those behaviors do not establish dishonesty.</p>
-<p>Systems that attempt to infer intent from them risk producing false suspicion.</p>
-<h1>It can disadvantage candidates unnecessarily</h1>
-<p>Invasive proctoring may create additional burdens for people who:</p>
+<h1>قد يضع المرشحين في وضع غير مواتٍ دون داعٍ</h1>
+<p>قد يخلق الإشراف التدخلي أعباءً إضافية للأشخاص الذين:</p>
 <ul>
-<li>are neurodivergent;</li>
-<li>have disabilities;</li>
-<li>use assistive technology;</li>
-<li>experience anxiety;</li>
-<li>have limited access to private space;</li>
-<li>share a home with family or roommates;</li>
-<li>have caregiving responsibilities;</li>
-<li>use older hardware;</li>
-<li>have unstable internet access;</li>
-<li>are uncomfortable exposing their home on camera.</li>
+<li>يعانون من اختلافات عصبية؛</li>
+<li>لديهم إعاقات؛</li>
+<li>يستخدمون تقنيات مساعدة؛</li>
+<li>يعانون من القلق؛</li>
+<li>لديهم وصول محدود إلى مساحة خاصة؛</li>
+<li>يشاركون المنزل مع العائلة أو رفقاء السكن؛</li>
+<li>يتحملون مسؤوليات رعاية؛</li>
+<li>يستخدمون أجهزة قديمة؛</li>
+<li>يعانون من اتصال إنترنت غير مستقر؛</li>
+<li>يشعرون بعدم الارتياح عند عرض منازلهم أمام الكاميرا.
+ينبغي أن يقيس التقييم المهارة المقصودة — وليس قدرة المرشح على تهيئة بيئة اختبار خاضعة للرقابة التامة.</li>
 </ul>
-<p>The assessment should measure the intended skill—not a candidate’s ability to create a perfectly controlled testing environment.</p>
-<h1>It can create a false sense of security</h1>
-<p>Webcam monitoring cannot prove that every answer came from independent understanding.</p>
-<p>A determined person may still use:</p>
+<h1>قد يخلق إحساسًا زائفًا بالأمان</h1>
+<p>لا يمكن للمراقبة عبر كاميرا الويب أن تثبت أن كل إجابة جاءت من فهم مستقل.
+فقد يستمر الشخص المصمم على الغش في استخدام:</p>
 <ul>
-<li>another device;</li>
-<li>off-camera materials;</li>
-<li>another person outside the camera frame;</li>
-<li>tools the monitoring system does not detect.</li>
+<li>جهاز آخر؛</li>
+<li>مواد خارج نطاق الكاميرا؛</li>
+<li>شخصًا آخر خارج إطار الكاميرا؛</li>
+<li>أدوات لا يكتشفها نظام المراقبة.
+وبالتالي, يمكن للمراقبة أن تخلق مظهرًا من اليقين دون أن تضمنه فعليًّا.
+نحن نفضل تصميم التقييم الذي يجعل الفهم الحقيقي أمرًا ضروريًّا.</li>
 </ul>
-<p>Surveillance can therefore create the appearance of certainty without actually guaranteeing it.</p>
-<p>We prefer assessment design that makes genuine understanding necessary.</p>
-<h1>It changes what the assessment measures</h1>
-<p>Once candidates know they are being watched, the experience may begin measuring:</p>
+<h1>يغير ما يقيسه التقييم</h1>
+<p>بمجرد أن يعلم المرشحون أنهم تحت المراقبة, قد تبدأ التجربة في قياس:</p>
 <ul>
-<li>comfort under surveillance;</li>
-<li>ability to remain physically still;</li>
-<li>performance anxiety;</li>
-<li>access to a private room;</li>
-<li>tolerance for intrusive software.</li>
+<li>الراحة تحت المراقبة؛</li>
+<li>القدرة على البقاء ثابتًا جسديًّا؛</li>
+<li>القلق من الأداء؛</li>
+<li>إمكانية الوصول إلى غرفة خاصة؛</li>
+<li>التسامح مع البرامج المتطفلة.
+هذه ليست المهارات التي تتطلبها معظم وظائف المطورين.</li>
 </ul>
-<p>Those are not the skills most developer roles require.</p>
-<h1>Privacy-respecting does not mean integrity-free</h1>
-<p>Rejecting surveillance does not mean ignoring assessment integrity.</p>
-<p>It means protecting integrity through the design of the assessment itself.</p>
-<p>JobsList.dev can support trustworthy results through several approaches.</p>
-<h1>Personalized question selection</h1>
-<p>Candidates can receive questions selected from a broader question pool.</p>
-<p>This makes it less likely that every person receives the same assessment in the same order.</p>
-<p>The value is not to create confusion.</p>
-<p>It is to reduce dependence on one fixed sequence that can be copied or distributed easily.</p>
-<h1>Shuffled presentation</h1>
-<p>Questions and answer choices may be presented in varying orders where the format permits it.</p>
-<p>Again, the purpose is not to create tricks.</p>
-<p>It is to make the result depend more on understanding than on memorizing the position of an answer.</p>
-<h1>Correct answers are not delivered to the browser</h1>
-<p>The assessment interface does not need to send the complete answer key to your device.</p>
-<p>Your browser receives what it needs to present the assessment, while scoring logic and protected answer information remain on the server side.</p>
-<p>This reduces the risk of someone discovering the complete key through ordinary page inspection or network tools.</p>
-<h1>Server-controlled timing</h1>
-<p>The assessment’s time state is handled consistently rather than depending only on a local visual timer that could be changed easily.</p>
-<p>This supports a fair time window across candidates.</p>
-<h1>Autosaving</h1>
-<p>Answers can be saved as you work so a browser crash, connection problem, or accidental refresh is less likely to erase your progress.</p>
-<p>Reliability is part of fairness.</p>
-<p>A candidate should not lose an entire attempt because one device or browser event went wrong.</p>
-<h1>Resume support</h1>
-<p>When the assessment permits it, you may be able to return after an interruption and continue from the saved state.</p>
-<p>That protects candidates from technical problems without requiring invasive monitoring.</p>
-<h1>Judgment-focused questions</h1>
-<p>Assessment questions can be designed around:</p>
+<h1>احترام الخصوصية لا يعني التخلي عن النزاهة</h1>
+<p>رفض المراقبة لا يعني تجاهل نزاهة التقييم.
+بل يعني حماية النزاهة من خلال تصميم التقييم نفسه.
+يمكن لـ JobsList.dev دعم نتائج موثوقة من خلال عدة نُهج.</p>
+<h1>اختيار الأسئلة المخصصة</h1>
+<p>يمكن أن يتلقى المرشحون أسئلة مختارة من مجموعة أسئلة أوسع.
+وهذا يقلل من احتمال أن يتلقى كل شخص نفس التقييم بنفس الترتيب.
+والهدف من ذلك ليس إحداث ارتباك.
+بل هو تقليل الاعتماد على تسلسل ثابت واحد يمكن نسخه أو توزيعه بسهولة.</p>
+<h1>عرض الأسئلة بترتيب عشوائي</h1>
+<p>يمكن عرض الأسئلة وخيارات الإجابة بترتيبات متنوعة حيثما يسمح التنسيق بذلك.
+مرة أخرى, الغرض ليس إثارة الحيرة.
+بل هو جعل النتيجة تعتمد على الفهم أكثر من الاعتماد على حفظ موضع الإجابة.</p>
+<h1>لا يتم إرسال الإجابات الصحيحة إلى المتصفح</h1>
+<p>لا تحتاج واجهة الاختبار إلى إرسال مفتاح الإجابات الكامل إلى جهازك.
+يتلقى متصفحك ما يحتاجه لعرض الاختبار, بينما تظل منطقية التقييم ومعلومات الإجابات المحمية على جانب الخادم.
+وهذا يقلل من خطر اكتشاف شخص ما مفتاح الإجابات الكامل من خلال الفحص العادي للصفحة أو أدوات الشبكة.</p>
+<h1>توقيت يتحكم فيه الخادم</h1>
+<p>يتم التعامل مع حالة الوقت في الاختبار بشكل متسق بدلاً من الاعتماد فقط على مؤقت مرئي محلي يمكن تغييره بسهولة.
+وهذا يضمن فترة زمنية عادلة لجميع المرشحين.</p>
+<h1>الحفظ التلقائي</h1>
+<p>يمكن حفظ الإجابات أثناء العمل, مما يقلل من احتمالية محو تقدمك في حالة تعطل المتصفح أو حدوث مشكلة في الاتصال أو التحديث العرضي.
+الموثوقية جزء من العدالة.
+لا ينبغي أن يفقد المرشح محاولة كاملة بسبب حدوث خطأ في جهاز واحد أو متصفح واحد.</p>
+<h1>دعم استئناف الاختبار</h1>
+<p>عندما يسمح التقييم بذلك, قد تتمكن من العودة بعد انقطاع ومتابعة الاختبار من الحالة المحفوظة.
+وهذا يحمي المرشحين من المشكلات التقنية دون الحاجة إلى مراقبة تدخلية.</p>
+<h1>الأسئلة التي تركز على التقدير</h1>
+<p>يمكن تصميم أسئلة التقييم حول:</p>
 <ul>
-<li>code comprehension;</li>
-<li>debugging;</li>
-<li>scenario analysis;</li>
-<li>system trade-offs;</li>
-<li>security awareness;</li>
-<li>data correctness;</li>
-<li>prioritization;</li>
-<li>role-specific decision-making.</li>
+<li>فهم الكود؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>تحليل السيناريوهات؛</li>
+<li>المفاضلات في النظام؛</li>
+<li>الوعي الأمني؛</li>
+<li>صحة البيانات؛</li>
+<li>تحديد الأولويات؛</li>
+<li>اتخاذ القرارات الخاصة بالدور.
+يصعب الإجابة عن هذه الأسئلة بشكل صحيح من خلال النسخ السطحي, لأن المرشح يجب أن يطبق المفهوم على السيناريو.</li>
 </ul>
-<p>These are more difficult to answer correctly through shallow copying because the candidate must apply the concept to the scenario.</p>
-<h1>Section-level results</h1>
-<p>A trustworthy assessment should produce more than one undifferentiated number.</p>
-<p>Section results can show where a candidate demonstrated strength, such as:</p>
+<h1>النتائج على مستوى الأقسام</h1>
+<p>يجب أن ينتج عن التقييم الموثوق به أكثر من رقم واحد غير متمايز.
+يمكن أن تُظهر نتائج الأقسام المجالات التي أظهر فيها المرشح قوته, مثل:</p>
 <ul>
-<li>backend reasoning;</li>
-<li>SQL;</li>
-<li>frontend accessibility;</li>
-<li>debugging;</li>
-<li>testing;</li>
-<li>system design;</li>
-<li>data engineering;</li>
-<li>DevOps judgment.</li>
+<li>التفكير في الخلفية (backend)؛</li>
+<li>لغة SQL؛</li>
+<li>إمكانية الوصول إلى الواجهة الأمامية؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الاختبار؛</li>
+<li>تصميم النظام؛</li>
+<li>هندسة البيانات؛</li>
+<li>التقدير في مجال DevOps.
+تساعد النتائج التفصيلية المراجعين على تحديد أنماط ذات مغزى بدلاً من الاعتماد على تصنيف واحد هو «ناجح» أو «راسب».</li>
 </ul>
-<p>A detailed result helps reviewers identify meaningful patterns instead of relying on one pass-or-fail label.</p>
-<h1>Human follow-up</h1>
-<p>An assessment can be followed by a discussion.</p>
-<p>An interviewer may ask:</p>
+<h1>المتابعة البشرية</h1>
+<p>يمكن أن يتبع التقييم مناقشة.
+قد يسأل القائم بالمقابلة:</p>
 <ul>
-<li>Why did you choose that answer?</li>
-<li>Which assumption mattered most?</li>
-<li>What would change if the scale increased?</li>
-<li>Which alternative did you reject?</li>
-<li>Where could the design fail?</li>
-<li>How would you implement the decision?</li>
-<li>Have you handled a similar problem before?</li>
+<li>لماذا اخترت هذا الجواب؟</li>
+<li>ما هو الافتراض الأكثر أهمية؟</li>
+<li>ما الذي سيتغير إذا زاد الحجم؟</li>
+<li>ما هو البديل الذي رفضته؟</li>
+<li>أين يمكن أن يفشل التصميم؟</li>
+<li>كيف ستنفذ القرار؟</li>
+<li>هل تعاملت مع مشكلة مماثلة من قبل؟
+يمكن للشخص الذي يفهم إجابته مناقشتها وتكييفها.
+وهذا يوفر دليلاً أقوى من محاولة استنتاج النزاهة من حركات الوجه.</li>
 </ul>
-<p>Someone who understands their submission can discuss and adapt it.</p>
-<p>That creates stronger evidence than trying to infer integrity from facial movement.</p>
-<h1>What information an assessment does use</h1>
-<p>A privacy-respecting assessment still needs enough information to function.</p>
-<p>Based on the assessment workflow described here, JobsList.dev may retain information such as:</p>
+<h1>المعلومات التي يستخدمها التقييم</h1>
+<p>لا يزال التقييم الذي يحترم الخصوصية بحاجة إلى معلومات كافية ليعمل.
+بناءً على سير عمل التقييم الموصوف هنا, قد تحتفظ JobsList.dev بمعلومات مثل:</p>
 <ul>
-<li>your name;</li>
-<li>your email address;</li>
-<li>the invitation or assessment associated with you;</li>
-<li>the answers you submit;</li>
-<li>assessment timing information;</li>
-<li>completion and submission state;</li>
-<li>section and overall scoring information;</li>
-<li>limited technical or browser context relevant to the assessment experience.</li>
+<li>اسمك؛</li>
+<li>عنوان بريدك الإلكتروني؛</li>
+<li>الدعوة أو التقييم المرتبط بك؛</li>
+<li>الإجابات التي ترسلها؛</li>
+<li>معلومات توقيت التقييم؛</li>
+<li>حالة الإكمال والإرسال؛</li>
+<li>معلومات التقييم لكل قسم والنتيجة الإجمالية؛</li>
+<li>سياق تقني أو متعلق بالمتصفح محدود الصلة بتجربة التقييم.
+تخدم هذه المعلومات أغراضًا عملية.
+على سبيل المثال:</li>
+<li>يربط اسمك وعنوان بريدك الإلكتروني النتيجة بالمرشح الصحيح؛</li>
+<li>تسمح الإجابات بتقييم التقييم؛</li>
+<li>تدعم معلومات التوقيت فترة إجراء التقييم؛</li>
+<li>تؤكد حالة الإكمال ما إذا تم إرسال محاولة أم لا؛</li>
+<li>يمكن أن يساعد السياق التقني المحدود في تفسير الانقطاعات أو الأحداث غير العادية.
+المبدأ هو تقليل البيانات إلى الحد الأدنى:</li>
 </ul>
-<p>This information serves practical purposes.</p>
-<p>For example:</p>
-<ul>
-<li>your name and email connect the result with the correct candidate;</li>
-<li>answers allow the assessment to be scored;</li>
-<li>timing information supports the assessment window;</li>
-<li>completion state confirms whether an attempt was submitted;</li>
-<li>limited technical context can help explain interruptions or unusual events.</li>
-</ul>
-<p>The principle is data minimization:</p>
 <blockquote>
-<p>Collect what is reasonably needed to operate and review the assessment—not everything that could possibly be collected.</p>
+<p>اجمع ما هو مطلوب بشكل معقول لتشغيل التقييم ومراجعته — وليس كل ما يمكن جمعه.</p>
 </blockquote>
-<h1>What browser-focus information means</h1>
-<p>JobsList.dev may note a limited event such as whether the assessment tab lost browser focus.</p>
-<p>This needs careful explanation because candidates can easily assume it means more than it does.</p>
-<p>A tab losing focus may occur when:</p>
+<h1>ماذا تعني معلومات تركيز المتصفح</h1>
+<p>قد يسجل موقع JobsList.dev حدثًا محدودًا مثل ما إذا كانت علامة تبويب التقييم قد فقدت تركيز المتصفح.
+وهذا يحتاج إلى شرح دقيق لأن المرشحين قد يفترضون بسهولة أن الأمر يعني أكثر مما هو عليه في الواقع.
+قد يحدث فقدان علامة التبويب لتركيز المتصفح في الحالات التالية:</p>
 <ul>
-<li>you open another tab;</li>
-<li>another application becomes active;</li>
-<li>a notification interrupts the browser;</li>
-<li>you accidentally click outside the window;</li>
-<li>you use an accessibility or operating-system tool;</li>
-<li>your browser behaves unexpectedly;</li>
-<li>you pause and return.</li>
+<li>عند فتح علامة تبويب أخرى؛</li>
+<li>عند تنشيط تطبيق آخر؛</li>
+<li>عند مقاطعة المتصفح بإشعار؛</li>
+<li>عند النقر عن طريق الخطأ خارج النافذة؛</li>
+<li>عند استخدام أداة ميسرة أو أداة تابعة لنظام التشغيل؛</li>
+<li>تصرف المتصفح بشكل غير متوقع؛</li>
+<li>توقف مؤقتًا ثم عدت.
+الحدث بحد ذاته لا يفسر سبب حدوثه.</li>
 </ul>
-<p>The event alone does not explain why it occurred.</p>
-<h1>It is context, not a verdict</h1>
-<p>A focus change is not an automatic failure.</p>
-<p>It is not proof of cheating.</p>
-<p>It should be presented, when relevant, as a neutral factual event for human interpretation.</p>
-<p>A responsible reviewer should consider:</p>
+<h1>إنه سياق, وليس حكمًا</h1>
+<p>تغيير التركيز لا يعني الفشل تلقائيًا.
+وهو ليس دليلًا على الغش.
+ينبغي تقديمه, عند الاقتضاء, كحدث واقعي محايد لتفسيره البشري.
+يجب على المراجع المسؤول أن يأخذ في الاعتبار:</p>
 <ul>
-<li>assessment rules;</li>
-<li>frequency and duration;</li>
-<li>technical explanations;</li>
-<li>the candidate’s submitted work;</li>
-<li>whether follow-up is necessary;</li>
-<li>whether the event matters at all.</li>
+<li>قواعد التقييم؛</li>
+<li>التكرار والمدة؛</li>
+<li>التفسيرات الفنية؛</li>
+<li>العمل المقدم من المرشح؛</li>
+<li>ما إذا كان من الضروري إجراء متابعة؛</li>
+<li>ما إذا كان الحدث مهمًا على الإطلاق.</li>
 </ul>
-<h1>Why mention focus events at all?</h1>
-<p>Transparency matters.</p>
-<p>It is better to tell candidates clearly that a limited browser event may be recorded than to hide it in vague policy language.</p>
-<p>The important boundaries are:</p>
+<h1>لماذا نذكر أحداث التركيز أصلاً؟</h1>
+<p>الشفافية مهمة.
+من الأفضل إخبار المرشحين بوضوح أن حدثًا محدودًا في المتصفح قد يتم تسجيله بدلاً من إخفائه في لغة سياسة غامضة.
+الحدود المهمة هي:</p>
 <ul>
-<li>no camera footage;</li>
-<li>no screen footage;</li>
-<li>no biometric analysis;</li>
-<li>no automatic cheating decision;</li>
-<li>no claim that a focus change reveals intent.</li>
+<li>عدم تسجيل لقطات الكاميرا؛</li>
+<li>عدم تسجيل لقطات الشاشة؛</li>
+<li>عدم إجراء تحليل بيومتري؛</li>
+<li>عدم اتخاذ قرار تلقائي بالغش؛</li>
+<li>عدم الادعاء بأن تغيير التركيز يكشف عن النية.</li>
 </ul>
-<h1>What the hiring company may see</h1>
-<p>The company may receive an assessment result containing information such as:</p>
+<h1>ما قد تراه الشركة المُوظِّفة</h1>
+<p>قد تتلقى الشركة نتيجة تقييم تحتوي على معلومات مثل:</p>
 <ul>
-<li>overall performance;</li>
-<li>section performance;</li>
-<li>manually reviewed responses where applicable;</li>
-<li>completion information;</li>
-<li>neutral assessment context.</li>
+<li>الأداء العام؛</li>
+<li>الأداء في كل قسم؛</li>
+<li>الإجابات التي تمت مراجعتها يدويًّا حيثما ينطبق ذلك؛</li>
+<li>معلومات الإكمال؛</li>
+<li>سياق التقييم المحايد.
+لا تتلقى الشركة:</li>
+<li>لقطات كاميرا الويب؛</li>
+<li>تسجيل الشاشة؛</li>
+<li>صوت الميكروفون؛</li>
+<li>نتائج تحليل الوجه؛</li>
+<li>ملف تعريف بيومتري؛</li>
+<li>تسجيل لغرفة المرشح.
+تظل الشركة مسؤولة عن تطبيق الحكم البشري على المعلومات التي تتلقاها.</li>
 </ul>
-<p>The company does not receive:</p>
-<ul>
-<li>webcam footage;</li>
-<li>a screen recording;</li>
-<li>microphone audio;</li>
-<li>facial-analysis results;</li>
-<li>a biometric profile;</li>
-<li>a recording of your room.</li>
-</ul>
-<p>The company remains responsible for applying human judgment to the information it receives.</p>
-<h1>What an employer should not conclude</h1>
-<p>A responsible employer should not conclude:</p>
+<h1>ما لا ينبغي لصاحب العمل أن يستنتجه</h1>
+<p>يجب على صاحب العمل المسؤول ألا يستنتج:</p>
 <blockquote>
-<p>The tab changed focus, therefore the candidate cheated.</p>
+<p>«لقد تغير التركيز على علامة التبويب, وبالتالي فإن المرشح قد غش».
+كما يجب عليه تجنب استخدام السياق التقني المحدود كأساس للحكم على الشخصية.
+لا يمكن لسياق التقييم أن يحدد ما إذا كان الشخص:</p>
 </blockquote>
-<p>It should also avoid using limited technical context as a personality judgment.</p>
-<p>Assessment context cannot determine whether someone is:</p>
 <ul>
-<li>honest;</li>
-<li>trustworthy;</li>
-<li>attentive;</li>
-<li>professional;</li>
-<li>suitable for the role.</li>
+<li>صادقًا؛</li>
+<li>جديرًا بالثقة؛</li>
+<li>منتبهًا؛</li>
+<li>محترفًا؛</li>
+<li>مناسبًا للمنصب.
+تتطلب هذه الاستنتاجات أدلة أوسع نطاقًا.</li>
 </ul>
-<p>Those conclusions require broader evidence.</p>
-<h1>What employers should evaluate instead</h1>
-<p>Employers should focus on:</p>
+<h1>ما يجب على أصحاب العمل تقييمه بدلاً من ذلك</h1>
+<p>يجب على أصحاب العمل التركيز على:</p>
 <ul>
-<li>the quality of the submitted answers;</li>
-<li>section-level strengths;</li>
-<li>role relevance;</li>
-<li>reasoning demonstrated;</li>
-<li>experience and résumé evidence;</li>
-<li>interview discussion;</li>
-<li>ability to explain decisions;</li>
-<li>alignment with the role.</li>
+<li>جودة الإجابات المقدمة؛</li>
+<li>نقاط القوة على مستوى كل قسم؛</li>
+<li>مدى ملاءمة المرشح للمنصب؛</li>
+<li>القدرة على الاستدلال التي أظهرها؛</li>
+<li>الخبرة والأدلة الواردة في السيرة الذاتية؛</li>
+<li>مناقشة المقابلة؛</li>
+<li>القدرة على تفسير القرارات؛</li>
+<li>التوافق مع متطلبات المنصب.
+عندما يكون لدى الشركة قلق محدد, يمكنها طرح سؤال متابعة مباشر ومحترم بدلاً من الاعتماد على التخمينات.</li>
 </ul>
-<p>When a company has a specific concern, it can ask a direct and respectful follow-up question rather than relying on speculation.</p>
-<h1>What candidates are expected to do</h1>
-<p>Privacy and trust work in both directions.</p>
-<p>JobsList.dev asks candidates to:</p>
+<h1>ما يُتوقع من المرشحين</h1>
+<p>الخصوصية والثقة تعملان في كلا الاتجاهين.
+يطلب موقع JobsList.dev من المرشحين:</p>
 <ul>
-<li>complete the assessment honestly;</li>
-<li>follow the instructions provided;</li>
-<li>respect any stated rules about outside resources or AI tools;</li>
-<li>submit their own reasoning;</li>
-<li>avoid sharing protected assessment content;</li>
-<li>report real technical problems accurately.</li>
+<li>إكمال التقييم بأمانة؛</li>
+<li>اتباع التعليمات المقدمة؛</li>
+<li>احترام أي قواعد مذكورة بشأن الموارد الخارجية أو أدوات الذكاء الاصطناعي؛</li>
+<li>تقديم طريقة التفكير الخاصة بهم؛</li>
+<li>تجنب مشاركة محتوى التقييم المحمي؛</li>
+<li>الإبلاغ عن المشكلات التقنية الحقيقية بدقة.
+عدم وجود مراقبة لا يعني الإذن بتجاهل تعليمات التقييم.
+إنه اتفاق على معاملتك كمتخصص.</li>
 </ul>
-<p>The absence of surveillance is not permission to ignore the assessment instructions.</p>
-<p>It is an agreement to treat you as a professional.</p>
-<h1>Read the assessment instructions carefully</h1>
-<p>Different assessments may establish different rules regarding:</p>
+<h1>اقرأ تعليمات التقييم بعناية</h1>
+<p>قد تضع التقييمات المختلفة قواعد مختلفة فيما يتعلق بما يلي:</p>
 <ul>
-<li>documentation;</li>
-<li>search engines;</li>
-<li>notes;</li>
-<li>calculators;</li>
-<li>code editors;</li>
-<li>AI assistants;</li>
-<li>collaboration;</li>
-<li>external resources.</li>
+<li>التوثيق؛</li>
+<li>محركات البحث؛</li>
+<li>الملاحظات؛</li>
+<li>الآلات الحاسبة؛</li>
+<li>برامج تحرير الأكواد؛</li>
+<li>مساعدات الذكاء الاصطناعي؛</li>
+<li>التعاون؛</li>
+<li>الموارد الخارجية.
+استخدم فقط ما يسمح به التقييم المحدد.
+عندما تكون التعليمات غير واضحة, اتصل بالشركة أو قناة الدعم قبل البدء إن أمكن.</li>
 </ul>
-<p>Use only what the specific assessment permits.</p>
-<p>When the instructions are unclear, contact the company or support channel before beginning when possible.</p>
-<h1>Why doing your own work serves you</h1>
-<p>An assessment is intended to match you with work you can perform.</p>
-<p>Inflating a result through answers you do not understand may create larger problems later.</p>
-<p>You may be asked to:</p>
+<h1>لماذا يخدمك القيام بعملك بنفسك</h1>
+<p>الغرض من التقييم هو مطابقتك مع العمل الذي يمكنك أدائه.
+قد يؤدي تضخيم النتيجة من خلال إجابات لا تفهمها إلى مشاكل أكبر لاحقًا.
+قد يُطلب منك:</p>
 <ul>
-<li>explain the answer during an interview;</li>
-<li>modify the solution;</li>
-<li>work through a similar scenario;</li>
-<li>perform the role after being hired.</li>
+<li>شرح الإجابة خلال المقابلة؛</li>
+<li>تعديل الحل؛</li>
+<li>العمل على سيناريو مشابه؛</li>
+<li>أداء الدور بعد التعيين.
+قد تضعك النتيجة المضللة في موقف لا تتوافق فيه التوقعات مع استعداداتك الحالية.
+تكون نتيجتك الحقيقية أكثر فائدة لأنها تساعد في تحديد:</li>
+<li>الأدوار المناسبة؛</li>
+<li>نقاط القوة التي تستحق تسليط الضوء عليها؛</li>
+<li>الثغرات التي تستحق التحسين؛</li>
+<li>موضوعات المقابلة التي يجب الاستعداد لها.</li>
 </ul>
-<p>A misleading result may place you in a position where expectations do not match your current preparation.</p>
-<p>Your genuine result is more useful because it helps identify:</p>
+<h1>ماذا تفعل إذا احتجت إلى موارد خارجية</h1>
+<p>أولاً, تحقق من التعليمات.
+عندما يُسمح باستخدام الوثائق أو الأدوات, استخدمها كما تفعل في بيئة العمل:</p>
 <ul>
-<li>roles that fit;</li>
-<li>strengths worth highlighting;</li>
-<li>gaps worth improving;</li>
-<li>interview topics to prepare.</li>
+<li>افهم السؤال أولاً؛</li>
+<li>استخدم الموارد لدعم تفكيرك؛</li>
+<li>تحقق من صحة المعلومات؛</li>
+<li>أرسل فقط ما تفهمه؛</li>
+<li>كن مستعدًا لشرح منطقك.
+عندما لا يُسمح باستخدام الموارد الخارجية, احترم هذا الشرط.</li>
 </ul>
-<h1>What to do if you need outside resources</h1>
-<p>First, check the instructions.</p>
-<p>When documentation or tools are permitted, use them as you would professionally:</p>
+<h1>ماذا تفعل إذا كنت بحاجة إلى تسهيلات خاصة</h1>
+<p>يجب أن يظل التقييم الذي يحترم الخصوصية متاحًا للجميع.
+قد تحتاج إلى دعم يشمل:</p>
 <ul>
-<li>understand the question first;</li>
-<li>use resources to support your thinking;</li>
-<li>verify the information;</li>
-<li>submit only what you understand;</li>
-<li>be prepared to explain your reasoning.</li>
+<li>وقت إضافي؛</li>
+<li>التنقل باستخدام لوحة المفاتيح؛</li>
+<li>التوافق مع قارئ الشاشة؛</li>
+<li>فترات راحة؛</li>
+<li>تنسيق بديل؛</li>
+<li>تعديل معقول آخر.
+استخدم قناة الاتصال الخاصة بالتقييم أو الشركة لطلب ما تحتاجه.
+لا ينبغي أن تضطر إلى الكشف عن تفاصيل شخصية أو طبية أكثر مما هو ضروري بشكل معقول لترتيب التسهيلات.</li>
 </ul>
-<p>When external resources are not permitted, respect that condition.</p>
-<h1>What to do if you need an accommodation</h1>
-<p>A privacy-respecting assessment should still be accessible.</p>
-<p>You may need support involving:</p>
+<h1>لا داعي لأن تبدو بيئتك مهنية</h1>
+<p>نظرًا لعدم استخدام كاميرا ويب, لا تحتاج إلى:</p>
 <ul>
-<li>additional time;</li>
-<li>keyboard navigation;</li>
-<li>screen-reader compatibility;</li>
-<li>breaks;</li>
-<li>alternative formatting;</li>
-<li>another reasonable adjustment.</li>
+<li>تنظيف غرفة من أجل الكاميرا؛</li>
+<li>إنشاء خلفية ذات مظهر مؤسسي؛</li>
+<li>إخفاء متعلقاتك الشخصية؛</li>
+<li>القلق بشأن مرور شخص آخر خلفك لفترة وجيزة؛</li>
+<li>ضبط الإضاءة من أجل تحليل الوجه؛</li>
+<li>البقاء ثابتًا تمامًا.
+ركز على تهيئة مساحة تسمح لك بالتفكير.
+قد يعني ذلك:</li>
+<li>استخدام غرفة هادئة إن توفرت؛</li>
+<li>ارتداء سماعات الرأس؛</li>
+<li>إيقاف تشغيل الإشعارات؛</li>
+<li>إبقاء الماء في متناول اليد؛</li>
+<li>استخدام الجهاز الأكثر راحةً لك؛</li>
+<li>اختيار وقت تقل فيه احتمالية التعرض للمقاطعات.
+هذه توصيات لراحتك, وليست متطلبات مراقبة.</li>
 </ul>
-<p>Use the assessment or company contact channel to request what you need.</p>
-<p>You should not have to disclose more personal or medical detail than is reasonably necessary to arrange the accommodation.</p>
-<h1>Your environment does not need to look professional</h1>
-<p>Because no webcam is used, you do not need to:</p>
+<h1>لا يتم تقييمك بناءً على مظهرك</h1>
+<p>لا يعتمد أي جزء من درجة تقييمك على:</p>
 <ul>
-<li>clean a room for the camera;</li>
-<li>create a corporate-looking background;</li>
-<li>hide personal belongings;</li>
-<li>worry about another person briefly walking behind you;</li>
-<li>adjust lighting for facial analysis;</li>
-<li>remain perfectly still.</li>
+<li>الملابس؛</li>
+<li>تصفيفة الشعر؛</li>
+<li>تعابير الوجه؛</li>
+<li>البيئة المادية؛</li>
+<li>التواصل البصري؛</li>
+<li>الإعاقة الظاهرة؛</li>
+<li>المظهر المرتبط بالعمر؛</li>
+<li>لغة الجسد.
+يُقيّم التقييم العمل الذي قدمته.</li>
 </ul>
-<p>Focus on creating a space where you can think.</p>
-<p>That may mean:</p>
+<h1>لست مطالبًا بالتصرف أمام الكاميرا</h1>
+<p>بعض الأشخاص يفكرون بشكل أفضل عندما:</p>
 <ul>
-<li>using a quiet room when available;</li>
-<li>wearing headphones;</li>
-<li>turning off notifications;</li>
-<li>keeping water nearby;</li>
-<li>using the device most comfortable for you;</li>
-<li>choosing a time when interruptions are less likely.</li>
+<li>يتحركون؛</li>
+<li>يقفون؛</li>
+<li>ينظرون بعيدًا؛</li>
+<li>يقرؤون بهدوء؛</li>
+<li>يكتبون على الورق؛</li>
+<li>يتوقفون مؤقتًا؛</li>
+<li>يغيرون وضعية الجلوس.
+يجب أن تتمكن من اتباع أسلوب عمل طبيعي دون القلق من أن يفسر نظام المراقبة الآلي حركاتك.</li>
 </ul>
-<p>These are recommendations for your comfort, not surveillance requirements.</p>
-<h1>You are not being evaluated on appearance</h1>
-<p>No part of your assessment score is based on:</p>
-<ul>
-<li>clothing;</li>
-<li>hairstyle;</li>
-<li>facial expression;</li>
-<li>physical environment;</li>
-<li>eye contact;</li>
-<li>visible disability;</li>
-<li>age-related appearance;</li>
-<li>body language.</li>
-</ul>
-<p>The assessment evaluates your submitted work.</p>
-<h1>You are not required to perform for a camera</h1>
-<p>Some people think better when they:</p>
-<ul>
-<li>move;</li>
-<li>stand;</li>
-<li>look away;</li>
-<li>read quietly;</li>
-<li>write on paper;</li>
-<li>pause;</li>
-<li>change posture.</li>
-</ul>
-<p>You should be able to use a natural working style without worrying that movement will be interpreted by an automated monitoring system.</p>
-<h1>What happens if your connection drops?</h1>
-<p>A technical interruption is not a moral failure.</p>
-<p>When progress is autosaved and resumption is supported, you should be able to reopen the assessment and continue according to the attempt rules.</p>
-<p>When you cannot resume:</p>
+<h1>ماذا يحدث إذا انقطع اتصالك؟</h1>
+<p>الانقطاع الفني ليس فشلًا أخلاقيًا.
+عندما يتم الحفظ التلقائي للتقدم المحرز وتكون ميزة استئناف الاختبار متاحة, يجب أن تتمكن من إعادة فتح التقييم والمتابعة وفقًا لقواعد المحاولة.
+عندما لا تتمكن من الاستئناف:</p>
 <ol>
-<li>Save any confirmation or error message.</li>
-<li>Take a screenshot when useful.</li>
-<li>Note the approximate time.</li>
-<li>Contact the provided support or company representative.</li>
-<li>Describe what happened factually.</li>
+<li>احفظ أي رسالة تأكيد أو خطأ.</li>
+<li>التقط لقطة شاشة إذا كان ذلك مفيدًا.</li>
+<li>سجل الوقت التقريبي.</li>
+<li>اتصل بدعم المستخدم أو ممثل الشركة المحدد.</li>
+<li>صف ما حدث بالحقائق.
+لا تنشئ حسابًا ثانيًا أو تحاول إجراء التقييم مرة أخرى ما لم يُطلب منك ذلك.</li>
 </ol>
-<p>Do not create a second account or assessment attempt unless instructed.</p>
-<h1>What happens if your browser crashes?</h1>
-<p>Reopen the invitation or assessment link and follow the resume instructions presented.</p>
-<p>Because responses may be autosaved, your previous work may remain available.</p>
-<p>When something appears missing, contact support instead of repeatedly submitting new attempts.</p>
-<h1>What happens if you accidentally leave the tab?</h1>
-<p>Return to the assessment and continue.</p>
-<p>A single focus event is not an automatic accusation or rejection.</p>
-<p>Follow the stated assessment rules and concentrate on completing your work.</p>
-<h1>What happens if you receive a notification?</h1>
-<p>Notifications can change application focus or distract you.</p>
-<p>Before beginning, consider:</p>
+<h1>ماذا يحدث إذا تعطل متصفحك؟</h1>
+<p>أعد فتح رابط الدعوة أو التقييم واتبع تعليمات الاستئناف المعروضة.
+نظرًا لأن الإجابات قد يتم حفظها تلقائيًا, فقد يظل عملك السابق متاحًا.
+عندما يبدو أن هناك شيئًا مفقودًا, اتصل بالدعم بدلاً من إرسال محاولات جديدة بشكل متكرر.</p>
+<h1>ماذا يحدث إذا غادرت علامة التبويب عن طريق الخطأ؟</h1>
+<p>ارجع إلى التقييم وتابع.
+لا يُعتبر أي حدث انحراف عن التركيز اتهامًا أو رفضًا تلقائيًا.
+اتبع قواعد التقييم الموضحة وركز على إكمال عملك.</p>
+<h1>ماذا يحدث إذا تلقيت إشعارًا؟</h1>
+<p>قد تؤدي الإشعارات إلى تغيير تركيز التطبيق أو تشتيت انتباهك.
+قبل البدء, ضع في اعتبارك:</p>
 <ul>
-<li>enabling Do Not Disturb;</li>
-<li>closing chat applications;</li>
-<li>pausing operating-system notifications;</li>
-<li>silencing your phone.</li>
+<li>تمكين وضع «عدم الإزعاج»؛</li>
+<li>إغلاق تطبيقات الدردشة؛</li>
+<li>إيقاف إشعارات نظام التشغيل مؤقتًا؛</li>
+<li>كتم صوت هاتفك.
+هذا من أجل التركيز, وليس لأن التقييم يراقب شاشتك.</li>
 </ul>
-<p>This is for concentration, not because the assessment watches your screen.</p>
-<h1>What if the company asks about an assessment event?</h1>
-<p>Answer factually.</p>
-<p>Example:</p>
+<h1>ماذا لو سألت الشركة عن حادثة حدثت أثناء التقييم؟</h1>
+<p>أجب بحقائق.
+مثال:</p>
 <blockquote>
-<p>My browser lost focus when a system notification opened over the assessment. I closed it and returned immediately.</p>
+<p>فقد متصفحي التركيز عندما ظهر إشعار من النظام فوق نافذة التقييم. قمت بإغلاقه والعودة فورًا.
+أو:
+انقطع اتصالي بالإنترنت, لذا أعدت فتح الرابط بعد إعادة اتصال المتصفح.
+لا داعي لاتخاذ موقف دفاعي.
+يجب مناقشة الحادثة المحايدة بطريقة محايدة.</p>
 </blockquote>
-<p>Or:</p>
+<h1>كيف تساعد الاختبارات التي تحترم الخصوصية المرشحين</h1>
+<p>يوفر هذا النموذج عدة مزايا للمرشحين.</p>
+<h1>قلق أقل</h1>
+<p>يمكنك التركيز على الأسئلة بدلاً من القلق بشأن:</p>
+<ul>
+<li>أين تنظر؛</li>
+<li>ما إذا كان وجهك يظل مرئيًا؛</li>
+<li>ما إذا كانت أي حركة ستؤدي إلى ظهور تحذير؛</li>
+<li>ما إذا كان شخص ما سيدخل الغرفة؛</li>
+<li>ما إذا كان الضجيج في الخلفية سيؤدي إلى سوء فهم.</li>
+</ul>
+<h1>وصول أكثر مرونة</h1>
+<p>لا تحتاج إلى بيئة خاصة تمامًا ومجهزة للكاميرا.
+وهذا يمكن أن يجعل التقييم أكثر عملية للمرشحين الذين يعيشون في منازل مشتركة أو في مساحات محدودة.</p>
+<h1>تقليل الكشف عن المعلومات الشخصية</h1>
+<p>تظل بيئتك المادية ومظهرك خارج نطاق التقييم.</p>
+<h1>توافق أفضل مع العمل الفعلي</h1>
+<p>لا يتم مراقبة معظم المطورين باستمرار عبر كاميرا الويب أثناء قيامهم بحل المشكلات التقنية.
+يمكن أن يشبه التقييم الهادئ القائم على المتصفح إلى حد كبير العمل المستقل الذي يتطلب التركيز.</p>
+<h1>ثقة أكبر</h1>
+<p>تُظهر العملية التي تحترم الخصوصية للمرشحين أن الشركة مهتمة بقدراتهم — وليس بمراقبة حركات أجسادهم.</p>
+<h1>كيف تساعد التقييمات التي تحترم الخصوصية أرباب العمل</h1>
+<p>يستفيد أرباب العمل أيضًا.</p>
+<h1>تجربة مرشح أقوى</h1>
+<p>يزيد احتمال إكمال المرشحين لتقييم يبدو معقولًا ومهنيًّا.</p>
+<h1>مخاطر أقل على السمعة</h1>
+<p>تتجنب الشركة إثارة قصص حول المراقبة المتطفلة, أو عمليات التحقق من الهوية المزعجة, أو الشكوك الزائفة.</p>
+<h1>أدلة أكثر صلة</h1>
+<p>يمكن لفرق التوظيف التركيز على:</p>
+<ul>
+<li>التقييم الفني؛</li>
+<li>درجات الأقسام؛</li>
+<li>التوافق مع الدور الوظيفي؛</li>
+<li>متابعة المقابلة.</li>
+</ul>
+<h1>وصول أوسع للمرشحين</h1>
+<p>يقل احتمال استبعاد الأشخاص الذين لا تتوفر لديهم بيئات اختبار مثالية لأسباب غير ذات صلة.</p>
+<h1>محادثات مقابلة أفضل</h1>
+<p>يمكن أن يصبح التقييم نقطة انطلاق لمناقشة المنطق بدلاً من الجدل حول إشارات المراقبة.</p>
+<h1>الخصوصية لا تزيل جميع قيود التقييم</h1>
+<p>يجب أن نكون صادقين أيضًا بشأن ما لا يمكن أن يضمنه التقييم غير الخاضع للمراقبة.
+لا يمكنه إثبات اليقين المطلق بأن:</p>
+<ul>
+<li>لم يتم استخدام أي موارد خارجية؛</li>
+<li>عدم وجود أي جهاز آخر؛</li>
+<li>أن كل إجابة تم التوصل إليها دون مساعدة؛</li>
+<li>أن كل مرشح فسر كل قاعدة بنفس الطريقة.
+لكن المراقبة التدخلية لا يمكنها ضمان كل هذه الأمور أيضًا.
+تتعامل العملية المسؤولة مع عدم اليقين من خلال:</li>
+<li>تصميم الأسئلة ذات الصلة؛</li>
+<li>اختيار أسئلة متنوعة؛</li>
+<li>مفاتيح إجابات محمية؛</li>
+<li>توقيت عادل؛</li>
+<li>الاستدلال الكتابي؛</li>
+<li>المقابلات المتابعة؛</li>
+<li>التقييم الخاص بالدور؛</li>
+<li>التقييم البشري.
+لم يكن التوظيف أبدًا مسألة يقين تام.
+بل يتعلق بجمع أدلة ذات صلة كافية لاتخاذ قرار مسؤول.</li>
+</ul>
+<h1>الأسئلة التي قد تطرحها المرشحون</h1>
+<h1>هل يتم تشغيل كاميرا الويب الخاصة بي أبدًا؟</h1>
+<p>لا. لا تستخدم تقييمات JobsList.dev مراقبة كاميرا الويب.</p>
+<h1>هل يتم تسجيل شاشتي؟</h1>
+<p>لا. لا يقوم التقييم بإنشاء تسجيل للشاشة لصالح الشركة.</p>
+<h1>هل يتم تسجيل صوت الميكروفون الخاص بي؟</h1>
+<p>لا. لا تستمع JobsList.dev إلى صوت غرفتك ولا تسجله أثناء التقييم.</p>
+<h1>هل يتم تحليل وجهي؟</h1>
+<p>لا. لا يتم تحليل حركة الوجه, واتجاه العينين, والتعبيرات, ووضعية الجسم.</p>
+<h1>هل يتم تخزين المعلومات البيومترية؟</h1>
+<p>لا يتم جمع أو تخزين أي ملف تعريف تقييمي بيومتري.</p>
+<h1>هل أحتاج إلى تثبيت أي برامج؟</h1>
+<p>لا يلزم استخدام متصفح مغلق أو تطبيق مراقبة.</p>
+<h1>هل يمكن لـ JobsList.dev تصفح ملفاتي؟</h1>
+<p>لا. لا يمنح التقييم وصولاً عن بُعد إلى ملفاتك أو جهاز الكمبيوتر الخاص بك.</p>
+<h1>هل يؤدي تغيير علامات التبويب إلى رسوبي تلقائيًا؟</h1>
+<p>لا. يعد تغيير التركيز في المتصفح سياقًا محايدًا ولا يؤدي تلقائيًا إلى الرسوب في التقييم.</p>
+<h1>هل تتلقى الشركة درجة تتعلق بالغش؟</h1>
+<p>لا تقدم JobsList.dev حكمًا أخلاقيًّا تلقائيًّا بناءً على المراقبة. تتلقى الشركة أدلة التقييم وتطبق الحكم البشري.</p>
+<h1>هل يتم تخزين الإجابات الصحيحة في متصفحي؟</h1>
+<p>لا يتم إرسال معلومات الإجابات المحمية عمدًا إلى المتصفح كدليل إجابات كامل.</p>
+<h1>لماذا يتم جمع معلومات التوقيت؟</h1>
+<p>تدعم معلومات التوقيت النافذة الزمنية المحددة للتقييم وتساعد على إدارة المحاولة بشكل متسق.</p>
+<h1>لماذا يُطلب اسمي وبريدي الإلكتروني؟</h1>
+<p>لربط النتيجة بالمرشح المدعو الصحيح وعملية التوظيف.</p>
+<h1>هل يمكنني إجراء التقييم من المنزل؟</h1>
+<p>نعم. يمكنك إكماله في مكانك الخاص وعلى جهازك الخاص.</p>
+<h1>هل يمكن أن يتواجد شخص آخر في الغرفة؟</h1>
+<p>لا توجد مراقبة للغرفة عبر كاميرا الويب. تظل مسؤولاً عن الالتزام بأي قاعدة تقييم تتطلب العمل بشكل مستقل.</p>
+<h1>هل يمكنني استخدام المراجع؟</h1>
+<p>اتبع التعليمات الخاصة بالتقييم المحدد. قد تختلف سياسات الأدوات والموارد.</p>
+<h1>هل يمكنني استخدام أدوات الذكاء الاصطناعي؟</h1>
+<p>اتبع التعليمات المقدمة لهذا التقييم. مهما كانت الأدوات المسموح بها, لا ترسل سوى العمل الذي تفهمه وتستطيع شرحه.</p>
+<h1>ماذا لو احتجت إلى تسهيلات خاصة بالوصول؟</h1>
+<p>اتصل بالشركة أو مسار الدعم المقدم حتى يمكن مناقشة الترتيبات المناسبة.</p>
+<h1>قائمة مراجعة لخصوصية المرشح</h1>
+<p>قبل البدء:</p>
+<ul>
+<li>اقرأ تعليمات التقييم.</li>
+<li>تأكد من الوقت المتوقع.</li>
+<li>راجع سياسة الموارد المسموح بها.</li>
+<li>استخدم جهازًا تثق به.</li>
+<li>أغلق المستندات الحساسة غير ذات الصلة.</li>
+<li>قم بكتم الإشعارات عند الحاجة.</li>
+<li>تحقق من أن الدعوة شرعية.</li>
+<li>اتصل بالدعم الفني إذا بدا أي شيء مريبًا.</li>
+<li>اطلب التسهيلات في وقت مبكر حيثما أمكن ذلك.
+أثناء التقييم:</li>
+<li>ركز على عملك الخاص.</li>
+<li>لا تقلق بشأن ظهورك أمام الكاميرا — لا توجد مراقبة عبر كاميرا الويب.</li>
+<li>عد بهدوء بعد أي انقطاع عرضي.</li>
+<li>أبلغ عن الأعطال الفنية الحقيقية.</li>
+<li>تجنب مشاركة محتوى التقييم.
+بعد الإرسال:</li>
+<li>تأكد من إتمام التقييم.</li>
+<li>احفظ إشعار التأكيد ذي الصلة.</li>
+<li>راجع أي معلومات متوفرة عن النتائج.</li>
+<li>اتبع الجدول الزمني المعلن من قبل الشركة.</li>
+<li>لا تطلب ملفك الشخصي إلا عندما تختار ذلك.</li>
+<li>حافظ على سرية بيانات اعتماد حسابك.</li>
+</ul>
+<h1>احمِ نفسك من انتحال الهوية</h1>
+<p>يجب على المرشحين توخي الحذر من دعوات التقييم الاحتيالية.
+لا ينبغي أن تطلب منك عملية التوظيف الشرعية ما يلي:</p>
+<ul>
+<li>دفع مبلغ مالي للوصول إلى التقييم؛</li>
+<li>تقديم كلمة مرور حسابك المصرفي؛</li>
+<li>مشاركة رمز تسجيل دخول لمرة واحدة مع مسؤول التوظيف؛</li>
+<li>تثبيت برامج وصول عن بُعد غير ذات صلة؛</li>
+<li>إرسال عملة مشفرة؛</li>
+<li>الكشف عن بيانات اعتماد مالية حساسة؛</li>
+<li>تقديم كلمة مرور حسابك.
+تحقق من الرسائل المشبوهة عبر قناة الاتصال الرسمية للشركة.</li>
+</ul>
+<h1>يجب على أصحاب العمل توضيح نموذج الخصوصية بوضوح</h1>
+<p>يجب على الشركات التي تستخدم تقييمات JobsList.dev إطلاع المرشحين على ما يمكن توقعه قبل البدء.
+قد تنص الدعوة المفيدة على ما يلي:</p>
 <blockquote>
-<p>My connection dropped, so I reopened the link after the browser reconnected.</p>
+<p>يستغرق هذا التقييم حوالي 45 دقيقة ويقيّم الحكم الفني ذي الصلة بالوظيفة. ولا يستخدم مراقبة كاميرا الويب, أو تسجيل الشاشة, أو تسجيل الميكروفون, أو التحليل البيومتري, أو متصفح مغلق. يتم تسجيل إجاباتك, وتوقيتك, وسياق التقييم المحدود لمراجعتها. لا تؤدي أحداث التركيز على المتصفح إلى الاستبعاد التلقائي. يرجى مراجعة التعليمات الخاصة بالموارد المسموح بها قبل البدء.
+الوضوح يقلل من القلق ويحسن معدل إكمال التقييم.</p>
 </blockquote>
-<p>There is no need to become defensive.</p>
-<p>A neutral event should be discussed neutrally.</p>
-<h1>How privacy-respecting assessments help candidates</h1>
-<p>The model creates several candidate benefits.</p>
-<h1>Less anxiety</h1>
-<p>You can focus on the questions instead of worrying about:</p>
+<h1>يجب على أرباب العمل عدم إضافة لغة تهديدية من جانبهم</h1>
+<p>تجنب استخدام لغة في الدعوة مثل:</p>
 <ul>
-<li>where to look;</li>
-<li>whether your face remains visible;</li>
-<li>whether a movement will trigger a warning;</li>
-<li>whether someone will enter the room;</li>
-<li>whether background noise will be misunderstood.</li>
+<li>«أي تبديل لعلامة التبويب سيؤدي إلى الفشل التلقائي.»</li>
+<li>«سيتم الإبلاغ عن أي حركة مشبوهة.»</li>
+<li>«سنعرف إذا ما حركت نظرك بعيدًا.»</li>
+<li>«لا تغادر الشاشة لأي سبب من الأسباب.»</li>
+<li>«النظام يكتشف الغش.»
+تتعارض هذه العبارات مع عملية قائمة على الاحترام والأدلة, وقد تجعل المرشحين يعتقدون أنهم تحت المراقبة في حين أنهم ليسوا كذلك.</li>
 </ul>
-<h1>More flexible access</h1>
-<p>You do not need a perfectly private, camera-ready environment.</p>
-<p>That can make the assessment more practical for candidates in shared homes or limited spaces.</p>
-<h1>Reduced exposure of personal information</h1>
-<p>Your physical environment and appearance remain outside the assessment.</p>
-<h1>Better alignment with real work</h1>
-<p>Most developers are not watched continuously through a webcam while they solve technical problems.</p>
-<p>A calm browser-based assessment can more closely resemble focused independent work.</p>
-<h1>Greater trust</h1>
-<p>A respectful process tells candidates that the company is interested in their ability—not in policing their body movements.</p>
-<h1>How privacy-respecting assessments help employers</h1>
-<p>Employers benefit too.</p>
-<h1>A stronger candidate experience</h1>
-<p>Candidates are more likely to complete an assessment that feels reasonable and professional.</p>
-<h1>Less reputational risk</h1>
-<p>The company avoids creating stories about invasive monitoring, uncomfortable identity checks, or false suspicion.</p>
-<h1>More relevant evidence</h1>
-<p>Hiring teams can focus on:</p>
+<h1>يجب على أرباب العمل تدريب المراجعين</h1>
+<p>يجب على أي شخص يراجع سياق التقييم أن يفهم ما يلي:</p>
 <ul>
-<li>technical judgment;</li>
-<li>section scores;</li>
-<li>role alignment;</li>
-<li>interview follow-up.</li>
+<li>لا يُثبت حدث واحد وجود نية؛</li>
+<li>البيانات الوصفية المحايدة ليست دليلاً على سوء السلوك؛</li>
+<li>قد تؤثر عوامل الوصول والعوامل التقنية على السلوك؛</li>
+<li>يجب أن يظل تفسير النتائج مرتبطاً بالوظيفة؛</li>
+<li>يستحق المرشحون فرصة لتوضيح المخاوف الجوهرية؛</li>
+<li>يجب ألا تحل بيانات التقييم محل المقابلات والأدلة الأوسع نطاقاً.</li>
 </ul>
-<h1>Broader candidate access</h1>
-<p>People without ideal testing environments are less likely to be excluded for irrelevant reasons.</p>
-<h1>Better interview conversations</h1>
-<p>The assessment can become a starting point for discussing reasoning rather than debating surveillance flags.</p>
-<h1>Privacy does not remove all assessment limitations</h1>
-<p>We should also be honest about what a non-surveilled assessment cannot guarantee.</p>
-<p>It cannot prove with absolute certainty that:</p>
+<h1>يجب على أرباب العمل تقليل مدة الاحتفاظ بالبيانات</h1>
+<p>يجب أن تراعي عملية التوظيف التي تحترم الخصوصية ما يلي:</p>
 <ul>
-<li>no outside resource was used;</li>
-<li>no other device was present;</li>
-<li>every answer was produced without assistance;</li>
-<li>every candidate interpreted every rule identically.</li>
+<li>ما هي معلومات التقييم التي يتم الاحتفاظ بها؛</li>
+<li>لماذا يتم الاحتفاظ بها؛</li>
+<li>من يمكنه الوصول إليها؛</li>
+<li>كم من الوقت تظل متاحة؛</li>
+<li>ما إذا كانت لا تزال مطلوبة بعد انتهاء العملية؛</li>
+<li>كيف يتم التعامل مع طلبات المرشحين.
+يجب أن يظل المبدأ كما يلي:</li>
 </ul>
-<p>But invasive surveillance cannot guarantee all of those things either.</p>
-<p>A responsible process manages uncertainty through:</p>
-<ul>
-<li>relevant question design;</li>
-<li>varied question selection;</li>
-<li>protected answer keys;</li>
-<li>fair timing;</li>
-<li>written reasoning;</li>
-<li>follow-up interviews;</li>
-<li>role-specific evaluation;</li>
-<li>human judgment.</li>
-</ul>
-<p>Hiring has never been about perfect certainty.</p>
-<p>It is about gathering enough relevant evidence to make a responsible decision.</p>
-<h1>Questions candidates may have</h1>
-<h1>Is my webcam ever activated?</h1>
-<p>No. JobsList.dev assessments do not use webcam monitoring.</p>
-<h1>Is my screen recorded?</h1>
-<p>No. The assessment does not create a screen recording for the company.</p>
-<h1>Is my microphone recorded?</h1>
-<p>No. JobsList.dev does not listen to or record your room during the assessment.</p>
-<h1>Is my face analyzed?</h1>
-<p>No. Facial movement, eye direction, expression, and posture are not analyzed.</p>
-<h1>Is biometric information stored?</h1>
-<p>No biometric assessment profile is collected or stored.</p>
-<h1>Do I need to install software?</h1>
-<p>No lockdown browser or proctoring application is required.</p>
-<h1>Can JobsList.dev browse my files?</h1>
-<p>No. The assessment does not grant remote access to your files or computer.</p>
-<h1>Does changing tabs automatically fail me?</h1>
-<p>No. A browser-focus event is neutral context and does not automatically fail the assessment.</p>
-<h1>Does the company receive a cheating score?</h1>
-<p>JobsList.dev does not provide an automatic moral verdict based on surveillance. The company receives assessment evidence and applies human judgment.</p>
-<h1>Are correct answers stored in my browser?</h1>
-<p>Protected answer information is not intentionally delivered to the browser as a complete answer key.</p>
-<h1>Why is timing collected?</h1>
-<p>Timing information supports the assessment’s defined time window and helps operate the attempt consistently.</p>
-<h1>Why are my name and email needed?</h1>
-<p>They connect the result with the correct invited candidate and hiring process.</p>
-<h1>Can I take the assessment from home?</h1>
-<p>Yes. You can complete it in your own space on your own device.</p>
-<h1>Can another person be in the room?</h1>
-<p>There is no webcam monitoring of the room. You remain responsible for following any assessment rule requiring independent work.</p>
-<h1>Can I use documentation?</h1>
-<p>Follow the instructions for the specific assessment. Tool and resource policies can differ.</p>
-<h1>Can I use AI tools?</h1>
-<p>Follow the instructions provided for that assessment. Whatever tools are allowed, submit only work you understand and can explain.</p>
-<h1>What if I need an accessibility accommodation?</h1>
-<p>Contact the company or support path provided so the appropriate arrangement can be discussed.</p>
-<h1>A candidate privacy checklist</h1>
-<p>Before starting:</p>
-<ul>
-<li>Read the assessment instructions.</li>
-<li>Confirm the expected time.</li>
-<li>Review the allowed-resource policy.</li>
-<li>Use a device you trust.</li>
-<li>Close unrelated sensitive documents.</li>
-<li>Silence notifications when helpful.</li>
-<li>Verify the invitation is legitimate.</li>
-<li>Contact support when anything looks suspicious.</li>
-<li>Request accommodations early where possible.</li>
-</ul>
-<p>During the assessment:</p>
-<ul>
-<li>Focus on your own work.</li>
-<li>Do not worry about appearing on camera—there is no webcam monitoring.</li>
-<li>Return calmly after an accidental interruption.</li>
-<li>Report genuine technical failures.</li>
-<li>Avoid sharing assessment content.</li>
-</ul>
-<p>After submission:</p>
-<ul>
-<li>Confirm completion.</li>
-<li>Save relevant confirmation.</li>
-<li>Review any result information provided.</li>
-<li>Follow the company’s stated timeline.</li>
-<li>Claim your profile only when you choose to.</li>
-<li>Keep account credentials private.</li>
-</ul>
-<h1>Protect yourself from impersonation</h1>
-<p>Candidates should remain alert to fraudulent assessment invitations.</p>
-<p>A legitimate hiring process should not ask you to:</p>
-<ul>
-<li>pay money to access the assessment;</li>
-<li>provide your banking password;</li>
-<li>share a one-time login code with a recruiter;</li>
-<li>install unrelated remote-access software;</li>
-<li>send cryptocurrency;</li>
-<li>disclose sensitive financial credentials;</li>
-<li>provide your account password.</li>
-</ul>
-<p>Verify suspicious messages through the company’s official contact channel.</p>
-<h1>Employers should communicate the privacy model clearly</h1>
-<p>Companies using JobsList.dev assessments should tell candidates what to expect before they begin.</p>
-<p>A useful invitation might say:</p>
 <blockquote>
-<p>This assessment takes approximately 45 minutes and evaluates role-relevant technical judgment. It does not use webcam monitoring, screen recording, microphone recording, biometric analysis, or a lockdown browser. Your answers, timing, and limited assessment context are recorded for review. Browser-focus events are not automatic disqualifications. Please review the instructions for permitted resources before starting.</p>
+<p>احتفظ بما تحتاجه عملية التوظيف بشكل معقول, وتجنب الاحتفاظ بالمعلومات لمجرد أن التخزين غير مكلف.</p>
 </blockquote>
-<p>Clarity reduces anxiety and improves completion.</p>
-<h1>Employers should not add their own threatening language</h1>
-<p>Avoid invitation language such as:</p>
+<h1>يجب على أرباب العمل تجنب تصدير البيانات غير الضرورية</h1>
+<p>لا تقم بتكرار معلومات تقييم المرشحين عبر:</p>
 <ul>
-<li>“Any tab switch will result in automatic failure.”</li>
-<li>“Suspicious movement will be reported.”</li>
-<li>“We will know if you look away.”</li>
-<li>“Do not leave the screen for any reason.”</li>
-<li>“The system detects dishonesty.”</li>
+<li>جداول البيانات؛</li>
+<li>سلاسل رسائل البريد الإلكتروني؛</li>
+<li>قنوات الدردشة؛</li>
+<li>الملاحظات الشخصية؛</li>
+<li>الأنظمة غير المعتمدة.
+احرص على قصر الوصول على الأشخاص الذين لهم دور مشروع في عملية التوظيف.</li>
 </ul>
-<p>That language contradicts a respectful, evidence-based process and may make candidates believe they are under surveillance when they are not.</p>
-<h1>Employers should train reviewers</h1>
-<p>Anyone reviewing assessment context should understand:</p>
+<h1>الخصوصية والإنصاف يعززان بعضهما البعض</h1>
+<p>تُعامل الخصوصية أحيانًا على أنها نقيض لأمن التقييم.
+هذا الإطار غير كامل.
+يمكن للتقييم الذي يحترم الخصوصية أن يحسّن الإنصاف من خلال إجبار العملية على التركيز على الأدلة ذات الصلة.
+بدلاً من تقييم البيئة المادية للمرشح, فإنه يقيّم:</p>
 <ul>
-<li>one event does not establish intent;</li>
-<li>neutral metadata is not proof of misconduct;</li>
-<li>accessibility and technical factors may affect behavior;</li>
-<li>score interpretation should remain role-relevant;</li>
-<li>candidates deserve an opportunity to clarify material concerns;</li>
-<li>assessment data should not replace interviews and broader evidence.</li>
+<li>الإجابات؛</li>
+<li>الاستدلال المنطقي؛</li>
+<li>المعرفة الخاصة بالوظيفة؛</li>
+<li>الحكم الفني؛</li>
+<li>الأداء على مستوى كل قسم.
+بدلاً من التظاهر بأن الكاميرا توفر اليقين, فإنه يستخدم:</li>
+<li>أسئلة أفضل؛</li>
+<li>نظام تقييم محمي؛</li>
+<li>توقيت متسق؛</li>
+<li>المراجعة البشرية؛</li>
+<li>مناقشة متابعة.
+والنتيجة ليست أقل تدخلاً فحسب.
+بل يمكن أن تكون أيضًا أكثر صلة بالجانب المهني.</li>
 </ul>
-<h1>Employers should minimize retention</h1>
-<p>A privacy-respecting hiring process should consider:</p>
-<ul>
-<li>which assessment information is retained;</li>
-<li>why it is retained;</li>
-<li>who can access it;</li>
-<li>how long it remains available;</li>
-<li>whether it is still needed after the process ends;</li>
-<li>how candidate requests are handled.</li>
-</ul>
-<p>The principle should remain:</p>
+<h1>ماذا يقول هذا النهج عن التوظيف</h1>
+<p>تنقل عملية التوظيف القيم قبل أن تقدم الشركة عرضًا.
+التقييم الذي يعتمد بشكل مكثف على المراقبة يقول:</p>
 <blockquote>
-<p>Keep what the hiring process reasonably needs, and avoid retaining information merely because storage is inexpensive.</p>
+<p>الامتثال يأتي قبل الثقة.
+أما التقييم الذي يحترم الخصوصية فيقول:
+نحن نهتم بعملك, وسنكون واضحين بشأن القواعد, ولن نجمع معلومات لا نحتاجها.
+هذا لا يعني أن الشركة تتجاهل النزاهة.
+بل يعني أن النزاهة تُعزز من خلال تصميم مدروس بدلاً من الترهيب.</p>
 </blockquote>
-<h1>Employers should avoid exporting unnecessary data</h1>
-<p>Do not duplicate candidate assessment information across:</p>
+<h1>اتفاقية الثقة</h1>
+<p>يمكن تلخيص علاقة التقييم العادلة ببساطة.
+تلتزم JobsList.dev بما يلي:</p>
 <ul>
-<li>spreadsheets;</li>
-<li>email threads;</li>
-<li>chat channels;</li>
-<li>personal notes;</li>
-<li>unapproved systems.</li>
+<li>عدم تشغيل كاميرا الويب الخاصة بك؛</li>
+<li>عدم تسجيل شاشتك؛</li>
+<li>عدم الاستماع عبر الميكروفون الخاص بك؛</li>
+<li>عدم جمع بيانات التقييم البيومترية؛</li>
+<li>عدم اشتراط استخدام متصفح مغلق؛</li>
+<li>عدم تحويل حدث في علامة تبويب إلى اتهام تلقائي؛</li>
+<li>شرح المعلومات التي يتم استخدامها؛</li>
+<li>تقييم العمل الذي تقدمه؛</li>
+<li>دعم تصميم تقييم عادل وملائم للوظيفة.
+يُطلب من المرشحين:</li>
+<li>اتباع تعليمات التقييم؛</li>
+<li>إنجاز عملهم بأنفسهم؛</li>
+<li>استخدام الأدوات فقط بالطريقة المسموح بها؛</li>
+<li>حماية محتوى التقييم؛</li>
+<li>الإبلاغ عن المشكلات التقنية بأمانة؛</li>
+<li>تقديم إجابات يفهمونها.
+هذه علاقة أكثر احترافية من تلك التي تُبنى على أساس المراقبة الخفية.</li>
 </ul>
-<p>Keep access limited to people with a legitimate role in the hiring process.</p>
-<h1>Privacy and fairness reinforce each other</h1>
-<p>Privacy is sometimes treated as the opposite of assessment security.</p>
-<p>That framing is incomplete.</p>
-<p>A privacy-respecting assessment can improve fairness by forcing the process to focus on relevant evidence.</p>
-<p>Instead of evaluating a candidate’s physical environment, it evaluates:</p>
+<h1>النقطة الأساسية</h1>
+<p>لا ينبغي أن تضطر إلى التنازل عن خصوصيتك لإثبات قدراتك التقنية.
+أثناء تقييم JobsList.dev:</p>
 <ul>
-<li>answers;</li>
-<li>reasoning;</li>
-<li>role-specific knowledge;</li>
-<li>technical judgment;</li>
-<li>section-level performance.</li>
+<li>لا تراقبك أي كاميرا ويب؛</li>
+<li>لا يسجل أي برنامج تسجيل شاشة سطح مكتبك؛</li>
+<li>لا يسجل أي ميكروفون ما يحدث في منزلك؛</li>
+<li>لا يحلل أي نظام بيومتري وجهك أو عينيك؛</li>
+<li>لا يستولي أي متصفح مغلق على جهازك؛</li>
+<li>لا يُصنفك أي حدث متصفح بمفرده تلقائيًا على أنك غير أمين.
+تنبع نزاهة التقييم من:</li>
+<li>أسئلة ذات صلة بالوظيفة؛</li>
+<li>اختيار الأسئلة المخصص لكل شخص؛</li>
+<li>حماية معلومات الإجابات؛</li>
+<li>توقيت عادل من جانب الخادم؛</li>
+<li>الحفظ التلقائي والمعالجة الموثوقة للمحاولات؛</li>
+<li>محتوى يركز على التقييم؛</li>
+<li>نتائج على مستوى كل قسم؛</li>
+<li>متابعة بشرية.
+قد يتم تسجيل سياق محدود من التقييم, بما في ذلك أحداث التركيز على المتصفح, لكن هذه المعلومات محايدة ولا تفسر النية. وهي لا تحل أبدًا محل الحكم البشري.
+نطلب منك إكمال عملك بنفسك.
+في المقابل, نتعامل معك كمتخصص.
+أجرِ التقييم في مكانك الخاص, وركز على الأسئلة, ودع مهاراتك الفعلية تتحدث عنك.
+نحن نقيّم إجاباتك — ولا نراقبك عن كثب.
+<em>هل أنت مستعد لإثبات مهاراتك دون التنازل عن خصوصيتك؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا مجانيًّا على JobsList.dev</a>, وأكمل التقييمات ذات الصلة بالوظيفة, وتواصل مباشرةً مع الشركات التي تقدّر التوظيف العادل والمحترم.</em></li>
 </ul>
-<p>Instead of pretending a camera creates certainty, it uses:</p>
-<ul>
-<li>better questions;</li>
-<li>protected scoring;</li>
-<li>consistent timing;</li>
-<li>human review;</li>
-<li>follow-up discussion.</li>
-</ul>
-<p>The result is not only less invasive.</p>
-<p>It can also be more professionally relevant.</p>
-<h1>What this approach says about hiring</h1>
-<p>A hiring process communicates values before a company makes an offer.</p>
-<p>A surveillance-heavy assessment says:</p>
-<blockquote>
-<p>Compliance comes before trust.</p>
-</blockquote>
-<p>A privacy-respecting assessment says:</p>
-<blockquote>
-<p>We care about your work, we will be clear about the rules, and we will not collect information we do not need.</p>
-</blockquote>
-<p>That does not mean the company ignores integrity.</p>
-<p>It means integrity is supported through thoughtful design rather than intimidation.</p>
-<h1>The trust agreement</h1>
-<p>A fair assessment relationship can be summarized simply.</p>
-<p>JobsList.dev commits to:</p>
-<ul>
-<li>not activating your webcam;</li>
-<li>not recording your screen;</li>
-<li>not listening through your microphone;</li>
-<li>not collecting biometric assessment data;</li>
-<li>not requiring a lockdown browser;</li>
-<li>not turning a tab event into an automatic accusation;</li>
-<li>explaining what information is used;</li>
-<li>evaluating the work you submit;</li>
-<li>supporting fair, role-relevant assessment design.</li>
-</ul>
-<p>Candidates are asked to:</p>
-<ul>
-<li>follow the assessment instructions;</li>
-<li>complete their own work;</li>
-<li>use tools only as permitted;</li>
-<li>protect assessment content;</li>
-<li>report technical issues honestly;</li>
-<li>submit answers they understand.</li>
-</ul>
-<p>That is a more professional relationship than one built around hidden monitoring.</p>
-<h1>The takeaway</h1>
-<p>You should not have to surrender your privacy to demonstrate your technical ability.</p>
-<p>During a JobsList.dev assessment:</p>
-<ul>
-<li>no webcam watches you;</li>
-<li>no screen recording captures your desktop;</li>
-<li>no microphone records your home;</li>
-<li>no biometric system analyzes your face or eyes;</li>
-<li>no lockdown browser takes over your device;</li>
-<li>no single browser event automatically labels you dishonest.</li>
-</ul>
-<p>Assessment integrity comes from:</p>
-<ul>
-<li>role-relevant questions;</li>
-<li>personalized question selection;</li>
-<li>protected answer information;</li>
-<li>fair server-side timing;</li>
-<li>autosaving and reliable attempt handling;</li>
-<li>judgment-focused content;</li>
-<li>section-level results;</li>
-<li>human follow-up.</li>
-</ul>
-<p>Limited assessment context may be recorded, including browser-focus events, but that information is neutral and does not explain intent. It is never a substitute for human judgment.</p>
-<p>We ask you to complete your own work.</p>
-<p>In return, we treat you like a professional.</p>
-<p>Take the assessment in your own space, focus on the questions, and let your actual skills speak.</p>
-<p>We are evaluating your answers—not watching over your shoulder.</p>
-<p><em>Ready to demonstrate your skills without giving up your privacy? <a href="/auth/register?role=EMPLOYEE">Create a free JobsList.dev profile</a>, complete role-relevant assessments, and connect directly with companies that value fair, respectful hiring.</em></p>
-5:["locale","ar","d"]
-6:["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"no-webcam-no-surveillance-how-we-respect-candidates\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","no-webcam-no-surveillance-how-we-respect-candidates","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"No Webcam, No Surveillance: How We Respect You During an Assessment\",\"description\":\"Learn why JobsList.dev assessments never use webcam monitoring, screen recording, biometric analysis, or lockdown browsers—and how we protect assessment integrity without treating candidates like suspects.\",\"datePublished\":\"2026-07-25T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"No Webcam, No Surveillance: How We Respect You During an Assessment","date":"2026-07-25T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":25,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"No Webcam, No Surveillance: How We Respect You During an Assessment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn why JobsList.dev assessments never use webcam monitoring, screen recording, biometric analysis, or lockdown browsers—and how we protect assessment integrity without treating candidates like suspects."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"No Webcam, No Surveillance: How We Respect You During an Assessment"}],["$","meta","15",{"property":"og:description","content":"Learn why JobsList.dev assessments never use webcam monitoring, screen recording, biometric analysis, or lockdown browsers—and how we protect assessment integrity without treating candidates like suspects."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-25T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"No Webcam, No Surveillance: How We Respect You During an Assessment"}],["$","meta","25",{"name":"twitter:description","content":"Learn why JobsList.dev assessments never use webcam monitoring, screen recording, biometric analysis, or lockdown browsers—and how we protect assessment integrity without treating candidates like suspects."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"لا كاميرا ويب, لا مراقبة: كيف نحترم خصوصيتك أثناء التقييم\",\"description\":\"تعرف على الأسباب التي تجعل تقييمات JobsList.dev لا تستخدم أبدًا المراقبة عبر كاميرا الويب, أو تسجيل الشاشة, أو التحليل البيومتري, أو المتصفحات المقفلة — وكيف نحافظ على نزاهة التقييم دون معاملة المرشحين كالمشتبه بهم.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-25T00:00:00.000Z\",\"dateModified\":\"2026-07-25T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/no-webcam-no-surveillance-how-we-respect-candidates/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"لا كاميرا ويب, لا مراقبة: كيف نحترم خصوصيتك أثناء التقييم"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"تعرف على الأسباب التي تجعل تقييمات JobsList.dev لا تستخدم أبدًا المراقبة عبر كاميرا الويب, أو تسجيل الشاشة, أو التحليل البيومتري, أو المتصفحات المقفلة — وكيف نحافظ على نزاهة التقييم دون معاملة المرشحين كالمشتبه بهم."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-25T00:00:00.000Z","children":"24 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[25," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التقييمات",{"className":"badge-gray","children":"التقييمات"}],["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المرشحون",{"className":"badge-gray","children":"المرشحون"}],["$","span","الخصوصية",{"className":"badge-gray","children":"الخصوصية"}],["$","span","تجربة المرشح",{"className":"badge-gray","children":"تجربة المرشح"}],["$","span","التوظيف-التقني",{"className":"badge-gray","children":"التوظيف-التقني"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"لا كاميرا ويب, لا مراقبة: كيف نحترم خصوصيتك أثناء التقييم | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"تعرف على الأسباب التي تجعل تقييمات JobsList.dev لا تستخدم أبدًا المراقبة عبر كاميرا الويب, أو تسجيل الشاشة, أو التحليل البيومتري, أو المتصفحات المقفلة — وكيف نحافظ على نزاهة التقييم دون معاملة المرشحين كالمشتبه بهم."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"لا كاميرا ويب, لا مراقبة: كيف نحترم خصوصيتك أثناء التقييم"}],["$","meta","15",{"property":"og:description","content":"تعرف على الأسباب التي تجعل تقييمات JobsList.dev لا تستخدم أبدًا المراقبة عبر كاميرا الويب, أو تسجيل الشاشة, أو التحليل البيومتري, أو المتصفحات المقفلة — وكيف نحافظ على نزاهة التقييم دون معاملة المرشحين كالمشتبه بهم."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/no-webcam-no-surveillance-how-we-respect-candidates/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-25T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"لا كاميرا ويب, لا مراقبة: كيف نحترم خصوصيتك أثناء التقييم"}],["$","meta","27",{"name":"twitter:description","content":"تعرف على الأسباب التي تجعل تقييمات JobsList.dev لا تستخدم أبدًا المراقبة عبر كاميرا الويب, أو تسجيل الشاشة, أو التحليل البيومتري, أو المتصفحات المقفلة — وكيف نحافظ على نزاهة التقييم دون معاملة المرشحين كالمشتبه بهم."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

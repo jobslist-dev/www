@@ -1,423 +1,401 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T36ff,<h1>How to Approach a Take-Home Coding Assignment</h1>
-<p>Take-home coding assignments are one of the most misunderstood parts of the software engineering interview process.</p>
-<p>Many developers believe they&#39;re competing to produce the biggest, most feature-rich submission. They&#39;re not.</p>
-<p>The companies that design good take-home assignments are trying to answer a much simpler question:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","how-to-do-a-take-home-assignment","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-to-do-a-take-home-assignment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T4e00,<h1>كيفية التعامل مع مهام البرمجة المنزلية</h1>
+<p>تعد مهام البرمجة المنزلية أحد أكثر الجوانب التي يُساء فهمها في عملية مقابلات التوظيف في مجال هندسة البرمجيات.
+يعتقد العديد من المطورين أنهم يتنافسون لإنتاج أكبر مشروع وأكثره ثراءً بالميزات. لكن هذا ليس صحيحًا.
+الشركات التي تصمم واجبات برمجة جيدة تُسلم إلى المنزل تحاول الإجابة على سؤال أبسط بكثير:</p>
 <blockquote>
-<p><strong>&quot;Would we enjoy maintaining code written by this person every day?&quot;</strong></p>
+<p><strong>&quot;هل سنستمتع بصيانة الكود الذي كتبه هذا الشخص كل يوم؟&quot;</strong>
+لهذا السبب, فإن المطورين الذين يقضون خمس عشرة ساعة في بناء تطبيق SaaS مصغر يخسرون أحيانًا أمام المرشحين الذين أمضوا ثلاث ساعات مركزة في تقديم حل نظيف وموثق جيدًا.
+لا تهدف المهمة المنزلية إلى إثبات أنك أذكى مهندس في الغرفة.
+بل تهدف إلى إثبات أنك شخص يرغب المهندسون الآخرون في العمل معه.</p>
 </blockquote>
-<p>That&#39;s why developers who spend fifteen hours building a miniature SaaS application sometimes lose to candidates who spent three focused hours delivering a clean, well-documented solution.</p>
-<p>A take-home assignment isn&#39;t about proving you&#39;re the smartest engineer in the room.</p>
-<p>It&#39;s about proving you&#39;re someone other engineers want to work with.</p>
 <hr>
-<h1>What employers are really evaluating</h1>
-<p>Most reviewers care far more about your engineering process than the finished feature.</p>
-<p>They&#39;re looking for signals like:</p>
+<h1>ما الذي يقيّمه أصحاب العمل حقًا</h1>
+<p>يهتم معظم المراجعين بعملية الهندسة التي تتبعها أكثر بكثير من اهتمامهم بالميزة النهائية.
+إنهم يبحثون عن مؤشرات مثل:</p>
 <ul>
-<li>Can you understand requirements?</li>
-<li>Can you organize your work?</li>
-<li>Can you write maintainable code?</li>
-<li>Can you make reasonable trade-offs?</li>
-<li>Can you communicate your decisions?</li>
-<li>Can another engineer easily continue where you left off?</li>
+<li>هل يمكنك فهم المتطلبات؟</li>
+<li>هل يمكنك تنظيم عملك؟</li>
+<li>هل يمكنك كتابة كود قابل للصيانة؟</li>
+<li>هل يمكنك إجراء مقايضات معقولة؟</li>
+<li>هل يمكنك توضيح قراراتك؟</li>
+<li>هل يمكن لمهندس آخر أن يكمل بسهولة من حيث توقفت؟
+لاحظ ما هو مفقود.
+قلة قليلة جدًا من المراجعين يتأثرون بالتعقيد غير الضروري.
+الهندسة الجيدة عادةً ما تكون هندسة مملة.</li>
 </ul>
-<p>Notice what&#39;s missing.</p>
-<p>Very few reviewers are impressed by unnecessary complexity.</p>
-<p>Good engineering is usually boring engineering.</p>
 <hr>
-<h1>Before you agree to the assignment</h1>
-<p>Not every take-home deserves your evenings.</p>
-<p>A healthy interview process usually looks like this:</p>
+<h1>قبل أن توافق على المهمة</h1>
+<p>ليست كل مهمة منزلية تستحق أن تضحي بأمسياتك من أجلها.
+عادةً ما تبدو عملية المقابلة السليمة كما يلي:</p>
 <ul>
-<li>Introductory conversation</li>
-<li>Technical discussion</li>
-<li>Take-home assignment (optional)</li>
-<li>Review discussion</li>
-<li>Final interviews</li>
+<li>محادثة تمهيدية</li>
+<li>مناقشة فنية</li>
+<li>مهمة منزلية (اختيارية)</li>
+<li>مناقشة المراجعة</li>
+<li>المقابلات النهائية
+إذا أرسلت شركة ما مهمة قبل أن تتحدث إلى أي شخص, فهذا أمر يستحق التساؤل.
+يجب أن توضح المهمة المعقولة بوضوح:</li>
+<li>الوقت المتوقع للإنجاز</li>
+<li>معايير التقييم</li>
+<li>تنسيق التقديم</li>
+<li>الموعد النهائي</li>
+<li>ما إذا كان استخدام أدوات الذكاء الاصطناعي مسموحًا به</li>
+<li>من سيقوم بمراجعتها</li>
+<li>ماذا سيحدث بعد ذلك
+إذا كان أي من هذه العناصر مفقودًا, فاسأل.
+تقدّر الشركات المحترفة الأسئلة المدروسة.</li>
 </ul>
-<p>If a company sends an assignment before you&#39;ve spoken to a single human being, that&#39;s worth questioning.</p>
-<p>A reasonable assignment should clearly explain:</p>
-<ul>
-<li>expected completion time</li>
-<li>evaluation criteria</li>
-<li>submission format</li>
-<li>deadline</li>
-<li>whether AI tools are allowed</li>
-<li>who reviews it</li>
-<li>what happens afterward</li>
-</ul>
-<p>If any of those are missing, ask.</p>
-<p>Professional companies appreciate thoughtful questions.</p>
 <hr>
-<h1>Red flags worth declining</h1>
-<p>Sometimes saying &quot;no&quot; is the correct professional decision.</p>
-<p>Consider declining if:</p>
+<h1>العلامات التحذيرية التي تستحق الرفض</h1>
+<p>أحيانًا يكون قول «لا» هو القرار المهني الصحيح.
+فكّر في الرفض إذا:</p>
 <ul>
-<li>The assignment is obviously production work.</li>
-<li>It would require building features they&#39;ll actually use.</li>
-<li>They expect six to ten hours of unpaid work.</li>
-<li>They refuse to estimate expected completion time.</li>
-<li>They reject every request for clarification.</li>
-<li>They won&#39;t explain how submissions are evaluated.</li>
-<li>The assignment arrives before any conversation.</li>
+<li>كانت المهمة عملًا إنتاجيًا بشكل واضح.</li>
+<li>كانت تتطلب بناء ميزات سيستخدمونها فعليًا.</li>
+<li>كانوا يتوقعون منك ست إلى عشر ساعات من العمل غير المدفوع الأجر.</li>
+<li>رفضوا تقدير الوقت المتوقع لإنجاز المهمة.</li>
+<li>رفضوا كل طلب توضيح.</li>
+<li>لم يشرحوا كيفية تقييم المهام المقدمة.</li>
+<li>وصول المهمة قبل إجراء أي محادثة.
+تحترم الشركات الجيدة وقت المرشحين.
+أما الشركات السيئة فعادةً ما تكشف عن نفسها في هذه المرحلة.</li>
 </ul>
-<p>Good companies respect candidates&#39; time.</p>
-<p>Bad companies usually reveal themselves here.</p>
 <hr>
-<h1>Clarify requirements before writing code</h1>
-<p>One of the strongest engineering habits is asking questions before implementation.</p>
-<p>Many developers worry this looks weak.</p>
-<p>It actually demonstrates maturity.</p>
-<p>Good clarification questions include:</p>
+<h1>توضيح المتطلبات قبل كتابة الكود</h1>
+<p>من أقوى العادات الهندسية طرح الأسئلة قبل التنفيذ.
+يخشى العديد من المطورين أن يبدو هذا ضعفًا.
+لكنه في الواقع دليل على النضج.
+من بين الأسئلة التوضيحية الجيدة ما يلي:</p>
 <ul>
-<li>What assumptions can I make?</li>
-<li>Is authentication intentionally omitted?</li>
-<li>Should persistence survive restarts?</li>
-<li>What browsers are supported?</li>
-<li>Should I optimize for readability or scalability?</li>
-<li>Is accessibility expected?</li>
-<li>Are tests required?</li>
-<li>Can external libraries be used?</li>
+<li>ما هي الافتراضات التي يمكنني وضعها؟</li>
+<li>هل تم إغفال المصادقة عن قصد؟</li>
+<li>هل يجب أن تستمر البيانات بعد إعادة التشغيل؟</li>
+<li>ما هي المتصفحات المدعومة؟</li>
+<li>هل يجب أن أركز على سهولة القراءة أم قابلية التوسع؟</li>
+<li>هل يُتوقع توفير إمكانية الوصول لذوي الاحتياجات الخاصة؟</li>
+<li>هل الاختبارات مطلوبة؟</li>
+<li>هل يمكن استخدام المكتبات الخارجية؟
+المهندسون المحترفون يقللون من عدم اليقين قبل البدء في البرمجة.
+والمحاورون يلاحظون ذلك.</li>
 </ul>
-<p>Professional engineers reduce uncertainty before building.</p>
-<p>Interviewers notice.</p>
 <hr>
-<h1>Plan before you code</h1>
-<p>Don&#39;t immediately open your editor.</p>
-<p>Spend 15–30 minutes thinking.</p>
-<p>Sketch:</p>
+<h1>خطط قبل أن تبدأ في البرمجة</h1>
+<p>لا تفتح محرر البرمجة على الفور.
+اقضِ 15–30 دقيقة في التفكير.
+ارسم مخططًا أوليًّا لـ:</p>
 <ul>
-<li>application architecture</li>
-<li>project structure</li>
-<li>API endpoints</li>
-<li>data model</li>
-<li>component hierarchy</li>
-<li>error handling</li>
-<li>validation strategy</li>
-<li>testing plan</li>
+<li>بنية التطبيق</li>
+<li>هيكل المشروع</li>
+<li>نقاط نهاية واجهة برمجة التطبيقات (API)</li>
+<li>نموذج البيانات</li>
+<li>التسلسل الهرمي للمكونات</li>
+<li>معالجة الأخطاء</li>
+<li>استراتيجية التحقق من الصحة</li>
+<li>خطة الاختبار
+خطة بسيطة توفر عليك ساعات من الوقت لاحقًا.</li>
 </ul>
-<p>A simple plan saves hours later.</p>
 <hr>
-<h1>Time-box your work</h1>
-<p>The fastest way to hurt your interview performance is to lose control of scope.</p>
-<p>If the company says:</p>
+<h1>حدد إطارًا زمنيًّا لعملك</h1>
+<p>أسرع طريقة لإضعاف أدائك في المقابلة هي فقدان السيطرة على نطاق العمل.
+إذا قالت الشركة:</p>
 <blockquote>
-<p>&quot;This should take about three hours.&quot;</p>
+<p>«من المفترض أن يستغرق هذا حوالي ثلاث ساعات.»
+صدقهم.
+ضع جدولك الزمني الخاص.
+مثال:</p>
 </blockquote>
-<p>Believe them.</p>
-<p>Create your own schedule.</p>
-<p>Example:</p>
 <ul>
-<li><strong>30 minutes</strong> — read requirements and plan</li>
-<li><strong>90 minutes</strong> — implement core functionality</li>
-<li><strong>30 minutes</strong> — testing</li>
-<li><strong>20 minutes</strong> — README</li>
-<li><strong>10 minutes</strong> — cleanup</li>
-<li><strong>remaining time</strong> — polishing</li>
+<li><strong>30 دقيقة</strong> — قراءة المتطلبات والتخطيط</li>
+<li><strong>90 دقيقة</strong> — تنفيذ الوظائف الأساسية</li>
+<li><strong>30 دقيقة</strong> — الاختبار</li>
+<li><strong>20 دقيقة</strong> — ملف README</li>
+<li><strong>10 دقائق</strong> — التنظيف</li>
+<li><strong>الوقت المتبقي</strong> — الصقل
+عندما ينتهي الوقت...
+توقف.
+يعمل المهندسون المحترفون في ظل قيود.</li>
 </ul>
-<p>When time expires...</p>
-<p>Stop.</p>
-<p>Professional engineers work within constraints.</p>
 <hr>
-<h1>Build the fundamentals exceptionally well</h1>
-<p>Most submissions fail because candidates chase advanced features while neglecting basics.</p>
-<p>Instead focus on:</p>
-<h2>Project organization</h2>
-<p>Use a clean folder structure.</p>
-<p>Separate responsibilities logically.</p>
-<p>Avoid dumping everything into one file.</p>
-<hr>
-<h2>Naming</h2>
-<p>Good names reduce the need for comments.</p>
-<p>Prefer:</p>
+<h1>قم ببناء الأساسيات بشكل ممتاز</h1>
+<p>تفشل معظم المشاركات لأن المرشحين يركضون وراء الميزات المتقدمة بينما يهملون الأساسيات.
+بدلاً من ذلك, ركز على:</p>
+<h2>تنظيم المشروع</h2>
+<h2>استخدم بنية مجلدات منظمة.
+افصل المسؤوليات بشكل منطقي.
+تجنب إلقاء كل شيء في ملف واحد.</h2>
+<h2>التسمية</h2>
+<p>الأسماء الجيدة تقلل الحاجة إلى التعليقات.
+افضل:</p>
 <ul>
 <li><code>fetchUsers()</code></li>
 <li><code>calculateTotal()</code></li>
-<li><code>UserRepository</code></li>
-</ul>
-<p>Over:</p>
-<ul>
+<li><code>UserRepository</code>
+بدلاً من:</li>
 <li><code>getStuff()</code></li>
 <li><code>process()</code></li>
-<li><code>Helper</code></li>
+<li><code>Helper</code>
+تعد التسمية أحد أقوى مؤشرات النضج الهندسي.</li>
 </ul>
-<p>Naming is one of the strongest indicators of engineering maturity.</p>
 <hr>
-<h2>Error handling</h2>
-<p>Don&#39;t assume happy paths.</p>
-<p>Handle:</p>
+<h2>معالجة الأخطاء</h2>
+<p>لا تفترض أن كل شيء سيسير على ما يرام.
+تعامل مع:</p>
 <ul>
-<li>invalid input</li>
-<li>empty responses</li>
-<li>failed API requests</li>
-<li>malformed JSON</li>
-<li>missing environment variables</li>
-<li>unexpected exceptions</li>
+<li>المدخلات غير الصالحة</li>
+<li>الردود الفارغة</li>
+<li>طلبات API الفاشلة</li>
+<li>JSON غير الصحيح</li>
+<li>متغيرات البيئة المفقودة</li>
+<li>الاستثناءات غير المتوقعة
+يبحث القائمون على المقابلات عن هذا الأمر بشكل فعال.</li>
 </ul>
-<p>Interviewers actively look for this.</p>
 <hr>
-<h2>Validation</h2>
-<p>Validate incoming data.</p>
-<p>Don&#39;t trust user input.</p>
-<p>Return useful errors.</p>
-<hr>
-<h2>Logging</h2>
-<p>If appropriate, log useful information.</p>
-<p>Avoid excessive console output.</p>
-<hr>
-<h2>Configuration</h2>
-<p>Don&#39;t hardcode secrets.</p>
-<p>Use environment variables.</p>
-<p>Provide an <code>.env.example</code>.</p>
-<hr>
-<h2>Code consistency</h2>
-<p>Be consistent with:</p>
+<h2>التحقق من الصحة</h2>
+<h2>تحقق من صحة البيانات الواردة.
+لا تثق في مدخلات المستخدم.
+أرجع أخطاء مفيدة.</h2>
+<h2>التسجيل</h2>
+<h2>إذا كان ذلك مناسبًا, فسجل المعلومات المفيدة.
+تجنب الإفراط في إخراج البيانات إلى وحدة التحكم.</h2>
+<h2>التكوين</h2>
+<h2>لا تضمّن الأسرار في الكود بشكل ثابت.
+استخدم متغيرات البيئة.
+قدم ملف <code>.env.example</code>.</h2>
+<h2>اتساق الكود</h2>
+<p>كن متسقًا في:</p>
 <ul>
-<li>formatting</li>
-<li>spacing</li>
-<li>naming</li>
-<li>folder layout</li>
-<li>imports</li>
+<li>التنسيق</li>
+<li>التباعد</li>
+<li>التسمية</li>
+<li>تخطيط المجلدات</li>
+<li>عمليات الاستيراد
+التناسق يحسّن قابلية القراءة أكثر من البراعة.</li>
 </ul>
-<p>Consistency improves readability more than cleverness.</p>
 <hr>
-<h1>Write meaningful tests</h1>
-<p>Interviewers rarely expect 100% coverage.</p>
-<p>Instead they want evidence that you know what deserves testing.</p>
-<p>Good candidates test:</p>
+<h1>اكتب اختبارات ذات مغزى</h1>
+<p>نادرًا ما يتوقع القائمون بالمقابلات تغطية بنسبة 100%.
+بدلاً من ذلك, يريدون دليلاً على أنك تعرف ما يستحق الاختبار.
+المرشحون الجيدون يختبرون:</p>
 <ul>
-<li>business logic</li>
-<li>edge cases</li>
-<li>validation</li>
-<li>failure scenarios</li>
+<li>منطق الأعمال</li>
+<li>الحالات الحدية</li>
+<li>التحقق من الصحة</li>
+<li>سيناريوهات الفشل
+لا يضيعون الوقت في اختبار كل شيء بشكل سريع.
+الجودة تفوق الكمية.</li>
 </ul>
-<p>They don&#39;t waste time snapshot-testing everything.</p>
-<p>Quality beats quantity.</p>
 <hr>
-<h1>Git history matters</h1>
-<p>Many reviewers inspect commits.</p>
-<p>Avoid:</p>
-<pre><code>Initial commit
-stuff
-updates
-final
-really final
+<h1>سجل Git مهم</h1>
+<p>يقوم العديد من المراجعين بفحص عمليات الالتزام.
+تجنب:</p>
+<pre><code>الالتزام الأولي
+أشياء
+تحديثات
+نهائي
+نهائي حقًا
 </code></pre>
-<p>Prefer:</p>
-<pre><code>Initialize project structure
-
-Implement REST API endpoints
-
-Add validation and error handling
-
-Write unit tests
-
-Improve README
+<p>افضل:</p>
+<pre><code>تهيئة بنية المشروع
+تنفيذ نقاط نهاية واجهة برمجة التطبيقات REST
+إضافة التحقق من الصحة ومعالجة الأخطاء
+كتابة اختبارات الوحدة
+تحسين ملف README
 </code></pre>
-<p>A clean commit history demonstrates how you work on real teams.</p>
-<hr>
-<h1>Don&#39;t over-engineer</h1>
-<p>The biggest mistake candidates make is adding things nobody requested.</p>
-<p>Avoid unnecessary:</p>
+<h2>يُظهر سجل الالتزامات المنظم كيف تعمل ضمن فرق حقيقية.</h2>
+<h1>لا تبالغ في الهندسة</h1>
+<p>أكبر خطأ يرتكبه المرشحون هو إضافة أشياء لم يطلبها أحد.
+تجنب العناصر غير الضرورية:</p>
 <ul>
-<li>Docker clusters</li>
-<li>Kubernetes manifests</li>
+<li>مجموعات Docker</li>
+<li>ملفات Kubernetes</li>
 <li>Redis</li>
 <li>GraphQL</li>
-<li>authentication</li>
-<li>microservices</li>
+<li>المصادقة</li>
+<li>الخدمات الصغيرة</li>
 <li>CQRS</li>
-<li>event sourcing</li>
-<li>caching</li>
-<li>message queues</li>
+<li>مصدر الأحداث</li>
+<li>التخزين المؤقت</li>
+<li>قوائم انتظار الرسائل
+ما لم تكن جزءًا صريحًا من المهمة.
+تقيس المهمة قدرتك على اتخاذ القرار.
+إضافة تعقيد غير ضروري هو سوء تقدير.</li>
 </ul>
-<p>unless they&#39;re explicitly part of the assignment.</p>
-<p>The assignment measures judgment.</p>
-<p>Adding complexity unnecessarily is poor judgment.</p>
 <hr>
-<h1>Your README is part of the interview</h1>
-<p>Many developers spend hours coding...</p>
-<p>...and five minutes writing documentation.</p>
-<p>That&#39;s backwards.</p>
-<p>A great README should include:</p>
-<h2>Project overview</h2>
-<p>Explain what the application does.</p>
-<hr>
-<h2>Features completed</h2>
-<p>Reference requirements directly.</p>
-<p>For example:</p>
+<h1>ملف README الخاص بك جزء من المقابلة</h1>
+<p>يقضي العديد من المطورين ساعات في البرمجة...
+...وخمس دقائق في كتابة الوثائق.
+هذا ترتيب معكوس.
+يجب أن يتضمن ملف README الجيد ما يلي:</p>
+<h2>نظرة عامة على المشروع</h2>
+<h2>اشرح وظيفة التطبيق.</h2>
+<h2>الميزات المكتملة</h2>
+<p>أشر إلى المتطلبات مباشرةً.
+على سبيل المثال:</p>
 <ul>
-<li>✅ User authentication</li>
-<li>✅ REST API</li>
-<li>✅ Search</li>
-<li>✅ Pagination</li>
+<li>✅ مصادقة المستخدم</li>
+<li>✅ واجهة برمجة تطبيقات REST</li>
+<li>✅ البحث</li>
+<li>✅ ترقيم الصفحات</li>
 </ul>
 <hr>
-<h2>Setup instructions</h2>
-<p>Include exact commands.</p>
+<h2>تعليمات الإعداد</h2>
+<p>أدرج الأوامر الدقيقة.</p>
 <pre><code class="language-bash">npm install
 npm run dev
 </code></pre>
-<p>Don&#39;t make reviewers guess.</p>
-<hr>
-<h2>Technical decisions</h2>
-<p>Explain choices like:</p>
+<h2>لا تجعل المراجعين يخمنون.</h2>
+<h2>القرارات التقنية</h2>
+<p>اشرح الخيارات مثل:</p>
 <ul>
-<li>Why this framework?</li>
-<li>Why this architecture?</li>
-<li>Why this database?</li>
-<li>Why this state management?</li>
+<li>لماذا هذا الإطار؟</li>
+<li>لماذا هذه البنية؟</li>
+<li>لماذا قاعدة البيانات هذه؟</li>
+<li>لماذا طريقة إدارة الحالة هذه؟
+يهتم القائمون بالمقابلة بالأسباب المنطقية.</li>
 </ul>
-<p>Interviewers care about reasoning.</p>
 <hr>
-<h2>Assumptions</h2>
-<p>State assumptions clearly.</p>
-<p>Example:</p>
+<h2>الافتراضات</h2>
+<p>اذكر الافتراضات بوضوح.
+مثال:</p>
 <blockquote>
-<p>&quot;I assumed usernames are unique because the requirements didn&#39;t specify otherwise.&quot;</p>
+<p>&quot;افترضت أن أسماء المستخدمين فريدة لأن المتطلبات لم تحدد خلاف ذلك.&quot;</p>
 </blockquote>
 <hr>
-<h2>Trade-offs</h2>
-<p>Discuss what you intentionally didn&#39;t implement.</p>
-<p>Example:</p>
+<h2>المفاضلات</h2>
+<p>ناقش ما لم تقم بتنفيذه عن قصد.
+مثال:</p>
 <blockquote>
-<p>&quot;I omitted authentication because the assignment focused on CRUD functionality.&quot;</p>
+<p>&quot;لقد حذفت المصادقة لأن المهمة ركزت على وظائف CRUD.&quot;</p>
 </blockquote>
 <hr>
-<h2>Future improvements</h2>
-<p>Show that you know how the project could evolve.</p>
-<p>Examples:</p>
+<h2>التحسينات المستقبلية</h2>
+<p>أظهر أنك تعرف كيف يمكن أن يتطور المشروع.
+أمثلة:</p>
 <ul>
-<li>caching</li>
-<li>optimistic updates</li>
-<li>pagination</li>
-<li>monitoring</li>
-<li>accessibility improvements</li>
-<li>performance optimizations</li>
+<li>التخزين المؤقت</li>
+<li>التحديثات المتفائلة</li>
+<li>ترقيم الصفحات</li>
+<li>المراقبة</li>
+<li>تحسينات إمكانية الوصول</li>
+<li>تحسينات الأداء</li>
 </ul>
 <hr>
-<h2>Time spent</h2>
-<p>Be honest.</p>
-<p>For example:</p>
+<h2>الوقت المستغرق</h2>
+<p>كن صادقًا.
+على سبيل المثال:</p>
 <blockquote>
-<p>Approximately 3 hours 20 minutes.</p>
+<p>حوالي 3 ساعات و20 دقيقة.</p>
 </blockquote>
 <hr>
-<h1>Use AI responsibly</h1>
-<p>AI tools have become part of professional software development.</p>
-<p>Many companies expect candidates to use them.</p>
-<p>The important question isn&#39;t:</p>
+<h1>استخدم الذكاء الاصطناعي بمسؤولية</h1>
+<p>أصبحت أدوات الذكاء الاصطناعي جزءًا من تطوير البرمجيات الاحترافي.
+تتوقع العديد من الشركات من المرشحين استخدامها.
+السؤال المهم ليس:</p>
 <blockquote>
-<p>&quot;Did you use AI?&quot;</p>
+<p>«هل استخدمت الذكاء الاصطناعي؟»
+بل هو:
+«هل تفهم ما قدمته؟»
+لا تقدم أبدًا كودًا لا يمكنك:</p>
 </blockquote>
-<p>It&#39;s:</p>
+<ul>
+<li>شرحه</li>
+<li>تصحيحه</li>
+<li>تعديله</li>
+<li>الدفاع عنه
+خلال مقابلة المراجعة, ستسمع غالبًا:</li>
+</ul>
 <blockquote>
-<p>&quot;Do you understand what you submitted?&quot;</p>
+<p>«اشرح لي هذه الوظيفة خطوة بخطوة.»
+أو
+«لماذا اخترت هذا النهج؟»
+إذا كان الذكاء الاصطناعي قد كتب جزءًا من الحل, فتأكد من أن <strong>أنت</strong> تفهم كل سطر.</p>
 </blockquote>
-<p>Never submit code you cannot:</p>
-<ul>
-<li>explain</li>
-<li>debug</li>
-<li>modify</li>
-<li>defend</li>
-</ul>
-<p>During the review interview you&#39;ll often hear:</p>
-<blockquote>
-<p>&quot;Walk me through this function.&quot;</p>
-</blockquote>
-<p>or</p>
-<blockquote>
-<p>&quot;Why did you choose this approach?&quot;</p>
-</blockquote>
-<p>If AI wrote part of the solution, make sure <strong>you</strong> understand every line.</p>
 <hr>
-<h1>Prepare for the walkthrough</h1>
-<p>Many companies review the submission live.</p>
-<p>Expect questions like:</p>
+<h1>الاستعداد لعرض التفاصيل</h1>
+<p>تقوم العديد من الشركات بمراجعة العمل المقدم مباشرةً.
+توقع أسئلة مثل:</p>
 <ul>
-<li>Why did you organize the project this way?</li>
-<li>Why this framework?</li>
-<li>Why this database?</li>
-<li>What would you improve?</li>
-<li>What was the hardest part?</li>
-<li>How would this scale?</li>
-<li>What if requirements changed?</li>
-<li>How would you secure this?</li>
-<li>What would you refactor first?</li>
+<li>لماذا نظمت المشروع بهذه الطريقة؟</li>
+<li>لماذا اخترت هذا الإطار؟</li>
+<li>لماذا اخترت قاعدة البيانات هذه؟</li>
+<li>ما الذي ستقوم بتحسينه؟</li>
+<li>ما كان الجزء الأصعب؟</li>
+<li>كيف يمكن توسيع نطاق هذا العمل؟</li>
+<li>ماذا لو تغيرت المتطلبات؟</li>
+<li>كيف ستقوم بتأمين هذا؟</li>
+<li>ما الذي ستقوم بإعادة هيكلته أولاً؟
+فكر جيدًا في إجاباتك مسبقًا.</li>
 </ul>
-<p>Think through your answers beforehand.</p>
 <hr>
-<h1>Resume tips: showcasing take-home assignments</h1>
-<p>If a take-home assignment demonstrates work you&#39;re proud of and you&#39;re permitted to share it, it can strengthen your portfolio and résumé.</p>
-<p>You might include:</p>
+<h1>نصائح بشأن السيرة الذاتية: عرض المهام المنزلية</h1>
+<p>إذا كانت المهمة المنزلية تُظهر عملًا تفخر به ويُسمح لك بمشاركته, فيمكن أن تعزز محفظتك المهنية وسيرتك الذاتية.
+يمكنك تضمين:</p>
 <ul>
-<li>Personal portfolio website</li>
-<li>GitHub repository (if allowed)</li>
-<li>Technical blog post explaining your approach</li>
-<li>Architecture diagrams</li>
-<li>Lessons learned from the exercise</li>
+<li>موقع ويب خاص بمحفظتك المهنية</li>
+<li>مستودع GitHub (إذا كان مسموحًا)</li>
+<li>منشور مدونة تقنية يشرح نهجك</li>
+<li>مخططات الهندسة</li>
+<li>الدروس المستفادة من التمرين
+في سيرتك الذاتية, صِف العمل الهندسي بدلاً من الاكتفاء بذكر «إكمال تحدي البرمجة».
+على سبيل المثال:</li>
+<li>تصميم وتنفيذ واجهة برمجة تطبيقات RESTful مع اختبارات تحقق شاملة واختبارات الوحدات.</li>
+<li>بناء تطبيق React متجاوب يتبع بنية قائمة على المكونات.</li>
+<li>توثيق القرارات المعمارية والمفاضلات من خلال وثائق مشروع احترافية.</li>
+<li>تنفيذ الاختبارات الآلية, ومعالجة الأخطاء, وتنظيم المشروع بشكل منظم وفقًا لأفضل الممارسات في المجال.
+تُظهر هذه الأوصاف المهارات الهندسية العملية التي يقدّرها أصحاب العمل.</li>
 </ul>
-<p>On your résumé, describe the engineering work rather than simply listing &quot;completed coding challenge.&quot;</p>
-<p>For example:</p>
+<hr>
+<h1>الأخطاء الشائعة</h1>
+<p>تجنب هذه الأخطاء المتكررة:</p>
 <ul>
-<li>Designed and implemented a RESTful API with comprehensive validation and unit tests.</li>
-<li>Built a responsive React application following component-based architecture.</li>
-<li>Documented architectural decisions and trade-offs through professional project documentation.</li>
-<li>Implemented automated testing, error handling, and clean project organization following industry best practices.</li>
+<li>تجاهل أجزاء من المتطلبات</li>
+<li>المبالغة في هندسة المشاكل البسيطة</li>
+<li>عدم وجود ملف README</li>
+<li>عدم وجود اختبارات</li>
+<li>تنظيم المجلدات بشكل سيئ</li>
+<li>حلول ضخمة في ملف واحد</li>
+<li>الأسرار المبرمجة بشكل ثابت</li>
+<li>عدم وجود تعليمات الإعداد</li>
+<li>كود غير مختبر</li>
+<li>عدم معالجة الأخطاء</li>
+<li>التقديم المتسرع في اللحظة الأخيرة</li>
+<li>تجاوز الموعد النهائي دون إخطار</li>
+<li>عدم القدرة على شرح طريقة التنفيذ الخاصة بك
+لا يتطلب تجنب أي من هذه الأخطاء مهارة استثنائية.
+بل يتطلب الأمر ببساطة الانضباط.</li>
 </ul>
-<p>These descriptions demonstrate practical engineering skills that employers value.</p>
 <hr>
-<h1>Common mistakes</h1>
-<p>Avoid these frequent errors:</p>
+<h1>ما يتذكره المراجعون</h1>
+<p>بعد أسابيع من مراجعة العشرات من المهام, نادرًا ما يتذكر القائمون على المقابلات من كتب الخوارزمية الأكثر ذكاءً.
+بل يتذكرون المرشحين الذين:</p>
 <ul>
-<li>Ignoring parts of the requirements</li>
-<li>Over-engineering simple problems</li>
-<li>No README</li>
-<li>No tests</li>
-<li>Poor folder organization</li>
-<li>Giant single-file solutions</li>
-<li>Hardcoded secrets</li>
-<li>Missing setup instructions</li>
-<li>Untested code</li>
-<li>No error handling</li>
-<li>Last-minute rushed submission</li>
-<li>Missing the deadline without communicating</li>
-<li>Being unable to explain your own implementation</li>
+<li>تواصلوا بوضوح</li>
+<li>قاموا بمفاضلات مدروسة</li>
+<li>كتبوا كودًا سهل القراءة</li>
+<li>وثقوا الافتراضات</li>
+<li>تعاملوا مع الأخطاء برشاقة</li>
+<li>احترموا نطاق المهمة</li>
+<li>تقبلوا الملاحظات باحترافية
+هذه هي الصفات التي تجعل المرء زميلًا ممتازًا في الفريق.</li>
 </ul>
-<p>None of these require extraordinary skill to avoid.</p>
-<p>They simply require discipline.</p>
 <hr>
-<h1>What reviewers remember</h1>
-<p>Weeks after reviewing dozens of assignments, interviewers rarely remember who wrote the cleverest algorithm.</p>
-<p>They remember candidates who:</p>
-<ul>
-<li>communicated clearly</li>
-<li>made thoughtful trade-offs</li>
-<li>wrote readable code</li>
-<li>documented assumptions</li>
-<li>handled errors gracefully</li>
-<li>respected the assignment scope</li>
-<li>accepted feedback professionally</li>
-</ul>
-<p>Those are the qualities that make excellent teammates.</p>
-<hr>
-<h1>The takeaway</h1>
-<p>A take-home coding assignment isn&#39;t a contest to build the largest project.</p>
-<p>It&#39;s an opportunity to demonstrate how you think, how you communicate, and how you approach real engineering work under realistic constraints.</p>
-<p>Read the requirements carefully, ask questions early, plan before you code, build the fundamentals well, write clear documentation, and be prepared to explain every significant decision you made.</p>
-<p>Companies don&#39;t just hire developers who can write code—they hire developers whose code is understandable, maintainable, and enjoyable for the rest of the team to build upon.</p>
-<hr>
-<p><strong>Ready for your next software engineering opportunity?</strong> Create your free <strong>JobsList.dev</strong> profile, showcase your projects, and apply directly to companies looking for developers who demonstrate real engineering skills—not just interview performance.</p>
-5:["locale","ar","d"]
-6:["slug","how-to-do-a-take-home-assignment","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"how-to-do-a-take-home-assignment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","how-to-do-a-take-home-assignment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Approach a Take-Home Coding Assignment\",\"description\":\"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers.\",\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Approach a Take-Home Coding Assignment","date":"2026-07-11T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":8,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Approach a Take-Home Coding Assignment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","15",{"property":"og:description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Approach a Take-Home Coding Assignment"}],["$","meta","25",{"name":"twitter:description","content":"Learn how to approach take-home coding assignments strategically, demonstrate your engineering skills, document your decisions, and avoid common mistakes that cost great developers job offers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>النقطة الأساسية</h1>
+<h2>مهمة البرمجة المنزلية ليست مسابقة لبناء أكبر مشروع.
+إنها فرصة لإظهار طريقة تفكيرك, وكيفية تواصلك, وكيفية تعاملك مع العمل الهندسي الحقيقي في ظل قيود واقعية.
+اقرأ المتطلبات بعناية, واطرح الأسئلة مبكرًا, وخطط قبل البدء في البرمجة, وقم ببناء الأساسيات جيدًا, واكتب وثائق واضحة, وكن مستعدًا لشرح كل قرار مهم اتخذته.
+لا تكتفي الشركات بتوظيف المطورين القادرين على كتابة الكود فحسب — بل توظف المطورين الذين يكون كودهم مفهومًا وسهل الصيانة وممتعًا لبقية أعضاء الفريق ليبنوا عليه.</h2>
+<p><strong>هل أنت مستعد لفرصتك التالية في مجال هندسة البرمجيات؟</strong> أنشئ ملفك الشخصي المجاني على <strong>JobsList.dev</strong>, وعرض مشاريعك, وتقدم مباشرةً إلى الشركات التي تبحث عن مطورين يثبتون مهارات هندسية حقيقية — وليس مجرد أداء جيد في المقابلة.</p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيفية التعامل مع واجب البرمجة المنزلي\",\"description\":\"تعلم كيفية التعامل مع واجبات البرمجة المنزلية بشكل استراتيجي, وإظهار مهاراتك الهندسية, وتوثيق قراراتك, وتجنب الأخطاء الشائعة التي تكلف المطورين المتميزين فرص العمل.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-11T00:00:00.000Z\",\"dateModified\":\"2026-07-11T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/how-to-do-a-take-home-assignment/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيفية التعامل مع واجب البرمجة المنزلي"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"تعلم كيفية التعامل مع واجبات البرمجة المنزلية بشكل استراتيجي, وإظهار مهاراتك الهندسية, وتوثيق قراراتك, وتجنب الأخطاء الشائعة التي تكلف المطورين المتميزين فرص العمل."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-11T00:00:00.000Z","children":"10 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","المقابلات",{"className":"badge-gray","children":"المقابلات"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span","هندسة البرمجيات",{"className":"badge-gray","children":"هندسة البرمجيات"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيفية التعامل مع واجب البرمجة المنزلي | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"تعلم كيفية التعامل مع واجبات البرمجة المنزلية بشكل استراتيجي, وإظهار مهاراتك الهندسية, وتوثيق قراراتك, وتجنب الأخطاء الشائعة التي تكلف المطورين المتميزين فرص العمل."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيفية التعامل مع واجب البرمجة المنزلي"}],["$","meta","15",{"property":"og:description","content":"تعلم كيفية التعامل مع واجبات البرمجة المنزلية بشكل استراتيجي, وإظهار مهاراتك الهندسية, وتوثيق قراراتك, وتجنب الأخطاء الشائعة التي تكلف المطورين المتميزين فرص العمل."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/how-to-do-a-take-home-assignment/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-11T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيفية التعامل مع واجب البرمجة المنزلي"}],["$","meta","27",{"name":"twitter:description","content":"تعلم كيفية التعامل مع واجبات البرمجة المنزلية بشكل استراتيجي, وإظهار مهاراتك الهندسية, وتوثيق قراراتك, وتجنب الأخطاء الشائعة التي تكلف المطورين المتميزين فرص العمل."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

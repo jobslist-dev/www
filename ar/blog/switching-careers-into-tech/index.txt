@@ -1,27 +1,29 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3c39,<h1>Switching Careers into Tech: A Realistic Roadmap</h1>
-<p>People enter software engineering from almost every profession imaginable.</p>
-<p>Teachers become frontend developers. Accountants become backend engineers. Military veterans become cybersecurity specialists. Retail managers become product engineers. Designers become full-stack developers. Nurses build healthcare software.</p>
-<p>The common misconception is that every developer started with a Computer Science degree.</p>
-<p>They didn&#39;t.</p>
-<p>The other misconception is that anyone can spend a few weekends watching YouTube videos and immediately earn a six-figure salary.</p>
-<p>That isn&#39;t true either.</p>
-<p>The reality sits comfortably in the middle.</p>
-<p>Changing careers into technology is absolutely achievable, but it requires deliberate learning, consistent practice, realistic expectations, and a willingness to keep building long after the initial excitement wears off.</p>
-<p>This guide explains what actually works.</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","switching-careers-into-tech","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"switching-careers-into-tech\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T5bac,<h1>التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية</h1>
+<p>يدخل الناس مجال هندسة البرمجيات من جميع المهن التي يمكن تخيلها تقريبًا.</p>
+<p>يصبح المعلمون مطوري واجهة المستخدم. ويصبح المحاسبون مهندسي الخلفية. ويصبح المحاربون القدامى متخصصين في الأمن السيبراني. ويصبح مديرو التجزئة مهندسي منتجات. ويصبح المصممون مطوري برمجيات متكاملة. وتقوم الممرضات بتطوير برمجيات الرعاية الصحية.</p>
+<p>هناك اعتقاد خاطئ شائع مفاده أن كل مطور بدأ مسيرته بشهادة في علوم الكمبيوتر.</p>
+<p>هذا ليس صحيحًا.</p>
+<p>والاعتقاد الخاطئ الآخر هو أن أي شخص يمكنه قضاء بضعة عطلات نهاية أسبوع في مشاهدة مقاطع فيديو على يوتيوب ليحصل فورًا على راتب من ستة أرقام.</p>
+<p>وهذا ليس صحيحًا أيضًا.</p>
+<p>الحقيقة تقع في الوسط تمامًا.</p>
+<p>التحول المهني إلى مجال التكنولوجيا أمر قابل للتحقيق تمامًا, ولكنه يتطلب تعلمًا مدروسًا, وممارسة متسقة, وتوقعات واقعية, واستعدادًا لمواصلة البناء لفترة طويلة بعد أن تهدأ الحماسة الأولية.</p>
+<p>يشرح هذا الدليل ما الذي ينجح فعليًّا.</p>
 <hr>
-<h1>The biggest mistake career changers make</h1>
-<p>Most people don&#39;t fail because programming is too difficult.</p>
-<p>They fail because they never choose a direction.</p>
-<p>Instead they spend months learning:</p>
+<h1>أكبر خطأ يرتكبه من يسعون إلى تغيير مسارهم المهني</h1>
+<p>لا يفشل معظم الناس لأن البرمجة صعبة للغاية.</p>
+<p>بل يفشلون لأنهم لا يختارون اتجاهًا محددًا أبدًا.</p>
+<p>وبدلاً من ذلك, يقضون شهورًا في تعلم:</p>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -33,54 +35,54 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>Node.js</li>
 <li>Docker</li>
 <li>Kubernetes</li>
-<li>AI</li>
+<li>الذكاء الاصطناعي</li>
 <li>Blockchain</li>
-<li>Mobile development</li>
-<li>Cloud computing</li>
+<li>تطوير تطبيقات الجوال</li>
+<li>الحوسبة السحابية</li>
 </ul>
-<p>...without becoming employable in any of them.</p>
-<p>Breadth feels productive.</p>
-<p>Depth gets interviews.</p>
+<p>...دون أن يصبحوا مؤهلين للعمل في أي منها.</p>
+<p>التنوع يبدو منتجًا.</p>
+<p>أما التعمق فهو ما يضمن لك الحصول على مقابلات عمل.</p>
 <hr>
-<h1>Start with your destination</h1>
-<p>Don&#39;t ask:</p>
+<h1>ابدأ بوجهتك</h1>
+<p>لا تسأل:</p>
 <blockquote>
-<p>&quot;What programming language should I learn?&quot;</p>
+<p>&quot;ما لغة البرمجة التي يجب أن أتعلمها؟&quot;</p>
 </blockquote>
-<p>Ask:</p>
+<p>اسأل:</p>
 <blockquote>
-<p>&quot;What job do I want?&quot;</p>
+<p>&quot;ما الوظيفة التي أريدها؟&quot;</p>
 </blockquote>
-<p>Your destination determines your roadmap.</p>
-<h2>Frontend Developer</h2>
-<p>If you enjoy:</p>
+<p>وجهتك هي التي تحدد خريطة طريقك.</p>
+<h2>مطور الواجهة الأمامية</h2>
+<p>إذا كنت تستمتع بـ:</p>
 <ul>
-<li>visual design</li>
-<li>user interfaces</li>
-<li>interaction</li>
-<li>making software feel polished</li>
+<li>التصميم المرئي</li>
+<li>واجهات المستخدم</li>
+<li>التفاعل</li>
+<li>جعل البرامج تبدو متقنة</li>
 </ul>
-<p>Focus on:</p>
+<p>ركز على:</p>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
 <li>TypeScript</li>
 <li>React</li>
-<li>Accessibility</li>
-<li>Responsive Design</li>
+<li>إمكانية الوصول</li>
+<li>التصميم المتجاوب</li>
 </ul>
 <hr>
-<h2>Backend Developer</h2>
-<p>If you enjoy:</p>
+<h2>مطور الواجهة الخلفية</h2>
+<p>إذا كنت تستمتع بما يلي:</p>
 <ul>
-<li>solving business problems</li>
-<li>databases</li>
-<li>APIs</li>
-<li>architecture</li>
-<li>performance</li>
+<li>حل المشكلات التجارية</li>
+<li>قواعد البيانات</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
+<li>الهندسة المعمارية</li>
+<li>الأداء</li>
 </ul>
-<p>Focus on:</p>
+<p>ركز على:</p>
 <ul>
 <li>Python</li>
 <li>Go</li>
@@ -88,439 +90,437 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>C#</li>
 <li>Node.js</li>
 <li>SQL</li>
-<li>REST APIs</li>
-<li>Authentication</li>
-<li>Databases</li>
+<li>واجهات برمجة التطبيقات REST</li>
+<li>المصادقة</li>
+<li>قواعد البيانات</li>
 </ul>
 <hr>
-<h2>Full Stack Developer</h2>
-<p>Ideal if you enjoy learning across the entire application.</p>
-<p>Learn:</p>
+<h2>مطور متكامل (Full Stack)</h2>
+<p>خيار مثالي إذا كنت تستمتع بالتعلم في جميع جوانب التطبيق.</p>
+<p>تعلم:</p>
 <ul>
-<li>Frontend fundamentals</li>
-<li>Backend fundamentals</li>
-<li>Databases</li>
-<li>Authentication</li>
-<li>Deployment</li>
+<li>أساسيات الواجهة الأمامية</li>
+<li>أساسيات الواجهة الخلفية</li>
+<li>قواعد البيانات</li>
+<li>المصادقة</li>
+<li>النشر</li>
 <li>Git</li>
-<li>Cloud basics</li>
+<li>أساسيات السحابة</li>
 </ul>
-<p>Many startups hire full-stack developers because they can work across multiple areas.</p>
+<p>تقوم العديد من الشركات الناشئة بتوظيف مطوري Full Stack لأنهم قادرون على العمل في مجالات متعددة.</p>
 <hr>
-<h2>DevOps / Platform Engineering</h2>
-<p>Perfect for people who enjoy:</p>
+<h2>DevOps / هندسة المنصات</h2>
+<p>مثالي للأشخاص الذين يستمتعون بما يلي:</p>
 <ul>
-<li>automation</li>
-<li>infrastructure</li>
-<li>scripting</li>
-<li>systems</li>
+<li>الأتمتة</li>
+<li>البنية التحتية</li>
+<li>البرمجة النصية</li>
+<li>الأنظمة</li>
 </ul>
-<p>Focus on:</p>
+<p>التركيز على:</p>
 <ul>
-<li>Linux</li>
-<li>Networking</li>
-<li>Docker</li>
-<li>Kubernetes</li>
-<li>Terraform</li>
+<li>لينكس</li>
+<li>الشبكات</li>
+<li>دوكر</li>
+<li>كوبرنيتس</li>
+<li>تيرافورم</li>
 <li>CI/CD</li>
 <li>AWS</li>
 <li>Azure</li>
 <li>Google Cloud</li>
 </ul>
 <hr>
-<h2>Data Engineering</h2>
-<p>Ideal for analytical thinkers.</p>
-<p>Learn:</p>
+<h2>هندسة البيانات</h2>
+<p>مثالية للمفكرين التحليليين.</p>
+<p>تعلم:</p>
 <ul>
 <li>SQL</li>
-<li>Python</li>
-<li>Data Modeling</li>
+<li>بايثون</li>
+<li>نمذجة البيانات</li>
 <li>ETL</li>
-<li>Warehousing</li>
+<li>تخزين البيانات</li>
 <li>Spark</li>
-<li>Cloud Data Platforms</li>
+<li>منصات البيانات السحابية</li>
 </ul>
 <hr>
-<h2>QA Automation</h2>
-<p>One of the most overlooked entry points into software.</p>
-<p>Learn:</p>
+<h2>أتمتة ضمان الجودة</h2>
+<p>واحدة من أكثر نقاط الدخول إلى مجال البرمجيات التي يتم تجاهلها.</p>
+<p>تعلم:</p>
 <ul>
-<li>Testing fundamentals</li>
+<li>أساسيات الاختبار</li>
 <li>Selenium</li>
 <li>Playwright</li>
 <li>Cypress</li>
-<li>API Testing</li>
+<li>اختبار واجهات برمجة التطبيقات (API)</li>
 <li>CI/CD</li>
 </ul>
-<p>Many excellent developers began their careers writing automated tests.</p>
+<p>بدأ العديد من المطورين المتميزين مسيرتهم المهنية بكتابة الاختبارات الآلية.</p>
 <hr>
-<h1>Build a realistic learning schedule</h1>
-<p>One of the biggest advantages career changers have is discipline.</p>
-<p>Treat learning like a part-time job.</p>
-<p>Example:</p>
-<p><strong>5–10 hours per week</strong></p>
+<h1>ضع جدولًا تعليميًا واقعيًا</h1>
+<p>تعد الانضباطية إحدى أكبر المزايا التي يتمتع بها من يغيرون مسارهم المهني.</p>
+<p>تعامل مع التعلم كوظيفة بدوام جزئي.</p>
+<p>مثال:</p>
+<p><strong>5–10 ساعات أسبوعيًا</strong></p>
 <ul>
-<li>1 hour every weekday</li>
-<li>3–5 hours on weekends</li>
+<li>ساعة واحدة كل يوم من أيام الأسبوع</li>
+<li>3–5 ساعات في عطلات نهاية الأسبوع</li>
 </ul>
-<p><strong>15–20 hours per week</strong></p>
+<p><strong>15–20 ساعة أسبوعيًا</strong></p>
 <ul>
-<li>2–3 hours most evenings</li>
-<li>Longer weekend sessions</li>
+<li>2–3 ساعات في معظم الأمسيات</li>
+<li>جلسات أطول في عطلات نهاية الأسبوع</li>
 </ul>
-<p>Consistency beats intensity.</p>
-<p>Three hundred focused hours over six months is dramatically more valuable than fifty scattered hours over a year.</p>
+<p>الانتظام أفضل من الكثافة.</p>
+<p>ثلاثمائة ساعة من التركيز على مدار ستة أشهر أكثر قيمة بكثير من خمسين ساعة متفرقة على مدار عام.</p>
 <hr>
-<h1>Learn the fundamentals first</h1>
-<p>Frameworks come and go.</p>
-<p>Fundamentals stay useful for decades.</p>
-<p>Prioritize understanding:</p>
+<h1>تعلم الأساسيات أولاً</h1>
+<p>الأطر البرمجية تأتي وتذهب.</p>
+<p>أما الأساسيات فتظل مفيدة لعقود.</p>
+<p>أعطِ الأولوية لفهم:</p>
 <ul>
-<li>Variables</li>
-<li>Functions</li>
-<li>Objects</li>
-<li>Arrays</li>
-<li>Loops</li>
-<li>Conditionals</li>
-<li>Data structures</li>
-<li>Algorithms</li>
+<li>المتغيرات</li>
+<li>الدوال</li>
+<li>الكائنات</li>
+<li>المصفوفات</li>
+<li>الحلقات</li>
+<li>الشروط</li>
+<li>هياكل البيانات</li>
+<li>الخوارزميات</li>
 <li>HTTP</li>
-<li>REST APIs</li>
+<li>واجهات برمجة التطبيقات REST</li>
 <li>JSON</li>
 <li>Git</li>
 <li>SQL</li>
-<li>Debugging</li>
+<li>تصحيح الأخطاء</li>
 </ul>
-<p>Understanding <em>why</em> code works matters far more than memorizing syntax.</p>
+<p>فهم <em>لماذا</em> يعمل الكود أهم بكثير من حفظ قواعد الصياغة.</p>
 <hr>
-<h1>Tutorials are the beginning—not the destination</h1>
-<p>Tutorials are useful.</p>
-<p>Tutorial addiction is not.</p>
-<p>The goal is to become comfortable solving problems without someone holding your hand.</p>
-<p>A healthy progression looks like this:</p>
+<h1>الدروس التعليمية هي البداية — وليست الغاية</h1>
+<p>الدروس التعليمية مفيدة.</p>
+<p>أما الإدمان عليها فليس كذلك.</p>
+<p>الهدف هو أن تصبح قادرًا على حل المشكلات بثقة دون الحاجة إلى من يرشدك خطوة بخطوة.</p>
+<p>يبدو التقدم السليم كما يلي:</p>
 <ol>
-<li>Complete a beginner course.</li>
-<li>Rebuild the same project from memory.</li>
-<li>Build a similar project without instructions.</li>
-<li>Add features the tutorial never covered.</li>
-<li>Deploy it.</li>
-<li>Maintain it.</li>
+<li>إكمال دورة للمبتدئين.</li>
+<li>إعادة بناء المشروع نفسه من الذاكرة.</li>
+<li>بناء مشروع مشابه دون الحاجة إلى تعليمات.</li>
+<li>إضافة ميزات لم يتناولها البرنامج التعليمي مطلقًا.</li>
+<li>نشره.</li>
+<li>صيانته.</li>
 </ol>
-<p>That last step is where real software engineering begins.</p>
+<p>تلك الخطوة الأخيرة هي حيث تبدأ هندسة البرمجيات الحقيقية.</p>
 <hr>
-<h1>Build projects employers actually care about</h1>
-<p>Your portfolio should answer one question:</p>
+<h1>قم ببناء مشاريع تهم أرباب العمل فعليًّا</h1>
+<p>يجب أن تجيب محفظتك على سؤال واحد:</p>
 <blockquote>
-<p>Can this person build software that solves real problems?</p>
+<p>هل يستطيع هذا الشخص بناء برمجيات تحل مشكلات حقيقية؟</p>
 </blockquote>
-<p>Good portfolio projects are:</p>
+<p>مشاريع المحفظة الجيدة هي:</p>
 <ul>
-<li>Finished</li>
-<li>Deployed</li>
-<li>Well documented</li>
-<li>Easy to understand</li>
-<li>Useful</li>
-<li>Maintained over time</li>
+<li>مكتملة</li>
+<li>تم نشرها</li>
+<li>موثقة جيدًا</li>
+<li>سهلة الفهم</li>
+<li>مفيدة</li>
+<li>يتم صيانتها بمرور الوقت</li>
 </ul>
-<p>Examples include:</p>
+<p>ومن الأمثلة على ذلك:</p>
 <ul>
-<li>Personal budgeting application</li>
-<li>Restaurant reservation platform</li>
-<li>Inventory tracker</li>
-<li>Medical appointment scheduler</li>
-<li>Customer CRM</li>
-<li>Task management system</li>
-<li>Event registration platform</li>
-<li>Portfolio CMS</li>
-<li>Developer blog</li>
-<li>Habit tracker</li>
-</ul>
-<hr>
-<h1>Use your previous career as your advantage</h1>
-<p>Many career changers accidentally hide their strongest qualification.</p>
-<p>Your previous career gives you domain expertise.</p>
-<p>Examples:</p>
-<h3>Teacher</h3>
-<p>Build:</p>
-<ul>
-<li>LMS platforms</li>
-<li>Quiz software</li>
-<li>Attendance systems</li>
-<li>Student dashboards</li>
+<li>تطبيق لإدارة الميزانية الشخصية</li>
+<li>منصة لحجز المطاعم</li>
+<li>أداة تتبع المخزون</li>
+<li>أداة جدولة المواعيد الطبية</li>
+<li>نظام إدارة علاقات العملاء (CRM)</li>
+<li>نظام إدارة المهام</li>
+<li>منصة تسجيل الأحداث</li>
+<li>نظام إدارة محتوى (CMS) لمحفظة الأعمال</li>
+<li>مدونة مطور</li>
+<li>أداة تتبع العادات</li>
 </ul>
 <hr>
-<h3>Nurse</h3>
-<p>Build:</p>
+<h1>استخدم مسيرتك المهنية السابقة كميزة لك</h1>
+<p>يخفي العديد ممن يغيرون مسارهم المهني عن غير قصد أهم مؤهلاتهم.</p>
+<p>تمنحك مسيرتك المهنية السابقة خبرة في مجال معين.</p>
+<p>أمثلة:</p>
+<h3>مدرس</h3>
+<p>قم بإنشاء:</p>
 <ul>
-<li>Appointment scheduling</li>
-<li>Medication tracking</li>
-<li>Healthcare dashboards</li>
-<li>Shift planners</li>
+<li>منصات إدارة التعلم (LMS)</li>
+<li>برامج الاختبارات</li>
+<li>أنظمة الحضور</li>
+<li>لوحات معلومات الطلاب</li>
 </ul>
 <hr>
-<h3>Accountant</h3>
-<p>Build:</p>
+<h3>ممرض/ممرضة</h3>
+<p>يمكنك تطوير:</p>
 <ul>
-<li>Expense tracking</li>
-<li>Payroll software</li>
-<li>Financial dashboards</li>
-<li>Budget planners</li>
+<li>أنظمة جدولة المواعيد</li>
+<li>أنظمة تتبع الأدوية</li>
+<li>لوحات معلومات الرعاية الصحية</li>
+<li>مخططات نوبات العمل</li>
 </ul>
 <hr>
-<h3>Construction</h3>
-<p>Build:</p>
+<h3>محاسب</h3>
+<p>يمكنك تطوير:</p>
 <ul>
-<li>Job costing</li>
-<li>Scheduling</li>
-<li>Safety reporting</li>
-<li>Equipment tracking</li>
+<li>أنظمة تتبع النفقات</li>
+<li>برامج كشوف المرتبات</li>
+<li>لوحات معلومات مالية</li>
+<li>مخططات الميزانية</li>
 </ul>
 <hr>
-<h3>Hospitality</h3>
-<p>Build:</p>
+<h3>قطاع البناء</h3>
+<p>يمكنك تطوير:</p>
 <ul>
-<li>Reservation software</li>
-<li>Ordering systems</li>
-<li>Customer loyalty apps</li>
-<li>Staff scheduling</li>
+<li>حساب تكاليف المهام</li>
+<li>جدولة المهام</li>
+<li>إعداد تقارير السلامة</li>
+<li>تتبع المعدات</li>
 </ul>
-<p>Your experience helps you understand problems developers without that background may never encounter.</p>
-<p>Companies often value that combination.</p>
 <hr>
-<h1>Learn Git early</h1>
-<p>Git is used almost everywhere.</p>
-<p>You should be comfortable with:</p>
+<h3>قطاع الضيافة</h3>
+<p>التطوير:</p>
 <ul>
-<li>Clone</li>
-<li>Commit</li>
-<li>Branch</li>
-<li>Merge</li>
-<li>Pull Requests</li>
-<li>Resolve merge conflicts</li>
+<li>برامج الحجز</li>
+<li>أنظمة الطلبات</li>
+<li>تطبيقات ولاء العملاء</li>
+<li>جدولة دوام الموظفين</li>
+</ul>
+<p>تساعدك خبرتك على فهم المشكلات التي قد لا يواجهها مطورو البرامج الذين يفتقرون إلى هذه الخلفية.</p>
+<p>وغالبًا ما تقدّر الشركات هذا المزيج من المهارات.</p>
+<hr>
+<h1>تعلم Git في وقت مبكر</h1>
+<p>يُستخدم Git في كل مكان تقريبًا.</p>
+<p>يجب أن تكون على دراية بما يلي:</p>
+<ul>
+<li>النسخ (Clone)</li>
+<li>التسجيل (Commit)</li>
+<li>الفروع (Branch)</li>
+<li>الدمج (Merge)</li>
+<li>طلبات السحب (Pull Requests)</li>
+<li>حل تعارضات الدمج</li>
 <li>GitHub</li>
 <li>GitLab</li>
 </ul>
-<p>Hiring managers often review commit history alongside the finished project.</p>
+<p>غالبًا ما يراجع مديرو التوظيف سجل عمليات التسجيل جنبًا إلى جنب مع المشروع النهائي.</p>
 <hr>
-<h1>Learn to read documentation</h1>
-<p>One of the biggest differences between beginners and experienced developers isn&#39;t intelligence.</p>
-<p>It&#39;s confidence reading documentation.</p>
-<p>Practice using:</p>
+<h1>تعلم قراءة الوثائق</h1>
+<p>أحد أكبر الفروق بين المبتدئين والمطورين ذوي الخبرة ليس الذكاء.</p>
+<p>بل الثقة في قراءة الوثائق.</p>
+<p>تدرب على استخدام:</p>
 <ul>
-<li>Official framework documentation</li>
-<li>API documentation</li>
-<li>MDN Web Docs</li>
-<li>Language documentation</li>
+<li>الوثائق الرسمية للأطر البرمجية</li>
+<li>وثائق واجهة برمجة التطبيقات (API)</li>
+<li>وثائق MDN Web Docs</li>
+<li>وثائق اللغات البرمجية</li>
 </ul>
-<p>Learning to find answers is one of the most valuable engineering skills you&#39;ll develop.</p>
+<p>تعلم كيفية العثور على الإجابات هو إحدى أهم المهارات الهندسية التي ستكتسبها.</p>
 <hr>
-<h1>Create a professional GitHub profile</h1>
-<p>Recruiters frequently click your GitHub profile.</p>
-<p>Improve it by:</p>
+<h1>أنشئ ملفًا شخصيًا احترافيًّا على GitHub</h1>
+<p>غالبًا ما ينقر مسؤولو التوظيف على ملفك الشخصي على GitHub.</p>
+<p>حسّن ملفك الشخصي من خلال:</p>
 <ul>
-<li>Pinning your best repositories</li>
-<li>Writing good README files</li>
-<li>Using descriptive repository names</li>
-<li>Keeping projects organized</li>
-<li>Including screenshots</li>
-<li>Explaining architecture decisions</li>
-<li>Showing regular activity</li>
+<li>تثبيت أفضل مستودعاتك</li>
+<li>كتابة ملفات README جيدة</li>
+<li>استخدام أسماء مستودعات وصفية</li>
+<li>الحفاظ على تنظيم المشاريع</li>
+<li>تضمين لقطات شاشة</li>
+<li>شرح قرارات البنية</li>
+<li>إظهار نشاط منتظم</li>
 </ul>
-<p>Quality matters far more than repository count.</p>
+<p>الجودة أهم بكثير من عدد المستودعات.</p>
 <hr>
-<h1>Build a resume that gets interviews</h1>
-<p>Your first developer resume is different from resumes in most industries.</p>
-<p>Include:</p>
-<h2>Technical Skills</h2>
-<p>Organize by category.</p>
-<p>Example:</p>
-<p><strong>Languages</strong></p>
+<h1>قم بإعداد سيرة ذاتية تضمن لك الحصول على مقابلات</h1>
+<p>تختلف سيرتك الذاتية الأولى كمطور عن السير الذاتية في معظم المجالات.</p>
+<p>قم بتضمين:</p>
+<h2>المهارات التقنية</h2>
+<p>رتب حسب الفئة.</p>
+<p>مثال:</p>
+<p><strong>اللغات</strong></p>
 <ul>
 <li>JavaScript</li>
 <li>TypeScript</li>
 <li>Python</li>
 </ul>
-<p><strong>Frameworks</strong></p>
+<p><strong>أطر العمل</strong></p>
 <ul>
 <li>React</li>
 <li>Next.js</li>
 <li>Express</li>
 </ul>
-<p><strong>Databases</strong></p>
+<p><strong>قواعد البيانات</strong></p>
 <ul>
 <li>PostgreSQL</li>
 <li>SQLite</li>
 </ul>
-<p><strong>Tools</strong></p>
+<p><strong>الأدوات</strong></p>
 <ul>
 <li>Git</li>
 <li>Docker</li>
 <li>GitHub Actions</li>
 </ul>
 <hr>
-<h2>Projects</h2>
-<p>Projects should occupy the majority of the resume.</p>
-<p>For each project include:</p>
+<h2>المشاريع</h2>
+<p>يجب أن تشغل المشاريع الجزء الأكبر من السيرة الذاتية.</p>
+<p>بالنسبة لكل مشروع, قم بتضمين:</p>
 <ul>
-<li>Technologies used</li>
-<li>Problem solved</li>
-<li>Key features</li>
-<li>Live demo</li>
-<li>GitHub repository</li>
-<li>Measurable outcomes when possible</li>
+<li>التقنيات المستخدمة</li>
+<li>المشكلة التي تم حلها</li>
+<li>الميزات الرئيسية</li>
+<li>عرض توضيحي مباشر</li>
+<li>مستودع GitHub</li>
+<li>النتائج القابلة للقياس إن أمكن</li>
 </ul>
 <hr>
-<h2>Previous Experience</h2>
-<p>Don&#39;t hide your previous career.</p>
-<p>Translate it into transferable skills.</p>
-<p>Instead of:</p>
+<h2>الخبرة السابقة</h2>
+<p>لا تخفِ مسيرتك المهنية السابقة.</p>
+<p>حوّلها إلى مهارات قابلة للتطبيق.</p>
+<p>بدلاً من:</p>
 <blockquote>
-<p>Restaurant Manager</p>
+<p>مدير مطعم</p>
 </blockquote>
-<p>Write achievements like:</p>
+<p>اكتب إنجازات مثل:</p>
 <ul>
-<li>Led teams of 25 employees</li>
-<li>Managed $2M annual operations</li>
-<li>Improved customer satisfaction</li>
-<li>Automated scheduling processes</li>
-<li>Reduced operating costs</li>
+<li>قيادة فرق مكونة من 25 موظفًا</li>
+<li>إدارة عمليات سنوية بقيمة 2 مليون دولار</li>
+<li>تحسين رضا العملاء</li>
+<li>أتمتة عمليات الجدولة</li>
+<li>خفض تكاليف التشغيل</li>
 </ul>
-<p>Leadership, communication, and ownership all transfer into engineering roles.</p>
+<p>تُعد مهارات القيادة والتواصل والمسؤولية مهارات قابلة للتطبيق في الوظائف الهندسية.</p>
 <hr>
-<h1>Build an online presence</h1>
-<p>Recruiters increasingly search beyond resumes.</p>
-<p>Consider maintaining:</p>
+<h1>بناء حضور عبر الإنترنت</h1>
+<p>يتجه مسؤولو التوظيف بشكل متزايد إلى البحث خارج نطاق السير الذاتية.</p>
+<p>فكر في إنشاء:</p>
 <ul>
-<li>LinkedIn</li>
-<li>GitHub</li>
-<li>Personal website</li>
-<li>Technical blog</li>
-<li>Portfolio site</li>
+<li>حساب على LinkedIn</li>
+<li>حساب على GitHub</li>
+<li>موقع إلكتروني شخصي</li>
+<li>مدونة تقنية</li>
+<li>موقع لعرض أعمالك</li>
 </ul>
-<p>You don&#39;t need to become an influencer.</p>
-<p>A few thoughtful posts explaining what you&#39;ve learned or built can demonstrate communication skills and genuine interest in software development.</p>
+<p>لست بحاجة إلى أن تصبح شخصية مؤثرة.</p>
+<p>بعض المنشورات المدروسة التي تشرح ما تعلمته أو ما قمت بتطويره يمكن أن تبرهن على مهاراتك في التواصل واهتمامك الحقيقي بتطوير البرمجيات.</p>
 <hr>
-<h1>Prepare for technical interviews</h1>
-<p>Don&#39;t wait until interviews begin.</p>
-<p>Practice throughout your learning journey.</p>
-<p>Study:</p>
+<h1>استعد للمقابلات الفنية</h1>
+<p>لا تنتظر حتى تبدأ المقابلات.</p>
+<p>تدرب طوال رحلتك التعليمية.</p>
+<p>ادرس:</p>
 <ul>
-<li>Data structures</li>
-<li>Algorithms</li>
-<li>SQL</li>
-<li>APIs</li>
-<li>Debugging</li>
-<li>System design (for more senior roles)</li>
-<li>Behavioral interviews</li>
+<li>هياكل البيانات</li>
+<li>الخوارزميات</li>
+<li>لغة SQL</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
+<li>تصحيح الأخطاء</li>
+<li>تصميم الأنظمة (للوظائف ذات المستوى الأعلى)</li>
+<li>المقابلات السلوكية</li>
 </ul>
-<p>Also practice explaining your own projects.</p>
-<p>Interviewers often spend more time discussing your portfolio than asking trivia questions.</p>
+<p>تدرب أيضًا على شرح مشاريعك الخاصة.</p>
+<p>غالبًا ما يقضي القائمون على المقابلات وقتًا أطول في مناقشة محفظة أعمالك بدلاً من طرح أسئلة عامة.</p>
 <hr>
-<h1>Network without feeling awkward</h1>
-<p>Networking doesn&#39;t have to mean handing out business cards.</p>
-<p>Instead:</p>
+<h1>تواصل مع الآخرين دون الشعور بالحرج</h1>
+<p>لا يعني التواصل بالضرورة توزيع بطاقات العمل.</p>
+<p>بدلاً من ذلك:</p>
 <ul>
-<li>Attend local meetups.</li>
-<li>Join developer communities.</li>
-<li>Participate in Discord or Slack groups.</li>
-<li>Contribute to open source.</li>
-<li>Answer beginner questions.</li>
-<li>Write technical articles.</li>
-<li>Attend hackathons.</li>
+<li>احضر اللقاءات المحلية.</li>
+<li>انضم إلى مجتمعات المطورين.</li>
+<li>شارك في مجموعات Discord أو Slack.</li>
+<li>ساهم في مشاريع البرمجيات مفتوحة المصدر.</li>
+<li>أجب على أسئلة المبتدئين.</li>
+<li>اكتب مقالات تقنية.</li>
+<li>شارك في مسابقات البرمجة (هاكاثونات).</li>
 </ul>
-<p>Relationships formed over months often lead to your first opportunity.</p>
+<p>غالبًا ما تؤدي العلاقات التي تُبنى على مدار أشهر إلى حصولك على فرصتك الأولى.</p>
 <hr>
-<h1>Apply strategically</h1>
-<p>Avoid applying to hundreds of jobs with the same resume.</p>
-<p>Instead:</p>
+<h1>تقدم بطلباتك بشكل استراتيجي</h1>
+<p>تجنب التقدم لمئات الوظائف بنفس السيرة الذاتية.</p>
+<p>بدلاً من ذلك:</p>
 <ul>
-<li>Tailor your resume.</li>
-<li>Customize your cover letter when appropriate.</li>
-<li>Highlight relevant projects.</li>
-<li>Mention domain expertise.</li>
-<li>Apply early.</li>
-<li>Follow application instructions carefully.</li>
+<li>صمم سيرتك الذاتية خصيصًا لكل وظيفة.</li>
+<li>قم بتخصيص خطاب التقديم الخاص بك عند الحاجة.</li>
+<li>سلط الضوء على المشاريع ذات الصلة.</li>
+<li>اذكر خبرتك في المجال.</li>
+<li>تقدم بطلبك مبكرًا.</li>
+<li>اتبع تعليمات التقديم بعناية.</li>
 </ul>
-<p>Ten thoughtful applications often outperform one hundred generic ones.</p>
+<p>غالبًا ما تتفوق عشرة طلبات مدروسة على مائة طلب عام.</p>
 <hr>
-<h1>Expect rejection</h1>
-<p>Every developer has been rejected.</p>
-<p>Usually many times.</p>
-<p>Rejections are not proof you&#39;re incapable.</p>
-<p>They&#39;re feedback that something can improve:</p>
+<h1>توقع الرفض</h1>
+<p>كل مطور قد تعرض للرفض.</p>
+<p>عادةً عدة مرات.</p>
+<p>الرفض ليس دليلًا على عدم كفاءتك.</p>
+<p>إنه ملاحظات تشير إلى أن هناك شيئًا ما يمكن تحسينه:</p>
 <ul>
-<li>Resume</li>
-<li>Portfolio</li>
-<li>Interview skills</li>
-<li>Communication</li>
-<li>Project quality</li>
-<li>Technical depth</li>
+<li>السيرة الذاتية</li>
+<li>محفظة الأعمال</li>
+<li>مهارات المقابلة</li>
+<li>التواصل</li>
+<li>جودة المشاريع</li>
+<li>العمق التقني</li>
 </ul>
-<p>Treat each interview as practice for the next one.</p>
+<p>تعامل مع كل مقابلة على أنها تدريب للمقابلة التالية.</p>
 <hr>
-<h1>The &quot;messy middle&quot; is real</h1>
-<p>After several months you&#39;ll probably experience something like this:</p>
+<h1>«المرحلة الوسطى الصعبة» حقيقية</h1>
+<p>بعد عدة أشهر, من المحتمل أن تمر بتجربة تشبه ما يلي:</p>
 <ul>
-<li>You know enough to realize how much you don&#39;t know.</li>
-<li>Projects feel difficult.</li>
-<li>Tutorials stop helping.</li>
-<li>Progress seems slower.</li>
+<li>لديك معرفة كافية لتدرك مدى جهلِك.</li>
+<li>تبدو المشاريع صعبة.</li>
+<li>لم تعد الدروس التعليمية مفيدة.</li>
+<li>يبدو التقدم أبطأ.</li>
 </ul>
-<p>This stage discourages many people.</p>
-<p>Ironically, it&#39;s often a sign that you&#39;re becoming a real developer.</p>
-<p>Experienced engineers still feel this when learning new technologies.</p>
-<p>Keep building.</p>
+<p>هذه المرحلة تثبط عزيمة الكثيرين.</p>
+<p>ومن المفارقات أن ذلك غالبًا ما يكون علامة على أنك في طريقك لتصبح مطورًا حقيقيًّا.</p>
+<p>حتى المهندسون ذوو الخبرة ما زالوا يشعرون بذلك عند تعلم تقنيات جديدة.</p>
+<p>استمر في البناء.</p>
 <hr>
-<h1>Your first job is the hardest</h1>
-<p>Once you have one year of professional experience:</p>
+<h1>وظيفتك الأولى هي الأصعب</h1>
+<p>بمجرد أن تكتسب سنة واحدة من الخبرة المهنية:</p>
 <ul>
-<li>recruiters start contacting you</li>
-<li>interviews become easier</li>
-<li>your portfolio grows naturally</li>
-<li>employers focus more on your experience than your education</li>
+<li>يبدأ مسؤولو التوظيف في الاتصال بك</li>
+<li>تصبح المقابلات أسهل</li>
+<li>تنمو محفظة أعمالك بشكل طبيعي</li>
+<li>يركز أصحاب العمل على خبرتك أكثر من تركيزهم على مؤهلاتك الأكاديمية</li>
 </ul>
-<p>The hardest barrier is getting that first opportunity.</p>
-<p>Everything you build beforehand exists to cross it.</p>
+<p>أصعب عائق هو الحصول على تلك الفرصة الأولى.</p>
+<p>كل ما تبنيه مسبقًا موجود من أجل تجاوز هذا العائق.</p>
 <hr>
-<h1>Common mistakes to avoid</h1>
+<h1>الأخطاء الشائعة التي يجب تجنبها</h1>
 <ul>
-<li>Waiting until you &quot;know enough&quot; before applying.</li>
-<li>Learning five languages instead of mastering one.</li>
-<li>Building only tutorial projects.</li>
-<li>Ignoring Git and version control.</li>
-<li>Never deploying projects.</li>
-<li>Applying with a generic resume.</li>
-<li>Hiding previous work experience.</li>
-<li>Comparing your beginning to someone else&#39;s ten-year career.</li>
-<li>Quitting during the messy middle.</li>
+<li>الانتظار حتى «تكتسب معرفة كافية» قبل التقدم للوظيفة.</li>
+<li>تعلم خمس لغات برمجية بدلاً من إتقان لغة واحدة.</li>
+<li>العمل على مشاريع تعليمية فقط.</li>
+<li>تجاهل Git والتحكم في الإصدارات.</li>
+<li>عدم نشر المشاريع مطلقًا.</li>
+<li>التقدم للوظيفة بسيرة ذاتية عامة.</li>
+<li>إخفاء خبرتك العملية السابقة.</li>
+<li>مقارنة بدايتك بمسيرة مهنية مدتها عشر سنوات لشخص آخر.</li>
+<li>الاستسلام خلال المرحلة الوسطى الصعبة.</li>
 </ul>
 <hr>
-<h1>Career Switch Checklist</h1>
-<p>Before applying for your first developer role, aim to have:</p>
+<h1>قائمة مراجعة لتغيير المسار المهني</h1>
+<p>قبل التقدم لوظيفة المطور الأولى, احرص على أن يكون لديك:</p>
 <ul>
-<li>✅ A focused technology stack.</li>
-<li>✅ Two to five polished projects.</li>
-<li>✅ A professional GitHub profile.</li>
-<li>✅ A developer-focused resume.</li>
-<li>✅ A complete LinkedIn profile.</li>
-<li>✅ A personal portfolio website.</li>
-<li>✅ Experience using Git.</li>
-<li>✅ Comfort reading documentation.</li>
-<li>✅ Basic interview preparation.</li>
-<li>✅ Several people who know you&#39;re looking for work.</li>
+<li>✅ مجموعة تقنيات محددة.</li>
+<li>✅ من مشروعين إلى خمسة مشاريع متقنة.</li>
+<li>✅ ملف شخصي احترافي على GitHub.</li>
+<li>✅ سيرة ذاتية مركزة على مجال التطوير.</li>
+<li>✅ ملف شخصي كامل على LinkedIn.</li>
+<li>✅ موقع إلكتروني شخصي لعرض أعمالك.</li>
+<li>✅ خبرة في استخدام Git.</li>
+<li>✅ الراحة في قراءة الوثائق الفنية.</li>
+<li>✅ الاستعداد الأساسي للمقابلة.</li>
+<li>✅ عدة أشخاص على علم بأنك تبحث عن عمل.</li>
 </ul>
-<p>You don&#39;t need perfection.</p>
-<p>You need enough evidence that a hiring manager can confidently imagine you contributing on their team.</p>
+<p>لست بحاجة إلى الكمال.</p>
+<p>ما تحتاجه هو أدلة كافية تجعل مدير التوظيف يتخيل بثقة أنك ستساهم في فريقه.</p>
 <hr>
-<h1>The Takeaway</h1>
-<p>Switching into technology isn&#39;t about finding a shortcut—it&#39;s about building momentum.</p>
-<p>Choose one direction, master the fundamentals, build projects that solve real problems, and let your previous career become part of your story rather than something you hide. Create a strong resume, maintain a professional online presence, and keep applying while you continue improving your skills.</p>
-<p>Thousands of developers begin successful careers every year without a traditional computer science degree. The path isn&#39;t always fast, but it is absolutely achievable with consistent effort, curiosity, and persistence.</p>
-<p>Your previous career got you here. Your next project can take you wherever you want to go.</p>
+<h1>النقطة الأساسية</h1>
+<p>الانتقال إلى مجال التكنولوجيا لا يعني البحث عن طريق مختصر, بل يتعلق ببناء الزخم.</p>
+<p>اختر اتجاهًا واحدًا, واتقن الأساسيات, وقم بتنفيذ مشاريع تحل مشكلات حقيقية, واجعل مسيرتك المهنية السابقة جزءًا من قصتك بدلًا من أن تكون شيئًا تخفيه. قم بإعداد سيرة ذاتية قوية, وحافظ على حضور احترافي عبر الإنترنت, واستمر في التقدم للوظائف بينما تواصل تحسين مهاراتك.</p>
+<p>يبدأ آلاف المطورين مسيرتهم المهنية الناجحة كل عام دون أن يكونوا حاملين لشهادة جامعية تقليدية في علوم الحاسوب. هذا المسار ليس سريعًا دائمًا, لكنه قابل للتحقيق تمامًا بالجهد المستمر والفضول والمثابرة.</p>
+<p>مسيرتك المهنية السابقة أوصلتك إلى هنا. ومشروعك التالي يمكنه أن يأخذك إلى أي مكان تريده.</p>
 <hr>
-<p><em>Ready to start your software engineering career? <strong>Create a free JobsList.dev profile</strong>, showcase your projects, upload your resume, and connect directly with companies hiring developers around the world.</em></p>
-5:["locale","ar","d"]
-6:["slug","switching-careers-into-tech","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"switching-careers-into-tech\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","switching-careers-into-tech","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Switching Careers into Tech: A Realistic Roadmap\",\"description\":\"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree.\",\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Switching Careers into Tech: A Realistic Roadmap","date":"2026-07-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Switching Careers into Tech: A Realistic Roadmap | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","15",{"property":"og:description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Switching Careers into Tech: A Realistic Roadmap"}],["$","meta","25",{"name":"twitter:description","content":"A practical, step-by-step roadmap for career changers moving into software development. Learn what to study, how to build a portfolio, write a resume, prepare for interviews, and land your first developer job without a traditional computer science degree."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p><em>هل أنت مستعد لبدء مسيرتك المهنية في هندسة البرمجيات؟ <strong>أنشئ ملفًا شخصيًا مجانيًّا على JobsList.dev</strong>, وعرض مشاريعك, وحمّل سيرتك الذاتية, وتواصل مباشرةً مع الشركات التي توظف مطورين في جميع أنحاء العالم.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية\",\"description\":\"خارطة طريق عملية ومفصلة خطوة بخطوة لمن يرغبون في تغيير مسارهم المهني والانتقال إلى مجال تطوير البرمجيات. تعرف على ما يجب دراسته, وكيفية إنشاء محفظة أعمال, وكتابة السيرة الذاتية, والاستعداد للمقابلات, والحصول على أول وظيفة كمطور برمجيات دون الحاجة إلى شهادة جامعية تقليدية في علوم الحاسوب.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"dateModified\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/switching-careers-into-tech/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"خارطة طريق عملية ومفصلة خطوة بخطوة لمن يرغبون في تغيير مسارهم المهني والانتقال إلى مجال تطوير البرمجيات. تعرف على ما يجب دراسته, وكيفية إنشاء محفظة أعمال, وكتابة السيرة الذاتية, والاستعداد للمقابلات, والحصول على أول وظيفة كمطور برمجيات دون الحاجة إلى شهادة جامعية تقليدية في علوم الحاسوب."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-17T00:00:00.000Z","children":"16 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[10," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","الحياة المهنية",{"className":"badge-gray","children":"الحياة المهنية"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","تغيير المسار المهني",{"className":"badge-gray","children":"تغيير المسار المهني"}],["$","span","هندسة البرمجيات",{"className":"badge-gray","children":"هندسة البرمجيات"}],["$","span","السير الذاتية",{"className":"badge-gray","children":"السير الذاتية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"خارطة طريق عملية ومفصلة خطوة بخطوة لمن يرغبون في تغيير مسارهم المهني والانتقال إلى مجال تطوير البرمجيات. تعرف على ما يجب دراسته, وكيفية إنشاء محفظة أعمال, وكتابة السيرة الذاتية, والاستعداد للمقابلات, والحصول على أول وظيفة كمطور برمجيات دون الحاجة إلى شهادة جامعية تقليدية في علوم الحاسوب."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية"}],["$","meta","15",{"property":"og:description","content":"خارطة طريق عملية ومفصلة خطوة بخطوة لمن يرغبون في تغيير مسارهم المهني والانتقال إلى مجال تطوير البرمجيات. تعرف على ما يجب دراسته, وكيفية إنشاء محفظة أعمال, وكتابة السيرة الذاتية, والاستعداد للمقابلات, والحصول على أول وظيفة كمطور برمجيات دون الحاجة إلى شهادة جامعية تقليدية في علوم الحاسوب."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/switching-careers-into-tech/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"التحول المهني إلى مجال التكنولوجيا: خارطة طريق واقعية"}],["$","meta","27",{"name":"twitter:description","content":"خارطة طريق عملية ومفصلة خطوة بخطوة لمن يرغبون في تغيير مسارهم المهني والانتقال إلى مجال تطوير البرمجيات. تعرف على ما يجب دراسته, وكيفية إنشاء محفظة أعمال, وكتابة السيرة الذاتية, والاستعداد للمقابلات, والحصول على أول وظيفة كمطور برمجيات دون الحاجة إلى شهادة جامعية تقليدية في علوم الحاسوب."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

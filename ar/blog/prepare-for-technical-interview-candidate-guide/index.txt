@@ -1,1103 +1,1072 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T9c2e,<hr>
-<p>Technical interviews can feel artificial, unpredictable, and much more stressful than ordinary engineering work.</p>
-<p>That does not mean they are impossible to prepare for.</p>
-<p>The candidates who perform best are not always the people with the deepest knowledge or the fastest typing speed. They are often the candidates who understand the format, practice communicating under pressure, recognize common problem patterns, ask useful questions, and recover calmly when they get stuck.</p>
-<p>A technical interview is rarely testing only whether you can produce a correct answer. Depending on the company and role, interviewers may also be evaluating:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","prepare-for-technical-interview-candidate-guide","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","prepare-for-technical-interview-candidate-guide","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"prepare-for-technical-interview-candidate-guide\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","prepare-for-technical-interview-candidate-guide","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Tecbe,<p>قد تبدو المقابلات الفنية مصطنعة وغير متوقعة, كما أنها أكثر إجهادًا بكثير من العمل الهندسي العادي.</p>
+<p>لكن هذا لا يعني أنه من المستحيل الاستعداد لها.</p>
+<p>المرشحون الذين يحققون أفضل أداء ليسوا دائمًا أولئك الذين يمتلكون أعمق المعرفة أو أسرع سرعة في الكتابة. غالبًا ما يكونون المرشحين الذين يفهمون شكل المقابلة, ويتدربون على التواصل تحت الضغط, ويتعرفون على أنماط المشكلات الشائعة, ويطرحون أسئلة مفيدة, ويستعيدون رباطة جأشهم بهدوء عندما يواجهون صعوبة.</p>
+<p>نادرًا ما تختبر المقابلة الفنية فقط قدرتك على تقديم إجابة صحيحة. اعتمادًا على الشركة والوظيفة, قد يقوم القائمون على المقابلة أيضًا بتقييم:</p>
 <ul>
-<li>how you clarify ambiguous requirements;</li>
-<li>how you break down unfamiliar problems;</li>
-<li>how you communicate trade-offs;</li>
-<li>how you respond to feedback;</li>
-<li>how you test your work;</li>
-<li>how you collaborate;</li>
-<li>how well your experience matches the role;</li>
-<li>whether your judgment fits the expected level.</li>
+<li>كيف توضح المتطلبات الغامضة؛</li>
+<li>كيف تقسم المشكلات غير المألوفة إلى أجزاء؛</li>
+<li>كيف تشرح المفاضلات؛</li>
+<li>كيف تستجيب للتعليقات؛</li>
+<li>كيف تختبر عملك؛</li>
+<li>كيف تتعاون مع الآخرين؛</li>
+<li>مدى ملاءمة خبرتك للمنصب؛</li>
+<li>ما إذا كان حكمك يتوافق مع المستوى المتوقع.</li>
 </ul>
-<p>Preparation should therefore cover more than algorithms.</p>
-<p>A strong plan includes the interview format, technical fundamentals, communication, system design, behavioral stories, take-home work, company research, logistics, and the questions you will ask the team.</p>
-<h2>Start by learning the interview process</h2>
-<p>Do not prepare blindly.</p>
-<p>Ask the recruiter or hiring contact what the process includes. This is a normal and professional question.</p>
-<p>Useful questions include:</p>
+<p>لذلك, يجب أن يشمل التحضير أكثر من مجرد الخوارزميات.</p>
+<p>تتضمن الخطة القوية شكل المقابلة, والأساسيات التقنية, والتواصل, وتصميم الأنظمة, والقصص السلوكية, والواجبات المنزلية, والبحث عن الشركة, واللوجستيات, والأسئلة التي ستطرحها على الفريق.</p>
+<h2>ابدأ بتعلم عملية المقابلة</h2>
+<p>لا تستعد بشكل عشوائي.</p>
+<p>اسأل مسؤول التوظيف أو جهة الاتصال المعنية بالتوظيف عن مكونات العملية. هذا سؤال طبيعي ومهني.</p>
+<p>من الأسئلة المفيدة ما يلي:</p>
 <ul>
-<li>How many interview stages are there?</li>
-<li>Which stages are technical?</li>
-<li>Will coding be live, asynchronous, or take-home?</li>
-<li>Which programming languages are allowed?</li>
-<li>Will I use my own editor or a browser-based environment?</li>
-<li>Is there a system-design interview?</li>
-<li>Will there be debugging, architecture, or code-review exercises?</li>
-<li>Are behavioral or values interviews included?</li>
-<li>Will I meet the hiring manager?</li>
-<li>How long is each stage?</li>
-<li>What level of preparation does the company recommend?</li>
-<li>Are there public preparation materials?</li>
-<li>What skills is each interview intended to evaluate?</li>
+<li>كم عدد مراحل المقابلة؟</li>
+<li>ما هي المراحل الفنية؟</li>
+<li>هل سيكون البرمجة مباشرةً أم غير متزامنة أم كواجب منزلي؟</li>
+<li>ما هي لغات البرمجة المسموح بها؟</li>
+<li>هل سأستخدم محرر البرمجة الخاص بي أم بيئة قائمة على المتصفح؟</li>
+<li>هل هناك مقابلة حول تصميم الأنظمة؟</li>
+<li>هل ستكون هناك تمارين لتصحيح الأخطاء أو الهندسة أو مراجعة الكود؟</li>
+<li>هل تتضمن المقابلة أسئلة سلوكية أو تتعلق بالقيم؟</li>
+<li>هل سألتقي بمدير التوظيف؟</li>
+<li>ما هي مدة كل مرحلة؟</li>
+<li>ما هو مستوى الاستعداد الذي توصي به الشركة؟</li>
+<li>هل توجد مواد تحضيرية متاحة للجمهور؟</li>
+<li>ما هي المهارات التي تهدف كل مقابلة إلى تقييمها؟</li>
 </ul>
-<p>A concise message might be:</p>
+<p>قد تكون الرسالة الموجزة كما يلي:</p>
 <blockquote>
-<p>“I’d like to prepare thoughtfully. Could you share the interview stages, the format of each technical round, and whether there are any topics or tools you recommend reviewing?”</p>
+<p>«أود أن أستعد جيدًا. هل يمكنك إطلاعي على مراحل المقابلة, وشكل كل جولة تقنية, وما إذا كانت هناك أي موضوعات أو أدوات تنصح بمراجعتها؟»</p>
 </blockquote>
-<p>Preparing for the wrong interview format is one of the most common ways candidates waste time.</p>
-<p>A frontend candidate expecting an algorithm-heavy interview may spend days studying graph traversal when the company actually plans to evaluate React architecture and browser performance. A senior backend engineer may practice coding problems but neglect the system-design round that carries the most weight.</p>
-<p>Get the format first. Then build your plan.</p>
-<h2>Understand what the company is hiring you to do</h2>
-<p>Review the job description again before preparing.</p>
-<p>Identify the main responsibilities:</p>
+<p>يُعد الاستعداد لشكل المقابلة الخاطئ أحد أكثر الطرق شيوعًا التي يضيع بها المرشحون وقتهم.</p>
+<p>فقد يقضي مرشح وظيفة «فرونت إند» يتوقع مقابلة تعتمد بشكل كبير على الخوارزميات أيامًا في دراسة «اجتياز الرسوم البيانية», في حين أن الشركة تخطط في الواقع لتقييم بنية React وأداء المتصفح. قد يتدرب مهندس خلفي (backend) ذو خبرة على حل مسائل البرمجة, لكنه يهمل جولة تصميم النظام التي تحمل الوزن الأكبر.</p>
+<p>تعرف على الشكل أولاً. ثم ضع خطتك.</p>
+<h2>افهم المهمة التي توظفك الشركة من أجلها</h2>
+<p>راجع الوصف الوظيفي مرة أخرى قبل البدء في الاستعداد.</p>
+<p>حدد المسؤوليات الرئيسية:</p>
 <ul>
-<li>building product features;</li>
-<li>designing APIs;</li>
-<li>improving reliability;</li>
-<li>managing infrastructure;</li>
-<li>leading projects;</li>
-<li>mentoring engineers;</li>
-<li>securing systems;</li>
-<li>building data pipelines;</li>
-<li>working with customers;</li>
-<li>managing incidents;</li>
-<li>improving developer experience.</li>
+<li>بناء ميزات المنتج؛</li>
+<li>تصميم واجهات برمجة التطبيقات (APIs)؛</li>
+<li>تحسين الموثوقية؛</li>
+<li>إدارة البنية التحتية؛</li>
+<li>قيادة المشاريع؛</li>
+<li>توجيه المهندسين؛</li>
+<li>تأمين الأنظمة؛</li>
+<li>بناء مسارات البيانات؛</li>
+<li>العمل مع العملاء؛</li>
+<li>إدارة الحوادث؛</li>
+<li>تحسين تجربة المطورين.</li>
 </ul>
-<p>Then map those responsibilities to the likely interview areas.</p>
-<p>For example:</p>
-<table>
-<thead>
-<tr>
-<th>Role responsibility</th>
-<th>Likely interview signal</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Build backend services</td>
-<td>Coding, API design, databases</td>
-</tr>
-<tr>
-<td>Own production reliability</td>
-<td>Debugging, observability, incident response</td>
-</tr>
-<tr>
-<td>Lead architecture</td>
-<td>System design, trade-offs, communication</td>
-</tr>
-<tr>
-<td>Build frontend applications</td>
-<td>JavaScript, browser behavior, React, accessibility</td>
-</tr>
-<tr>
-<td>Work with large datasets</td>
-<td>SQL, data modeling, pipelines, performance</td>
-</tr>
-<tr>
-<td>Mentor engineers</td>
-<td>Behavioral examples, code review, technical leadership</td>
-</tr>
-<tr>
-<td>Secure applications</td>
-<td>Threat modeling, authentication, authorization</td>
-</tr>
-<tr>
-<td>Work across teams</td>
-<td>Stakeholder communication, conflict resolution</td>
-</tr>
-</tbody></table>
-<p>Do not prepare for a generic “software engineering interview.” Prepare for this role.</p>
-<h2>Build a realistic preparation plan</h2>
-<p>A good plan is focused and sustainable.</p>
-<p>Trying to study everything at once usually creates anxiety without improving performance.</p>
-<h3>If you have one week</h3>
-<p>Prioritize:</p>
+<p>ثم قم بربط تلك المسؤوليات بمجالات المقابلة المحتملة.</p>
+<p>على سبيل المثال:</p>
+<p>| مسؤوليات الدور         | المؤشرات المحتملة في المقابلة                                |
+| --------------------------- | ----------------------------------------------------- - |
+| بناء خدمات الخلفية      | البرمجة, تصميم واجهات برمجة التطبيقات (API), قواعد البيانات                          |
+| ضمان موثوقية الإنتاج  | تصحيح الأخطاء, قابلية المراقبة, الاستجابة للحوادث            |
+| قيادة الهندسة المعمارية           | تصميم الأنظمة, المفاضلات, التواصل               |
+| بناء تطبيقات الواجهة الأمامية | JavaScript, سلوك المتصفح, React, إمكانية الوصول     |
+| العمل مع مجموعات البيانات الكبيرة    | SQL, نمذجة البيانات, مسارات البيانات, الأداء             |
+| توجيه المهندسين            | أمثلة سلوكية, مراجعة الكود, القيادة الفنية |
+| تأمين التطبيقات         | نمذجة التهديدات, المصادقة, التفويض         |
+| العمل عبر الفرق           | التواصل مع أصحاب المصلحة, حل النزاعات         |</p>
+<p>لا تستعد لـ«مقابلة هندسة برمجيات» عامة. استعد لهذا الدور تحديدًا.</p>
+<h2>ضع خطة تحضير واقعية</h2>
+<p>الخطة الجيدة هي التي تكون مركزة وقابلة للاستمرار.</p>
+<p>محاولة دراسة كل شيء دفعة واحدة عادةً ما تسبب القلق دون تحسين الأداء.</p>
+<h3>إذا كان لديك أسبوع واحد</h3>
+<p>حدد أولوياتك:</p>
 <ol>
-<li>Confirm the interview format.</li>
-<li>Review the job description and company.</li>
-<li>Practice a small set of representative coding problems.</li>
-<li>Prepare behavioral stories.</li>
-<li>Review system-design fundamentals if relevant.</li>
-<li>Test your interview setup.</li>
-<li>Complete one realistic mock interview.</li>
+<li>تأكد من شكل المقابلة.</li>
+<li>راجع الوصف الوظيفي والشركة.</li>
+<li>تدرب على مجموعة صغيرة من مسائل البرمجة النموذجية.</li>
+<li>جهز قصصًا سلوكية.</li>
+<li>راجع أساسيات تصميم الأنظمة إذا كان ذلك مناسبًا.</li>
+<li>اختبر إعدادات المقابلة.</li>
+<li>قم بإجراء محاكاة واقعية واحدة للمقابلة.</li>
 </ol>
-<h3>If you have two to four weeks</h3>
-<p>Use a broader plan:</p>
+<h3>إذا كان لديك من أسبوعين إلى أربعة أسابيع</h3>
+<p>اتبع خطة أوسع نطاقًا:</p>
 <ul>
-<li>Week 1: fundamentals and interview format;</li>
-<li>Week 2: coding patterns and communication;</li>
-<li>Week 3: system design, role-specific topics, and behavioral practice;</li>
-<li>Week 4: mock interviews, weak-area review, and logistics.</li>
+<li>الأسبوع الأول: الأساسيات وشكل المقابلة؛</li>
+<li>الأسبوع الثاني: أنماط البرمجة والتواصل؛</li>
+<li>الأسبوع الثالث: تصميم النظم, والمواضيع الخاصة بالوظيفة, والتدريب على السلوكيات؛</li>
+<li>الأسبوع الرابع: المقابلات التجريبية, ومراجعة نقاط الضعف, والترتيبات اللوجستية.</li>
 </ul>
-<h3>If you are preparing before applications</h3>
-<p>Build long-term habits:</p>
+<h3>إذا كنت تستعد قبل تقديم الطلبات</h3>
+<p>كوّن عادات طويلة الأمد:</p>
 <ul>
-<li>solve a few focused problems each week;</li>
-<li>maintain an accomplishment log;</li>
-<li>practice explaining technical decisions;</li>
-<li>review core system-design concepts;</li>
-<li>keep a project portfolio current;</li>
-<li>conduct occasional mock interviews.</li>
+<li>حل بضع مسائل محددة كل أسبوع؛</li>
+<li>احتفظ بسجل للإنجازات؛</li>
+<li>تدرب على شرح القرارات التقنية؛</li>
+<li>راجع المفاهيم الأساسية لتصميم الأنظمة؛</li>
+<li>حافظ على تحديث محفظة مشاريعك؛</li>
+<li>قم بإجراء مقابلات تجريبية من حين لآخر.</li>
 </ul>
-<p>Consistent preparation is usually more effective than an intense last-minute sprint.</p>
-<h2>Practice coding the way you will be evaluated</h2>
-<p>Solving problems silently is not enough.</p>
-<p>In a live interview, the interviewer needs to understand how you think.</p>
-<p>A strong coding-interview process looks like this:</p>
+<p>عادةً ما يكون الاستعداد المستمر أكثر فعالية من الجهد المكثف في اللحظات الأخيرة.</p>
+<h2>تدرب على البرمجة بالطريقة التي سيتم تقييمك بها</h2>
+<p>لا يكفي حل المسائل بصمت.</p>
+<p>في المقابلة الحية, يحتاج القائم بالمقابلة إلى فهم طريقة تفكيرك.</p>
+<p>تبدو عملية مقابلة البرمجة القوية كما يلي:</p>
 <ol>
-<li>Restate the problem.</li>
-<li>Clarify requirements.</li>
-<li>Identify examples and edge cases.</li>
-<li>Explain a straightforward approach.</li>
-<li>Discuss complexity.</li>
-<li>Choose an implementation.</li>
-<li>Write the code.</li>
-<li>Test it manually.</li>
-<li>Improve it if time allows.</li>
+<li>أعد صياغة المشكلة.</li>
+<li>وضح المتطلبات.</li>
+<li>حدد الأمثلة والحالات الاستثنائية.</li>
+<li>اشرح نهجًا مباشرًا.</li>
+<li>ناقش التعقيد.</li>
+<li>اختر طريقة التنفيذ.</li>
+<li>اكتب الكود.</li>
+<li>اختبره يدويًّا.</li>
+<li>حسّنه إذا سمح الوقت بذلك.</li>
 </ol>
-<h2>Clarify before coding</h2>
-<p>Do not assume the requirements are complete.</p>
-<p>Ask questions such as:</p>
+<h2>التوضيح قبل البرمجة</h2>
+<p>لا تفترض أن المتطلبات كاملة.</p>
+<p>اطرح أسئلة مثل:</p>
 <ul>
-<li>Can the input be empty?</li>
-<li>Are values unique?</li>
-<li>Can values be negative?</li>
-<li>Is the input sorted?</li>
-<li>What should happen when no result exists?</li>
-<li>Are there memory constraints?</li>
-<li>Is the function expected to mutate the input?</li>
-<li>What is the maximum input size?</li>
-<li>Should the solution prioritize speed or readability?</li>
-<li>How should invalid input be handled?</li>
+<li>هل يمكن أن تكون المدخلات فارغة؟</li>
+<li>هل القيم فريدة؟</li>
+<li>هل يمكن أن تكون القيم سالبة؟</li>
+<li>هل المدخلات مرتبة؟</li>
+<li>ما الذي يجب أن يحدث في حالة عدم وجود نتيجة؟</li>
+<li>هل هناك قيود على الذاكرة؟</li>
+<li>هل يُتوقع أن تقوم الدالة بتعديل المدخلات؟</li>
+<li>ما هو الحد الأقصى لحجم المدخلات؟</li>
+<li>هل يجب أن تعطي الحلول الأولوية للسرعة أم لسهولة القراءة؟</li>
+<li>كيف يجب التعامل مع المدخلات غير الصحيحة؟</li>
 </ul>
-<p>Clarifying questions demonstrate engineering judgment.</p>
-<p>In real work, requirements are often incomplete. Interviewers may deliberately leave details ambiguous to see whether you notice.</p>
-<h2>Start with a simple solution</h2>
-<p>You do not need to discover the optimal solution immediately.</p>
-<p>A strong candidate might say:</p>
+<p>تُظهر الأسئلة التوضيحية الحس الهندسي.</p>
+<p>في العمل الفعلي, غالبًا ما تكون المتطلبات غير مكتملة. قد يترك القائمون على المقابلة التفاصيل غامضة عن عمد ليروا ما إذا كنت ستلاحظ ذلك.</p>
+<h2>ابدأ بحل بسيط</h2>
+<p>لست بحاجة إلى اكتشاف الحل الأمثل على الفور.</p>
+<p>قد يقول المرشح القوي:</p>
 <blockquote>
-<p>“A straightforward approach would compare every pair, which is easy to reason about but takes quadratic time. We can improve that by storing previously seen values in a hash map.”</p>
+<p>«تتمثل الطريقة المباشرة في مقارنة كل زوج, وهو أمر يسهل استنتاجه ولكنه يستغرق وقتًا تربيعيًا. يمكننا تحسين ذلك عن طريق تخزين القيم التي سبق رؤيتها في خريطة هاش.»</p>
 </blockquote>
-<p>This shows that you understand both the baseline and the optimization.</p>
-<p>Jumping directly into a complex implementation can make your reasoning harder to follow and increase the chance of mistakes.</p>
-<h2>Think aloud without narrating every keystroke</h2>
-<p>Good communication means explaining important decisions, not speaking continuously.</p>
-<p>Useful commentary includes:</p>
+<p>يُظهر هذا أنك تفهم كلاً من الأساس والتحسين.</p>
+<p>الانتقال مباشرةً إلى تنفيذ معقد قد يجعل من الصعب متابعة منطقك ويزيد من احتمال ارتكاب الأخطاء.</p>
+<h2>فكر بصوت عالٍ دون سرد كل ضغطة مفتاح</h2>
+<p>التواصل الجيد يعني شرح القرارات المهمة, وليس التحدث باستمرار.</p>
+<p>تشمل التعليقات المفيدة ما يلي:</p>
 <ul>
-<li>“I’m choosing a hash map because I need constant-time lookup.”</li>
-<li>“I want to separate parsing from validation so the logic remains testable.”</li>
-<li>“The main edge case is a duplicate value.”</li>
-<li>“This approach uses additional memory to reduce runtime.”</li>
-<li>“I’m going to write the simpler version first and optimize if we have time.”</li>
+<li>«أختار خريطة التجزئة (hash map) لأنني أحتاج إلى بحث في وقت ثابت.»</li>
+<li>«أريد فصل عملية التحليل عن عملية التحقق من الصحة حتى تظل المنطقية قابلة للاختبار.»</li>
+<li>«الحالة الاستثنائية الرئيسية هي وجود قيمة مكررة.»</li>
+<li>«يستخدم هذا النهج ذاكرة إضافية لتقليل وقت التشغيل.»</li>
+<li>«سأكتب النسخة الأبسط أولاً, ثم أقوم بالتحسين إذا كان لدينا الوقت.»</li>
 </ul>
-<p>Avoid narrating low-value details:</p>
+<p>تجنب سرد التفاصيل ذات القيمة المنخفضة:</p>
 <blockquote>
-<p>“Now I’m typing a for loop. Now I’m adding a variable.”</p>
+<p>«الآن أنا أكتب حلقة for. الآن أنا أضيف متغيرًا.»</p>
 </blockquote>
-<p>Explain the reasoning, not the mechanics.</p>
-<h2>Practice common problem patterns</h2>
-<p>You do not need to memorize hundreds of answers. Learn recurring patterns.</p>
-<p>Common coding-interview topics include:</p>
+<p>اشرح المنطق, لا الآليات.</p>
+<h2>تدرب على أنماط المشكلات الشائعة</h2>
+<p>لست بحاجة إلى حفظ مئات الإجابات. تعلم الأنماط المتكررة.</p>
+<p>تشمل الموضوعات الشائعة في مقابلات البرمجة ما يلي:</p>
 <ul>
-<li>arrays and strings;</li>
-<li>hash maps and sets;</li>
-<li>stacks and queues;</li>
-<li>linked lists;</li>
-<li>trees;</li>
-<li>graphs;</li>
-<li>recursion;</li>
-<li>sorting;</li>
-<li>binary search;</li>
-<li>sliding windows;</li>
-<li>two-pointer techniques;</li>
-<li>breadth-first search;</li>
-<li>depth-first search;</li>
-<li>intervals;</li>
-<li>basic dynamic programming;</li>
-<li>simple SQL queries.</li>
+<li>المصفوفات والسلاسل؛</li>
+<li>خرائط التجزئة والمجموعات؛</li>
+<li>المكدسات وقوائم الانتظار؛</li>
+<li>القوائم المرتبطة؛</li>
+<li>الأشجار؛</li>
+<li>الرسوم البيانية؛</li>
+<li>التكرار؛</li>
+<li>الفرز؛</li>
+<li>البحث الثنائي؛</li>
+<li>النوافذ المنزلقة؛</li>
+<li>تقنيات المؤشرين؛</li>
+<li>البحث بالعرض أولاً؛</li>
+<li>البحث بالعمق أولاً؛</li>
+<li>الفترات الزمنية؛</li>
+<li>البرمجة الديناميكية الأساسية؛</li>
+<li>استعلامات SQL البسيطة.</li>
 </ul>
-<p>Not every role requires every topic.</p>
-<p>For many product-engineering interviews, clear reasoning on common data structures matters more than obscure algorithms.</p>
-<h2>Review complexity analysis</h2>
-<p>Be prepared to discuss:</p>
+<p>لا تتطلب كل وظيفة كل موضوع.</p>
+<p>في العديد من مقابلات هندسة المنتجات, يُعد التفكير المنطقي الواضح بشأن هياكل البيانات الشائعة أكثر أهمية من الخوارزميات الغامضة.</p>
+<h2>مراجعة تحليل التعقيد</h2>
+<p>كن مستعدًا لمناقشة:</p>
 <ul>
-<li>time complexity;</li>
-<li>space complexity;</li>
-<li>worst-case behavior;</li>
-<li>trade-offs between readability and performance;</li>
-<li>whether the constraints justify optimization.</li>
+<li>التعقيد الزمني؛</li>
+<li>التعقيد المكاني؛</li>
+<li>السلوك في أسوأ الحالات؛</li>
+<li>المفاضلات بين سهولة القراءة والأداء؛</li>
+<li>ما إذا كانت القيود تبرر التحسين.</li>
 </ul>
-<p>You do not need to force complexity notation into every sentence, but you should understand your solution.</p>
-<p>Example:</p>
+<p>لا داعي لإقحام رموز التعقيد في كل جملة, لكن يجب أن تفهم الحل الذي تقدمه.</p>
+<p>مثال:</p>
 <blockquote>
-<p>“This scans the array once and performs constant-time average lookups, so the time complexity is O(n), with O(n) additional space.”</p>
+<p>«تقوم هذه الطريقة بمسح المصفوفة مرة واحدة وتجري عمليات بحث متوسطة في وقت ثابت, لذا فإن التعقيد الزمني هو O(n), مع مساحة إضافية تبلغ O(n).»</p>
 </blockquote>
-<h2>Test your code deliberately</h2>
-<p>Do not finish writing and immediately say you are done.</p>
-<p>Walk through cases such as:</p>
+<h2>اختبر كودك بعناية</h2>
+<p>لا تنتهي من الكتابة وتعلن على الفور أنك انتهيت.</p>
+<p>تأكد من تغطية حالات مثل:</p>
 <ul>
-<li>normal input;</li>
-<li>empty input;</li>
-<li>one-element input;</li>
-<li>duplicate values;</li>
-<li>minimum and maximum values;</li>
-<li>invalid input;</li>
-<li>no-match behavior;</li>
-<li>already-sorted or reverse-sorted data;</li>
-<li>very large input.</li>
+<li>المدخلات العادية؛</li>
+<li>المدخلات الفارغة؛</li>
+<li>المدخلات المكونة من عنصر واحد؛</li>
+<li>القيم المكررة؛</li>
+<li>القيم الدنيا والقصوى؛</li>
+<li>المدخلات غير الصالحة؛</li>
+<li>سلوك عدم وجود تطابق؛</li>
+<li>البيانات المصنفة مسبقًا أو المصنفة عكسيًا؛</li>
+<li>المدخلات الكبيرة جدًّا.</li>
 </ul>
-<p>A useful process is:</p>
+<p>إحدى العمليات المفيدة هي:</p>
 <ol>
-<li>Pick a small example.</li>
-<li>Track variables line by line.</li>
-<li>Confirm the expected output.</li>
-<li>Check edge cases.</li>
-<li>Revisit potential off-by-one errors.</li>
-<li>Confirm return types and error behavior.</li>
+<li>اختر مثالًا صغيرًا.</li>
+<li>تتبع المتغيرات سطرًا سطرًا.</li>
+<li>تأكد من الناتج المتوقع.</li>
+<li>تحقق من الحالات الحدية.</li>
+<li>أعد النظر في الأخطاء المحتملة من نوع «off-by-one».</li>
+<li>تأكد من أنواع القيم المرجعة وسلوك الأخطاء.</li>
 </ol>
-<p>Testing shows discipline and often catches mistakes before the interviewer does.</p>
-<h2>Recover calmly when stuck</h2>
-<p>Getting stuck is not an automatic failure.</p>
-<p>Interviewers are often more interested in how you respond.</p>
-<p>Try:</p>
+<p>يُظهر الاختبار الانضباط, وغالبًا ما يكتشف الأخطاء قبل أن يكتشفها القائم بالمقابلة.</p>
+<h2>استعد رباطة جأشك بهدوء عند التعثر</h2>
+<p>التعثر لا يعني الفشل تلقائيًا.</p>
+<p>غالبًا ما يهتم القائمون بالمقابلة أكثر بكيفية استجابتك.</p>
+<p>جرب ما يلي:</p>
 <blockquote>
-<p>“I see that my current approach repeats work. I’m going to step back and identify what information I need to retain between iterations.”</p>
+<p>«أرى أن نهجي الحالي يكرر العمل. سأتراجع قليلاً لأحدد المعلومات التي أحتاج إلى الاحتفاظ بها بين التكرارات.»</p>
 </blockquote>
-<p>Or:</p>
+<p>أو:</p>
 <blockquote>
-<p>“I’m considering a recursive approach and an iterative approach. The recursive version is easier to express, but the input depth may make the iterative version safer.”</p>
+<p>«أفكر في اتباع نهج تكراري ونهج متكرر. النسخة التكرارية أسهل في التعبير عنها, لكن عمق المدخلات قد يجعل النسخة المتكررة أكثر أمانًا.»</p>
 </blockquote>
-<p>If you need help:</p>
+<p>إذا كنت بحاجة إلى المساعدة:</p>
 <blockquote>
-<p>“I’m stuck on how to avoid revisiting the same state. Could you give me a small hint about the direction you’d like me to explore?”</p>
+<p>«أنا عالق في كيفية تجنب العودة إلى نفس الحالة. هل يمكنك أن تعطيني تلميحًا بسيطًا حول الاتجاه الذي تود مني استكشافه؟»</p>
 </blockquote>
-<p>Hints are not necessarily penalties. Responding well to a hint can demonstrate collaboration.</p>
-<p>Do not become defensive, go silent for long periods, or pretend to understand something you do not.</p>
-<h2>Use your strongest appropriate language</h2>
-<p>If the company allows multiple languages, use one you can write comfortably under pressure.</p>
-<p>Choose a language in which you can confidently:</p>
+<p>التلميحات ليست بالضرورة عقوبات. الاستجابة الجيدة للتلميح يمكن أن تُظهر روح التعاون.</p>
+<p>لا تتخذ موقفًا دفاعيًا, ولا تصمت لفترات طويلة, ولا تتظاهر بفهم شيء لا تفهمه.</p>
+<h2>استخدم أقوى لغة مناسبة لديك</h2>
+<p>إذا كانت الشركة تسمح باستخدام لغات متعددة, فاستخدم لغة يمكنك الكتابة بها براحة تحت الضغط.</p>
+<p>اختر لغة يمكنك من خلالها بثقة:</p>
 <ul>
-<li>create common data structures;</li>
-<li>manipulate strings and arrays;</li>
-<li>write tests;</li>
-<li>handle errors;</li>
-<li>explain performance;</li>
-<li>debug syntax quickly.</li>
+<li>إنشاء هياكل البيانات الشائعة؛</li>
+<li>معالجة السلاسل والمصفوفات؛</li>
+<li>كتابة الاختبارات؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>شرح الأداء؛</li>
+<li>تصحيح أخطاء بناء الجملة بسرعة.</li>
 </ul>
-<p>Do not choose a language merely because it seems more impressive.</p>
-<p>If the role requires a particular language, review its common interview-relevant features:</p>
+<p>لا تختر لغة ما لمجرد أنها تبدو أكثر إثارة للإعجاب.</p>
+<p>إذا كانت الوظيفة تتطلب لغة معينة, فراجع ميزاتها الشائعة ذات الصلة بالمقابلة:</p>
 <ul>
-<li>collection types;</li>
-<li>equality behavior;</li>
-<li>sorting APIs;</li>
-<li>string handling;</li>
-<li>null handling;</li>
-<li>error handling;</li>
-<li>concurrency basics;</li>
-<li>testing conventions.</li>
+<li>أنواع المجموعات؛</li>
+<li>سلوك المساواة؛</li>
+<li>واجهات برمجة التطبيقات (API) للفرز؛</li>
+<li>معالجة السلاسل النصية؛</li>
+<li>معالجة القيم الفارغة (null)؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>أساسيات التزامن؛</li>
+<li>قواعد الاختبار.</li>
 </ul>
-<h2>Prepare for practical coding exercises</h2>
-<p>Not every technical interview uses algorithm puzzles.</p>
-<p>You may be asked to:</p>
+<h2>استعد لتمارين البرمجة العملية</h2>
+<p>لا تستخدم كل المقابلات الفنية ألغاز الخوارزميات.</p>
+<p>قد يُطلب منك:</p>
 <ul>
-<li>implement an API endpoint;</li>
-<li>fix a broken function;</li>
-<li>review code;</li>
-<li>add a feature to an existing project;</li>
-<li>write tests;</li>
-<li>model a database table;</li>
-<li>debug a performance problem;</li>
-<li>refactor poorly structured code;</li>
-<li>consume an external API;</li>
-<li>explain an unfamiliar codebase.</li>
+<li>تنفيذ نقطة نهاية واجهة برمجة تطبيقات (API)؛</li>
+<li>إصلاح دالة معطلة؛</li>
+<li>مراجعة الكود؛</li>
+<li>إضافة ميزة إلى مشروع موجود؛</li>
+<li>كتابة الاختبارات؛</li>
+<li>نمذجة جدول قاعدة بيانات؛</li>
+<li>تصحيح مشكلة في الأداء؛</li>
+<li>إعادة هيكلة كود سيئ التنظيم؛</li>
+<li>استخدام واجهة برمجة تطبيقات خارجية؛</li>
+<li>شرح قاعدة كود غير مألوفة.</li>
 </ul>
-<p>For practical exercises, reviewers may evaluate:</p>
+<p>بالنسبة للتمارين العملية, قد يقيّم المراجعون ما يلي:</p>
 <ul>
-<li>code organization;</li>
-<li>naming;</li>
-<li>tests;</li>
-<li>error handling;</li>
-<li>maintainability;</li>
-<li>security;</li>
-<li>documentation;</li>
-<li>ability to work within existing patterns.</li>
+<li>تنظيم الكود؛</li>
+<li>التسمية؛</li>
+<li>الاختبارات؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>قابلية الصيانة؛</li>
+<li>الأمان؛</li>
+<li>التوثيق؛</li>
+<li>القدرة على العمل ضمن الأنماط الموجودة.</li>
 </ul>
-<p>Practice reading and improving code, not only writing solutions from scratch.</p>
-<h2>Prepare for debugging interviews</h2>
-<p>A debugging interview may present:</p>
+<p>تدرب على قراءة الكود وتحسينه, لا تكتفِ بكتابة الحلول من الصفر.</p>
+<h2>الاستعداد لمقابلات تصحيح الأخطاء</h2>
+<p>قد تتضمن مقابلة تصحيح الأخطاء ما يلي:</p>
 <ul>
-<li>failing tests;</li>
-<li>incorrect output;</li>
-<li>slow queries;</li>
-<li>memory growth;</li>
-<li>race conditions;</li>
-<li>production logs;</li>
-<li>malformed data;</li>
-<li>broken frontend state;</li>
-<li>deployment failures.</li>
+<li>فشل الاختبارات؛</li>
+<li>مخرجات غير صحيحة؛</li>
+<li>بطء الاستعلامات؛</li>
+<li>زيادة استهلاك الذاكرة؛</li>
+<li>حالات التنافس؛</li>
+<li>سجلات الإنتاج؛</li>
+<li>بيانات مشوهة؛</li>
+<li>حالة الواجهة الأمامية المعطلة؛</li>
+<li>حالات فشل النشر.</li>
 </ul>
-<p>Use a structured approach:</p>
+<p>استخدم نهجًا منظمًا:</p>
 <ol>
-<li>Confirm the expected behavior.</li>
-<li>Reproduce the problem.</li>
-<li>Narrow the failure area.</li>
-<li>Form a hypothesis.</li>
-<li>Gather evidence.</li>
-<li>Test the smallest possible change.</li>
-<li>Verify the fix.</li>
-<li>Consider regression coverage.</li>
+<li>تأكد من السلوك المتوقع.</li>
+<li>قم بإعادة إنتاج المشكلة.</li>
+<li>حدد منطقة الفشل بدقة.</li>
+<li>ضع فرضية.</li>
+<li>اجمع الأدلة.</li>
+<li>اختبر أصغر تغيير ممكن.</li>
+<li>تحقق من صحة الإصلاح.</li>
+<li>ضع في اعتبارك تغطية اختبار التراجع.</li>
 </ol>
-<p>Explain what evidence would confirm or reject your theory.</p>
-<p>Avoid changing several things at once. Interviewers want to see disciplined investigation.</p>
-<h2>Prepare for code-review exercises</h2>
-<p>You may be shown a pull request or code sample and asked for feedback.</p>
-<p>Review it across several dimensions:</p>
+<p>اشرح ما هي الأدلة التي من شأنها تأكيد أو دحض نظريتك.</p>
+<p>تجنب تغيير عدة عناصر في آن واحد. يرغب القائمون على المقابلة في رؤية تحقيق منهجي.</p>
+<h2>الاستعداد لتمارين مراجعة الكود</h2>
+<p>قد يُعرض عليك طلب سحب (pull request) أو عينة من الكود ويُطلب منك تقديم ملاحظات.</p>
+<p>قم بمراجعتها من عدة جوانب:</p>
 <ul>
-<li>correctness;</li>
-<li>readability;</li>
-<li>naming;</li>
-<li>architecture;</li>
-<li>error handling;</li>
-<li>security;</li>
-<li>performance;</li>
-<li>tests;</li>
-<li>maintainability;</li>
-<li>accessibility;</li>
-<li>observability.</li>
+<li>الصحة؛</li>
+<li>سهولة القراءة؛</li>
+<li>التسمية؛</li>
+<li>البنية؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>الأمان؛</li>
+<li>الأداء؛</li>
+<li>الاختبارات؛</li>
+<li>قابلية الصيانة؛</li>
+<li>سهولة الوصول؛</li>
+<li>قابلية المراقبة.</li>
 </ul>
-<p>Prioritize meaningful issues over personal style preferences.</p>
-<p>Instead of:</p>
+<p>أعطِ الأولوية للمشكلات المهمة على تفضيلات الأسلوب الشخصي.</p>
+<p>بدلاً من:</p>
 <blockquote>
-<p>“I don’t like this variable name.”</p>
+<p>«لا يعجبني اسم هذا المتغير.»</p>
 </blockquote>
-<p>say:</p>
+<p>قل:</p>
 <blockquote>
-<p>“The name <code>data</code> makes it difficult to understand whether this represents the request payload, validated input, or stored record. A more specific name would reduce ambiguity.”</p>
+<p>«الاسم <code>data</code> يجعل من الصعب فهم ما إذا كان هذا يمثل حمولة الطلب, أو المدخلات التي تم التحقق من صحتها, أو السجل المخزن. اسم أكثر تحديدًا من شأنه أن يقلل من الغموض.»</p>
 </blockquote>
-<p>Strong code review is respectful, specific, and tied to impact.</p>
-<h2>Prepare for system-design interviews</h2>
-<p>System design is common for mid-level, senior, staff, and leadership roles.</p>
-<p>The goal is usually not to produce a perfect architecture. Interviewers want to see how you handle ambiguity, scale, trade-offs, and communication.</p>
-<p>A reliable structure is:</p>
+<p>المراجعة القوية للكود تتسم بالاحترام والتحديد والارتباط بالتأثير.</p>
+<h2>الاستعداد لمقابلات تصميم الأنظمة</h2>
+<p>يُعد تصميم الأنظمة أمرًا شائعًا في الوظائف من المستوى المتوسط والكبير والموظفين والقيادة.</p>
+<p>لا يتمثل الهدف عادةً في إنتاج بنية مثالية. فالمعاينون يرغبون في معرفة كيفية تعاملك مع الغموض, وحجم النظام, والمفاضلات, والتواصل.</p>
+<p>وتتمثل البنية الموثوقة في:</p>
 <ol>
-<li>Clarify requirements.</li>
-<li>Identify users and core use cases.</li>
-<li>Estimate scale.</li>
-<li>Define the API or interfaces.</li>
-<li>Model the data.</li>
-<li>Sketch major components.</li>
-<li>Trace important flows.</li>
-<li>Identify bottlenecks.</li>
-<li>Discuss reliability and security.</li>
-<li>Explain trade-offs.</li>
-<li>Revisit requirements.</li>
+<li>توضيح المتطلبات.</li>
+<li>تحديد المستخدمين وحالات الاستخدام الأساسية.</li>
+<li>تقدير حجم النظام.</li>
+<li>تحديد واجهة برمجة التطبيقات (API) أو الواجهات.</li>
+<li>نمذجة البيانات.</li>
+<li>رسم مخطط للمكونات الرئيسية.</li>
+<li>تتبع التدفقات المهمة.</li>
+<li>تحديد نقاط الاختناق.</li>
+<li>مناقشة الموثوقية والأمان.</li>
+<li>شرح المفاضلات.</li>
+<li>إعادة النظر في المتطلبات.</li>
 </ol>
-<h2>Clarify functional requirements</h2>
-<p>Ask what the system must do.</p>
-<p>For a URL shortener:</p>
+<h2>توضيح المتطلبات الوظيفية</h2>
+<p>اسأل عما يجب أن يقوم به النظام.</p>
+<p>بالنسبة لمُختصر عناوين URL:</p>
 <ul>
-<li>Can users create custom aliases?</li>
-<li>Do links expire?</li>
-<li>Is authentication required?</li>
-<li>Are analytics needed?</li>
-<li>Can links be disabled?</li>
-<li>Is abuse prevention required?</li>
+<li>هل يمكن للمستخدمين إنشاء أسماء مستعارة مخصصة؟</li>
+<li>هل تنتهي صلاحية الروابط؟</li>
+<li>هل المصادقة مطلوبة؟</li>
+<li>هل هناك حاجة إلى تحليلات؟</li>
+<li>هل يمكن تعطيل الروابط؟</li>
+<li>هل منع إساءة الاستخدام مطلوب؟</li>
 </ul>
-<p>Do not design features that were never requested before confirming priorities.</p>
-<h2>Clarify non-functional requirements</h2>
-<p>Ask about:</p>
+<p>لا تصمم ميزات لم يُطلب تنفيذها من قبل قبل تأكيد الأولويات.</p>
+<h2>توضيح المتطلبات غير الوظيفية</h2>
+<p>اسأل عن:</p>
 <ul>
-<li>expected traffic;</li>
-<li>read-to-write ratio;</li>
-<li>latency targets;</li>
-<li>availability;</li>
-<li>consistency;</li>
-<li>geographic distribution;</li>
-<li>retention period;</li>
-<li>security;</li>
-<li>privacy;</li>
-<li>compliance;</li>
-<li>cost constraints.</li>
+<li>حجم حركة المرور المتوقع؛</li>
+<li>نسبة القراءة إلى الكتابة؛</li>
+<li>أهداف زمن الاستجابة؛</li>
+<li>التوافر؛</li>
+<li>الاتساق؛</li>
+<li>التوزيع الجغرافي؛</li>
+<li>فترة الاحتفاظ؛</li>
+<li>الأمان؛</li>
+<li>الخصوصية؛</li>
+<li>الامتثال؛</li>
+<li>قيود التكلفة.</li>
 </ul>
-<p>A system designed for 1,000 internal users differs from one serving hundreds of millions of public requests.</p>
-<h2>Estimate scale without getting trapped in arithmetic</h2>
-<p>Rough estimates help justify architectural decisions.</p>
-<p>You may estimate:</p>
+<p>يختلف النظام المصمم لـ 1,000 مستخدم داخلي عن النظام الذي يخدم مئات الملايين من الطلبات العامة.</p>
+<h2>تقدير الحجم دون الوقوع في فخ الحسابات</h2>
+<p>تساعد التقديرات التقريبية في تبرير القرارات المعمارية.</p>
+<p>يمكنك تقدير:</p>
 <ul>
-<li>requests per second;</li>
-<li>data volume;</li>
-<li>storage growth;</li>
-<li>bandwidth;</li>
-<li>cache size;</li>
-<li>peak traffic.</li>
+<li>عدد الطلبات في الثانية؛</li>
+<li>حجم البيانات؛</li>
+<li>نمو سعة التخزين؛</li>
+<li>عرض النطاق الترددي؛</li>
+<li>حجم ذاكرة التخزين المؤقت؛</li>
+<li>ذروة حركة المرور.</li>
 </ul>
-<p>The goal is not perfect arithmetic. The goal is enough context to choose sensible components.</p>
-<p>For example:</p>
+<p>الهدف ليس الحسابات الدقيقة. الهدف هو توفير سياق كافٍ لاختيار المكونات المناسبة.</p>
+<p>على سبيل المثال:</p>
 <blockquote>
-<p>“If we expect 10 million redirects per day, that averages around 115 requests per second, but I would design for a much higher peak, perhaps ten times the average.”</p>
+<p>«إذا توقعنا 10 ملايين عملية إعادة توجيه يوميًا, فهذا يعني متوسطًا يبلغ حوالي 115 طلبًا في الثانية, لكنني سأصمم النظام بحيث يتحمل ذروة أعلى بكثير, ربما عشرة أضعاف المتوسط.»</p>
 </blockquote>
-<p>State assumptions clearly.</p>
-<h2>Explain trade-offs</h2>
-<p>System design is largely about trade-offs.</p>
-<p>Examples include:</p>
+<p>اذكر الافتراضات بوضوح.</p>
+<h2>شرح المفاضلات</h2>
+<p>يعتمد تصميم النظام إلى حد كبير على المفاضلات.</p>
+<p>ومن الأمثلة على ذلك:</p>
 <ul>
-<li>SQL versus NoSQL;</li>
-<li>synchronous versus asynchronous processing;</li>
-<li>strong versus eventual consistency;</li>
-<li>normalization versus denormalization;</li>
-<li>monolith versus services;</li>
-<li>server-side rendering versus client-side rendering;</li>
-<li>caching speed versus stale data;</li>
-<li>availability versus strict consistency;</li>
-<li>operational simplicity versus independent scaling.</li>
+<li>SQL مقابل NoSQL؛</li>
+<li>المعالجة المتزامنة مقابل المعالجة غير المتزامنة؛</li>
+<li>الاتساق القوي مقابل الاتساق النهائي؛</li>
+<li>التطبيع مقابل إزالة التطبيع؛</li>
+<li>النظام المتجانس مقابل الخدمات؛</li>
+<li>العرض من جانب الخادم مقابل العرض من جانب العميل؛</li>
+<li>سرعة التخزين المؤقت مقابل البيانات القديمة؛</li>
+<li>التوافر مقابل الاتساق الصارم؛</li>
+<li>بساطة التشغيل مقابل التوسع المستقل.</li>
 </ul>
-<p>Avoid presenting technologies as universally correct.</p>
-<p>Weak:</p>
+<p>تجنب تقديم التقنيات على أنها صحيحة بشكل مطلق.</p>
+<p>صياغة ضعيفة:</p>
 <blockquote>
-<p>“We should use Kafka because it scales.”</p>
+<p>«يجب أن نستخدم Kafka لأنه قابل للتوسع.»</p>
 </blockquote>
-<p>Stronger:</p>
+<p>صياغة أقوى:</p>
 <blockquote>
-<p>“A durable event stream may help decouple ingestion from downstream processing, but it adds operational complexity. For the initial traffic level, a managed queue may be sufficient.”</p>
+<p>«قد يساعد تدفق الأحداث الدائم في فصل عملية الاستيعاب عن المعالجة اللاحقة, لكنه يضيف تعقيدًا تشغيليًّا. بالنسبة لمستوى حركة المرور الأولي, قد تكون قائمة الانتظار المُدارة كافية.»</p>
 </blockquote>
-<h2>Cover failure modes</h2>
-<p>A strong design includes what happens when things go wrong.</p>
-<p>Discuss:</p>
+<h2>تغطية أنماط الفشل</h2>
+<p>يتضمن التصميم القوي ما يحدث عندما تسوء الأمور.</p>
+<p>ناقش:</p>
 <ul>
-<li>database failure;</li>
-<li>cache failure;</li>
-<li>duplicate messages;</li>
-<li>retries;</li>
-<li>partial writes;</li>
-<li>regional outages;</li>
-<li>dependency timeouts;</li>
-<li>malformed input;</li>
-<li>overload;</li>
-<li>deployment errors.</li>
+<li>فشل قاعدة البيانات؛</li>
+<li>فشل التخزين المؤقت؛</li>
+<li>الرسائل المكررة؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>عمليات الكتابة الجزئية؛</li>
+<li>الانقطاعات الإقليمية؛</li>
+<li>انتهاء مهلة التبعية؛</li>
+<li>المدخلات غير الصحيحة؛</li>
+<li>الحمل الزائد؛</li>
+<li>أخطاء النشر.</li>
 </ul>
-<p>Useful concepts include:</p>
+<p>تشمل المفاهيم المفيدة ما يلي:</p>
 <ul>
-<li>idempotency;</li>
-<li>backoff;</li>
-<li>dead-letter queues;</li>
-<li>circuit breakers;</li>
-<li>replication;</li>
-<li>health checks;</li>
-<li>graceful degradation;</li>
-<li>rate limiting;</li>
-<li>observability.</li>
+<li>الإيدمبوتنس؛</li>
+<li>التراجع؛</li>
+<li>قوائم الانتظار للرسائل الميتة؛</li>
+<li>قواطع الدائرة؛</li>
+<li>النسخ المتماثل؛</li>
+<li>فحوصات الحالة؛</li>
+<li>التدهور التدريجي؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>قابلية المراقبة.</li>
 </ul>
-<h2>Include security and privacy</h2>
-<p>Do not treat security as an afterthought.</p>
-<p>Depending on the system, mention:</p>
+<h2>تضمين الأمان والخصوصية</h2>
+<p>لا تعامل الأمان على أنه أمر ثانوي.</p>
+<p>اعتمادًا على النظام, يجب ذكر ما يلي:</p>
 <ul>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>encryption;</li>
-<li>secret management;</li>
-<li>input validation;</li>
-<li>audit logging;</li>
-<li>least privilege;</li>
-<li>rate limiting;</li>
-<li>abuse prevention;</li>
-<li>data retention;</li>
-<li>privacy boundaries;</li>
-<li>secure file handling;</li>
-<li>tenant isolation.</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>التشفير؛</li>
+<li>إدارة الأسرار؛</li>
+<li>التحقق من صحة المدخلات؛</li>
+<li>تسجيل عمليات التدقيق؛</li>
+<li>مبدأ «أقل امتياز ممكن»؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>منع إساءة الاستخدام؛</li>
+<li>الاحتفاظ بالبيانات؛</li>
+<li>حدود الخصوصية؛</li>
+<li>المعالجة الآمنة للملفات؛</li>
+<li>عزل المستأجرين.</li>
 </ul>
-<p>A system that works functionally but exposes sensitive data is not a strong design.</p>
-<h2>Prepare for frontend system design</h2>
-<p>Frontend interviews may include:</p>
+<p>لا يُعد النظام الذي يعمل وظيفيًّا ولكنه يعرض البيانات الحساسة تصميمًا قويًّا.</p>
+<h2>الاستعداد لتصميم نظام الواجهة الأمامية</h2>
+<p>قد تتضمن المقابلات المتعلقة بالواجهة الأمامية ما يلي:</p>
 <ul>
-<li>component architecture;</li>
-<li>state management;</li>
-<li>routing;</li>
-<li>data fetching;</li>
-<li>caching;</li>
-<li>forms;</li>
-<li>accessibility;</li>
-<li>responsiveness;</li>
-<li>performance;</li>
-<li>design systems;</li>
-<li>testing;</li>
-<li>error states.</li>
+<li>بنية المكونات؛</li>
+<li>إدارة الحالة؛</li>
+<li>التوجيه؛</li>
+<li>استرجاع البيانات؛</li>
+<li>التخزين المؤقت؛</li>
+<li>النماذج؛</li>
+<li>إمكانية الوصول؛</li>
+<li>سرعة الاستجابة؛</li>
+<li>الأداء؛</li>
+<li>أنظمة التصميم؛</li>
+<li>الاختبار؛</li>
+<li>حالات الخطأ.</li>
 </ul>
-<p>Be ready to discuss:</p>
+<p>كن مستعدًا لمناقشة:</p>
 <ul>
-<li>server versus client rendering;</li>
-<li>loading and empty states;</li>
-<li>optimistic updates;</li>
-<li>pagination;</li>
-<li>offline behavior;</li>
-<li>accessibility semantics;</li>
-<li>browser caching;</li>
-<li>bundle size;</li>
-<li>observability;</li>
-<li>cross-browser behavior.</li>
+<li>العرض على الخادم مقابل العرض على العميل؛</li>
+<li>حالات التحميل والفراغ؛</li>
+<li>التحديثات المتفائلة؛</li>
+<li>ترقيم الصفحات؛</li>
+<li>السلوك في وضع عدم الاتصال بالإنترنت؛</li>
+<li>دلالات إمكانية الوصول؛</li>
+<li>التخزين المؤقت في المتصفح؛</li>
+<li>حجم الحزمة؛</li>
+<li>قابلية المراقبة؛</li>
+<li>السلوك عبر المتصفحات المختلفة.</li>
 </ul>
-<h2>Prepare for database and SQL questions</h2>
-<p>Backend and data roles may include:</p>
+<h2>الاستعداد لأسئلة قاعدة البيانات ولسان SQL</h2>
+<p>قد تشمل وظائف الخلفية والبيانات ما يلي:</p>
 <ul>
-<li>schema design;</li>
-<li>joins;</li>
-<li>indexes;</li>
-<li>transactions;</li>
-<li>isolation;</li>
-<li>query performance;</li>
-<li>normalization;</li>
-<li>migrations;</li>
-<li>pagination;</li>
-<li>locking.</li>
+<li>تصميم المخطط؛</li>
+<li>عمليات الربط؛</li>
+<li>الفهارس؛</li>
+<li>المعاملات؛</li>
+<li>العزل؛</li>
+<li>أداء الاستعلامات؛</li>
+<li>التطبيع؛</li>
+<li>عمليات الترحيل؛</li>
+<li>ترقيم الصفحات؛</li>
+<li>القفل.</li>
 </ul>
-<p>Practice explaining why an index helps, what it costs, and how you would investigate a slow query.</p>
-<p>Example:</p>
+<p>تدرب على شرح فائدة الفهرس, وتكلفته, وكيف ستقوم بتحليل استعلام بطيء.</p>
+<p>مثال:</p>
 <blockquote>
-<p>“I would inspect the execution plan first rather than assuming an index is missing. The issue could also be poor selectivity, a function on the indexed column, stale statistics, or an inefficient join order.”</p>
+<p>«سأقوم أولاً بفحص خطة التنفيذ بدلاً من افتراض أن هناك فهرسًا مفقودًا. قد تكون المشكلة أيضًا بسبب ضعف الانتقائية, أو وجود دالة على العمود المفهرس, أو إحصائيات قديمة, أو ترتيب ربط غير فعال.»</p>
 </blockquote>
-<h2>Prepare for API-design questions</h2>
-<p>You may be asked to design an API for a feature.</p>
-<p>Consider:</p>
+<h2>الاستعداد لأسئلة تصميم واجهة برمجة التطبيقات (API)</h2>
+<p>قد يُطلب منك تصميم واجهة برمجة تطبيقات (API) لإحدى الميزات.</p>
+<p>ضع في اعتبارك:</p>
 <ul>
-<li>resources;</li>
-<li>endpoints;</li>
-<li>methods;</li>
-<li>request validation;</li>
-<li>response structure;</li>
-<li>pagination;</li>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>errors;</li>
-<li>idempotency;</li>
-<li>versioning;</li>
-<li>rate limits;</li>
-<li>documentation.</li>
+<li>الموارد؛</li>
+<li>نقاط النهاية؛</li>
+<li>الطرق؛</li>
+<li>التحقق من صحة الطلبات؛</li>
+<li>بنية الاستجابة؛</li>
+<li>ترقيم الصفحات؛</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>الأخطاء؛</li>
+<li>التماثلية؛</li>
+<li>إصدارات؛</li>
+<li>حدود المعدل؛</li>
+<li>التوثيق.</li>
 </ul>
-<p>Avoid focusing only on route names. Explain how the API behaves under invalid, repeated, unauthorized, or partial requests.</p>
-<h2>Prepare for take-home assignments</h2>
-<p>Take-home projects are often judged on more than whether the application runs.</p>
-<p>Reviewers may evaluate:</p>
+<p>تجنب التركيز على أسماء المسارات فقط. اشرح كيف تتصرف واجهة برمجة التطبيقات (API) في حالة الطلبات غير الصالحة أو المتكررة أو غير المصرح بها أو الجزئية.</p>
+<h2>الاستعداد للواجبات المنزلية</h2>
+<p>غالبًا ما يتم تقييم المشاريع المنزلية بناءً على عوامل أخرى غير مجرد تشغيل التطبيق.</p>
+<p>قد يقيّم المراجعون:</p>
 <ul>
-<li>whether you followed the instructions;</li>
-<li>code structure;</li>
-<li>tests;</li>
-<li>documentation;</li>
-<li>usability;</li>
-<li>accessibility;</li>
-<li>error handling;</li>
-<li>security;</li>
-<li>reasonable scope;</li>
-<li>commit history;</li>
-<li>trade-off explanations.</li>
+<li>ما إذا كنت قد اتبعت التعليمات؛</li>
+<li>بنية الكود؛</li>
+<li>الاختبارات؛</li>
+<li>التوثيق؛</li>
+<li>سهولة الاستخدام؛</li>
+<li>إمكانية الوصول؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>الأمان؛</li>
+<li>النطاق المعقول؛</li>
+<li>سجل عمليات الالتزام؛</li>
+<li>تفسيرات المفاضلات.</li>
 </ul>
-<p>Before starting, clarify:</p>
+<p>قبل البدء, حدد ما يلي:</p>
 <ul>
-<li>expected time investment;</li>
-<li>deadline;</li>
-<li>required technologies;</li>
-<li>whether external libraries are allowed;</li>
-<li>what should be submitted;</li>
-<li>how the work will be evaluated;</li>
-<li>whether the assignment is compensated;</li>
-<li>whether production deployment is expected.</li>
+<li>الوقت المتوقع استثماره؛</li>
+<li>الموعد النهائي؛</li>
+<li>التقنيات المطلوبة؛</li>
+<li>ما إذا كان استخدام المكتبات الخارجية مسموحًا به؛</li>
+<li>ما يجب تقديمه؛</li>
+<li>كيف سيتم تقييم العمل؛</li>
+<li>ما إذا كان العمل المنزلي مقابل أجر؛</li>
+<li>ما إذا كان من المتوقع نشره في بيئة الإنتاج.</li>
 </ul>
-<h2>Time-box take-home work</h2>
-<p>Do not spend an unlimited amount of time trying to impress the company.</p>
-<p>If they suggest four hours, aim for that scope.</p>
-<p>Document what you would do with more time:</p>
+<h2>تحديد مدة زمنية محددة للعمل المنزلي</h2>
+<p>لا تقضي وقتًا غير محدود في محاولة إثارة إعجاب الشركة.</p>
+<p>إذا اقترحوا أربع ساعات, فاستهدف هذا النطاق.</p>
+<p>وثق ما كنت ستفعله لو كان لديك المزيد من الوقت:</p>
 <ul>
-<li>additional tests;</li>
-<li>stronger validation;</li>
-<li>production deployment;</li>
-<li>performance optimization;</li>
-<li>accessibility review;</li>
-<li>monitoring;</li>
-<li>security hardening.</li>
+<li>اختبارات إضافية؛</li>
+<li>تحقق أقوى من صحة البيانات؛</li>
+<li>النشر في بيئة الإنتاج؛</li>
+<li>تحسين الأداء؛</li>
+<li>مراجعة إمكانية الوصول؛</li>
+<li>المراقبة؛</li>
+<li>تعزيز الأمان.</li>
 </ul>
-<p>A thoughtful README can be more valuable than several unfinished features.</p>
-<h2>Write a strong take-home README</h2>
-<p>Include:</p>
+<p>يمكن أن تكون ملف README المدروس أكثر قيمة من عدة ميزات غير مكتملة.</p>
+<h2>اكتب ملف README قويًا للمهمة المنزلية</h2>
+<p>تضمن ما يلي:</p>
 <ul>
-<li>setup instructions;</li>
-<li>architecture overview;</li>
-<li>assumptions;</li>
-<li>major decisions;</li>
-<li>trade-offs;</li>
-<li>tests;</li>
-<li>known limitations;</li>
-<li>time spent;</li>
-<li>next steps.</li>
+<li>تعليمات الإعداد؛</li>
+<li>نظرة عامة على البنية؛</li>
+<li>الافتراضات؛</li>
+<li>القرارات الرئيسية؛</li>
+<li>المفاضلات؛</li>
+<li>الاختبارات؛</li>
+<li>القيود المعروفة؛</li>
+<li>الوقت المستغرق؛</li>
+<li>الخطوات التالية.</li>
 </ul>
-<p>This gives reviewers context and demonstrates communication.</p>
-<h2>Avoid using AI carelessly in take-home work</h2>
-<p>Follow the company’s rules.</p>
-<p>If AI tools are allowed, you should still understand and be able to explain every line you submit.</p>
-<p>Do not submit code you cannot defend.</p>
-<p>Expect follow-up questions such as:</p>
+<p>يُوفِّر هذا للمراجعين السياق ويُظهر مدى التواصل.</p>
+<h2>تجنب استخدام الذكاء الاصطناعي بشكل متهور في المهام المنزلية</h2>
+<p>اتبع قواعد الشركة.</p>
+<p>حتى إذا كان استخدام أدوات الذكاء الاصطناعي مسموحًا به, فيجب أن تفهم كل سطر ترسله وتكون قادرًا على شرحه.</p>
+<p>لا ترسل كودًا لا يمكنك الدفاع عنه.</p>
+<p>توقع أسئلة متابعة مثل:</p>
 <ul>
-<li>Why did you choose this architecture?</li>
-<li>What alternatives did you consider?</li>
-<li>Where are the security risks?</li>
-<li>How would this scale?</li>
-<li>What would you test next?</li>
-<li>What did you personally write?</li>
+<li>لماذا اخترت هذه البنية؟</li>
+<li>ما هي البدائل التي فكرت فيها؟</li>
+<li>أين تكمن المخاطر الأمنية؟</li>
+<li>كيف يمكن توسيع نطاق هذا العمل؟</li>
+<li>ما الذي ستختبره بعد ذلك؟</li>
+<li>ما الذي كتبته بنفسك؟</li>
 </ul>
-<h2>Prepare behavioral stories</h2>
-<p>Technical interviews often include questions about how you work.</p>
-<p>Prepare stories about:</p>
+<h2>قم بإعداد قصص سلوكية</h2>
+<p>غالبًا ما تتضمن المقابلات الفنية أسئلة حول طريقة عملك.</p>
+<p>قم بإعداد قصص حول:</p>
 <ul>
-<li>a difficult bug;</li>
-<li>a failed project;</li>
-<li>a disagreement;</li>
-<li>an incident;</li>
-<li>an ambiguous requirement;</li>
-<li>a deadline;</li>
-<li>a project you led;</li>
-<li>a mistake;</li>
-<li>mentoring someone;</li>
-<li>receiving difficult feedback;</li>
-<li>influencing without authority;</li>
-<li>improving a process.</li>
+<li>خطأ برمجي صعب؛</li>
+<li>مشروع فاشل؛</li>
+<li>خلاف؛</li>
+<li>حادثة؛</li>
+<li>متطلب غامض؛</li>
+<li>موعد نهائي؛</li>
+<li>مشروع قمت بقيادته؛</li>
+<li>خطأ؛</li>
+<li>توجيه شخص ما؛</li>
+<li>تلقي ملاحظات صعبة؛</li>
+<li>التأثير دون سلطة؛</li>
+<li>تحسين عملية ما.</li>
 </ul>
-<p>Use a simple structure:</p>
+<p>استخدم بنية بسيطة:</p>
 <ul>
-<li><strong>Situation:</strong> What was happening?</li>
-<li><strong>Task:</strong> What responsibility did you have?</li>
-<li><strong>Action:</strong> What did you do?</li>
-<li><strong>Result:</strong> What changed?</li>
-<li><strong>Reflection:</strong> What did you learn?</li>
+<li><strong>الموقف:</strong> ماذا كان يحدث؟</li>
+<li><strong>المهمة:</strong> ماذا كانت مسؤوليتك؟</li>
+<li><strong>الإجراء:</strong> ماذا فعلت؟</li>
+<li><strong>النتيجة:</strong> ما الذي تغير؟</li>
+<li><strong>التفكير:</strong> ماذا تعلمت؟</li>
 </ul>
-<p>The reflection is especially valuable for senior candidates.</p>
-<h2>Build a story bank</h2>
-<p>Create a private document with six to ten stories.</p>
-<p>For each story, record:</p>
+<p>يُعد «التفكير» ذا قيمة خاصة بالنسبة للمرشحين ذوي الخبرة.</p>
+<h2>أنشئ بنكًا للقصص</h2>
+<p>أنشئ مستندًا خاصًا يحتوي على ست إلى عشر قصص.</p>
+<p>بالنسبة لكل قصة, سجل ما يلي:</p>
 <ul>
-<li>the context;</li>
-<li>your role;</li>
-<li>the challenge;</li>
-<li>your actions;</li>
-<li>technical details;</li>
-<li>collaboration details;</li>
-<li>measurable results;</li>
-<li>what you learned.</li>
+<li>السياق؛</li>
+<li>دورك؛</li>
+<li>التحدي؛</li>
+<li>الإجراءات التي اتخذتها؛</li>
+<li>التفاصيل الفنية؛</li>
+<li>تفاصيل التعاون؛</li>
+<li>النتائج القابلة للقياس؛</li>
+<li>ما تعلمته.</li>
 </ul>
-<p>The same story may answer several questions when framed differently.</p>
-<p>For example, a migration project might demonstrate:</p>
+<p>قد تجيب القصة نفسها على عدة أسئلة عندما تُصاغ بطريقة مختلفة.</p>
+<p>على سبيل المثال, قد يُظهر مشروع الترحيل ما يلي:</p>
 <ul>
-<li>technical leadership;</li>
-<li>conflict resolution;</li>
-<li>planning;</li>
-<li>risk management;</li>
-<li>communication;</li>
-<li>delivery under uncertainty.</li>
+<li>القيادة الفنية؛</li>
+<li>حل النزاعات؛</li>
+<li>التخطيط؛</li>
+<li>إدارة المخاطر؛</li>
+<li>التواصل؛</li>
+<li>الإنجاز في ظل حالة من عدم اليقين.</li>
 </ul>
-<h2>Be honest about failure</h2>
-<p>A good failure story should not be a disguised success.</p>
-<p>Weak:</p>
+<h2>كن صادقًا بشأن الفشل</h2>
+<p>لا ينبغي أن تكون قصة الفشل الجيدة نجاحًا مقنعًا.</p>
+<p>أداء ضعيف:</p>
 <blockquote>
-<p>“My weakness is that I care too much about quality.”</p>
+<p>«نقطة ضعفي هي أنني أهتم كثيرًا بالجودة.»</p>
 </blockquote>
-<p>Stronger:</p>
+<p>أداء أقوى:</p>
 <blockquote>
-<p>“I underestimated the complexity of a migration and communicated the risk too late. The project slipped by two weeks. Afterward, I introduced smaller milestones and earlier risk reviews, which improved predictability on the next migration.”</p>
+<p>«لقد قللت من شأن تعقيد عملية الترحيل وأبلغت عن المخاطر في وقت متأخر جدًّا. تأخر المشروع لمدة أسبوعين. بعد ذلك, أدخلت مراحل إنجاز أصغر ومراجعات مبكرة للمخاطر, مما حسّن القدرة على التنبؤ في عملية الترحيل التالية.»</p>
 </blockquote>
-<p>Interviewers are looking for accountability and growth.</p>
-<h2>Prepare your project walkthrough</h2>
-<p>Many interviews begin with:</p>
+<p>يبحث القائمون على المقابلة عن تحمل المسؤولية والتطور.</p>
+<h2>قم بإعداد عرض تفصيلي لمشروعك</h2>
+<p>تبدأ العديد من المقابلات بـ:</p>
 <blockquote>
-<p>“Tell me about a project you are proud of.”</p>
+<p>«أخبرني عن مشروع تفخر به.»</p>
 </blockquote>
-<p>Prepare a clear explanation covering:</p>
+<p>قم بإعداد شرح واضح يغطي:</p>
 <ol>
-<li>The problem.</li>
-<li>Why it mattered.</li>
-<li>Your role.</li>
-<li>The architecture.</li>
-<li>Important decisions.</li>
-<li>Trade-offs.</li>
-<li>Challenges.</li>
-<li>Results.</li>
-<li>What you learned.</li>
-<li>What you would change.</li>
+<li>المشكلة.</li>
+<li>سبب أهميتها.</li>
+<li>دورك.</li>
+<li>البنية.</li>
+<li>القرارات المهمة.</li>
+<li>المفاضلات.</li>
+<li>التحديات.</li>
+<li>النتائج.</li>
+<li>ما تعلمته.</li>
+<li>ما الذي كنت ستغيره.</li>
 </ol>
-<p>Do not spend ten minutes describing company background before reaching your contribution.</p>
-<h2>Match your answers to the expected level</h2>
-<p>Different levels require different signals.</p>
-<h3>Early-career candidates</h3>
-<p>Emphasize:</p>
+<p>لا تقضي عشر دقائق في وصف خلفية الشركة قبل الوصول إلى مساهمتك.</p>
+<h2>اجعل إجاباتك تتناسب مع المستوى المتوقع</h2>
+<p>تتطلب المستويات المختلفة إشارات مختلفة.</p>
+<h3>المرشحون في بداية مسيرتهم المهنية</h3>
+<p>ركز على:</p>
 <ul>
-<li>fundamentals;</li>
-<li>learning ability;</li>
-<li>curiosity;</li>
-<li>clean implementation;</li>
-<li>debugging;</li>
-<li>project experience;</li>
-<li>receptiveness to feedback.</li>
+<li>الأساسيات؛</li>
+<li>القدرة على التعلم؛</li>
+<li>الفضول؛</li>
+<li>التنفيذ الدقيق؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الخبرة في المشاريع؛</li>
+<li>الاستجابة للتعليقات.</li>
 </ul>
-<h3>Mid-level engineers</h3>
-<p>Emphasize:</p>
+<h3>المهندسون من المستوى المتوسط</h3>
+<p>التركيز على:</p>
 <ul>
-<li>independent delivery;</li>
-<li>sound technical decisions;</li>
-<li>testing;</li>
-<li>maintainability;</li>
-<li>production awareness;</li>
-<li>collaboration.</li>
+<li>الإنجاز المستقل؛</li>
+<li>القرارات التقنية السليمة؛</li>
+<li>الاختبار؛</li>
+<li>قابلية الصيانة؛</li>
+<li>الوعي بعمليات الإنتاج؛</li>
+<li>التعاون.</li>
 </ul>
-<h3>Senior engineers</h3>
-<p>Emphasize:</p>
+<h3>المهندسون الكبار</h3>
+<p>التركيز على:</p>
 <ul>
-<li>ownership;</li>
-<li>architecture;</li>
-<li>trade-offs;</li>
-<li>reliability;</li>
-<li>mentoring;</li>
-<li>cross-team work;</li>
-<li>business impact;</li>
-<li>risk management.</li>
+<li>المسؤولية؛</li>
+<li>البنية؛</li>
+<li>المفاضلات؛</li>
+<li>الموثوقية؛</li>
+<li>التوجيه؛</li>
+<li>العمل عبر الفرق؛</li>
+<li>التأثير على الأعمال؛</li>
+<li>إدارة المخاطر.</li>
 </ul>
-<h3>Staff and principal engineers</h3>
-<p>Emphasize:</p>
+<h3>المهندسون الرئيسيون وكبار المهندسين</h3>
+<p>التركيز على:</p>
 <ul>
-<li>organizational influence;</li>
-<li>technical strategy;</li>
-<li>long-term architecture;</li>
-<li>alignment across teams;</li>
-<li>reducing systemic risk;</li>
-<li>decision frameworks;</li>
-<li>leadership without direct authority.</li>
+<li>التأثير التنظيمي؛</li>
+<li>الاستراتيجية التقنية؛</li>
+<li>البنية طويلة المدى؛</li>
+<li>التنسيق بين الفرق؛</li>
+<li>الحد من المخاطر النظامية؛</li>
+<li>أطر اتخاذ القرار؛</li>
+<li>القيادة دون سلطة مباشرة.</li>
 </ul>
-<h3>Engineering managers</h3>
-<p>Emphasize:</p>
+<h3>مديرو الهندسة</h3>
+<p>التركيز على:</p>
 <ul>
-<li>team development;</li>
-<li>hiring;</li>
-<li>planning;</li>
-<li>delivery;</li>
-<li>conflict management;</li>
-<li>organizational health;</li>
-<li>performance management;</li>
-<li>stakeholder alignment.</li>
+<li>تطوير الفريق؛</li>
+<li>التوظيف؛</li>
+<li>التخطيط؛</li>
+<li>التنفيذ؛</li>
+<li>إدارة النزاعات؛</li>
+<li>صحة المنظمة؛</li>
+<li>إدارة الأداء؛</li>
+<li>التنسيق بين أصحاب المصلحة.</li>
 </ul>
-<h2>Research the company</h2>
-<p>You do not need to memorize the company website, but you should understand:</p>
+<h2>ابحث عن الشركة</h2>
+<p>لست بحاجة إلى حفظ محتوى موقع الشركة الإلكتروني عن ظهر قلب, ولكن يجب أن تفهم:</p>
 <ul>
-<li>what the company builds;</li>
-<li>who uses the product;</li>
-<li>how it makes money;</li>
-<li>its current stage;</li>
-<li>relevant competitors;</li>
-<li>recent product changes;</li>
-<li>the role of the team you are joining;</li>
-<li>why the position exists.</li>
+<li>ما الذي تنتجه الشركة؛</li>
+<li>من يستخدم المنتج؛</li>
+<li>كيف تحقق أرباحًا؛</li>
+<li>المرحلة الحالية التي تمر بها؛</li>
+<li>المنافسون ذوو الصلة؛</li>
+<li>التغييرات الأخيرة في المنتج؛</li>
+<li>دور الفريق الذي ستنضم إليه؛</li>
+<li>سبب وجود هذا المنصب.</li>
 </ul>
-<p>Prepare an honest answer to:</p>
+<p>قم بإعداد إجابة صادقة على السؤال التالي:</p>
 <blockquote>
-<p>“Why do you want to work here?”</p>
+<p>«لماذا تريد العمل هنا؟»</p>
 </blockquote>
-<p>A strong answer connects:</p>
+<p>الإجابة القوية تربط بين:</p>
 <ul>
-<li>the company’s problem;</li>
-<li>the role;</li>
-<li>your relevant experience;</li>
-<li>what you want to learn or contribute.</li>
+<li>مشكلة الشركة؛</li>
+<li>الدور المطلوب؛</li>
+<li>خبرتك ذات الصلة؛</li>
+<li>ما تريد تعلمه أو المساهمة به.</li>
 </ul>
-<p>Avoid generic praise.</p>
-<h2>Research your interviewers appropriately</h2>
-<p>If names are provided, review their public professional background.</p>
-<p>This can help you understand:</p>
+<p>تجنب الإطراءات العامة.</p>
+<h2>ابحث عن القائمين على المقابلة بشكل مناسب</h2>
+<p>إذا تم توفير أسماء, فراجع خلفيتهم المهنية المتاحة للجمهور.</p>
+<p>قد يساعدك ذلك في فهم:</p>
 <ul>
-<li>their role;</li>
-<li>technical area;</li>
-<li>team history;</li>
-<li>public writing or talks.</li>
+<li>دورهم؛</li>
+<li>مجال تخصصهم الفني؛</li>
+<li>تاريخ عملهم ضمن الفريق؛</li>
+<li>كتاباتهم أو محاضراتهم العامة.</li>
 </ul>
-<p>Do not overdo it or introduce personal information. The goal is professional context, not surveillance.</p>
-<h2>Prepare questions to ask the company</h2>
-<p>An interview is also your opportunity to evaluate the employer.</p>
-<p>Strong questions include:</p>
-<h3>About the role</h3>
+<p>لا تبالغ في ذلك ولا تذكر معلومات شخصية. الهدف هو التعرف على السياق المهني, وليس المراقبة.</p>
+<h2>قم بإعداد الأسئلة التي ستطرحها على الشركة</h2>
+<p>تعد المقابلة أيضًا فرصة لك لتقييم جهة العمل.</p>
+<p>من الأسئلة القوية ما يلي:</p>
+<h3>حول الدور الوظيفي</h3>
 <ul>
-<li>What would success look like after 90 days?</li>
-<li>Why is this role open?</li>
-<li>What are the most important problems this person will own?</li>
-<li>How is the level determined?</li>
-<li>What distinguishes strong performance from average performance?</li>
+<li>كيف سيبدو النجاح بعد 90 يومًا؟</li>
+<li>لماذا تم فتح هذا المنصب؟</li>
+<li>ما هي أهم المشكلات التي سيتولى هذا الشخص مسؤوليتها؟</li>
+<li>كيف يتم تحديد المستوى الوظيفي؟</li>
+<li>ما الذي يميز الأداء القوي عن الأداء المتوسط؟</li>
 </ul>
-<h3>About the team</h3>
+<h3>حول الفريق</h3>
 <ul>
-<li>How is work planned and prioritized?</li>
-<li>How are technical decisions made?</li>
-<li>How does code review work?</li>
-<li>How does the team handle production incidents?</li>
-<li>How much on-call work is expected?</li>
-<li>How are disagreements resolved?</li>
+<li>كيف يتم تخطيط العمل وتحديد أولوياته؟</li>
+<li>كيف يتم اتخاذ القرارات التقنية؟</li>
+<li>كيف تتم مراجعة الكود؟</li>
+<li>كيف يتعامل الفريق مع حوادث الإنتاج؟</li>
+<li>ما مقدار العمل تحت الاستدعاء المتوقع؟</li>
+<li>كيف يتم حل الخلافات؟</li>
 </ul>
-<h3>About engineering quality</h3>
+<h3>حول جودة الهندسة</h3>
 <ul>
-<li>How are tests, security, and reliability handled?</li>
-<li>What technical debt is the team currently addressing?</li>
-<li>How often does the team deploy?</li>
-<li>What observability tools are used?</li>
-<li>How much autonomy do engineers have?</li>
+<li>كيف يتم التعامل مع الاختبارات والأمن والموثوقية؟</li>
+<li>ما هي الديون التقنية التي يعالجها الفريق حاليًا؟</li>
+<li>كم مرة يقوم الفريق بالنشر؟</li>
+<li>ما هي أدوات القابلية للمراقبة المستخدمة؟</li>
+<li>ما مدى الاستقلالية التي يتمتع بها المهندسون؟</li>
 </ul>
-<h3>About growth</h3>
+<h3>حول النمو</h3>
 <ul>
-<li>How are promotions evaluated?</li>
-<li>What mentoring or learning opportunities exist?</li>
-<li>How does feedback work?</li>
-<li>How are senior engineers expected to influence the organization?</li>
+<li>كيف يتم تقييم الترقيات؟</li>
+<li>ما هي فرص التوجيه أو التعلم المتاحة؟</li>
+<li>كيف تتم عملية التقييم؟</li>
+<li>كيف يُتوقع من المهندسين الكبار أن يؤثروا على المؤسسة؟</li>
 </ul>
-<h3>About the company</h3>
+<h3>حول الشركة</h3>
 <ul>
-<li>What are the team’s biggest risks this year?</li>
-<li>How has the product strategy changed recently?</li>
-<li>What constraints most affect engineering?</li>
-<li>What would make someone struggle in this environment?</li>
+<li>ما هي أكبر المخاطر التي يواجهها الفريق هذا العام؟</li>
+<li>كيف تغيرت استراتيجية المنتج مؤخرًا؟</li>
+<li>ما هي القيود التي تؤثر بشكل أكبر على قسم الهندسة؟</li>
+<li>ما الذي قد يجعل شخصًا ما يواجه صعوبات في هذا البيئة؟</li>
 </ul>
-<p>Good questions help you make a better decision and signal thoughtful preparation.</p>
-<h2>Watch for warning signs</h2>
-<p>The interview process can reveal important information.</p>
-<p>Potential concerns include:</p>
+<p>تساعدك الأسئلة الجيدة على اتخاذ قرار أفضل وتدل على استعداد مدروس.</p>
+<h2>انتبه إلى العلامات التحذيرية</h2>
+<p>يمكن أن تكشف عملية المقابلة عن معلومات مهمة.</p>
+<p>تشمل المخاوف المحتملة ما يلي:</p>
 <ul>
-<li>interviewers who are dismissive or hostile;</li>
-<li>constantly changing requirements;</li>
-<li>unclear role expectations;</li>
-<li>excessive unpaid take-home work;</li>
-<li>pressure to disclose confidential information;</li>
-<li>lack of clarity about on-call demands;</li>
-<li>inability to explain how performance is measured;</li>
-<li>disrespect for previous candidates or employees;</li>
-<li>surveillance-heavy practices without justification;</li>
-<li>no opportunity to ask questions;</li>
-<li>repeated scheduling disorganization;</li>
-<li>a major mismatch between the job description and interviews.</li>
+<li>وجود محاورين متعالين أو عدائيين؛</li>
+<li>متطلبات تتغير باستمرار؛</li>
+<li>توقعات غير واضحة بشأن الدور المطلوب؛</li>
+<li>عبء عمل منزلي مفرط غير مدفوع الأجر؛</li>
+<li>الضغط للكشف عن معلومات سرية؛</li>
+<li>عدم الوضوح بشأن متطلبات التواجد عند الطلب؛</li>
+<li>عدم القدرة على شرح كيفية قياس الأداء؛</li>
+<li>عدم احترام المرشحين أو الموظفين السابقين؛</li>
+<li>ممارسات مراقبة مكثفة دون مبرر؛</li>
+<li>عدم إتاحة الفرصة لطرح الأسئلة؛</li>
+<li>الفوضى المتكررة في جدولة المواعيد؛</li>
+<li>تباين كبير بين الوصف الوظيفي والمقابلات.</li>
 </ul>
-<p>One imperfect interaction does not define the company, but patterns matter.</p>
-<h2>Prepare your interview environment</h2>
-<p>For remote interviews, test:</p>
+<p>التفاعل غير المثالي الواحد لا يحدد طبيعة الشركة, لكن الأنماط هي ما يهم.</p>
+<h2>جهز بيئة المقابلة</h2>
+<p>بالنسبة للمقابلات عن بُعد, اختبر ما يلي:</p>
 <ul>
-<li>camera;</li>
-<li>microphone;</li>
-<li>internet connection;</li>
-<li>screen sharing;</li>
-<li>browser permissions;</li>
-<li>coding platform;</li>
-<li>editor;</li>
-<li>keyboard shortcuts;</li>
-<li>notifications;</li>
-<li>power supply.</li>
+<li>الكاميرا؛</li>
+<li>الميكروفون؛</li>
+<li>اتصال الإنترنت؛</li>
+<li>مشاركة الشاشة؛</li>
+<li>أذونات المتصفح؛</li>
+<li>منصة البرمجة؛</li>
+<li>محرر النصوص؛</li>
+<li>اختصارات لوحة المفاتيح؛</li>
+<li>الإشعارات؛</li>
+<li>مصدر الطاقة.</li>
 </ul>
-<p>Close unrelated applications and sensitive documents before sharing your screen.</p>
-<p>Keep nearby:</p>
+<p>أغلق التطبيقات غير ذات الصلة والوثائق الحساسة قبل مشاركة شاشتك.</p>
+<p>احتفظ بالقرب منك بما يلي:</p>
 <ul>
-<li>water;</li>
-<li>a notebook;</li>
-<li>a pen;</li>
-<li>the recruiter’s contact information;</li>
-<li>the interview schedule;</li>
-<li>a backup connection option where possible.</li>
+<li>ماء؛</li>
+<li>دفتر ملاحظات؛</li>
+<li>قلم؛</li>
+<li>معلومات الاتصال بمسؤول التوظيف؛</li>
+<li>جدول المقابلة؛</li>
+<li>خيار اتصال احتياطي إن أمكن.</li>
 </ul>
-<p>Use a quiet, well-lit space.</p>
-<h2>Ask for accommodations when needed</h2>
-<p>Reasonable accommodations may be available for disabilities, medical conditions, neurodivergence, or accessibility needs.</p>
-<p>Examples may include:</p>
+<p>استخدم مكانًا هادئًا وجيد الإضاءة.</p>
+<h2>اطلب التسهيلات عند الحاجة</h2>
+<p>قد تتوفر تسهيلات معقولة للأشخاص ذوي الإعاقة, أو الذين يعانون من حالات طبية, أو الاختلاف العصبي, أو الذين لديهم احتياجات خاصة فيما يتعلق بإمكانية الوصول.</p>
+<p>ومن الأمثلة على ذلك:</p>
 <ul>
-<li>additional time;</li>
-<li>breaks;</li>
-<li>captioning;</li>
-<li>screen-reader-compatible materials;</li>
-<li>alternative communication formats;</li>
-<li>scheduling adjustments;</li>
-<li>advance written instructions.</li>
+<li>وقت إضافي؛</li>
+<li>فترات راحة؛</li>
+<li>ترجمة نصية؛</li>
+<li>مواد متوافقة مع برامج قراءة الشاشة؛</li>
+<li>صيغ تواصل بديلة؛</li>
+<li>تعديلات في الجدول الزمني؛</li>
+<li>تعليمات مكتوبة مسبقًا.</li>
 </ul>
-<p>You do not need to apologize for requesting a fair interview environment.</p>
-<p>Ask the recruiter or designated accessibility contact about the process.</p>
-<h2>Plan the day before</h2>
-<p>The day before the interview:</p>
+<p>لا داعي للاعتذار عن طلب بيئة مقابلة عادلة.</p>
+<p>اسأل مسؤول التوظيف أو جهة الاتصال المعينة لشؤون التسهيلات الخاصة عن الإجراءات المتبعة.</p>
+<h2>خطط في اليوم السابق</h2>
+<p>في اليوم السابق للمقابلة:</p>
 <ul>
-<li>review the schedule;</li>
-<li>confirm time zones;</li>
-<li>test your setup;</li>
-<li>review your story bank;</li>
-<li>solve one or two familiar problems;</li>
-<li>revisit important system-design concepts;</li>
-<li>prepare your questions;</li>
-<li>stop studying at a reasonable time;</li>
-<li>sleep.</li>
+<li>راجع الجدول الزمني؛</li>
+<li>تأكد من المناطق الزمنية؛</li>
+<li>اختبر إعداداتك التقنية؛</li>
+<li>راجع مجموعة قصصك؛</li>
+<li>حل مشكلة أو مشكلتين مألوفتين؛</li>
+<li>راجع مفاهيم تصميم النظم المهمة؛</li>
+<li>قم بإعداد أسئلتك؛</li>
+<li>توقف عن المذاكرة في وقت معقول؛</li>
+<li>نم جيدًا.</li>
 </ul>
-<p>Do not introduce several new topics the night before. Confidence comes from reinforcing what you know.</p>
-<h2>Manage anxiety during the interview</h2>
-<p>Nervousness is normal.</p>
-<p>Useful techniques include:</p>
+<p>لا تقم بتناول عدة موضوعات جديدة في الليلة السابقة. الثقة تنبع من تعزيز ما تعرفه.</p>
+<h2>التعامل مع القلق أثناء المقابلة</h2>
+<p>الشعور بالتوتر أمر طبيعي.</p>
+<p>من بين التقنيات المفيدة ما يلي:</p>
 <ul>
-<li>taking one slow breath before answering;</li>
-<li>writing down the key requirements;</li>
-<li>restating the problem;</li>
-<li>asking for a moment to think;</li>
-<li>breaking the task into smaller pieces;</li>
-<li>starting with the simplest correct approach;</li>
-<li>treating the interviewer as a collaborator.</li>
+<li>خذ نفسًا واحدًا بطيئًا قبل الإجابة؛</li>
+<li>قم بتدوين المتطلبات الأساسية؛</li>
+<li>أعد صياغة المشكلة؛</li>
+<li>طلب لحظة للتفكير؛</li>
+<li>تقسيم المهمة إلى أجزاء أصغر؛</li>
+<li>البدء بأبسط نهج صحيح؛</li>
+<li>التعامل مع القائم بالمقابلة كشريك.</li>
 </ul>
-<p>You can say:</p>
+<p>يمكنك أن تقول:</p>
 <blockquote>
-<p>“Let me take a moment to organize my thoughts.”</p>
+<p>«دعني آخذ لحظة لترتيب أفكاري.»</p>
 </blockquote>
-<p>That is better than rushing into an unclear answer.</p>
-<h2>What to do after a poor round</h2>
-<p>One difficult interview does not necessarily end the process.</p>
-<p>You may have performed better than you think.</p>
-<p>Reset before the next round:</p>
+<p>هذا أفضل من التسرع في إعطاء إجابة غير واضحة.</p>
+<h2>ماذا تفعل بعد جولة سيئة</h2>
+<p>مقابلة صعبة واحدة لا تعني بالضرورة نهاية العملية.</p>
+<p>ربما كان أداؤك أفضل مما تعتقد.</p>
+<p>استعد قبل الجولة التالية:</p>
 <ul>
-<li>take a short break;</li>
-<li>drink water;</li>
-<li>avoid replaying every mistake;</li>
-<li>focus on the next interviewer;</li>
-<li>treat each stage as a fresh evaluation.</li>
+<li>خذ استراحة قصيرة؛</li>
+<li>اشرب الماء؛</li>
+<li>تجنب التفكير مرارًا في كل خطأ؛</li>
+<li>ركز على المحاور التالي؛</li>
+<li>تعامل مع كل مرحلة على أنها تقييم جديد.</li>
 </ul>
-<p>Do not apologize repeatedly in later rounds.</p>
-<h2>Follow up professionally</h2>
-<p>After the interview, send a short thank-you message when appropriate.</p>
-<p>Example:</p>
+<p>لا تعتذر مرارًا وتكرارًا في الجولات اللاحقة.</p>
+<h2>تابع الأمر بطريقة مهنية</h2>
+<p>بعد المقابلة, أرسل رسالة شكر قصيرة في الوقت المناسب.</p>
+<p>مثال:</p>
 <blockquote>
-<p>“Thank you for today’s conversation. I appreciated learning more about the platform team and the reliability challenges you’re addressing. The role’s combination of backend ownership and cross-team architecture is especially compelling. Please pass along my thanks to everyone involved.”</p>
+<p>«شكرًا على المحادثة التي جرت اليوم. لقد سعدت بمعرفة المزيد عن فريق المنصة والتحديات المتعلقة بالموثوقية التي تعملون على معالجتها. إن الجمع بين مسؤولية البنية الخلفية والهندسة المعمارية المشتركة بين الفرق في هذا الدور أمر جذاب للغاية. أرجو أن تنقل شكري إلى جميع المعنيين.»</p>
 </blockquote>
-<p>Keep it brief and specific.</p>
-<p>A thank-you note will not repair a poor interview, but it can reinforce professionalism and interest.</p>
-<h2>Record what happened</h2>
-<p>Soon after the interview, write down:</p>
+<p>اجعل الرسالة موجزة ومحددة.</p>
+<p>رسالة الشكر لن تعوض عن مقابلة سيئة, لكنها يمكن أن تعزز مظهرك المهني واهتمامك بالمنصب.</p>
+<h2>سجل ما حدث</h2>
+<p>بعد المقابلة بفترة وجيزة, قم بتدوين:</p>
 <ul>
-<li>questions asked;</li>
-<li>areas that went well;</li>
-<li>mistakes;</li>
-<li>topics you could not explain;</li>
-<li>interviewer feedback;</li>
-<li>questions you still have;</li>
-<li>company concerns;</li>
-<li>preparation gaps.</li>
+<li>الأسئلة التي طُرحت؛</li>
+<li>الجوانب التي سارت على ما يرام؛</li>
+<li>الأخطاء؛</li>
+<li>الموضوعات التي لم تتمكن من شرحها؛</li>
+<li>ملاحظات القائم بالمقابلة؛</li>
+<li>الأسئلة التي لا تزال لديك؛</li>
+<li>مخاوف الشركة؛</li>
+<li>الثغرات في التحضير.</li>
 </ul>
-<p>This creates a feedback loop for future interviews.</p>
-<h2>Ask for feedback carefully</h2>
-<p>Some companies cannot provide detailed feedback, but you can ask:</p>
+<p>وهذا يخلق حلقة تغذية راجعة للمقابلات المستقبلية.</p>
+<h2>اطلب التعليقات بحذر</h2>
+<p>بعض الشركات لا تستطيع تقديم تعليقات مفصلة, لكن يمكنك أن تسأل:</p>
 <blockquote>
-<p>“If the team is able to share any general feedback on areas I could strengthen, I would appreciate it.”</p>
+<p>«إذا كان بإمكان الفريق مشاركة أي تعليقات عامة حول الجوانب التي يمكنني تحسينها, فسأكون ممتنًا لذلك.»</p>
 </blockquote>
-<p>Do not argue with the response.</p>
-<p>Use feedback as input, not a verdict on your ability.</p>
-<h2>Avoid these common mistakes</h2>
-<h3>Studying only algorithms</h3>
-<p>Technical interviews may also evaluate system design, debugging, communication, behavior, and role-specific knowledge.</p>
-<h3>Memorizing solutions</h3>
-<p>Memorization often fails when the problem changes slightly.</p>
-<p>Learn patterns and reasoning.</p>
-<h3>Coding before clarifying</h3>
-<p>This can produce a correct solution to the wrong problem.</p>
-<h3>Staying silent</h3>
-<p>Interviewers cannot evaluate reasoning they cannot hear.</p>
-<h3>Overexplaining</h3>
-<p>Clear communication is not the same as talking constantly. Keep answers structured.</p>
-<h3>Ignoring edge cases</h3>
-<p>Testing is part of engineering.</p>
-<h3>Defending a broken approach</h3>
-<p>Change direction when evidence shows the approach is failing.</p>
-<h3>Treating hints as failure</h3>
-<p>Collaboration is usually a positive signal.</p>
-<h3>Pretending to know</h3>
-<p>It is better to say:</p>
+<p>لا تجادل في الرد.</p>
+<p>استخدم التعليقات كمدخلات, وليس كحكم على قدراتك.</p>
+<h2>تجنب هذه الأخطاء الشائعة</h2>
+<h3>الاكتفاء بدراسة الخوارزميات</h3>
+<p>قد تتضمن المقابلات الفنية أيضًا تقييمًا لتصميم الأنظمة, وتصحيح الأخطاء, والتواصل, والسلوك, والمعرفة الخاصة بالوظيفة.</p>
+<h3>حفظ الحلول عن ظهر قلب</h3>
+<p>غالبًا ما يفشل الحفظ عندما تتغير المشكلة بشكل طفيف.</p>
+<p>تعلم الأنماط وطرق الاستدلال.</p>
+<h3>البدء في البرمجة قبل توضيح المشكلة</h3>
+<p>قد يؤدي ذلك إلى التوصل إلى حل صحيح لمشكلة خاطئة.</p>
+<h3>التزام الصمت</h3>
+<p>لا يمكن للمقابلين تقييم الاستدلال الذي لا يسمعونه.</p>
+<h3>الإفراط في الشرح</h3>
+<p>التواصل الواضح لا يعني التحدث باستمرار. حافظ على تنظيم إجاباتك.</p>
+<h3>تجاهل الحالات الاستثنائية</h3>
+<p>الاختبار جزء من الهندسة.</p>
+<h3>الدفاع عن نهج فاشل</h3>
+<p>غيّر اتجاهك عندما تظهر الأدلة أن النهج يفشل.</p>
+<h3>اعتبار التلميحات فشلاً</h3>
+<p>التعاون عادةً ما يكون إشارة إيجابية.</p>
+<h3>التظاهر بالمعرفة</h3>
+<p>من الأفضل أن تقول:</p>
 <blockquote>
-<p>“I have not worked directly with that technology, but here is how I would evaluate it.”</p>
+<p>«لم أعمل مباشرةً مع هذه التقنية, ولكن إليك كيف سأقيّمها.»</p>
 </blockquote>
-<h3>Neglecting role-specific skills</h3>
-<p>A mobile, security, data, infrastructure, and frontend interview will each require different preparation.</p>
-<h3>Failing to evaluate the employer</h3>
-<p>Getting an offer is not the only goal. You also need enough information to decide whether the role is right for you.</p>
-<h2>A practical seven-day interview plan</h2>
-<h3>Day 1: Understand the process</h3>
+<h3>إهمال المهارات الخاصة بالوظيفة</h3>
+<p>تتطلب كل مقابلة في مجالات الهواتف المحمولة, والأمن, والبيانات, والبنية التحتية, والواجهة الأمامية استعدادًا مختلفًا.</p>
+<h3>عدم تقييم صاحب العمل</h3>
+<p>الحصول على عرض عمل ليس الهدف الوحيد. تحتاج أيضًا إلى معلومات كافية لتقرر ما إذا كان المنصب مناسبًا لك.</p>
+<h2>خطة عملية للمقابلة على مدار سبعة أيام</h2>
+<h3>اليوم الأول: فهم العملية</h3>
 <ul>
-<li>Confirm the interview format.</li>
-<li>Review the job description.</li>
-<li>Research the company and team.</li>
-<li>Identify your strongest and weakest areas.</li>
+<li>تأكد من شكل المقابلة.</li>
+<li>راجع الوصف الوظيفي.</li>
+<li>ابحث عن الشركة والفريق.</li>
+<li>حدد نقاط قوتك ونقاط ضعفك.</li>
 </ul>
-<h3>Day 2: Coding fundamentals</h3>
+<h3>اليوم الثاني: أساسيات البرمجة</h3>
 <ul>
-<li>Review core data structures.</li>
-<li>Solve two or three representative problems.</li>
-<li>Practice explaining complexity.</li>
-<li>Test solutions aloud.</li>
+<li>مراجعة هياكل البيانات الأساسية.</li>
+<li>حل مشكلتين أو ثلاث مشكلات نموذجية.</li>
+<li>التدرب على شرح درجة التعقيد.</li>
+<li>اختبار الحلول بصوت عالٍ.</li>
 </ul>
-<h3>Day 3: Role-specific practice</h3>
+<h3>اليوم الثالث: التدريب الخاص بالوظيفة</h3>
 <ul>
-<li>Review the technologies central to the job.</li>
-<li>Practice API, frontend, database, infrastructure, or security questions.</li>
-<li>Review one recent project deeply.</li>
+<li>مراجعة التقنيات الأساسية للوظيفة.</li>
+<li>التدرب على الأسئلة المتعلقة بواجهات برمجة التطبيقات (API) أو الواجهة الأمامية أو قواعد البيانات أو البنية التحتية أو الأمن.</li>
+<li>مراجعة مشروع حديث واحد بشكل متعمق.</li>
 </ul>
-<h3>Day 4: System design or practical architecture</h3>
+<h3>اليوم الرابع: تصميم النظام أو الهندسة العملية</h3>
 <ul>
-<li>Complete one design exercise.</li>
-<li>Practice requirements, scale, components, and trade-offs.</li>
-<li>Review reliability and security concerns.</li>
+<li>إكمال تمرين تصميم واحد.</li>
+<li>التدرب على المتطلبات, والتوسع, والمكونات, والمفاضلات.</li>
+<li>مراجعة المخاوف المتعلقة بالموثوقية والأمن.</li>
 </ul>
-<h3>Day 5: Behavioral preparation</h3>
+<h3>اليوم الخامس: التحضير السلوكي</h3>
 <ul>
-<li>Build six stories.</li>
-<li>Practice concise answers.</li>
-<li>Prepare examples of failure, conflict, leadership, and learning.</li>
+<li>صياغة ستة قصص.</li>
+<li>التدرب على الإجابات الموجزة.</li>
+<li>إعداد أمثلة عن الفشل, والصراع, والقيادة, والتعلم.</li>
 </ul>
-<h3>Day 6: Mock interview</h3>
+<h3>اليوم السادس: محاكاة المقابلة</h3>
 <ul>
-<li>Simulate the real format.</li>
-<li>Use a timer.</li>
-<li>Record yourself if useful.</li>
-<li>Identify recurring weaknesses.</li>
+<li>محاكاة الشكل الحقيقي للمقابلة.</li>
+<li>استخدام مؤقت.</li>
+<li>سجل نفسك إذا كان ذلك مفيدًا.</li>
+<li>حدد نقاط الضعف المتكررة.</li>
 </ul>
-<h3>Day 7: Light review and logistics</h3>
+<h3>اليوم السابع: مراجعة خفيفة والترتيبات اللوجستية</h3>
 <ul>
-<li>Review notes.</li>
-<li>Test equipment.</li>
-<li>Prepare questions.</li>
-<li>Rest.</li>
+<li>راجع الملاحظات.</li>
+<li>اختبر المعدات.</li>
+<li>حضّر الأسئلة.</li>
+<li>خذ قسطًا من الراحة.</li>
 </ul>
-<h2>A final preparation checklist</h2>
-<p>Before the interview, confirm that you can:</p>
+<h2>قائمة مراجعة نهائية للتحضير</h2>
+<p>قبل المقابلة, تأكد من قدرتك على:</p>
 <ul>
-<li>explain why you want the role;</li>
-<li>summarize your background in two minutes;</li>
-<li>walk through a major project;</li>
-<li>discuss a failure honestly;</li>
-<li>solve representative coding problems aloud;</li>
-<li>analyze time and space complexity;</li>
-<li>test your code;</li>
-<li>discuss system-design trade-offs;</li>
-<li>explain role-specific technical decisions;</li>
-<li>ask thoughtful questions;</li>
-<li>use the interview tools comfortably;</li>
-<li>recover when stuck;</li>
-<li>describe your personal contribution accurately.</li>
+<li>شرح سبب رغبتك في شغل هذا المنصب؛</li>
+<li>تلخيص خلفيتك المهنية في دقيقتين؛</li>
+<li>استعراض مشروع رئيسي؛</li>
+<li>مناقشة إخفاق ما بصراحة؛</li>
+<li>حل مسائل برمجة نموذجية بصوت عالٍ؛</li>
+<li>تحليل تعقيد الوقت والمساحة؛</li>
+<li>اختبار كودك؛</li>
+<li>مناقشة المفاضلات في تصميم الأنظمة؛</li>
+<li>شرح القرارات التقنية الخاصة بالوظيفة؛</li>
+<li>طرح أسئلة مدروسة؛</li>
+<li>استخدام أدوات المقابلة براحة؛</li>
+<li>استعادة الثقة عند التعثر؛</li>
+<li>وصف مساهمتك الشخصية بدقة.</li>
 </ul>
-<h2>The takeaway</h2>
-<p>Technical interviews become less intimidating when you stop treating them as a mysterious test of intelligence and start treating them as a format you can learn.</p>
-<p>The strongest preparation process is:</p>
+<h2>النقاط الرئيسية</h2>
+<p>تصبح المقابلات الفنية أقل إثارة للخوف عندما تتوقف عن التعامل معها على أنها اختبار غامض للذكاء, وتبدأ في التعامل معها كأسلوب يمكنك تعلمه.</p>
+<p>أفضل عملية تحضير هي:</p>
 <ol>
-<li>Understand the interview stages.</li>
-<li>Study the skills that match the actual role.</li>
-<li>Practice coding and reasoning aloud.</li>
-<li>Clarify requirements before solving.</li>
-<li>Test your work deliberately.</li>
-<li>Prepare system-design trade-offs where relevant.</li>
-<li>Build a library of behavioral stories.</li>
-<li>Research the team and company.</li>
-<li>Prepare meaningful questions.</li>
-<li>Simulate the real interview.</li>
-<li>Review and improve after every attempt.</li>
+<li>فهم مراحل المقابلة.</li>
+<li>دراسة المهارات التي تتناسب مع الوظيفة الفعلية.</li>
+<li>التدرب على البرمجة والتفكير المنطقي بصوت عالٍ.</li>
+<li>توضيح المتطلبات قبل البدء في الحل.</li>
+<li>اختبار عملك بعناية.</li>
+<li>إعداد المفاضلات في تصميم النظام عند الحاجة.</li>
+<li>إنشاء مكتبة من القصص السلوكية.</li>
+<li>البحث عن الفريق والشركة.</li>
+<li>إعداد أسئلة ذات مغزى.</li>
+<li>محاكاة المقابلة الحقيقية.</li>
+<li>المراجعة والتحسين بعد كل محاولة.</li>
 </ol>
-<p>You do not need to know everything.</p>
-<p>You need to demonstrate that you can reason clearly, communicate honestly, use feedback, and solve problems in a way that makes others want to work with you.</p>
-<p>Preparation cannot guarantee an offer. It can make sure the interview reflects your actual ability instead of your anxiety.</p>
-<p><em>Find interviews worth preparing for. <a href="/auth/register?role=EMPLOYEE">Create a free professional profile on JobsList.dev</a>, browse transparent opportunities, and set job alerts for roles that match your experience.</em></p>
-5:["locale","ar","d"]
-6:["slug","prepare-for-technical-interview-candidate-guide","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","prepare-for-technical-interview-candidate-guide","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"prepare-for-technical-interview-candidate-guide\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","prepare-for-technical-interview-candidate-guide","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Prepare for a Technical Interview: A Candidate's Playbook\",\"description\":\"A practical preparation guide for developers and engineers covering coding interviews, system design, behavioral questions, take-home assignments, communication, logistics, and post-interview follow-up.\",\"datePublished\":\"2026-03-12T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Prepare for a Technical Interview: A Candidate's Playbook","date":"2026-03-12T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":25,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Prepare for a Technical Interview: A Candidate's Playbook | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical preparation guide for developers and engineers covering coding interviews, system design, behavioral questions, take-home assignments, communication, logistics, and post-interview follow-up."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Prepare for a Technical Interview: A Candidate's Playbook"}],["$","meta","15",{"property":"og:description","content":"A practical preparation guide for developers and engineers covering coding interviews, system design, behavioral questions, take-home assignments, communication, logistics, and post-interview follow-up."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-03-12T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Prepare for a Technical Interview: A Candidate's Playbook"}],["$","meta","25",{"name":"twitter:description","content":"A practical preparation guide for developers and engineers covering coding interviews, system design, behavioral questions, take-home assignments, communication, logistics, and post-interview follow-up."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p>لست بحاجة إلى معرفة كل شيء.</p>
+<p>ما عليك هو إثبات قدرتك على التفكير المنطقي بوضوح, والتواصل بصدق, والاستفادة من الملاحظات, وحل المشكلات بطريقة تجعل الآخرين يرغبون في العمل معك.</p>
+<p>التحضير لا يضمن الحصول على عرض عمل. لكنه يضمن أن تعكس المقابلة قدراتك الفعلية بدلاً من قلقك.</p>
+<p><em>ابحث عن المقابلات التي تستحق التحضير لها. <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا احترافيًّا مجانيًّا على JobsList.dev</a>, وتصفح الفرص الشفافة, وقم بتعيين تنبيهات الوظائف للوظائف التي تتناسب مع خبرتك.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيفية الاستعداد للمقابلة الفنية: دليل المرشح\",\"description\":\"دليل عملي للاستعداد موجه للمطورين والمهندسين, يغطي المقابلات المتعلقة بالبرمجة, وتصميم الأنظمة, والأسئلة السلوكية, والواجبات المنزلية, والتواصل, والترتيبات اللوجستية, والمتابعة بعد المقابلة.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-03-12T00:00:00.000Z\",\"dateModified\":\"2026-03-12T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/prepare-for-technical-interview-candidate-guide/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيفية الاستعداد للمقابلة الفنية: دليل المرشح"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي للاستعداد موجه للمطورين والمهندسين, يغطي المقابلات المتعلقة بالبرمجة, وتصميم الأنظمة, والأسئلة السلوكية, والواجبات المنزلية, والتواصل, والترتيبات اللوجستية, والمتابعة بعد المقابلة."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-03-12T00:00:00.000Z","children":"11 مارس 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[26," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المقابلات",{"className":"badge-gray","children":"المقابلات"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","المقابلات الفنية",{"className":"badge-gray","children":"المقابلات الفنية"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيفية الاستعداد للمقابلة الفنية: دليل المرشح | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي للاستعداد موجه للمطورين والمهندسين, يغطي المقابلات المتعلقة بالبرمجة, وتصميم الأنظمة, والأسئلة السلوكية, والواجبات المنزلية, والتواصل, والترتيبات اللوجستية, والمتابعة بعد المقابلة."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيفية الاستعداد للمقابلة الفنية: دليل المرشح"}],["$","meta","15",{"property":"og:description","content":"دليل عملي للاستعداد موجه للمطورين والمهندسين, يغطي المقابلات المتعلقة بالبرمجة, وتصميم الأنظمة, والأسئلة السلوكية, والواجبات المنزلية, والتواصل, والترتيبات اللوجستية, والمتابعة بعد المقابلة."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/prepare-for-technical-interview-candidate-guide/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-03-12T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيفية الاستعداد للمقابلة الفنية: دليل المرشح"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي للاستعداد موجه للمطورين والمهندسين, يغطي المقابلات المتعلقة بالبرمجة, وتصميم الأنظمة, والأسئلة السلوكية, والواجبات المنزلية, والتواصل, والترتيبات اللوجستية, والمتابعة بعد المقابلة."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

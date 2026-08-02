@@ -1,477 +1,457 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Tbcd7,<p>You finished the last question, reviewed your answers, and clicked <strong>Submit</strong>.</p>
-<p>Now what?</p>
-<p>Many assessment platforms end the candidate experience with a generic confirmation screen. Your answers disappear into an employer’s hiring system, you receive little explanation, and the effort you invested may never be useful outside that one application.</p>
-<p>JobsList.dev is designed to make the next step clearer.</p>
-<p>After you submit an assessment, your work is recorded and evaluated according to the assessment’s scoring rules. The company receives information intended to help it understand your demonstrated skills, while you may be given the opportunity to preserve your result by claiming a free JobsList.dev profile.</p>
-<p>That means one assessment can become more than a temporary hiring requirement.</p>
-<p>It can become part of a broader professional profile that shows what you can do—not only what your résumé says you have done.</p>
-<p>This guide explains:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","after-the-assessment-your-score-your-profile","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"after-the-assessment-your-score-your-profile\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T110de,<p>لقد انتهيت من السؤال الأخير, وراجعت إجاباتك, ونقرت على <strong>إرسال</strong>.
+ماذا الآن؟
+تنهي العديد من منصات التقييم تجربة المرشح بشاشة تأكيد عامة. تختفي إجاباتك في نظام التوظيف الخاص بالجهة الموظِفة, ولا تتلقى سوى القليل من التوضيح, وقد لا يكون الجهد الذي بذلته مفيدًا أبدًا خارج نطاق تلك الطلبات.
+تم تصميم JobsList.dev لتوضيح الخطوة التالية.
+بعد إرسال التقييم, يتم تسجيل عملك وتقييمه وفقًا لقواعد التقييم. تتلقى الشركة معلومات تهدف إلى مساعدتها على فهم المهارات التي أظهرتها, بينما قد تُمنح أنت الفرصة للاحتفاظ بنتيجتك من خلال المطالبة بملف تعريف مجاني على JobsList. dev مجانًا.
+وهذا يعني أن تقييمًا واحدًا يمكن أن يصبح أكثر من مجرد متطلب مؤقت للتوظيف.
+يمكن أن يصبح جزءًا من ملف تعريفي مهني أوسع نطاقًا يوضح ما يمكنك القيام به — وليس فقط ما يذكره سيرتك الذاتية من إنجازات.
+يشرح هذا الدليل:</p>
 <ul>
-<li>what happens immediately after submission;</li>
-<li>how assessment scoring works;</li>
-<li>what the hiring company may see;</li>
-<li>what you may see as a candidate;</li>
-<li>what assessment context means;</li>
-<li>how to claim and improve your profile;</li>
-<li>how to use your result in the rest of your job search;</li>
-<li>what to do when your score is lower or higher than expected;</li>
-<li>how assessments fit alongside your résumé, portfolio, and interviews.</li>
+<li>ما يحدث فور الإرسال؛</li>
+<li>كيف تعمل عملية احتساب درجات التقييم؛</li>
+<li>ما قد تراه الشركة المُوظِّفة؛</li>
+<li>ما قد تراه أنت كمرشح؛</li>
+<li>ما المقصود بسياق التقييم؛</li>
+<li>كيفية المطالبة بملفك الشخصي وتحسينه؛</li>
+<li>كيفية استخدام نتيجتك في بقية عملية بحثك عن وظيفة؛</li>
+<li>ماذا تفعل عندما تكون درجتك أقل أو أعلى من المتوقع؛</li>
+<li>كيف تتكامل التقييمات مع سيرتك الذاتية ومحفظة أعمالك ومقابلاتك.</li>
 </ul>
-<h1>What happens when you click Submit</h1>
-<p>Submitting your assessment completes the active attempt.</p>
-<p>At that point, JobsList.dev records the answers included in your submission and begins applying the assessment’s scoring rules.</p>
-<p>Depending on the assessment, this may involve:</p>
+<h1>ماذا يحدث عند النقر على «إرسال»</h1>
+<p>يؤدي إرسال تقييمك إلى إتمام المحاولة النشطة.
+في تلك المرحلة, تسجل JobsList.dev الإجابات المضمنة في إرسالك وتبدأ في تطبيق قواعد تقييم الدرجات الخاصة بالتقييم.
+اعتمادًا على نوع التقييم, قد يشمل ذلك:</p>
 <ul>
-<li>automatically scored questions;</li>
-<li>section-level calculations;</li>
-<li>normalized answer comparison;</li>
-<li>partial credit where the question supports it;</li>
-<li>manual review of written responses;</li>
-<li>generation of an overall result;</li>
-<li>preparation of the company-facing assessment summary;</li>
-<li>preparation of any candidate-facing result the company has chosen to share.</li>
+<li>الأسئلة التي يتم تقييمها تلقائيًا؛</li>
+<li>الحسابات على مستوى الأقسام؛</li>
+<li>مقارنة الإجابات المعيارية؛</li>
+<li>منح درجات جزئية حيثما يسمح السؤال بذلك؛</li>
+<li>المراجعة اليدوية للإجابات المكتوبة؛</li>
+<li>توليد نتيجة إجمالية؛</li>
+<li>إعداد ملخص التقييم الموجه للشركة؛</li>
+<li>إعداد أي نتيجة موجهة للمرشح تختار الشركة مشاركتها.
+لا تحتاج إلى إبقاء صفحة التقييم مفتوحة حتى تظل النتيجة مسجلة بعد الإرسال الناجح.
+قبل إغلاق الصفحة, اقرأ رسالة التأكيد واتبع أي تعليمات مقدمة. قد تشرح بعض الشركات الخطوة التالية في عملية التوظيف بشكل منفصل عبر البريد الإلكتروني.</li>
 </ul>
-<p>You do not need to keep the assessment page open for the result to remain recorded after a successful submission.</p>
-<p>Before closing the page, read the confirmation message and follow any instructions provided. Some companies may explain their next hiring step separately by email.</p>
-<h1>Your work is evaluated against the assessment rules</h1>
-<p>A well-designed assessment should evaluate every candidate against the same underlying criteria.</p>
-<p>That does not mean every question must be simple or every candidate will receive the same experience. It means the result should be based on the assessment rather than an interviewer’s personal impression.</p>
-<p>Depending on the question type, scoring may consider:</p>
+<h1>يتم تقييم عملك وفقًا لقواعد التقييم</h1>
+<p>يجب أن يقيّم التقييم المصمم جيدًا كل مرشح وفقًا لنفس المعايير الأساسية.
+هذا لا يعني أن كل سؤال يجب أن يكون بسيطًا أو أن كل مرشح سيحصل على نفس التجربة. بل يعني أن النتيجة يجب أن تستند إلى التقييم بدلاً من الانطباع الشخصي للمحاور.
+اعتمادًا على نوع السؤال, قد تأخذ عملية التقييم في الاعتبار ما يلي:</p>
 <ul>
-<li>whether the selected answer is correct;</li>
-<li>whether multiple required choices were identified;</li>
-<li>whether a response matches an accepted result;</li>
-<li>whether important parts of a solution were included;</li>
-<li>whether partial credit is appropriate;</li>
-<li>how a candidate performed within each skill section.</li>
+<li>ما إذا كانت الإجابة المختارة صحيحة؛</li>
+<li>ما إذا تم تحديد الخيارات المطلوبة المتعددة؛</li>
+<li>ما إذا كانت الإجابة تتطابق مع النتيجة المقبولة؛</li>
+<li>ما إذا تم تضمين أجزاء مهمة من الحل؛</li>
+<li>ما إذا كان منح درجات جزئية مناسبًا؛</li>
+<li>كيف كان أداء المرشح في كل قسم من أقسام المهارات.
+والغرض ليس إصدار حكم درامي بالنجاح أو الفشل.
+والهدف هو تزويد الشركة بدليل إضافي على مهاراتك الحالية.</li>
 </ul>
-<p>The purpose is not to manufacture a dramatic pass-or-fail verdict.</p>
-<p>The purpose is to give the company another piece of evidence about your current skills.</p>
-<h1>Automatic scoring</h1>
-<p>Many assessment questions can be evaluated automatically.</p>
-<p>Examples may include:</p>
+<h1>التقييم التلقائي</h1>
+<p>يمكن تقييم العديد من أسئلة الاختبار تلقائيًا.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>single-answer multiple-choice questions;</li>
-<li>multiple-select questions;</li>
-<li>matching questions;</li>
-<li>code-reading questions with defined results;</li>
-<li>structured technical knowledge questions;</li>
-<li>other questions with clearly established accepted answers.</li>
+<li>أسئلة الاختيار من متعدد ذات الإجابة الواحدة؛</li>
+<li>أسئلة الاختيار المتعدد؛</li>
+<li>أسئلة المطابقة؛</li>
+<li>أسئلة قراءة الأكواد ذات النتائج المحددة؛</li>
+<li>أسئلة المعرفة التقنية المنظمة؛</li>
+<li>أسئلة أخرى ذات إجابات مقبولة محددة بوضوح.
+يضمن التقييم التلقائي الاتساق لأن قاعدة التقييم نفسها تُطبق على جميع المرشحين.
+كما يتيح إعداد النتائج بسرعة.</li>
 </ul>
-<p>Automatic scoring creates consistency because the same scoring rule is applied across candidates.</p>
-<p>It also allows results to be prepared quickly.</p>
-<h1>Human-reviewed answers</h1>
-<p>Some question types cannot be evaluated meaningfully with a simple correct-or-incorrect rule.</p>
-<p>Examples may include:</p>
+<h1>الإجابات التي تتم مراجعتها يدويًّا</h1>
+<p>لا يمكن تقييم بعض أنواع الأسئلة بشكل ملائم باستخدام قاعدة بسيطة تعتمد على الصواب أو الخطأ.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>written technical explanations;</li>
-<li>trade-off discussions;</li>
-<li>architecture reasoning;</li>
-<li>open-ended problem analysis;</li>
-<li>responses where communication and judgment matter.</li>
+<li>التفسيرات الفنية المكتوبة؛</li>
+<li>مناقشات المفاضلة؛</li>
+<li>الاستدلال المعماري؛</li>
+<li>تحليل المشكلات المفتوحة؛</li>
+<li>الردود التي يكتسب فيها التواصل والحكم أهمية.
+عندما يحتوي التقييم على مواد تخضع للمراجعة اليدوية, قد يستغرق إكمال النتيجة النهائية وقتًا أطول.
+هذا التأخير لا يعني أن هناك خطأً ما.
+بل يعني أن شخصًا ما قد يحتاج إلى مراجعة جزء من الإجابة المقدمة قبل أن تحصل الشركة على النتيجة الكاملة.</li>
 </ul>
-<p>When an assessment contains manually reviewed material, the final result may take longer to complete.</p>
-<p>That delay does not mean something went wrong.</p>
-<p>It means a person may need to review part of the submission before the company has the complete result.</p>
-<h1>Partial credit</h1>
-<p>Some questions contain more than one meaningful part.</p>
-<p>When the scoring design supports it, a candidate may receive partial credit for demonstrating some of the required understanding.</p>
-<p>For example, a response might correctly identify:</p>
+<h1>الدرجات الجزئية</h1>
+<p>تحتوي بعض الأسئلة على أكثر من جزء ذي مغزى.
+عندما يسمح تصميم نظام التقييم بذلك, قد يحصل المرشح على درجات جزئية لإثباته بعض الفهم المطلوب.
+على سبيل المثال, قد تحدد إجابة ما بشكل صحيح:</p>
 <ul>
-<li>the primary failure;</li>
-<li>one relevant edge case;</li>
-<li>part of the appropriate solution;</li>
+<li>الخلل الأساسي؛</li>
+<li>حالة حدية واحدة ذات صلة؛</li>
+<li>جزء من الحل المناسب؛
+مع إغفال عنصر مطلوب آخر.
+يمكن أن توفر الدرجات الجزئية صورة أكثر دقة مقارنة بمعاملة كل إجابة على أنها صحيحة تمامًا أو خاطئة تمامًا.
+لا تدعم كل الأسئلة الدرجات الجزئية. يحدد مؤلف التقييم كيفية تقييم كل سؤال.</li>
 </ul>
-<p>while missing another required element.</p>
-<p>Partial credit can provide a more accurate picture than treating every answer as completely right or completely wrong.</p>
-<p>Not every question supports partial credit. The assessment author determines how each question is scored.</p>
-<h1>Normalized answer handling</h1>
-<p>Structured answers may sometimes differ only in formatting.</p>
-<p>For example:</p>
+<h1>معالجة الإجابات المعيارية</h1>
+<p>قد تختلف الإجابات المنظمة أحيانًا في التنسيق فقط.
+على سبيل المثال:</p>
 <ul>
-<li>capitalization;</li>
-<li>extra spacing;</li>
-<li>equivalent formatting;</li>
-<li>other minor presentation differences.</li>
+<li>استخدام الأحرف الكبيرة؛</li>
+<li>المسافات الزائدة؛</li>
+<li>التنسيق المكافئ؛</li>
+<li>اختلافات عرضية طفيفة أخرى.
+عندما يسمح تصميم السؤال بذلك, تساعد المطابقة المعيارية على منع رفض إجابة صحيحة لسبب آخر فقط بسبب اختلاف غير ذي صلة في التنسيق.
+هذا لا يعني قبول كل إجابة تقريبية.
+بل يعني أن التنسيق لا ينبغي أن يصبح هو الاختبار نفسه عندما يكون الهدف من السؤال هو اختبار الفهم.</li>
 </ul>
-<p>Where the question design permits it, normalized matching helps prevent an otherwise correct response from being rejected solely because of an irrelevant formatting difference.</p>
-<p>This does not mean every approximate answer is accepted.</p>
-<p>It means formatting should not become the test when the question is intended to test understanding.</p>
-<h1>No negative marking</h1>
-<p>JobsList.dev assessments do not subtract additional points merely because you selected an incorrect answer.</p>
-<p>You simply do not receive the available credit for that answer.</p>
-<p>This matters because candidates should not be afraid to make a reasoned choice when they are uncertain.</p>
-<p>An unanswered question cannot demonstrate what you know.</p>
-<p>When you have reviewed the options and there is no additional penalty for an incorrect response, your best judgment is usually more useful than leaving the question blank.</p>
-<h1>An assessment score is evidence, not your identity</h1>
-<p>Your result reflects how you performed:</p>
+<h1>عدم وجود علامات سلبية</h1>
+<p>لا تخصم تقييمات JobsList.dev نقاطًا إضافية لمجرد اختيارك إجابة غير صحيحة.
+بل إنك ببساطة لا تحصل على الدرجة المتاحة لتلك الإجابة.
+وهذا أمر مهم لأن المرشحين يجب ألا يخشوا اتخاذ خيار منطقي عندما يكونون غير متأكدين.
+فالسؤال الذي لم تُجب عليه لا يمكن أن يثبت ما تعرفه.
+عندما تراجع الخيارات ولا توجد عقوبة إضافية على الإجابة الخاطئة, فإن تقديرك الصحيح عادةً ما يكون أكثر فائدة من ترك السؤال فارغًا.</p>
+<h1>درجة التقييم هي دليل, وليست هويتك</h1>
+<p>تعكس نتيجتك أداءك:</p>
 <ul>
-<li>on that assessment;</li>
-<li>under those conditions;</li>
-<li>on that day;</li>
-<li>against that particular collection of questions.</li>
+<li>في ذلك التقييم؛</li>
+<li>في ظل تلك الظروف؛</li>
+<li>في ذلك اليوم؛</li>
+<li>مقابل تلك المجموعة المحددة من الأسئلة.
+وهي لا تحدد قدراتك المهنية الكاملة.
+لا يمكن لأي تقييم أن يقيس بشكل كامل:</li>
+<li>كيفية تعاونك على مدار عدة أشهر؛</li>
+<li>مدى سرعة تعلمك لقاعدة كود الشركة؛</li>
+<li>كيفية استجابتك لحوادث الإنتاج؛</li>
+<li>كيفية بناء الثقة مع زملائك في الفريق؛</li>
+<li>كيفية تواصلك مع العملاء؛</li>
+<li>كيفية تطور حكمك وفقًا للسياق؛</li>
+<li>أداءك في كل مجال تقني ممكن.
+الدرجة هي مؤشر واحد.
+وينبغي النظر إليها جنبًا إلى جنب مع:</li>
+<li>سيرتك الذاتية؛</li>
+<li>خبرتك المهنية؛</li>
+<li>المشاريع التي عملت عليها؛</li>
+<li>ملفك الشخصي على GitHub؛</li>
+<li>محفظة أعمالك؛</li>
+<li>أدائك في المقابلة؛</li>
+<li>التوصيات؛</li>
+<li>مهارات التواصل؛</li>
+<li>الأدلة الخاصة بالوظيفة.
+لا تجعل رقمًا واحدًا بمثابة حكم نهائي على مستقبلك.</li>
 </ul>
-<p>It does not define your complete professional ability.</p>
-<p>No assessment can fully measure:</p>
+<h1>ما قد تراه الشركة المُوظِّفة</h1>
+<p>تتلقى الشركة التي دعتك نتيجة تقييم تهدف إلى دعم القرار البشري في التوظيف.
+قد تتضمن هذه المعلومات عدة أنواع من السياقات المفيدة.</p>
+<h1>النتيجة الإجمالية</h1>
+<p>قد تتلقى الشركة درجة تقييم إجمالية.
+توفر هذه الدرجة ملخصًا سريعًا, لكن لا ينبغي أن تكون الجزء الوحيد من النتيجة الذي يأخذه فريق التوظيف الحريص في الاعتبار.
+قد يكون لدى مرشحين حصل كل منهما على درجات إجمالية متشابهة نقاط قوة مختلفة تمامًا.
+على سبيل المثال:</p>
 <ul>
-<li>how you collaborate over several months;</li>
-<li>how quickly you learn a company’s codebase;</li>
-<li>how you respond to production incidents;</li>
-<li>how you build trust with teammates;</li>
-<li>how you communicate with customers;</li>
-<li>how your judgment develops with context;</li>
-<li>how you perform in every possible technical area.</li>
+<li>قد يكون أحدهما أقوى في حل المشكلات والاختبار؛</li>
+<li>وقد يكون الآخر أقوى في تصميم الأنظمة والتواصل؛</li>
+<li>وقد يكون لدى مرشح آخر أداء متوازن في جميع الأقسام.
+ولهذا السبب تُعد المعلومات على مستوى الأقسام مهمة.</li>
 </ul>
-<p>A score is one signal.</p>
-<p>It should be considered alongside:</p>
+<h1>درجات الأقسام</h1>
+<p>قد ترى الشركة أداءك في الأجزاء الفردية من التقييم.
+قد تمثل الأقسام مجالات مثل:</p>
 <ul>
-<li>your résumé;</li>
-<li>professional experience;</li>
-<li>projects;</li>
-<li>GitHub profile;</li>
-<li>portfolio;</li>
-<li>interview performance;</li>
-<li>references;</li>
-<li>communication;</li>
-<li>role-specific evidence.</li>
+<li>حل المشكلات؛</li>
+<li>أساسيات البرمجة؛</li>
+<li>جودة الكود؛</li>
+<li>الاختبار؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>قواعد البيانات؛</li>
+<li>تصميم الأنظمة؛</li>
+<li>الأمان؛</li>
+<li>التواصل؛</li>
+<li>التقنيات الخاصة بالوظيفة.
+تعتمد الأقسام الفعلية على التقييم الذي أكملته.
+يمكن أن تساعد درجات الأقسام الشركة على فهم أكثر من مجرد ما إذا كنت قد حققت رقمًا إجماليًّا معينًا.
+فقد تكشف أن لديك تميزًا خاصًّا في مجال أساسي للوظيفة, حتى لو كان جزء آخر من التقييم أكثر صعوبة بالنسبة لك.</li>
 </ul>
-<p>Do not turn one number into a verdict about your future.</p>
-<h1>What the hiring company may see</h1>
-<p>The company that invited you receives an assessment result intended to support human hiring judgment.</p>
-<p>The information may include several types of useful context.</p>
-<h1>Overall result</h1>
-<p>The company may receive an overall assessment score.</p>
-<p>This provides a quick summary, but it should not be the only part of the result a thoughtful hiring team considers.</p>
-<p>Two candidates with similar total scores may have very different strengths.</p>
-<p>For example:</p>
+<h1>لماذا يمكن أن تساعدك درجات الأقسام</h1>
+<p>لنفترض أن وظيفة في الخلفية (backend) تركز على:</p>
 <ul>
-<li>one may be strongest in problem-solving and testing;</li>
-<li>another may be strongest in system design and communication;</li>
-<li>another may have balanced performance across every section.</li>
+<li>التفكير المنطقي في قواعد البيانات؛</li>
+<li>تصميم واجهات برمجة التطبيقات (API)؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>موثوقية الإنتاج.
+قد تكون درجتك الإجمالية مجرد جزء واحد من الصورة الكاملة. فقد يكون الأداء القوي في تلك الأقسام ذات الصلة أكثر فائدة لفريق التوظيف من مجموع أعلى قليلاً ناتج عن أسئلة غير ذات صلة.
+يجب على صاحب العمل الحصيف أن يسأل:</li>
 </ul>
-<p>That is why section-level information matters.</p>
-<h1>Section scores</h1>
-<p>The company may see how you performed within individual parts of the assessment.</p>
-<p>Sections might represent areas such as:</p>
-<ul>
-<li>problem-solving;</li>
-<li>programming fundamentals;</li>
-<li>code quality;</li>
-<li>testing;</li>
-<li>debugging;</li>
-<li>databases;</li>
-<li>system design;</li>
-<li>security;</li>
-<li>communication;</li>
-<li>role-specific technologies.</li>
-</ul>
-<p>The actual sections depend on the assessment you completed.</p>
-<p>Section scores can help a company understand more than whether you reached one total number.</p>
-<p>They may reveal that you are especially strong in an area central to the role, even when another part of the assessment was more difficult for you.</p>
-<h1>Why section scores can help you</h1>
-<p>Suppose a backend role emphasizes:</p>
-<ul>
-<li>database reasoning;</li>
-<li>API design;</li>
-<li>debugging;</li>
-<li>production reliability.</li>
-</ul>
-<p>Your overall score may be only one part of the picture. Strong performance in those relevant sections may be more useful to the hiring team than a slightly higher total driven by unrelated questions.</p>
-<p>A thoughtful employer should ask:</p>
 <blockquote>
-<p>Where did this candidate demonstrate strength, and how does that match the work we need done?</p>
+<p>في أي مجال أظهر هذا المرشح قوته, وكيف يتوافق ذلك مع العمل الذي نحتاج إلى إنجازه؟
+وهذا أكثر فائدة من اختزال كل شخص في ترتيب واحد فقط.</p>
 </blockquote>
-<p>That is more useful than reducing every person to a single ranking.</p>
-<h1>Submission details</h1>
-<p>The company may receive information necessary to understand the completed attempt, such as:</p>
+<h1>تفاصيل الإرسال</h1>
+<p>قد تتلقى الشركة المعلومات اللازمة لفهم المحاولة المكتملة, مثل:</p>
 <ul>
-<li>the assessment completed;</li>
-<li>submission status;</li>
-<li>section results;</li>
-<li>responses requiring review;</li>
-<li>other relevant assessment records.</li>
+<li>التقييم الذي تم إكماله؛</li>
+<li>حالة الإرسال؛</li>
+<li>نتائج الأقسام؛</li>
+<li>الإجابات التي تتطلب مراجعة؛</li>
+<li>سجلات التقييم الأخرى ذات الصلة.
+يعتمد الشكل الدقيق للعرض على التقييم وسير عمل الشركة.</li>
 </ul>
-<p>The exact presentation depends on the assessment and company workflow.</p>
-<h1>Neutral assessment context</h1>
-<p>The system may record contextual events related to the assessment experience.</p>
-<p>When provided to the company, this context is intended to be presented as factual information—not as an accusation or an automatic judgment.</p>
-<p>That distinction matters.</p>
-<p>A technical event, browser event, interruption, or other recorded circumstance does not necessarily indicate wrongdoing.</p>
-<p>Context should be reviewed by a person who considers reasonable explanations.</p>
-<p>It should not automatically fail a candidate.</p>
-<h1>Human judgment remains part of hiring</h1>
-<p>JobsList.dev does not replace the hiring team with an algorithmic verdict.</p>
-<p>The company still decides:</p>
+<h1>سياق التقييم المحايد</h1>
+<p>قد يسجل النظام الأحداث السياقية المتعلقة بتجربة التقييم.
+عند تقديم هذا السياق إلى الشركة, يُقصد به أن يُعرض كمعلومات واقعية — وليس كاتهام أو حكم تلقائي.
+هذا التمييز مهم.
+فالحدث التقني, أو حدث المتصفح, أو الانقطاع, أو أي ظرف مسجل آخر لا يشير بالضرورة إلى ارتكاب مخالفة.
+يجب مراجعة السياق من قبل شخص يأخذ التفسيرات المعقولة في الاعتبار.
+ولا ينبغي أن يؤدي ذلك تلقائيًا إلى رفض المرشح.</p>
+<h1>يظل الحكم البشري جزءًا من عملية التوظيف</h1>
+<p>لا تحل JobsList.dev محل فريق التوظيف بحكم خوارزمي.
+لا تزال الشركة هي التي تقرر:</p>
 <ul>
-<li>how much weight the assessment receives;</li>
-<li>how it relates to the role;</li>
-<li>whether an interview should follow;</li>
-<li>how to interpret strengths and gaps;</li>
-<li>whether another piece of evidence is needed;</li>
-<li>whether the candidate should move forward.</li>
+<li>مدى أهمية التقييم؛</li>
+<li>مدى ارتباطه بالوظيفة؛</li>
+<li>ما إذا كان ينبغي إجراء مقابلة بعد ذلك؛</li>
+<li>كيفية تفسير نقاط القوة ونقاط الضعف؛</li>
+<li>ما إذا كانت هناك حاجة إلى دليل آخر؛</li>
+<li>ما إذا كان ينبغي للمرشح المضي قدمًا في عملية التوظيف.
+يجب على فريق التوظيف المسؤول استخدام النتيجة كجزء من تقييم أوسع نطاقًا.</li>
 </ul>
-<p>A responsible hiring team should use the result as one part of a broader evaluation.</p>
-<h1>What the company does not receive</h1>
-<p>JobsList.dev assessments are designed around demonstrated responses rather than invasive surveillance.</p>
-<p>The company does not receive:</p>
+<h1>ما لا تتلقاه الشركة</h1>
+<p>تم تصميم تقييمات JobsList.dev بناءً على الردود المُقدَّمة وليس على المراقبة المتطفلة.
+لا تتلقى الشركة:</p>
 <ul>
-<li>webcam recordings;</li>
-<li>video of you taking the assessment;</li>
-<li>screen recordings;</li>
-<li>secret footage of your workspace;</li>
-<li>access to internal answer keys;</li>
-<li>an automatic declaration that you are dishonest;</li>
-<li>a final hiring decision made for them.</li>
+<li>تسجيلات كاميرا الويب؛</li>
+<li>مقطع فيديو لك أثناء إجراء التقييم؛</li>
+<li>تسجيلات الشاشة؛</li>
+<li>لقطات سرية لمكان عملك؛</li>
+<li>إمكانية الوصول إلى مفاتيح الإجابات الداخلية؛</li>
+<li>إعلانًا تلقائيًّا بأنك غير أمين؛</li>
+<li>قرار توظيف نهائيًّا تم اتخاذه نيابة عنها.
+لا توجد لقطات من كاميرا الويب أو الشاشة لأن التقييم لا يسجلها.
+تتلقى الشركة معلومات التقييم وتطبق تقديرها الخاص.</li>
 </ul>
-<p>There is no webcam or screen footage because the assessment does not record it.</p>
-<p>The company receives assessment information and applies its own judgment.</p>
-<h1>What you may see after submitting</h1>
-<p>The information visible to candidates can vary based on the company’s assessment settings and hiring process.</p>
-<p>A company may choose to share:</p>
+<h1>ما قد تراه بعد الإرسال</h1>
+<p>قد تختلف المعلومات المرئية للمرشحين بناءً على إعدادات التقييم الخاصة بالشركة وعملية التوظيف.
+قد تختار الشركة مشاركة:</p>
 <ul>
-<li>the complete score;</li>
-<li>an overall result;</li>
-<li>section-level performance;</li>
-<li>a limited summary;</li>
-<li>a completion confirmation without immediate score details;</li>
-<li>results later through direct communication.</li>
+<li>النتيجة الكاملة؛</li>
+<li>نتيجة عامة؛</li>
+<li>الأداء على مستوى الأقسام؛</li>
+<li>ملخص محدود؛</li>
+<li>تأكيد إتمام الاختبار دون تفاصيل فورية عن النتيجة؛</li>
+<li>النتائج لاحقًا من خلال التواصل المباشر.
+وهذا يعني أن تقييمين على JobsList.dev قد لا يعرضان للمرشحين نفس القدر من المعلومات بعد الانتهاء.
+تتحكم الشركة في مقدار ما يتم مشاركته من نتائج التقييم مع المرشح المدعو.</li>
 </ul>
-<p>That means two assessments on JobsList.dev may not show candidates the same amount of information afterward.</p>
-<p>The company controls how much of its assessment result is shared with the invited candidate.</p>
-<h1>Why companies may choose different result settings</h1>
-<p>Employers organize assessment processes differently.</p>
-<p>A company may want to:</p>
+<h1>لماذا قد تختار الشركات إعدادات مختلفة للنتائج</h1>
+<p>ينظم أصحاب العمل عمليات التقييم بطرق مختلفة.
+قد ترغب الشركة في:</p>
 <ul>
-<li>review all candidates before releasing updates;</li>
-<li>combine assessment and interview evidence;</li>
-<li>discuss the result during a technical interview;</li>
-<li>share a complete breakdown immediately;</li>
-<li>provide only a completion confirmation;</li>
-<li>communicate decisions through its recruiter.</li>
+<li>مراجعة جميع المرشحين قبل إصدار التحديثات؛</li>
+<li>دمج أدلة التقييم والمقابلة؛</li>
+<li>مناقشة النتيجة خلال مقابلة فنية؛</li>
+<li>مشاركة تفاصيل كاملة على الفور؛</li>
+<li>تقديم تأكيد إتمام التقييم فقط؛</li>
+<li>الإبلاغ عن القرارات عبر مسؤول التوظيف التابع لها.
+عدم ظهور النتيجة على الفور لا يعني بالضرورة أن تقديمك قد فشل أو ضاع.
+اتبع التعليمات الموجودة على صفحة النتائج وانتظر اتصال الشركة.</li>
 </ul>
-<p>The lack of an immediate visible score does not necessarily mean your submission failed or was lost.</p>
-<p>Follow the instructions on the result page and watch for company communication.</p>
-<h1>When a score is displayed immediately</h1>
-<p>When your result is available after submission, take time to read the full breakdown rather than reacting only to the total.</p>
-<p>Look for:</p>
+<h1>عندما تُعرض النتيجة على الفور</h1>
+<p>عندما تصبح نتيجتك متاحة بعد الإرسال, خذ وقتك في قراءة التفاصيل الكاملة بدلاً من الاكتفاء بالنظر إلى المجموع فقط.
+ابحث عن:</p>
 <ul>
-<li>strongest sections;</li>
-<li>weaker sections;</li>
-<li>balance across categories;</li>
-<li>areas closely related to the role;</li>
-<li>information about next steps;</li>
-<li>profile-claim options.</li>
+<li>الأقسام الأقوى؛</li>
+<li>الأقسام الأضعف؛</li>
+<li>التوازن بين الفئات؛</li>
+<li>المجالات المرتبطة ارتباطًا وثيقًا بالوظيفة؛</li>
+<li>معلومات حول الخطوات التالية؛</li>
+<li>خيارات الإدعاءات في الملف الشخصي.
+تصبح النتيجة أكثر فائدة عندما تفسرها على أنها خريطة للمهارات بدلاً من كونها حكمًا.</li>
 </ul>
-<p>A result becomes more useful when you interpret it as a skills map rather than a judgment.</p>
-<h1>When a score is not displayed</h1>
-<p>When the company does not share your score immediately:</p>
+<h1>عندما لا يتم عرض النتيجة</h1>
+<p>عندما لا تشارك الشركة نتيجتك على الفور:</p>
 <ul>
-<li>confirm that the assessment shows as completed;</li>
-<li>save any completion confirmation;</li>
-<li>review the company’s stated timeline;</li>
-<li>wait for the promised update;</li>
-<li>contact the appropriate recruiter or hiring contact when the timeline passes.</li>
+<li>تأكد من أن التقييم يظهر على أنه مكتمل؛</li>
+<li>احفظ أي تأكيد إتمام؛</li>
+<li>راجع الجدول الزمني المعلن من قبل الشركة؛</li>
+<li>انتظر التحديث الموعود؛</li>
+<li>اتصل بمسؤول التوظيف المناسب أو جهة الاتصال المعنية بالتوظيف عند انقضاء الجدول الزمني.
+قد يكون نص رسالة المتابعة الموجزة كما يلي:</li>
 </ul>
-<p>A concise follow-up might say:</p>
 <blockquote>
-<p>Hi [Name], I completed the [Assessment Name] assessment on [date] and received confirmation that it was submitted successfully. I wanted to ask whether you can share the expected timeline for the next step. Thank you.</p>
+<p>مرحبًا [الاسم], لقد أكملت تقييم [اسم التقييم] في [التاريخ] وتلقيت تأكيدًا بإرساله بنجاح. أود أن أسأل عما إذا كان بإمكانك مشاركة الجدول الزمني المتوقع للخطوة التالية. شكرًا لك.
+لا ترسل رسائل متكررة إلى الشركة فور إرسال التقييم.
+امنح فريق التوظيف الوقت الذي ذكر أنه يحتاجه.</p>
 </blockquote>
-<p>Do not repeatedly message the company immediately after submitting.</p>
-<p>Give the hiring team the time it said it needs.</p>
-<h1>Claiming your free JobsList.dev profile</h1>
-<p>You may have completed the assessment through a direct invitation without creating an account first.</p>
-<p>After submission, you can be offered the opportunity to claim a free JobsList.dev profile.</p>
-<p>Claiming the profile connects the assessment result to an ongoing candidate identity on JobsList.dev.</p>
-<p>This can help turn a one-time assessment into part of a broader job-search presence.</p>
-<h1>What claiming your profile means</h1>
-<p>A claimed profile can allow you to:</p>
+<h1>المطالبة بملفك الشخصي المجاني على JobsList.dev</h1>
+<p>ربما تكون قد أكملت التقييم من خلال دعوة مباشرة دون إنشاء حساب مسبقًا.
+بعد الإرسال, قد تُعرض عليك فرصة المطالبة بملف شخصي مجاني على JobsList.dev.
+يؤدي الحصول على الملف الشخصي إلى ربط نتيجة التقييم بهوية مرشح مستمرة على JobsList.dev.
+يمكن أن يساعد ذلك في تحويل تقييم لمرة واحدة إلى جزء من حضور أوسع في مجال البحث عن الوظائف.</p>
+<h1>ماذا يعني الحصول على ملفك الشخصي</h1>
+<p>يتيح لك الملف الشخصي الذي حصلت عليه ما يلي:</p>
 <ul>
-<li>preserve your assessment result;</li>
-<li>build a reusable candidate profile;</li>
-<li>add professional experience;</li>
-<li>list technical skills;</li>
-<li>showcase projects;</li>
-<li>connect relevant work;</li>
-<li>apply to additional JobsList.dev opportunities;</li>
-<li>carry demonstrated skills into your broader presence on the platform.</li>
+<li>الاحتفاظ بنتيجة تقييمك؛</li>
+<li>إنشاء ملف شخصي للمرشح قابل لإعادة الاستخدام؛</li>
+<li>إضافة خبرة مهنية؛</li>
+<li>سرد المهارات التقنية؛</li>
+<li>عرض المشاريع؛</li>
+<li>ربط الأعمال ذات الصلة؛</li>
+<li>التقدم إلى فرص عمل إضافية على JobsList.dev؛</li>
+<li>نقل المهارات التي أثبتتها إلى حضورك الأوسع نطاقًا على المنصة.
+بدلاً من السماح للتقييم بالبقاء مرتبطًا بدعوة شركة واحدة فقط, يمكنك استخدامه كجزء من ملفك الشخصي المهني الخاص.</li>
 </ul>
-<p>Instead of allowing the assessment to remain connected only to one company invitation, you can use it as part of your own professional profile.</p>
-<h1>Claiming a profile is optional</h1>
-<p>You are not required to create a profile merely because you completed an assessment.</p>
-<p>You can submit the invited assessment, receive the available confirmation, and stop there.</p>
-<p>Claiming a profile is offered as an additional opportunity.</p>
-<p>There should be no penalty for choosing not to create one.</p>
-<h1>Why keeping your result matters</h1>
-<p>Candidates repeatedly perform unpaid or uncompensated work during hiring:</p>
+<h1>الحصول على ملف شخصي أمر اختياري</h1>
+<p>لست ملزمًا بإنشاء ملف شخصي لمجرد أنك أكملت تقييمًا.
+يمكنك تقديم التقييم الذي تمت دعوتك إليه, وتلقي التأكيد المتاح, والتوقف عند هذا الحد.
+يُقدم إنشاء ملف تعريفي كفرصة إضافية.
+ولا ينبغي أن تكون هناك عقوبة على اختيارك عدم إنشاء ملف تعريفي.</p>
+<h1>لماذا يُعد الاحتفاظ بنتيجتك أمرًا مهمًا</h1>
+<p>يقوم المرشحون مرارًا وتكرارًا بأداء أعمال غير مدفوعة الأجر أو غير مُعوضة خلال عملية التوظيف:</p>
 <ul>
-<li>applications;</li>
-<li>assessments;</li>
-<li>interviews;</li>
-<li>take-home assignments;</li>
-<li>portfolio reviews;</li>
-<li>reference preparation.</li>
+<li>تقديم الطلبات؛</li>
+<li>إجراء التقييمات؛</li>
+<li>إجراء المقابلات؛</li>
+<li>أداء المهام المنزلية؛</li>
+<li>مراجعة محفظة الأعمال؛</li>
+<li>إعداد المراجع.
+في العديد من الأنظمة التقليدية, تظل النتيجة مقتصرة على عملية صاحب العمل فقط.
+وعندما يختار صاحب العمل شخصًا آخر, لا يحصل المرشح على أي فائدة دائمة من الجهد الذي بذله في التقييم.
+إن الاحتفاظ بالنتيجة في ملفك الشخصي يغير هذه العلاقة.
+يمكن أن يظل عملك مرتبطًا بك وقد يساعد في إظهار مهاراتك بما يتجاوز الدعوة الأصلية.</li>
 </ul>
-<p>In many traditional systems, the result belongs only to the employer’s process.</p>
-<p>When that employer chooses someone else, the candidate receives no lasting benefit from the assessment effort.</p>
-<p>Preserving the result on your profile changes that relationship.</p>
-<p>Your work can remain connected to you and may help demonstrate your skills beyond the original invitation.</p>
-<h1>One assessment should not have to be a dead end</h1>
-<p>Consider two hiring processes.</p>
-<p>In the first:</p>
+<h1>لا ينبغي أن يكون التقييم بمثابة طريق مسدود</h1>
+<p>تخيل عمليتي توظيف.
+في الأولى:</p>
 <ol>
-<li>You spend an hour completing an assessment.</li>
-<li>The company receives the result.</li>
-<li>You are not selected.</li>
-<li>Your work disappears into the company’s system.</li>
-<li>You begin again from zero elsewhere.</li>
+<li>تقضي ساعة في إكمال تقييم.</li>
+<li>تتلقى الشركة النتيجة.</li>
+<li>لا يتم اختيارك.</li>
+<li>يختفي عملك في نظام الشركة.</li>
+<li>تبدأ من الصفر مرة أخرى في مكان آخر.
+في الثانية:</li>
+<li>تكمل التقييم.</li>
+<li>تتلقى الشركة التي وجهت الدعوة النتيجة.</li>
+<li>تحصل على ملف تعريفي مجاني.</li>
+<li>تصبح قدراتك التي أظهرتها جزءًا من حضورك على JobsList.dev.</li>
+<li>تواصل البناء والتقدم للوظائف مع إرفاق هذا الدليل بهويتك المهنية.
+العملية الثانية تحترم الوقت الذي استثمرته بشكل أفضل.</li>
 </ol>
-<p>In the second:</p>
+<h1>كيفية المطالبة بملفك الشخصي بعناية</h1>
+<p>عندما ترى خيار المطالبة بملفك الشخصي:</p>
 <ol>
-<li>You complete the assessment.</li>
-<li>The inviting company receives the result.</li>
-<li>You claim a free profile.</li>
-<li>Your demonstrated ability becomes part of your JobsList.dev presence.</li>
-<li>You continue building and applying with that evidence attached to your professional identity.</li>
+<li>تأكد من أنك تستخدم عنوان بريد إلكتروني تتحكم فيه.</li>
+<li>اتبع تعليمات المطالبة بالحساب.</li>
+<li>أكمل أي عملية تحقق مطلوبة.</li>
+<li>راجع المعلومات المرتبطة بالتقييم.</li>
+<li>أضف التفاصيل المهنية.</li>
+<li>تحقق من إعدادات الخصوصية والظهور حيثما كانت متاحة.</li>
+<li>قم بمعاينة الملف الشخصي من منظور صاحب العمل.</li>
+<li>حافظ على تحديث معلومات الحساب.
+استخدم عنوان بريد إلكتروني تتوقع الاحتفاظ به.
+تجنب الاعتماد حصريًّا على عنوان مؤقت تابع للمدرسة أو صاحب العمل أو العقد, والذي قد يصبح غير قابل للوصول لاحقًا.</li>
 </ol>
-<p>The second process respects the time you invested more fully.</p>
-<h1>How to claim your profile carefully</h1>
-<p>When you see the profile-claim option:</p>
+<h1>أنشئ ملفًا شخصيًا يدعم النتيجة</h1>
+<p>تكون نتيجة التقييم أكثر إقناعًا عندما يوفر باقي الملف الشخصي سياقًا لها.
+يحتاج أصحاب العمل إلى فهم:</p>
+<ul>
+<li>أي نوع من المطورين أنت؛</li>
+<li>ما هي الأدوار التي تريدها؛</li>
+<li>ما الذي قمت بتطويره؛</li>
+<li>أين استخدمت المهارات التي تم تقييمها؛</li>
+<li>ما هو مستوى المسؤولية الذي يمكنك تحمله.
+أكمل الأقسام التي تساعد في سرد هذه القصة.</li>
+</ul>
+<h1>أضف عنوانًا مهنيًا واضحًا</h1>
+<p>يجب أن يعبر عنوانك بسرعة عن توجهك المهني.
+أمثلة:</p>
+<blockquote>
+<p>مهندس الخلفية · Go, PostgreSQL, واجهات برمجة التطبيقات (APIs), سير العمل الموزع
+مطور الواجهة الأمامية · TypeScript, React, إمكانية الوصول, أنظمة التصميم
+مطور متكامل مبتدئ · React, Node.js, PostgreSQL
+مهندس البيانات · SQL, Python, خطوط الأنابيب, جودة البيانات
+مهندس DevOps · AWS, Terraform, CI/CD, القابلية للمراقبة
+تجنب العناوين مثل:
+مطور يبحث عن فرص
+فهذا لا يوضح لأصحاب العمل نوع العمل الذي أنت مستعد للقيام به.</p>
+</blockquote>
+<h1>اكتب ملخصًا مفيدًا لملفك الشخصي</h1>
+<p>يمكن للملخص الجيد الإجابة على أربعة أسئلة:</p>
 <ol>
-<li>Confirm that you are using an email address you control.</li>
-<li>Follow the account-claim instructions.</li>
-<li>Complete any required verification.</li>
-<li>Review the information connected to the assessment.</li>
-<li>Add professional details.</li>
-<li>Check your privacy and visibility settings where available.</li>
-<li>Preview the profile from an employer’s perspective.</li>
-<li>Keep the account information current.</li>
+<li>أي نوع من المهندسين أنت؟</li>
+<li>ما هي نقاط قوتك؟</li>
+<li>ما الدليل الذي يدعم ذلك؟</li>
+<li>ما الذي تريده بعد ذلك؟
+مثال:</li>
 </ol>
-<p>Use an email address you expect to retain.</p>
-<p>Avoid relying solely on a temporary school, employer, or contract address that may later become inaccessible.</p>
-<h1>Build a profile that supports the score</h1>
-<p>An assessment score is more persuasive when the rest of the profile gives it context.</p>
-<p>Employers need to understand:</p>
+<blockquote>
+<p>أنا مهندس خلفي (backend) متخصص في Go وPostgreSQL وسير عمل واجهات برمجة التطبيقات (API) الموثوقة. في منصبي الحالي, أتولى مسؤولية خدمات تسوية المدفوعات, وقد قمت مؤخرًا بقيادة عملية الترحيل إلى معالجة الأحداث المتكررة (idempotent). تتمثل نقاط قوتي في نمذجة البيانات وتصحيح الأخطاء وموثوقية الإنتاج, وأبحث عن وظيفة عن بُعد في مجال البرمجة الخلفية أو المنصات تتضمن مسؤولية حقيقية عن النظام.
+بالنسبة للمرشح المبتدئ:
+أنا مطور متكامل مبتدئ أعمل باستخدام TypeScript و React و Node.js و PostgreSQL. أفضل مشروع قمت به هو تطبيق جدولة تم نشره ويتميز بأذونات على نطاق المؤسسة, واختبارات آلية, وواجهة برمجة تطبيقات (API) موثقة. أبحث عن فريق يقدم مراجعة منتظمة للكود, وتوجيهًا, وفرصة لإطلاق منتجات حقيقية.</p>
+</blockquote>
+<h1>أضف خبرة العمل</h1>
+<p>بالنسبة لكل وظيفة ذات صلة, قم بتضمين:</p>
 <ul>
-<li>what kind of developer you are;</li>
-<li>which roles you want;</li>
-<li>what you have built;</li>
-<li>where you have used the assessed skills;</li>
-<li>what level of responsibility you can handle.</li>
+<li>المسمى الوظيفي؛</li>
+<li>الشركة؛</li>
+<li>التواريخ؛</li>
+<li>نطاق العمل؛</li>
+<li>التقنيات المستخدمة؛</li>
+<li>الإنجازات؛</li>
+<li>النتائج القابلة للقياس؛</li>
+<li>المساهمة الفردية.
+تجنب الاكتفاء بسرد المهام فقط.
+نص ضعيف:</li>
 </ul>
-<p>Complete the sections that help tell that story.</p>
-<h1>Add a clear professional headline</h1>
-<p>Your headline should quickly communicate your professional direction.</p>
-<p>Examples:</p>
 <blockquote>
-<p>Backend Engineer · Go, PostgreSQL, APIs, distributed workflows</p>
+<p>مسؤول عن تطوير البايند وإصلاح الأخطاء.
+نص أقوى:
+قمت بإنشاء وصيانة خدمات Node.js التي تدعم فوترة الاشتراكات. أضفت ضوابط التكرار (idempotency) وقيود قاعدة البيانات التي قضت على مشكلة تكرار الرسوم المتكررة.
+قد يُظهر التقييم قدراتك.
+تُظهر خبرتك المجالات التي طبقت فيها مهاراتك.</p>
 </blockquote>
-<blockquote>
-<p>Frontend Developer · TypeScript, React, accessibility, design systems</p>
-</blockquote>
-<blockquote>
-<p>Junior Full-Stack Developer · React, Node.js, PostgreSQL</p>
-</blockquote>
-<blockquote>
-<p>Data Engineer · SQL, Python, pipelines, data quality</p>
-</blockquote>
-<blockquote>
-<p>DevOps Engineer · AWS, Terraform, CI/CD, observability</p>
-</blockquote>
-<p>Avoid headlines such as:</p>
-<blockquote>
-<p>Developer looking for opportunities</p>
-</blockquote>
-<p>That does not tell employers what kind of work you are prepared to do.</p>
-<h1>Write a useful profile summary</h1>
-<p>A good summary can answer four questions:</p>
-<ol>
-<li>What kind of engineer are you?</li>
-<li>What are you strongest at?</li>
-<li>What evidence supports that?</li>
-<li>What do you want next?</li>
-</ol>
-<p>Example:</p>
-<blockquote>
-<p>I am a backend engineer focused on Go, PostgreSQL, and reliable API workflows. In my current role, I own payment-reconciliation services and recently led a migration to idempotent event processing. I am strongest in data modeling, debugging, and production reliability, and I am looking for a remote backend or platform role with meaningful system ownership.</p>
-</blockquote>
-<p>For a junior candidate:</p>
-<blockquote>
-<p>I am a junior full-stack developer working with TypeScript, React, Node.js, and PostgreSQL. My strongest project is a deployed scheduling application with organization-scoped permissions, automated tests, and a documented API. I am looking for a team that offers regular code review, mentorship, and the opportunity to ship real product work.</p>
-</blockquote>
-<h1>Add employment experience</h1>
-<p>For each relevant role, include:</p>
+<h1>أضف المشاريع</h1>
+<p>تُعد المشاريع مفيدة بشكل خاص لـ:</p>
 <ul>
-<li>title;</li>
-<li>company;</li>
-<li>dates;</li>
-<li>scope;</li>
-<li>technologies;</li>
-<li>accomplishments;</li>
-<li>measurable results;</li>
-<li>individual contribution.</li>
+<li>المطورين المبتدئين؛</li>
+<li>من يغيرون مسارهم المهني؛</li>
+<li>المرشحين الذين تعلموا بأنفسهم؛</li>
+<li>المرشحين العائدين بعد فترة توقف؛</li>
+<li>المهندسين الذين يكون كودهم المهني خاصًا.
+بالنسبة لكل مشروع, اشرح:</li>
+<li>المشكلة؛</li>
+<li>من يستفيد منه؛</li>
+<li>ما قمت ببنائه؛</li>
+<li>قراراتك التقنية؛</li>
+<li>التقنيات المستخدمة؛</li>
+<li>الاختبارات؛</li>
+<li>النشر؛</li>
+<li>القيود الحالية؛</li>
+<li>روابط النسخة الحية ومصدر الكود.
+لا تضف عشرة دروس تعليمية غير مكتملة.
+أضف عددًا صغيرًا من المشاريع التي تعزز القصة المهنية التي يرويها ملفك الشخصي.</li>
 </ul>
-<p>Avoid listing only duties.</p>
-<p>Weak:</p>
-<blockquote>
-<p>Responsible for backend development and bug fixes.</p>
-</blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Built and maintained Node.js services supporting subscription billing. Added idempotency controls and database constraints that eliminated a recurring duplicate-charge issue.</p>
-</blockquote>
-<p>The assessment may show capability.</p>
-<p>Your experience shows where you applied it.</p>
-<h1>Add projects</h1>
-<p>Projects are especially useful for:</p>
+<h1>اربط حسابك على GitHub ومحفظتك</h1>
+<p>تُظهر النتيجة لأصحاب العمل أداءك في التقييم.
+أما المستودع أو المشروع الحي فيمنحهم عنصرًا إضافيًا للتقييم.
+قد تشمل روابطك الأقوى ما يلي:</p>
 <ul>
-<li>junior developers;</li>
-<li>career changers;</li>
-<li>self-taught candidates;</li>
-<li>candidates returning after a gap;</li>
-<li>engineers whose professional code is private.</li>
+<li>ملفك الشخصي على GitHub؛</li>
+<li>محفظتك الشخصية؛</li>
+<li>تطبيق نشط؛</li>
+<li>دراسة حالة تقنية؛</li>
+<li>حزمة أو مكتبة؛</li>
+<li>مساهمة في البرمجيات مفتوحة المصدر؛</li>
+<li>كتابات تقنية؛</li>
+<li>قائمة في متجر التطبيقات؛</li>
+<li>وثائق واجهة برمجة التطبيقات (API).
+تحقق من كل رابط في نافذة متصفح خاصة.</li>
 </ul>
-<p>For each project, explain:</p>
-<ul>
-<li>the problem;</li>
-<li>who it serves;</li>
-<li>what you built;</li>
-<li>your technical decisions;</li>
-<li>technologies;</li>
-<li>tests;</li>
-<li>deployment;</li>
-<li>current limitations;</li>
-<li>live and source links.</li>
-</ul>
-<p>Do not add ten unfinished tutorials.</p>
-<p>Add a small number of projects that strengthen the professional story your profile tells.</p>
-<h1>Connect your GitHub and portfolio</h1>
-<p>A score tells employers how you performed on an assessment.</p>
-<p>A repository or live project gives them something else to inspect.</p>
-<p>Your strongest links may include:</p>
-<ul>
-<li>GitHub profile;</li>
-<li>personal portfolio;</li>
-<li>live application;</li>
-<li>technical case study;</li>
-<li>package or library;</li>
-<li>open-source contribution;</li>
-<li>technical writing;</li>
-<li>application store listing;</li>
-<li>API documentation.</li>
-</ul>
-<p>Verify every link in a private browser window.</p>
-<h1>List skills honestly</h1>
-<p>Use recognizable technology names.</p>
-<p>Examples:</p>
+<h1>اذكر مهاراتك بأمانة</h1>
+<p>استخدم أسماء تقنيات معروفة.
+أمثلة:</p>
 <ul>
 <li>JavaScript</li>
 <li>TypeScript</li>
@@ -490,604 +470,582 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>Azure</li>
 <li>Docker</li>
 <li>Kubernetes</li>
-<li>Terraform</li>
+<li>Terraform
+أعطِ الأولوية للمهارات التي ترغب فعليًّا في استخدامها في وظيفتك القادمة.
+لا تضف تقنية ما لمجرد أنك أكملت درسًا تعليميًّا واحدًا عنها.</li>
 </ul>
-<p>Prioritize the skills you actually want to use in your next job.</p>
-<p>Do not add a technology merely because you completed one tutorial.</p>
-<h1>Add your location and work preferences</h1>
-<p>Employers may need to know:</p>
+<h1>أضف موقعك وتفضيلاتك الوظيفية</h1>
+<p>قد يحتاج أصحاب العمل إلى معرفة:</p>
 <ul>
-<li>current location;</li>
-<li>remote, hybrid, or on-site preference;</li>
-<li>acceptable time zones;</li>
-<li>relocation interest;</li>
-<li>employment type;</li>
-<li>role level;</li>
-<li>availability;</li>
-<li>work-authorization requirements where relevant.</li>
+<li>موقعك الحالي؛</li>
+<li>تفضيلات العمل عن بُعد أو الهجين أو في الموقع؛</li>
+<li>المناطق الزمنية المقبولة؛</li>
+<li>الرغبة في الانتقال إلى مكان آخر؛</li>
+<li>نوع التوظيف؛</li>
+<li>مستوى المنصب؛</li>
+<li>التوافر؛</li>
+<li>متطلبات تصريح العمل حيثما كان ذلك مناسبًا.
+تقلل التفضيلات الواضحة من الاتصالات غير ذات الصلة.</li>
 </ul>
-<p>Clear preferences reduce irrelevant outreach.</p>
-<h1>Make the score part of a complete story</h1>
-<p>The assessment result should reinforce your profile rather than stand alone.</p>
-<p>For example:</p>
+<h1>اجعل النتيجة جزءًا من قصة كاملة</h1>
+<p>يجب أن تعزز نتيجة التقييم ملفك الشخصي بدلاً من أن تكون قائمة بذاتها.
+على سبيل المثال:</p>
 <ul>
-<li>strong testing performance can be supported by project test suites;</li>
-<li>strong database performance can be supported by schema and query work;</li>
-<li>strong frontend performance can be supported by accessible live interfaces;</li>
-<li>strong system-design performance can be supported by architecture case studies;</li>
-<li>strong communication performance can be supported by clear READMEs and writing.</li>
+<li>يمكن دعم الأداء القوي في الاختبارات من خلال مجموعات اختبارات المشاريع؛</li>
+<li>يمكن دعم الأداء القوي في قواعد البيانات من خلال أعمال المخطط والاستعلامات؛</li>
+<li>يمكن دعم الأداء القوي في الواجهة الأمامية من خلال واجهات حية يمكن الوصول إليها؛</li>
+<li>يمكن دعم الأداء القوي في تصميم الأنظمة من خلال دراسات الحالة الخاصة بالبنية؛</li>
+<li>يمكن دعم الأداء القوي في التواصل من خلال ملفات README واضحة وكتابات متميزة.
+أقوى مؤشر للتوظيف هو التوافق بين أنواع مختلفة من الأدلة.</li>
 </ul>
-<p>The strongest hiring signal is agreement across different types of evidence.</p>
-<h1>How to interpret your result</h1>
-<p>Your first emotional reaction may not be your most useful one.</p>
-<p>A score that looks lower than expected may still contain valuable strengths.</p>
-<p>A score that looks high may still reveal important gaps.</p>
-<p>Review the result in layers.</p>
-<h1>Start with the section breakdown</h1>
-<p>Ask:</p>
+<h1>كيفية تفسير نتيجتك</h1>
+<p>قد لا تكون ردة فعلك العاطفية الأولى هي الأكثر فائدة.
+قد تحتوي النتيجة التي تبدو أقل من المتوقع على نقاط قوة قيّمة.
+وقد تكشف النتيجة التي تبدو عالية عن ثغرات مهمة.
+راجع النتيجة على مستويات متعددة.</p>
+<h1>ابدأ بتحليل الأقسام</h1>
+<p>اسأل نفسك:</p>
 <ul>
-<li>Which sections were strongest?</li>
-<li>Which sections were weakest?</li>
-<li>Which sections matter most for my target role?</li>
-<li>Was the performance balanced?</li>
-<li>Did one unfamiliar topic affect the total?</li>
-<li>Does the result match what I believe about my skills?</li>
+<li>ما هي الأقسام التي كانت الأقوى؟</li>
+<li>ما هي الأقسام التي كانت الأضعف؟</li>
+<li>ما هي الأقسام الأكثر أهمية بالنسبة للوظيفة التي أستهدفها؟</li>
+<li>هل كان الأداء متوازنًا؟</li>
+<li>هل أثر موضوع واحد غير مألوف على النتيجة الإجمالية؟</li>
+<li>هل تتطابق النتيجة مع ما أعتقده عن مهاراتي؟</li>
 </ul>
-<h1>Compare the score with your target role</h1>
-<p>Not every role needs the same profile.</p>
-<p>A frontend developer may care most about:</p>
+<h1>قارن النتيجة بالوظيفة التي تستهدفها</h1>
+<p>ليست كل وظيفة تحتاج إلى نفس الملف الشخصي.
+قد يهتم مطور الواجهة الأمامية أكثر بما يلي:</p>
 <ul>
-<li>JavaScript and TypeScript;</li>
-<li>browser behavior;</li>
-<li>accessibility;</li>
-<li>user-interface reasoning;</li>
-<li>testing.</li>
+<li>JavaScript و TypeScript؛</li>
+<li>سلوك المتصفح؛</li>
+<li>إمكانية الوصول؛</li>
+<li>التفكير في واجهة المستخدم؛</li>
+<li>الاختبار.
+قد يهتم مطور الخلفية أكثر بما يلي:</li>
+<li>واجهات برمجة التطبيقات (APIs)؛</li>
+<li>قواعد البيانات؛</li>
+<li>الموثوقية؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>صحة البيانات.
+قد يهتم مهندس المنصات أكثر بما يلي:</li>
+<li>البنية التحتية؛</li>
+<li>الأتمتة؛</li>
+<li>قابلية المراقبة؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>المفاضلات المتعلقة بالموثوقية.
+قد لا تكون النتيجة المنخفضة في مجال أقل صلة بالوظيفة بنفس أهمية الأداء القوي في الكفاءات التي تحتاجها الوظيفة فعليًّا.</li>
 </ul>
-<p>A backend developer may care most about:</p>
-<ul>
-<li>APIs;</li>
-<li>databases;</li>
-<li>reliability;</li>
-<li>debugging;</li>
-<li>data correctness.</li>
-</ul>
-<p>A platform engineer may care most about:</p>
-<ul>
-<li>infrastructure;</li>
-<li>automation;</li>
-<li>observability;</li>
-<li>incident response;</li>
-<li>reliability trade-offs.</li>
-</ul>
-<p>A lower score in a less relevant area may not be as important as strong performance in the competencies the role actually needs.</p>
-<h1>Treat weak sections as a learning map</h1>
-<p>A weaker section gives you a more focused question than:</p>
+<h1>تعامل مع الأقسام الضعيفة كخريطة تعليمية</h1>
+<p>يمنحك القسم الأضعف سؤالًا أكثر تركيزًا من:</p>
 <blockquote>
-<p>What should I learn next?</p>
+<p>ما الذي يجب أن أتعلمه بعد ذلك؟
+بل يقترح:
+ما المجال المحدد الذي يجب أن أعززه؟
+على سبيل المثال:</p>
 </blockquote>
-<p>It suggests:</p>
+<ul>
+<li>الاختبار؛</li>
+<li>لغة SQL؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الشبكات؛</li>
+<li>تصميم الأنظمة؛</li>
+<li>هياكل البيانات؛</li>
+<li>الأمن؛</li>
+<li>إمكانية الوصول؛</li>
+<li>البنية التحتية السحابية؛</li>
+<li>التواصل.
+وهذا أمر قابل للتنفيذ.</li>
+</ul>
+<h1>لا تعيد صياغة هويتك بناءً على نتيجة واحدة</h1>
+<p>تجنب الاستنتاجات مثل:</p>
+<ul>
+<li>أنا لست مطورًا حقيقيًّا.</li>
+<li>لن أنجح أبدًا في مقابلة تقنية.</li>
+<li>أنا سيئ جدًّا في هندسة الخلفية.</li>
+<li>لن يوظفني أحد.</li>
+<li>انتهت مسيرتي المهنية.
+لا يمكن لتقييم واحد أن يدعم هذه الاستنتاجات.
+يمكن أن يخبرك أن بعض الأسئلة كانت صعبة في ظل مجموعة معينة من الظروف.
+هذه معلومات — وليست قدرًا محتومًا.</li>
+</ul>
+<h1>ماذا تفعل عندما تكون نتيجتك أقل من المتوقع</h1>
+<p>يمكن أن تكون النتيجة المخيبة للآمال مفيدة إذا تم التعامل معها بطريقة منهجية.</p>
+<h1>تأكد من الظروف المحيطة</h1>
+<p>اسأل نفسك:</p>
+<ul>
+<li>هل كنت مرتاحًا؟</li>
+<li>هل تسرعت؟</li>
+<li>هل أخطأت في قراءة الأسئلة؟</li>
+<li>هل تعرضت لمقاطعة؟</li>
+<li>هل قضيت وقتًا طويلاً جدًّا في قسم واحد؟</li>
+<li>هل واجهت مصطلحات غير مألوفة؟</li>
+<li>هل كان التقييم متوافقًا مع الدور الذي أستهدفه؟</li>
+<li>هل أثر القلق على وتيرة أدائي؟
+لا تستخدم هذه الأسئلة لتجاهل النتيجة.
+استخدمها لتمييز الثغرات التقنية عن أخطاء عملية التقييم.</li>
+</ul>
+<h1>حدد الفجوة الفعلية في الموضوع</h1>
+<p>لا تستجب بدراسة كل شيء.
+اختر القسم أو القسمين اللذين يمثلان أكبر نقطة ضعف.
+على سبيل المثال:</p>
 <blockquote>
-<p>Which specific area should I strengthen?</p>
+<p>أحتاج إلى تعزيز معرفتي بعمليات الربط (joins) وفهرسة SQL.
+هذا أكثر فائدة من:
+أحتاج إلى أن أصبح أفضل في استخدام أجهزة الكمبيوتر.</p>
 </blockquote>
-<p>For example:</p>
+<h1>قم ببناء شيء ما باستخدام المهارة الضعيفة</h1>
+<p>عادةً ما تكون الممارسة التطبيقية أكثر ديمومة من المراجعة السلبية.
+أمثلة:</p>
 <ul>
-<li>testing;</li>
-<li>SQL;</li>
-<li>debugging;</li>
-<li>networking;</li>
-<li>system design;</li>
-<li>data structures;</li>
-<li>security;</li>
-<li>accessibility;</li>
-<li>cloud infrastructure;</li>
-<li>communication.</li>
+<li>ضعف في SQL: صمم مخططًا علائقيًّا صغيرًا وحسّن استعلامات حقيقية؛</li>
+<li>ضعف في الاختبار: أضف اختبارات الوحدة والتكامل إلى مشروع موجود؛</li>
+<li>ضعف في واجهات برمجة التطبيقات (APIs): أنشئ خدمة صغيرة ووثّقها؛</li>
+<li>ضعف في تصحيح الأخطاء: قم بإعادة إنتاج الأخطاء وتشخيصها عمدًا؛</li>
+<li>ضعف في تصميم الأنظمة: تدرب على شرح المفاضلات بصوت عالٍ؛</li>
+<li>ضعف في إمكانية الوصول: قم بمراجعة واجهة حية وتحسينها؛</li>
+<li>ضعف في المعرفة بالسحابة: قم بنشر خدمة صغيرة وتوثيق البنية.</li>
 </ul>
-<p>That is actionable.</p>
-<h1>Do not rewrite your identity around one score</h1>
-<p>Avoid conclusions such as:</p>
+<h1>تدرب في ظل قيود زمنية</h1>
+<p>المعرفة التقنية وتيرة إجراء الاختبارات مهارات منفصلة.
+عندما تكون إدارة الوقت هي المشكلة:</p>
 <ul>
-<li>I am not a real developer.</li>
-<li>I will never pass a technical interview.</li>
-<li>I am terrible at backend engineering.</li>
-<li>Nobody will hire me.</li>
-<li>My career is over.</li>
+<li>استخدم جلسات تدريب قصيرة؛</li>
+<li>حدد وقتًا لكل قسم؛</li>
+<li>تخطى الأسئلة وارجع إليها لاحقًا؛</li>
+<li>اقرأ كل إجابة قبل الاختيار؛</li>
+<li>اترك وقتًا للمراجعة؛</li>
+<li>تدرب على إكمال مجموعة كاملة في جلسة واحدة.</li>
 </ul>
-<p>A single assessment cannot support those conclusions.</p>
-<p>It can tell you that certain questions were difficult under a particular set of conditions.</p>
-<p>That is information—not destiny.</p>
-<h1>What to do when your score is lower than expected</h1>
-<p>A disappointing score can be useful when approached methodically.</p>
-<h1>Confirm the conditions</h1>
-<p>Ask yourself:</p>
+<h1>حسّن ملفك الشخصي على أي حال</h1>
+<p>لا تعني درجة التقييم المنخفضة أن عليك الاختباء عن سوق العمل.
+أكمل ملفك الشخصي بما يلي:</p>
 <ul>
-<li>Was I rested?</li>
-<li>Did I rush?</li>
-<li>Did I misread questions?</li>
-<li>Was I interrupted?</li>
-<li>Did I spend too long on one section?</li>
-<li>Did I encounter unfamiliar terminology?</li>
-<li>Was the assessment aligned with my target role?</li>
-<li>Did anxiety affect my pacing?</li>
+<li>الخبرة ذات الصلة؛</li>
+<li>المشاريع الحقيقية؛</li>
+<li>المهارات الحالية؛</li>
+<li>الأهداف المهنية؛</li>
+<li>الروابط الفعالة؛</li>
+<li>أدلة قوية في السيرة الذاتية.
+يأخذ أصحاب العمل في الاعتبار مؤشرات متعددة.</li>
 </ul>
-<p>Do not use these questions to dismiss the result.</p>
-<p>Use them to separate technical gaps from assessment-process mistakes.</p>
-<h1>Identify the actual topic gap</h1>
-<p>Do not respond by studying everything.</p>
-<p>Select the one or two sections creating the largest weakness.</p>
-<p>For example:</p>
+<h1>استمر في التقدم للوظائف</h1>
+<p>لا توقف بحثك حتى تعتقد أنك قد حققت نتيجة مثالية.
+لا يوجد مرشح مثالي.
+قد تقدر الشركة:</p>
+<ul>
+<li>أقوى نقاط قوتك؛</li>
+<li>خبرتك في المجال؛</li>
+<li>مشروعك؛</li>
+<li>مهاراتك في التواصل؛</li>
+<li>مسارك المهني؛</li>
+<li>قدرتك على التعلم.</li>
+</ul>
+<h1>ماذا تفعل عندما تكون نتيجتك أعلى من المتوقع</h1>
+<p>النتيجة القوية مفيدة, لكن يجب أن تصبح جزءًا من عرض مهني أوسع نطاقًا.</p>
+<h1>أكمل ملفك الشخصي</h1>
+<p>لا تترك نتيجة قوية مرتبطة بصفحة مرشح فارغة.
+أضف سياقًا يوضح لأصحاب العمل ما يمكنك فعله بهذه المهارات.</p>
+<h1>ادعم النتيجة بالأدلة</h1>
+<p>عندما تحصل على نتيجة قوية في مجال ما, أضف دليلاً ذي صلة.
+أمثلة:</p>
+<ul>
+<li>نتيجة قوية في مجال البرمجة الخلفية (backend): أرفق رابطًا لمشروع API؛</li>
+<li>نتيجة قوية في مجال الاختبار: أظهر تغطية اختبارية ذات مغزى؛</li>
+<li>نتيجة قوية في مجال الواجهة الأمامية (frontend): أرفق رابطًا لتطبيق حي يمكن الوصول إليه؛</li>
+<li>نتيجة قوية في مجال البيانات: اشرح مسارًا أو مشروعًا لغة SQL؛</li>
+<li>نتيجة قوية في مجال تصميم الأنظمة: انشر دراسة حالة موجزة عن البنية.</li>
+</ul>
+<h1>استعد لمناقشة النتيجة</h1>
+<p>قد يسألك صاحب العمل:</p>
+<ul>
+<li>ما هي الأقسام التي شعرت فيها بأداء أقوى؟</li>
+<li>ما هي الأسئلة التي كانت الأكثر صعوبة؟</li>
+<li>كيف تعاملت مع التقييم؟</li>
+<li>ما الذي ستدرسه بعد ذلك؟</li>
+<li>هل تتوافق النتيجة مع خبرتك؟
+أجب دون غرور.
+قد تكون الإجابة القوية كالتالي:</li>
+</ul>
 <blockquote>
-<p>I need to strengthen SQL joins and indexing.</p>
+<p>كانت أقسام قواعد البيانات وتصحيح الأخطاء متوافقة مع عملي الإنتاجي الأخير, لذا شعرت بالراحة فيها. أما قسم تصميم الأنظمة فقد تطلب مزيدًا من التفكير, خاصةً فيما يتعلق بمعالجة الأعطال. تبدو النتيجة متسقة مع نقاط قوتي, ولا تزال الهندسة المعمارية الموزعة مجالًا أعمل على تطويره بنشاط.</p>
 </blockquote>
-<p>is more useful than:</p>
+<h1>لا تفترض أن النتيجة تضمن لك مقابلة</h1>
+<p>قد تعتمد قرارات التوظيف أيضًا على:</p>
+<ul>
+<li>الموقع؛</li>
+<li>تصريح العمل؛</li>
+<li>الأجر؛</li>
+<li>مستوى الخبرة؛</li>
+<li>متطلبات المجال؛</li>
+<li>توفر الوظيفة؛</li>
+<li>توقيت التوظيف؛</li>
+<li>المرشحين الآخرين؛</li>
+<li>المعايير الخاصة بالشركة.
+الدرجة العالية تُحسّن جزءًا واحدًا من الصورة.
+وهي لا تتحكم في كل جزء.</li>
+</ul>
+<h1>استخدم النتيجة لتحسين سيرتك الذاتية</h1>
+<p>يجب ألا تصبح سيرتك الذاتية قائمة بنسب التقييم.
+بدلاً من ذلك, استخدم النتيجة لتحديد الأدلة المهنية التي تستحق مزيدًا من البروز.
+على سبيل المثال, عندما يكون مجال قوتك هو الاختبار, تأكد من أن سيرتك الذاتية تتضمن نقاطًا مثل:</p>
 <blockquote>
-<p>I need to become better at computers.</p>
+<p>أدخلت اختبارات التكامل لسير عمل الفوترة, مما أدى إلى تقليل حالات التراجع في الإنتاج أثناء الإصدارات الشهرية.
+عندما يكون مجال قوتك هو نمذجة البيانات:
+أعدت تصميم مخطط أذونات المؤسسة وأكملت عملية ترحيل متوافقة مع الإصدارات السابقة شملت 18 مليون سجل.
+عندما يكون مجال قوتك هو تصحيح الأخطاء:
+شخّصت عطلًا متقطعًا في معالجة قوائم الانتظار من خلال التتبع وتحليل قاعدة البيانات, ثم أضفت ضوابط ومراقبة للتكرار لمنع تكراره.
+يمكن أن يساعد التقييم في الكشف عن نقاط القوة التي لا يبرزها سيرتك الذاتية حاليًا بشكل كافٍ.</p>
 </blockquote>
-<h1>Build something with the weak skill</h1>
-<p>Applied practice is usually more durable than passive review.</p>
-<p>Examples:</p>
+<h1>هل يجب عليك إدراج النتيجة في سيرتك الذاتية؟</h1>
+<p>لا تفعل ذلك إلا عندما:</p>
 <ul>
-<li>weak SQL: design a small relational schema and optimize real queries;</li>
-<li>weak testing: add unit and integration tests to an existing project;</li>
-<li>weak APIs: build and document a small service;</li>
-<li>weak debugging: reproduce and diagnose bugs deliberately;</li>
-<li>weak system design: practice explaining trade-offs aloud;</li>
-<li>weak accessibility: audit and improve a live interface;</li>
-<li>weak cloud knowledge: deploy a small service and document the architecture.</li>
+<li>تكون النتيجة مرئية أو قابلة للتحقق؛</li>
+<li>يكون التقييم ذا صلة بالوظيفة؛</li>
+<li>لا يتطلب عرض النتيجة شرحًا مفرطًا؛</li>
+<li>يدعم موقع JobsList.dev عرضًا عامًا مناسبًا؛</li>
+<li>تكون مرتاحًا لمشاركتها.
+قد يكفي إدراج عبارة بسيطة:</li>
 </ul>
-<h1>Practice under time limits</h1>
-<p>Technical knowledge and assessment pacing are separate skills.</p>
-<p>When time management was the problem:</p>
-<ul>
-<li>use short practice sessions;</li>
-<li>time each section;</li>
-<li>skip and return;</li>
-<li>read every answer before choosing;</li>
-<li>leave review time;</li>
-<li>practice completing a full set in one sitting.</li>
-</ul>
-<h1>Improve your profile anyway</h1>
-<p>A lower assessment score does not mean you should hide from the job market.</p>
-<p>Complete your profile with:</p>
-<ul>
-<li>relevant experience;</li>
-<li>real projects;</li>
-<li>current skills;</li>
-<li>professional goals;</li>
-<li>working links;</li>
-<li>strong résumé evidence.</li>
-</ul>
-<p>Employers consider multiple signals.</p>
-<h1>Continue applying</h1>
-<p>Do not stop your search until you believe you have achieved a perfect result.</p>
-<p>There is no perfect candidate.</p>
-<p>A company may value:</p>
-<ul>
-<li>your strongest section;</li>
-<li>your domain experience;</li>
-<li>your project;</li>
-<li>your communication;</li>
-<li>your career trajectory;</li>
-<li>your ability to learn.</li>
-</ul>
-<h1>What to do when your score is higher than expected</h1>
-<p>A strong result is useful, but it should become part of a broader professional presentation.</p>
-<h1>Complete the profile</h1>
-<p>Do not leave a strong score attached to an empty candidate page.</p>
-<p>Add context that tells employers what you can do with those skills.</p>
-<h1>Support the score with evidence</h1>
-<p>When you scored strongly in an area, add relevant proof.</p>
-<p>Examples:</p>
-<ul>
-<li>strong backend result: link an API project;</li>
-<li>strong testing result: show meaningful test coverage;</li>
-<li>strong frontend result: link an accessible live application;</li>
-<li>strong data result: explain a pipeline or SQL project;</li>
-<li>strong system design result: publish a concise architecture case study.</li>
-</ul>
-<h1>Prepare to discuss the result</h1>
-<p>An employer may ask:</p>
-<ul>
-<li>Which sections felt strongest?</li>
-<li>Which questions were most challenging?</li>
-<li>How did you approach the assessment?</li>
-<li>What would you study next?</li>
-<li>Does the result match your experience?</li>
-</ul>
-<p>Answer without arrogance.</p>
-<p>A strong answer might be:</p>
 <blockquote>
-<p>The database and debugging sections matched my recent production work, so I felt comfortable there. The system-design section required more thought, especially around failure handling. The result seems consistent with my strengths, and distributed architecture is still an area I am actively developing.</p>
+<p>تقييم JobsList.dev للخلفية البرمجية — اكتمل في يوليو 2026
+ملف تعريف مُثبت: [رابط]
+تجنب تحويل السيرة الذاتية إلى تقرير مفصل يحتوي على النسب المئوية لكل قسم.
+يمكن أن يحتوي الملف الشخصي على سياق أكثر تفصيلاً.</p>
 </blockquote>
-<h1>Do not assume the score guarantees an interview</h1>
-<p>Hiring decisions may also depend on:</p>
+<h1>كيفية مناقشة التقييم في المقابلة</h1>
+<p>قد يُسأل عن تجربتك في إكماله.
+قم بإعداد إجابة موجزة تغطي:</p>
 <ul>
-<li>location;</li>
-<li>work authorization;</li>
-<li>compensation;</li>
-<li>experience level;</li>
-<li>domain requirements;</li>
-<li>role availability;</li>
-<li>hiring timing;</li>
-<li>other candidates;</li>
-<li>company-specific criteria.</li>
+<li>كيف تعاملت مع الأسئلة؛</li>
+<li>المجالات التي شعرت فيها بأكبر قدر من الثقة؛</li>
+<li>التحديات التي واجهتك؛</li>
+<li>ما تعلمته؛</li>
+<li>كيف ترتبط النتيجة بالوظيفة.
+مثال:</li>
 </ul>
-<p>A strong score improves one part of the picture.</p>
-<p>It does not control every part.</p>
-<h1>Use the result to improve your résumé</h1>
-<p>Your résumé should not become a list of assessment percentages.</p>
-<p>Instead, use the result to identify which professional evidence deserves more visibility.</p>
-<p>For example, when your strongest area is testing, make sure your résumé includes bullets such as:</p>
 <blockquote>
-<p>Introduced integration tests for billing workflows, reducing production regressions during monthly releases.</p>
+<p>تعاملت مع التقييم على مرحلتين. أجبت أولاً على أسئلة قراءة الكود وقاعدة البيانات, ثم عدت إلى أسئلة الهندسة البرمجية في الوقت المتبقي. كان قسم قاعدة البيانات مطابقًا بشكل وثيق لعملي الأخير. المجال الرئيسي الذي أود مراجعته بشكل أعمق هو دلالات تسليم قوائم الانتظار, وهو أمر مفيد لأن هذا أيضًا مجال أرغب في تعميق معرفتي به مهنيًّا.
+وهذا يظهر:</p>
 </blockquote>
-<p>When your strongest area is data modeling:</p>
+<ul>
+<li>التفكير النقدي؛</li>
+<li>التنظيم؛</li>
+<li>الصدق؛</li>
+<li>التوجه نحو التعلم.</li>
+</ul>
+<h1>لا تجادل بشأن كل سؤال أخطأت فيه</h1>
+<p>عندما يكشف التقييم عن خطأ, ركز على التعلم بدلاً من إثبات أن كل إجابة كان يجب قبولها.
+يمكنك الإبلاغ بشكل معقول عن:</p>
+<ul>
+<li>مشكلة تقنية؛</li>
+<li>صياغة غير واضحة؛</li>
+<li>مشكلة محتملة في التقييم؛</li>
+<li>مشكلة في إمكانية الوصول؛</li>
+<li>سؤال معطل.
+استخدم قناة الدعم أو جهة الاتصال الخاصة بالشركة المحددة للتقييم ووصف المشكلة بالحقائق.
+تجنب إرسال حجة عاطفية حول النتيجة بأكملها قبل التأكد مما حدث.</li>
+</ul>
+<h1>متى تتصل بالدعم</h1>
+<p>اتصل بقناة الدعم المناسبة في الحالات التالية:</p>
+<ul>
+<li>عندما لا يظهر التقييم على أنه تم إرساله؛</li>
+<li>عندما تفشل صفحة النتائج في التحميل؛</li>
+<li>عندما يتعذر عليك المطالبة بملفك الشخصي؛</li>
+<li>عندما يكون الحساب مرتبطًا بعنوان بريد إلكتروني خاطئ؛</li>
+<li>عندما يؤثر انقطاع تقني حقيقي على إتمام الاختبار؛</li>
+<li>عندما تبدو النتيجة المعروضة غير متسقة بسبب مشكلة في النظام؛</li>
+<li>عندما تواجه عائقًا في إمكانية الوصول؛</li>
+<li>عندما تطلب منك الشركة الإبلاغ عن مشكلة.
+قم بتضمين:</li>
+<li>اسمك؛</li>
+<li>اسم الاختبار؛</li>
+<li>اسم الشركة؛</li>
+<li>التاريخ والوقت التقريبي؛</li>
+<li>البريد الإلكتروني الخاص بالدعوة؛</li>
+<li>وصف موجز؛</li>
+<li>لقطات شاشة إذا كانت مفيدة وآمنة.
+لا ترسل كلمات مرور أو بيانات اعتماد حساسة.</li>
+</ul>
+<h1>ماذا يحدث بعد ذلك مع الشركة</h1>
+<p>لا يؤدي تقديم التقييم دائمًا إلى اتخاذ قرار توظيف فوري.
+قد لا تزال الشركة بحاجة إلى:</p>
+<ul>
+<li>إكمال تقييمات المرشحين الآخرين؛</li>
+<li>مراجعة الإجابات المكتوبة؛</li>
+<li>مقارنة نتائج الأقسام؛</li>
+<li>إجراء عمليات الفرز من قبل مسؤولي التوظيف؛</li>
+<li>تحديد مواعيد المقابلات الفنية؛</li>
+<li>مراجعة ملاحظات مدير التوظيف؛</li>
+<li>تأكيد عدد الوظائف الشاغرة؛</li>
+<li>تحديد من سيتأهل للمرحلة التالية.
+اتبع الجدول الزمني الذي توفره الشركة.</li>
+</ul>
+<h1>متى يجب المتابعة</h1>
+<p>عندما تحدد الشركة تاريخًا, انتظر حتى يمر ذلك التاريخ.
+وإذا لم يتم تحديد جدول زمني, فمن المعقول إجراء متابعة مهذبة بعد حوالي خمسة إلى سبعة أيام عمل.
+مثال:</p>
 <blockquote>
-<p>Redesigned the organization-permissions schema and completed a backward-compatible migration across 18 million records.</p>
+<p>مرحبًا [الاسم], لقد أكملت تقييم [اسم التقييم] في [التاريخ] وأود المتابعة بخصوص المرحلة التالية من عملية [مسمى الوظيفة]. ما زلت مهتمًا بهذه الفرصة وسأكون ممتنًا لأي مستجدات يمكنك مشاركتها معي بشأن التوقيت. شكرًا لك.
+تكفي رسالة موجزة واحدة.
+استمر في البحث عن وظائف أخرى أثناء الانتظار.</p>
 </blockquote>
-<p>When your strongest area is debugging:</p>
+<h1>لا تتوقف عن التقدم للوظائف بعد تقييم واحد</h1>
+<p>قد يبدو إكمال التقييم وكأنه إنجاز كبير, خاصةً عندما تكون الوظيفة مثيرة للاهتمام.
+لكنه لا يزال مجرد طلب توظيف واحد قيد النظر.
+استمر في:</p>
+<ul>
+<li>التقدم إلى الوظائف الملائمة؛</li>
+<li>تحسين ملفك الشخصي؛</li>
+<li>الاستعداد للمقابلات؛</li>
+<li>إنشاء المشاريع؛</li>
+<li>التواصل مع شبكتك؛</li>
+<li>مراجعة سيرتك الذاتية؛</li>
+<li>ضبط تنبيهات الوظائف.
+هذا يقلل من القلق ويمنع الجدول الزمني لشركة واحدة من التحكم في عملية البحث بأكملها.</li>
+</ul>
+<h1>احمِ نتيجة تقييمك وحسابك</h1>
+<p>بمجرد تسجيل ملفك الشخصي:</p>
+<ul>
+<li>استخدم كلمة مرور فريدة؛</li>
+<li>قم بتفعيل ضوابط الأمان المتاحة؛</li>
+<li>تحقق من عنوان البريد الإلكتروني؛</li>
+<li>حافظ على تحديث معلومات الاسترداد؛</li>
+<li>راجع إعدادات ظهور ملفك الشخصي؛</li>
+<li>أزل الروابط القديمة؛</li>
+<li>تجنب مشاركة روابط النتائج الخاصة علنًا ما لم تكن تنوي ذلك؛</li>
+<li>توخ الحذر من الرسائل غير المرغوب فيها التي تدعي تمثيل أرباب العمل.
+لا يجب أبدًا أن تطلب منك JobsList.dev إرسال كلمة مرورك إلى مسؤول توظيف أو شركة.</li>
+</ul>
+<h1>التقييمات مجانية للمرشحين</h1>
+<p>لا يكلف المرشح أي مبلغ مالي لإجراء تقييم JobsList.dev.
+خلال فترة الإصدار التجريبي الموضحة هنا, تتوفر التقييمات أيضًا للشركات مجانًا ريثما تنمو المنصة.
+لا ينبغي أن يُطلب من المرشح دفع أي رسوم من أجل:</p>
+<ul>
+<li>إرسال التقييم الذي تمت دعوته لإجرائه؛</li>
+<li>الحصول على تجربة عرض النتائج العادية؛</li>
+<li>الحصول على الملف الشخصي المجاني المعروض؛</li>
+<li>البقاء قيد النظر لشغل الوظيفة.
+توخى الحذر من أي شخص ينتحل صفة شركة أو منصة ويطلب دفع مبلغ مالي مقابل الوصول إلى التقييم أو النظر في توظيفك.</li>
+</ul>
+<h1>العلاقة بين درجتك وملفك الشخصي</h1>
+<p>اعتبرهما عنصرين متكاملين.
+يمكن أن يُظهر تقييمك:</p>
+<ul>
+<li>الأداء الذي أظهرته؛</li>
+<li>نقاط القوة على مستوى الأقسام؛</li>
+<li>الفهم التقني الحالي؛</li>
+<li>الأدلة المنظمة.
+يمكن أن يُظهر ملفك الشخصي:</li>
+<li>الخبرة؛</li>
+<li>الإنجازات؛</li>
+<li>المشاريع؛</li>
+<li>الأهداف؛</li>
+<li>الأدوار المفضلة؛</li>
+<li>الهوية التقنية؛</li>
+<li>التوافر؛</li>
+<li>سياق العمل.
+تجيب النتيجة على السؤال:</li>
+</ul>
 <blockquote>
-<p>Diagnosed an intermittent queue-processing failure through tracing and database analysis, then added idempotency controls and monitoring to prevent recurrence.</p>
+<p>كيف كان أداء هذا المرشح في هذا التقييم؟
+تجيب الملف الشخصي على السؤال:
+من هو هذا المطور, وماذا قام بتطويره, وأين يمكنه المساهمة؟
+يحتاج أصحاب العمل إلى كلا النوعين من السياق.</p>
 </blockquote>
-<p>The assessment can help reveal strengths your résumé currently underemphasizes.</p>
-<h1>Should you put the score on your résumé?</h1>
-<p>Only do so when:</p>
+<h1>خطة عملية للخطوة التالية</h1>
+<h1>خلال الساعة الأولى بعد الإرسال</h1>
 <ul>
-<li>the result is visible or verifiable;</li>
-<li>the assessment is relevant to the role;</li>
-<li>the presentation does not require excessive explanation;</li>
-<li>JobsList.dev supports an appropriate public representation;</li>
-<li>you are comfortable sharing it.</li>
+<li>تأكد من إرسال التقييم.</li>
+<li>اقرأ شاشة إتمام التقييم.</li>
+<li>احفظ أي تأكيد ذي صلة.</li>
+<li>راجع النتيجة عندما تصبح متاحة.</li>
+<li>احصل على ملفك الشخصي عندما تختار ذلك.</li>
+<li>سجل تاريخ الإكمال في أداة تتبع طلبات التوظيف الخاصة بك.</li>
 </ul>
-<p>A simple entry may be enough:</p>
-<blockquote>
-<p>JobsList.dev Backend Assessment — completed July 2026
-Verified profile: [link]</p>
-</blockquote>
-<p>Avoid turning the résumé into a detailed report containing every section percentage.</p>
-<p>The profile can hold the richer context.</p>
-<h1>How to discuss the assessment in an interview</h1>
-<p>You may be asked about your experience completing it.</p>
-<p>Prepare a concise answer covering:</p>
+<h1>خلال اليوم الأول</h1>
 <ul>
-<li>how you approached the questions;</li>
-<li>where you felt strongest;</li>
-<li>what challenged you;</li>
-<li>what you learned;</li>
-<li>how the result connects to the role.</li>
+<li>أكمل المعلومات الأساسية لملفك الشخصي.</li>
+<li>أضف عنوانًا مهنيًّا.</li>
+<li>أضف مهاراتك الرئيسية.</li>
+<li>اربط سيرتك الذاتية أو حسابك على GitHub أو محفظة أعمالك حيثما كان ذلك متاحًا.</li>
+<li>دوّن ما شعرت أنه كان سهلاً وصعبًا.</li>
+<li>استعد لمرحلة المقابلة التالية المحتملة.</li>
 </ul>
-<p>Example:</p>
-<blockquote>
-<p>I approached it in two passes. I answered the code-reading and database questions first, then returned to the architecture questions with the remaining time. The database section matched my recent work closely. The main area I would review further is queue-delivery semantics, which is useful because that is also an area I want to deepen professionally.</p>
-</blockquote>
-<p>This demonstrates:</p>
+<h1>خلال الأسبوع الأول</h1>
 <ul>
-<li>reflection;</li>
-<li>organization;</li>
-<li>honesty;</li>
-<li>learning orientation.</li>
+<li>أضف المشاريع والخبرات.</li>
+<li>راجع مجالات التقييم الضعيفة.</li>
+<li>تدرب على شرح أفضل أعمالك.</li>
+<li>استمر في التقدم للوظائف.</li>
+<li>تابع الأمر فقط بعد انقضاء الجدول الزمني المتوقع.</li>
+<li>حافظ على تحديث ملفك الشخصي.</li>
 </ul>
-<h1>Do not argue with every missed question</h1>
-<p>When the assessment reveals an error, focus on learning rather than proving that every answer should have been accepted.</p>
-<p>You may reasonably report:</p>
+<h1>خلال الشهر التالي</h1>
 <ul>
-<li>a technical problem;</li>
-<li>unclear wording;</li>
-<li>a suspected scoring issue;</li>
-<li>an accessibility issue;</li>
-<li>a broken question.</li>
+<li>اجمع أدلة تدعم مهاراتك الأضعف.</li>
+<li>حسّن توثيق المشاريع.</li>
+<li>صقل سيرتك الذاتية.</li>
+<li>أكمل التقييمات الإضافية ذات الصلة عند الاقتضاء.</li>
+<li>تتبع معدل نجاح المقابلات.</li>
+<li>قم بتحديث ملفك الشخصي مع تغير مهاراتك وأهدافك.</li>
 </ul>
-<p>Use the support or company contact specified for the assessment and describe the issue factually.</p>
-<p>Avoid sending an emotional argument about the entire result before confirming what happened.</p>
-<h1>When to contact support</h1>
-<p>Contact the appropriate support channel when:</p>
+<h1>قائمة مراجعة ملف المرشح</h1>
+<h2>الهوية</h2>
 <ul>
-<li>the assessment does not show as submitted;</li>
-<li>the result page fails to load;</li>
-<li>your profile cannot be claimed;</li>
-<li>the account links to the wrong email;</li>
-<li>a genuine technical interruption affected completion;</li>
-<li>a displayed result appears inconsistent because of a system problem;</li>
-<li>you encounter an accessibility barrier;</li>
-<li>the company instructed you to report an issue.</li>
+<li>الاسم المهني</li>
+<li>عنوان واضح</li>
+<li>الموقع الحالي</li>
+<li>معلومات الاتصال</li>
+<li>صورة مهنية أو صورة رمزية عند الاقتضاء</li>
 </ul>
-<p>Include:</p>
+<h2>التوجه المهني</h2>
 <ul>
-<li>your name;</li>
-<li>assessment name;</li>
-<li>company;</li>
-<li>date and approximate time;</li>
-<li>invitation email;</li>
-<li>concise description;</li>
-<li>screenshots when useful and safe.</li>
+<li>الوظائف المستهدفة</li>
+<li>ترتيبات العمل المفضلة</li>
+<li>الأقدمية</li>
+<li>التوافر</li>
+<li>تفضيلات الموقع أو المنطقة الزمنية ذات الصلة</li>
 </ul>
-<p>Do not send passwords or sensitive credentials.</p>
-<h1>What happens next with the company</h1>
-<p>Submitting the assessment does not always produce an immediate hiring decision.</p>
-<p>The company may still need to:</p>
+<h2>الخبرة</h2>
 <ul>
-<li>complete other candidate assessments;</li>
-<li>review written responses;</li>
-<li>compare section results;</li>
-<li>conduct recruiter screens;</li>
-<li>schedule technical interviews;</li>
-<li>review hiring-manager feedback;</li>
-<li>confirm headcount;</li>
-<li>decide who advances.</li>
+<li>تواريخ دقيقة</li>
+<li>ألقاب معروفة</li>
+<li>نطاق واضح</li>
+<li>الإنجازات</li>
+<li>مقاييس تم التحقق منها</li>
+<li>التقنيات</li>
 </ul>
-<p>Follow the timeline the company provides.</p>
-<h1>When to follow up</h1>
-<p>When the company gave a date, wait until that date passes.</p>
-<p>When no timeline was provided, a polite follow-up after approximately five to seven business days is reasonable.</p>
-<p>Example:</p>
-<blockquote>
-<p>Hi [Name], I completed the [Assessment Name] assessment on [date] and wanted to follow up regarding the next stage of the [Role Title] process. I remain interested in the opportunity and would appreciate any update you can share on timing. Thank you.</p>
-</blockquote>
-<p>One concise message is enough.</p>
-<p>Continue your broader job search while waiting.</p>
-<h1>Do not stop applying after one assessment</h1>
-<p>A completed assessment can feel like a major milestone, especially when the role is exciting.</p>
-<p>It is still one active application.</p>
-<p>Continue:</p>
+<h2>المهارات</h2>
 <ul>
-<li>applying to aligned roles;</li>
-<li>improving your profile;</li>
-<li>preparing for interviews;</li>
-<li>building projects;</li>
-<li>contacting your network;</li>
-<li>reviewing your résumé;</li>
-<li>setting job alerts.</li>
+<li>التقنيات ذات الصلة</li>
+<li>الكفاءات الهندسية الأساسية</li>
+<li>ترتيب المهارات حسب الوظيفة المستهدفة</li>
+<li>عدم المبالغة في الادعاءات</li>
 </ul>
-<p>This reduces anxiety and prevents one company’s timeline from controlling your entire search.</p>
-<h1>Protect your assessment result and account</h1>
-<p>Once you claim a profile:</p>
+<h2>المشاريع</h2>
 <ul>
-<li>use a unique password;</li>
-<li>enable available security controls;</li>
-<li>verify the email address;</li>
-<li>keep recovery information current;</li>
-<li>review profile visibility;</li>
-<li>remove outdated links;</li>
-<li>avoid sharing private result URLs publicly unless intended;</li>
-<li>be cautious with unsolicited messages claiming to represent employers.</li>
+<li>أوصاف واضحة</li>
+<li>المساهمة الشخصية</li>
+<li>القرارات الفنية</li>
+<li>روابط نشطة</li>
+<li>روابط المصادر</li>
+<li>الاختبارات والوثائق</li>
+<li>الاعتراف الصادق بالقيود</li>
 </ul>
-<p>JobsList.dev should never require you to send your password to a recruiter or company.</p>
-<h1>Assessments are free for candidates</h1>
-<p>Taking a JobsList.dev assessment does not cost the candidate money.</p>
-<p>During the beta period described here, assessments are also available to companies without charge while the platform grows.</p>
-<p>A candidate should not be asked to pay a fee to:</p>
+<h2>سياق التقييم</h2>
 <ul>
-<li>submit the invited assessment;</li>
-<li>receive the normal result experience;</li>
-<li>claim the offered free profile;</li>
-<li>remain under consideration for the role.</li>
+<li>الاحتفاظ بالنتائج حيثما كانت متاحة</li>
+<li>فهم الأقسام القوية</li>
+<li>تحويل الأقسام الضعيفة إلى أهداف تعليمية</li>
+<li>ربط النتائج بأدلة أوسع نطاقًا</li>
 </ul>
-<p>Be cautious about anyone impersonating a company or platform and requesting payment in exchange for assessment access or employment consideration.</p>
-<h1>The relationship between your score and your profile</h1>
-<p>Think of the two as complementary.</p>
-<p>Your assessment can show:</p>
+<h2>فحص الجودة</h2>
 <ul>
-<li>demonstrated performance;</li>
-<li>section-level strengths;</li>
-<li>current technical understanding;</li>
-<li>structured evidence.</li>
+<li>عدم وجود روابط معطلة</li>
+<li>لا توجد أخطاء إملائية</li>
+<li>لا توجد تواريخ متناقضة</li>
+<li>لا توجد معلومات خاصة مكشوفة</li>
+<li>تمت مراجعة معاينة الملف الشخصي</li>
+<li>المعلومات محدثة باستمرار</li>
 </ul>
-<p>Your profile can show:</p>
+<h1>الأسئلة التي يطرحها المرشحون غالبًا</h1>
+<h1>هل ترى الشركة كل إجابة؟</h1>
+<p>تتلقى الشركة معلومات التقييم المُعدة خصيصًا لعملية التوظيف الخاصة بها. وقد يشمل ذلك الدرجات والأقسام والإجابات التي تتطلب المراجعة. ويعتمد العرض الدقيق على نوع التقييم.</p>
+<h1>هل ترفضني JobsList.dev تلقائيًا؟</h1>
+<p>لا ينبغي لأي خوارزمية آلية أن تحل محل تقدير الشركة في عملية التوظيف. تتلقى الشركة أدلة التقييم وتقرر كيفية استخدامها.</p>
+<h1>هل يتم تسجيل كاميرا الويب الخاصة بي؟</h1>
+<p>لا. لا تزود JobsList.dev الشركة بتسجيلات كاميرا الويب أو الشاشة لأن التقييم لا يقوم بتسجيلها.</p>
+<h1>هل يؤدي سياق التقييم إلى رسوبي تلقائيًا؟</h1>
+<p>لا. يتم عرض السياق بشكل محايد للمراجعة البشرية ولا ينبغي التعامل معه على أنه اتهام أو رفض تلقائي.</p>
+<h1>هل سأرى دائمًا النتيجة الكاملة؟</h1>
+<p>ليس بالضرورة. تعتمد إمكانية رؤية المرشح لنتائجه على الإعدادات والعملية التي تختارها الشركة المدعوة.</p>
+<h1>هل أحتاج إلى حساب لإجراء تقييم تمت دعوتي إليه؟</h1>
+<p>قد يتمكن المرشح المدعو من إكمال التقييم من خلال رابط لمرة واحدة دون الحاجة إلى إنشاء حساب مسبقًا.</p>
+<h1>هل أحتاج إلى إنشاء حساب بعد ذلك؟</h1>
+<p>لا. إن إنشاء ملف تعريف مجاني أمر اختياري.</p>
+<h1>لماذا يجب عليّ إنشاء ملف التعريف؟</h1>
+<p>يمنحك ذلك فرصة للاحتفاظ بنتيجتك وربطها بملف تعريف مرشح قابل لإعادة الاستخدام على JobsList.dev يحتوي على مهاراتك وخبراتك ومشاريعك.</p>
+<h1>هل يضمن الحصول على ملف تعريف فرصة عمل أخرى؟</h1>
+<p>لا. يعمل ملف التعريف على تحسين طريقة عرض معلوماتك المهنية ومهاراتك المثبتة, لكن أصحاب العمل لا يزالون يتخذون قرارات التوظيف بأنفسهم.</p>
+<h1>هل تؤدي النتيجة الضعيفة إلى الإضرار بملف تعريفي بشكل دائم؟</h1>
+<p>تعامل مع النتيجة كجزء واحد من أدلة مهاراتك الحالية. استمر في تحسين معرفتك ومشاريعك وسيرتك الذاتية وأدائك في المقابلات بدلاً من تحديد هويتك بناءً على محاولة واحدة.</p>
+<h1>هل يجب أن أشارك نتيجتي علنًا؟</h1>
+<p>شارك فقط المعلومات التي لا تمانع في نشرها علنًا, واعتمد فقط على أدوات التحكم في الرؤية المدعومة. راجع الملف الشخصي من منظور مستخدم آخر قبل نشر الرابط على نطاق واسع.</p>
+<h1>هل يمكن للشركة إجراء مقابلة معي حتى بعد الحصول على نتيجة منخفضة؟</h1>
+<p>نعم. تقرر الشركات مدى ارتباط أدلة التقييم بالوظيفة. قد تظل نقاط القوة في الأقسام ذات الصلة, والخبرة, والمشاريع, وغيرها من مؤشرات التوظيف ذات أهمية.</p>
+<h1>هل يمكن أن تحل النتيجة العالية محل المقابلة؟</h1>
+<p>يعتمد ذلك على عملية التوظيف في الشركة, لكن معظم أرباب العمل يستخدمون التقييمات كخطوة واحدة بدلاً من أن تكون بديلاً كاملاً عن المحادثة المباشرة.</p>
+<h1>الأخطاء الشائعة بعد إجراء التقييم</h1>
+<h1>إغلاق الصفحة قبل تأكيد الإرسال</h1>
+<p>انتظر حتى تظهر رسالة تأكيد الإكمال.</p>
+<h1>التركيز المفرط على النتيجة الإجمالية</h1>
+<p>اقرأ تفاصيل توزيع النقاط ومدى صلتها بالوظيفة.</p>
+<h1>اعتبار النتيجة المنخفضة حكماً نهائياً على مسيرتك المهنية</h1>
+<p>استخدمها لتحديد أولويات التعلم التي يجب التركيز عليها.</p>
+<h1>ترك الملف الشخصي فارغاً</h1>
+<p>أضف معلومات كافية حتى يتمكن أصحاب العمل من فهم خبرتك وأهدافك.</p>
+<h1>المبالغة في المهارات لمطابقة النتيجة</h1>
+<p>احرص على أن تكون كل معلوماتك صادقة وقابلة للتبرير.</p>
+<h1>التوقف عن البحث عن وظائف أخرى</h1>
+<p>استمر في التقدم للوظائف بينما تقوم إحدى الشركات بتقييم النتيجة.</p>
+<h1>المتابعة بسرعة مفرطة</h1>
+<p>احترم الجدول الزمني المحدد.</p>
+<h1>تجاهل المشكلات الفنية</h1>
+<p>أبلغ عن المشكلات الحقيقية المتعلقة بالإرسال أو الحساب عبر القناة المناسبة.</p>
+<h1>نشر الروابط الخاصة دون تروٍ</h1>
+<p>راجع إعدادات الرؤية قبل المشاركة.</p>
+<h1>افتراض أن النتيجة العالية تضمن الحصول على عرض عمل</h1>
+<p>تتضمن عملية التوظيف عدة أشكال من الأدلة والقيود العملية.</p>
+<h1>عدم الاستعداد للمقابلة التالية</h1>
+<p>قد يصبح التقييم نقطة انطلاق لمحادثة فنية أعمق.</p>
+<h1>الغرض الأوسع من أدلة المهارات القابلة للنقل</h1>
+<p>تجبر عمليات التوظيف التقليدية المرشحين على إثبات الأمر نفسه مرارًا وتكرارًا.
+قد تضطر إلى إكمال:</p>
 <ul>
-<li>experience;</li>
-<li>accomplishments;</li>
-<li>projects;</li>
-<li>goals;</li>
-<li>preferred roles;</li>
-<li>technical identity;</li>
-<li>availability;</li>
-<li>work context.</li>
+<li>تقييم واحد في JavaScript لشركة واحدة؛</li>
+<li>تقييم آخر مشابه لشركة ثانية؛</li>
+<li>اختبار برمجة آخر لشركة ثالثة؛</li>
+<li>واجب منزلي آخر لشركة رابعة.
+يتم تكرار هذا العمل لأن الأدلة تظل محصورة داخل أنظمة توظيف منفصلة.
+يمكن لنموذج التقييم القائم على الملف الشخصي أن يساهم في بناء علاقة أفضل:</li>
+<li>يحصل المرشحون على قيمة أكبر من جهودهم؛</li>
+<li>يتلقى أصحاب العمل أدلة منظمة بشكل أوضح؛</li>
+<li>تجمع الملفات الشخصية بين المهارات المثبتة والخبرة؛</li>
+<li>يمكن لتقييم واحد أن يدعم أكثر من مرحلة واحدة في عملية البحث عن وظيفة؛</li>
+<li>يكون لدى المرشحين حافز لمواصلة التطوير بدلاً من البدء من الصفر مرارًا وتكرارًا.
+هذه هي الفكرة وراء تقديم ملف شخصي لك بعد التقييم.
+يجب أن تصبح جهودك جزءًا من مسيرتك المهنية.</li>
 </ul>
-<p>The score answers:</p>
-<blockquote>
-<p>How did this candidate perform on this assessment?</p>
-</blockquote>
-<p>The profile answers:</p>
-<blockquote>
-<p>Who is this developer, what have they built, and where could they contribute?</p>
-</blockquote>
-<p>Employers need both kinds of context.</p>
-<h1>A practical next-step plan</h1>
-<h1>During the first hour after submission</h1>
-<ul>
-<li>Confirm that the assessment was submitted.</li>
-<li>Read the completion screen.</li>
-<li>Save any relevant confirmation.</li>
-<li>Review the score when it is available.</li>
-<li>Claim your profile when you choose to.</li>
-<li>Record the completion date in your application tracker.</li>
-</ul>
-<h1>During the first day</h1>
-<ul>
-<li>Complete the basic profile information.</li>
-<li>Add a professional headline.</li>
-<li>Add your main skills.</li>
-<li>Link your résumé, GitHub, or portfolio where supported.</li>
-<li>Write down what felt easy and difficult.</li>
-<li>Prepare for the likely next interview stage.</li>
-</ul>
-<h1>During the first week</h1>
-<ul>
-<li>Add projects and experience.</li>
-<li>Review weak assessment areas.</li>
-<li>Practice explaining your strongest work.</li>
-<li>Continue applying.</li>
-<li>Follow up only after the expected timeline passes.</li>
-<li>Keep the profile current.</li>
-</ul>
-<h1>Over the following month</h1>
-<ul>
-<li>Build evidence around weaker skills.</li>
-<li>Improve project documentation.</li>
-<li>Refine your résumé.</li>
-<li>Complete additional relevant assessments when appropriate.</li>
-<li>Track interview conversion.</li>
-<li>Update your profile as your skills and goals change.</li>
-</ul>
-<h1>Candidate profile checklist</h1>
-<h2>Identity</h2>
-<ul>
-<li>Professional name</li>
-<li>Clear headline</li>
-<li>Current location</li>
-<li>Contact information</li>
-<li>Professional photo or avatar where appropriate</li>
-</ul>
-<h2>Career direction</h2>
-<ul>
-<li>Target roles</li>
-<li>Preferred work arrangement</li>
-<li>Seniority</li>
-<li>Availability</li>
-<li>Relevant location or time-zone preferences</li>
-</ul>
-<h2>Experience</h2>
-<ul>
-<li>Accurate dates</li>
-<li>Recognizable titles</li>
-<li>Clear scope</li>
-<li>Accomplishments</li>
-<li>Verified metrics</li>
-<li>Technologies</li>
-</ul>
-<h2>Skills</h2>
-<ul>
-<li>Relevant technologies</li>
-<li>Core engineering competencies</li>
-<li>Skills ordered by target role</li>
-<li>No inflated claims</li>
-</ul>
-<h2>Projects</h2>
-<ul>
-<li>Clear descriptions</li>
-<li>Personal contribution</li>
-<li>Technical decisions</li>
-<li>Live links</li>
-<li>Source links</li>
-<li>Tests and documentation</li>
-<li>Honest limitations</li>
-</ul>
-<h2>Assessment context</h2>
-<ul>
-<li>Result preserved where available</li>
-<li>Strong sections understood</li>
-<li>Weak sections converted into learning goals</li>
-<li>Result connected to broader evidence</li>
-</ul>
-<h2>Quality check</h2>
-<ul>
-<li>No broken links</li>
-<li>No spelling errors</li>
-<li>No contradictory dates</li>
-<li>No exposed private information</li>
-<li>Profile preview reviewed</li>
-<li>Information kept current</li>
-</ul>
-<h1>Questions candidates often have</h1>
-<h1>Does the company see every answer?</h1>
-<p>The company receives the assessment information configured for its hiring process. This may include scores, sections, and responses requiring review. The precise presentation depends on the assessment.</p>
-<h1>Does JobsList.dev automatically reject me?</h1>
-<p>No automatic algorithm should replace the company’s hiring judgment. The company receives assessment evidence and decides how to use it.</p>
-<h1>Is my webcam recorded?</h1>
-<p>No. JobsList.dev does not provide the company with webcam or screen recordings because the assessment does not record them.</p>
-<h1>Does assessment context automatically fail me?</h1>
-<p>No. Context is presented neutrally for human review and should not be treated as an automatic accusation or rejection.</p>
-<h1>Will I always see the complete score?</h1>
-<p>Not necessarily. Candidate result visibility depends on the settings and process selected by the inviting company.</p>
-<h1>Do I need an account to take an invited assessment?</h1>
-<p>An invited candidate may be able to complete the assessment through a one-time link without creating an account first.</p>
-<h1>Do I need to create an account afterward?</h1>
-<p>No. Claiming a free profile is optional.</p>
-<h1>Why should I claim the profile?</h1>
-<p>It gives you an opportunity to preserve your result and connect it to a reusable JobsList.dev candidate profile containing your skills, experience, and projects.</p>
-<h1>Does claiming a profile guarantee another job opportunity?</h1>
-<p>No. A profile improves how your professional information and demonstrated skills can be presented, but employers still make their own hiring decisions.</p>
-<h1>Does a weak score permanently damage my profile?</h1>
-<p>Treat the result as one part of your current skills evidence. Continue improving your knowledge, projects, résumé, and interview performance rather than defining yourself by a single attempt.</p>
-<h1>Should I share my result publicly?</h1>
-<p>Share only information you are comfortable making public and only through supported visibility controls. Review the profile from another user’s perspective before distributing a link widely.</p>
-<h1>Can the company still interview me after a lower score?</h1>
-<p>Yes. Companies decide how assessment evidence relates to the role. Relevant section strengths, experience, projects, and other hiring signals may still matter.</p>
-<h1>Can a strong score replace an interview?</h1>
-<p>That depends on the company’s hiring process, but most employers use assessments as one step rather than a complete replacement for human conversation.</p>
-<h1>Common mistakes after an assessment</h1>
-<h1>Closing the page before confirming submission</h1>
-<p>Wait for the completion confirmation.</p>
-<h1>Obsessing over the total score</h1>
-<p>Read the section breakdown and role relevance.</p>
-<h1>Treating a lower score as a career verdict</h1>
-<p>Use it to identify focused learning priorities.</p>
-<h1>Leaving a claimed profile empty</h1>
-<p>Add enough context for employers to understand your experience and goals.</p>
-<h1>Inflating skills to match the result</h1>
-<p>Keep every claim honest and defensible.</p>
-<h1>Stopping the rest of your job search</h1>
-<p>Continue applying while one company evaluates the result.</p>
-<h1>Following up too quickly</h1>
-<p>Respect the timeline provided.</p>
-<h1>Ignoring technical problems</h1>
-<p>Report genuine submission or account issues through the appropriate channel.</p>
-<h1>Publishing private links carelessly</h1>
-<p>Review visibility before sharing.</p>
-<h1>Assuming a high score guarantees an offer</h1>
-<p>Hiring includes several forms of evidence and practical constraints.</p>
-<h1>Failing to prepare for the next interview</h1>
-<p>The assessment may become the starting point for a deeper technical conversation.</p>
-<h1>The broader purpose of portable skills evidence</h1>
-<p>Traditional hiring makes candidates repeatedly prove the same thing.</p>
-<p>You may complete:</p>
-<ul>
-<li>one JavaScript assessment for one company;</li>
-<li>another similar assessment for a second company;</li>
-<li>another code screen for a third;</li>
-<li>another take-home for a fourth.</li>
-</ul>
-<p>The work is repeated because the evidence remains trapped inside separate hiring systems.</p>
-<p>A profile-based assessment model can move toward a better relationship:</p>
-<ul>
-<li>candidates retain more value from their effort;</li>
-<li>employers receive clearer structured evidence;</li>
-<li>profiles combine demonstrated skills with experience;</li>
-<li>one assessment can support more than one moment in a job search;</li>
-<li>candidates have an incentive to keep developing rather than repeatedly starting from zero.</li>
-</ul>
-<p>That is the idea behind offering you a profile after the assessment.</p>
-<p>Your effort should be able to become part of your professional story.</p>
-<h1>The takeaway</h1>
-<p>Submitting a JobsList.dev assessment is not the end of the process.</p>
-<p>It creates several possible next steps:</p>
+<h1>النقطة الأساسية</h1>
+<p>تقديم تقييم JobsList.dev ليس نهاية العملية.
+بل يفتح الباب أمام عدة خطوات محتملة تالية:</p>
 <ol>
-<li>Your responses are scored according to the assessment rules.</li>
-<li>The hiring company receives structured evidence such as overall and section-level performance.</li>
-<li>Any assessment context is presented neutrally for human review rather than as an automatic accusation.</li>
-<li>The company decides how the result fits into its broader hiring process.</li>
-<li>You may see the result or a summary depending on the company’s settings.</li>
-<li>You can choose to claim a free JobsList.dev profile and preserve your result.</li>
-<li>You can add experience, projects, skills, and preferences to create a fuller hiring signal.</li>
-<li>You can use the result to identify strengths, plan improvement, and prepare for the next interview.</li>
-<li>You should continue applying while the company completes its process.</li>
+<li>يتم تقييم إجاباتك وفقًا لقواعد التقييم.</li>
+<li>تتلقى الشركة المُوظِّفة أدلة منظمة مثل الأداء العام والأداء على مستوى الأقسام.</li>
+<li>يتم عرض أي سياق تقييمي بشكل محايد للمراجعة البشرية بدلاً من أن يكون بمثابة اتهام تلقائي.</li>
+<li>تقرر الشركة كيف تتناسب النتيجة مع عملية التوظيف الأوسع نطاقًا لديها.</li>
+<li>قد ترى النتيجة أو ملخصًا لها اعتمادًا على إعدادات الشركة.</li>
+<li>يمكنك اختيار إنشاء ملف تعريف مجاني على JobsList.dev والاحتفاظ بنتيجتك.</li>
+<li>يمكنك إضافة الخبرات والمشاريع والمهارات والتفضيلات لإنشاء مؤشر توظيف أكثر شمولًا.</li>
+<li>يمكنك استخدام النتيجة لتحديد نقاط القوة والتخطيط للتحسين والاستعداد للمقابلة التالية.</li>
+<li>يجب أن تستمر في التقدم للوظائف بينما تكمل الشركة إجراءاتها.
+درجتك مفيدة, لكنها ليست الصورة الكاملة.
+تشمل قيمتك المهنية ما يلي:</li>
 </ol>
-<p>Your score is useful, but it is not the whole story.</p>
-<p>Your professional value includes:</p>
 <ul>
-<li>what you know;</li>
-<li>what you have built;</li>
-<li>how you solve problems;</li>
-<li>how you communicate;</li>
-<li>how you learn;</li>
-<li>how you work with others;</li>
-<li>where you are capable of growing next.</li>
+<li>ما تعرفه؛</li>
+<li>ما أنجزته؛</li>
+<li>كيف تحل المشكلات؛</li>
+<li>كيف تتواصل؛</li>
+<li>كيف تتعلم؛</li>
+<li>كيف تعمل مع الآخرين؛</li>
+<li>المجالات التي يمكنك التطور فيها مستقبلاً.
+يقدم التقييم نظرة منظمة واحدة لتلك القدرة.
+ويوفر ملفك الشخصي السياق اللازم لذلك.
+أما طلب التوظيف التالي الذي ستقدمه, فيحدد الاتجاه الذي ستسير فيه.
+<em>هل أكملت تقييمك؟ <a href="/auth/register?role=EMPLOYEE">احصل على ملفك الشخصي المجاني على JobsList.dev</a>, واحتفظ بالمهارات التي أظهرتها, وأضف خبراتك ومشاريعك, واستمر في السعي نحو الوظيفة التي تناسبك.</em></li>
 </ul>
-<p>The assessment provides one structured view of that ability.</p>
-<p>Your profile gives it context.</p>
-<p>Your next application gives it somewhere to go.</p>
-<p><em>Completed your assessment? <a href="/auth/register?role=EMPLOYEE">Claim your free JobsList.dev profile</a>, preserve your demonstrated skills, add your experience and projects, and keep moving toward the role that fits you.</em></p>
-5:["locale","ar","d"]
-6:["slug","after-the-assessment-your-score-your-profile","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"after-the-assessment-your-score-your-profile\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","after-the-assessment-your-score-your-profile","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"After the Assessment: Your Score, Your Profile, Your Next Step\",\"description\":\"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage.\",\"datePublished\":\"2026-07-24T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"After the Assessment: Your Score, Your Profile, Your Next Step","date":"2026-07-24T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":32,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"After the Assessment: Your Score, Your Profile, Your Next Step | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","15",{"property":"og:description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-24T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"After the Assessment: Your Score, Your Profile, Your Next Step"}],["$","meta","25",{"name":"twitter:description","content":"Learn what happens after you submit a JobsList.dev assessment, what hiring companies may see, how scores are handled, and how claiming a free developer profile can turn one assessment into a lasting job-search advantage."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"بعد الاختبار: نتيجتك, ملفك الشخصي, خطوتك التالية\",\"description\":\"تعرف على ما يحدث بعد إرسال اختبار JobsList.dev, وما قد تراه الشركات المُوظِّفة, وكيفية التعامل مع النتائج, وكيف يمكن أن يؤدي الحصول على ملف شخصي مجاني للمطور إلى تحويل اختبار واحد إلى ميزة دائمة في البحث عن وظيفة.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-24T00:00:00.000Z\",\"dateModified\":\"2026-07-24T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/after-the-assessment-your-score-your-profile/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"بعد الاختبار: نتيجتك, ملفك الشخصي, خطوتك التالية"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"تعرف على ما يحدث بعد إرسال اختبار JobsList.dev, وما قد تراه الشركات المُوظِّفة, وكيفية التعامل مع النتائج, وكيف يمكن أن يؤدي الحصول على ملف شخصي مجاني للمطور إلى تحويل اختبار واحد إلى ميزة دائمة في البحث عن وظيفة."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-24T00:00:00.000Z","children":"23 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[32," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التقييمات",{"className":"badge-gray","children":"التقييمات"}],["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المرشحون",{"className":"badge-gray","children":"المرشحون"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","البحث عن عمل",{"className":"badge-gray","children":"البحث عن عمل"}],["$","span","الملفات الشخصية",{"className":"badge-gray","children":"الملفات الشخصية"}],["$","span","المهارات",{"className":"badge-gray","children":"المهارات"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"بعد الاختبار: نتيجتك, ملفك الشخصي, خطوتك التالية | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"تعرف على ما يحدث بعد إرسال اختبار JobsList.dev, وما قد تراه الشركات المُوظِّفة, وكيفية التعامل مع النتائج, وكيف يمكن أن يؤدي الحصول على ملف شخصي مجاني للمطور إلى تحويل اختبار واحد إلى ميزة دائمة في البحث عن وظيفة."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"بعد الاختبار: نتيجتك, ملفك الشخصي, خطوتك التالية"}],["$","meta","15",{"property":"og:description","content":"تعرف على ما يحدث بعد إرسال اختبار JobsList.dev, وما قد تراه الشركات المُوظِّفة, وكيفية التعامل مع النتائج, وكيف يمكن أن يؤدي الحصول على ملف شخصي مجاني للمطور إلى تحويل اختبار واحد إلى ميزة دائمة في البحث عن وظيفة."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/after-the-assessment-your-score-your-profile/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-24T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"بعد الاختبار: نتيجتك, ملفك الشخصي, خطوتك التالية"}],["$","meta","27",{"name":"twitter:description","content":"تعرف على ما يحدث بعد إرسال اختبار JobsList.dev, وما قد تراه الشركات المُوظِّفة, وكيفية التعامل مع النتائج, وكيف يمكن أن يؤدي الحصول على ملف شخصي مجاني للمطور إلى تحويل اختبار واحد إلى ميزة دائمة في البحث عن وظيفة."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

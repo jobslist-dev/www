@@ -1,583 +1,577 @@
-<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/_next/static/media/e4af272ccee01ff0-s.p.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="preload" as="image" href="/android-chrome-512x512.png" fetchPriority="high"/><link rel="stylesheet" href="/_next/static/css/5c6b851e1306b81e.css" crossorigin="" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-8354e293f59f3d6f.js" crossorigin=""/><script src="/_next/static/chunks/fd9d1056-f55b6ff3e1880803.js" async="" crossorigin=""></script><script src="/_next/static/chunks/8069-0f6c26882825e7b1.js" async="" crossorigin=""></script><script src="/_next/static/chunks/main-app-f60dce7ed672af73.js" async="" crossorigin=""></script><script src="/_next/static/chunks/5250-99357aaff6a9edbe.js" async=""></script><script src="/_next/static/chunks/5277-9a48a71b52a27915.js" async=""></script><script src="/_next/static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js" async=""></script><script src="/_next/static/chunks/963-5de881c494f62071.js" async=""></script><script src="/_next/static/chunks/1749-8a54f20f40c0677e.js" async=""></script><script src="/_next/static/chunks/6809-a145d12267b60b69.js" async=""></script><script src="/_next/static/chunks/5144-e854246528bd17ba.js" async=""></script><script src="/_next/static/chunks/9261-87a5d64ee5484f9e.js" async=""></script><script src="/_next/static/chunks/app/layout-40dda6bc941f2a1a.js" async=""></script><script src="/_next/static/chunks/app/error-938ba30bcc394744.js" async=""></script><script src="/_next/static/chunks/app/not-found-6b77272393cc7060.js" async=""></script><script src="/_next/static/chunks/app/global-error-534aabf6a5b07915.js" async=""></script><meta http-equiv="Content-Security-Policy" content="default-src &#x27;self&#x27;; script-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; https:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; https:; img-src &#x27;self&#x27; data: blob: https:; font-src &#x27;self&#x27; data: https:; connect-src &#x27;self&#x27; https:; frame-src &#x27;self&#x27; https:; object-src &#x27;none&#x27;; base-uri &#x27;self&#x27;; form-action &#x27;self&#x27;; frame-ancestors &#x27;none&#x27;"/><meta name="referrer" content="strict-origin-when-cross-origin"/><meta name="theme-color" content="#4F6BFF"/><meta name="color-scheme" content="light dark"/><title>How to Prepare for a System Design Interview | JobsList.dev | JobsList.dev</title><meta name="description" content="For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."/><meta name="application-name" content="JobsList.dev"/><link rel="manifest" href="/manifest.json"/><meta name="robots" content="noindex, follow"/><meta name="msapplication-TileColor" content="#4F6BFF"/><meta name="msapplication-TileImage" content="/mstile-150x150.png"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="JobsList.dev"/><meta name="apple-mobile-web-app-status-bar-style" content="default"/><meta property="og:title" content="How to Prepare for a System Design Interview"/><meta property="og:description" content="For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."/><meta property="og:image" content="https://jobslist.dev/og-image.png"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:alt" content="JobsList.dev — where exceptional builders find exceptional work."/><meta property="og:type" content="article"/><meta property="article:published_time" content="2026-07-20T00:00:00.000Z"/><meta property="article:author" content="The JobsList.dev Team"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="How to Prepare for a System Design Interview"/><meta name="twitter:description" content="For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams."/><meta name="twitter:image" content="https://jobslist.dev/twitter-image.png"/><meta name="twitter:image:width" content="1200"/><meta name="twitter:image:height" content="630"/><meta name="twitter:image:alt" content="JobsList.dev — where exceptional builders find exceptional work."/><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/><link rel="icon" href="/icon.png?7fb344a72565aa54" type="image/png" sizes="512x512"/><link rel="apple-touch-icon" href="/apple-icon.png?2a164f131c03e85b" type="image/png" sizes="180x180"/><meta name="next-size-adjust"/><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://jobslist.dev/#organization","name":"JobsList.dev","url":"https://jobslist.dev","logo":"https://jobslist.dev/android-chrome-512x512.png"},{"@type":"WebSite","@id":"https://jobslist.dev/#website","url":"https://jobslist.dev","name":"JobsList.dev","publisher":{"@id":"https://jobslist.dev/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://jobslist.dev/jobs/?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script><script>try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}</script><script>(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();</script><script>(function(){try{var bp="";var dirs={"zh-CN":"ltr","es":"ltr","hi":"ltr","fr":"ltr","ar":"rtl","bn":"ltr","pt-BR":"ltr","ru":"ltr","ur":"rtl","id":"ltr","de":"ltr","ja":"ltr","tr":"ltr","ko":"ltr","it":"ltr","vi":"ltr","pl":"ltr","uk":"ltr","nl":"ltr","el":"ltr"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();</script><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin="" noModule=""></script></head><body class="__className_f367f3"><div data-rht-toaster="" style="position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none"></div><div class="min-h-screen flex flex-col"><nav class="sticky top-0 z-50 border-b border-surface-200 bg-surface-0/85 backdrop-blur-xl"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"><div class="flex items-center justify-between h-16"><a class="flex items-center gap-2.5" href="/ar/"><img alt="JobsList.dev" fetchPriority="high" width="46" height="46" decoding="async" data-nimg="1" class="" style="color:transparent" src="/android-chrome-512x512.png"/><span class="font-bold text-xl tracking-tight text-surface-900">JobsList</span><span class="-ml-1 hidden text-sm font-medium text-brand-500 sm:inline">.dev</span></a><div class="hidden lg:flex items-center gap-5"><div class="relative flex items-center gap-1"><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-explore">استكشاف</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-assessments">التقييمات</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-compare">مقارنة</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-resources">الموارد</button></div></div><div class="relative " data-headlessui-state=""><button class="flex items-center gap-1.5 rounded-lg px-2 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-100 hover:text-surface-900 focus:outline-none focus:ring-2 focus:ring-brand-500/30" aria-label="اللغة" id="headlessui-menu-button-:R1d4ula:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-5 w-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"></path></svg><span class="hidden max-w-[8rem] truncate sm:inline">العربية</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-4 w-4 text-surface-400"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></button></div><div class="h-8 w-[6.5rem]" aria-hidden="true"></div><div class="flex items-center gap-3"><a class="btn-ghost text-sm" href="/auth/login/">تسجيل الدخول</a><a class="btn-primary text-sm" href="/auth/register/?role=COMPANY">نشر وظيفة</a></div></div><div class="flex items-center gap-1.5 lg:hidden"><div class="relative " data-headlessui-state=""><button class="flex items-center gap-1.5 rounded-lg px-2 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-100 hover:text-surface-900 focus:outline-none focus:ring-2 focus:ring-brand-500/30" aria-label="اللغة" id="headlessui-menu-button-:Rbkula:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-5 w-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"></path></svg><span class="hidden max-w-[8rem] truncate sm:inline">العربية</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-4 w-4 text-surface-400"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></button></div><button class="btn-ghost p-2" aria-label="فتح قائمة التنقّل" aria-expanded="false"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg></button></div></div></div></nav><main class="flex-1"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Prepare for a System Design Interview","description":"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.","datePublished":"2026-07-20T00:00:00.000Z","inLanguage":"ar","author":{"@type":"Organization","name":"The JobsList.dev Team"},"publisher":{"@type":"Organization","name":"JobsList.dev"}}</script><article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12"><a class="text-sm text-brand-600 hover:text-brand-700" href="/ar/blog/">← جميع المقالات</a><header class="mt-4 mb-8"><h1 class="text-3xl sm:text-4xl font-bold tracking-tight text-surface-900">How to Prepare for a System Design Interview</h1><div class="flex flex-wrap items-center gap-x-3 gap-y-1 mt-4 text-sm text-surface-400"><span>The JobsList.dev Team</span><span>·</span><time dateTime="2026-07-20T00:00:00.000Z">20 يوليو 2026</time><span>·</span><span>10 دقيقة قراءة</span></div></header><div class="article"><p>System design interviews intimidate even experienced engineers because they&#39;re deliberately open-ended. There is no single correct answer, no hidden checklist of components you must draw, and no architecture diagram that guarantees success.</p>
-<p>Ironically, the candidates who prepare by memorizing the architecture for Twitter, YouTube, Dropbox, Uber, or Netflix often struggle the most when interviewers change a requirement halfway through the discussion.</p>
-<p>That&#39;s because system design interviews aren&#39;t testing your memory.</p>
-<p>They&#39;re testing how you think.</p>
-<p>Interviewers want to know whether they could trust you to sit in a design meeting with senior engineers, discuss trade-offs, ask intelligent questions, identify risks, and help build a scalable system collaboratively.</p>
-<p>If you prepare for <em>that</em>, you&#39;ll perform well regardless of the question.</p>
+<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/_next/static/media/e4af272ccee01ff0-s.p.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="preload" as="image" href="/logo.png" fetchPriority="high"/><link rel="preload" as="image" href="/og-image.png" fetchPriority="high"/><link rel="stylesheet" href="/_next/static/css/047034200e37d0e0.css" crossorigin="" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-ff32a9449c506145.js" crossorigin=""/><script src="/_next/static/chunks/fd9d1056-f55b6ff3e1880803.js" async="" crossorigin=""></script><script src="/_next/static/chunks/8069-0f6c26882825e7b1.js" async="" crossorigin=""></script><script src="/_next/static/chunks/main-app-64642c8977e5fd90.js" async="" crossorigin=""></script><script src="/_next/static/chunks/5250-99357aaff6a9edbe.js" async=""></script><script src="/_next/static/chunks/963-5de881c494f62071.js" async=""></script><script src="/_next/static/chunks/5277-31d5f0c3e43e0d4d.js" async=""></script><script src="/_next/static/chunks/1749-8a54f20f40c0677e.js" async=""></script><script src="/_next/static/chunks/6809-a145d12267b60b69.js" async=""></script><script src="/_next/static/chunks/5144-68f07b5e59a15c8b.js" async=""></script><script src="/_next/static/chunks/9261-87a5d64ee5484f9e.js" async=""></script><script src="/_next/static/chunks/app/layout-5829aa442748d008.js" async=""></script><script src="/_next/static/chunks/app/error-28165561f4e13b0a.js" async=""></script><script src="/_next/static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js" async=""></script><script src="/_next/static/chunks/app/global-error-eeb4f90a57d929d6.js" async=""></script><meta name="theme-color" content="#4F6BFF"/><meta name="color-scheme" content="light dark"/><title>كيفية الاستعداد لمقابلة تصميم النظام | JobsList.dev | JobsList.dev</title><meta name="description" content="للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية."/><meta name="application-name" content="JobsList.dev"/><link rel="manifest" href="/manifest.json"/><meta name="robots" content="noindex, follow"/><meta name="msapplication-TileColor" content="#4F6BFF"/><meta name="msapplication-TileImage" content="/mstile-150x150.png"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-title" content="JobsList.dev"/><meta name="apple-mobile-web-app-status-bar-style" content="default"/><meta property="og:title" content="كيفية الاستعداد لمقابلة تصميم النظام"/><meta property="og:description" content="للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية."/><meta property="og:url" content="https://jobslist.dev/ar/blog/system-design-interview-preparation/"/><meta property="og:locale" content="ar"/><meta property="og:image" content="https://jobslist.dev/og-image.png"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:alt" content="JobsList.dev — where exceptional builders find exceptional work."/><meta property="og:type" content="article"/><meta property="article:published_time" content="2026-07-20T00:00:00.000Z"/><meta property="article:author" content="فريق JobsList.dev"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="كيفية الاستعداد لمقابلة تصميم النظام"/><meta name="twitter:description" content="للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية."/><meta name="twitter:image" content="https://jobslist.dev/twitter-image.png"/><meta name="twitter:image:width" content="1200"/><meta name="twitter:image:height" content="630"/><meta name="twitter:image:alt" content="JobsList.dev — where exceptional builders find exceptional work."/><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/><link rel="icon" href="/icon.png?7fb344a72565aa54" type="image/png" sizes="512x512"/><link rel="apple-touch-icon" href="/apple-icon.png?2a164f131c03e85b" type="image/png" sizes="180x180"/><meta name="next-size-adjust"/><meta http-equiv="Content-Security-Policy" content="default-src &#x27;self&#x27;; script-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; https:; style-src &#x27;self&#x27; &#x27;unsafe-inline&#x27; https:; img-src &#x27;self&#x27; data: blob: https:; font-src &#x27;self&#x27; data: https:; connect-src &#x27;self&#x27; https:; frame-src &#x27;self&#x27; https:; object-src &#x27;none&#x27;; base-uri &#x27;self&#x27;; form-action &#x27;self&#x27;; frame-ancestors &#x27;none&#x27;"/><meta name="referrer" content="strict-origin-when-cross-origin"/><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://jobslist.dev/#organization","name":"JobsList.dev","url":"https://jobslist.dev","logo":"https://jobslist.dev/android-chrome-512x512.png"},{"@type":"WebSite","@id":"https://jobslist.dev/#website","url":"https://jobslist.dev","name":"JobsList.dev","publisher":{"@id":"https://jobslist.dev/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://jobslist.dev/jobs/?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script><script>try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}</script><script>(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();</script><script>(function(){try{var bp="";var dirs={"zh-CN":"ltr","es":"ltr","hi":"ltr","fr":"ltr","ar":"rtl","bn":"ltr","pt-BR":"ltr","ru":"ltr","ur":"rtl","id":"ltr","de":"ltr","ja":"ltr","tr":"ltr","ko":"ltr","it":"ltr","vi":"ltr","pl":"ltr","uk":"ltr","nl":"ltr","el":"ltr"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();</script><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin="" noModule=""></script></head><body class="__className_f367f3"><div data-rht-toaster="" style="position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none"></div><div class="min-h-screen flex flex-col"><nav class="sticky top-0 z-50 border-b border-surface-200 bg-surface-0/85 backdrop-blur-xl"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"><div class="flex items-center justify-between h-16"><a class="flex items-center gap-2.5" href="/ar/"><img alt="JobsList.dev" fetchPriority="high" width="46" height="46" decoding="async" data-nimg="1" class="rounded-full" style="color:transparent" src="/logo.png"/><span class="font-bold text-xl tracking-tight text-surface-900">JobsList</span><span class="-ml-1 hidden text-sm font-medium text-brand-500 sm:inline">.dev</span></a><div class="hidden lg:flex items-center gap-5"><div class="relative flex items-center gap-1"><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-explore">استكشاف</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-assessments">التقييمات</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-compare">مقارنة</button></div><div class="relative"><button type="button" class="rounded-lg px-2.5 py-2 text-sm font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-brand-500/30 text-surface-600 hover:bg-surface-100 hover:text-surface-900" aria-expanded="false" aria-controls="mega-menu-resources">الموارد</button></div></div><div class="relative " data-headlessui-state=""><button class="flex items-center gap-1.5 rounded-lg px-2 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-100 hover:text-surface-900 focus:outline-none focus:ring-2 focus:ring-brand-500/30" aria-label="اللغة" id="headlessui-menu-button-:R1d4ula:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-5 w-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"></path></svg><span class="hidden max-w-[8rem] truncate sm:inline">العربية</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-4 w-4 text-surface-400"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></button></div><div class="h-8 w-[6.5rem]" aria-hidden="true"></div><div class="flex items-center gap-3"><a class="btn-ghost text-sm" href="/auth/login/">تسجيل الدخول</a><a class="btn-primary text-sm" href="/auth/register/?role=COMPANY">نشر وظيفة</a></div></div><div class="flex items-center gap-1.5 lg:hidden"><div class="relative " data-headlessui-state=""><button class="flex items-center gap-1.5 rounded-lg px-2 py-2 text-sm font-medium text-surface-600 transition-colors hover:bg-surface-100 hover:text-surface-900 focus:outline-none focus:ring-2 focus:ring-brand-500/30" aria-label="اللغة" id="headlessui-menu-button-:Rbkula:" type="button" aria-haspopup="menu" aria-expanded="false" data-headlessui-state=""><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-5 w-5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418"></path></svg><span class="hidden max-w-[8rem] truncate sm:inline">العربية</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="h-4 w-4 text-surface-400"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></button></div><button class="btn-ghost p-2" aria-label="فتح قائمة التنقّل" aria-expanded="false"><svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg></button></div></div></div></nav><main class="flex-1"><article class="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"كيفية الاستعداد لمقابلة تصميم النظام","description":"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.","image":["https://jobslist.dev/og-image.png"],"datePublished":"2026-07-20T00:00:00.000Z","dateModified":"2026-07-20T00:00:00.000Z","inLanguage":"ar","author":{"@type":"Organization","name":"فريق JobsList.dev"},"publisher":{"@type":"Organization","name":"JobsList.dev","url":"https://jobslist.dev"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://jobslist.dev/ar/blog/system-design-interview-preparation/"}}</script><a class="text-sm text-brand-600 hover:text-brand-700" href="/ar/blog/">← <!-- -->← جميع المقالات</a><div class="relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900"><img alt="JobsList.dev — where exceptional builders find exceptional work." fetchPriority="high" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/og-image.png"/></div><div class=" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 "><h1 class=" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ">كيفية الاستعداد لمقابلة تصميم النظام</h1></div><header class="mb-8 mt-6"><p class="text-lg leading-8 text-surface-600 dark:text-surface-300">للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.</p><div class="mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400"><span>فريق JobsList.dev</span><span aria-hidden="true">·</span><time dateTime="2026-07-20T00:00:00.000Z">19 يوليو 2026</time><span aria-hidden="true">·</span><span>12<!-- --> <!-- -->blog.article.minuteRead</span></div><div class="mt-4 flex flex-wrap gap-2"><span class="badge-gray">الباحثون عن عمل</span><span class="badge-gray">المقابلات</span><span class="badge-gray">الهندسة</span><span class="badge-gray">تصميم النظم</span><span class="badge-gray">بنية البرمجيات</span></div></header><div class="article"><p>تُثير مقابلات تصميم النظم الرهبة حتى لدى المهندسين ذوي الخبرة لأنها مصممة عمدًا لتكون مفتوحة النهاية. لا توجد إجابة صحيحة واحدة, ولا قائمة مرجعية خفية بالمكونات التي يجب عليك رسمها, ولا مخطط هندسي يضمن النجاح.</p>
+<p>ومن المفارقات أن المرشحين الذين يستعدون عن طريق حفظ بنية Twitter أو YouTube أو Dropbox أو Uber أو Netflix غالبًا ما يواجهون صعوبة أكبر عندما يغير القائمون على المقابلة أحد المتطلبات في منتصف المناقشة.</p>
+<p>وذلك لأن مقابلات تصميم الأنظمة لا تختبر ذاكرتك.</p>
+<p>بل تختبر طريقة تفكيرك.</p>
+<p>يريد القائمون على المقابلة معرفة ما إذا كان بإمكانهم الوثوق بك للجلوس في اجتماع تصميم مع كبار المهندسين, ومناقشة المفاضلات, وطرح أسئلة ذكية, وتحديد المخاطر, والمساعدة في بناء نظام قابل للتوسع بشكل تعاوني.</p>
+<p>إذا استعددت لـ<em>ذلك</em>, فستؤدي أداءً جيدًا بغض النظر عن السؤال.</p>
 <hr>
-<h1>What interviewers are really evaluating</h1>
-<p>Most companies score roughly the same categories regardless of whether they&#39;re asking you to design a URL shortener, chat system, payment platform, or social network.</p>
-<p>They want to understand whether you can:</p>
+<h1>ما الذي يقيّمه القائمون على المقابلة حقًا</h1>
+<p>تحصل معظم الشركات على درجات متقاربة تقريبًا في نفس الفئات, بغض النظر عما إذا كانت تطلب منك تصميم أداة لتقصير عناوين URL, أو نظام دردشة, أو منصة دفع, أو شبكة اجتماعية.</p>
+<p>إنها تريد أن تفهم ما إذا كنت قادرًا على:</p>
 <ul>
-<li>Clarify ambiguous requirements</li>
-<li>Estimate scale before designing</li>
-<li>Break a large problem into manageable components</li>
-<li>Choose appropriate technologies</li>
-<li>Explain trade-offs clearly</li>
-<li>Think about reliability and failure</li>
-<li>Adapt when requirements change</li>
-<li>Communicate effectively</li>
+<li>توضيح المتطلبات الغامضة</li>
+<li>تقدير الحجم قبل البدء في التصميم</li>
+<li>تقسيم مشكلة كبيرة إلى مكونات يمكن إدارتها</li>
+<li>اختيار التقنيات المناسبة</li>
+<li>شرح المفاضلات بوضوح</li>
+<li>التفكير في الموثوقية واحتمالات الفشل</li>
+<li>التكيف عند تغير المتطلبات</li>
+<li>التواصل بفعالية</li>
 </ul>
-<p>Notice what is <strong>not</strong> on the list.</p>
+<p>لاحظ ما <strong>ليس</strong> موجودًا في القائمة.</p>
 <ul>
-<li>Memorizing AWS services</li>
-<li>Naming obscure databases</li>
-<li>Drawing dozens of boxes</li>
-<li>Using the newest technology</li>
+<li>حفظ خدمات AWS</li>
+<li>تسمية قواعد البيانات الغامضة</li>
+<li>رسم العشرات من المربعات</li>
+<li>استخدام أحدث التقنيات</li>
 </ul>
-<p>Good architecture comes from reasoning, not memorization.</p>
+<p>الهندسة الجيدة تنبع من التفكير المنطقي, وليس من الحفظ.</p>
 <hr>
-<h1>Understand the interview format</h1>
-<p>Most system design interviews last <strong>45–60 minutes</strong>.</p>
-<p>A typical flow looks like this:</p>
+<h1>فهم شكل المقابلة</h1>
+<p>تستغرق معظم مقابلات تصميم الأنظمة <strong>45–60 دقيقة</strong>.</p>
+<p>يبدو المسار النموذجي كما يلي:</p>
 <table>
 <thead>
 <tr>
-<th>Time</th>
-<th>Activity</th>
+<th>الوقت</th>
+<th>النشاط</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>5–10 min</td>
-<td>Clarify requirements</td>
+<td>5–10 دقائق</td>
+<td>توضيح المتطلبات</td>
 </tr>
 <tr>
-<td>5 min</td>
-<td>Estimate scale</td>
+<td>5 دقائق</td>
+<td>تقدير الحجم</td>
 </tr>
 <tr>
-<td>10–15 min</td>
-<td>High-level architecture</td>
+<td>10–15 دقيقة</td>
+<td>البنية عالية المستوى</td>
 </tr>
 <tr>
-<td>15–20 min</td>
-<td>Deep dive into key components</td>
+<td>15–20 دقيقة</td>
+<td>التعمق في المكونات الرئيسية</td>
 </tr>
 <tr>
-<td>10 min</td>
-<td>Scaling, failures, optimizations, trade-offs</td>
+<td>10 دقائق</td>
+<td>التوسع, الأعطال, التحسينات, المفاضلات</td>
 </tr>
 <tr>
-<td>Final minutes</td>
-<td>Questions and wrap-up</td>
+<td>الدقائق الأخيرة</td>
+<td>الأسئلة والخلاصة</td>
 </tr>
 </tbody></table>
-<p>Think of the interview as a collaborative whiteboard discussion rather than a presentation.</p>
-<p>The interviewer should be talking almost as much as you are.</p>
+<p>اعتبر المقابلة بمثابة مناقشة تعاونية على السبورة البيضاء بدلاً من عرض تقديمي.</p>
+<p>يجب أن يتحدث القائم بالمقابلة بنفس القدر الذي تتحدث به تقريبًا.</p>
 <hr>
-<h1>Step 1: Clarify the problem first</h1>
-<p>The biggest mistake candidates make is immediately drawing boxes.</p>
-<p>Professional architects don&#39;t design until they understand the problem.</p>
-<p>Ask questions like:</p>
-<h3>Functional Requirements</h3>
+<h1>الخطوة 1: توضيح المشكلة أولاً</h1>
+<p>أكبر خطأ يرتكبه المرشحون هو البدء فورًا في رسم المربعات.</p>
+<p>لا يبدأ المهندسون المعماريون المحترفون في التصميم إلا بعد فهم المشكلة.</p>
+<p>اطرح أسئلة مثل:</p>
+<h3>المتطلبات الوظيفية</h3>
 <ul>
-<li>What should users be able to do?</li>
-<li>What are the core features?</li>
-<li>What isn&#39;t required?</li>
-<li>Is this an MVP or production system?</li>
+<li>ما الذي يجب أن يتمكن المستخدمون من فعله؟</li>
+<li>ما هي الميزات الأساسية؟</li>
+<li>ما الذي لا يُطلب؟</li>
+<li>هل هذا نظام MVP أم نظام إنتاجي؟</li>
 </ul>
-<h3>Non-functional Requirements</h3>
+<h3>المتطلبات غير الوظيفية</h3>
 <ul>
-<li>Expected uptime?</li>
-<li>Maximum acceptable latency?</li>
-<li>Data consistency requirements?</li>
-<li>Security requirements?</li>
-<li>Geographic regions?</li>
+<li>وقت التشغيل المتوقع؟</li>
+<li>الحد الأقصى المقبول لزمن الاستجابة؟</li>
+<li>متطلبات اتساق البيانات؟</li>
+<li>متطلبات الأمان؟</li>
+<li>المناطق الجغرافية؟</li>
 </ul>
-<h3>Scale</h3>
-<p>Ask for numbers whenever possible.</p>
-<p>Examples:</p>
+<h3>الحجم</h3>
+<p>اطلب أرقامًا كلما أمكن ذلك.</p>
+<p>أمثلة:</p>
 <ul>
-<li>Daily active users</li>
-<li>Peak requests per second</li>
-<li>Storage requirements</li>
-<li>Read/write ratio</li>
-<li>Expected growth</li>
+<li>عدد المستخدمين النشطين يوميًا</li>
+<li>ذروة الطلبات في الثانية</li>
+<li>متطلبات التخزين</li>
+<li>نسبة القراءة/الكتابة</li>
+<li>النمو المتوقع</li>
 </ul>
-<p>If the interviewer doesn&#39;t know or intentionally leaves it open, make reasonable assumptions and state them aloud.</p>
+<p>إذا كان القائم بالمقابلة لا يعرف الإجابة أو تركها مفتوحة عن قصد, فقم بوضع افتراضات معقولة واعرضها بصوت عالٍ.</p>
 <blockquote>
-<p>&quot;I&#39;ll assume roughly 20 million monthly users with around 5,000 requests per second at peak.&quot;</p>
+<p>&quot;سأفترض أن هناك ما يقارب 20 مليون مستخدم شهريًا مع حوالي 5,000 طلب في الثانية في أوقات الذروة.&quot;</p>
 </blockquote>
-<p>Reasonable assumptions are far better than guessing silently.</p>
+<p>الافتراضات المعقولة أفضل بكثير من التخمين الصامت.</p>
 <hr>
-<h1>Step 2: Estimate before designing</h1>
-<p>You don&#39;t need perfect math.</p>
-<p>You do need to prove your design fits the problem.</p>
-<p>Estimate things like:</p>
+<h1>الخطوة 2: قم بالتقدير قبل التصميم</h1>
+<p>لست بحاجة إلى حسابات رياضية مثالية.</p>
+<p>لكنك بحاجة إلى إثبات أن تصميمك يناسب المشكلة.</p>
+<p>قم بتقدير أمور مثل:</p>
 <ul>
-<li>Requests per second</li>
-<li>Daily traffic</li>
-<li>Storage growth</li>
-<li>Image sizes</li>
-<li>Video bandwidth</li>
-<li>Database size</li>
-<li>Cache hit ratios</li>
+<li>عدد الطلبات في الثانية</li>
+<li>حجم حركة المرور اليومية</li>
+<li>نمو سعة التخزين</li>
+<li>أحجام الصور</li>
+<li>عرض النطاق الترددي للفيديو</li>
+<li>حجم قاعدة البيانات</li>
+<li>نسب نجاح ذاكرة التخزين المؤقت</li>
 </ul>
-<p>These estimates guide architecture decisions.</p>
-<p>A system serving 50 requests per second does <strong>not</strong> need the same architecture as one serving 5 million.</p>
+<p>توجه هذه التقديرات قرارات الهندسة المعمارية.</p>
+<p>النظام الذي يخدم 50 طلبًا في الثانية <strong>لا</strong> يحتاج إلى نفس البنية التي يحتاجها نظام يخدم 5 ملايين طلب.</p>
 <hr>
-<h1>Step 3: Draw a simple high-level architecture</h1>
-<p>Start broad.</p>
-<p>Don&#39;t immediately discuss Redis clusters or Kafka partitions.</p>
-<p>Instead show the major components.</p>
-<p>Example:</p>
-<pre><code>Client
+<h1>الخطوة 3: ارسم بنية بسيطة عالية المستوى</h1>
+<p>ابدأ بشكل عام.</p>
+<p>لا تناقش على الفور مجموعات Redis أو أقسام Kafka.</p>
+<p>بدلاً من ذلك, اعرض المكونات الرئيسية.</p>
+<p>مثال:</p>
+<pre><code>العميل
 
 ↓
 
-Load Balancer
+موزع الحمل
 
 ↓
 
-API Gateway
+بوابة واجهة برمجة التطبيقات (API Gateway)
 
 ↓
 
-Application Servers
+خوادم التطبيقات
 
 ↓
 
-Database
+قاعدة البيانات
 
 ↓
 
-Cache
+ذاكرة التخزين المؤقت
 
 ↓
 
-Object Storage
+تخزين الكائنات
 
 ↓
 
-Queue
+قائمة الانتظار
 
 ↓
 
-Background Workers
+عمليات الخلفية
 </code></pre>
-<p>Then walk through one request from beginning to end.</p>
-<p>This helps both you and the interviewer stay aligned.</p>
+<p>ثم قم بمتابعة مسار طلب واحد من البداية إلى النهاية.</p>
+<p>فهذا يساعدك أنت والمحاور على البقاء على نفس الموجة.</p>
 <hr>
-<h1>Step 4: Identify the core challenge</h1>
-<p>Every system has one interesting engineering problem.</p>
-<p>Examples include:</p>
+<h1>الخطوة 4: تحديد التحدي الأساسي</h1>
+<p>يحتوي كل نظام على مشكلة هندسية واحدة مثيرة للاهتمام.</p>
+<p>ومن الأمثلة على ذلك:</p>
 <ul>
-<li>Search indexing</li>
-<li>Feed ranking</li>
-<li>Video transcoding</li>
-<li>Notification delivery</li>
-<li>Payment processing</li>
-<li>Distributed locking</li>
-<li>Rate limiting</li>
-<li>Global consistency</li>
-<li>Media storage</li>
+<li>فهرسة البحث</li>
+<li>ترتيب موجزات الأخبار</li>
+<li>تحويل ترميز الفيديو</li>
+<li>إرسال الإشعارات</li>
+<li>معالجة المدفوعات</li>
+<li>القفل الموزع</li>
+<li>تحديد معدل الاستخدام</li>
+<li>الاتساق الشامل</li>
+<li>تخزين الوسائط</li>
 </ul>
-<p>That&#39;s where you should spend most of your deep-dive time.</p>
+<p>وهذا هو المجال الذي يجب أن تكرس له معظم وقتك في التعمق في الموضوع.</p>
 <hr>
-<h1>Learn the building blocks instead of memorizing systems</h1>
-<p>Most system design interviews are simply different combinations of the same architectural components.</p>
-<p>Become comfortable with each one.</p>
-<h2>Load Balancers</h2>
-<p>Know:</p>
+<h1>تعلم العناصر الأساسية بدلاً من حفظ الأنظمة</h1>
+<p>معظم مقابلات تصميم الأنظمة هي ببساطة تركيبات مختلفة لنفس المكونات المعمارية.</p>
+<p>تعرّف جيدًا على كل عنصر منها.</p>
+<h2>موزعات الحمل</h2>
+<p>اعرف:</p>
 <ul>
-<li>Why they&#39;re used</li>
-<li>Round robin</li>
-<li>Least connections</li>
-<li>Health checks</li>
-<li>SSL termination</li>
-<li>Layer 4 vs Layer 7</li>
-</ul>
-<hr>
-<h2>Databases</h2>
-<p>Understand when to use:</p>
-<ul>
-<li>Relational databases</li>
-<li>Document databases</li>
-<li>Key-value stores</li>
-<li>Graph databases</li>
-<li>Time-series databases</li>
-</ul>
-<p>Know concepts like:</p>
-<ul>
-<li>Indexes</li>
-<li>Replication</li>
-<li>Partitioning</li>
-<li>Sharding</li>
-<li>Transactions</li>
-<li>Isolation levels</li>
-<li>Read replicas</li>
+<li>سبب استخدامها</li>
+<li>طريقة التناوب (Round Robin)</li>
+<li>أقل عدد من الاتصالات</li>
+<li>فحوصات الحالة</li>
+<li>إنهاء SSL</li>
+<li>الطبقة 4 مقابل الطبقة 7</li>
 </ul>
 <hr>
-<h2>Caching</h2>
-<p>Understand:</p>
+<h2>قواعد البيانات</h2>
+<p>افهم متى تستخدم:</p>
+<ul>
+<li>قواعد البيانات العلائقية</li>
+<li>قواعد البيانات المستندية</li>
+<li>مخازن القيم المفتاحية</li>
+<li>قواعد البيانات البيانية</li>
+<li>قواعد البيانات المتسلسلة زمنياً</li>
+</ul>
+<p>تعرف على مفاهيم مثل:</p>
+<ul>
+<li>الفهارس</li>
+<li>النسخ المتماثل</li>
+<li>التقسيم</li>
+<li>التجزئة</li>
+<li>المعاملات</li>
+<li>مستويات العزل</li>
+<li>النسخ المتماثلة للقراءة</li>
+</ul>
+<hr>
+<h2>التخزين المؤقت</h2>
+<p>فهم:</p>
 <ul>
 <li>Redis</li>
 <li>Memcached</li>
-<li>Browser caching</li>
-<li>CDN caching</li>
-<li>Cache invalidation</li>
-<li>Cache warming</li>
-<li>Cache eviction</li>
-<li>Cache stampede</li>
-<li>Write-through</li>
-<li>Write-back</li>
-<li>Write-around</li>
+<li>التخزين المؤقت للمتصفح</li>
+<li>التخزين المؤقت لشبكة توزيع المحتوى (CDN)</li>
+<li>إبطال صلاحية ذاكرة التخزين المؤقت</li>
+<li>تسخين ذاكرة التخزين المؤقت</li>
+<li>إخلاء ذاكرة التخزين المؤقت</li>
+<li>تدافع ذاكرة التخزين المؤقت</li>
+<li>الكتابة المباشرة</li>
+<li>الكتابة المؤجلة</li>
+<li>الكتابة الالتفافية</li>
 </ul>
-<p>Interviewers love cache questions.</p>
+<p>يحب القائمون على المقابلات طرح الأسئلة المتعلقة بذاكرة التخزين المؤقت.</p>
 <hr>
-<h2>Message Queues</h2>
-<p>Know why queues exist.</p>
-<p>Examples:</p>
+<h2>قوائم انتظار الرسائل</h2>
+<p>معرفة أسباب وجود قوائم الانتظار.</p>
+<p>أمثلة:</p>
 <ul>
 <li>Kafka</li>
 <li>RabbitMQ</li>
 <li>SQS</li>
 <li>NATS</li>
 </ul>
-<p>Understand:</p>
+<p>فهم:</p>
 <ul>
-<li>Producers</li>
-<li>Consumers</li>
-<li>Dead-letter queues</li>
-<li>Retry strategies</li>
-<li>Ordering</li>
-<li>Backpressure</li>
-<li>Exactly-once vs at-least-once delivery</li>
+<li>المُنتِجون</li>
+<li>المستهلكون</li>
+<li>قوائم الانتظار للرسائل المفقودة</li>
+<li>استراتيجيات إعادة المحاولة</li>
+<li>الترتيب</li>
+<li>الضغط العكسي</li>
+<li>التسليم «مرة واحدة بالضبط» مقابل «مرة واحدة على الأقل»</li>
 </ul>
 <hr>
-<h2>Storage</h2>
-<p>Know when to choose:</p>
+<h2>التخزين</h2>
+<p>معرفة متى يتم اختيار:</p>
 <ul>
-<li>Object storage</li>
-<li>Block storage</li>
-<li>File storage</li>
+<li>تخزين الكائنات</li>
+<li>تخزين الكتل</li>
+<li>تخزين الملفات</li>
 </ul>
-<p>Understand:</p>
+<p>افهم:</p>
 <ul>
-<li>CDN integration</li>
-<li>Media processing</li>
-<li>Compression</li>
-<li>Lifecycle policies</li>
+<li>تكامل شبكة توزيع المحتوى (CDN)</li>
+<li>معالجة الوسائط</li>
+<li>الضغط</li>
+<li>سياسات دورة الحياة</li>
 </ul>
 <hr>
-<h2>Search</h2>
-<p>Know basic search architecture:</p>
+<h2>البحث</h2>
+<p>اعرف بنية البحث الأساسية:</p>
 <ul>
-<li>Full-text indexing</li>
-<li>Inverted indexes</li>
+<li>فهرسة النص الكامل</li>
+<li>الفهارس المعكوسة</li>
 <li>Elasticsearch/OpenSearch</li>
-<li>Ranking</li>
-<li>Filtering</li>
+<li>الترتيب</li>
+<li>التصفية</li>
 </ul>
 <hr>
-<h2>APIs</h2>
-<p>Be comfortable discussing:</p>
+<h2>واجهات برمجة التطبيقات (APIs)</h2>
+<p>كن على دراية بمناقشة:</p>
 <ul>
 <li>REST</li>
 <li>GraphQL</li>
 <li>gRPC</li>
-<li>Pagination</li>
-<li>Versioning</li>
-<li>Authentication</li>
-<li>Rate limiting</li>
+<li>ترقيم الصفحات</li>
+<li>إدارة الإصدارات</li>
+<li>المصادقة</li>
+<li>تحديد معدل الاستخدام</li>
 </ul>
 <hr>
-<h1>Always discuss trade-offs</h1>
-<p>This is where senior engineers separate themselves.</p>
-<p>Every decision has benefits and costs.</p>
-<p>For example:</p>
-<table>
-<thead>
-<tr>
-<th>Decision</th>
-<th>Benefit</th>
-<th>Cost</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>SQL</td>
-<td>Strong consistency</td>
-<td>Harder to scale</td>
-</tr>
-<tr>
-<td>NoSQL</td>
-<td>Horizontal scaling</td>
-<td>Weaker consistency</td>
-</tr>
-<tr>
-<td>Cache</td>
-<td>Faster reads</td>
-<td>Invalidation complexity</td>
-</tr>
-<tr>
-<td>CDN</td>
-<td>Lower latency</td>
-<td>Eventual consistency</td>
-</tr>
-<tr>
-<td>Microservices</td>
-<td>Independent deployment</td>
-<td>Operational complexity</td>
-</tr>
-<tr>
-<td>Monolith</td>
-<td>Simpler development</td>
-<td>Harder long-term scaling</td>
-</tr>
-</tbody></table>
-<p>The interviewer isn&#39;t looking for perfect choices.</p>
-<p>They&#39;re looking for engineers who recognize that every choice has consequences.</p>
+<h1>ناقش دائمًا المفاضلات</h1>
+<p>هذا هو ما يميز المهندسين ذوي الخبرة.</p>
+<p>كل قرار له فوائد وتكاليف.</p>
+<p>على سبيل المثال:</p>
+<p>| القرار | الفائدة | التكلفة |
+|-----------|--------- -|------|
+| SQL | اتساق قوي | صعوبة في التوسع |
+| NoSQL | التوسع الأفقي | اتساق أضعف |
+| ذاكرة التخزين المؤقت | قراءة أسرع | تعقيد عملية إبطال الصلاحية |
+| شبكة توزيع المحتوى (CDN) | زمن انتقال أقل | اتساق نهائي |
+| الخدمات الصغيرة | النشر المستقل | تعقيد التشغيل |
+| النظام المتكامل | تطوير أبسط | صعوبة في التوسع على المدى الطويل |</p>
+<p>المحاور لا يبحث عن الخيارات المثالية.</p>
+<p>بل يبحث عن مهندسين يدركون أن كل خيار له عواقبه.</p>
 <hr>
-<h1>Think about failures</h1>
-<p>One hallmark of experienced engineers is asking:</p>
-<p>&quot;What happens when this breaks?&quot;</p>
-<p>Consider:</p>
+<h1>فكر في حالات الفشل</h1>
+<p>إحدى السمات المميزة للمهندسين ذوي الخبرة هي طرح السؤال التالي:</p>
+<p>&quot;ماذا يحدث إذا تعطل هذا؟&quot;</p>
+<p>فكر في:</p>
 <ul>
-<li>Database outage</li>
-<li>Cache outage</li>
-<li>Queue backlog</li>
-<li>Region failure</li>
-<li>Network partition</li>
-<li>Disk failure</li>
-<li>Service crash</li>
-<li>Slow downstream dependency</li>
+<li>انقطاع قاعدة البيانات</li>
+<li>انقطاع ذاكرة التخزين المؤقت</li>
+<li>تراكم الطلبات في قائمة الانتظار</li>
+<li>فشل المنطقة</li>
+<li>انقسام الشبكة</li>
+<li>فشل القرص</li>
+<li>تعطل الخدمة</li>
+<li>بطء التبعية النهائية</li>
 </ul>
-<p>Discuss:</p>
+<p>مناقشة:</p>
 <ul>
-<li>Retries</li>
-<li>Timeouts</li>
-<li>Circuit breakers</li>
-<li>Replication</li>
-<li>Backups</li>
-<li>Monitoring</li>
-<li>Alerting</li>
-<li>Graceful degradation</li>
+<li>محاولات إعادة</li>
+<li>مهلات الانتظار</li>
+<li>قواطع الدائرة</li>
+<li>النسخ المتماثل</li>
+<li>النسخ الاحتياطية</li>
+<li>المراقبة</li>
+<li>التنبيهات</li>
+<li>التدهور التدريجي</li>
 </ul>
-<p>Reliability is often worth more than raw scalability.</p>
+<p>غالبًا ما تكون الموثوقية أكثر أهمية من قابلية التوسع البحتة.</p>
 <hr>
-<h1>Consider scalability</h1>
-<p>Once the initial design works, explain how it evolves.</p>
-<p>Examples:</p>
-<h3>Scale reads</h3>
+<h1>ضع قابلية التوسع في الاعتبار</h1>
+<p>بمجرد أن يعمل التصميم الأولي, اشرح كيف يتطور.</p>
+<p>أمثلة:</p>
+<h3>توسيع نطاق عمليات القراءة</h3>
 <ul>
-<li>Read replicas</li>
-<li>CDN</li>
-<li>Caching</li>
-<li>Search indexes</li>
+<li>النسخ المتماثلة للقراءة</li>
+<li>شبكة توزيع المحتوى (CDN)</li>
+<li>التخزين المؤقت</li>
+<li>فهارس البحث</li>
 </ul>
-<h3>Scale writes</h3>
+<h3>توسيع نطاق عمليات الكتابة</h3>
 <ul>
-<li>Sharding</li>
-<li>Partitioning</li>
-<li>Message queues</li>
-<li>Event streaming</li>
+<li>التجزئة (Sharding)</li>
+<li>التقسيم</li>
+<li>قوائم انتظار الرسائل</li>
+<li>تدفق الأحداث</li>
 </ul>
-<h3>Scale globally</h3>
+<h3>التوسع على نطاق عالمي</h3>
 <ul>
-<li>Multi-region deployment</li>
-<li>Geo-DNS</li>
-<li>Edge caching</li>
-<li>Regional databases</li>
+<li>النشر عبر مناطق متعددة</li>
+<li>نظام أسماء النطاقات الجغرافي (Geo-DNS)</li>
+<li>التخزين المؤقت على الحافة</li>
+<li>قواعد البيانات الإقليمية</li>
 </ul>
-<p>Show that your design can evolve rather than pretending it starts infinitely scalable.</p>
+<p>أظهر أن تصميمك قابل للتطور بدلاً من التظاهر بأنه قابل للتوسع بشكل لا نهائي منذ البداية.</p>
 <hr>
-<h1>Security matters too</h1>
-<p>Many candidates forget security completely.</p>
-<p>Mention:</p>
+<h1>الأمان مهم أيضًا</h1>
+<p>ينسى العديد من المرشحين مسألة الأمان تمامًا.</p>
+<p>اذكر:</p>
 <ul>
-<li>Authentication</li>
-<li>Authorization</li>
+<li>المصادقة</li>
+<li>التفويض</li>
 <li>TLS</li>
-<li>Encryption at rest</li>
-<li>Secrets management</li>
-<li>API keys</li>
+<li>التشفير أثناء التخزين</li>
+<li>إدارة الأسرار</li>
+<li>مفاتيح واجهة برمجة التطبيقات (API)</li>
 <li>OAuth</li>
-<li>Rate limiting</li>
-<li>Audit logging</li>
-<li>Input validation</li>
+<li>تحديد معدل الاستخدام</li>
+<li>سجلات التدقيق</li>
+<li>التحقق من صحة المدخلات</li>
 </ul>
-<p>You don&#39;t need to design the entire security model, but acknowledging it demonstrates maturity.</p>
+<p>لست بحاجة إلى تصميم نموذج الأمان بالكامل, لكن الاعتراف بأهميته يدل على النضج.</p>
 <hr>
-<h1>Monitoring and observability</h1>
-<p>Production systems need visibility.</p>
-<p>Discuss:</p>
+<h1>المراقبة والقابلية للمراقبة</h1>
+<p>تحتاج أنظمة الإنتاج إلى الرؤية.</p>
+<p>ناقش:</p>
 <ul>
-<li>Metrics</li>
-<li>Logging</li>
-<li>Distributed tracing</li>
-<li>Health checks</li>
-<li>Dashboards</li>
-<li>Alerting</li>
-<li>Error budgets</li>
-<li>Service Level Objectives (SLOs)</li>
+<li>المقاييس</li>
+<li>التسجيل</li>
+<li>التتبع الموزع</li>
+<li>فحوصات الحالة</li>
+<li>لوحات المعلومات</li>
+<li>التنبيهات</li>
+<li>ميزانيات الأخطاء</li>
+<li>أهداف مستوى الخدمة (SLOs)</li>
 </ul>
-<p>Being able to detect failures is as important as preventing them.</p>
+<p>تعد القدرة على اكتشاف الأعطال بنفس أهمية منعها.</p>
 <hr>
-<h1>Communicate continuously</h1>
-<p>Don&#39;t draw silently.</p>
-<p>Explain your reasoning.</p>
-<p>Instead of saying:</p>
+<h1>التواصل المستمر</h1>
+<p>لا تتصرف بصمت.</p>
+<p>اشرح أسبابك.</p>
+<p>بدلاً من القول:</p>
 <blockquote>
-<p>&quot;We&#39;ll use Redis.&quot;</p>
+<p>&quot;سنستخدم Redis.&quot;</p>
 </blockquote>
-<p>Say:</p>
+<p>قل:</p>
 <blockquote>
-<p>&quot;Since the majority of requests are reads, adding Redis should reduce database load significantly. The trade-off is cache invalidation complexity, which I&#39;d handle with a TTL and explicit invalidation after writes.&quot;</p>
+<p>&quot;نظرًا لأن غالبية الطلبات تتمثل في عمليات القراءة, فإن إضافة Redis من شأنها أن تقلل من عبء قاعدة البيانات بشكل كبير. المقابل لذلك هو تعقيد عملية إبطال صلاحية ذاكرة التخزين المؤقت, وهو ما سأتعامل معه باستخدام مدة الصلاحية (TTL) وإبطال الصلاحية بشكل صريح بعد عمليات الكتابة.&quot;</p>
 </blockquote>
-<p>That&#39;s what interviewers score.</p>
+<p>هذا هو ما يقيّمه القائمون على المقابلات.</p>
 <hr>
-<h1>Practice the right way</h1>
-<p>The best preparation isn&#39;t reading more architecture diagrams.</p>
-<p>It&#39;s practicing conversations.</p>
-<p>Try exercises like:</p>
+<h1>تدرب بالطريقة الصحيحة</h1>
+<p>أفضل طريقة للتحضير ليست قراءة المزيد من مخططات البنية.</p>
+<p>بل هي التدرب على المحادثات.</p>
+<p>جرب تمارين مثل:</p>
 <ul>
-<li>Design a URL shortener</li>
-<li>Design a chat application</li>
-<li>Design a social media feed</li>
-<li>Design Dropbox</li>
-<li>Design YouTube</li>
-<li>Design Uber</li>
-<li>Design Slack</li>
-<li>Design an online marketplace</li>
-<li>Design an e-commerce platform</li>
-<li>Design a notification system</li>
+<li>تصميم أداة تقصير عناوين URL</li>
+<li>تصميم تطبيق دردشة</li>
+<li>تصميم موجز أخبار على وسائل التواصل الاجتماعي</li>
+<li>تصميم Dropbox</li>
+<li>تصميم YouTube</li>
+<li>تصميم Uber</li>
+<li>تصميم Slack</li>
+<li>تصميم سوق إلكتروني</li>
+<li>تصميم منصة للتجارة الإلكترونية</li>
+<li>تصميم نظام إشعارات</li>
 </ul>
-<p>Time yourself.</p>
-<p>Speak aloud.</p>
-<p>Draw diagrams.</p>
-<p>Record yourself.</p>
-<p>Notice where you hesitate.</p>
-<p>Those are the areas to improve.</p>
+<p>حدد وقتًا لنفسك.</p>
+<p>تحدث بصوت عالٍ.</p>
+<p>ارسم المخططات.</p>
+<p>سجل نفسك.</p>
+<p>لاحظ الأماكن التي تتردد فيها.</p>
+<p>تلك هي المجالات التي تحتاج إلى تحسين.</p>
 <hr>
-<h1>Common mistakes</h1>
-<h2>Starting without clarifying</h2>
-<p>This almost always leads to solving the wrong problem.</p>
+<h1>الأخطاء الشائعة</h1>
+<h2>البدء دون توضيح</h2>
+<p>يؤدي هذا دائمًا تقريبًا إلى حل المشكلة الخاطئة.</p>
 <hr>
-<h2>Over-engineering</h2>
-<p>Don&#39;t introduce Kafka, Kubernetes, CQRS, event sourcing, and 40 microservices for an application with a few thousand users.</p>
-<p>Simple is usually better.</p>
+<h2>الإفراط في الهندسة</h2>
+<p>لا تستخدم Kafka و Kubernetes و CQRS و event sourcing و 40 خدمة صغيرة لتطبيق يضم بضعة آلاف من المستخدمين.</p>
+<p>البساطة عادةً ما تكون أفضل.</p>
 <hr>
-<h2>Never discussing trade-offs</h2>
-<p>Interviewers care more about <em>why</em> than <em>what</em>.</p>
+<h2>عدم مناقشة المفاضلات أبدًا</h2>
+<p>يهتم القائمون على المقابلة بـ<em>لماذا</em> أكثر من <em>ماذا</em>.</p>
 <hr>
-<h2>Getting stuck on technology</h2>
-<p>Don&#39;t argue over Redis versus Memcached for ten minutes.</p>
-<p>Focus on architecture.</p>
+<h2>الانغماس في التفاصيل التقنية</h2>
+<p>لا تجادل لمدة عشر دقائق حول Redis مقابل Memcached.</p>
+<p>ركز على البنية.</p>
 <hr>
-<h2>Forgetting failure scenarios</h2>
-<p>Production systems fail.</p>
-<p>Show you&#39;ve operated software before.</p>
+<h2>نسيان سيناريوهات الفشل</h2>
+<p>أنظمة الإنتاج تتعطل.</p>
+<p>أظهر أنك سبق لك تشغيل برامج من قبل.</p>
 <hr>
-<h2>Talking too little</h2>
-<p>Silence makes it impossible for interviewers to evaluate your thinking.</p>
-<p>Narrate your decisions.</p>
+<h2>القليل من الكلام</h2>
+<p>الصمت يجعل من المستحيل على القائمين على المقابلة تقييم طريقة تفكيرك.</p>
+<p>اشرح قراراتك.</p>
 <hr>
-<h2>Refusing to change direction</h2>
-<p>Interviewers intentionally introduce new constraints.</p>
-<p>Examples:</p>
+<h2>رفض تغيير المسار</h2>
+<p>يقوم القائمون على المقابلات بإدخال قيود جديدة عن قصد.</p>
+<p>أمثلة:</p>
 <blockquote>
-<p>&quot;Now it has to support Europe.&quot;</p>
+<p>«الآن يجب أن يدعم النظام أوروبا.»</p>
 </blockquote>
 <blockquote>
-<p>&quot;Traffic doubled.&quot;</p>
+<p>«تضاعف حجم حركة المرور.»</p>
 </blockquote>
 <blockquote>
-<p>&quot;Compliance requires strong consistency.&quot;</p>
+<p>«يتطلب الامتثال للوائح اتساقًا قويًّا.»</p>
 </blockquote>
-<p>Treat these as collaboration, not criticism.</p>
+<p>تعامل مع هذه الأمور على أنها تعاون, وليس انتقادًا.</p>
 <hr>
-<h1>A four-week study plan</h1>
-<h2>Week 1</h2>
+<h1>خطة دراسية مدتها أربعة أسابيع</h1>
+<h2>الأسبوع الأول</h2>
 <ul>
-<li>Networking fundamentals</li>
+<li>أساسيات الشبكات</li>
 <li>HTTP</li>
 <li>DNS</li>
-<li>Load balancers</li>
-<li>Databases</li>
-<li>Caching</li>
+<li>موازنات الحمل</li>
+<li>قواعد البيانات</li>
+<li>التخزين المؤقت</li>
 </ul>
 <hr>
-<h2>Week 2</h2>
+<h2>الأسبوع الثاني</h2>
 <ul>
-<li>Queues</li>
-<li>Distributed systems</li>
-<li>Replication</li>
-<li>Sharding</li>
-<li>Consistency</li>
-<li>CAP theorem</li>
-<li>APIs</li>
+<li>قوائم الانتظار</li>
+<li>الأنظمة الموزعة</li>
+<li>النسخ المتماثل</li>
+<li>التجزئة</li>
+<li>الاتساق</li>
+<li>نظرية CAP</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
 </ul>
 <hr>
-<h2>Week 3</h2>
-<p>Practice designing:</p>
+<h2>الأسبوع الثالث</h2>
+<p>تدرب على التصميم:</p>
 <ul>
-<li>URL Shortener</li>
+<li>أداة تقصير عناوين URL</li>
 <li>TinyURL</li>
 <li>Pastebin</li>
-<li>Chat App</li>
-<li>File Storage</li>
-<li>News Feed</li>
+<li>تطبيق الدردشة</li>
+<li>تخزين الملفات</li>
+<li>موجز الأخبار</li>
 </ul>
 <hr>
-<h2>Week 4</h2>
-<p>Conduct full mock interviews.</p>
-<p>Practice:</p>
+<h2>الأسبوع الرابع</h2>
+<p>إجراء مقابلات تجريبية كاملة.</p>
+<p>التدريب على:</p>
 <ul>
-<li>Whiteboarding</li>
-<li>Time management</li>
-<li>Communicating clearly</li>
-<li>Explaining trade-offs</li>
-<li>Answering follow-up questions</li>
+<li>استخدام السبورة البيضاء</li>
+<li>إدارة الوقت</li>
+<li>التواصل بوضوح</li>
+<li>شرح المفاضلات</li>
+<li>الإجابة على الأسئلة التكميلية</li>
 </ul>
-<p>Repeat until your process feels natural.</p>
+<p>كرر ذلك حتى تصبح العملية طبيعية بالنسبة لك.</p>
 <hr>
-<h1>Interview day checklist</h1>
-<p>Before the interview:</p>
+<h1>قائمة مراجعة ليوم المقابلة</h1>
+<p>قبل المقابلة:</p>
 <ul>
-<li>✓ Sleep well</li>
-<li>✓ Test your microphone and camera</li>
-<li>✓ Have paper or a whiteboard ready</li>
-<li>✓ Keep water nearby</li>
-<li>✓ Read the company description</li>
-<li>✓ Review one or two practice designs</li>
+<li>✓ نم جيدًا</li>
+<li>✓ اختبر الميكروفون والكاميرا</li>
+<li>✓ جهز ورقة أو لوحة بيضاء</li>
+<li>✓ احتفظ بزجاجة ماء بالقرب منك</li>
+<li>✓ اقرأ وصف الشركة</li>
+<li>✓ راجع تصميمًا أو تصميمين تدريبيين</li>
 </ul>
-<p>During the interview:</p>
+<p>أثناء المقابلة:</p>
 <ul>
-<li>Clarify requirements first</li>
-<li>Think out loud</li>
-<li>Keep diagrams simple</li>
-<li>Justify every major decision</li>
-<li>Discuss trade-offs</li>
-<li>Mention failure scenarios</li>
-<li>Adapt when new requirements appear</li>
+<li>وضح المتطلبات أولاً</li>
+<li>فكر بصوت عالٍ</li>
+<li>اجعل الرسوم التوضيحية بسيطة</li>
+<li>برر كل قرار رئيسي</li>
+<li>ناقش المفاضلات</li>
+<li>اذكر سيناريوهات الفشل</li>
+<li>تكيف مع ظهور متطلبات جديدة</li>
 </ul>
 <hr>
-<h1>Final thoughts</h1>
-<p>A great system design interview isn&#39;t about drawing the most complicated architecture. It&#39;s about demonstrating that you can think like an engineer responsible for building and operating software in the real world.</p>
-<p>Approach every problem methodically:</p>
+<h1>خاتمة</h1>
+<p>المقابلة الناجحة لتصميم الأنظمة لا تتعلق برسم البنية الأكثر تعقيدًا. بل تتعلق بإثبات قدرتك على التفكير كمهندس مسؤول عن بناء وتشغيل البرمجيات في العالم الواقعي.</p>
+<p>تعامل مع كل مشكلة بطريقة منهجية:</p>
 <ol>
-<li>Clarify the requirements.</li>
-<li>Estimate the scale.</li>
-<li>Build a simple architecture.</li>
-<li>Dive into the hardest component.</li>
-<li>Discuss trade-offs honestly.</li>
-<li>Plan for failures.</li>
-<li>Communicate your reasoning throughout.</li>
+<li>حدد المتطلبات بوضوح.</li>
+<li>قم بتقدير حجم المشروع.</li>
+<li>صمم بنية بسيطة.</li>
+<li>ركز على المكون الأصعب.</li>
+<li>ناقش المفاضلات بصراحة.</li>
+<li>استعد لمواجهة الإخفاقات.</li>
+<li>اشرح منطقك طوال العملية.</li>
 </ol>
-<p>Interviewers aren&#39;t looking for someone who memorized the design of Instagram. They&#39;re looking for someone they&#39;d trust to design the next product with their team.</p>
-<p>That mindset—not memorization—is what earns strong system design interview performance.</p>
+<p>المقابلون لا يبحثون عن شخص حفظ تصميم Instagram عن ظهر قلب. إنهم يبحثون عن شخص يثقون به لتصميم المنتج التالي مع فريقهم.</p>
+<p>هذه العقلية — وليس الحفظ — هي ما يضمن أداءً قويًّا في مقابلة تصميم الأنظمة.</p>
 <hr>
-<h2>Additional resources for system design preparation</h2>
-<p>Before interviewing, spend time strengthening these complementary skills:</p>
+<h2>موارد إضافية للتحضير لمقابلة تصميم الأنظمة</h2>
+<p>قبل المقابلة, خصص وقتًا لتعزيز هذه المهارات التكميلية:</p>
 <ul>
-<li>Practice explaining technical concepts to non-technical audiences.</li>
-<li>Review database indexing, transactions, and query optimization.</li>
-<li>Refresh networking fundamentals including HTTP, TLS, DNS, and load balancing.</li>
-<li>Learn the basics of distributed systems, consistency models, and eventual consistency.</li>
-<li>Build small personal projects that use caches, queues, APIs, and databases together.</li>
-<li>Participate in mock interviews with peers and ask for honest feedback on your communication, not just your technical decisions.</li>
+<li>تدرب على شرح المفاهيم التقنية لجمهور غير تقني.</li>
+<li>راجع فهرسة قواعد البيانات والمعاملات وتحسين الاستعلامات.</li>
+<li>جدد معلوماتك حول أساسيات الشبكات بما في ذلك HTTP و TLS و DNS وموازنة الحمل.</li>
+<li>تعلم أساسيات الأنظمة الموزعة ونماذج الاتساق والاتساق النهائي.</li>
+<li>قم ببناء مشاريع شخصية صغيرة تستخدم ذاكرات التخزين المؤقت وقوائم الانتظار وواجهات برمجة التطبيقات وقواعد البيانات معًا.</li>
+<li>شارك في مقابلات تجريبية مع زملائك واطلب منهم ملاحظات صادقة حول أسلوبك في التواصل, وليس فقط حول قراراتك التقنية.</li>
 </ul>
-<p>The engineers who perform best in system design interviews aren&#39;t always the ones with the deepest architectural knowledge—they&#39;re the ones who can communicate complex ideas clearly, collaborate effectively, and make thoughtful engineering decisions under uncertainty.</p>
+<p>المهندسون الذين يحققون أفضل أداء في مقابلات تصميم الأنظمة ليسوا دائمًا أولئك الذين يمتلكون أعمق المعرفة المعمارية — بل هم أولئك القادرون على توصيل الأفكار المعقدة بوضوح, والتعاون بفعالية, واتخاذ قرارات هندسية مدروسة في ظل ظروف عدم اليقين.</p>
 <hr>
-<p><em>Looking for engineering roles that value practical software design skills? <strong>Create your free JobsList.dev profile</strong>, showcase your experience, and apply directly to companies building modern software systems.</em></p>
-</div><div class="mt-12 pt-8 border-t border-surface-200 flex flex-wrap items-center justify-between gap-4"><a class="btn-secondary btn-sm" href="/ar/blog/">← مزيد من المقالات</a><a class="btn-primary btn-sm" href="/auth/register/?role=COMPANY">انشر وظيفة</a></div></article></main><footer class="border-t border-surface-200 bg-surface-0"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12"><div class="grid grid-cols-2 md:grid-cols-4 gap-8"><div class="col-span-2 md:col-span-1"><a class="flex items-center gap-2.5" href="/ar/"><img alt="JobsList.dev" fetchPriority="high" width="92" height="92" decoding="async" data-nimg="1" class="" style="color:transparent" src="/android-chrome-512x512.png"/><span class="font-bold text-lg tracking-tight text-surface-900">JobsList<span class="text-brand-500">.dev</span></span></a><p class="mt-3 text-sm text-surface-500">القائمة المختصرة للمواهب التقنية الاستثنائية.</p></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">للشركات</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/for-companies/">دليل الشركات</a></li><li><a class="hover:text-surface-900" href="/ar/how-it-works/">كيف يعمل</a></li><li><a class="hover:text-surface-900" href="/auth/register/?role=COMPANY">نشر وظيفة</a></li><li><a class="hover:text-surface-900" href="/ar/pricing/">الأسعار والباقات</a></li><li><a class="hover:text-surface-900" href="/ar/developer-hiring-analytics/">تحليلات التوظيف</a></li><li><a class="hover:text-surface-900" href="/ar/assessments/">تقييمات المهارات</a></li><li><a class="hover:text-surface-900" href="/ar/hire/">التوظيف حسب الدور</a></li><li><a class="hover:text-surface-900" href="/ar/compare/">مقارنة المنصّات</a></li><li><a class="hover:text-surface-900" href="/ar/blog/">أدلّة التوظيف</a></li></ul></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">للباحثين عن عمل</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/for-job-seekers/">دليل الباحثين عن عمل</a></li><li><a class="hover:text-surface-900" href="/ar/how-it-works/">كيف يعمل</a></li><li><a class="hover:text-surface-900" href="/jobs/">تصفّح الوظائف</a></li><li><a class="hover:text-surface-900" href="/ar/direct-apply-developer-jobs/">وظائف مطوّرين بتقديم مباشر</a></li><li><a class="hover:text-surface-900" href="/ar/remote-developer-jobs/">وظائف مطوّرين عن بُعد</a></li><li><a class="hover:text-surface-900" href="/ar/developer-salary-guide/">دليل رواتب المطوّرين</a></li><li><a class="hover:text-surface-900" href="/ar/developer-job-alerts/">تنبيهات وظائف المطوّرين</a></li><li><a class="hover:text-surface-900" href="/ar/verified-tech-companies/">شركات تقنية موثّقة</a></li><li><a class="hover:text-surface-900" href="/auth/register/?role=EMPLOYEE">إنشاء ملف تعريفي</a></li></ul></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">الشركة</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/about/">من نحن</a></li><li><a class="hover:text-surface-900" href="/ar/verified-tech-companies/">الثقة والتوثيق</a></li><li><a class="hover:text-surface-900" href="/ar/compare/">المقارنات</a></li><li><a class="hover:text-surface-900" href="/ar/faq/">الأسئلة الشائعة</a></li><li><a class="hover:text-surface-900" href="/ar/blog/">غرفة القراءة</a></li><li><a class="hover:text-surface-900" href="/ar/contact/">تواصل معنا</a></li></ul></div></div><div class="mt-10 pt-6 border-t border-surface-100 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-sm text-surface-400"><span>© 2026 JobsList.dev. جميع الحقوق محفوظة.</span><div class="flex flex-wrap items-center gap-x-4 gap-y-2"><a class="hover:text-surface-900" data-testid="footer-swirl" href="/ar/swirl/">منظومة SWIRL</a><a class="hover:text-surface-900" data-testid="footer-trust-center" href="/ar/trust-center/">مركز الثقة</a><a class="hover:text-surface-900" href="/ar/terms/">الشروط</a><a class="hover:text-surface-900" href="/ar/privacy/">الخصوصية</a><a class="hover:text-surface-900" data-testid="footer-security" href="/ar/security/">الأمان</a><a class="hover:text-surface-900" href="/ar/contact/">تواصل</a><button type="button" data-testid="footer-consent" class="hover:text-surface-900">تفضيلات ملفات تعريف الارتباط</button></div></div></div></footer><div class="fixed bottom-5 right-5 z-40"><button class="btn-primary shadow-lg rounded-full px-4 py-3" aria-label="Send feedback"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 8.511c.884.284 1.5 1.128 1.5 2.097v4.286c0 1.136-.847 2.1-1.98 2.193-.34.027-.68.052-1.02.072v3.091l-3-3c-1.354 0-2.694-.055-4.02-.163a2.115 2.115 0 0 1-.825-.242m9.345-8.334a2.126 2.126 0 0 0-.476-.095 48.64 48.64 0 0 0-8.048 0c-1.131.094-1.976 1.057-1.976 2.192v4.286c0 .837.46 1.58 1.155 1.951m9.345-8.334V6.637c0-1.621-1.152-3.026-2.76-3.235A48.455 48.455 0 0 0 11.25 3c-2.115 0-4.198.137-6.24.402-1.608.209-2.76 1.614-2.76 3.235v6.226c0 1.621 1.152 3.026 2.76 3.235.577.075 1.157.14 1.74.194V21l4.155-4.155"></path></svg><span class="hidden sm:inline">Feedback</span></button></div></div><script src="/_next/static/chunks/webpack-8354e293f59f3d6f.js" crossorigin="" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n2:HL[\"/_next/static/css/5c6b851e1306b81e.css\",\"style\",{\"crossOrigin\":\"\"}]\n0:\"$L3\"\n"])</script><script>self.__next_f.push([1,"4:I[47690,[],\"\"]\n6:I[73600,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"5277\",\"static/chunks/5277-9a48a71b52a27915.js\",\"6081\",\"static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js\"],\"LocalizedArticleView\"]\n8:I[5613,[],\"\"]\nb:I[31778,[],\"\"]\nc:I[9579,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"5277\",\"static/chunks/5277-9a48a71b52a27915.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\""])</script><script>self.__next_f.push([1,"5144\",\"static/chunks/5144-e854246528bd17ba.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"3185\",\"static/chunks/app/layout-40dda6bc941f2a1a.js\"],\"Analytics\"]\nd:I[84133,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"5277\",\"static/chunks/5277-9a48a71b52a27915.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\"5144\",\"static/chunks/5144-e854246528bd17ba.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"318"])</script><script>self.__next_f.push([1,"5\",\"static/chunks/app/layout-40dda6bc941f2a1a.js\"],\"Providers\"]\ne:I[86580,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"7601\",\"static/chunks/app/error-938ba30bcc394744.js\"],\"\"]\nf:I[25250,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"9160\",\"static/chunks/app/not-found-6b77272393cc7060.js\"],\"\"]\n10:I[81749,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"9160\""])</script><script>self.__next_f.push([1,",\"static/chunks/app/not-found-6b77272393cc7060.js\"],\"Image\"]\n11:I[1732,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"5277\",\"static/chunks/5277-9a48a71b52a27915.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\"5144\",\"static/chunks/5144-e854246528bd17ba.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"3185\",\"static/chunks/app/layout-40dda6bc941f2a1a.js\"],\"ConsentManager\"]\n13:I[94251,[\"6470\",\"static/chunks"])</script><script>self.__next_f.push([1,"/app/global-error-534aabf6a5b07915.js\"],\"\"]\n7:T3ff4,"])</script><script>self.__next_f.push([1,"\u003cp\u003eSystem design interviews intimidate even experienced engineers because they\u0026#39;re deliberately open-ended. There is no single correct answer, no hidden checklist of components you must draw, and no architecture diagram that guarantees success.\u003c/p\u003e\n\u003cp\u003eIronically, the candidates who prepare by memorizing the architecture for Twitter, YouTube, Dropbox, Uber, or Netflix often struggle the most when interviewers change a requirement halfway through the discussion.\u003c/p\u003e\n\u003cp\u003eThat\u0026#39;s because system design interviews aren\u0026#39;t testing your memory.\u003c/p\u003e\n\u003cp\u003eThey\u0026#39;re testing how you think.\u003c/p\u003e\n\u003cp\u003eInterviewers want to know whether they could trust you to sit in a design meeting with senior engineers, discuss trade-offs, ask intelligent questions, identify risks, and help build a scalable system collaboratively.\u003c/p\u003e\n\u003cp\u003eIf you prepare for \u003cem\u003ethat\u003c/em\u003e, you\u0026#39;ll perform well regardless of the question.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eWhat interviewers are really evaluating\u003c/h1\u003e\n\u003cp\u003eMost companies score roughly the same categories regardless of whether they\u0026#39;re asking you to design a URL shortener, chat system, payment platform, or social network.\u003c/p\u003e\n\u003cp\u003eThey want to understand whether you can:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eClarify ambiguous requirements\u003c/li\u003e\n\u003cli\u003eEstimate scale before designing\u003c/li\u003e\n\u003cli\u003eBreak a large problem into manageable components\u003c/li\u003e\n\u003cli\u003eChoose appropriate technologies\u003c/li\u003e\n\u003cli\u003eExplain trade-offs clearly\u003c/li\u003e\n\u003cli\u003eThink about reliability and failure\u003c/li\u003e\n\u003cli\u003eAdapt when requirements change\u003c/li\u003e\n\u003cli\u003eCommunicate effectively\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eNotice what is \u003cstrong\u003enot\u003c/strong\u003e on the list.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMemorizing AWS services\u003c/li\u003e\n\u003cli\u003eNaming obscure databases\u003c/li\u003e\n\u003cli\u003eDrawing dozens of boxes\u003c/li\u003e\n\u003cli\u003eUsing the newest technology\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eGood architecture comes from reasoning, not memorization.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eUnderstand the interview format\u003c/h1\u003e\n\u003cp\u003eMost system design interviews last \u003cstrong\u003e45–60 minutes\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eA typical flow looks like this:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eTime\u003c/th\u003e\n\u003cth\u003eActivity\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd\u003e5–10 min\u003c/td\u003e\n\u003ctd\u003eClarify requirements\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e5 min\u003c/td\u003e\n\u003ctd\u003eEstimate scale\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e10–15 min\u003c/td\u003e\n\u003ctd\u003eHigh-level architecture\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e15–20 min\u003c/td\u003e\n\u003ctd\u003eDeep dive into key components\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e10 min\u003c/td\u003e\n\u003ctd\u003eScaling, failures, optimizations, trade-offs\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eFinal minutes\u003c/td\u003e\n\u003ctd\u003eQuestions and wrap-up\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\n\u003cp\u003eThink of the interview as a collaborative whiteboard discussion rather than a presentation.\u003c/p\u003e\n\u003cp\u003eThe interviewer should be talking almost as much as you are.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eStep 1: Clarify the problem first\u003c/h1\u003e\n\u003cp\u003eThe biggest mistake candidates make is immediately drawing boxes.\u003c/p\u003e\n\u003cp\u003eProfessional architects don\u0026#39;t design until they understand the problem.\u003c/p\u003e\n\u003cp\u003eAsk questions like:\u003c/p\u003e\n\u003ch3\u003eFunctional Requirements\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eWhat should users be able to do?\u003c/li\u003e\n\u003cli\u003eWhat are the core features?\u003c/li\u003e\n\u003cli\u003eWhat isn\u0026#39;t required?\u003c/li\u003e\n\u003cli\u003eIs this an MVP or production system?\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eNon-functional Requirements\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eExpected uptime?\u003c/li\u003e\n\u003cli\u003eMaximum acceptable latency?\u003c/li\u003e\n\u003cli\u003eData consistency requirements?\u003c/li\u003e\n\u003cli\u003eSecurity requirements?\u003c/li\u003e\n\u003cli\u003eGeographic regions?\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eScale\u003c/h3\u003e\n\u003cp\u003eAsk for numbers whenever possible.\u003c/p\u003e\n\u003cp\u003eExamples:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDaily active users\u003c/li\u003e\n\u003cli\u003ePeak requests per second\u003c/li\u003e\n\u003cli\u003eStorage requirements\u003c/li\u003e\n\u003cli\u003eRead/write ratio\u003c/li\u003e\n\u003cli\u003eExpected growth\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf the interviewer doesn\u0026#39;t know or intentionally leaves it open, make reasonable assumptions and state them aloud.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;I\u0026#39;ll assume roughly 20 million monthly users with around 5,000 requests per second at peak.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eReasonable assumptions are far better than guessing silently.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eStep 2: Estimate before designing\u003c/h1\u003e\n\u003cp\u003eYou don\u0026#39;t need perfect math.\u003c/p\u003e\n\u003cp\u003eYou do need to prove your design fits the problem.\u003c/p\u003e\n\u003cp\u003eEstimate things like:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRequests per second\u003c/li\u003e\n\u003cli\u003eDaily traffic\u003c/li\u003e\n\u003cli\u003eStorage growth\u003c/li\u003e\n\u003cli\u003eImage sizes\u003c/li\u003e\n\u003cli\u003eVideo bandwidth\u003c/li\u003e\n\u003cli\u003eDatabase size\u003c/li\u003e\n\u003cli\u003eCache hit ratios\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThese estimates guide architecture decisions.\u003c/p\u003e\n\u003cp\u003eA system serving 50 requests per second does \u003cstrong\u003enot\u003c/strong\u003e need the same architecture as one serving 5 million.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eStep 3: Draw a simple high-level architecture\u003c/h1\u003e\n\u003cp\u003eStart broad.\u003c/p\u003e\n\u003cp\u003eDon\u0026#39;t immediately discuss Redis clusters or Kafka partitions.\u003c/p\u003e\n\u003cp\u003eInstead show the major components.\u003c/p\u003e\n\u003cp\u003eExample:\u003c/p\u003e\n\u003cpre\u003e\u003ccode\u003eClient\n\n↓\n\nLoad Balancer\n\n↓\n\nAPI Gateway\n\n↓\n\nApplication Servers\n\n↓\n\nDatabase\n\n↓\n\nCache\n\n↓\n\nObject Storage\n\n↓\n\nQueue\n\n↓\n\nBackground Workers\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003eThen walk through one request from beginning to end.\u003c/p\u003e\n\u003cp\u003eThis helps both you and the interviewer stay aligned.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eStep 4: Identify the core challenge\u003c/h1\u003e\n\u003cp\u003eEvery system has one interesting engineering problem.\u003c/p\u003e\n\u003cp\u003eExamples include:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eSearch indexing\u003c/li\u003e\n\u003cli\u003eFeed ranking\u003c/li\u003e\n\u003cli\u003eVideo transcoding\u003c/li\u003e\n\u003cli\u003eNotification delivery\u003c/li\u003e\n\u003cli\u003ePayment processing\u003c/li\u003e\n\u003cli\u003eDistributed locking\u003c/li\u003e\n\u003cli\u003eRate limiting\u003c/li\u003e\n\u003cli\u003eGlobal consistency\u003c/li\u003e\n\u003cli\u003eMedia storage\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThat\u0026#39;s where you should spend most of your deep-dive time.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eLearn the building blocks instead of memorizing systems\u003c/h1\u003e\n\u003cp\u003eMost system design interviews are simply different combinations of the same architectural components.\u003c/p\u003e\n\u003cp\u003eBecome comfortable with each one.\u003c/p\u003e\n\u003ch2\u003eLoad Balancers\u003c/h2\u003e\n\u003cp\u003eKnow:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eWhy they\u0026#39;re used\u003c/li\u003e\n\u003cli\u003eRound robin\u003c/li\u003e\n\u003cli\u003eLeast connections\u003c/li\u003e\n\u003cli\u003eHealth checks\u003c/li\u003e\n\u003cli\u003eSSL termination\u003c/li\u003e\n\u003cli\u003eLayer 4 vs Layer 7\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eDatabases\u003c/h2\u003e\n\u003cp\u003eUnderstand when to use:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRelational databases\u003c/li\u003e\n\u003cli\u003eDocument databases\u003c/li\u003e\n\u003cli\u003eKey-value stores\u003c/li\u003e\n\u003cli\u003eGraph databases\u003c/li\u003e\n\u003cli\u003eTime-series databases\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eKnow concepts like:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eIndexes\u003c/li\u003e\n\u003cli\u003eReplication\u003c/li\u003e\n\u003cli\u003ePartitioning\u003c/li\u003e\n\u003cli\u003eSharding\u003c/li\u003e\n\u003cli\u003eTransactions\u003c/li\u003e\n\u003cli\u003eIsolation levels\u003c/li\u003e\n\u003cli\u003eRead replicas\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eCaching\u003c/h2\u003e\n\u003cp\u003eUnderstand:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRedis\u003c/li\u003e\n\u003cli\u003eMemcached\u003c/li\u003e\n\u003cli\u003eBrowser caching\u003c/li\u003e\n\u003cli\u003eCDN caching\u003c/li\u003e\n\u003cli\u003eCache invalidation\u003c/li\u003e\n\u003cli\u003eCache warming\u003c/li\u003e\n\u003cli\u003eCache eviction\u003c/li\u003e\n\u003cli\u003eCache stampede\u003c/li\u003e\n\u003cli\u003eWrite-through\u003c/li\u003e\n\u003cli\u003eWrite-back\u003c/li\u003e\n\u003cli\u003eWrite-around\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eInterviewers love cache questions.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eMessage Queues\u003c/h2\u003e\n\u003cp\u003eKnow why queues exist.\u003c/p\u003e\n\u003cp\u003eExamples:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eKafka\u003c/li\u003e\n\u003cli\u003eRabbitMQ\u003c/li\u003e\n\u003cli\u003eSQS\u003c/li\u003e\n\u003cli\u003eNATS\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eUnderstand:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eProducers\u003c/li\u003e\n\u003cli\u003eConsumers\u003c/li\u003e\n\u003cli\u003eDead-letter queues\u003c/li\u003e\n\u003cli\u003eRetry strategies\u003c/li\u003e\n\u003cli\u003eOrdering\u003c/li\u003e\n\u003cli\u003eBackpressure\u003c/li\u003e\n\u003cli\u003eExactly-once vs at-least-once delivery\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eStorage\u003c/h2\u003e\n\u003cp\u003eKnow when to choose:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eObject storage\u003c/li\u003e\n\u003cli\u003eBlock storage\u003c/li\u003e\n\u003cli\u003eFile storage\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eUnderstand:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCDN integration\u003c/li\u003e\n\u003cli\u003eMedia processing\u003c/li\u003e\n\u003cli\u003eCompression\u003c/li\u003e\n\u003cli\u003eLifecycle policies\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eSearch\u003c/h2\u003e\n\u003cp\u003eKnow basic search architecture:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFull-text indexing\u003c/li\u003e\n\u003cli\u003eInverted indexes\u003c/li\u003e\n\u003cli\u003eElasticsearch/OpenSearch\u003c/li\u003e\n\u003cli\u003eRanking\u003c/li\u003e\n\u003cli\u003eFiltering\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eAPIs\u003c/h2\u003e\n\u003cp\u003eBe comfortable discussing:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eREST\u003c/li\u003e\n\u003cli\u003eGraphQL\u003c/li\u003e\n\u003cli\u003egRPC\u003c/li\u003e\n\u003cli\u003ePagination\u003c/li\u003e\n\u003cli\u003eVersioning\u003c/li\u003e\n\u003cli\u003eAuthentication\u003c/li\u003e\n\u003cli\u003eRate limiting\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch1\u003eAlways discuss trade-offs\u003c/h1\u003e\n\u003cp\u003eThis is where senior engineers separate themselves.\u003c/p\u003e\n\u003cp\u003eEvery decision has benefits and costs.\u003c/p\u003e\n\u003cp\u003eFor example:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eDecision\u003c/th\u003e\n\u003cth\u003eBenefit\u003c/th\u003e\n\u003cth\u003eCost\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd\u003eSQL\u003c/td\u003e\n\u003ctd\u003eStrong consistency\u003c/td\u003e\n\u003ctd\u003eHarder to scale\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eNoSQL\u003c/td\u003e\n\u003ctd\u003eHorizontal scaling\u003c/td\u003e\n\u003ctd\u003eWeaker consistency\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCache\u003c/td\u003e\n\u003ctd\u003eFaster reads\u003c/td\u003e\n\u003ctd\u003eInvalidation complexity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCDN\u003c/td\u003e\n\u003ctd\u003eLower latency\u003c/td\u003e\n\u003ctd\u003eEventual consistency\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eMicroservices\u003c/td\u003e\n\u003ctd\u003eIndependent deployment\u003c/td\u003e\n\u003ctd\u003eOperational complexity\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eMonolith\u003c/td\u003e\n\u003ctd\u003eSimpler development\u003c/td\u003e\n\u003ctd\u003eHarder long-term scaling\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\n\u003cp\u003eThe interviewer isn\u0026#39;t looking for perfect choices.\u003c/p\u003e\n\u003cp\u003eThey\u0026#39;re looking for engineers who recognize that every choice has consequences.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eThink about failures\u003c/h1\u003e\n\u003cp\u003eOne hallmark of experienced engineers is asking:\u003c/p\u003e\n\u003cp\u003e\u0026quot;What happens when this breaks?\u0026quot;\u003c/p\u003e\n\u003cp\u003eConsider:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDatabase outage\u003c/li\u003e\n\u003cli\u003eCache outage\u003c/li\u003e\n\u003cli\u003eQueue backlog\u003c/li\u003e\n\u003cli\u003eRegion failure\u003c/li\u003e\n\u003cli\u003eNetwork partition\u003c/li\u003e\n\u003cli\u003eDisk failure\u003c/li\u003e\n\u003cli\u003eService crash\u003c/li\u003e\n\u003cli\u003eSlow downstream dependency\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eDiscuss:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRetries\u003c/li\u003e\n\u003cli\u003eTimeouts\u003c/li\u003e\n\u003cli\u003eCircuit breakers\u003c/li\u003e\n\u003cli\u003eReplication\u003c/li\u003e\n\u003cli\u003eBackups\u003c/li\u003e\n\u003cli\u003eMonitoring\u003c/li\u003e\n\u003cli\u003eAlerting\u003c/li\u003e\n\u003cli\u003eGraceful degradation\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eReliability is often worth more than raw scalability.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eConsider scalability\u003c/h1\u003e\n\u003cp\u003eOnce the initial design works, explain how it evolves.\u003c/p\u003e\n\u003cp\u003eExamples:\u003c/p\u003e\n\u003ch3\u003eScale reads\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eRead replicas\u003c/li\u003e\n\u003cli\u003eCDN\u003c/li\u003e\n\u003cli\u003eCaching\u003c/li\u003e\n\u003cli\u003eSearch indexes\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eScale writes\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eSharding\u003c/li\u003e\n\u003cli\u003ePartitioning\u003c/li\u003e\n\u003cli\u003eMessage queues\u003c/li\u003e\n\u003cli\u003eEvent streaming\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eScale globally\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eMulti-region deployment\u003c/li\u003e\n\u003cli\u003eGeo-DNS\u003c/li\u003e\n\u003cli\u003eEdge caching\u003c/li\u003e\n\u003cli\u003eRegional databases\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eShow that your design can evolve rather than pretending it starts infinitely scalable.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eSecurity matters too\u003c/h1\u003e\n\u003cp\u003eMany candidates forget security completely.\u003c/p\u003e\n\u003cp\u003eMention:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAuthentication\u003c/li\u003e\n\u003cli\u003eAuthorization\u003c/li\u003e\n\u003cli\u003eTLS\u003c/li\u003e\n\u003cli\u003eEncryption at rest\u003c/li\u003e\n\u003cli\u003eSecrets management\u003c/li\u003e\n\u003cli\u003eAPI keys\u003c/li\u003e\n\u003cli\u003eOAuth\u003c/li\u003e\n\u003cli\u003eRate limiting\u003c/li\u003e\n\u003cli\u003eAudit logging\u003c/li\u003e\n\u003cli\u003eInput validation\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eYou don\u0026#39;t need to design the entire security model, but acknowledging it demonstrates maturity.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eMonitoring and observability\u003c/h1\u003e\n\u003cp\u003eProduction systems need visibility.\u003c/p\u003e\n\u003cp\u003eDiscuss:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eMetrics\u003c/li\u003e\n\u003cli\u003eLogging\u003c/li\u003e\n\u003cli\u003eDistributed tracing\u003c/li\u003e\n\u003cli\u003eHealth checks\u003c/li\u003e\n\u003cli\u003eDashboards\u003c/li\u003e\n\u003cli\u003eAlerting\u003c/li\u003e\n\u003cli\u003eError budgets\u003c/li\u003e\n\u003cli\u003eService Level Objectives (SLOs)\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eBeing able to detect failures is as important as preventing them.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eCommunicate continuously\u003c/h1\u003e\n\u003cp\u003eDon\u0026#39;t draw silently.\u003c/p\u003e\n\u003cp\u003eExplain your reasoning.\u003c/p\u003e\n\u003cp\u003eInstead of saying:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;We\u0026#39;ll use Redis.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eSay:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;Since the majority of requests are reads, adding Redis should reduce database load significantly. The trade-off is cache invalidation complexity, which I\u0026#39;d handle with a TTL and explicit invalidation after writes.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eThat\u0026#39;s what interviewers score.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003ePractice the right way\u003c/h1\u003e\n\u003cp\u003eThe best preparation isn\u0026#39;t reading more architecture diagrams.\u003c/p\u003e\n\u003cp\u003eIt\u0026#39;s practicing conversations.\u003c/p\u003e\n\u003cp\u003eTry exercises like:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDesign a URL shortener\u003c/li\u003e\n\u003cli\u003eDesign a chat application\u003c/li\u003e\n\u003cli\u003eDesign a social media feed\u003c/li\u003e\n\u003cli\u003eDesign Dropbox\u003c/li\u003e\n\u003cli\u003eDesign YouTube\u003c/li\u003e\n\u003cli\u003eDesign Uber\u003c/li\u003e\n\u003cli\u003eDesign Slack\u003c/li\u003e\n\u003cli\u003eDesign an online marketplace\u003c/li\u003e\n\u003cli\u003eDesign an e-commerce platform\u003c/li\u003e\n\u003cli\u003eDesign a notification system\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eTime yourself.\u003c/p\u003e\n\u003cp\u003eSpeak aloud.\u003c/p\u003e\n\u003cp\u003eDraw diagrams.\u003c/p\u003e\n\u003cp\u003eRecord yourself.\u003c/p\u003e\n\u003cp\u003eNotice where you hesitate.\u003c/p\u003e\n\u003cp\u003eThose are the areas to improve.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eCommon mistakes\u003c/h1\u003e\n\u003ch2\u003eStarting without clarifying\u003c/h2\u003e\n\u003cp\u003eThis almost always leads to solving the wrong problem.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eOver-engineering\u003c/h2\u003e\n\u003cp\u003eDon\u0026#39;t introduce Kafka, Kubernetes, CQRS, event sourcing, and 40 microservices for an application with a few thousand users.\u003c/p\u003e\n\u003cp\u003eSimple is usually better.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eNever discussing trade-offs\u003c/h2\u003e\n\u003cp\u003eInterviewers care more about \u003cem\u003ewhy\u003c/em\u003e than \u003cem\u003ewhat\u003c/em\u003e.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eGetting stuck on technology\u003c/h2\u003e\n\u003cp\u003eDon\u0026#39;t argue over Redis versus Memcached for ten minutes.\u003c/p\u003e\n\u003cp\u003eFocus on architecture.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eForgetting failure scenarios\u003c/h2\u003e\n\u003cp\u003eProduction systems fail.\u003c/p\u003e\n\u003cp\u003eShow you\u0026#39;ve operated software before.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eTalking too little\u003c/h2\u003e\n\u003cp\u003eSilence makes it impossible for interviewers to evaluate your thinking.\u003c/p\u003e\n\u003cp\u003eNarrate your decisions.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eRefusing to change direction\u003c/h2\u003e\n\u003cp\u003eInterviewers intentionally introduce new constraints.\u003c/p\u003e\n\u003cp\u003eExamples:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;Now it has to support Europe.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;Traffic doubled.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;Compliance requires strong consistency.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eTreat these as collaboration, not criticism.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eA four-week study plan\u003c/h1\u003e\n\u003ch2\u003eWeek 1\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eNetworking fundamentals\u003c/li\u003e\n\u003cli\u003eHTTP\u003c/li\u003e\n\u003cli\u003eDNS\u003c/li\u003e\n\u003cli\u003eLoad balancers\u003c/li\u003e\n\u003cli\u003eDatabases\u003c/li\u003e\n\u003cli\u003eCaching\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eWeek 2\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eQueues\u003c/li\u003e\n\u003cli\u003eDistributed systems\u003c/li\u003e\n\u003cli\u003eReplication\u003c/li\u003e\n\u003cli\u003eSharding\u003c/li\u003e\n\u003cli\u003eConsistency\u003c/li\u003e\n\u003cli\u003eCAP theorem\u003c/li\u003e\n\u003cli\u003eAPIs\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eWeek 3\u003c/h2\u003e\n\u003cp\u003ePractice designing:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eURL Shortener\u003c/li\u003e\n\u003cli\u003eTinyURL\u003c/li\u003e\n\u003cli\u003ePastebin\u003c/li\u003e\n\u003cli\u003eChat App\u003c/li\u003e\n\u003cli\u003eFile Storage\u003c/li\u003e\n\u003cli\u003eNews Feed\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eWeek 4\u003c/h2\u003e\n\u003cp\u003eConduct full mock interviews.\u003c/p\u003e\n\u003cp\u003ePractice:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eWhiteboarding\u003c/li\u003e\n\u003cli\u003eTime management\u003c/li\u003e\n\u003cli\u003eCommunicating clearly\u003c/li\u003e\n\u003cli\u003eExplaining trade-offs\u003c/li\u003e\n\u003cli\u003eAnswering follow-up questions\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eRepeat until your process feels natural.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eInterview day checklist\u003c/h1\u003e\n\u003cp\u003eBefore the interview:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e✓ Sleep well\u003c/li\u003e\n\u003cli\u003e✓ Test your microphone and camera\u003c/li\u003e\n\u003cli\u003e✓ Have paper or a whiteboard ready\u003c/li\u003e\n\u003cli\u003e✓ Keep water nearby\u003c/li\u003e\n\u003cli\u003e✓ Read the company description\u003c/li\u003e\n\u003cli\u003e✓ Review one or two practice designs\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eDuring the interview:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eClarify requirements first\u003c/li\u003e\n\u003cli\u003eThink out loud\u003c/li\u003e\n\u003cli\u003eKeep diagrams simple\u003c/li\u003e\n\u003cli\u003eJustify every major decision\u003c/li\u003e\n\u003cli\u003eDiscuss trade-offs\u003c/li\u003e\n\u003cli\u003eMention failure scenarios\u003c/li\u003e\n\u003cli\u003eAdapt when new requirements appear\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch1\u003eFinal thoughts\u003c/h1\u003e\n\u003cp\u003eA great system design interview isn\u0026#39;t about drawing the most complicated architecture. It\u0026#39;s about demonstrating that you can think like an engineer responsible for building and operating software in the real world.\u003c/p\u003e\n\u003cp\u003eApproach every problem methodically:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eClarify the requirements.\u003c/li\u003e\n\u003cli\u003eEstimate the scale.\u003c/li\u003e\n\u003cli\u003eBuild a simple architecture.\u003c/li\u003e\n\u003cli\u003eDive into the hardest component.\u003c/li\u003e\n\u003cli\u003eDiscuss trade-offs honestly.\u003c/li\u003e\n\u003cli\u003ePlan for failures.\u003c/li\u003e\n\u003cli\u003eCommunicate your reasoning throughout.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eInterviewers aren\u0026#39;t looking for someone who memorized the design of Instagram. They\u0026#39;re looking for someone they\u0026#39;d trust to design the next product with their team.\u003c/p\u003e\n\u003cp\u003eThat mindset—not memorization—is what earns strong system design interview performance.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eAdditional resources for system design preparation\u003c/h2\u003e\n\u003cp\u003eBefore interviewing, spend time strengthening these complementary skills:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003ePractice explaining technical concepts to non-technical audiences.\u003c/li\u003e\n\u003cli\u003eReview database indexing, transactions, and query optimization.\u003c/li\u003e\n\u003cli\u003eRefresh networking fundamentals including HTTP, TLS, DNS, and load balancing.\u003c/li\u003e\n\u003cli\u003eLearn the basics of distributed systems, consistency models, and eventual consistency.\u003c/li\u003e\n\u003cli\u003eBuild small personal projects that use caches, queues, APIs, and databases together.\u003c/li\u003e\n\u003cli\u003eParticipate in mock interviews with peers and ask for honest feedback on your communication, not just your technical decisions.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThe engineers who perform best in system design interviews aren\u0026#39;t always the ones with the deepest architectural knowledge—they\u0026#39;re the ones who can communicate complex ideas clearly, collaborate effectively, and make thoughtful engineering decisions under uncertainty.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cem\u003eLooking for engineering roles that value practical software design skills? \u003cstrong\u003eCreate your free JobsList.dev profile\u003c/strong\u003e, showcase your experience, and apply directly to companies building modern software systems.\u003c/em\u003e\u003c/p\u003e\n"])</script><script>self.__next_f.push([1,"9:[\"locale\",\"ar\",\"d\"]\na:[\"slug\",\"system-design-interview-preparation\",\"d\"]\n14:[]\n"])</script><script>self.__next_f.push([1,"3:[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/5c6b851e1306b81e.css\",\"precedence\":\"next\",\"crossOrigin\":\"\"}]],[\"$\",\"$L4\",null,{\"buildId\":\"yOVw5M7qb89h5yGvwWrfj\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/ar/blog/system-design-interview-preparation/\",\"initialTree\":[\"\",{\"children\":[[\"locale\",\"ar\",\"d\"],{\"children\":[\"blog\",{\"children\":[[\"slug\",\"system-design-interview-preparation\",\"d\"],{\"children\":[\"__PAGE__?{\\\"locale\\\":\\\"ar\\\",\\\"slug\\\":\\\"system-design-interview-preparation\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[[\"locale\",\"ar\",\"d\"],{\"children\":[\"blog\",{\"children\":[[\"slug\",\"system-design-interview-preparation\",\"d\"],{\"children\":[\"__PAGE__\",{},[\"$L5\",[[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"BlogPosting\\\",\\\"headline\\\":\\\"How to Prepare for a System Design Interview\\\",\\\"description\\\":\\\"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.\\\",\\\"datePublished\\\":\\\"2026-07-20T00:00:00.000Z\\\",\\\"inLanguage\\\":\\\"ar\\\",\\\"author\\\":{\\\"@type\\\":\\\"Organization\\\",\\\"name\\\":\\\"The JobsList.dev Team\\\"},\\\"publisher\\\":{\\\"@type\\\":\\\"Organization\\\",\\\"name\\\":\\\"JobsList.dev\\\"}}\"}}],[\"$\",\"$L6\",null,{\"post\":{\"title\":\"How to Prepare for a System Design Interview\",\"date\":\"2026-07-20T00:00:00.000Z\",\"author\":\"The JobsList.dev Team\",\"readingTime\":10,\"html\":\"$7\"},\"assessment\":null}]],null]]},[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$9\",\"children\",\"blog\",\"children\",\"$a\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$9\",\"children\",\"blog\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[null,[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$9\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}],null]]},[null,[\"$\",\"html\",null,{\"lang\":\"en\",\"dir\":\"ltr\",\"suppressHydrationWarning\":true,\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"httpEquiv\":\"Content-Security-Policy\",\"content\":\"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'\"}],[\"$\",\"meta\",null,{\"name\":\"referrer\",\"content\":\"strict-origin-when-cross-origin\"}],[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@graph\\\":[{\\\"@type\\\":\\\"Organization\\\",\\\"@id\\\":\\\"https://jobslist.dev/#organization\\\",\\\"name\\\":\\\"JobsList.dev\\\",\\\"url\\\":\\\"https://jobslist.dev\\\",\\\"logo\\\":\\\"https://jobslist.dev/android-chrome-512x512.png\\\"},{\\\"@type\\\":\\\"WebSite\\\",\\\"@id\\\":\\\"https://jobslist.dev/#website\\\",\\\"url\\\":\\\"https://jobslist.dev\\\",\\\"name\\\":\\\"JobsList.dev\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://jobslist.dev/#organization\\\"},\\\"potentialAction\\\":{\\\"@type\\\":\\\"SearchAction\\\",\\\"target\\\":\\\"https://jobslist.dev/jobs/?q={search_term_string}\\\",\\\"query-input\\\":\\\"required name=search_term_string\\\"}}]}\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"try{if(window.top!==window.self\u0026\u0026window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'\u0026\u0026window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var bp=\\\"\\\";var dirs={\\\"zh-CN\\\":\\\"ltr\\\",\\\"es\\\":\\\"ltr\\\",\\\"hi\\\":\\\"ltr\\\",\\\"fr\\\":\\\"ltr\\\",\\\"ar\\\":\\\"rtl\\\",\\\"bn\\\":\\\"ltr\\\",\\\"pt-BR\\\":\\\"ltr\\\",\\\"ru\\\":\\\"ltr\\\",\\\"ur\\\":\\\"rtl\\\",\\\"id\\\":\\\"ltr\\\",\\\"de\\\":\\\"ltr\\\",\\\"ja\\\":\\\"ltr\\\",\\\"tr\\\":\\\"ltr\\\",\\\"ko\\\":\\\"ltr\\\",\\\"it\\\":\\\"ltr\\\",\\\"vi\\\":\\\"ltr\\\",\\\"pl\\\":\\\"ltr\\\",\\\"uk\\\":\\\"ltr\\\",\\\"nl\\\":\\\"ltr\\\",\\\"el\\\":\\\"ltr\\\"};var p=location.pathname;if(bp\u0026\u0026p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();\"}}]]}],[\"$\",\"body\",null,{\"className\":\"__className_f367f3\",\"children\":[[\"$\",\"$Lc\",null,{}],[\"$\",\"$Ld\",null,{\"children\":[\"$\",\"$L8\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$e\",\"errorStyles\":[],\"errorScripts\":[],\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[\"$\",\"div\",null,{\"className\":\"min-h-[80vh] flex items-center justify-center px-4 py-16\",\"children\":[\"$\",\"div\",null,{\"className\":\"w-full max-w-md text-center\",\"children\":[[\"$\",\"$Lf\",null,{\"href\":\"/\",\"className\":\"inline-flex items-center gap-2 mb-8\",\"children\":[[\"$\",\"$L10\",null,{\"src\":\"/android-chrome-512x512.png\",\"alt\":\"JobsList.dev\",\"width\":32,\"height\":32,\"priority\":true,\"className\":\"\"}],[\"$\",\"span\",null,{\"className\":\"font-bold text-xl text-surface-900\",\"children\":\"JobsList.dev\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-7xl font-bold tracking-tight text-brand-500\",\"children\":\"404\"}],[\"$\",\"h1\",null,{\"className\":\"heading-2 mt-4\",\"children\":\"Page not found\"}],[\"$\",\"p\",null,{\"className\":\"text-surface-500 mt-3\",\"children\":\"The page you're looking for doesn't exist or may have been moved.\"}],[\"$\",\"div\",null,{\"className\":\"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3\",\"children\":[[\"$\",\"$Lf\",null,{\"href\":\"/\",\"className\":\"btn-primary\",\"children\":\"Back to home\"}],[\"$\",\"$Lf\",null,{\"href\":\"/jobs\",\"className\":\"btn-secondary\",\"children\":\"Browse jobs\"}]]}]]}]}],\"notFoundStyles\":[],\"styles\":null}]}],[\"$\",\"$L11\",null,{}]]}]]}],null]],\"initialHead\":[false,\"$L12\"],\"globalErrorComponent\":\"$13\",\"missingSlots\":\"$W14\"}]]\n"])</script><script>self.__next_f.push([1,"12:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"name\":\"theme-color\",\"content\":\"#4F6BFF\"}],[\"$\",\"meta\",\"2\",{\"name\":\"color-scheme\",\"content\":\"light dark\"}],[\"$\",\"meta\",\"3\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"4\",{\"children\":\"How to Prepare for a System Design Interview | JobsList.dev | JobsList.dev\"}],[\"$\",\"meta\",\"5\",{\"name\":\"description\",\"content\":\"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.\"}],[\"$\",\"meta\",\"6\",{\"name\":\"application-name\",\"content\":\"JobsList.dev\"}],[\"$\",\"link\",\"7\",{\"rel\":\"manifest\",\"href\":\"/manifest.json\"}],[\"$\",\"meta\",\"8\",{\"name\":\"robots\",\"content\":\"noindex, follow\"}],[\"$\",\"meta\",\"9\",{\"name\":\"msapplication-TileColor\",\"content\":\"#4F6BFF\"}],[\"$\",\"meta\",\"10\",{\"name\":\"msapplication-TileImage\",\"content\":\"/mstile-150x150.png\"}],[\"$\",\"meta\",\"11\",{\"name\":\"apple-mobile-web-app-capable\",\"content\":\"yes\"}],[\"$\",\"meta\",\"12\",{\"name\":\"apple-mobile-web-app-title\",\"content\":\"JobsList.dev\"}],[\"$\",\"meta\",\"13\",{\"name\":\"apple-mobile-web-app-status-bar-style\",\"content\":\"default\"}],[\"$\",\"meta\",\"14\",{\"property\":\"og:title\",\"content\":\"How to Prepare for a System Design Interview\"}],[\"$\",\"meta\",\"15\",{\"property\":\"og:description\",\"content\":\"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.\"}],[\"$\",\"meta\",\"16\",{\"property\":\"og:image\",\"content\":\"https://jobslist.dev/og-image.png\"}],[\"$\",\"meta\",\"17\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"18\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"19\",{\"property\":\"og:image:alt\",\"content\":\"JobsList.dev — where exceptional builders find exceptional work.\"}],[\"$\",\"meta\",\"20\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"$\",\"meta\",\"21\",{\"property\":\"article:published_time\",\"content\":\"2026-07-20T00:00:00.000Z\"}],[\"$\",\"meta\",\"22\",{\"property\":\"article:author\",\"content\":\"The JobsList.dev Team\"}],[\"$\",\"meta\",\"23\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"24\",{\"name\":\"twitter:title\",\"content\":\"How to Prepare for a System Design Interview\"}],[\"$\",\"meta\",\"25\",{\"name\":\"twitter:description\",\"content\":\"For developers: a complete guide to preparing for system design interviews, understanding what interviewers evaluate, communicating trade-offs, and building confidence without memorizing architecture diagrams.\"}],[\"$\",\"meta\",\"26\",{\"name\":\"twitter:image\",\"content\":\"https://jobslist.dev/twitter-image.png\"}],[\"$\",\"meta\",\"27\",{\"name\":\"twitter:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"28\",{\"name\":\"twitter:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"29\",{\"name\":\"twitter:image:alt\",\"content\":\"JobsList.dev — where exceptional builders find exceptional work.\"}],[\"$\",\"link\",\"30\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"16x16\"}],[\"$\",\"link\",\"31\",{\"rel\":\"icon\",\"href\":\"/icon.png?7fb344a72565aa54\",\"type\":\"image/png\",\"sizes\":\"512x512\"}],[\"$\",\"link\",\"32\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-icon.png?2a164f131c03e85b\",\"type\":\"image/png\",\"sizes\":\"180x180\"}],[\"$\",\"meta\",\"33\",{\"name\":\"next-size-adjust\"}]]\n"])</script><script>self.__next_f.push([1,"5:null\n"])</script><script>self.__next_f.push([1,""])</script></body></html>
+<p>تعامل مع كل مشكلة بطريقة منهجية:</p>
+<ol>
+<li>حدد المتطلبات بوضوح.</li>
+<li>قم بتقدير حجم المشروع.</li>
+<li>صمم بنية بسيطة.</li>
+<li>ركز على المكون الأصعب.</li>
+<li>ناقش المفاضلات بصراحة.</li>
+<li>استعد لمواجهة الإخفاقات.</li>
+<li>اشرح منطقك طوال العملية.</li>
+</ol>
+<p>المقابلون لا يبحثون عن شخص حفظ تصميم Instagram عن ظهر قلب. إنهم يبحثون عن شخص يثقون به لتصميم المنتج التالي مع فريقهم.</p>
+<p>هذه العقلية — وليس الحفظ — هي ما يضمن أداءً قويًّا في مقابلة تصميم الأنظمة.</p>
+<hr>
+<h2>موارد إضافية للتحضير لمقابلة تصميم الأنظمة</h2>
+<p>قبل المقابلة, خصص وقتًا لتعزيز هذه المهارات التكميلية:</p>
+<ul>
+<li>تدرب على شرح المفاهيم التقنية لجمهور غير تقني.</li>
+<li>راجع فهرسة قواعد البيانات والمعاملات وتحسين الاستعلامات.</li>
+<li>جدد معلوماتك حول أساسيات الشبكات بما في ذلك HTTP و TLS و DNS وموازنة الحمل.</li>
+<li>تعلم أساسيات الأنظمة الموزعة ونماذج الاتساق والاتساق النهائي.</li>
+<li>قم ببناء مشاريع شخصية صغيرة تستخدم ذاكرات التخزين المؤقت وقوائم الانتظار وواجهات برمجة التطبيقات وقواعد البيانات معًا.</li>
+<li>شارك في مقابلات تجريبية مع زملائك واطلب منهم ملاحظات صادقة حول أسلوبك في التواصل, وليس فقط حول قراراتك التقنية.</li>
+</ul>
+<p>المهندسون الذين يحققون أفضل أداء في مقابلات تصميم الأنظمة ليسوا دائمًا أولئك الذين يمتلكون أعمق المعرفة المعمارية — بل هم أولئك القادرون على توصيل الأفكار المعقدة بوضوح, والتعاون بفعالية, واتخاذ قرارات هندسية مدروسة في ظل ظروف عدم اليقين.</p>
+<hr>
+<p><em>هل تبحث عن وظائف هندسية تقدّر المهارات العملية في تصميم البرمجيات؟ <strong>أنشئ ملفك الشخصي المجاني على JobsList.dev</strong>, وعرض خبراتك, وتقدم بطلبك مباشرةً إلى الشركات التي تعمل على تطوير أنظمة برمجية حديثة.</em></p>
+</div><div class="mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700"><a class="btn-secondary btn-sm" href="/ar/blog/">← <!-- -->← مزيد من المقالات</a><a class="btn-primary btn-sm" href="/auth/register/?role=COMPANY">انشر وظيفة</a></div></article></main><footer class="border-t border-surface-200 bg-surface-0"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12"><div class="grid grid-cols-2 md:grid-cols-4 gap-8"><div class="col-span-2 md:col-span-1"><a class="flex items-center gap-2.5" href="/ar/"><img alt="JobsList.dev" fetchPriority="high" width="92" height="92" decoding="async" data-nimg="1" class="rounded-full" style="color:transparent" src="/logo.png"/><span class="font-bold text-lg tracking-tight text-surface-900">JobsList<span class="text-brand-500">.dev</span></span></a><p class="mt-3 text-sm text-surface-500">القائمة المختصرة للمواهب التقنية الاستثنائية.</p></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">للشركات</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/for-companies/">دليل الشركات</a></li><li><a class="hover:text-surface-900" href="/ar/how-it-works/">كيف يعمل</a></li><li><a class="hover:text-surface-900" href="/auth/register/?role=COMPANY">نشر وظيفة</a></li><li><a class="hover:text-surface-900" href="/ar/pricing/">الأسعار والباقات</a></li><li><a class="hover:text-surface-900" href="/ar/developer-hiring-analytics/">تحليلات التوظيف</a></li><li><a class="hover:text-surface-900" href="/ar/assessments/">تقييمات المهارات</a></li><li><a class="hover:text-surface-900" href="/ar/hire/">التوظيف حسب الدور</a></li><li><a class="hover:text-surface-900" href="/ar/compare/">مقارنة المنصّات</a></li><li><a class="hover:text-surface-900" href="/ar/blog/">أدلّة التوظيف</a></li></ul></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">للباحثين عن عمل</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/for-job-seekers/">دليل الباحثين عن عمل</a></li><li><a class="hover:text-surface-900" href="/ar/how-it-works/">كيف يعمل</a></li><li><a class="hover:text-surface-900" href="/jobs/">تصفّح الوظائف</a></li><li><a class="hover:text-surface-900" href="/ar/direct-apply-developer-jobs/">وظائف مطوّرين بتقديم مباشر</a></li><li><a class="hover:text-surface-900" href="/ar/remote-developer-jobs/">وظائف مطوّرين عن بُعد</a></li><li><a class="hover:text-surface-900" href="/ar/developer-salary-guide/">دليل رواتب المطوّرين</a></li><li><a class="hover:text-surface-900" href="/ar/developer-job-alerts/">تنبيهات وظائف المطوّرين</a></li><li><a class="hover:text-surface-900" href="/ar/verified-tech-companies/">شركات تقنية موثّقة</a></li><li><a class="hover:text-surface-900" href="/auth/register/?role=EMPLOYEE">إنشاء ملف تعريفي</a></li></ul></div><div><h3 class="text-sm font-semibold text-surface-900 mb-3">الشركة</h3><ul class="space-y-2 text-sm text-surface-500"><li><a class="hover:text-surface-900" href="/ar/about/">من نحن</a></li><li><a class="hover:text-surface-900" href="/ar/verified-tech-companies/">الثقة والتوثيق</a></li><li><a class="hover:text-surface-900" href="/ar/compare/">المقارنات</a></li><li><a class="hover:text-surface-900" href="/ar/faq/">الأسئلة الشائعة</a></li><li><a class="hover:text-surface-900" href="/ar/blog/">غرفة القراءة</a></li><li><a class="hover:text-surface-900" href="/ar/contact/">تواصل معنا</a></li></ul></div></div><div class="mt-10 pt-6 border-t border-surface-100 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 text-sm text-surface-400"><span>© 2026 JobsList.dev. جميع الحقوق محفوظة.</span><div class="flex flex-wrap items-center gap-x-4 gap-y-2"><a class="hover:text-surface-900" data-testid="footer-swirl" href="/ar/swirl/">منظومة SWIRL</a><a class="hover:text-surface-900" data-testid="footer-trust-center" href="/ar/trust-center/">مركز الثقة</a><a class="hover:text-surface-900" href="/ar/terms/">الشروط</a><a class="hover:text-surface-900" href="/ar/privacy/">الخصوصية</a><a class="hover:text-surface-900" data-testid="footer-security" href="/ar/security/">الأمان</a><a class="hover:text-surface-900" href="/ar/contact/">تواصل</a><button type="button" data-testid="footer-consent" class="hover:text-surface-900">تفضيلات ملفات تعريف الارتباط</button></div></div></div></footer><div class="fixed bottom-5 right-5 z-40"><button class="btn-primary shadow-lg rounded-full px-4 py-3" aria-label="Send feedback"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M20.25 8.511c.884.284 1.5 1.128 1.5 2.097v4.286c0 1.136-.847 2.1-1.98 2.193-.34.027-.68.052-1.02.072v3.091l-3-3c-1.354 0-2.694-.055-4.02-.163a2.115 2.115 0 0 1-.825-.242m9.345-8.334a2.126 2.126 0 0 0-.476-.095 48.64 48.64 0 0 0-8.048 0c-1.131.094-1.976 1.057-1.976 2.192v4.286c0 .837.46 1.58 1.155 1.951m9.345-8.334V6.637c0-1.621-1.152-3.026-2.76-3.235A48.455 48.455 0 0 0 11.25 3c-2.115 0-4.198.137-6.24.402-1.608.209-2.76 1.614-2.76 3.235v6.226c0 1.621 1.152 3.026 2.76 3.235.577.075 1.157.14 1.74.194V21l4.155-4.155"></path></svg><span class="hidden sm:inline">Feedback</span></button></div></div><script src="/_next/static/chunks/webpack-ff32a9449c506145.js" crossorigin="" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,"1:HL[\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n2:HL[\"/_next/static/css/047034200e37d0e0.css\",\"style\",{\"crossOrigin\":\"\"}]\n0:\"$L3\"\n"])</script><script>self.__next_f.push([1,"4:I[47690,[],\"\"]\n7:I[5613,[],\"\"]\na:I[31778,[],\"\"]\nb:I[9579,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\",\"5277\",\"static/chunks/5277-31d5f0c3e43e0d4d.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\"5144\",\"static/chunks/5144-68f07b5e59a15c8b.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"3185\",\"static/chunks/app/layout-5829aa442748d008.js\"],\"Analytics\"]\nc:I[84133,[\"5250\",\"static/chunks/5250-99357aaff6a9"])</script><script>self.__next_f.push([1,"edbe.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\",\"5277\",\"static/chunks/5277-31d5f0c3e43e0d4d.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\"5144\",\"static/chunks/5144-68f07b5e59a15c8b.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"3185\",\"static/chunks/app/layout-5829aa442748d008.js\"],\"Providers\"]\nd:I[86580,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"7601\",\"static/chunks/app/error-28165561f4"])</script><script>self.__next_f.push([1,"e13b0a.js\"],\"\"]\ne:I[25250,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6081\",\"static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js\"],\"\"]\nf:I[81749,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6081\",\"static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js\"],\"Image\"]\n10:I[1732,[\"5250\",\"static/chunks/5250-99357aaff6a9edbe.js\",\"963\",\"static/chunks/963-5de881c494f62071.js\","])</script><script>self.__next_f.push([1,"\"5277\",\"static/chunks/5277-31d5f0c3e43e0d4d.js\",\"1749\",\"static/chunks/1749-8a54f20f40c0677e.js\",\"6809\",\"static/chunks/6809-a145d12267b60b69.js\",\"5144\",\"static/chunks/5144-68f07b5e59a15c8b.js\",\"9261\",\"static/chunks/9261-87a5d64ee5484f9e.js\",\"3185\",\"static/chunks/app/layout-5829aa442748d008.js\"],\"ConsentManager\"]\n12:I[94251,[\"6470\",\"static/chunks/app/global-error-eeb4f90a57d929d6.js\"],\"\"]\n8:[\"locale\",\"ar\",\"d\"]\n9:[\"slug\",\"system-design-interview-preparation\",\"d\"]\n13:[]\n"])</script><script>self.__next_f.push([1,"3:[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/047034200e37d0e0.css\",\"precedence\":\"next\",\"crossOrigin\":\"\"}]],[\"$\",\"$L4\",null,{\"buildId\":\"wZmKeakmhTJGRb8vrpAhf\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/ar/blog/system-design-interview-preparation/\",\"initialTree\":[\"\",{\"children\":[[\"locale\",\"ar\",\"d\"],{\"children\":[\"blog\",{\"children\":[[\"slug\",\"system-design-interview-preparation\",\"d\"],{\"children\":[\"__PAGE__?{\\\"locale\\\":\\\"ar\\\",\\\"slug\\\":\\\"system-design-interview-preparation\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],\"initialSeedData\":[\"\",{\"children\":[[\"locale\",\"ar\",\"d\"],{\"children\":[\"blog\",{\"children\":[[\"slug\",\"system-design-interview-preparation\",\"d\"],{\"children\":[\"__PAGE__\",{},[\"$L5\",\"$L6\",null]]},[\"$\",\"$L7\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$8\",\"children\",\"blog\",\"children\",\"$9\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[\"$\",\"$L7\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$8\",\"children\",\"blog\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[null,[\"$\",\"$L7\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"$8\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}],null]]},[null,[\"$\",\"html\",null,{\"lang\":\"en\",\"dir\":\"ltr\",\"suppressHydrationWarning\":true,\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"httpEquiv\":\"Content-Security-Policy\",\"content\":\"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'\"}],[\"$\",\"meta\",null,{\"name\":\"referrer\",\"content\":\"strict-origin-when-cross-origin\"}],[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@graph\\\":[{\\\"@type\\\":\\\"Organization\\\",\\\"@id\\\":\\\"https://jobslist.dev/#organization\\\",\\\"name\\\":\\\"JobsList.dev\\\",\\\"url\\\":\\\"https://jobslist.dev\\\",\\\"logo\\\":\\\"https://jobslist.dev/android-chrome-512x512.png\\\"},{\\\"@type\\\":\\\"WebSite\\\",\\\"@id\\\":\\\"https://jobslist.dev/#website\\\",\\\"url\\\":\\\"https://jobslist.dev\\\",\\\"name\\\":\\\"JobsList.dev\\\",\\\"publisher\\\":{\\\"@id\\\":\\\"https://jobslist.dev/#organization\\\"},\\\"potentialAction\\\":{\\\"@type\\\":\\\"SearchAction\\\",\\\"target\\\":\\\"https://jobslist.dev/jobs/?q={search_term_string}\\\",\\\"query-input\\\":\\\"required name=search_term_string\\\"}}]}\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"try{if(window.top!==window.self\u0026\u0026window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'\u0026\u0026window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();\"}}],[\"$\",\"script\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"(function(){try{var bp=\\\"\\\";var dirs={\\\"zh-CN\\\":\\\"ltr\\\",\\\"es\\\":\\\"ltr\\\",\\\"hi\\\":\\\"ltr\\\",\\\"fr\\\":\\\"ltr\\\",\\\"ar\\\":\\\"rtl\\\",\\\"bn\\\":\\\"ltr\\\",\\\"pt-BR\\\":\\\"ltr\\\",\\\"ru\\\":\\\"ltr\\\",\\\"ur\\\":\\\"rtl\\\",\\\"id\\\":\\\"ltr\\\",\\\"de\\\":\\\"ltr\\\",\\\"ja\\\":\\\"ltr\\\",\\\"tr\\\":\\\"ltr\\\",\\\"ko\\\":\\\"ltr\\\",\\\"it\\\":\\\"ltr\\\",\\\"vi\\\":\\\"ltr\\\",\\\"pl\\\":\\\"ltr\\\",\\\"uk\\\":\\\"ltr\\\",\\\"nl\\\":\\\"ltr\\\",\\\"el\\\":\\\"ltr\\\"};var p=location.pathname;if(bp\u0026\u0026p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();\"}}]]}],[\"$\",\"body\",null,{\"className\":\"__className_f367f3\",\"children\":[[\"$\",\"$Lb\",null,{}],[\"$\",\"$Lc\",null,{\"children\":[\"$\",\"$L7\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$d\",\"errorStyles\":[],\"errorScripts\":[],\"template\":[\"$\",\"$La\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[\"$\",\"div\",null,{\"className\":\"min-h-[80vh] flex items-center justify-center px-4 py-16\",\"children\":[\"$\",\"div\",null,{\"className\":\"w-full max-w-md text-center\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"/\",\"className\":\"inline-flex items-center gap-2 mb-8\",\"children\":[[\"$\",\"$Lf\",null,{\"src\":\"/logo.png\",\"alt\":\"JobsList.dev\",\"width\":32,\"height\":32,\"priority\":true,\"className\":\"rounded-full\"}],[\"$\",\"span\",null,{\"className\":\"font-bold text-xl text-surface-900\",\"children\":\"JobsList.dev\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-7xl font-bold tracking-tight text-brand-500\",\"children\":\"404\"}],[\"$\",\"h1\",null,{\"className\":\"heading-2 mt-4\",\"children\":\"Page not found\"}],[\"$\",\"p\",null,{\"className\":\"text-surface-500 mt-3\",\"children\":\"The page you're looking for doesn't exist or may have been moved.\"}],[\"$\",\"div\",null,{\"className\":\"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"/\",\"className\":\"btn-primary\",\"children\":\"Back to home\"}],[\"$\",\"$Le\",null,{\"href\":\"/jobs\",\"className\":\"btn-secondary\",\"children\":\"Browse jobs\"}]]}]]}]}],\"notFoundStyles\":[],\"styles\":null}]}],[\"$\",\"$L10\",null,{}]]}]]}],null]],\"initialHead\":[false,\"$L11\"],\"globalErrorComponent\":\"$12\",\"missingSlots\":\"$W13\"}]]\n"])</script><script>self.__next_f.push([1,"14:T6a05,"])</script><script>self.__next_f.push([1,"\u003cp\u003eتُثير مقابلات تصميم النظم الرهبة حتى لدى المهندسين ذوي الخبرة لأنها مصممة عمدًا لتكون مفتوحة النهاية. لا توجد إجابة صحيحة واحدة, ولا قائمة مرجعية خفية بالمكونات التي يجب عليك رسمها, ولا مخطط هندسي يضمن النجاح.\u003c/p\u003e\n\u003cp\u003eومن المفارقات أن المرشحين الذين يستعدون عن طريق حفظ بنية Twitter أو YouTube أو Dropbox أو Uber أو Netflix غالبًا ما يواجهون صعوبة أكبر عندما يغير القائمون على المقابلة أحد المتطلبات في منتصف المناقشة.\u003c/p\u003e\n\u003cp\u003eوذلك لأن مقابلات تصميم الأنظمة لا تختبر ذاكرتك.\u003c/p\u003e\n\u003cp\u003eبل تختبر طريقة تفكيرك.\u003c/p\u003e\n\u003cp\u003eيريد القائمون على المقابلة معرفة ما إذا كان بإمكانهم الوثوق بك للجلوس في اجتماع تصميم مع كبار المهندسين, ومناقشة المفاضلات, وطرح أسئلة ذكية, وتحديد المخاطر, والمساعدة في بناء نظام قابل للتوسع بشكل تعاوني.\u003c/p\u003e\n\u003cp\u003eإذا استعددت لـ\u003cem\u003eذلك\u003c/em\u003e, فستؤدي أداءً جيدًا بغض النظر عن السؤال.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eما الذي يقيّمه القائمون على المقابلة حقًا\u003c/h1\u003e\n\u003cp\u003eتحصل معظم الشركات على درجات متقاربة تقريبًا في نفس الفئات, بغض النظر عما إذا كانت تطلب منك تصميم أداة لتقصير عناوين URL, أو نظام دردشة, أو منصة دفع, أو شبكة اجتماعية.\u003c/p\u003e\n\u003cp\u003eإنها تريد أن تفهم ما إذا كنت قادرًا على:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتوضيح المتطلبات الغامضة\u003c/li\u003e\n\u003cli\u003eتقدير الحجم قبل البدء في التصميم\u003c/li\u003e\n\u003cli\u003eتقسيم مشكلة كبيرة إلى مكونات يمكن إدارتها\u003c/li\u003e\n\u003cli\u003eاختيار التقنيات المناسبة\u003c/li\u003e\n\u003cli\u003eشرح المفاضلات بوضوح\u003c/li\u003e\n\u003cli\u003eالتفكير في الموثوقية واحتمالات الفشل\u003c/li\u003e\n\u003cli\u003eالتكيف عند تغير المتطلبات\u003c/li\u003e\n\u003cli\u003eالتواصل بفعالية\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eلاحظ ما \u003cstrong\u003eليس\u003c/strong\u003e موجودًا في القائمة.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eحفظ خدمات AWS\u003c/li\u003e\n\u003cli\u003eتسمية قواعد البيانات الغامضة\u003c/li\u003e\n\u003cli\u003eرسم العشرات من المربعات\u003c/li\u003e\n\u003cli\u003eاستخدام أحدث التقنيات\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eالهندسة الجيدة تنبع من التفكير المنطقي, وليس من الحفظ.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eفهم شكل المقابلة\u003c/h1\u003e\n\u003cp\u003eتستغرق معظم مقابلات تصميم الأنظمة \u003cstrong\u003e45–60 دقيقة\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eيبدو المسار النموذجي كما يلي:\u003c/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eالوقت\u003c/th\u003e\n\u003cth\u003eالنشاط\u003c/th\u003e\n\u003c/tr\u003e\n\u003c/thead\u003e\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd\u003e5–10 دقائق\u003c/td\u003e\n\u003ctd\u003eتوضيح المتطلبات\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e5 دقائق\u003c/td\u003e\n\u003ctd\u003eتقدير الحجم\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e10–15 دقيقة\u003c/td\u003e\n\u003ctd\u003eالبنية عالية المستوى\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e15–20 دقيقة\u003c/td\u003e\n\u003ctd\u003eالتعمق في المكونات الرئيسية\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e10 دقائق\u003c/td\u003e\n\u003ctd\u003eالتوسع, الأعطال, التحسينات, المفاضلات\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eالدقائق الأخيرة\u003c/td\u003e\n\u003ctd\u003eالأسئلة والخلاصة\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\u003c/table\u003e\n\u003cp\u003eاعتبر المقابلة بمثابة مناقشة تعاونية على السبورة البيضاء بدلاً من عرض تقديمي.\u003c/p\u003e\n\u003cp\u003eيجب أن يتحدث القائم بالمقابلة بنفس القدر الذي تتحدث به تقريبًا.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالخطوة 1: توضيح المشكلة أولاً\u003c/h1\u003e\n\u003cp\u003eأكبر خطأ يرتكبه المرشحون هو البدء فورًا في رسم المربعات.\u003c/p\u003e\n\u003cp\u003eلا يبدأ المهندسون المعماريون المحترفون في التصميم إلا بعد فهم المشكلة.\u003c/p\u003e\n\u003cp\u003eاطرح أسئلة مثل:\u003c/p\u003e\n\u003ch3\u003eالمتطلبات الوظيفية\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eما الذي يجب أن يتمكن المستخدمون من فعله؟\u003c/li\u003e\n\u003cli\u003eما هي الميزات الأساسية؟\u003c/li\u003e\n\u003cli\u003eما الذي لا يُطلب؟\u003c/li\u003e\n\u003cli\u003eهل هذا نظام MVP أم نظام إنتاجي؟\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eالمتطلبات غير الوظيفية\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eوقت التشغيل المتوقع؟\u003c/li\u003e\n\u003cli\u003eالحد الأقصى المقبول لزمن الاستجابة؟\u003c/li\u003e\n\u003cli\u003eمتطلبات اتساق البيانات؟\u003c/li\u003e\n\u003cli\u003eمتطلبات الأمان؟\u003c/li\u003e\n\u003cli\u003eالمناطق الجغرافية؟\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eالحجم\u003c/h3\u003e\n\u003cp\u003eاطلب أرقامًا كلما أمكن ذلك.\u003c/p\u003e\n\u003cp\u003eأمثلة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eعدد المستخدمين النشطين يوميًا\u003c/li\u003e\n\u003cli\u003eذروة الطلبات في الثانية\u003c/li\u003e\n\u003cli\u003eمتطلبات التخزين\u003c/li\u003e\n\u003cli\u003eنسبة القراءة/الكتابة\u003c/li\u003e\n\u003cli\u003eالنمو المتوقع\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eإذا كان القائم بالمقابلة لا يعرف الإجابة أو تركها مفتوحة عن قصد, فقم بوضع افتراضات معقولة واعرضها بصوت عالٍ.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;سأفترض أن هناك ما يقارب 20 مليون مستخدم شهريًا مع حوالي 5,000 طلب في الثانية في أوقات الذروة.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eالافتراضات المعقولة أفضل بكثير من التخمين الصامت.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالخطوة 2: قم بالتقدير قبل التصميم\u003c/h1\u003e\n\u003cp\u003eلست بحاجة إلى حسابات رياضية مثالية.\u003c/p\u003e\n\u003cp\u003eلكنك بحاجة إلى إثبات أن تصميمك يناسب المشكلة.\u003c/p\u003e\n\u003cp\u003eقم بتقدير أمور مثل:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eعدد الطلبات في الثانية\u003c/li\u003e\n\u003cli\u003eحجم حركة المرور اليومية\u003c/li\u003e\n\u003cli\u003eنمو سعة التخزين\u003c/li\u003e\n\u003cli\u003eأحجام الصور\u003c/li\u003e\n\u003cli\u003eعرض النطاق الترددي للفيديو\u003c/li\u003e\n\u003cli\u003eحجم قاعدة البيانات\u003c/li\u003e\n\u003cli\u003eنسب نجاح ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eتوجه هذه التقديرات قرارات الهندسة المعمارية.\u003c/p\u003e\n\u003cp\u003eالنظام الذي يخدم 50 طلبًا في الثانية \u003cstrong\u003eلا\u003c/strong\u003e يحتاج إلى نفس البنية التي يحتاجها نظام يخدم 5 ملايين طلب.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالخطوة 3: ارسم بنية بسيطة عالية المستوى\u003c/h1\u003e\n\u003cp\u003eابدأ بشكل عام.\u003c/p\u003e\n\u003cp\u003eلا تناقش على الفور مجموعات Redis أو أقسام Kafka.\u003c/p\u003e\n\u003cp\u003eبدلاً من ذلك, اعرض المكونات الرئيسية.\u003c/p\u003e\n\u003cp\u003eمثال:\u003c/p\u003e\n\u003cpre\u003e\u003ccode\u003eالعميل\n\n↓\n\nموزع الحمل\n\n↓\n\nبوابة واجهة برمجة التطبيقات (API Gateway)\n\n↓\n\nخوادم التطبيقات\n\n↓\n\nقاعدة البيانات\n\n↓\n\nذاكرة التخزين المؤقت\n\n↓\n\nتخزين الكائنات\n\n↓\n\nقائمة الانتظار\n\n↓\n\nعمليات الخلفية\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003eثم قم بمتابعة مسار طلب واحد من البداية إلى النهاية.\u003c/p\u003e\n\u003cp\u003eفهذا يساعدك أنت والمحاور على البقاء على نفس الموجة.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالخطوة 4: تحديد التحدي الأساسي\u003c/h1\u003e\n\u003cp\u003eيحتوي كل نظام على مشكلة هندسية واحدة مثيرة للاهتمام.\u003c/p\u003e\n\u003cp\u003eومن الأمثلة على ذلك:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eفهرسة البحث\u003c/li\u003e\n\u003cli\u003eترتيب موجزات الأخبار\u003c/li\u003e\n\u003cli\u003eتحويل ترميز الفيديو\u003c/li\u003e\n\u003cli\u003eإرسال الإشعارات\u003c/li\u003e\n\u003cli\u003eمعالجة المدفوعات\u003c/li\u003e\n\u003cli\u003eالقفل الموزع\u003c/li\u003e\n\u003cli\u003eتحديد معدل الاستخدام\u003c/li\u003e\n\u003cli\u003eالاتساق الشامل\u003c/li\u003e\n\u003cli\u003eتخزين الوسائط\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eوهذا هو المجال الذي يجب أن تكرس له معظم وقتك في التعمق في الموضوع.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eتعلم العناصر الأساسية بدلاً من حفظ الأنظمة\u003c/h1\u003e\n\u003cp\u003eمعظم مقابلات تصميم الأنظمة هي ببساطة تركيبات مختلفة لنفس المكونات المعمارية.\u003c/p\u003e\n\u003cp\u003eتعرّف جيدًا على كل عنصر منها.\u003c/p\u003e\n\u003ch2\u003eموزعات الحمل\u003c/h2\u003e\n\u003cp\u003eاعرف:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eسبب استخدامها\u003c/li\u003e\n\u003cli\u003eطريقة التناوب (Round Robin)\u003c/li\u003e\n\u003cli\u003eأقل عدد من الاتصالات\u003c/li\u003e\n\u003cli\u003eفحوصات الحالة\u003c/li\u003e\n\u003cli\u003eإنهاء SSL\u003c/li\u003e\n\u003cli\u003eالطبقة 4 مقابل الطبقة 7\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eقواعد البيانات\u003c/h2\u003e\n\u003cp\u003eافهم متى تستخدم:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eقواعد البيانات العلائقية\u003c/li\u003e\n\u003cli\u003eقواعد البيانات المستندية\u003c/li\u003e\n\u003cli\u003eمخازن القيم المفتاحية\u003c/li\u003e\n\u003cli\u003eقواعد البيانات البيانية\u003c/li\u003e\n\u003cli\u003eقواعد البيانات المتسلسلة زمنياً\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eتعرف على مفاهيم مثل:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eالفهارس\u003c/li\u003e\n\u003cli\u003eالنسخ المتماثل\u003c/li\u003e\n\u003cli\u003eالتقسيم\u003c/li\u003e\n\u003cli\u003eالتجزئة\u003c/li\u003e\n\u003cli\u003eالمعاملات\u003c/li\u003e\n\u003cli\u003eمستويات العزل\u003c/li\u003e\n\u003cli\u003eالنسخ المتماثلة للقراءة\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالتخزين المؤقت\u003c/h2\u003e\n\u003cp\u003eفهم:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRedis\u003c/li\u003e\n\u003cli\u003eMemcached\u003c/li\u003e\n\u003cli\u003eالتخزين المؤقت للمتصفح\u003c/li\u003e\n\u003cli\u003eالتخزين المؤقت لشبكة توزيع المحتوى (CDN)\u003c/li\u003e\n\u003cli\u003eإبطال صلاحية ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003cli\u003eتسخين ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003cli\u003eإخلاء ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003cli\u003eتدافع ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003cli\u003eالكتابة المباشرة\u003c/li\u003e\n\u003cli\u003eالكتابة المؤجلة\u003c/li\u003e\n\u003cli\u003eالكتابة الالتفافية\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eيحب القائمون على المقابلات طرح الأسئلة المتعلقة بذاكرة التخزين المؤقت.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eقوائم انتظار الرسائل\u003c/h2\u003e\n\u003cp\u003eمعرفة أسباب وجود قوائم الانتظار.\u003c/p\u003e\n\u003cp\u003eأمثلة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eKafka\u003c/li\u003e\n\u003cli\u003eRabbitMQ\u003c/li\u003e\n\u003cli\u003eSQS\u003c/li\u003e\n\u003cli\u003eNATS\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eفهم:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eالمُنتِجون\u003c/li\u003e\n\u003cli\u003eالمستهلكون\u003c/li\u003e\n\u003cli\u003eقوائم الانتظار للرسائل المفقودة\u003c/li\u003e\n\u003cli\u003eاستراتيجيات إعادة المحاولة\u003c/li\u003e\n\u003cli\u003eالترتيب\u003c/li\u003e\n\u003cli\u003eالضغط العكسي\u003c/li\u003e\n\u003cli\u003eالتسليم «مرة واحدة بالضبط» مقابل «مرة واحدة على الأقل»\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالتخزين\u003c/h2\u003e\n\u003cp\u003eمعرفة متى يتم اختيار:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتخزين الكائنات\u003c/li\u003e\n\u003cli\u003eتخزين الكتل\u003c/li\u003e\n\u003cli\u003eتخزين الملفات\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eافهم:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتكامل شبكة توزيع المحتوى (CDN)\u003c/li\u003e\n\u003cli\u003eمعالجة الوسائط\u003c/li\u003e\n\u003cli\u003eالضغط\u003c/li\u003e\n\u003cli\u003eسياسات دورة الحياة\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالبحث\u003c/h2\u003e\n\u003cp\u003eاعرف بنية البحث الأساسية:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eفهرسة النص الكامل\u003c/li\u003e\n\u003cli\u003eالفهارس المعكوسة\u003c/li\u003e\n\u003cli\u003eElasticsearch/OpenSearch\u003c/li\u003e\n\u003cli\u003eالترتيب\u003c/li\u003e\n\u003cli\u003eالتصفية\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eواجهات برمجة التطبيقات (APIs)\u003c/h2\u003e\n\u003cp\u003eكن على دراية بمناقشة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eREST\u003c/li\u003e\n\u003cli\u003eGraphQL\u003c/li\u003e\n\u003cli\u003egRPC\u003c/li\u003e\n\u003cli\u003eترقيم الصفحات\u003c/li\u003e\n\u003cli\u003eإدارة الإصدارات\u003c/li\u003e\n\u003cli\u003eالمصادقة\u003c/li\u003e\n\u003cli\u003eتحديد معدل الاستخدام\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch1\u003eناقش دائمًا المفاضلات\u003c/h1\u003e\n\u003cp\u003eهذا هو ما يميز المهندسين ذوي الخبرة.\u003c/p\u003e\n\u003cp\u003eكل قرار له فوائد وتكاليف.\u003c/p\u003e\n\u003cp\u003eعلى سبيل المثال:\u003c/p\u003e\n\u003cp\u003e| القرار | الفائدة | التكلفة |\n|-----------|--------- -|------|\n| SQL | اتساق قوي | صعوبة في التوسع |\n| NoSQL | التوسع الأفقي | اتساق أضعف |\n| ذاكرة التخزين المؤقت | قراءة أسرع | تعقيد عملية إبطال الصلاحية |\n| شبكة توزيع المحتوى (CDN) | زمن انتقال أقل | اتساق نهائي |\n| الخدمات الصغيرة | النشر المستقل | تعقيد التشغيل |\n| النظام المتكامل | تطوير أبسط | صعوبة في التوسع على المدى الطويل |\u003c/p\u003e\n\u003cp\u003eالمحاور لا يبحث عن الخيارات المثالية.\u003c/p\u003e\n\u003cp\u003eبل يبحث عن مهندسين يدركون أن كل خيار له عواقبه.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eفكر في حالات الفشل\u003c/h1\u003e\n\u003cp\u003eإحدى السمات المميزة للمهندسين ذوي الخبرة هي طرح السؤال التالي:\u003c/p\u003e\n\u003cp\u003e\u0026quot;ماذا يحدث إذا تعطل هذا؟\u0026quot;\u003c/p\u003e\n\u003cp\u003eفكر في:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eانقطاع قاعدة البيانات\u003c/li\u003e\n\u003cli\u003eانقطاع ذاكرة التخزين المؤقت\u003c/li\u003e\n\u003cli\u003eتراكم الطلبات في قائمة الانتظار\u003c/li\u003e\n\u003cli\u003eفشل المنطقة\u003c/li\u003e\n\u003cli\u003eانقسام الشبكة\u003c/li\u003e\n\u003cli\u003eفشل القرص\u003c/li\u003e\n\u003cli\u003eتعطل الخدمة\u003c/li\u003e\n\u003cli\u003eبطء التبعية النهائية\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eمناقشة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eمحاولات إعادة\u003c/li\u003e\n\u003cli\u003eمهلات الانتظار\u003c/li\u003e\n\u003cli\u003eقواطع الدائرة\u003c/li\u003e\n\u003cli\u003eالنسخ المتماثل\u003c/li\u003e\n\u003cli\u003eالنسخ الاحتياطية\u003c/li\u003e\n\u003cli\u003eالمراقبة\u003c/li\u003e\n\u003cli\u003eالتنبيهات\u003c/li\u003e\n\u003cli\u003eالتدهور التدريجي\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eغالبًا ما تكون الموثوقية أكثر أهمية من قابلية التوسع البحتة.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eضع قابلية التوسع في الاعتبار\u003c/h1\u003e\n\u003cp\u003eبمجرد أن يعمل التصميم الأولي, اشرح كيف يتطور.\u003c/p\u003e\n\u003cp\u003eأمثلة:\u003c/p\u003e\n\u003ch3\u003eتوسيع نطاق عمليات القراءة\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eالنسخ المتماثلة للقراءة\u003c/li\u003e\n\u003cli\u003eشبكة توزيع المحتوى (CDN)\u003c/li\u003e\n\u003cli\u003eالتخزين المؤقت\u003c/li\u003e\n\u003cli\u003eفهارس البحث\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eتوسيع نطاق عمليات الكتابة\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eالتجزئة (Sharding)\u003c/li\u003e\n\u003cli\u003eالتقسيم\u003c/li\u003e\n\u003cli\u003eقوائم انتظار الرسائل\u003c/li\u003e\n\u003cli\u003eتدفق الأحداث\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eالتوسع على نطاق عالمي\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eالنشر عبر مناطق متعددة\u003c/li\u003e\n\u003cli\u003eنظام أسماء النطاقات الجغرافي (Geo-DNS)\u003c/li\u003e\n\u003cli\u003eالتخزين المؤقت على الحافة\u003c/li\u003e\n\u003cli\u003eقواعد البيانات الإقليمية\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eأظهر أن تصميمك قابل للتطور بدلاً من التظاهر بأنه قابل للتوسع بشكل لا نهائي منذ البداية.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالأمان مهم أيضًا\u003c/h1\u003e\n\u003cp\u003eينسى العديد من المرشحين مسألة الأمان تمامًا.\u003c/p\u003e\n\u003cp\u003eاذكر:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eالمصادقة\u003c/li\u003e\n\u003cli\u003eالتفويض\u003c/li\u003e\n\u003cli\u003eTLS\u003c/li\u003e\n\u003cli\u003eالتشفير أثناء التخزين\u003c/li\u003e\n\u003cli\u003eإدارة الأسرار\u003c/li\u003e\n\u003cli\u003eمفاتيح واجهة برمجة التطبيقات (API)\u003c/li\u003e\n\u003cli\u003eOAuth\u003c/li\u003e\n\u003cli\u003eتحديد معدل الاستخدام\u003c/li\u003e\n\u003cli\u003eسجلات التدقيق\u003c/li\u003e\n\u003cli\u003eالتحقق من صحة المدخلات\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eلست بحاجة إلى تصميم نموذج الأمان بالكامل, لكن الاعتراف بأهميته يدل على النضج.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالمراقبة والقابلية للمراقبة\u003c/h1\u003e\n\u003cp\u003eتحتاج أنظمة الإنتاج إلى الرؤية.\u003c/p\u003e\n\u003cp\u003eناقش:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eالمقاييس\u003c/li\u003e\n\u003cli\u003eالتسجيل\u003c/li\u003e\n\u003cli\u003eالتتبع الموزع\u003c/li\u003e\n\u003cli\u003eفحوصات الحالة\u003c/li\u003e\n\u003cli\u003eلوحات المعلومات\u003c/li\u003e\n\u003cli\u003eالتنبيهات\u003c/li\u003e\n\u003cli\u003eميزانيات الأخطاء\u003c/li\u003e\n\u003cli\u003eأهداف مستوى الخدمة (SLOs)\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eتعد القدرة على اكتشاف الأعطال بنفس أهمية منعها.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالتواصل المستمر\u003c/h1\u003e\n\u003cp\u003eلا تتصرف بصمت.\u003c/p\u003e\n\u003cp\u003eاشرح أسبابك.\u003c/p\u003e\n\u003cp\u003eبدلاً من القول:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;سنستخدم Redis.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eقل:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u0026quot;نظرًا لأن غالبية الطلبات تتمثل في عمليات القراءة, فإن إضافة Redis من شأنها أن تقلل من عبء قاعدة البيانات بشكل كبير. المقابل لذلك هو تعقيد عملية إبطال صلاحية ذاكرة التخزين المؤقت, وهو ما سأتعامل معه باستخدام مدة الصلاحية (TTL) وإبطال الصلاحية بشكل صريح بعد عمليات الكتابة.\u0026quot;\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eهذا هو ما يقيّمه القائمون على المقابلات.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eتدرب بالطريقة الصحيحة\u003c/h1\u003e\n\u003cp\u003eأفضل طريقة للتحضير ليست قراءة المزيد من مخططات البنية.\u003c/p\u003e\n\u003cp\u003eبل هي التدرب على المحادثات.\u003c/p\u003e\n\u003cp\u003eجرب تمارين مثل:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتصميم أداة تقصير عناوين URL\u003c/li\u003e\n\u003cli\u003eتصميم تطبيق دردشة\u003c/li\u003e\n\u003cli\u003eتصميم موجز أخبار على وسائل التواصل الاجتماعي\u003c/li\u003e\n\u003cli\u003eتصميم Dropbox\u003c/li\u003e\n\u003cli\u003eتصميم YouTube\u003c/li\u003e\n\u003cli\u003eتصميم Uber\u003c/li\u003e\n\u003cli\u003eتصميم Slack\u003c/li\u003e\n\u003cli\u003eتصميم سوق إلكتروني\u003c/li\u003e\n\u003cli\u003eتصميم منصة للتجارة الإلكترونية\u003c/li\u003e\n\u003cli\u003eتصميم نظام إشعارات\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eحدد وقتًا لنفسك.\u003c/p\u003e\n\u003cp\u003eتحدث بصوت عالٍ.\u003c/p\u003e\n\u003cp\u003eارسم المخططات.\u003c/p\u003e\n\u003cp\u003eسجل نفسك.\u003c/p\u003e\n\u003cp\u003eلاحظ الأماكن التي تتردد فيها.\u003c/p\u003e\n\u003cp\u003eتلك هي المجالات التي تحتاج إلى تحسين.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eالأخطاء الشائعة\u003c/h1\u003e\n\u003ch2\u003eالبدء دون توضيح\u003c/h2\u003e\n\u003cp\u003eيؤدي هذا دائمًا تقريبًا إلى حل المشكلة الخاطئة.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eالإفراط في الهندسة\u003c/h2\u003e\n\u003cp\u003eلا تستخدم Kafka و Kubernetes و CQRS و event sourcing و 40 خدمة صغيرة لتطبيق يضم بضعة آلاف من المستخدمين.\u003c/p\u003e\n\u003cp\u003eالبساطة عادةً ما تكون أفضل.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eعدم مناقشة المفاضلات أبدًا\u003c/h2\u003e\n\u003cp\u003eيهتم القائمون على المقابلة بـ\u003cem\u003eلماذا\u003c/em\u003e أكثر من \u003cem\u003eماذا\u003c/em\u003e.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eالانغماس في التفاصيل التقنية\u003c/h2\u003e\n\u003cp\u003eلا تجادل لمدة عشر دقائق حول Redis مقابل Memcached.\u003c/p\u003e\n\u003cp\u003eركز على البنية.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eنسيان سيناريوهات الفشل\u003c/h2\u003e\n\u003cp\u003eأنظمة الإنتاج تتعطل.\u003c/p\u003e\n\u003cp\u003eأظهر أنك سبق لك تشغيل برامج من قبل.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eالقليل من الكلام\u003c/h2\u003e\n\u003cp\u003eالصمت يجعل من المستحيل على القائمين على المقابلة تقييم طريقة تفكيرك.\u003c/p\u003e\n\u003cp\u003eاشرح قراراتك.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eرفض تغيير المسار\u003c/h2\u003e\n\u003cp\u003eيقوم القائمون على المقابلات بإدخال قيود جديدة عن قصد.\u003c/p\u003e\n\u003cp\u003eأمثلة:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e«الآن يجب أن يدعم النظام أوروبا.»\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003e«تضاعف حجم حركة المرور.»\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003e«يتطلب الامتثال للوائح اتساقًا قويًّا.»\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eتعامل مع هذه الأمور على أنها تعاون, وليس انتقادًا.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eخطة دراسية مدتها أربعة أسابيع\u003c/h1\u003e\n\u003ch2\u003eالأسبوع الأول\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eأساسيات الشبكات\u003c/li\u003e\n\u003cli\u003eHTTP\u003c/li\u003e\n\u003cli\u003eDNS\u003c/li\u003e\n\u003cli\u003eموازنات الحمل\u003c/li\u003e\n\u003cli\u003eقواعد البيانات\u003c/li\u003e\n\u003cli\u003eالتخزين المؤقت\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالأسبوع الثاني\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eقوائم الانتظار\u003c/li\u003e\n\u003cli\u003eالأنظمة الموزعة\u003c/li\u003e\n\u003cli\u003eالنسخ المتماثل\u003c/li\u003e\n\u003cli\u003eالتجزئة\u003c/li\u003e\n\u003cli\u003eالاتساق\u003c/li\u003e\n\u003cli\u003eنظرية CAP\u003c/li\u003e\n\u003cli\u003eواجهات برمجة التطبيقات (APIs)\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالأسبوع الثالث\u003c/h2\u003e\n\u003cp\u003eتدرب على التصميم:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eأداة تقصير عناوين URL\u003c/li\u003e\n\u003cli\u003eTinyURL\u003c/li\u003e\n\u003cli\u003ePastebin\u003c/li\u003e\n\u003cli\u003eتطبيق الدردشة\u003c/li\u003e\n\u003cli\u003eتخزين الملفات\u003c/li\u003e\n\u003cli\u003eموجز الأخبار\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch2\u003eالأسبوع الرابع\u003c/h2\u003e\n\u003cp\u003eإجراء مقابلات تجريبية كاملة.\u003c/p\u003e\n\u003cp\u003eالتدريب على:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eاستخدام السبورة البيضاء\u003c/li\u003e\n\u003cli\u003eإدارة الوقت\u003c/li\u003e\n\u003cli\u003eالتواصل بوضوح\u003c/li\u003e\n\u003cli\u003eشرح المفاضلات\u003c/li\u003e\n\u003cli\u003eالإجابة على الأسئلة التكميلية\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eكرر ذلك حتى تصبح العملية طبيعية بالنسبة لك.\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003eقائمة مراجعة ليوم المقابلة\u003c/h1\u003e\n\u003cp\u003eقبل المقابلة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e✓ نم جيدًا\u003c/li\u003e\n\u003cli\u003e✓ اختبر الميكروفون والكاميرا\u003c/li\u003e\n\u003cli\u003e✓ جهز ورقة أو لوحة بيضاء\u003c/li\u003e\n\u003cli\u003e✓ احتفظ بزجاجة ماء بالقرب منك\u003c/li\u003e\n\u003cli\u003e✓ اقرأ وصف الشركة\u003c/li\u003e\n\u003cli\u003e✓ راجع تصميمًا أو تصميمين تدريبيين\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eأثناء المقابلة:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eوضح المتطلبات أولاً\u003c/li\u003e\n\u003cli\u003eفكر بصوت عالٍ\u003c/li\u003e\n\u003cli\u003eاجعل الرسوم التوضيحية بسيطة\u003c/li\u003e\n\u003cli\u003eبرر كل قرار رئيسي\u003c/li\u003e\n\u003cli\u003eناقش المفاضلات\u003c/li\u003e\n\u003cli\u003eاذكر سيناريوهات الفشل\u003c/li\u003e\n\u003cli\u003eتكيف مع ظهور متطلبات جديدة\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch1\u003eخاتمة\u003c/h1\u003e\n\u003cp\u003eالمقابلة الناجحة لتصميم الأنظمة لا تتعلق برسم البنية الأكثر تعقيدًا. بل تتعلق بإثبات قدرتك على التفكير كمهندس مسؤول عن بناء وتشغيل البرمجيات في العالم الواقعي.\u003c/p\u003e\n\u003cp\u003eتعامل مع كل مشكلة بطريقة منهجية:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eحدد المتطلبات بوضوح.\u003c/li\u003e\n\u003cli\u003eقم بتقدير حجم المشروع.\u003c/li\u003e\n\u003cli\u003eصمم بنية بسيطة.\u003c/li\u003e\n\u003cli\u003eركز على المكون الأصعب.\u003c/li\u003e\n\u003cli\u003eناقش المفاضلات بصراحة.\u003c/li\u003e\n\u003cli\u003eاستعد لمواجهة الإخفاقات.\u003c/li\u003e\n\u003cli\u003eاشرح منطقك طوال العملية.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eالمقابلون لا يبحثون عن شخص حفظ تصميم Instagram عن ظهر قلب. إنهم يبحثون عن شخص يثقون به لتصميم المنتج التالي مع فريقهم.\u003c/p\u003e\n\u003cp\u003eهذه العقلية — وليس الحفظ — هي ما يضمن أداءً قويًّا في مقابلة تصميم الأنظمة.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eموارد إضافية للتحضير لمقابلة تصميم الأنظمة\u003c/h2\u003e\n\u003cp\u003eقبل المقابلة, خصص وقتًا لتعزيز هذه المهارات التكميلية:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتدرب على شرح المفاهيم التقنية لجمهور غير تقني.\u003c/li\u003e\n\u003cli\u003eراجع فهرسة قواعد البيانات والمعاملات وتحسين الاستعلامات.\u003c/li\u003e\n\u003cli\u003eجدد معلوماتك حول أساسيات الشبكات بما في ذلك HTTP و TLS و DNS وموازنة الحمل.\u003c/li\u003e\n\u003cli\u003eتعلم أساسيات الأنظمة الموزعة ونماذج الاتساق والاتساق النهائي.\u003c/li\u003e\n\u003cli\u003eقم ببناء مشاريع شخصية صغيرة تستخدم ذاكرات التخزين المؤقت وقوائم الانتظار وواجهات برمجة التطبيقات وقواعد البيانات معًا.\u003c/li\u003e\n\u003cli\u003eشارك في مقابلات تجريبية مع زملائك واطلب منهم ملاحظات صادقة حول أسلوبك في التواصل, وليس فقط حول قراراتك التقنية.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eالمهندسون الذين يحققون أفضل أداء في مقابلات تصميم الأنظمة ليسوا دائمًا أولئك الذين يمتلكون أعمق المعرفة المعمارية — بل هم أولئك القادرون على توصيل الأفكار المعقدة بوضوح, والتعاون بفعالية, واتخاذ قرارات هندسية مدروسة في ظل ظروف عدم اليقين.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eتعامل مع كل مشكلة بطريقة منهجية:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eحدد المتطلبات بوضوح.\u003c/li\u003e\n\u003cli\u003eقم بتقدير حجم المشروع.\u003c/li\u003e\n\u003cli\u003eصمم بنية بسيطة.\u003c/li\u003e\n\u003cli\u003eركز على المكون الأصعب.\u003c/li\u003e\n\u003cli\u003eناقش المفاضلات بصراحة.\u003c/li\u003e\n\u003cli\u003eاستعد لمواجهة الإخفاقات.\u003c/li\u003e\n\u003cli\u003eاشرح منطقك طوال العملية.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eالمقابلون لا يبحثون عن شخص حفظ تصميم Instagram عن ظهر قلب. إنهم يبحثون عن شخص يثقون به لتصميم المنتج التالي مع فريقهم.\u003c/p\u003e\n\u003cp\u003eهذه العقلية — وليس الحفظ — هي ما يضمن أداءً قويًّا في مقابلة تصميم الأنظمة.\u003c/p\u003e\n\u003chr\u003e\n\u003ch2\u003eموارد إضافية للتحضير لمقابلة تصميم الأنظمة\u003c/h2\u003e\n\u003cp\u003eقبل المقابلة, خصص وقتًا لتعزيز هذه المهارات التكميلية:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eتدرب على شرح المفاهيم التقنية لجمهور غير تقني.\u003c/li\u003e\n\u003cli\u003eراجع فهرسة قواعد البيانات والمعاملات وتحسين الاستعلامات.\u003c/li\u003e\n\u003cli\u003eجدد معلوماتك حول أساسيات الشبكات بما في ذلك HTTP و TLS و DNS وموازنة الحمل.\u003c/li\u003e\n\u003cli\u003eتعلم أساسيات الأنظمة الموزعة ونماذج الاتساق والاتساق النهائي.\u003c/li\u003e\n\u003cli\u003eقم ببناء مشاريع شخصية صغيرة تستخدم ذاكرات التخزين المؤقت وقوائم الانتظار وواجهات برمجة التطبيقات وقواعد البيانات معًا.\u003c/li\u003e\n\u003cli\u003eشارك في مقابلات تجريبية مع زملائك واطلب منهم ملاحظات صادقة حول أسلوبك في التواصل, وليس فقط حول قراراتك التقنية.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eالمهندسون الذين يحققون أفضل أداء في مقابلات تصميم الأنظمة ليسوا دائمًا أولئك الذين يمتلكون أعمق المعرفة المعمارية — بل هم أولئك القادرون على توصيل الأفكار المعقدة بوضوح, والتعاون بفعالية, واتخاذ قرارات هندسية مدروسة في ظل ظروف عدم اليقين.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cem\u003eهل تبحث عن وظائف هندسية تقدّر المهارات العملية في تصميم البرمجيات؟ \u003cstrong\u003eأنشئ ملفك الشخصي المجاني على JobsList.dev\u003c/strong\u003e, وعرض خبراتك, وتقدم بطلبك مباشرةً إلى الشركات التي تعمل على تطوير أنظمة برمجية حديثة.\u003c/em\u003e\u003c/p\u003e\n"])</script><script>self.__next_f.push([1,"6:[\"$\",\"article\",null,{\"className\":\"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8\",\"children\":[[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"BlogPosting\\\",\\\"headline\\\":\\\"كيفية الاستعداد لمقابلة تصميم النظام\\\",\\\"description\\\":\\\"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.\\\",\\\"image\\\":[\\\"https://jobslist.dev/og-image.png\\\"],\\\"datePublished\\\":\\\"2026-07-20T00:00:00.000Z\\\",\\\"dateModified\\\":\\\"2026-07-20T00:00:00.000Z\\\",\\\"inLanguage\\\":\\\"ar\\\",\\\"author\\\":{\\\"@type\\\":\\\"Organization\\\",\\\"name\\\":\\\"فريق JobsList.dev\\\"},\\\"publisher\\\":{\\\"@type\\\":\\\"Organization\\\",\\\"name\\\":\\\"JobsList.dev\\\",\\\"url\\\":\\\"https://jobslist.dev\\\"},\\\"mainEntityOfPage\\\":{\\\"@type\\\":\\\"WebPage\\\",\\\"@id\\\":\\\"https://jobslist.dev/ar/blog/system-design-interview-preparation/\\\"}}\"}}],[\"$\",\"$Le\",null,{\"href\":\"/ar/blog/\",\"className\":\"text-sm text-brand-600 hover:text-brand-700\",\"children\":[\"← \",\"← جميع المقالات\"]}],[\"$\",\"div\",null,{\"className\":\"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900\",\"children\":[\"$\",\"$Lf\",null,{\"src\":\"/og-image.png\",\"alt\":\"JobsList.dev — where exceptional builders find exceptional work.\",\"fill\":true,\"priority\":true,\"sizes\":\"(max-width: 768px) 100vw, 768px\",\"className\":\"object-cover\"}]}],[\"$\",\"div\",null,{\"className\":\" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 \",\"children\":[\"$\",\"h1\",null,{\"className\":\" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate \",\"children\":\"كيفية الاستعداد لمقابلة تصميم النظام\"}]}],[\"$\",\"header\",null,{\"className\":\"mb-8 mt-6\",\"children\":[[\"$\",\"p\",null,{\"className\":\"text-lg leading-8 text-surface-600 dark:text-surface-300\",\"children\":\"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.\"}],[\"$\",\"div\",null,{\"className\":\"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400\",\"children\":[[\"$\",\"span\",null,{\"children\":\"فريق JobsList.dev\"}],[\"$\",\"span\",null,{\"aria-hidden\":\"true\",\"children\":\"·\"}],[\"$\",\"time\",null,{\"dateTime\":\"2026-07-20T00:00:00.000Z\",\"children\":\"19 يوليو 2026\"}],[\"$\",\"span\",null,{\"aria-hidden\":\"true\",\"children\":\"·\"}],[\"$\",\"span\",null,{\"children\":[12,\" \",\"blog.article.minuteRead\"]}]]}],[\"$\",\"div\",null,{\"className\":\"mt-4 flex flex-wrap gap-2\",\"children\":[[\"$\",\"span\",\"الباحثون عن عمل\",{\"className\":\"badge-gray\",\"children\":\"الباحثون عن عمل\"}],[\"$\",\"span\",\"المقابلات\",{\"className\":\"badge-gray\",\"children\":\"المقابلات\"}],[\"$\",\"span\",\"الهندسة\",{\"className\":\"badge-gray\",\"children\":\"الهندسة\"}],[\"$\",\"span\",\"تصميم النظم\",{\"className\":\"badge-gray\",\"children\":\"تصميم النظم\"}],[\"$\",\"span\",\"بنية البرمجيات\",{\"className\":\"badge-gray\",\"children\":\"بنية البرمجيات\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"article\",\"dangerouslySetInnerHTML\":{\"__html\":\"$14\"}}],null,[\"$\",\"div\",null,{\"className\":\"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700\",\"children\":[[\"$\",\"$Le\",null,{\"href\":\"/ar/blog/\",\"className\":\"btn-secondary btn-sm\",\"children\":[\"← \",\"← مزيد من المقالات\"]}],[\"$\",\"$Le\",null,{\"href\":\"/auth/register?role=COMPANY\",\"className\":\"btn-primary btn-sm\",\"children\":\"انشر وظيفة\"}]]}]]}]\n"])</script><script>self.__next_f.push([1,"11:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"name\":\"theme-color\",\"content\":\"#4F6BFF\"}],[\"$\",\"meta\",\"2\",{\"name\":\"color-scheme\",\"content\":\"light dark\"}],[\"$\",\"meta\",\"3\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"4\",{\"children\":\"كيفية الاستعداد لمقابلة تصميم النظام | JobsList.dev | JobsList.dev\"}],[\"$\",\"meta\",\"5\",{\"name\":\"description\",\"content\":\"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.\"}],[\"$\",\"meta\",\"6\",{\"name\":\"application-name\",\"content\":\"JobsList.dev\"}],[\"$\",\"link\",\"7\",{\"rel\":\"manifest\",\"href\":\"/manifest.json\"}],[\"$\",\"meta\",\"8\",{\"name\":\"robots\",\"content\":\"noindex, follow\"}],[\"$\",\"meta\",\"9\",{\"name\":\"msapplication-TileColor\",\"content\":\"#4F6BFF\"}],[\"$\",\"meta\",\"10\",{\"name\":\"msapplication-TileImage\",\"content\":\"/mstile-150x150.png\"}],[\"$\",\"meta\",\"11\",{\"name\":\"apple-mobile-web-app-capable\",\"content\":\"yes\"}],[\"$\",\"meta\",\"12\",{\"name\":\"apple-mobile-web-app-title\",\"content\":\"JobsList.dev\"}],[\"$\",\"meta\",\"13\",{\"name\":\"apple-mobile-web-app-status-bar-style\",\"content\":\"default\"}],[\"$\",\"meta\",\"14\",{\"property\":\"og:title\",\"content\":\"كيفية الاستعداد لمقابلة تصميم النظام\"}],[\"$\",\"meta\",\"15\",{\"property\":\"og:description\",\"content\":\"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.\"}],[\"$\",\"meta\",\"16\",{\"property\":\"og:url\",\"content\":\"https://jobslist.dev/ar/blog/system-design-interview-preparation/\"}],[\"$\",\"meta\",\"17\",{\"property\":\"og:locale\",\"content\":\"ar\"}],[\"$\",\"meta\",\"18\",{\"property\":\"og:image\",\"content\":\"https://jobslist.dev/og-image.png\"}],[\"$\",\"meta\",\"19\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"20\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"21\",{\"property\":\"og:image:alt\",\"content\":\"JobsList.dev — where exceptional builders find exceptional work.\"}],[\"$\",\"meta\",\"22\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"$\",\"meta\",\"23\",{\"property\":\"article:published_time\",\"content\":\"2026-07-20T00:00:00.000Z\"}],[\"$\",\"meta\",\"24\",{\"property\":\"article:author\",\"content\":\"فريق JobsList.dev\"}],[\"$\",\"meta\",\"25\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"26\",{\"name\":\"twitter:title\",\"content\":\"كيفية الاستعداد لمقابلة تصميم النظام\"}],[\"$\",\"meta\",\"27\",{\"name\":\"twitter:description\",\"content\":\"للمطورين: دليل شامل للاستعداد لمقابلات تصميم النظام, وفهم ما يقيّمه القائمون على المقابلة, وشرح المفاضلات, وبناء الثقة دون حفظ مخططات البنية.\"}],[\"$\",\"meta\",\"28\",{\"name\":\"twitter:image\",\"content\":\"https://jobslist.dev/twitter-image.png\"}],[\"$\",\"meta\",\"29\",{\"name\":\"twitter:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"30\",{\"name\":\"twitter:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"31\",{\"name\":\"twitter:image:alt\",\"content\":\"JobsList.dev — where exceptional builders find exceptional work.\"}],[\"$\",\"link\",\"32\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"16x16\"}],[\"$\",\"link\",\"33\",{\"rel\":\"icon\",\"href\":\"/icon.png?7fb344a72565aa54\",\"type\":\"image/png\",\"sizes\":\"512x512\"}],[\"$\",\"link\",\"34\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-icon.png?2a164f131c03e85b\",\"type\":\"image/png\",\"sizes\":\"180x180\"}],[\"$\",\"meta\",\"35\",{\"name\":\"next-size-adjust\"}]]\n"])</script><script>self.__next_f.push([1,"5:null\n"])</script><script>self.__next_f.push([1,""])</script></body></html>

@@ -1,155 +1,155 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T37e2,<h1>DevOps Engineer Job Description Template (With Screening Tips)</h1>
-<p>DevOps is one of the most misunderstood job titles in software engineering.</p>
-<p>At one company, DevOps means building internal platforms that allow hundreds of engineers to deploy software safely every day.</p>
-<p>At another, it means maintaining Kubernetes clusters.</p>
-<p>Elsewhere, it means being responsible for Linux servers, cloud infrastructure, CI/CD, monitoring, networking, security, compliance, backups, incident response, database administration, and whatever else nobody owns.</p>
-<p>Experienced DevOps engineers have learned to assume the worst unless a job description proves otherwise.</p>
-<p>That&#39;s why the best DevOps job descriptions don&#39;t try to sound exciting.</p>
-<p>They try to be honest.</p>
-<p>When candidates understand exactly what they&#39;re walking into, you&#39;ll receive fewer applications—but far better ones.</p>
-<p>Likewise, if you&#39;re applying for a DevOps position, understanding what employers are actually looking for can help you tailor your resume, portfolio, and interview preparation toward the skills that matter most.</p>
-<hr>
-<h1>What DevOps actually means today</h1>
-<p>Different companies organize infrastructure differently.</p>
-<p>A DevOps engineer may spend most of their day working on:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","devops-engineer-job-description-template","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"devops-engineer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T4e2c,<h1>نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز)</h1>
+<h2>يُعد DevOps أحد أكثر المسميات الوظيفية التي يُساء فهمها في مجال هندسة البرمجيات.
+في إحدى الشركات, يعني DevOps بناء منصات داخلية تسمح لمئات المهندسين بنشر البرمجيات بأمان كل يوم.
+وفي شركة أخرى, يعني صيانة مجموعات Kubernetes.
+وفي أماكن أخرى, يعني تولي المسؤولية عن خوادم Linux, والبنية التحتية السحابية, وCI/CD, والمراقبة, والشبكات, والأمن, والامتثال, والنسخ الاحتياطية, والاستجابة للحوادث, وإدارة قواعد البيانات, وأي مهام أخرى لا يتولى مسؤوليتها أحد.
+لقد تعلم مهندسو DevOps ذوو الخبرة أن يتوقعوا الأسوأ ما لم يثبت الوصف الوظيفي عكس ذلك.
+ولهذا السبب, لا تحاول أفضل الأوصاف الوظيفية لـ DevOps أن تبدو مثيرة.
+بل تسعى إلى أن تكون صادقة.
+عندما يفهم المرشحون بالضبط ما الذي ينتظرهم, ستتلقى عددًا أقل من الطلبات — لكنها ستكون طلبات أفضل بكثير.
+وبالمثل, إذا كنت تتقدم لوظيفة في مجال DevOps, فإن فهم ما يبحث عنه أصحاب العمل فعليًّا يمكن أن يساعدك في تكييف سيرتك الذاتية ومحفظة أعمالك واستعداداتك للمقابلة لتتناسب مع المهارات الأكثر أهمية.</h2>
+<h1>ما الذي يعنيه مصطلح DevOps فعليًّا اليوم</h1>
+<p>تنظم الشركات المختلفة البنية التحتية بطرق مختلفة.
+قد يقضي مهندس DevOps معظم يومه في العمل على:</p>
 <ul>
-<li>CI/CD pipelines</li>
+<li>مسارات CI/CD</li>
 <li>Kubernetes</li>
-<li>Cloud infrastructure</li>
-<li>Internal developer platforms</li>
-<li>Infrastructure as Code</li>
-<li>Security automation</li>
-<li>Cost optimization</li>
-<li>Observability</li>
-<li>Incident response</li>
-<li>Platform engineering</li>
-<li>Site Reliability Engineering (SRE)</li>
+<li>البنية التحتية السحابية</li>
+<li>منصات المطورين الداخلية</li>
+<li>البنية التحتية ككود</li>
+<li>أتمتة الأمان</li>
+<li>تحسين التكاليف</li>
+<li>قابلية المراقبة</li>
+<li>الاستجابة للحوادث</li>
+<li>هندسة المنصات</li>
+<li>هندسة موثوقية الموقع (SRE)
+يجب أن يوضح إعلان الوظيفة بالضبط أي من هذه المجالات يندرج تحت مسؤوليات الدور.
+لا تجعل المرشحين يخمنون.</li>
 </ul>
-<p>Your posting should explain exactly which of these areas the role owns.</p>
-<p>Don&#39;t make candidates guess.</p>
 <hr>
-<h1>DevOps Engineer Job Description Template</h1>
-<h2>DevOps Engineer at [Company]</h2>
-<p><strong>Location:</strong> [City / Remote / Hybrid]</p>
-<p><strong>Compensation:</strong> [$X–$Y base + equity + bonus + on-call compensation]</p>
-<p><strong>Level:</strong> Mid / Senior / Staff / Principal</p>
-<p><strong>Reports To:</strong> [Engineering Manager / Platform Manager / Director of Infrastructure]</p>
-<hr>
-<h2>About the Company</h2>
-<p>[Company] builds [product] for [customers].</p>
-<p>Our engineering organization consists of [n] engineers across [n] product teams.</p>
-<p>We currently operate:</p>
+<h1>نموذج الوصف الوظيفي لمهندس DevOps</h1>
+<h2>مهندس DevOps في [الشركة]</h2>
+<h2><strong>الموقع:</strong> [المدينة / عن بُعد / هجين]
+<strong>الأجر:</strong> [راتب أساسي من $X إلى $Y + أسهم + مكافأة + أجر مقابل العمل عند الطلب]
+<strong>المستوى:</strong> متوسط / أول / موظف / رئيسي
+<strong>يرفع تقاريره إلى:</strong> [مدير الهندسة / مدير المنصة / مدير البنية التحتية]</h2>
+<h2>نبذة عن الشركة</h2>
+<p>تقوم [الشركة] بتطوير [المنتج] لـ [العملاء].
+يتألف قسم الهندسة لدينا من [n] مهندسًا موزعين على [n] فريق منتج.
+نقوم حاليًا بتشغيل:</p>
 <ul>
-<li>[n] cloud accounts</li>
-<li>[n] production services</li>
-<li>[n] deployments per week</li>
-<li>[n] environments</li>
-<li>[cloud provider]</li>
-<li>[deployment strategy]</li>
+<li>[n] حساب سحابي</li>
+<li>[n] خدمة إنتاجية</li>
+<li>[n] عملية نشر أسبوعيًا</li>
+<li>[n] بيئة</li>
+<li>[مزود الخدمة السحابية]</li>
+<li>[استراتيجية النشر]
+اليوم, يتمثل التحدي الأكبر الذي نواجهه في مجال البنية التحتية في:</li>
 </ul>
-<p>Today our biggest infrastructure challenge is:</p>
 <blockquote>
-<p>&quot;[Describe one real problem.]&quot;</p>
+<p>&quot;[وصف مشكلة حقيقية واحدة.]&quot;
+أمثلة:</p>
 </blockquote>
-<p>Examples:</p>
 <ul>
-<li>deployment speed</li>
-<li>cloud costs</li>
-<li>observability</li>
-<li>developer experience</li>
-<li>Kubernetes complexity</li>
-<li>platform reliability</li>
-<li>scaling internationally</li>
+<li>سرعة النشر</li>
+<li>تكاليف السحابة</li>
+<li>قابلية المراقبة</li>
+<li>تجربة المطور</li>
+<li>تعقيد Kubernetes</li>
+<li>موثوقية المنصة</li>
+<li>التوسع على الصعيد الدولي</li>
 </ul>
 <hr>
-<h2>About the Role</h2>
-<p>We&#39;re looking for a DevOps Engineer to improve the platform that enables our engineers to build, deploy, and operate software safely.</p>
-<p>This role focuses primarily on:</p>
+<h2>نبذة عن الوظيفة</h2>
+<p>نحن نبحث عن مهندس DevOps لتحسين المنصة التي تمكّن مهندسينا من بناء البرامج ونشرها وتشغيلها بأمان.
+يركز هذا الدور بشكل أساسي على:</p>
 <ul>
-<li>Platform Engineering</li>
-<li>Infrastructure Automation</li>
-<li>Reliability</li>
-<li>Deployment Systems</li>
-<li>Internal Developer Experience</li>
-</ul>
-<p>This is <strong>not</strong> an IT helpdesk position.</p>
-<p>If the role includes operational support, describe the percentage honestly.</p>
-<hr>
-<h1>Responsibilities</h1>
-<p>You&#39;ll:</p>
-<ul>
-<li>Build and improve CI/CD pipelines</li>
-<li>Manage Infrastructure as Code</li>
-<li>Improve deployment automation</li>
-<li>Design highly available cloud infrastructure</li>
-<li>Maintain Kubernetes clusters (if applicable)</li>
-<li>Improve platform security</li>
-<li>Reduce manual operational work</li>
-<li>Build internal tooling</li>
-<li>Improve monitoring and alerting</li>
-<li>Participate in production incident response</li>
-<li>Optimize cloud costs</li>
-<li>Improve disaster recovery</li>
-<li>Partner with software engineers to make deployments simpler</li>
-<li>Write documentation engineers actually use</li>
-<li>Participate in architecture discussions</li>
-<li>Continuously improve developer productivity</li>
+<li>هندسة المنصة</li>
+<li>أتمتة البنية التحتية</li>
+<li>الموثوقية</li>
+<li>أنظمة النشر</li>
+<li>تجربة المطورين الداخلية
+هذه الوظيفة <strong>ليست</strong> وظيفة دعم فني في قسم تكنولوجيا المعلومات.
+إذا كان الدور يتضمن دعمًا تشغيليًا, فصف النسبة المئوية بصدق.</li>
 </ul>
 <hr>
-<h1>Required Qualifications</h1>
+<h1>المسؤوليات</h1>
+<p>ستقوم بما يلي:</p>
 <ul>
-<li>[n]+ years of DevOps, SRE, Infrastructure Engineering, or Platform Engineering experience</li>
-<li>Strong Linux administration</li>
-<li>AWS, Azure, or Google Cloud experience</li>
-<li>Infrastructure as Code (Terraform, Pulumi, CloudFormation, etc.)</li>
-<li>Docker and containerization</li>
-<li>Kubernetes or equivalent orchestration platform</li>
-<li>CI/CD pipeline development</li>
-<li>Experience writing production automation in Go, Python, Bash, or similar languages</li>
-<li>Monitoring and observability experience</li>
-<li>Production incident response experience</li>
-<li>Strong networking fundamentals</li>
-<li>Git workflows</li>
-<li>Excellent written communication</li>
+<li>بناء وتحسين مسارات CI/CD</li>
+<li>إدارة البنية التحتية ككود</li>
+<li>تحسين أتمتة النشر</li>
+<li>تصميم بنية تحتية سحابية عالية التوافر</li>
+<li>صيانة مجموعات Kubernetes (إن أمكن)</li>
+<li>تحسين أمان المنصة</li>
+<li>تقليل الأعمال التشغيلية اليدوية</li>
+<li>إنشاء أدوات داخلية</li>
+<li>تحسين المراقبة والتنبيهات</li>
+<li>المشاركة في الاستجابة لحوادث الإنتاج</li>
+<li>تحسين تكاليف السحابة</li>
+<li>تحسين التعافي من الكوارث</li>
+<li>التعاون مع مهندسي البرمجيات لتبسيط عمليات النشر</li>
+<li>كتابة الوثائق التي يستخدمها المهندسون فعليًّا</li>
+<li>المشاركة في مناقشات الهندسة المعمارية</li>
+<li>التحسين المستمر لإنتاجية المطورين</li>
 </ul>
 <hr>
-<h1>Preferred Qualifications</h1>
+<h1>المؤهلات المطلوبة</h1>
 <ul>
-<li>Platform engineering</li>
-<li>Service Mesh</li>
+<li>[n]+ سنوات من الخبرة في مجالات DevOps أو SRE أو هندسة البنية التحتية أو هندسة المنصات</li>
+<li>خبرة قوية في إدارة نظام Linux</li>
+<li>خبرة في AWS أو Azure أو Google Cloud</li>
+<li>البنية التحتية كرمز (Terraform, Pulumi, CloudFormation, إلخ)</li>
+<li>Docker والحاويات</li>
+<li>Kubernetes أو منصة تنسيق مكافئة</li>
+<li>تطوير مسارات CI/CD</li>
+<li>خبرة في كتابة برامج أتمتة الإنتاج بلغة Go أو Python أو Bash أو لغات مشابهة</li>
+<li>خبرة في المراقبة والقابلية للمراقبة</li>
+<li>خبرة في الاستجابة لحوادث الإنتاج</li>
+<li>إلمام قوي بأساسيات الشبكات</li>
+<li>سير عمل Git</li>
+<li>مهارات ممتازة في التواصل الكتابي</li>
+</ul>
+<hr>
+<h1>المؤهلات المفضلة</h1>
+<ul>
+<li>هندسة المنصات</li>
+<li>شبكة الخدمات (Service Mesh)</li>
 <li>Istio</li>
 <li>Linkerd</li>
 <li>ArgoCD</li>
 <li>Flux</li>
 <li>GitOps</li>
 <li>Vault</li>
-<li>Secrets management</li>
-<li>Policy as Code</li>
+<li>إدارة الأسرار</li>
+<li>السياسة كرمز (Policy as Code)</li>
 <li>OPA</li>
-<li>Security automation</li>
-<li>Identity and Access Management (IAM)</li>
-<li>Cost optimization</li>
-<li>Multi-region deployments</li>
-<li>High availability systems</li>
-<li>Disaster recovery planning</li>
-<li>Compliance (SOC 2, HIPAA, PCI DSS, ISO 27001)</li>
-<li>Database operations</li>
-<li>Performance tuning</li>
-<li>Edge networking</li>
-<li>CDN management</li>
+<li>أتمتة الأمان</li>
+<li>إدارة الهوية والوصول (IAM)</li>
+<li>تحسين التكلفة</li>
+<li>عمليات النشر عبر مناطق متعددة</li>
+<li>أنظمة التوافر العالي</li>
+<li>تخطيط التعافي من الكوارث</li>
+<li>الامتثال (SOC 2, HIPAA, PCI DSS, ISO 27001)</li>
+<li>عمليات قواعد البيانات</li>
+<li>ضبط الأداء</li>
+<li>شبكات الحافة</li>
+<li>إدارة شبكة توزيع المحتوى (CDN)</li>
 </ul>
 <hr>
-<h1>Technology Stack</h1>
-<p>Example:</p>
+<h1>مجموعة التقنيات</h1>
+<p>مثال:</p>
 <ul>
 <li>AWS</li>
 <li>Kubernetes</li>
@@ -165,233 +165,211 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>Redis</li>
 <li>CloudFront</li>
 <li>Route53</li>
-<li>Vault</li>
+<li>Vault
+<strong>لا</strong> يحتاج المرشحون إلى خبرة سابقة في كل التقنيات المذكورة.</li>
 </ul>
-<p>Candidates <strong>do not</strong> need prior experience with every technology listed.</p>
 <hr>
-<h1>On-call Expectations</h1>
-<p>Publish this.</p>
-<p>Do not hide it.</p>
-<p>Example:</p>
+<h1>توقعات المناوبة</h1>
+<p>انشر هذا.
+لا تخفيه.
+مثال:</p>
 <ul>
-<li>One week every 8 weeks</li>
-<li>Roughly 1–2 pages per month</li>
+<li>أسبوع واحد كل 8 أسابيع</li>
+<li>حوالي 1–2 صفحة شهريًا</li>
 <li>PagerDuty</li>
-<li>Compensated</li>
-<li>Time off after overnight incidents</li>
-<li>Every incident includes a blameless postmortem</li>
-<li>Reducing alerts is considered part of normal engineering work</li>
-</ul>
-<p>This section alone often determines whether experienced candidates apply.</p>
-<hr>
-<h1>Success During the First 90 Days</h1>
-<p>A great addition to any DevOps posting.</p>
-<h3>First 30 Days</h3>
-<ul>
-<li>Learn the infrastructure</li>
-<li>Understand deployment workflows</li>
-<li>Shadow on-call</li>
-<li>Improve documentation</li>
-<li>Ship first automation improvements</li>
-</ul>
-<h3>Days 31–60</h3>
-<ul>
-<li>Own CI/CD improvements</li>
-<li>Build infrastructure enhancements</li>
-<li>Participate in incident response</li>
-<li>Improve monitoring</li>
-<li>Remove repetitive manual work</li>
-</ul>
-<h3>Days 61–90</h3>
-<ul>
-<li>Independently own infrastructure projects</li>
-<li>Lead reliability improvements</li>
-<li>Present platform proposals</li>
-<li>Mentor engineers on infrastructure best practices</li>
-<li>Deliver measurable operational improvements</li>
+<li>مقابل أجر</li>
+<li>إجازة بعد الحوادث الليلية</li>
+<li>كل حادثة تتضمن تحليلاً لاحقاً خالياً من إلقاء اللوم</li>
+<li>يُعتبر تقليل التنبيهات جزءاً من العمل الهندسي العادي
+غالباً ما يحدد هذا القسم وحده ما إذا كان المرشحون ذوو الخبرة سيتقدمون للوظيفة أم لا.</li>
 </ul>
 <hr>
-<h1>Interview Process</h1>
+<h1>النجاح خلال أول 90 يوماً</h1>
+<p>إضافة رائعة لأي إعلان وظيفة في مجال DevOps.</p>
+<h3>أول 30 يوماً</h3>
+<ul>
+<li>تعلم البنية التحتية</li>
+<li>فهم سير عمل النشر</li>
+<li>مرافقة فريق المناوبة</li>
+<li>تحسين التوثيق</li>
+<li>تنفيذ أول تحسينات الأتمتة</li>
+</ul>
+<h3>الأيام 31–60</h3>
+<ul>
+<li>تولي مسؤولية تحسينات CI/CD</li>
+<li>تطوير تحسينات البنية التحتية</li>
+<li>المشاركة في الاستجابة للحوادث</li>
+<li>تحسين المراقبة</li>
+<li>التخلص من الأعمال اليدوية المتكررة</li>
+</ul>
+<h3>الأيام 61–90</h3>
+<ul>
+<li>تولي مشاريع البنية التحتية بشكل مستقل</li>
+<li>قيادة تحسينات الموثوقية</li>
+<li>تقديم مقترحات بشأن المنصة</li>
+<li>توجيه المهندسين بشأن أفضل ممارسات البنية التحتية</li>
+<li>تحقيق تحسينات تشغيلية قابلة للقياس</li>
+</ul>
+<hr>
+<h1>عملية المقابلة</h1>
 <ol>
-<li><strong>30 minutes</strong> — Introductory conversation</li>
-<li><strong>60 minutes</strong> — Infrastructure discussion</li>
-<li><strong>90 minutes</strong> — Practical architecture or troubleshooting exercise</li>
-<li><strong>45 minutes</strong> — Meet engineering team</li>
-<li><strong>30 minutes</strong> — Leadership discussion</li>
+<li><strong>30 دقيقة</strong> — محادثة تمهيدية</li>
+<li><strong>60 دقيقة</strong> — مناقشة البنية التحتية</li>
+<li><strong>90 دقيقة</strong> — تمرين عملي على الهندسة أو استكشاف الأخطاء وإصلاحها</li>
+<li><strong>45 دقيقة</strong> — لقاء فريق الهندسة</li>
+<li><strong>30 دقيقة</strong> — مناقشة مع القيادة
+لا توجد اختبارات تافهة.
+لا توجد مسابقات حفظ.
+التركيز على العمل الهندسي الفعلي.</li>
 </ol>
-<p>No trivia quizzes.</p>
-<p>No memorization contests.</p>
-<p>Focus on real engineering work.</p>
 <hr>
-<h1>Benefits</h1>
+<h1>المزايا</h1>
 <ul>
-<li>Health insurance</li>
-<li>Retirement plan</li>
-<li>Paid vacation</li>
-<li>Learning budget</li>
-<li>Certification reimbursement</li>
-<li>Conference attendance</li>
-<li>Remote work support</li>
-<li>Equipment budget</li>
-<li>Flexible working hours</li>
-<li>Paid parental leave</li>
+<li>التأمين الصحي</li>
+<li>خطة التقاعد</li>
+<li>إجازة مدفوعة الأجر</li>
+<li>ميزانية للتعلم</li>
+<li>سداد تكاليف الشهادات</li>
+<li>حضور المؤتمرات</li>
+<li>دعم العمل عن بُعد</li>
+<li>ميزانية للمعدات</li>
+<li>ساعات عمل مرنة</li>
+<li>إجازة أبوة/أمومة مدفوعة الأجر</li>
 </ul>
 <hr>
-<h1>Equal Opportunity</h1>
-<p>[Company] welcomes applicants from all backgrounds and experiences.</p>
-<p>If you meet most—but not every—qualification, we encourage you to apply.</p>
-<hr>
-<h1>Resume Tips for DevOps Engineers</h1>
-<p>If you&#39;re applying for DevOps roles, your resume should demonstrate operational impact—not just list technologies.</p>
-<p>Strong resume bullets focus on measurable outcomes.</p>
-<p>Instead of:</p>
+<h1>تكافؤ الفرص</h1>
+<h2>ترحب [الشركة] بالمتقدمين من جميع الخلفيات والخبرات.
+إذا كنت تستوفي معظم —وليس كل— المؤهلات, فنحن نشجعك على التقدم للوظيفة.</h2>
+<h1>نصائح حول السيرة الذاتية لمهندسي DevOps</h1>
+<p>إذا كنت تتقدم لوظائف في مجال DevOps, فيجب أن تُظهر سيرتك الذاتية التأثير التشغيلي — لا مجرد سرد للتقنيات.
+تُركز النقاط البارزة في السيرة الذاتية القوية على النتائج القابلة للقياس.
+بدلاً من:</p>
 <blockquote>
-<p>Managed AWS infrastructure.</p>
+<p>إدارة البنية التحتية لـ AWS.
+اكتب:
+أتمتة البنية التحتية لـ AWS باستخدام Terraform, مما أدى إلى تقليل وقت التجهيز اليدوي من 3 ساعات إلى أقل من 10 دقائق.
+بدلاً من:
+العمل على Kubernetes.
+اكتب:
+قمت بترحيل 45 خدمة إنتاجية إلى Kubernetes, مما أدى إلى تقليل حالات فشل النشر بنسبة 70% وتحسين توفر الخدمة إلى 99.95%.
+يرغب مديرو التوظيف في فهم:</p>
 </blockquote>
-<p>Write:</p>
-<blockquote>
-<p>Automated AWS infrastructure using Terraform, reducing manual provisioning time from 3 hours to under 10 minutes.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>Worked on Kubernetes.</p>
-</blockquote>
-<p>Write:</p>
-<blockquote>
-<p>Migrated 45 production services to Kubernetes, reducing deployment failures by 70% and improving service availability to 99.95%.</p>
-</blockquote>
-<p>Hiring managers want to understand:</p>
 <ul>
-<li>what you built</li>
-<li>what problem existed</li>
-<li>what you changed</li>
-<li>how you measured success</li>
-</ul>
-<p>Include metrics whenever possible, such as:</p>
-<ul>
-<li>deployment frequency</li>
-<li>uptime</li>
-<li>MTTR</li>
-<li>cloud cost savings</li>
-<li>infrastructure provisioning time</li>
-<li>incident reduction</li>
-<li>automation coverage</li>
-<li>latency improvements</li>
-<li>CI build times</li>
+<li>ما الذي قمت ببنائه</li>
+<li>ما هي المشكلة التي كانت موجودة</li>
+<li>ما الذي قمت بتغييره</li>
+<li>كيف قمت بقياس النجاح
+قم بتضمين المقاييس كلما أمكن ذلك, مثل:</li>
+<li>تكرار النشر</li>
+<li>وقت التشغيل</li>
+<li>متوسط وقت الإصلاح (MTTR)</li>
+<li>الوفورات في تكاليف السحابة</li>
+<li>وقت توفير البنية التحتية</li>
+<li>انخفاض الحوادث</li>
+<li>نطاق الأتمتة</li>
+<li>تحسينات زمن الاستجابة</li>
+<li>أوقات بناء التكامل المستمر (CI)</li>
 </ul>
 <hr>
-<h1>Screening DevOps Engineers: What Actually Matters</h1>
-<p>Many companies hire for tool familiarity instead of engineering judgment.</p>
-<p>The strongest DevOps engineers can quickly learn new tools because they understand the underlying systems.</p>
-<p>Evaluate candidates on principles such as:</p>
+<h1>تقييم مهندسي DevOps: ما يهم فعليًّا</h1>
+<p>تقوم العديد من الشركات بالتوظيف بناءً على الإلمام بالأدوات بدلاً من الحس الهندسي.
+يمكن لأقوى مهندسي DevOps تعلم أدوات جديدة بسرعة لأنهم يفهمون الأنظمة الأساسية.
+قم بتقييم المرشحين بناءً على مبادئ مثل:</p>
 <ul>
-<li>automation</li>
-<li>reliability</li>
-<li>distributed systems</li>
-<li>Linux</li>
-<li>networking</li>
-<li>debugging</li>
-<li>incident management</li>
-<li>cloud architecture</li>
-<li>observability</li>
-<li>operational excellence</li>
+<li>الأتمتة</li>
+<li>الموثوقية</li>
+<li>الأنظمة الموزعة</li>
+<li>لينكس</li>
+<li>الشبكات</li>
+<li>تصحيح الأخطاء</li>
+<li>إدارة الحوادث</li>
+<li>بنية السحابة</li>
+<li>قابلية المراقبة</li>
+<li>التميز التشغيلي</li>
 </ul>
 <hr>
-<h1>Great Interview Questions</h1>
-<p>Instead of asking:</p>
+<h1>أسئلة المقابلة الرائعة</h1>
+<p>بدلاً من السؤال:</p>
 <blockquote>
-<p>Explain Kubernetes Pods.</p>
+<p>اشرح لي ما هي «Kubernetes Pods».
+اسأل:
+أخبرني عن أصعب مشكلة في Kubernetes قمت بحلها.
+بدلاً من:
+ما هو Terraform؟
+اسأل:
+اشرح لي أكبر عملية نشر لـ Terraform قمت بتصميمها.
+بدلاً من:
+اشرح Docker.
+اسأل:
+صِف عملية نشر في بيئة الإنتاج فشلت. ماذا حدث؟ ما الذي تغير بعد ذلك؟
+من الأسئلة الإضافية ذات الدلالة الكبيرة:</p>
 </blockquote>
-<p>Ask:</p>
-<blockquote>
-<p>Tell me about the most difficult Kubernetes issue you&#39;ve solved.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>What is Terraform?</p>
-</blockquote>
-<p>Ask:</p>
-<blockquote>
-<p>Walk me through the largest Terraform deployment you&#39;ve designed.</p>
-</blockquote>
-<p>Instead of:</p>
-<blockquote>
-<p>Explain Docker.</p>
-</blockquote>
-<p>Ask:</p>
-<blockquote>
-<p>Describe a production deployment that failed. What happened? What changed afterward?</p>
-</blockquote>
-<p>Additional high-signal questions include:</p>
 <ul>
-<li>Tell me about the worst outage you&#39;ve experienced.</li>
-<li>How do you decide what deserves an alert?</li>
-<li>When should you avoid Kubernetes?</li>
-<li>Describe a deployment rollback that saved production.</li>
-<li>How do you balance reliability with engineering velocity?</li>
-<li>What repetitive task have you automated that saved your team the most time?</li>
-<li>How do you approach cloud cost optimization?</li>
-<li>What&#39;s your philosophy on Infrastructure as Code?</li>
-<li>How do you design systems to survive failure?</li>
-<li>Describe a postmortem that permanently improved your platform.</li>
+<li>أخبرني عن أسوأ انقطاع للخدمة واجهته.</li>
+<li>كيف تقرر ما يستحق إصدار تنبيه؟</li>
+<li>متى يجب تجنب استخدام Kubernetes؟</li>
+<li>صِف عملية تراجع عن نشر أنقذت بيئة الإنتاج.</li>
+<li>كيف توازن بين الموثوقية وسرعة التطوير الهندسي؟</li>
+<li>ما هي المهمة المتكررة التي قمت بأتمتتها والتي وفرت لفريقك أكبر قدر من الوقت؟</li>
+<li>كيف تتعامل مع تحسين تكاليف السحابة؟</li>
+<li>ما هي فلسفتك بشأن «البنية التحتية ككود»؟</li>
+<li>كيف تصمم الأنظمة لتتحمل الفشل؟</li>
+<li>صِف عملية تحليل ما بعد الحادث التي أدت إلى تحسين منصتك بشكل دائم.</li>
 </ul>
 <hr>
-<h1>Red Flags During Hiring</h1>
-<p>Watch for candidates who:</p>
+<h1>العلامات التحذيرية أثناء التوظيف</h1>
+<p>انتبه للمرشحين الذين:</p>
 <ul>
-<li>Memorize tools but lack systems thinking.</li>
-<li>Cannot explain production incidents.</li>
-<li>Focus only on happy paths.</li>
-<li>Never mention monitoring or observability.</li>
-<li>Have no experience debugging failures.</li>
-<li>Treat automation as an end rather than a means.</li>
-<li>Cannot explain networking fundamentals.</li>
-<li>Avoid discussing trade-offs.</li>
-<li>Blame people instead of systems after incidents.</li>
+<li>يحفظون الأدوات عن ظهر قلب لكنهم يفتقرون إلى التفكير النظمي.</li>
+<li>لا يستطيعون شرح حوادث الإنتاج.</li>
+<li>يركزون فقط على السيناريوهات السلسة.</li>
+<li>لا يذكرون أبدًا المراقبة أو قابلية الرصد.</li>
+<li>ليس لديهم خبرة في تصحيح الأعطال.</li>
+<li>يعاملون الأتمتة كغاية وليس كوسيلة.</li>
+<li>لا يستطيعون شرح أساسيات الشبكات.</li>
+<li>يتجنبون مناقشة المفاضلات.</li>
+<li>يلقي باللوم على الأشخاص بدلاً من الأنظمة بعد وقوع الحوادث.</li>
 </ul>
 <hr>
-<h1>Common Job Description Mistakes</h1>
-<p>Avoid these:</p>
+<h1>الأخطاء الشائعة في الوصف الوظيفي</h1>
+<p>تجنب ما يلي:</p>
 <ul>
-<li>&quot;DevOps Ninja&quot;</li>
-<li>&quot;Rockstar Engineer&quot;</li>
-<li>Twenty different required technologies</li>
-<li>No salary information</li>
-<li>No on-call details</li>
-<li>No mention of platform ownership</li>
-<li>No explanation of current infrastructure</li>
-<li>Unrealistic expectations</li>
-<li>Hiding technical debt</li>
-<li>Calling internal IT support &quot;DevOps&quot;</li>
+<li>&quot;نينجا ديف أوبس&quot;</li>
+<li>&quot;مهندس نجم&quot;</li>
+<li>عشرون تقنية مختلفة مطلوبة</li>
+<li>عدم وجود معلومات عن الراتب</li>
+<li>عدم وجود تفاصيل عن نوبات العمل عند الطلب</li>
+<li>عدم ذكر ملكية المنصة</li>
+<li>عدم توضيح البنية التحتية الحالية</li>
+<li>توقعات غير واقعية</li>
+<li>إخفاء الديون التقنية</li>
+<li>تسمية الدعم الداخلي لتكنولوجيا المعلومات بـ &quot;ديف أوبس&quot;
+المرشحون يدركون هذه الأمور على الفور.</li>
 </ul>
-<p>Candidates recognize these immediately.</p>
 <hr>
-<h1>Advice for Job Seekers</h1>
-<p>When evaluating a DevOps opportunity, ask:</p>
+<h1>نصائح للباحثين عن عمل</h1>
+<p>عند تقييم فرصة عمل في مجال DevOps, اسأل:</p>
 <ul>
-<li>How large is the on-call rotation?</li>
-<li>How often are engineers paged overnight?</li>
-<li>What is the biggest operational challenge today?</li>
-<li>Who owns infrastructure decisions?</li>
-<li>How often do deployments happen?</li>
-<li>What percentage of infrastructure is automated?</li>
-<li>Which parts of the platform create the most developer frustration?</li>
-<li>How are incidents reviewed?</li>
-<li>What reliability goals does the team track?</li>
-<li>What would success look like after six months?</li>
+<li>ما حجم جدول المناوبة؟</li>
+<li>كم مرة يتم استدعاء المهندسين ليلاً؟</li>
+<li>ما هو التحدي التشغيلي الأكبر حاليًا؟</li>
+<li>من يتخذ قرارات البنية التحتية؟</li>
+<li>كم مرة تتم عمليات النشر؟</li>
+<li>ما النسبة المئوية للبنية التحتية المؤتمتة؟</li>
+<li>أي أجزاء من المنصة تسبب أكبر قدر من الإحباط للمطورين؟</li>
+<li>كيف تتم مراجعة الحوادث؟</li>
+<li>ما هي أهداف الموثوقية التي يتتبعها الفريق؟</li>
+<li>كيف سيبدو النجاح بعد ستة أشهر؟
+غالبًا ما تكشف الإجابات عن معلومات حول الشركة أكثر بكثير مما يكشفه الوصف الوظيفي نفسه.</li>
 </ul>
-<p>The answers often reveal far more about the company than the job description itself.</p>
 <hr>
-<h1>The Takeaway</h1>
-<p>Great DevOps engineers don&#39;t want a vague promise of &quot;working with cloud technologies.&quot; They want meaningful problems, realistic expectations, and the authority to improve systems over time.</p>
-<p>Be transparent about your infrastructure, your technical debt, your on-call expectations, and your engineering culture. Explain what success looks like, what challenges they&#39;ll inherit, and how they&#39;ll make life better for the rest of the engineering organization.</p>
-<p>For job seekers, tailor your resume around measurable operational improvements, automation projects, reliability wins, and incident response experience. Demonstrating real-world impact is far more persuasive than listing every tool you&#39;ve touched.</p>
-<p>The companies that write honest job descriptions attract engineers who are excited to solve the right problems—and those engineers are far more likely to stay.</p>
-<hr>
-<p><strong>Looking to hire exceptional DevOps, Platform, or Site Reliability Engineers?</strong>
-<em>Post your role on <strong>JobsList.dev</strong> and connect directly with infrastructure professionals who build reliable, scalable, and secure software platforms.</em></p>
-5:["locale","ar","d"]
-6:["slug","devops-engineer-job-description-template","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"devops-engineer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","devops-engineer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"DevOps Engineer Job Description Template (With Screening Tips)\",\"description\":\"A complete DevOps and Site Reliability Engineer (SRE) job description template, plus practical hiring advice, resume tips for candidates, interview questions, and screening techniques to attract experienced infrastructure engineers.\",\"datePublished\":\"2026-07-10T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"DevOps Engineer Job Description Template (With Screening Tips)","date":"2026-07-10T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":8,"html":"$3"},"assessment":{"href":"/assessments/devops-engineer/","roleName":"DevOps Engineer"}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"DevOps Engineer Job Description Template (With Screening Tips) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete DevOps and Site Reliability Engineer (SRE) job description template, plus practical hiring advice, resume tips for candidates, interview questions, and screening techniques to attract experienced infrastructure engineers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"DevOps Engineer Job Description Template (With Screening Tips)"}],["$","meta","15",{"property":"og:description","content":"A complete DevOps and Site Reliability Engineer (SRE) job description template, plus practical hiring advice, resume tips for candidates, interview questions, and screening techniques to attract experienced infrastructure engineers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-10T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"DevOps Engineer Job Description Template (With Screening Tips)"}],["$","meta","25",{"name":"twitter:description","content":"A complete DevOps and Site Reliability Engineer (SRE) job description template, plus practical hiring advice, resume tips for candidates, interview questions, and screening techniques to attract experienced infrastructure engineers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>النقطة الأساسية</h1>
+<h2>لا يريد مهندسو DevOps المتميزون وعدًا غامضًا بـ«العمل مع تقنيات السحابة». إنهم يريدون مشكلات ذات مغزى, وتوقعات واقعية, والسلطة اللازمة لتحسين الأنظمة بمرور الوقت.
+كن شفافًا بشأن البنية التحتية الخاصة بك, وديونك التقنية, وتوقعاتك بشأن أوقات الاستدعاء, وثقافتك الهندسية. اشرح كيف سيبدو النجاح, وما هي التحديات التي سيواجهونها, وكيف سيحسنون حياة بقية أعضاء فريق الهندسة.
+بالنسبة للباحثين عن عمل, صمم سيرتك الذاتية بحيث تركز على التحسينات التشغيلية القابلة للقياس, ومشاريع الأتمتة, والإنجازات في مجال الموثوقية, وخبرة الاستجابة للحوادث. إن إظهار التأثير الفعلي في العالم الحقيقي أكثر إقناعًا بكثير من سرد كل أداة استخدمتها.
+الشركات التي تكتب أوصافًا وظيفية صادقة تجذب المهندسين المتحمسين لحل المشكلات الصحيحة — وهؤلاء المهندسون أكثر احتمالًا بكثير للبقاء.</h2>
+<p><strong>هل تبحث عن توظيف مهندسي DevOps أو مهندسي المنصات أو مهندسي موثوقية المواقع المتميزين؟</strong>
+<em>انشر الوظيفة التي تبحث عنها على <strong>JobsList.dev</strong> وتواصل مباشرةً مع متخصصي البنية التحتية الذين يبنون منصات برمجية موثوقة وقابلة للتوسع وآمنة.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز)\",\"description\":\"نموذج كامل للوصف الوظيفي لمهندس DevOps ومهندس موثوقية الموقع (SRE), بالإضافة إلى نصائح عملية للتوظيف, ونصائح حول السيرة الذاتية للمرشحين, وأسئلة المقابلة, وتقنيات الفرز لجذب مهندسي البنية التحتية ذوي الخبرة.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-10T00:00:00.000Z\",\"dateModified\":\"2026-07-10T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/devops-engineer-job-description-template/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"نموذج كامل للوصف الوظيفي لمهندس DevOps ومهندس موثوقية الموقع (SRE), بالإضافة إلى نصائح عملية للتوظيف, ونصائح حول السيرة الذاتية للمرشحين, وأسئلة المقابلة, وتقنيات الفرز لجذب مهندسي البنية التحتية ذوي الخبرة."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-10T00:00:00.000Z","children":"9 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","وصف-الوظيفة",{"className":"badge-gray","children":"وصف-الوظيفة"}],["$","span","قوالب",{"className":"badge-gray","children":"قوالب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","devops",{"className":"badge-gray","children":"devops"}],["$","span","sre",{"className":"badge-gray","children":"sre"}],["$","span","هندسة المنصات",{"className":"badge-gray","children":"هندسة المنصات"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","aside",null,{"className":"card mt-12 p-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide text-surface-400","children":"blog.article.related"}],["$","h2",null,{"className":"mt-1 text-lg font-semibold text-surface-900 dark:text-white","children":"DevOps Engineer blog.article.skillsAssessment"}],["$","p",null,{"className":"mt-2 text-sm text-surface-500 dark:text-surface-400","children":"blog.article.roleAssessmentDescription"}],["$","$La",null,{"href":"/assessments/devops-engineer/","className":"mt-4 inline-block text-sm font-medium text-brand-600 hover:text-brand-700","children":"blog.article.viewAssessment →"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"نموذج كامل للوصف الوظيفي لمهندس DevOps ومهندس موثوقية الموقع (SRE), بالإضافة إلى نصائح عملية للتوظيف, ونصائح حول السيرة الذاتية للمرشحين, وأسئلة المقابلة, وتقنيات الفرز لجذب مهندسي البنية التحتية ذوي الخبرة."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز)"}],["$","meta","15",{"property":"og:description","content":"نموذج كامل للوصف الوظيفي لمهندس DevOps ومهندس موثوقية الموقع (SRE), بالإضافة إلى نصائح عملية للتوظيف, ونصائح حول السيرة الذاتية للمرشحين, وأسئلة المقابلة, وتقنيات الفرز لجذب مهندسي البنية التحتية ذوي الخبرة."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/devops-engineer-job-description-template/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-10T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نموذج الوصف الوظيفي لمهندس DevOps (مع نصائح للفرز)"}],["$","meta","27",{"name":"twitter:description","content":"نموذج كامل للوصف الوظيفي لمهندس DevOps ومهندس موثوقية الموقع (SRE), بالإضافة إلى نصائح عملية للتوظيف, ونصائح حول السيرة الذاتية للمرشحين, وأسئلة المقابلة, وتقنيات الفرز لجذب مهندسي البنية التحتية ذوي الخبرة."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

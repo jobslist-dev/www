@@ -1,1020 +1,983 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Ta0ce,<p>If a company invited you to complete an assessment on JobsList.dev, welcome.</p>
-<p>Take a breath.</p>
-<p>We know the word “assessment” can make even experienced developers uneasy. You may be wondering:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"welcome-what-to-expect-from-a-jobslist-assessment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Te571,<p>إذا دعتك إحدى الشركات لإكمال تقييم على JobsList.dev, فمرحبًا بك.</p>
+<p>خذ نفسًا عميقًا.</p>
+<p>نحن نعلم أن كلمة «تقييم» قد تثير قلق حتى المطورين ذوي الخبرة. ربما تتساءل:</p>
 <ul>
-<li>Will I need to install anything?</li>
-<li>Is my webcam going to turn on?</li>
-<li>Can I go back to an earlier question?</li>
-<li>What happens if my internet connection drops?</li>
-<li>Will I be penalized for guessing?</li>
-<li>Do I need to create an account?</li>
-<li>Can I use documentation or other tools?</li>
-<li>What happens after I submit?</li>
-<li>Will the company see everything I did?</li>
-<li>Can I keep my result?</li>
+<li>هل سأحتاج إلى تثبيت أي شيء؟</li>
+<li>هل ستُشغَّل كاميرا الويب الخاصة بي؟</li>
+<li>هل يمكنني العودة إلى سؤال سابق؟</li>
+<li>ماذا يحدث إذا انقطع اتصالي بالإنترنت؟</li>
+<li>هل سأُعاقب إذا خمنت الإجابة؟</li>
+<li>هل أحتاج إلى إنشاء حساب؟</li>
+<li>هل يمكنني استخدام الوثائق أو أدوات أخرى؟</li>
+<li>ماذا يحدث بعد إرسال الإجابة؟</li>
+<li>هل سترى الشركة كل ما قمت به؟</li>
+<li>هل يمكنني الاحتفاظ بنتيجتي؟</li>
 </ul>
-<p>JobsList.dev assessments are designed to be calm, clear, and respectful of your time.</p>
-<p>The goal is not to catch you making a mistake.</p>
-<p>The goal is to give you a fair opportunity to demonstrate how you think, what you understand, and how you approach problems relevant to the role.</p>
-<p>This guide explains exactly what to expect before, during, and after your assessment.</p>
-<h1>The short version</h1>
-<p>When you take a JobsList.dev assessment:</p>
+<p>تم تصميم تقييمات JobsList.dev لتكون هادئة وواضحة وتحترم وقتك.</p>
+<p>الهدف ليس الكشف عن أخطائك.</p>
+<p>الهدف هو منحك فرصة عادلة لإظهار طريقة تفكيرك, وما تفهمه, وكيفية تعاملك مع المشكلات ذات الصلة بالوظيفة.</p>
+<p>يشرح هذا الدليل بالضبط ما يمكن توقعه قبل التقييم وأثناءه وبعده.</p>
+<h1>النسخة المختصرة</h1>
+<p>عند إجراء تقييم على JobsList.dev:</p>
 <ul>
-<li>You can enter through a personal invitation link.</li>
-<li>You do not need to create an account before starting.</li>
-<li>You see one question at a time.</li>
-<li>You can move backward and forward before submitting.</li>
-<li>You can revise answers freely.</li>
-<li>Your work saves automatically.</li>
-<li>You can resume after many ordinary interruptions.</li>
-<li>A visible timer helps you pace yourself.</li>
-<li>There is no negative marking.</li>
-<li>There is no webcam monitoring.</li>
-<li>There is no screen recording.</li>
-<li>There is no microphone recording.</li>
-<li>There is no biometric analysis.</li>
-<li>There is no lockdown browser.</li>
-<li>The questions focus on role-relevant reasoning rather than obscure trivia.</li>
-<li>After submission, you may be able to claim a free JobsList.dev profile and keep your result.</li>
+<li>يمكنك الدخول عبر رابط دعوة شخصي.</li>
+<li>لا تحتاج إلى إنشاء حساب قبل البدء.</li>
+<li>تظهر لك سؤال واحد في كل مرة.</li>
+<li>يمكنك الرجوع إلى الأسئلة السابقة أو الانتقال إلى الأسئلة التالية قبل الإرسال.</li>
+<li>يمكنك تعديل إجاباتك بحرية.</li>
+<li>يتم حفظ عملك تلقائيًا.</li>
+<li>يمكنك استئناف الاختبار بعد العديد من المقاطعات العادية.</li>
+<li>يساعدك مؤقت مرئي على تنظيم وقتك.</li>
+<li>لا يوجد خصم من الدرجات.</li>
+<li>لا توجد مراقبة عبر كاميرا الويب.</li>
+<li>لا يوجد تسجيل للشاشة.</li>
+<li>لا يوجد تسجيل للميكروفون.</li>
+<li>لا يوجد تحليل بيومتري.</li>
+<li>لا يوجد متصفح مقفل.</li>
+<li>تركز الأسئلة على التفكير المنطقي ذي الصلة بالوظيفة بدلاً من الأسئلة التافهة الغامضة.</li>
+<li>بعد الإرسال, قد تتمكن من الحصول على ملف تعريف مجاني على JobsList.dev والاحتفاظ بنتيجتك.</li>
 </ul>
-<p>The assessment is intended to evaluate your work—not your room, appearance, résumé pedigree, or ability to remain perfectly still in front of a camera.</p>
-<h1>Why the company invited you</h1>
-<p>A company may use a JobsList.dev assessment to learn more than a résumé can show.</p>
-<p>A résumé can describe:</p>
+<p>يهدف التقييم إلى تقييم عملك — وليس غرفتك, أو مظهرك, أو سجل سيرتك الذاتية, أو قدرتك على البقاء ثابتًا تمامًا أمام الكاميرا.</p>
+<h1>لماذا دعتك الشركة</h1>
+<p>قد تستخدم الشركة تقييم JobsList.dev لمعرفة المزيد مما يمكن أن تظهره السيرة الذاتية.</p>
+<p>يمكن للسيرة الذاتية أن تصف:</p>
 <ul>
-<li>previous employers;</li>
-<li>job titles;</li>
-<li>technologies;</li>
-<li>projects;</li>
-<li>years of experience;</li>
-<li>education;</li>
-<li>accomplishments.</li>
+<li>أرباب العمل السابقين؛</li>
+<li>المسميات الوظيفية؛</li>
+<li>التقنيات؛</li>
+<li>المشاريع؛</li>
+<li>سنوات الخبرة؛</li>
+<li>المؤهلات التعليمية؛</li>
+<li>الإنجازات.</li>
 </ul>
-<p>An assessment gives you another way to demonstrate:</p>
+<p>يوفر لك التقييم طريقة أخرى لإثبات:</p>
 <ul>
-<li>technical understanding;</li>
-<li>code comprehension;</li>
-<li>debugging ability;</li>
-<li>role-specific judgment;</li>
-<li>problem-solving;</li>
-<li>trade-off reasoning;</li>
-<li>security awareness;</li>
-<li>data or systems knowledge;</li>
-<li>communication;</li>
-<li>practical decision-making.</li>
+<li>الفهم التقني؛</li>
+<li>فهم الكود البرمجي؛</li>
+<li>القدرة على تصحيح الأخطاء؛</li>
+<li>القدرة على اتخاذ القرارات الخاصة بالوظيفة؛</li>
+<li>حل المشكلات؛</li>
+<li>التفكير في المفاضلات؛</li>
+<li>الوعي الأمني؛</li>
+<li>المعرفة بالبيانات أو الأنظمة؛</li>
+<li>التواصل؛</li>
+<li>اتخاذ القرارات العملية.</li>
 </ul>
-<p>This can be especially valuable when your background is unconventional.</p>
-<p>You may be:</p>
+<p>قد يكون هذا مفيدًا بشكل خاص إذا كانت خلفيتك غير تقليدية.</p>
+<p>قد تكون:</p>
 <ul>
-<li>self-taught;</li>
-<li>changing careers;</li>
-<li>returning after a career break;</li>
-<li>applying for your first developer job;</li>
-<li>moving into a new specialty;</li>
-<li>coming from a smaller company;</li>
-<li>unable to share your strongest professional code publicly;</li>
-<li>stronger in practice than on paper.</li>
+<li>متعلمًا ذاتيًا؛</li>
+<li>بصدد تغيير مسارك المهني؛</li>
+<li>عائدًا إلى العمل بعد انقطاع؛</li>
+<li>متقدمًا لوظيفة مطور برمجيات لأول مرة؛</li>
+<li>بصدد الانتقال إلى تخصص جديد؛</li>
+<li>قادمًا من شركة أصغر حجمًا؛</li>
+<li>غير قادر على مشاركة أفضل أعمالك البرمجية المهنية علنًا؛</li>
+<li>أكثر براعة في الممارسة العملية مقارنةً بما تظهره أوراقك.</li>
 </ul>
-<p>The assessment gives you an opportunity to add demonstrated evidence to your application.</p>
-<h1>Before you begin</h1>
-<p>Your invitation should provide the information needed to access the assessment.</p>
-<p>Before starting, review:</p>
+<p>يمنحك التقييم فرصة لإضافة أدلة ملموسة إلى طلبك.</p>
+<h1>قبل أن تبدأ</h1>
+<p>يجب أن تتضمن دعوتك المعلومات اللازمة للوصول إلى التقييم.</p>
+<p>قبل البدء, راجع:</p>
 <ul>
-<li>the assessment deadline;</li>
-<li>the expected duration;</li>
-<li>the role or skill area;</li>
-<li>any instructions about permitted resources;</li>
-<li>whether the company has described its next steps;</li>
-<li>the email address or support route for technical issues.</li>
+<li>الموعد النهائي للتقييم؛</li>
+<li>المدة المتوقعة؛</li>
+<li>الوظيفة أو مجال المهارة؛</li>
+<li>أي تعليمات بشأن الموارد المسموح بها؛</li>
+<li>ما إذا كانت الشركة قد أوضحت الخطوات التالية؛</li>
+<li>عنوان البريد الإلكتروني أو قناة الدعم للمشكلات الفنية.</li>
 </ul>
-<p>Choose a time when you can work with reasonable focus.</p>
-<p>You do not need a perfect testing environment, but a few practical preparations can help.</p>
-<h1>Candidate preparation checklist</h1>
-<p>Before opening the assessment:</p>
+<p>اختر وقتًا يمكنك فيه العمل بتركيز معقول.</p>
+<p>لست بحاجة إلى بيئة اختبار مثالية, لكن بعض الاستعدادات العملية قد تساعدك.</p>
+<h1>قائمة مراجعة استعدادات المرشح</h1>
+<p>قبل فتح التقييم:</p>
 <ul>
-<li>Use a laptop or desktop when possible.</li>
-<li>Charge the device or connect it to power.</li>
-<li>Check your internet connection.</li>
-<li>Close unrelated applications.</li>
-<li>Enable Do Not Disturb when useful.</li>
-<li>Silence unnecessary notifications.</li>
-<li>Keep water nearby.</li>
-<li>Confirm that you have enough uninterrupted time.</li>
-<li>Read the rules for documentation, calculators, editors, search, or AI tools.</li>
-<li>Request an accommodation before starting when needed.</li>
-<li>Keep the invitation email available in case you must reopen the link.</li>
+<li>استخدم جهاز كمبيوتر محمول أو مكتبي إن أمكن.</li>
+<li>اشحن الجهاز أو قم بتوصيله بمصدر الطاقة.</li>
+<li>تحقق من اتصالك بالإنترنت.</li>
+<li>أغلق التطبيقات غير ذات الصلة.</li>
+<li>قم بتفعيل وضع «عدم الإزعاج» عند الحاجة.</li>
+<li>قم بكتم الإشعارات غير الضرورية.</li>
+<li>احتفظ بزجاجة ماء بالقرب منك.</li>
+<li>تأكد من توفر وقت كافٍ دون انقطاع.</li>
+<li>اقرأ القواعد المتعلقة بالوثائق, والآلات الحاسبة, وبرامج التحرير, وأدوات البحث, أو أدوات الذكاء الاصطناعي.</li>
+<li>اطلب تسهيلات قبل البدء عند الحاجة.</li>
+<li>احتفظ برسالة الدعوة الإلكترونية في متناول يدك في حال احتجت إلى إعادة فتح الرابط.</li>
 </ul>
-<p>You do not need to study your entire field again before beginning.</p>
-<p>A well-designed assessment measures understanding and judgment more than last-minute memorization.</p>
-<h1>No account is required before you start</h1>
-<p>You may be able to complete the assessment through a personal invitation link without first creating a JobsList.dev account.</p>
-<p>The company sends the invitation to the email address associated with your candidacy.</p>
-<p>Your link is intended for you.</p>
-<p>Do not:</p>
+<p>لست بحاجة إلى مراجعة مجال تخصصك بالكامل مرة أخرى قبل البدء.</p>
+<p>يقيس التقييم المصمم جيدًا مستوى الفهم والحكم أكثر من الحفظ في اللحظة الأخيرة.</p>
+<h1>لا يلزم إنشاء حساب قبل البدء</h1>
+<p>قد تتمكن من إكمال التقييم من خلال رابط دعوة شخصي دون الحاجة إلى إنشاء حساب على JobsList.dev مسبقًا.</p>
+<p>ترسل الشركة الدعوة إلى عنوان البريد الإلكتروني المرتبط بترشيحك.</p>
+<p>الرابط مخصص لك وحدك.</p>
+<p>لا تقم بما يلي:</p>
 <ul>
-<li>post it publicly;</li>
-<li>forward it to another person;</li>
-<li>share it in a group chat;</li>
-<li>publish screenshots of protected questions;</li>
-<li>allow someone else to complete the assessment through your invitation.</li>
+<li>نشره علنًا؛</li>
+<li>إعادة توجيهه إلى شخص آخر؛</li>
+<li>مشاركته في محادثة جماعية؛</li>
+<li>نشر لقطات شاشة للأسئلة المحمية؛</li>
+<li>السماح لشخص آخر بإكمال التقييم من خلال دعوتك.</li>
 </ul>
-<p>The link may expire after the company’s assessment window closes.</p>
-<p>Complete it within the stated deadline.</p>
-<h1>Verify that the invitation is legitimate</h1>
-<p>Be cautious with unexpected hiring messages.</p>
-<p>A legitimate assessment invitation should not ask you to:</p>
+<p>قد تنتهي صلاحية الرابط بعد انتهاء فترة التقييم المحددة من قبل الشركة.</p>
+<p>أكمل التقييم في غضون الموعد النهائي المحدد.</p>
+<h1>تحقق من صحة الدعوة</h1>
+<p>توخ الحذر من رسائل التوظيف غير المتوقعة.</p>
+<p>لا ينبغي أن تطلب منك دعوة التقييم الصحيحة ما يلي:</p>
 <ul>
-<li>pay a fee;</li>
-<li>send cryptocurrency;</li>
-<li>share your banking password;</li>
-<li>provide a one-time security code to a recruiter;</li>
-<li>install unrelated remote-access software;</li>
-<li>reveal your email password;</li>
-<li>send sensitive financial credentials.</li>
+<li>دفع رسوم؛</li>
+<li>إرسال عملة مشفرة؛</li>
+<li>مشاركة كلمة مرور حسابك المصرفي؛</li>
+<li>تزويد مسؤول التوظيف برمز أمان لمرة واحدة؛</li>
+<li>تثبيت برامج وصول عن بُعد لا علاقة لها بالوظيفة؛</li>
+<li>الكشف عن كلمة مرور بريدك الإلكتروني؛</li>
+<li>إرسال بيانات اعتماد مالية حساسة.</li>
 </ul>
-<p>When something looks suspicious, verify the invitation through the company’s official contact channel before proceeding.</p>
-<h1>One question at a time</h1>
-<p>JobsList.dev assessments present one question per screen.</p>
-<p>This helps reduce clutter and lets you focus on the current problem without facing a long wall of text and controls.</p>
-<p>Depending on the assessment, a question may contain:</p>
+<p>عندما يبدو الأمر مريبًا, تحقق من صحة الدعوة عبر قناة الاتصال الرسمية للشركة قبل المضي قدمًا.</p>
+<h1>سؤال واحد في كل مرة</h1>
+<p>تقدم اختبارات JobsList.dev سؤالًا واحدًا في كل شاشة.</p>
+<p>وهذا يساعد في تقليل الفوضى ويتيح لك التركيز على المشكلة الحالية دون مواجهة جدار طويل من النصوص وعناصر التحكم.</p>
+<p>اعتمادًا على التقييم, قد يحتوي السؤال على:</p>
 <ul>
-<li>a technical scenario;</li>
-<li>a code snippet;</li>
-<li>a diagram;</li>
-<li>a bug report;</li>
-<li>a design decision;</li>
-<li>a set of possible answers;</li>
-<li>a short written-response field;</li>
-<li>a ranking or multiple-selection task.</li>
+<li>سيناريو تقني؛</li>
+<li>مقتطف برمجي؛</li>
+<li>رسم تخطيطي؛</li>
+<li>تقرير عن خطأ برمجي؛</li>
+<li>قرار تصميمي؛</li>
+<li>مجموعة من الإجابات المحتملة؛</li>
+<li>حقل للإجابة المكتوبة القصيرة؛</li>
+<li>مهمة ترتيب أو اختيار متعدد.</li>
 </ul>
-<p>A progress indicator helps you understand how much of the assessment remains.</p>
-<h1>You can move backward and forward</h1>
-<p>Before final submission, you can navigate through the assessment and revisit earlier questions.</p>
-<p>That means you can:</p>
+<p>يساعدك مؤشر التقدم على معرفة الجزء المتبقي من الاختبار.</p>
+<h1>يمكنك الرجوع إلى الأسئلة السابقة والانتقال إلى الأسئلة التالية</h1>
+<p>قبل الإرسال النهائي, يمكنك التنقل عبر الاختبار والعودة إلى الأسئلة السابقة.</p>
+<p>وهذا يعني أنه يمكنك:</p>
 <ul>
-<li>answer a question;</li>
-<li>move to the next one;</li>
-<li>return later;</li>
-<li>reconsider your choice;</li>
-<li>correct an accidental selection;</li>
-<li>revise a written response;</li>
-<li>skip a difficult question temporarily.</li>
+<li>الإجابة على سؤال؛</li>
+<li>الانتقال إلى السؤال التالي؛</li>
+<li>العودة لاحقًا؛</li>
+<li>إعادة النظر في اختيارك؛</li>
+<li>تصحيح اختيار غير مقصود؛</li>
+<li>مراجعة إجابة مكتوبة؛</li>
+<li>تخطي سؤال صعب مؤقتًا.</li>
 </ul>
-<p>Your answers are not permanently locked merely because you moved forward.</p>
-<p>The assessment becomes final when you submit it.</p>
-<h1>Use two passes when helpful</h1>
-<p>A simple strategy is:</p>
-<h2>First pass</h2>
+<p>لا يتم تثبيت إجاباتك بشكل دائم لمجرد أنك انتقلت إلى الأمام.</p>
+<p>يصبح التقييم نهائيًا عند إرساله.</p>
+<h1>استخدم مرحلتين عند الحاجة</h1>
+<p>إليك استراتيجية بسيطة:</p>
+<h2>المرحلة الأولى</h2>
 <ul>
-<li>Answer questions you understand quickly.</li>
-<li>Make a reasonable choice when you are moderately confident.</li>
-<li>Avoid spending too long on one difficult problem.</li>
-<li>Move forward to see the rest of the assessment.</li>
+<li>أجب عن الأسئلة التي تفهمها بسرعة.</li>
+<li>اتخذ خيارًا معقولًا عندما تكون واثقًا إلى حد ما.</li>
+<li>تجنب قضاء وقت طويل جدًّا في حل مسألة صعبة واحدة.</li>
+<li>تابع إلى الأمام للاطلاع على بقية الاختبار.</li>
 </ul>
-<h2>Second pass</h2>
+<h2>الجولة الثانية</h2>
 <ul>
-<li>Return to difficult questions.</li>
-<li>Recheck wording.</li>
-<li>Review code carefully.</li>
-<li>Compare close answer choices.</li>
-<li>Complete anything you skipped.</li>
-<li>Confirm that every intended answer is selected.</li>
+<li>عد إلى الأسئلة الصعبة.</li>
+<li>أعد فحص صياغة السؤال.</li>
+<li>راجع الكود بعناية.</li>
+<li>قارن بين خيارات الإجابة المتقاربة.</li>
+<li>أكمل أي أسئلة تخطيتها.</li>
+<li>تأكد من تحديد كل إجابة مقصودة.</li>
 </ul>
-<p>This approach prevents one difficult question from consuming time you could use elsewhere.</p>
-<h1>Your answers save automatically</h1>
-<p>Your work is saved as you interact with the assessment.</p>
-<p>You should not need to press a separate Save button after every question.</p>
-<p>Autosave helps protect you from:</p>
+<p>يمنع هذا النهج أن تستهلك مسألة صعبة واحدة الوقت الذي يمكنك استغلاله في أمور أخرى.</p>
+<h1>يتم حفظ إجاباتك تلقائيًا</h1>
+<p>يتم حفظ عملك أثناء تفاعلك مع الاختبار.</p>
+<p>لن تحتاج إلى الضغط على زر «حفظ» منفصل بعد كل سؤال.</p>
+<p>تساعد ميزة الحفظ التلقائي في حمايتك من:</p>
 <ul>
-<li>accidental refreshes;</li>
-<li>browser crashes;</li>
-<li>brief connection problems;</li>
-<li>navigation mistakes;</li>
-<li>device interruptions.</li>
+<li>عمليات التحديث العرضية؛</li>
+<li>تعطل المتصفح؛</li>
+<li>مشاكل الاتصال المؤقتة؛</li>
+<li>أخطاء التنقل؛</li>
+<li>انقطاع تشغيل الجهاز.</li>
 </ul>
-<p>Wait for the successful submission confirmation before closing the final page.</p>
-<p>Autosave protects progress while you work. Final submission confirms that you are finished.</p>
-<h1>What happens if your internet connection drops?</h1>
-<p>Do not panic.</p>
-<p>When your connection returns:</p>
+<p>انتظر حتى تظهر رسالة تأكيد الإرسال الناجح قبل إغلاق الصفحة النهائية.</p>
+<p>تحمي ميزة الحفظ التلقائي التقدم الذي أحرزته أثناء العمل. ويؤكد الإرسال النهائي أنك قد انتهيت.</p>
+<h1>ماذا يحدث إذا انقطع اتصالك بالإنترنت؟</h1>
+<p>لا داعي للذعر.</p>
+<p>عند عودة الاتصال:</p>
 <ol>
-<li>Reopen the assessment link.</li>
-<li>Follow any resume instructions shown.</li>
-<li>Check that your previous answers are present.</li>
-<li>Continue from the appropriate question.</li>
+<li>أعد فتح رابط التقييم.</li>
+<li>اتبع أي تعليمات متعلقة باستئناف التقييم تظهر على الشاشة.</li>
+<li>تحقق من وجود إجاباتك السابقة.</li>
+<li>تابع من السؤال المناسب.</li>
 </ol>
-<p>When you cannot resume or something appears incorrect:</p>
+<p>عندما لا تتمكن من استئناف التقييم أو يظهر خطأ ما:</p>
 <ul>
-<li>take a screenshot of the error when possible;</li>
-<li>note the approximate time;</li>
-<li>contact the support route or company representative;</li>
-<li>explain the problem briefly and factually.</li>
+<li>التقط لقطة شاشة للخطأ إن أمكن؛</li>
+<li>سجل الوقت التقريبي؛</li>
+<li>اتصل بقناة الدعم أو ممثل الشركة؛</li>
+<li>اشرح المشكلة بإيجاز وبالاستناد إلى الحقائق.</li>
 </ul>
-<p>Do not create another account or attempt unless instructed.</p>
-<h1>What happens if your browser crashes?</h1>
-<p>Reopen the browser and return through the invitation link.</p>
-<p>Your saved progress may allow you to continue without starting over.</p>
-<p>When the system does not behave as expected, contact support rather than repeatedly opening new sessions.</p>
-<h1>What happens if your computer restarts?</h1>
-<p>Use the original invitation link after the device restarts.</p>
-<p>Confirm that:</p>
+<p>لا تقم بإنشاء حساب آخر أو محاولة جديدة ما لم تُطلب منك ذلك.</p>
+<h1>ماذا يحدث إذا تعطل متصفحك؟</h1>
+<p>أعد فتح المتصفح وارجع عبر رابط الدعوة.</p>
+<p>قد يتيح لك التقدم الذي تم حفظه متابعة الاختبار دون الحاجة إلى البدء من جديد.</p>
+<p>عندما لا يعمل النظام بالشكل المتوقع, اتصل بدعم المستخدم بدلاً من فتح جلسات جديدة بشكل متكرر.</p>
+<h1>ماذا يحدث إذا أُعيد تشغيل جهاز الكمبيوتر الخاص بك؟</h1>
+<p>استخدم رابط الدعوة الأصلي بعد إعادة تشغيل الجهاز.</p>
+<p>تأكد من:</p>
 <ul>
-<li>the assessment recognizes your attempt;</li>
-<li>your saved answers appear;</li>
-<li>the timer or attempt status is correct.</li>
+<li>أن الاختبار يتعرف على محاولتك؛</li>
+<li>ظهور إجاباتك المحفوظة؛</li>
+<li>صحة المؤقت أو حالة المحاولة.</li>
 </ul>
-<p>Report any inconsistency promptly.</p>
-<h1>The timer is visible</h1>
-<p>Assessments may have a defined time limit.</p>
-<p>The remaining time is visible so you can pace yourself.</p>
-<p>The timer is intended to provide clarity—not manufacture panic.</p>
-<p>You should not expect:</p>
+<p>أبلغ عن أي تباين على الفور.</p>
+<h1>المؤقت مرئي</h1>
+<p>قد يكون للاختبارات حد زمني محدد.</p>
+<p>الوقت المتبقي مرئي حتى تتمكن من تنظيم وتيرة أدائك.</p>
+<p>الغرض من المؤقت هو توفير الوضوح — وليس إثارة الذعر.</p>
+<p>لا يجب أن تتوقع:</p>
 <ul>
-<li>dramatic alarms;</li>
-<li>flashing warnings throughout the assessment;</li>
-<li>a hostile visual countdown;</li>
-<li>punishment for not finishing unusually quickly.</li>
+<li>إنذارات مروعة؛</li>
+<li>تحذيرات وامضة طوال فترة الاختبار؛</li>
+<li>عد تنازلي مرئي مثير للقلق؛</li>
+<li>عقابًا لعدم الانتهاء بسرعة غير معتادة.</li>
 </ul>
-<p>Use the timer as a planning tool.</p>
-<h1>How to pace yourself</h1>
-<p>Suppose an assessment contains 30 questions and provides 45 minutes.</p>
-<p>A rough average would be 90 seconds per question, but not every question requires the same amount of time.</p>
-<p>A better approach is:</p>
+<p>استخدم المؤقت كأداة للتخطيط.</p>
+<h1>كيف تنظم وتيرة إجابتك</h1>
+<p>لنفترض أن الاختبار يحتوي على 30 سؤالًا ويمنحك 45 دقيقة.</p>
+<p>سيكون المتوسط التقريبي 90 ثانية لكل سؤال, لكن ليس كل سؤال يتطلب نفس القدر من الوقت.</p>
+<p>النهج الأفضل هو:</p>
 <ul>
-<li>answer straightforward questions efficiently;</li>
-<li>allow more time for code or scenario analysis;</li>
-<li>skip temporarily when stuck;</li>
-<li>reserve several minutes for review.</li>
+<li>الإجابة على الأسئلة المباشرة بكفاءة؛</li>
+<li>تخصيص مزيد من الوقت لتحليل الكود أو السيناريو؛</li>
+<li>تخطي السؤال مؤقتًا عند التعثر؛</li>
+<li>تخصيص عدة دقائق للمراجعة.</li>
 </ul>
-<p>Do not spend ten minutes trying to perfect one answer while leaving several easier questions untouched.</p>
-<h1>Read every question fully</h1>
-<p>Many assessment mistakes come from misreading rather than lack of knowledge.</p>
-<p>Pay close attention to words such as:</p>
+<p>لا تقضي عشر دقائق في محاولة صقل إجابة واحدة بينما تترك عدة أسئلة أسهل دون الإجابة عليها.</p>
+<h1>اقرأ كل سؤال بالكامل</h1>
+<p>تنجم العديد من الأخطاء في الاختبارات عن سوء القراءة وليس عن نقص المعرفة.</p>
+<p>انتبه جيدًا إلى كلمات مثل:</p>
 <ul>
-<li>best;</li>
-<li>first;</li>
-<li>most likely;</li>
-<li>least appropriate;</li>
-<li>not;</li>
-<li>except;</li>
-<li>immediate;</li>
-<li>safest;</li>
-<li>primary;</li>
-<li>under these constraints.</li>
+<li>الأفضل؛</li>
+<li>الأول؛</li>
+<li>الأكثر احتمالًا؛</li>
+<li>الأقل ملاءمةً؛</li>
+<li>ليس؛</li>
+<li>باستثناء؛</li>
+<li>فوري؛</li>
+<li>الأكثر أمانًا؛</li>
+<li>الأساسي؛</li>
+<li>في ظل هذه القيود.</li>
 </ul>
-<p>A question may contain several technically possible choices but ask for the best one under the stated conditions.</p>
-<p>Read the entire scenario before deciding.</p>
-<h1>What the questions are designed to measure</h1>
-<p>The assessment depends on the role, but JobsList.dev questions emphasize understanding and professional judgment.</p>
-<p>You may be asked to:</p>
+<p>قد يحتوي السؤال على عدة خيارات ممكنة من الناحية الفنية, لكنه يطلب منك اختيار الخيار الأفضل في ظل الشروط المذكورة.</p>
+<p>اقرأ السيناريو بالكامل قبل اتخاذ القرار.</p>
+<h1>ما الذي تهدف الأسئلة إلى قياسه</h1>
+<p>يعتمد التقييم على الدور الوظيفي, لكن أسئلة JobsList.dev تركز على الفهم والحكم المهني.</p>
+<p>قد يُطلب منك:</p>
 <ul>
-<li>read code and determine what it does;</li>
-<li>identify the cause of a bug;</li>
-<li>choose the safest response to a failure;</li>
-<li>reason about a database schema;</li>
-<li>compare architecture options;</li>
-<li>recognize a security problem;</li>
-<li>choose an appropriate testing strategy;</li>
-<li>interpret logs or system behavior;</li>
-<li>evaluate frontend accessibility;</li>
-<li>reason about mobile lifecycle behavior;</li>
-<li>prioritize incident actions;</li>
-<li>handle a management scenario.</li>
+<li>قراءة الكود وتحديد وظيفته؛</li>
+<li>تحديد سبب وجود خطأ برمجي؛</li>
+<li>اختيار الاستجابة الأكثر أمانًا لحالة فشل؛</li>
+<li>تحليل مخطط قاعدة البيانات؛</li>
+<li>مقارنة خيارات البنية؛</li>
+<li>التعرف على مشكلة أمنية؛</li>
+<li>اختيار استراتيجية اختبار مناسبة؛</li>
+<li>تفسير السجلات أو سلوك النظام؛</li>
+<li>تقييم إمكانية الوصول إلى الواجهة الأمامية؛</li>
+<li>تحليل سلوك دورة حياة الأجهزة المحمولة؛</li>
+<li>تحديد أولويات الإجراءات المتعلقة بالحوادث؛</li>
+<li>التعامل مع سيناريو إداري.</li>
 </ul>
-<p>These formats are intended to resemble the thinking required in real work.</p>
-<h1>Examples by role</h1>
-<h1>Frontend assessments</h1>
-<p>You may encounter questions involving:</p>
+<p>تهدف هذه الأشكال إلى محاكاة طريقة التفكير المطلوبة في العمل الفعلي.</p>
+<h1>أمثلة حسب الدور</h1>
+<h1>تقييمات الواجهة الأمامية</h1>
+<p>قد تواجه أسئلة تتعلق بما يلي:</p>
 <ul>
-<li>JavaScript or TypeScript behavior;</li>
-<li>semantic HTML;</li>
-<li>CSS layout;</li>
-<li>browser rendering;</li>
-<li>accessibility;</li>
-<li>keyboard navigation;</li>
-<li>state management;</li>
-<li>performance;</li>
-<li>interface testing;</li>
-<li>network failure.</li>
+<li>سلوك JavaScript أو TypeScript؛</li>
+<li>HTML الدلالي؛</li>
+<li>تخطيط CSS؛</li>
+<li>عرض المتصفح؛</li>
+<li>إمكانية الوصول؛</li>
+<li>التنقل باستخدام لوحة المفاتيح؛</li>
+<li>إدارة الحالة؛</li>
+<li>الأداء؛</li>
+<li>اختبار الواجهة؛</li>
+<li>فشل الشبكة.</li>
 </ul>
-<p>Example:</p>
+<p>مثال:</p>
 <blockquote>
-<p>A clickable control is implemented with a <code>div</code> and works with a mouse but not a keyboard. What is the most appropriate first change?</p>
+<p>تم تنفيذ عنصر تحكم قابل للنقر باستخدام عنصر <code>div</code>, وهو يعمل بالماوس ولكنه لا يعمل باستخدام لوحة المفاتيح. ما هو التغيير الأول الأنسب؟</p>
 </blockquote>
-<p>This evaluates accessibility and browser fundamentals rather than memorizing an obscure framework API.</p>
-<h1>Backend assessments</h1>
-<p>You may encounter:</p>
+<p>يقيّم هذا السؤال إمكانية الوصول وأساسيات المتصفح بدلاً من حفظ واجهة برمجة تطبيقات (API) غامضة لإطار عمل ما.</p>
+<h1>تقييمات الخلفية (Backend)</h1>
+<p>قد تواجه ما يلي:</p>
 <ul>
-<li>API design;</li>
-<li>validation;</li>
-<li>transactions;</li>
-<li>indexing;</li>
-<li>authorization;</li>
-<li>concurrency;</li>
-<li>idempotency;</li>
-<li>queues;</li>
-<li>caching;</li>
-<li>debugging;</li>
-<li>production reliability.</li>
+<li>تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>التحقق من الصحة؛</li>
+<li>المعاملات؛</li>
+<li>الفهرسة؛</li>
+<li>التفويض؛</li>
+<li>التزامن؛</li>
+<li>قابلية التكرار؛</li>
+<li>قوائم الانتظار؛</li>
+<li>التخزين المؤقت؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>موثوقية الإنتاج.</li>
 </ul>
-<p>Example:</p>
+<p>مثال:</p>
 <blockquote>
-<p>A client retries a payment request after a timeout and duplicate charges appear. Which control most directly protects the operation?</p>
+<p>يعيد العميل محاولة طلب الدفع بعد انتهاء المهلة, فتظهر رسوم مكررة. ما هو عنصر التحكم الذي يحمي العملية بشكل مباشر؟</p>
 </blockquote>
-<p>This tests failure awareness and data correctness.</p>
-<h1>Full-stack assessments</h1>
-<p>You may reason about:</p>
+<p>يختبر هذا الوعي بالفشل وصحة البيانات.</p>
+<h1>تقييمات المطور الشامل</h1>
+<p>قد يتعين عليك التفكير في:</p>
 <ul>
-<li>client-server boundaries;</li>
-<li>API contracts;</li>
-<li>state ownership;</li>
-<li>error handling;</li>
-<li>validation;</li>
-<li>integration testing;</li>
-<li>data flow;</li>
-<li>performance across the request path.</li>
+<li>حدود العميل-الخادم؛</li>
+<li>عقود واجهة برمجة التطبيقات (API)؛</li>
+<li>ملكية الحالة؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>التحقق من الصحة؛</li>
+<li>اختبار التكامل؛</li>
+<li>تدفق البيانات؛</li>
+<li>الأداء عبر مسار الطلب.</li>
 </ul>
-<h1>Mobile assessments</h1>
-<p>You may encounter:</p>
+<h1>تقييمات الأجهزة المحمولة</h1>
+<p>قد تواجه:</p>
 <ul>
-<li>application lifecycle;</li>
-<li>offline behavior;</li>
-<li>local storage;</li>
-<li>background work;</li>
-<li>permissions;</li>
-<li>synchronization;</li>
-<li>platform constraints;</li>
-<li>release behavior;</li>
-<li>mobile performance.</li>
+<li>دورة حياة التطبيق؛</li>
+<li>السلوك في وضع عدم الاتصال بالإنترنت؛</li>
+<li>التخزين المحلي؛</li>
+<li>العمل في الخلفية؛</li>
+<li>الأذونات؛</li>
+<li>المزامنة؛</li>
+<li>قيود النظام الأساسي؛</li>
+<li>سلوك الإصدار؛</li>
+<li>أداء الأجهزة المحمولة.</li>
 </ul>
-<h1>Data assessments</h1>
-<p>Questions may cover:</p>
+<h1>تقييمات البيانات</h1>
+<p>قد تشمل الأسئلة ما يلي:</p>
 <ul>
-<li>SQL;</li>
-<li>analytical modeling;</li>
-<li>pipeline design;</li>
-<li>data quality;</li>
-<li>schema changes;</li>
-<li>batch versus streaming;</li>
-<li>backfills;</li>
-<li>lineage;</li>
-<li>reproducibility;</li>
-<li>operational failures.</li>
+<li>SQL؛</li>
+<li>النمذجة التحليلية؛</li>
+<li>تصميم مسار البيانات؛</li>
+<li>جودة البيانات؛</li>
+<li>تغييرات المخطط؛</li>
+<li>المعالجة الدفعية مقابل المعالجة المتدفقة؛</li>
+<li>عمليات الملء الرجعي؛</li>
+<li>مسار البيانات؛</li>
+<li>قابلية التكرار؛</li>
+<li>الأعطال التشغيلية.</li>
 </ul>
-<h1>DevOps and SRE assessments</h1>
-<p>You may reason about:</p>
+<h1>تقييمات DevOps و SRE</h1>
+<p>قد تتناول ما يلي:</p>
 <ul>
-<li>deployment safety;</li>
-<li>infrastructure as code;</li>
-<li>observability;</li>
-<li>capacity;</li>
-<li>rollbacks;</li>
-<li>incident response;</li>
-<li>secrets;</li>
-<li>alerting;</li>
-<li>retries;</li>
-<li>failure domains.</li>
+<li>أمان النشر؛</li>
+<li>البنية التحتية ككود؛</li>
+<li>قابلية المراقبة؛</li>
+<li>السعة؛</li>
+<li>عمليات التراجع؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>الأسرار؛</li>
+<li>التنبيهات؛</li>
+<li>إعادة المحاولة؛</li>
+<li>مجالات الفشل.</li>
 </ul>
-<h1>Engineering-management assessments</h1>
-<p>You may encounter scenarios involving:</p>
+<h1>تقييمات الهندسة والإدارة</h1>
+<p>قد تواجه سيناريوهات تتضمن:</p>
 <ul>
-<li>feedback;</li>
-<li>prioritization;</li>
-<li>delegation;</li>
-<li>missed commitments;</li>
-<li>performance management;</li>
-<li>team conflict;</li>
-<li>promotion readiness;</li>
-<li>stakeholder communication;</li>
-<li>delivery risk.</li>
+<li>التغذية الراجعة؛</li>
+<li>تحديد الأولويات؛</li>
+<li>تفويض المهام؛</li>
+<li>الالتزامات غير المنجزة؛</li>
+<li>إدارة الأداء؛</li>
+<li>النزاعات داخل الفريق؛</li>
+<li>الاستعداد للترقية؛</li>
+<li>التواصل مع أصحاب المصلحة؛</li>
+<li>مخاطر التسليم.</li>
 </ul>
-<h1>There are no deliberate trick questions</h1>
-<p>The goal is not to deceive you with clever wording.</p>
-<p>A question can still be challenging because the subject is complex or several options are plausible.</p>
-<p>That is different from a hidden gotcha.</p>
-<p>When uncertain:</p>
+<h1>لا توجد أسئلة خادعة متعمدة</h1>
+<p>الهدف ليس خداعك بصياغة ذكية.</p>
+<p>قد يظل السؤال صعبًا لأن الموضوع معقد أو لأن هناك عدة خيارات معقولة.</p>
+<p>وهذا يختلف عن الفخ الخفي.</p>
+<p>عندما تكون غير متأكد:</p>
 <ol>
-<li>Identify the main problem.</li>
-<li>Identify the stated constraints.</li>
-<li>Eliminate clearly inappropriate choices.</li>
-<li>Prefer the answer that most directly addresses the risk.</li>
-<li>Avoid unnecessary complexity.</li>
-<li>Make your best judgment.</li>
-<li>Move on when additional thinking is no longer productive.</li>
+<li>حدد المشكلة الرئيسية.</li>
+<li>حدد القيود المذكورة.</li>
+<li>استبعد الخيارات غير المناسبة بشكل واضح.</li>
+<li>فضل الإجابة التي تعالج المخاطر بشكل مباشر.</li>
+<li>تجنب التعقيد غير الضروري.</li>
+<li>استخدم حكمك السليم.</li>
+<li>انتقل إلى السؤال التالي عندما لا يعود التفكير الإضافي مثمرًا.</li>
 </ol>
-<p>Do not waste time searching for an imaginary trap.</p>
-<h1>There is no negative marking</h1>
-<p>An incorrect answer does not subtract additional points from other correct work.</p>
-<p>You simply do not earn the available credit for that answer.</p>
-<p>An unanswered question also earns no credit.</p>
-<p>When you can make a reasoned choice, guessing is not punished beyond missing the question’s available points.</p>
-<p>This supports a calmer assessment strategy.</p>
-<h1>Partial credit may apply</h1>
-<p>Some question formats can contain several meaningful components.</p>
-<p>Where supported by the assessment design, partial credit may be available for answers that demonstrate part of the required understanding.</p>
-<p>This may apply to:</p>
+<p>لا تضيع وقتك في البحث عن فخ وهمي.</p>
+<h1>لا يوجد خصم من الدرجات</h1>
+<p>الإجابة الخاطئة لا تؤدي إلى خصم نقاط إضافية من الإجابات الصحيحة الأخرى.</p>
+<p>أنت ببساطة لا تحصل على الدرجات المتاحة لتلك الإجابة.</p>
+<p>كما أن السؤال الذي لم تتم الإجابة عليه لا يحصل على أي درجات.</p>
+<p>عندما يكون بإمكانك اتخاذ قرار مدروس, لا يُعاقب التخمين إلا بفقدان النقاط المتاحة للسؤال.</p>
+<p>وهذا يدعم اتباع استراتيجية تقييم أكثر هدوءًا.</p>
+<h1>قد يتم منح درجات جزئية</h1>
+<p>قد تحتوي بعض صيغ الأسئلة على عدة مكونات ذات مغزى.</p>
+<p>وحيثما يسمح تصميم الاختبار بذلك, قد تُمنح درجات جزئية للإجابات التي تُظهر جزءًا من الفهم المطلوب.</p>
+<p>وقد ينطبق هذا على:</p>
 <ul>
-<li>multiple-select questions;</li>
-<li>ranking questions;</li>
-<li>multi-part responses;</li>
-<li>other structured formats.</li>
+<li>الأسئلة متعددة الاختيارات؛</li>
+<li>أسئلة الترتيب؛</li>
+<li>الإجابات متعددة الأجزاء؛</li>
+<li>صيغ منظمة أخرى.</li>
 </ul>
-<p>The exact scoring depends on the assessment.</p>
-<p>Do not assume every question is all-or-nothing unless the format makes that clear.</p>
-<h1>Short-answer formatting</h1>
-<p>For supported short-answer questions, minor formatting differences may be normalized when appropriate.</p>
-<p>For example, irrelevant differences in:</p>
+<p>يعتمد التقييم الدقيق على الاختبار نفسه.</p>
+<p>لا تفترض أن كل سؤال يُحسب على أساس «كل شيء أو لا شيء» ما لم توضح الصيغة ذلك صراحةً.</p>
+<h1>تنسيق الإجابات القصيرة</h1>
+<p>بالنسبة للأسئلة ذات الإجابات القصيرة المدعومة, قد يتم توحيد الاختلافات الطفيفة في التنسيق عند الاقتضاء.</p>
+<p>على سبيل المثال, الاختلافات غير ذات الصلة في:</p>
 <ul>
-<li>capitalization;</li>
-<li>leading or trailing spaces;</li>
-<li>simple formatting;</li>
+<li>استخدام الأحرف الكبيرة؛</li>
+<li>المسافات في بداية أو نهاية الجملة؛</li>
+<li>التنسيق البسيط؛</li>
 </ul>
-<p>should not become the main thing being tested when the intended answer is otherwise correct.</p>
-<p>Normalization does not mean vague or unrelated answers are accepted.</p>
-<p>It means superficial formatting should not erase real knowledge.</p>
-<h1>Follow the rules for outside resources</h1>
-<p>Different companies and assessments may establish different policies.</p>
-<p>The instructions may address the use of:</p>
+<p>لا ينبغي أن تصبح هي العنصر الرئيسي الذي يتم اختباره عندما تكون الإجابة المقصودة صحيحة من نواحٍ أخرى.</p>
+<p>التوحيد لا يعني قبول الإجابات الغامضة أو غير ذات الصلة.</p>
+<p>بل يعني أن التنسيق السطحي لا ينبغي أن يحجب المعرفة الحقيقية.</p>
+<h1>اتبع القواعد الخاصة بالموارد الخارجية</h1>
+<p>قد تضع الشركات ومؤسسات التقييم سياسات مختلفة.</p>
+<p>قد تتناول التعليمات استخدام:</p>
 <ul>
-<li>documentation;</li>
-<li>search engines;</li>
-<li>calculators;</li>
-<li>code editors;</li>
-<li>local development environments;</li>
-<li>handwritten notes;</li>
-<li>AI tools;</li>
-<li>collaboration.</li>
+<li>الوثائق؛</li>
+<li>محركات البحث؛</li>
+<li>الآلات الحاسبة؛</li>
+<li>برامج تحرير الأكواد؛</li>
+<li>بيئات التطوير المحلية؛</li>
+<li>الملاحظات المكتوبة بخط اليد؛</li>
+<li>أدوات الذكاء الاصطناعي؛</li>
+<li>التعاون.</li>
 </ul>
-<p>Read the specific instructions before starting.</p>
-<p>Do not assume that a rule from another company’s assessment applies here.</p>
-<h1>Using documentation</h1>
-<p>When documentation is permitted:</p>
+<p>اقرأ التعليمات المحددة قبل البدء.</p>
+<p>لا تعمل تقييمات JobsList.dev على تشغيل كاميرا الويب الخاصة بك.</p>
+<p>نحن لا نقوم بما يلي:</p>
 <ul>
-<li>understand the question before searching;</li>
-<li>use documentation to verify details;</li>
-<li>apply the information to the actual scenario;</li>
-<li>submit only answers you understand;</li>
-<li>be ready to explain your reasoning later.</li>
+<li>مراقبتك؛</li>
+<li>تسجيل وجهك؛</li>
+<li>تحليل عينيك؛</li>
+<li>تتبع تعابير وجهك؛</li>
+<li>تفقد غرفتك؛</li>
+<li>مطالبتك بالبقاء في منتصف إطار الكاميرا؛</li>
+<li>إنشاء مقطع فيديو للشركة المُوظِّفة.</li>
 </ul>
-<p>Professional engineers use documentation regularly.</p>
-<p>The important distinction is whether the assessment permits it.</p>
-<h1>Using AI tools</h1>
-<p>Follow the rules stated for the assessment.</p>
-<p>When AI tools are permitted:</p>
+<p>مظهرك ليس جزءًا من التقييم.</p>
+<h1>لا يتم تسجيل الشاشة</h1>
+<p>لا تقوم المنصة بتسجيل كل ما يظهر على شاشتك.</p>
+<p>لا تتلقى الشركة مقاطع فيديو لما يلي:</p>
 <ul>
-<li>use them as assistance, not as a replacement for understanding;</li>
-<li>verify the output;</li>
-<li>read every suggested answer carefully;</li>
-<li>reject incorrect assumptions;</li>
-<li>submit only work you can explain and modify.</li>
+<li>سطح مكتبك؛</li>
+<li>نوافذ المتصفح الأخرى؛</li>
+<li>ملفاتك الشخصية؛</li>
+<li>الإشعارات؛</li>
+<li>التطبيقات غير ذات الصلة.</li>
 </ul>
-<p>When AI tools are prohibited, respect that restriction.</p>
-<p>The company may discuss assessment questions with you afterward. An answer you do not understand is difficult to defend in a technical interview.</p>
-<h1>Complete your own work</h1>
-<p>A skills assessment is intended to help match you with a role you can succeed in.</p>
-<p>Borrowed answers may create a result that does not reflect your current ability.</p>
-<p>That can cause problems when:</p>
+<h1>لا تسجيل للميكروفون</h1>
+<p>لا يسجل التقييم الصوت الصادر من غرفتك.</p>
+<p>ولا يستمع إلى:</p>
 <ul>
-<li>the next interview explores the same subject;</li>
-<li>you are asked to explain your answer;</li>
-<li>the interviewer changes the scenario;</li>
-<li>you are asked to implement the decision;</li>
-<li>the job expects the same skills immediately.</li>
+<li>صوتك؛</li>
+<li>المحادثات في الخلفية؛</li>
+<li>ضوضاء المنزل؛</li>
+<li>الأشخاص الآخرين الموجودين بالقرب منك.</li>
 </ul>
-<p>Your genuine result is more useful to both you and the company.</p>
-<h1>No webcam monitoring</h1>
-<p>JobsList.dev assessments do not activate your webcam.</p>
-<p>We do not:</p>
+<h1>لا يوجد تحليل بيومتري</h1>
+<p>لا تستخدم JobsList.dev تقنيات التقييم البيومترية مثل:</p>
 <ul>
-<li>watch you;</li>
-<li>record your face;</li>
-<li>analyze your eyes;</li>
-<li>track facial expressions;</li>
-<li>inspect your room;</li>
-<li>require you to remain centered on camera;</li>
-<li>create a video for the hiring company.</li>
+<li>هندسة الوجه؛</li>
+<li>تتبع النظر؛</li>
+<li>بصمات الصوت؛</li>
+<li>تحليل الوضعية الجسدية؛</li>
+<li>التعرف البيومتري السلوكي.</li>
 </ul>
-<p>Your appearance is not part of the assessment.</p>
-<h1>No screen recording</h1>
-<p>The platform does not create a recording of everything displayed on your screen.</p>
-<p>The company does not receive video of:</p>
+<p>هذه المعلومات غير مطلوبة لتقييم إجاباتك.</p>
+<h1>لا يوجد متصفح مقفل</h1>
+<p>لست بحاجة إلى تثبيت متصفح خاص يتحكم في جهاز الكمبيوتر الخاص بك.</p>
+<p>لا يتطلب التقييم برامج:</p>
 <ul>
-<li>your desktop;</li>
-<li>other browser windows;</li>
-<li>personal files;</li>
-<li>notifications;</li>
-<li>unrelated applications.</li>
+<li>تغلق التطبيقات الأخرى؛</li>
+<li>تفحص العمليات قيد التشغيل؛</li>
+<li>تعطل عناصر التحكم في النظام؛</li>
+<li>تظل مثبتة بعد الانتهاء؛</li>
+<li>تعطل وظائف الجهاز العادية.</li>
 </ul>
-<h1>No microphone recording</h1>
-<p>The assessment does not record audio from your room.</p>
-<p>It does not listen to:</p>
+<p>تخضع للتقييم من خلال متصفحك.</p>
+<h1>سياق متصفح محدود</h1>
+<p>قد يسجل التقييم سياقًا تقنيًّا محدودًا, مثل ما إذا كانت علامة تبويب المتصفح قد فقدت التركيز.</p>
+<p>قد يحدث حدث التركيز لأسباب عديدة:</p>
 <ul>
-<li>your voice;</li>
-<li>background conversations;</li>
-<li>household noise;</li>
-<li>other people nearby.</li>
+<li>النقر على نافذة أخرى؛</li>
+<li>ظهور إشعار؛</li>
+<li>تنشيط أداة مساعدة؛</li>
+<li>تغيير المتصفح لموضع التركيز؛</li>
+<li>فتح تطبيق آخر؛</li>
+<li>مغادرتك لفترة وجيزة ثم عودتك.</li>
 </ul>
-<h1>No biometric analysis</h1>
-<p>JobsList.dev does not use assessment biometrics such as:</p>
+<p>حدث التركيز لا يُعد فشلًا تلقائيًّا.</p>
+<p>وهو ليس دليلًا على أنك غششت.</p>
+<p>وعندما تُعرض مثل هذه السياقات على الشركة, يُقصد بها أن تكون معلومات محايدة لتفسيرها من قبل البشر.</p>
+<h1>لا يتم تقييمك بناءً على بيئتك</h1>
+<p>نظرًا لعدم وجود مراقبة عبر كاميرا الويب, لا تحتاج إلى:</p>
 <ul>
-<li>facial geometry;</li>
-<li>gaze tracking;</li>
-<li>voiceprints;</li>
-<li>posture analysis;</li>
-<li>behavioral biometric identification.</li>
+<li>تنظيف غرفتك من أجل المُقيّم؛</li>
+<li>إعداد خلفية احترافية؛</li>
+<li>إخفاء متعلقاتك الشخصية؛</li>
+<li>تحسين إضاءة الكاميرا؛</li>
+<li>القلق من مرور شخص ما خلفك؛</li>
+<li>البقاء ثابتًا جسديًّا؛</li>
+<li>إجراء اتصال بصري من أجل خوارزمية.</li>
 </ul>
-<p>That information is not needed to evaluate your answers.</p>
-<h1>No lockdown browser</h1>
-<p>You do not need to install a special browser that takes control of your computer.</p>
-<p>The assessment does not require software that:</p>
+<p>اختر مساحة عمل تساعدك على التفكير.</p>
+<h1>إمكانية الوصول والتسهيلات</h1>
+<p>تم تصميم واجهة التقييم لدعم التنقل باستخدام لوحة المفاتيح والاستخدام الميسر.</p>
+<p>حسب احتياجاتك, يمكنك استخدام:</p>
 <ul>
-<li>closes other applications;</li>
-<li>scans your running processes;</li>
-<li>disables system controls;</li>
-<li>remains installed after completion;</li>
-<li>blocks normal device functions.</li>
+<li>عناصر التحكم بلوحة المفاتيح؛</li>
+<li>دعم قارئ الشاشة؛</li>
+<li>التكبير/التصغير؛</li>
+<li>طرق الإدخال البديلة؛</li>
+<li>ميزات إمكانية الوصول الأخرى في المتصفح.</li>
 </ul>
-<p>You take the assessment through your browser.</p>
-<h1>Limited browser context</h1>
-<p>The assessment may record limited technical context, such as whether the browser tab lost focus.</p>
-<p>A focus event may occur for many reasons:</p>
+<p>عندما تحتاج إلى تسهيلات مثل وقت إضافي أو تعديل آخر, اتصل بالشركة أو قناة الدعم قبل البدء كلما أمكن ذلك.</p>
+<p>لا ينبغي أن تضطر إلى الكشف عن معلومات شخصية أكثر مما هو ضروري بشكل معقول لترتيب التسهيلات.</p>
+<h1>التنقل باستخدام لوحة المفاتيح</h1>
+<p>قد تتمكن من استخدام أدوات التحكم بلوحة المفاتيح للتنقل خلال التقييم واختيار الإجابات.</p>
+<p>قد تختلف عناصر التحكم المحددة باختلاف نوع السؤال.</p>
+<p>ابحث عن:</p>
 <ul>
-<li>you clicked another window;</li>
-<li>a notification appeared;</li>
-<li>an accessibility tool became active;</li>
-<li>your browser changed focus;</li>
-<li>another application opened;</li>
-<li>you briefly left and returned.</li>
+<li>مؤشرات التركيز المرئية؛</li>
+<li>التسميات؛</li>
+<li>عناصر التحكم التي يمكن الوصول إليها؛</li>
+<li>التنقل باستخدام لوحة المفاتيح؛</li>
+<li>حالات التحديد الواضحة.</li>
 </ul>
-<p>A focus event is not an automatic failure.</p>
-<p>It is not proof that you cheated.</p>
-<p>When such context is presented to a company, it is intended to be neutral information for human interpretation.</p>
-<h1>You are not being judged on your environment</h1>
-<p>Because there is no webcam monitoring, you do not need to:</p>
+<p>استخدم الماوس أو لوحة المفاتيح أو الشاشة التي تعمل باللمس أو التكنولوجيا المساعدة المدعومة, وفقًا لما يناسبك أكثر.</p>
+<h1>ما هي المعلومات المرتبطة بالتقييم</h1>
+<p>لتشغيل التقييم وإرسال النتيجة إلى الشركة الصحيحة, قد تستخدم JobsList.dev معلومات مثل:</p>
 <ul>
-<li>clean your room for an evaluator;</li>
-<li>create a professional background;</li>
-<li>hide personal belongings;</li>
-<li>improve camera lighting;</li>
-<li>worry that someone walks behind you;</li>
-<li>remain physically still;</li>
-<li>perform eye contact for an algorithm.</li>
+<li>اسمك؛</li>
+<li>عنوان بريدك الإلكتروني؛</li>
+<li>الشركة ودعوة التقييم؛</li>
+<li>إجاباتك المرسلة؛</li>
+<li>معلومات التوقيت؛</li>
+<li>حالة الإكمال؛</li>
+<li>التقييم الإجمالي وتقييم كل قسم؛</li>
+<li>الإجابات التي تمت مراجعتها يدويًّا عند الاقتضاء؛</li>
+<li>سياق تقني محدود متعلق بالمحاولة.</li>
 </ul>
-<p>Choose a workspace that helps you think.</p>
-<h1>Accessibility and accommodations</h1>
-<p>The assessment interface is intended to support keyboard navigation and accessible use.</p>
-<p>Depending on your needs, you may use:</p>
+<p>لا يحتاج التقييم إلى لقطات من كاميرا الويب أو تسجيلات الشاشة أو صوت الميكروفون أو البيانات البيومترية لتقييم عملك.</p>
+<h1>ما قد تراه الشركة</h1>
+<p>قد تتلقى الشركة:</p>
 <ul>
-<li>keyboard controls;</li>
-<li>screen-reader support;</li>
-<li>zoom;</li>
-<li>alternative input methods;</li>
-<li>other browser accessibility features.</li>
+<li>تأكيدًا بأنك أكملت التقييم؛</li>
+<li>النتيجة الإجمالية؛</li>
+<li>النتائج على مستوى الأقسام؛</li>
+<li>الإجابات التي تتطلب مراجعة بشرية؛</li>
+<li>تفاصيل الإرسال ذات الصلة؛</li>
+<li>سياق التقييم المحايد.</li>
 </ul>
-<p>When you require an accommodation such as additional time or another adjustment, contact the company or support route before beginning whenever possible.</p>
-<p>You should not need to disclose more personal information than is reasonably necessary to arrange the accommodation.</p>
-<h1>Keyboard navigation</h1>
-<p>You may be able to use keyboard controls to move through the assessment and select responses.</p>
-<p>The exact controls can vary by question type.</p>
-<p>Look for:</p>
+<p>تستخدم الشركة هذه المعلومات كجزء من عملية التوظيف الخاصة بها.</p>
+<p>لا تتخذ JobsList.dev القرار النهائي بشأن التوظيف نيابة عن الشركة.</p>
+<h1>الغرض الذي يجب أن تستخدم الشركة النتيجة من أجله</h1>
+<p>قد يستخدم فريق التوظيف المسؤول التقييم من أجل:</p>
 <ul>
-<li>visible focus indicators;</li>
-<li>labels;</li>
-<li>accessible controls;</li>
-<li>keyboard-operable navigation;</li>
-<li>clear selection states.</li>
+<li>تحديد من سيتأهل للمرحلة التالية؛</li>
+<li>تحديد نقاط قوتك؛</li>
+<li>توجيه أسئلة المقابلة الفنية؛</li>
+<li>مقارنة الأدلة ذات الصلة بالوظيفة؛</li>
+<li>التحقيق في أي تباين بين سيرتك الذاتية والمهارات التي أظهرتها؛</li>
+<li>فهم المجالات التي قد تحتاج فيها إلى دعم أثناء فترة التأهيل.</li>
 </ul>
-<p>Use your mouse, keyboard, touchscreen, or supported assistive technology according to what is most comfortable.</p>
-<h1>What information is connected to the assessment</h1>
-<p>To operate the assessment and return the result to the correct company, JobsList.dev may use information such as:</p>
+<p>لا ينبغي اعتبار التقييم مقياسًا كاملاً لقيمتك المهنية.</p>
+<h1>ما لا يمكن للتقييم قياسه بشكل كامل</h1>
+<p>لا يمكن للتقييم المحدد بوقت محدد أن يظهر بشكل كامل:</p>
 <ul>
-<li>your name;</li>
-<li>your email address;</li>
-<li>the company and assessment invitation;</li>
-<li>your submitted answers;</li>
-<li>timing information;</li>
-<li>completion status;</li>
-<li>overall and section scoring;</li>
-<li>manually reviewed responses where relevant;</li>
-<li>limited technical context related to the attempt.</li>
+<li>كيف تتعاون على مدار أشهر؛</li>
+<li>مدى سرعة تعلمك لنظام داخلي؛</li>
+<li>كيف تقوم بتوجيه زملائك في الفريق؛</li>
+<li>كيف تبني الثقة؛</li>
+<li>كيف تتعامل مع المسؤولية على المدى الطويل؛</li>
+<li>كيف تتواصل مع العملاء؛</li>
+<li>كيف تتحسن بعد تلقي الملاحظات؛</li>
+<li>كيف تعمل في سياق الأعمال الكامل.</li>
 </ul>
-<p>The assessment does not need webcam footage, screen recordings, microphone audio, or biometric data to evaluate your work.</p>
-<h1>What the company may see</h1>
-<p>The company may receive:</p>
+<p>ولهذا السبب قد تتضمن عمليات التوظيف أيضًا:</p>
 <ul>
-<li>confirmation that you completed the assessment;</li>
-<li>an overall result;</li>
-<li>section-level results;</li>
-<li>responses requiring human review;</li>
-<li>relevant submission details;</li>
-<li>neutral assessment context.</li>
+<li>المقابلات؛</li>
+<li>مناقشات المشاريع؛</li>
+<li>عينات من العمل؛</li>
+<li>التوصيات؛</li>
+<li>المحادثات الجماعية؛</li>
+<li>التمارين الخاصة بالوظيفة.</li>
 </ul>
-<p>The company uses that information as part of its own hiring process.</p>
-<p>JobsList.dev does not make the final hiring decision for the company.</p>
-<h1>What the company should use the result for</h1>
-<p>A responsible hiring team may use the assessment to:</p>
+<p>التقييم هو أحد مصادر الأدلة.</p>
+<h1>كيف ينبغي تفسير النتائج</h1>
+<p>تعكس نتيجتك أداءك:</p>
 <ul>
-<li>decide who advances;</li>
-<li>identify your strongest areas;</li>
-<li>guide technical interview questions;</li>
-<li>compare role-relevant evidence;</li>
-<li>investigate a mismatch between your résumé and demonstrated skills;</li>
-<li>understand where you may need onboarding support.</li>
+<li>في ذلك التقييم؛</li>
+<li>مع تلك الأسئلة؛</li>
+<li>في ظل تلك الظروف؛</li>
+<li>خلال تلك المحاولة.</li>
 </ul>
-<p>The assessment should not be treated as a complete measure of your professional value.</p>
-<h1>What an assessment cannot measure completely</h1>
-<p>A timed assessment cannot fully show:</p>
+<p>وهي ليست تصنيفًا دائمًا.</p>
+<p>الدرجة المنخفضة لا تعني:</p>
 <ul>
-<li>how you collaborate for months;</li>
-<li>how quickly you learn an internal system;</li>
-<li>how you mentor teammates;</li>
-<li>how you build trust;</li>
-<li>how you handle long-term ownership;</li>
-<li>how you communicate with customers;</li>
-<li>how you improve after feedback;</li>
-<li>how you operate with full business context.</li>
+<li>أنك لست مطورًا؛</li>
+<li>أنك غير قادر على التعلم؛</li>
+<li>أنك لن يتم توظيفك أبدًا؛</li>
+<li>أن خبرتك السابقة لا قيمة لها؛</li>
+<li>أنك تفتقر إلى الإمكانات المهنية.</li>
 </ul>
-<p>That is why hiring processes may also include:</p>
+<p>الدرجة العالية لا تضمن:</p>
 <ul>
-<li>interviews;</li>
-<li>project discussions;</li>
-<li>work samples;</li>
-<li>references;</li>
-<li>team conversations;</li>
-<li>role-specific exercises.</li>
+<li>إجراء مقابلة؛</li>
+<li>الحصول على عرض عمل؛</li>
+<li>بلوغ مستوى معين؛</li>
+<li>إتقانًا تامًا؛</li>
+<li>توافقًا تامًا مع الدور.</li>
 </ul>
-<p>The assessment is one source of evidence.</p>
-<h1>How scoring should be interpreted</h1>
-<p>Your result reflects your performance:</p>
-<ul>
-<li>on that assessment;</li>
-<li>with those questions;</li>
-<li>under those conditions;</li>
-<li>during that attempt.</li>
-</ul>
-<p>It is not a permanent label.</p>
-<p>A lower score does not mean:</p>
-<ul>
-<li>you are not a developer;</li>
-<li>you cannot learn;</li>
-<li>you will never get hired;</li>
-<li>your previous experience is meaningless;</li>
-<li>you have no professional potential.</li>
-</ul>
-<p>A higher score does not guarantee:</p>
-<ul>
-<li>an interview;</li>
-<li>an offer;</li>
-<li>a particular level;</li>
-<li>complete mastery;</li>
-<li>perfect alignment with the role.</li>
-</ul>
-<p>The result should be combined with broader evidence.</p>
-<h1>What happens when you submit</h1>
-<p>When you are ready:</p>
+<p>ينبغي دمج النتيجة مع أدلة أوسع نطاقاً.</p>
+<h1>ماذا يحدث عند الإرسال</h1>
+<p>عندما تكون مستعداً:</p>
 <ol>
-<li>Review the unanswered or flagged questions.</li>
-<li>Confirm that your intended selections are present.</li>
-<li>Submit the assessment.</li>
-<li>Wait for the completion confirmation.</li>
-<li>Read the next-step information shown.</li>
+<li>راجع الأسئلة التي لم تُجب عليها أو التي تم وضع علامة عليها.</li>
+<li>تأكد من وجود الاختيارات التي تريدها.</li>
+<li>أرسل التقييم.</li>
+<li>انتظر تأكيد إتمام العملية.</li>
+<li>اقرأ المعلومات المعروضة حول الخطوة التالية.</li>
 </ol>
-<p>After successful submission, the active attempt is complete.</p>
-<p>You should not need to keep the browser page open indefinitely.</p>
-<h1>Some responses may require human review</h1>
-<p>Many questions can be scored automatically.</p>
-<p>Others, such as written explanations, may need a person to evaluate them.</p>
-<p>When the assessment includes manual review, the complete result may not be available immediately.</p>
-<p>That is normal.</p>
-<p>The company may need time to:</p>
+<p>بعد الإرسال بنجاح, تكون المحاولة الحالية قد اكتملت.</p>
+<p>لا داعي لإبقاء صفحة المتصفح مفتوحة إلى أجل غير مسمى.</p>
+<h1>قد تتطلب بعض الإجابات مراجعة بشرية</h1>
+<p>يمكن تقييم العديد من الأسئلة تلقائيًا.</p>
+<p>أما الأسئلة الأخرى, مثل التفسيرات المكتوبة, فقد تحتاج إلى شخص لتقييمها.</p>
+<p>عندما يتضمن التقييم مراجعة يدوية, قد لا تتوفر النتيجة الكاملة على الفور.</p>
+<p>وهذا أمر طبيعي.</p>
+<p>قد تحتاج الشركة إلى وقت من أجل:</p>
 <ul>
-<li>review written responses;</li>
-<li>compare candidates;</li>
-<li>complete other assessments;</li>
-<li>schedule the next interview stage;</li>
-<li>discuss results internally.</li>
+<li>مراجعة الإجابات المكتوبة؛</li>
+<li>مقارنة المرشحين؛</li>
+<li>إكمال التقييمات الأخرى؛</li>
+<li>تحديد موعد لمرحلة المقابلة التالية؛</li>
+<li>مناقشة النتائج داخليًّا.</li>
 </ul>
-<h1>Will you see your score?</h1>
-<p>Candidate result visibility can depend on the company’s assessment settings.</p>
-<p>The company may choose to share:</p>
+<h1>هل سترى درجتك؟</h1>
+<p>قد يعتمد إطلاع المرشح على النتائج على إعدادات التقييم الخاصة بالشركة.</p>
+<p>قد تختار الشركة مشاركة:</p>
 <ul>
-<li>a full result;</li>
-<li>section scores;</li>
-<li>an overall score;</li>
-<li>a limited summary;</li>
-<li>a completion confirmation only;</li>
-<li>results later during the hiring process.</li>
+<li>النتيجة الكاملة؛</li>
+<li>درجات الأقسام؛</li>
+<li>الدرجة الإجمالية؛</li>
+<li>ملخص محدود؛</li>
+<li>تأكيد إتمام الاختبار فقط؛</li>
+<li>النتائج لاحقًا خلال عملية التوظيف.</li>
 </ul>
-<p>No immediate score does not necessarily mean your submission failed.</p>
-<p>Read the completion screen and follow the company’s communication timeline.</p>
-<h1>Claiming a free JobsList.dev profile</h1>
-<p>After submitting, you may be offered the option to claim a free JobsList.dev candidate profile.</p>
-<p>This is optional.</p>
-<p>You can complete the invited assessment without committing to an ongoing account.</p>
-<p>When you claim a profile, you may be able to connect your result with a reusable professional presence on JobsList.dev.</p>
-<h1>Why claim your profile?</h1>
-<p>A profile can help you:</p>
+<p>عدم ظهور النتيجة على الفور لا يعني بالضرورة أن تقديمك قد فشل.</p>
+<p>اقرأ شاشة إتمام الاختبار واتبع الجدول الزمني للاتصالات الخاص بالشركة.</p>
+<h1>الحصول على ملف تعريف مجاني على JobsList.dev</h1>
+<p>بعد الإرسال, قد يُعرض عليك خيار الحصول على ملف تعريف مجاني للمرشح على JobsList.dev.</p>
+<p>هذا الأمر اختياري.</p>
+<p>يمكنك إكمال التقييم الذي تمت دعوتك إليه دون الحاجة إلى إنشاء حساب دائم.</p>
+<p>عندما تقوم بتسجيل ملكية ملفك الشخصي, قد تتمكن من ربط نتيجتك بحضور مهني قابل لإعادة الاستخدام على JobsList.dev.</p>
+<h1>لماذا تسجل ملكية ملفك الشخصي؟</h1>
+<p>يمكن أن يساعدك الملف الشخصي في:</p>
 <ul>
-<li>preserve your assessment result;</li>
-<li>add your work experience;</li>
-<li>showcase projects;</li>
-<li>list technical skills;</li>
-<li>state role preferences;</li>
-<li>add a résumé;</li>
-<li>connect GitHub or portfolio links;</li>
-<li>apply for other roles;</li>
-<li>carry demonstrated skills beyond one company invitation.</li>
+<li>الاحتفاظ بنتيجة تقييمك؛</li>
+<li>إضافة خبرتك العملية؛</li>
+<li>عرض مشاريعك؛</li>
+<li>سرد مهاراتك التقنية؛</li>
+<li>تحديد تفضيلاتك الوظيفية؛</li>
+<li>إضافة سيرة ذاتية؛</li>
+<li>ربط روابط GitHub أو محفظة الأعمال؛</li>
+<li>التقدم لوظائف أخرى؛</li>
+<li>نقل المهارات التي أثبتتها إلى ما وراء دعوة شركة واحدة.</li>
 </ul>
-<p>In many hiring systems, assessment work remains trapped inside one employer’s process.</p>
-<p>A claimed profile can make that effort more useful to you.</p>
-<h1>What to add to your profile</h1>
-<p>When you claim a profile, complete enough information for companies to understand your professional direction.</p>
-<p>Add:</p>
+<p>في العديد من أنظمة التوظيف, تظل نتائج التقييم محصورة داخل عملية صاحب عمل واحد.</p>
+<p>يمكن للملف الشخصي الذي تمت المطالبة به أن يجعل هذا الجهد أكثر فائدة لك.</p>
+<h1>ما الذي يجب إضافته إلى ملفك الشخصي</h1>
+<p>عندما تطالب بملف شخصي, أكمل معلومات كافية حتى تتمكن الشركات من فهم توجهك المهني.</p>
+<p>أضف:</p>
 <ul>
-<li>a clear headline;</li>
-<li>a concise summary;</li>
-<li>employment history;</li>
-<li>relevant skills;</li>
-<li>projects;</li>
-<li>GitHub or portfolio links;</li>
-<li>location;</li>
-<li>remote or hybrid preferences;</li>
-<li>target roles;</li>
-<li>availability;</li>
-<li>work-authorization information where appropriate.</li>
+<li>عنوانًا واضحًا؛</li>
+<li>ملخصًا موجزًا؛</li>
+<li>تاريخك الوظيفي؛</li>
+<li>المهارات ذات الصلة؛</li>
+<li>المشاريع؛</li>
+<li>روابط GitHub أو محفظة أعمالك؛</li>
+<li>الموقع؛</li>
+<li>تفضيلات العمل عن بُعد أو الهجين؛</li>
+<li>الوظائف المستهدفة؛</li>
+<li>توفر الوقت؛</li>
+<li>معلومات تصريح العمل عند الاقتضاء.</li>
 </ul>
-<h1>Profile headline examples</h1>
+<h1>أمثلة على عناوين الملفات الشخصية</h1>
 <blockquote>
-<p>Backend Engineer · Go, PostgreSQL, APIs, reliability</p>
+<p>مهندس الباكيند · Go, PostgreSQL, واجهات برمجة التطبيقات (APIs), الموثوقية</p>
 </blockquote>
 <blockquote>
-<p>Frontend Developer · React, TypeScript, accessibility</p>
+<p>مطور واجهة المستخدم · React, TypeScript, إمكانية الوصول</p>
 </blockquote>
 <blockquote>
-<p>Junior Full-Stack Developer · Node.js, React, PostgreSQL</p>
+<p>مطور متكامل مبتدئ · Node.js, React, PostgreSQL</p>
 </blockquote>
 <blockquote>
-<p>Data Engineer · SQL, Python, pipelines, data quality</p>
+<p>مهندس بيانات · SQL, Python, مسارات البيانات, جودة البيانات</p>
 </blockquote>
 <blockquote>
-<p>DevOps Engineer · AWS, Terraform, CI/CD, observability</p>
+<p>مهندس DevOps · AWS, Terraform, CI/CD, قابلية المراقبة</p>
 </blockquote>
-<p>A headline should help employers understand what kind of work you are prepared to do.</p>
-<h1>Use your assessment strengths in interview preparation</h1>
-<p>When section results are available, prepare stories related to your strongest areas.</p>
-<p>For example:</p>
+<p>يجب أن يساعد العنوان أرباب العمل على فهم نوع العمل الذي أنت مستعد للقيام به.</p>
+<h1>استفد من نقاط قوتك في التقييم عند التحضير للمقابلة</h1>
+<p>عندما تتوفر نتائج الأقسام, قم بإعداد أمثلة تتعلق بمجالات قوتك.</p>
+<p>على سبيل المثال:</p>
 <ul>
-<li>Strong debugging result: prepare a production incident story.</li>
-<li>Strong database result: prepare a schema or performance example.</li>
-<li>Strong accessibility result: prepare an interface improvement story.</li>
-<li>Strong system-design result: prepare an architecture decision.</li>
-<li>Strong testing result: prepare an example of risk-based test design.</li>
-<li>Strong management judgment: prepare a feedback or prioritization example.</li>
+<li>نتيجة قوية في تصحيح الأخطاء: قم بإعداد مثال لحادثة وقعت في بيئة الإنتاج.</li>
+<li>نتيجة قوية في قواعد البيانات: قم بإعداد مثال على مخطط قاعدة البيانات أو الأداء.</li>
+<li>نتيجة قوية في إمكانية الوصول: قم بإعداد مثال على تحسين الواجهة.</li>
+<li>نتيجة قوية في تصميم النظم: قم بإعداد مثال على قرار متعلق بالبنية.</li>
+<li>نتيجة قوية في الاختبار: قم بإعداد مثال لتصميم اختبار قائم على المخاطر.</li>
+<li>نتيجة قوية في التقدير الإداري: قم بإعداد مثال على التغذية الراجعة أو تحديد الأولويات.</li>
 </ul>
-<p>The assessment can help you decide what evidence to emphasize next.</p>
-<h1>Use weaker areas as a learning map</h1>
-<p>A weaker section can provide a focused study direction.</p>
-<p>Instead of deciding that you must improve everything, identify one or two specific gaps.</p>
-<p>Examples:</p>
+<p>يمكن أن يساعدك التقييم في تحديد الأدلة التي يجب التركيز عليها بعد ذلك.</p>
+<h1>استخدم المجالات الأضعف كخريطة للتعلم</h1>
+<p>يمكن أن يوفر القسم الأضعف اتجاهًا محددًا للدراسة.</p>
+<p>بدلاً من اتخاذ قرار بضرورة تحسين كل شيء, حدد فجوة أو فجوتين محددتين.</p>
+<p>أمثلة:</p>
 <ul>
-<li>SQL indexing;</li>
-<li>asynchronous JavaScript;</li>
-<li>API authorization;</li>
-<li>queue delivery semantics;</li>
-<li>accessibility;</li>
-<li>testing;</li>
-<li>system design;</li>
-<li>network fundamentals;</li>
-<li>deployment safety.</li>
+<li>فهرسة SQL؛</li>
+<li>جافا سكريبت غير متزامن؛</li>
+<li>تفويض واجهة برمجة التطبيقات (API)؛</li>
+<li>دلالات تسليم قائمة الانتظار؛</li>
+<li>إمكانية الوصول؛</li>
+<li>الاختبار؛</li>
+<li>تصميم النظام؛</li>
+<li>أساسيات الشبكة؛</li>
+<li>أمان النشر.</li>
 </ul>
-<p>Build or practice something involving the weak area.</p>
-<p>That is more useful than collecting unrelated certificates.</p>
-<h1>What if you believe something went wrong?</h1>
-<p>Contact the appropriate support route when:</p>
+<p>قم ببناء أو ممارسة شيء يتعلق بالمجال الضعيف.</p>
+<p>هذا أكثر فائدة من جمع شهادات غير ذات صلة.</p>
+<h1>ماذا لو اعتقدت أن شيئًا ما قد حدث خطأً؟</h1>
+<p>اتصل بقناة الدعم المناسبة في الحالات التالية:</p>
 <ul>
-<li>the assessment did not submit;</li>
-<li>the invitation link does not work;</li>
-<li>saved answers are missing;</li>
-<li>the timer appears incorrect;</li>
-<li>you cannot resume after an interruption;</li>
-<li>the profile claim process fails;</li>
-<li>you encounter an accessibility barrier;</li>
-<li>a question appears technically broken;</li>
-<li>the result page does not load.</li>
+<li>لم يتم إرسال التقييم؛</li>
+<li>رابط الدعوة لا يعمل؛</li>
+<li>الإجابات المحفوظة مفقودة؛</li>
+<li>يبدو أن مؤقت الوقت غير صحيح؛</li>
+<li>لا يمكنك استئناف التقييم بعد انقطاع؛</li>
+<li>فشل عملية المطالبة بالملف الشخصي؛</li>
+<li>واجهت عائقًا في إمكانية الوصول؛</li>
+<li>يبدو أن أحد الأسئلة معطل تقنيًّا؛</li>
+<li>لا يتم تحميل صفحة النتائج.</li>
 </ul>
-<p>Include:</p>
+<p>يرجى تضمين:</p>
 <ul>
-<li>your name;</li>
-<li>assessment name;</li>
-<li>company;</li>
-<li>date and approximate time;</li>
-<li>a concise description;</li>
-<li>a screenshot when helpful.</li>
+<li>اسمك؛</li>
+<li>اسم التقييم؛</li>
+<li>اسم الشركة؛</li>
+<li>التاريخ والوقت التقريبي؛</li>
+<li>وصف موجز؛</li>
+<li>لقطة شاشة إذا كان ذلك مفيدًا.</li>
 </ul>
-<p>Do not send passwords or private security codes.</p>
-<h1>Following up with the company</h1>
-<p>When the company gave a response date, wait until it passes.</p>
-<p>When no timeline was provided, a polite follow-up after approximately five to seven business days is reasonable.</p>
-<p>Example:</p>
+<p>لا ترسل كلمات مرور أو رموز أمان خاصة.</p>
+<h1>المتابعة مع الشركة</h1>
+<p>عندما تحدد الشركة موعدًا للرد, انتظر حتى يمر هذا الموعد.</p>
+<p>في حالة عدم تحديد جدول زمني, من المعقول إجراء متابعة مهذبة بعد حوالي خمسة إلى سبعة أيام عمل.</p>
+<p>مثال:</p>
 <blockquote>
-<p>Hi [Name],</p>
-<p>I completed the [Assessment Name] assessment on [date] and received confirmation that it was submitted successfully. I remain interested in the [Role Title] opportunity and wanted to ask whether you can share the expected timeline for the next step.</p>
-<p>Thank you,
-[Your Name]</p>
+<p>مرحبًا [الاسم],</p>
+<p>لقد أكملت تقييم [اسم التقييم] في [التاريخ] وتلقيت تأكيدًا بأنه تم إرساله بنجاح. ما زلت مهتمًا بفرصة [مسمى الوظيفة] وأود أن أسأل عما إذا كان بإمكانك مشاركتي الجدول الزمني المتوقع للخطوة التالية.</p>
+<p>شكرًا لك,
+[اسمك]</p>
 </blockquote>
-<p>Send one concise message.</p>
-<p>Continue with the rest of your job search while waiting.</p>
-<h1>Do not stop applying</h1>
-<p>Completing an assessment is progress, but it is still one application.</p>
-<p>Continue:</p>
+<p>أرسل رسالة واحدة موجزة.</p>
+<p>استمر في بقية عملية البحث عن وظيفة أثناء الانتظار.</p>
+<h1>لا تتوقف عن التقدم للوظائف</h1>
+<p>إن إكمال التقييم يعد تقدمًا, لكنه يظل مجرد طلب توظيف واحد.</p>
+<p>استمر في:</p>
 <ul>
-<li>applying to aligned roles;</li>
-<li>updating your résumé;</li>
-<li>preparing interview stories;</li>
-<li>improving projects;</li>
-<li>building your profile;</li>
-<li>contacting your network;</li>
-<li>practicing weaker skills.</li>
+<li>التقدم للوظائف ذات الصلة؛</li>
+<li>تحديث سيرتك الذاتية؛</li>
+<li>إعداد قصص للمقابلات؛</li>
+<li>تحسين مشاريعك؛</li>
+<li>بناء ملفك الشخصي؛</li>
+<li>التواصل مع شبكة معارفك؛</li>
+<li>ممارسة المهارات التي تحتاج إلى تحسين.</li>
 </ul>
-<p>Keeping multiple opportunities active reduces the pressure you place on any one result.</p>
-<h1>Common assessment mistakes</h1>
-<h1>Starting without reading the instructions</h1>
-<p>You may miss important information about time, tools, or submission.</p>
-<h1>Spending too long on one question</h1>
-<p>Protect enough time to complete the broader assessment.</p>
-<h1>Searching for tricks</h1>
-<p>Focus on the stated scenario and constraints.</p>
-<h1>Choosing the most complex answer</h1>
-<p>The most elaborate architecture is not always the most appropriate one.</p>
-<h1>Ignoring failure paths</h1>
-<p>Consider timeouts, invalid input, duplicate events, missing permissions, and unavailable dependencies when relevant.</p>
-<h1>Leaving answers blank unnecessarily</h1>
-<p>When there is no negative marking and you can make a reasoned choice, submit your best answer.</p>
-<h1>Failing to review</h1>
-<p>Reserve a small amount of time to revisit skipped or uncertain questions.</p>
-<h1>Violating resource rules</h1>
-<p>Use only the tools permitted by the assessment instructions.</p>
-<h1>Submitting answers you cannot explain</h1>
-<p>The company may discuss your reasoning later.</p>
-<h1>Closing before confirmation</h1>
-<p>Wait until the platform confirms successful submission.</p>
-<h1>Panicking after a technical interruption</h1>
-<p>Reopen the link and contact support when necessary.</p>
-<h1>Treating one score as your identity</h1>
-<p>Use the result as evidence and feedback, not as a verdict.</p>
-<h1>A practical assessment-day plan</h1>
-<h1>Thirty minutes before</h1>
+<p>الحفاظ على فرص متعددة قيد النظر يقلل من الضغط الذي تضعه على أي نتيجة واحدة.</p>
+<h1>الأخطاء الشائعة في التقييم</h1>
+<h1>البدء دون قراءة التعليمات</h1>
+<p>قد تفوتك معلومات مهمة تتعلق بالوقت أو الأدوات أو طريقة التسليم.</p>
+<h1>قضاء وقت طويل جدًا في سؤال واحد</h1>
+<p>احتفظ بوقت كافٍ لإكمال التقييم بأكمله.</p>
+<h1>البحث عن حيل</h1>
+<p>ركز على السيناريو والقيود المحددة.</p>
+<h1>اختيار الإجابة الأكثر تعقيدًا</h1>
+<p>ليست البنية الأكثر تفصيلًا هي دائمًا الأنسب.</p>
+<h1>تجاهل مسارات الفشل</h1>
+<p>ضع في اعتبارك حالات انتهاء المهلة, والمدخلات غير الصالحة, والأحداث المكررة, والأذونات المفقودة, والتبعيات غير المتاحة عند الاقتضاء.</p>
+<h1>ترك الإجابات فارغة دون داعٍ</h1>
+<p>عندما لا يكون هناك خصم من الدرجات ويمكنك اتخاذ خيار منطقي, قم بتقديم أفضل إجابة لديك.</p>
+<h1>عدم المراجعة</h1>
+<p>خصص وقتًا قصيرًا لإعادة النظر في الأسئلة التي تخطيتها أو التي تشعر بعدم اليقين بشأنها.</p>
+<h1>مخالفة قواعد استخدام الموارد</h1>
+<p>استخدم فقط الأدوات المسموح بها في تعليمات التقييم.</p>
+<h1>إرسال إجابات لا يمكنك تبريرها</h1>
+<p>قد تناقش الشركة منطقك لاحقًا.</p>
+<h1>إغلاق النافذة قبل التأكيد</h1>
+<p>انتظر حتى تؤكد المنصة نجاح الإرسال.</p>
+<h1>الذعر بعد حدوث انقطاع تقني</h1>
+<p>أعد فتح الرابط واتصل بدعم المستخدم عند الضرورة.</p>
+<h1>اعتبار النتيجة الواحدة هوية لك</h1>
+<p>استخدم النتيجة كدليل وردود فعل, وليس كحكم نهائي.</p>
+<h1>خطة عملية ليوم الاختبار</h1>
+<h1>قبل ثلاثين دقيقة</h1>
 <ul>
-<li>Confirm your device is charged.</li>
-<li>Check the deadline.</li>
-<li>Review permitted tools.</li>
-<li>Close unrelated applications.</li>
-<li>Silence notifications.</li>
-<li>Prepare water.</li>
-<li>Use the restroom.</li>
-<li>Open the invitation.</li>
+<li>تأكد من أن جهازك مشحون.</li>
+<li>تحقق من الموعد النهائي.</li>
+<li>راجع الأدوات المسموح بها.</li>
+<li>أغلق التطبيقات غير ذات الصلة.</li>
+<li>قم بكتم الإشعارات.</li>
+<li>جهز الماء.</li>
+<li>اذهب إلى الحمام.</li>
+<li>افتح الدعوة.</li>
 </ul>
-<h1>At the start</h1>
+<h1>في البداية</h1>
 <ul>
-<li>Read all instructions.</li>
-<li>Confirm the time limit.</li>
-<li>Check navigation controls.</li>
-<li>Identify the question formats.</li>
-<li>Begin steadily rather than rushing.</li>
+<li>اقرأ جميع التعليمات.</li>
+<li>تأكد من المدة المحددة.</li>
+<li>تحقق من أدوات التنقل.</li>
+<li>تعرف على أشكال الأسئلة.</li>
+<li>ابدأ بثبات بدلاً من التسرع.</li>
 </ul>
-<h1>During the assessment</h1>
+<h1>أثناء الاختبار</h1>
 <ul>
-<li>Read each question fully.</li>
-<li>Identify the key constraint.</li>
-<li>Answer clear questions efficiently.</li>
-<li>Skip temporarily when stuck.</li>
-<li>Monitor time occasionally.</li>
-<li>Trust autosave.</li>
-<li>Stay calm after interruptions.</li>
+<li>اقرأ كل سؤال بالكامل.</li>
+<li>حدد القيد الرئيسي.</li>
+<li>أجب على الأسئلة الواضحة بكفاءة.</li>
+<li>تخطّ السؤال مؤقتًا إذا واجهتك صعوبة.</li>
+<li>راقب الوقت من حين لآخر.</li>
+<li>ثق في ميزة الحفظ التلقائي.</li>
+<li>حافظ على هدوئك بعد أي مقاطعات.</li>
 </ul>
-<h1>Before submission</h1>
+<h1>قبل الإرسال</h1>
 <ul>
-<li>Review unanswered questions.</li>
-<li>Revisit difficult items.</li>
-<li>Confirm multiple-select responses.</li>
-<li>Proofread written answers.</li>
-<li>Submit only when ready.</li>
-<li>Wait for confirmation.</li>
+<li>راجع الأسئلة التي لم تجب عليها.</li>
+<li>أعد النظر في الأسئلة الصعبة.</li>
+<li>تأكد من الإجابات متعددة الاختيارات.</li>
+<li>راجع الإجابات المكتوبة.</li>
+<li>لا ترسل الإجابة إلا عندما تكون جاهزًا.</li>
+<li>انتظر حتى تظهر رسالة التأكيد.</li>
 </ul>
-<h1>After submission</h1>
+<h1>بعد الإرسال</h1>
 <ul>
-<li>Save the confirmation.</li>
-<li>Read next-step instructions.</li>
-<li>Claim a profile when useful.</li>
-<li>Record the date in your application tracker.</li>
-<li>Prepare for a possible follow-up interview.</li>
-<li>Continue applying.</li>
+<li>احفظ رسالة التأكيد.</li>
+<li>اقرأ تعليمات الخطوة التالية.</li>
+<li>قم بإنشاء ملف تعريفي إذا كان ذلك مفيدًا.</li>
+<li>سجل التاريخ في أداة تتبع طلبات التوظيف الخاصة بك.</li>
+<li>استعد لمقابلة متابعة محتملة.</li>
+<li>استمر في التقدم للوظائف.</li>
 </ul>
-<h1>Frequently asked questions</h1>
-<h1>Do I need a JobsList.dev account?</h1>
-<p>Not necessarily. You may be able to take an invited assessment through a one-time link without creating an account first.</p>
-<h1>Can I create an account afterward?</h1>
-<p>Yes, you may be offered the option to claim a free JobsList.dev profile after submission.</p>
-<h1>Do I have to claim a profile?</h1>
-<p>No. Claiming a profile is optional.</p>
-<h1>Can I go back to earlier questions?</h1>
-<p>Yes, you can navigate and revise answers before final submission.</p>
-<h1>Are my answers saved?</h1>
-<p>Your work is autosaved as you complete the assessment.</p>
-<h1>What if my internet connection fails?</h1>
-<p>Reopen the invitation link after reconnecting. Contact support when the assessment does not resume correctly.</p>
-<h1>Is there a time limit?</h1>
-<p>Assessments may have a defined time limit. The remaining time is visible so you can pace yourself.</p>
-<h1>Will the timer flash or make noise?</h1>
-<p>The timer is designed to provide information without unnecessarily dramatizing the countdown.</p>
-<h1>Is there negative marking?</h1>
-<p>No. Incorrect answers do not subtract additional points from other correct work.</p>
-<h1>Should I answer when I am unsure?</h1>
-<p>When you can make a reasoned choice, answering is generally more useful than leaving the question blank because there is no additional guessing penalty.</p>
-<h1>Can I change an answer?</h1>
-<p>Yes, until you submit.</p>
-<h1>Is my webcam used?</h1>
-<p>No.</p>
-<h1>Is my screen recorded?</h1>
-<p>No.</p>
-<h1>Is my microphone recorded?</h1>
-<p>No.</p>
-<h1>Is my face or eye movement analyzed?</h1>
-<p>No.</p>
-<h1>Do I need to install a lockdown browser?</h1>
-<p>No.</p>
-<h1>Does leaving the tab automatically fail me?</h1>
-<p>No. Limited browser-focus context is not an automatic failure or proof of wrongdoing.</p>
-<h1>Can I use documentation?</h1>
-<p>Follow the rules stated for your specific assessment.</p>
-<h1>Can I use AI?</h1>
-<p>Follow the assessment instructions. Submit only work you understand and can explain.</p>
-<h1>Will I see my score?</h1>
-<p>That can depend on the company’s result-sharing settings.</p>
-<h1>Does JobsList.dev decide whether I am hired?</h1>
-<p>No. The company makes its own hiring decision.</p>
-<h1>Is the assessment the only thing the company considers?</h1>
-<p>It should be one piece of broader evidence that may include your résumé, projects, interviews, and references.</p>
-<h1>Can I request an accommodation?</h1>
-<p>Use the company or support contact provided to request a reasonable accommodation before beginning when possible.</p>
-<h1>What if a question seems broken?</h1>
-<p>Document the issue and contact support through the route provided.</p>
-<h1>Do assessments cost candidates money?</h1>
-<p>Candidates should not need to pay to complete an invited JobsList.dev assessment or claim the offered free profile.</p>
-<h1>The mindset to bring with you</h1>
-<p>The assessment is not a performance of confidence.</p>
-<p>You are allowed to:</p>
+<h1>الأسئلة الشائعة</h1>
+<h1>هل أحتاج إلى حساب على JobsList.dev؟</h1>
+<p>ليس بالضرورة. قد تتمكن من إجراء تقييم بدعوة عبر رابط لمرة واحدة دون إنشاء حساب مسبقًا.</p>
+<h1>هل يمكنني إنشاء حساب لاحقًا؟</h1>
+<p>نعم, قد يُتاح لك خيار إنشاء ملف تعريف مجاني على JobsList.dev بعد الإرسال.</p>
+<h1>هل يجب عليّ إنشاء ملف تعريف؟</h1>
+<p>لا. إنشاء ملف تعريف أمر اختياري.</p>
+<h1>هل يمكنني العودة إلى الأسئلة السابقة؟</h1>
+<p>نعم, يمكنك التنقل بين الأسئلة ومراجعة إجاباتك قبل الإرسال النهائي.</p>
+<h1>هل يتم حفظ إجاباتي؟</h1>
+<p>يتم حفظ عملك تلقائيًا أثناء إكمال التقييم.</p>
+<h1>ماذا لو انقطع اتصالي بالإنترنت؟</h1>
+<p>أعد فتح رابط الدعوة بعد إعادة الاتصال. اتصل بفريق الدعم إذا لم يستأنف التقييم بشكل صحيح.</p>
+<h1>هل هناك حد زمني؟</h1>
+<p>قد يكون للتقييمات حد زمني محدد. يظهر الوقت المتبقي حتى تتمكن من تنظيم وتيرة إجابتك.</p>
+<h1>هل سيومض المؤقت أو يصدر صوتًا؟</h1>
+<p>صُمم المؤقت لتقديم المعلومات دون إضفاء طابع درامي غير ضروري على العد التنازلي.</p>
+<h1>هل هناك خصم من الدرجات؟</h1>
+<p>لا. الإجابات الخاطئة لا تؤدي إلى خصم نقاط إضافية من الإجابات الصحيحة الأخرى.</p>
+<h1>هل يجب أن أجيب عندما أكون غير متأكد؟</h1>
+<p>عندما يمكنك اتخاذ قرار منطقي, فإن الإجابة تكون عمومًا أكثر فائدة من ترك السؤال فارغًا, لأنه لا توجد عقوبة إضافية على التخمين.</p>
+<h1>هل يمكنني تغيير إجابة؟</h1>
+<p>نعم, حتى تقوم بالإرسال.</p>
+<h1>هل يتم استخدام كاميرا الويب الخاصة بي؟</h1>
+<p>لا.</p>
+<h1>هل يتم تسجيل شاشتي؟</h1>
+<p>لا.</p>
+<h1>هل يتم تسجيل الميكروفون الخاص بي؟</h1>
+<p>لا.</p>
+<h1>هل يتم تحليل حركات وجهي أو عيني؟</h1>
+<p>لا.</p>
+<h1>هل أحتاج إلى تثبيت متصفح مغلق؟</h1>
+<p>لا.</p>
+<h1>هل يؤدي ترك علامة التبويب إلى رسوبي تلقائيًا؟</h1>
+<p>لا. إن التركيز المحدود على المتصفح لا يُعد رسوبًا تلقائيًا أو دليلًا على ارتكاب مخالفة.</p>
+<h1>هل يمكنني استخدام الوثائق المرجعية؟</h1>
+<p>اتبع القواعد المحددة لتقييمك المحدد.</p>
+<h1>هل يمكنني استخدام الذكاء الاصطناعي؟</h1>
+<p>اتبع تعليمات التقييم. أرسل فقط العمل الذي تفهمه وتستطيع شرحه.</p>
+<h1>هل سأرى درجتي؟</h1>
+<p>قد يعتمد ذلك على إعدادات مشاركة النتائج الخاصة بالشركة.</p>
+<h1>هل تقرر JobsList.dev ما إذا كان سيتم تعييني أم لا؟</h1>
+<p>لا. الشركة هي التي تتخذ قرار التعيين بنفسها.</p>
+<h1>هل التقييم هو العامل الوحيد الذي تأخذه الشركة في الاعتبار؟</h1>
+<p>ينبغي أن يكون التقييم أحد العناصر ضمن مجموعة أوسع من الأدلة التي قد تشمل سيرتك الذاتية, والمشاريع التي قمت بها, والمقابلات, والتوصيات.</p>
+<h1>هل يمكنني طلب تسهيلات خاصة؟</h1>
+<p>استخدم بيانات الاتصال الخاصة بالشركة أو فريق الدعم المتوفرة لطلب تسهيلات معقولة قبل البدء, إن أمكن.</p>
+<h1>ماذا لو بدا أن أحد الأسئلة معطل؟</h1>
+<p>قم بتوثيق المشكلة واتصل بفريق الدعم عبر القناة المحددة.</p>
+<h1>هل تكلف التقييمات المرشحين أي أموال؟</h1>
+<p>لا ينبغي أن يضطر المرشحون إلى الدفع لإكمال تقييم JobsList.dev الذي تمت دعوتهم إليه أو للحصول على الملف الشخصي المجاني المعروض.</p>
+<h1>العقلية التي يجب أن تتحلى بها</h1>
+<p>التقييم ليس اختبارًا للثقة بالنفس.</p>
+<p>يُسمح لك بما يلي:</p>
 <ul>
-<li>pause and think;</li>
-<li>reconsider;</li>
-<li>return to a question;</li>
-<li>be uncertain;</li>
-<li>make a reasoned guess;</li>
-<li>recognize that two choices are plausible;</li>
-<li>choose the proportionate solution;</li>
-<li>admit through your answer that more information would be useful.</li>
+<li>التوقف والتفكير؛</li>
+<li>إعادة النظر؛</li>
+<li>العودة إلى سؤال ما؛</li>
+<li>الشعور بعدم اليقين؛</li>
+<li>التخمين المنطقي؛</li>
+<li>إدراك أن خيارين قد يكونان معقولين؛</li>
+<li>اختيار الحل المتناسب؛</li>
+<li>الاعتراف من خلال إجابتك بأن الحصول على مزيد من المعلومات سيكون مفيدًا.</li>
 </ul>
-<p>Good engineering is not instant certainty.</p>
-<p>It is disciplined reasoning under incomplete information.</p>
-<p>Focus on showing that process.</p>
-<h1>The takeaway</h1>
-<p>A JobsList.dev assessment is designed to give you a calm, skills-first opportunity to show what you can do.</p>
-<p>You can expect:</p>
+<p>الهندسة الجيدة ليست يقينًا فوريًا.</p>
+<p>إنها استدلال منضبط في ظل معلومات غير كاملة.</p>
+<p>ركز على إظهار تلك العملية.</p>
+<h1>النقطة الأساسية</h1>
+<p>تم تصميم تقييم JobsList.dev ليمنحك فرصة هادئة تركز على المهارات أولاً لإظهار ما يمكنك القيام به.</p>
+<p>يمكنك توقع ما يلي:</p>
 <ol>
-<li>A personal invitation link.</li>
-<li>No required account before starting.</li>
-<li>One focused question per screen.</li>
-<li>Freedom to navigate and revise answers.</li>
-<li>Automatic saving.</li>
-<li>Support for resuming after ordinary interruptions.</li>
-<li>A visible, calm timer.</li>
-<li>Role-relevant questions centered on understanding and judgment.</li>
-<li>No negative marking.</li>
-<li>No webcam, screen recording, microphone monitoring, biometric analysis, or lockdown browser.</li>
-<li>Human hiring judgment rather than an automatic employment verdict.</li>
-<li>An optional free profile you can claim after submission.</li>
+<li>رابط دعوة شخصي.</li>
+<li>لا يلزم إنشاء حساب قبل البدء.</li>
+<li>سؤال واحد محدد لكل شاشة.</li>
+<li>حرية التنقل بين الأسئلة ومراجعة الإجابات.</li>
+<li>الحفظ التلقائي.</li>
+<li>إمكانية استئناف الاختبار بعد الانقطاعات العادية.</li>
+<li>مؤقت مرئي وهادئ.</li>
+<li>أسئلة ذات صلة بالوظيفة تركز على الفهم والحكم.</li>
+<li>لا يوجد خصم من الدرجات.</li>
+<li>لا توجد كاميرا ويب, ولا تسجيل للشاشة, ولا مراقبة للميكروفون, ولا تحليل بيومتري, ولا متصفح مقفل.</li>
+<li>تقييم توظيفي بشري بدلاً من قرار توظيف آلي.</li>
+<li>ملف تعريفي مجاني اختياري يمكنك الحصول عليه بعد الإرسال.</li>
 </ol>
-<p>Prepare a comfortable workspace, read the instructions, pace yourself, and answer with your own best reasoning.</p>
-<p>You do not need to perform for a camera.</p>
-<p>You do not need to memorize every obscure technical detail.</p>
-<p>You do not need a famous employer or perfect résumé to demonstrate ability.</p>
-<p>Take the questions one at a time.</p>
-<p>Your work saves as you go.</p>
-<p>You can change your mind before submitting.</p>
-<p>Do your best, review your answers, and let your actual skills speak.</p>
-<p>You have got this.</p>
-<p><em>Invited to an assessment? Open your personal link when you are ready. After submitting, <a href="/auth/register?role=EMPLOYEE">claim your free JobsList.dev profile</a>, preserve your demonstrated skills, and keep moving toward the role that fits you.</em></p>
-5:["locale","ar","d"]
-6:["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"welcome-what-to-expect-from-a-jobslist-assessment\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","welcome-what-to-expect-from-a-jobslist-assessment","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Welcome: What to Expect from a JobsList Assessment\",\"description\":\"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work.\",\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Welcome: What to Expect from a JobsList Assessment","date":"2026-07-26T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":27,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Welcome: What to Expect from a JobsList Assessment | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","15",{"property":"og:description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Welcome: What to Expect from a JobsList Assessment"}],["$","meta","25",{"name":"twitter:description","content":"A complete candidate guide to JobsList.dev assessments: how invitations, timers, autosave, navigation, scoring, privacy, accessibility, technical interruptions, and optional profile claiming work."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p>جهز مساحة عمل مريحة, واقرأ التعليمات, واعمل بوتيرة تناسبك, وأجب بناءً على أفضل استنتاجاتك.</p>
+<p>لست بحاجة إلى التمثيل أمام الكاميرا.</p>
+<p>لست بحاجة إلى حفظ كل التفاصيل التقنية الغامضة.</p>
+<p>لست بحاجة إلى جهة عمل مشهورة أو سيرة ذاتية مثالية لإثبات قدراتك.</p>
+<p>أجب على الأسئلة واحدة تلو الأخرى.</p>
+<p>يتم حفظ عملك تلقائيًا أثناء الإجابة.</p>
+<p>يمكنك تغيير رأيك قبل الإرسال.</p>
+<p>ابذل قصارى جهدك, راجع إجاباتك, ودع مهاراتك الفعلية تتحدث عنك.</p>
+<p>أنت قادر على ذلك.</p>
+<p><em>هل تمت دعوتك لإجراء تقييم؟ افتح الرابط الشخصي الخاص بك عندما تكون مستعدًا. بعد الإرسال, <a href="/auth/register?role=EMPLOYEE">احصل على ملفك الشخصي المجاني على JobsList.dev</a>, واحتفظ بالمهارات التي أظهرتها, واستمر في السعي نحو الوظيفة التي تناسبك.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList\",\"description\":\"دليل شامل للمرشحين حول تقييمات JobsList.dev: كيفية عمل الدعوات, والمؤقتات, والحفظ التلقائي, والتنقل, والتقييم, والخصوصية, وإمكانية الوصول, والانقطاعات التقنية, وعملية المطابقة الاختيارية للملف الشخصي.\",\"image\":[\"https://jobslist.dev/images/blog/en/welcome-what-to-expect-from-a-jobslist-assessment.png\"],\"datePublished\":\"2026-07-26T00:00:00.000Z\",\"dateModified\":\"2026-07-26T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/welcome-what-to-expect-from-a-jobslist-assessment/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/images/blog/en/welcome-what-to-expect-from-a-jobslist-assessment.png","alt":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل شامل للمرشحين حول تقييمات JobsList.dev: كيفية عمل الدعوات, والمؤقتات, والحفظ التلقائي, والتنقل, والتقييم, والخصوصية, وإمكانية الوصول, والانقطاعات التقنية, وعملية المطابقة الاختيارية للملف الشخصي."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-26T00:00:00.000Z","children":"25 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[26," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","التقييمات",{"className":"badge-gray","children":"التقييمات"}],["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المرشحون",{"className":"badge-gray","children":"المرشحون"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","التوظيف التقني",{"className":"badge-gray","children":"التوظيف التقني"}],["$","span","تجربة المرشح",{"className":"badge-gray","children":"تجربة المرشح"}],["$","span","الخصوصية",{"className":"badge-gray","children":"الخصوصية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل شامل للمرشحين حول تقييمات JobsList.dev: كيفية عمل الدعوات, والمؤقتات, والحفظ التلقائي, والتنقل, والتقييم, والخصوصية, وإمكانية الوصول, والانقطاعات التقنية, وعملية المطابقة الاختيارية للملف الشخصي."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList"}],["$","meta","15",{"property":"og:description","content":"دليل شامل للمرشحين حول تقييمات JobsList.dev: كيفية عمل الدعوات, والمؤقتات, والحفظ التلقائي, والتنقل, والتقييم, والخصوصية, وإمكانية الوصول, والانقطاعات التقنية, وعملية المطابقة الاختيارية للملف الشخصي."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/welcome-what-to-expect-from-a-jobslist-assessment/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/welcome-what-to-expect-from-a-jobslist-assessment.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList — JobsList.dev Reading Room"}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-26T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList"}],["$","meta","27",{"name":"twitter:description","content":"دليل شامل للمرشحين حول تقييمات JobsList.dev: كيفية عمل الدعوات, والمؤقتات, والحفظ التلقائي, والتنقل, والتقييم, والخصوصية, وإمكانية الوصول, والانقطاعات التقنية, وعملية المطابقة الاختيارية للملف الشخصي."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/welcome-what-to-expect-from-a-jobslist-assessment.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"مرحبًا بكم: ما الذي يمكن توقعه من تقييم JobsList — JobsList.dev Reading Room"}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

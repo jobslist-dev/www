@@ -1,51 +1,568 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T1411,<p>لقد حصلت على العرض — تهانينا. الآن لا تترك أي مال على الطاولة. قد يبدو التفاوض مزعجًا، لكنه أمر متوقع، ومنخفض المخاطر عند القيام به بشكل جيد، ومحادثة واحدة قد تساوي آلاف الدولارات سنويًا تتراكم على مدى مسيرتك المهنية. إليك كيفية القيام بذلك دون تعريض العرض للخطر.</p>
-<h2>أولًا: الشركات تتوقع منك أن تتفاوض</h2>
-<p>نادرًا ما يؤدي التفاوض المحترم إلى خسارة العرض — فأصحاب العمل يتركون هامشًا، والطلب المهذب يدل على الثقة. الخطر ليس في أن تطلب، بل في أن تطلب بطريقة سيئة (الإنذارات النهائية، أو المبالغات الوهمية، أو الصمت التام). تعامل معه بوصفه محادثة تعاونية، لا معركة.</p>
-<h2>اعرف رقمك قبل أن تتحدث</h2>
-<p>ادخل وأنت مطّلع:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","negotiating-your-tech-salary","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","negotiating-your-tech-salary","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"negotiating-your-tech-salary\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","negotiating-your-tech-salary","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T9ddc,<p>لقد تلقيت العرض. تهانينا.
+والآن يأتي الجزء الذي يجده العديد من المرشحين أكثر إجهادًا من المقابلات: اتخاذ قرار بشأن التفاوض من عدمه.
+لا يجب أن يكون التفاوض الجيد تصادميًا أو تلاعبياً أو مطولاً. يمكن أن يكون محادثة قصيرة ومهنية حول مواءمة العرض مع الوظيفة, وخبرتك, والسوق, والقيمة التي تتوقع أن تساهم بها.
+إذا تم التعامل مع هذه المحادثة بشكل جيد, يمكنها تحسين راتبك الأساسي, ومكافأة التوقيع, وحصتك في الأسهم, والإجازات المدفوعة الأجر, وشروط العمل عن بُعد, واللقب الوظيفي, أو مراجعة التعويضات المستقبلية. ويمكن أن تتراكم هذه المكاسب عبر الزيادات المستقبلية في الراتب وتغييرات الوظائف.
+الهدف ليس استخراج كل دولار ممكن من الشركة. الهدف هو التوصل إلى اتفاق يشعر كلا الطرفين بالرضا تجاهه قبل بدء علاقة العمل.</p>
+<h2>عادةً ما تتوقع الشركات إجراء بعض المفاوضات</h2>
+<p>يتوقع العديد من أصحاب العمل أن يطرح المرشحون أسئلة أو يطلبوا تعديلات بعد تلقي العرض. قد يكون لدى فرق المكافآت رقم مستهدف, ونطاق معتمد, وبعض السلطة التقديرية ضمن هذا النطاق.
+الطلب الذي يُقدَّم باحترام لا يُعبِّر عادةً عن عدم الاهتمام. بل غالبًا ما يُظهر أنك:</p>
 <ul>
-<li><strong>ابحث في السوق</strong> بالنسبة للدور والمستوى والموقع (وأعراف العمل عن بُعد). استخدم بيانات الرواتب، والزملاء في المجال، وأي نطاقات معلنة بشفافية.</li>
-<li>حدّد ثلاثة أرقام: <strong>الحد الأدنى الذي لا تقبل بأقل منه</strong>، و<strong>هدفًا واقعيًا</strong>، وطلبًا <strong>طموحًا لكن قابلًا للدفاع عنه</strong> تبدأ به.</li>
-<li>ضع في حسبانك <strong>إجمالي التعويضات</strong>، لا الراتب الأساسي فقط — الأسهم، والمكافأة، والمزايا، والإجازة المدفوعة (PTO).</li>
+<li>تفهم السوق؛</li>
+<li>تأخذ مسيرتك المهنية على محمل الجد؛</li>
+<li>قادر على الدفاع عن نفسك؛</li>
+<li>تتواصل بشكل احترافي؛</li>
+<li>تقيِّم الفرص بعناية.
+تصبح المفاوضات محفوفة بالمخاطر عندما يلجأ المرشحون إلى التهديدات, أو الادعاءات غير الصادقة, أو المطالب غير المبررة, أو الإنذارات النهائية غير الواقعية.
+قارن بين هذين النهجين:</li>
 </ul>
-<h2>دع الطرف الآخر يذكر رقمًا أولًا متى أمكن</h2>
-<p>إذا سُئلت عن توقعاتك مبكرًا، فلا بأس أن تتجنب الإجابة بلباقة: &quot;أودّ أن أعرف المزيد عن الدور ونطاقه أولًا — ما النطاق المخصص في الميزانية لهذا المنصب؟&quot;. وإذا أُلحّ عليك، فقدّم نطاقًا مبنيًا على بحثك مع وضع هدفك قرب حدّه الأدنى. الارتكاز على بيانات متينة يحميك من بخس نفسك حقها.</p>
-<h2>قدّم طلبك بوضوح</h2>
-<p>عندما يصل العرض:</p>
+<blockquote>
+<p>«أحتاج إلى 20,000 دولار إضافية وإلا سأرحل.»
+و:
+«أنا متحمس حقًا لهذا المنصب. وبناءً على نطاق العمل وخبرتي وسوق الوظائف المماثلة, كنت آمل أن نتمكن من مناقشة راتب أساسي أقرب إلى 165,000 دولار. هل هناك مرونة في هذا الشأن؟»
+النهج الثاني واضح دون أن يكون عدوانيًّا. فهو يقدم لصاحب العمل طلبًا ملموسًا ومجالًا للرد.</p>
+</blockquote>
+<h2>لا تتفاوض قبل أن تفهم الفرصة</h2>
+<p>تحتاج إلى أكثر من مجرد لقب وظيفي قبل أن تتمكن من تقييم الأجر بشكل صحيح.
+قد يُتوقع من «مهندس برمجيات أول» ما يلي:</p>
 <ul>
-<li><strong>عبّر عن حماس صادق أولًا</strong> — &quot;أنا متحمس لهذا؛ يسعدني أن أجعله ينجح&quot;.</li>
-<li><strong>ارتكز على رقم محدد ومبرَّر</strong>: &quot;بناءً على خبرتي في X وبيانات السوق لهذا المستوى، كنت أستهدف $Y&quot;.</li>
-<li>ثم <strong>توقّف عن الكلام</strong> ودعهم يردّون. لا بأس بالصمت.</li>
+<li>تولي مسؤولية مجال تطبيق محدد؛</li>
+<li>قيادة القرارات المعمارية الرئيسية؛</li>
+<li>توجيه عدد من المهندسين؛</li>
+<li>المشاركة في نظام المناوبة؛</li>
+<li>إدارة حوادث الإنتاج؛</li>
+<li>العمل عبر فرق متعددة؛</li>
+<li>دعم عمليات التنفيذ الموجهة للعملاء؛</li>
+<li>التأثير على استراتيجية التوظيف والاستراتيجية التقنية.
+هذه وظائف مختلفة تمامًا على الرغم من أنها تحمل نفس المسمى الوظيفي.
+قبل مناقشة الأجر النهائي, أوضح ما يلي:</li>
+<li>المستوى والهيكل الإداري؛</li>
+<li>المسؤوليات المتوقعة؛</li>
+<li>حجم الفريق ودرجة خبرته؛</li>
+<li>مسؤوليات الإدارة أو التوجيه؛</li>
+<li>التوقعات المتعلقة بنظام المناوبة؛</li>
+<li>متطلبات السفر؛</li>
+<li>متطلبات العمل عن بُعد أو الهجين أو في المكتب؛</li>
+<li>توقعات الأداء؛</li>
+<li>معايير الترقية؛</li>
+<li>مرحلة نمو الشركة ووضعها المالي؛</li>
+<li>ما إذا كان المنصب جديدًا أم بديلاً.
+كلما زادت المسؤولية التي تتوقع الشركة منك تحملها, كلما كان أساسك أقوى لطلب أجر يعكس ذلك.</li>
 </ul>
-<h2>تفاوض على الحزمة كاملةً</h2>
-<p>إذا كان الراتب الأساسي محدودًا بسقف، فغالبًا ما توجد مرونة في جوانب أخرى:</p>
+<h2>ابحث في السوق قبل تحديد الرقم</h2>
+<p>لا تبني طلبك على أساس راتبك الحالي أو ما تأمل شخصياً أن تكسبه. بل ابني طلبك على أساس القيمة السوقية للمنصب.
+تشمل المدخلات المفيدة ما يلي:</p>
 <ul>
-<li><strong>مكافأة توقيع</strong> لسدّ فجوة ما.</li>
-<li><strong>الأسهم</strong> (افهم جدول الاستحقاق وقيمتها الحقيقية).</li>
-<li><strong>تاريخ المباشرة، والإجازة المدفوعة (PTO)، ومرونة العمل عن بُعد، وميزانية التعلّم، والمسمى الوظيفي.</strong></li>
-<li><strong>مراجعة بعد 6 أشهر</strong> مع مسار محدد للزيادة.</li>
+<li>نطاق الراتب المنشور مع الوظيفة؛</li>
+<li>بيانات الأجور للوظائف والمستويات المماثلة؛</li>
+<li>العروض التي أبلغ عنها زملاء موثوق بهم؛</li>
+<li>شركات التوظيف التي تفهم السوق ذات الصلة؛</li>
+<li>معلومات الرواتب الخاصة بالموقع الجغرافي؛</li>
+<li>سياسات الأجر الخاصة بالعمل عن بُعد؛</li>
+<li>مرحلة تطور الشركة وتمويلها؛</li>
+<li>القطاع؛</li>
+<li>حجم الشركة؛</li>
+<li>التخصص التقني المطلوب؛</li>
+<li>المسؤوليات الإدارية؛</li>
+<li>ندرة مجموعة المهارات المطلوبة.
+قد يحصل مهندس البايندج الذي يعمل على أنظمة الأعمال الداخلية على أجر يختلف عن أجر مهندس البايندج الذي يبني بنية تحتية مالية واسعة النطاق, حتى لو كان كلاهما يستخدم لغات برمجة مشابهة.
+قد تزيد الخبرة المتخصصة من قدرتك التفاوضية. ومن الأمثلة على ذلك:</li>
+<li>الأنظمة الموزعة؛</li>
+<li>هندسة الأمن؛</li>
+<li>البنية التحتية للتعلم الآلي؛</li>
+<li>آليات عمل قواعد البيانات؛</li>
+<li>الأنظمة ذات زمن الاستجابة المنخفض؛</li>
+<li>هندسة المنصات السحابية؛</li>
+<li>أنظمة الرعاية الصحية أو الأنظمة المالية الخاضعة للتنظيم؛</li>
+<li>عمليات الترحيل واسعة النطاق؛</li>
+<li>القيادة الهندسية؛</li>
+<li>الخبرة في لغات البرمجة أو المنصات التي يصعب العثور على خبراء فيها.
+استخدم عدة مصادر بدلاً من الاعتماد على موقع واحد متخصص في الرواتب. فقد تكون بيانات الأجور قديمة, أو مبنية على تقارير ذاتية, أو تستند إلى عينات صغيرة, أو غير متسقة بشأن ما إذا كانت تشمل المكافآت والأسهم.</li>
 </ul>
-<p>سؤال &quot;هل هناك مرونة بشأن…؟&quot; أسلوب تعاوني وكثيرًا ما ينجح.</p>
-<h2>احصل عليه كتابةً، وكن لبقًا</h2>
+<h2>حدد أرقامك الثلاثة</h2>
+<p>قبل محادثة العرض, حدد ثلاث نقاط تتعلق بالأجر.</p>
+<h3>1. الرقم الذي لن تقبل أقل منه</h3>
+<p>هذا هو الحد الأدنى الإجمالي للحزمة التي قد تقبلها بشكل واقعي.
+وينبغي أن يأخذ في الاعتبار:</p>
 <ul>
-<li>بمجرد أن تتفقا، اطلب <strong>العرض المحدَّث كتابةً</strong> قبل أن تقدّم استقالتك في أي مكان.</li>
-<li>مهما كانت النتيجة، حافظ على تعامل <strong>ودّي ومهني</strong> — فستعمل مع هؤلاء الأشخاص.</li>
-<li>لا تخادع بعروض منافِسة وهمية؛ وإن كان لديك عرض حقيقي، فيمكنك ذكره بصدق.</li>
+<li>راتبك الحالي؛</li>
+<li>المزايا التي قد تفقدها؛</li>
+<li>تكاليف التنقل أو الانتقال؛</li>
+<li>زيادة عبء العمل؛</li>
+<li>انخفاض المرونة؛</li>
+<li>استقرار الوظيفة؛</li>
+<li>مخاطر الأسهم؛</li>
+<li>تكاليف التأمين الصحي؛</li>
+<li>الاعتبارات العائلية؛</li>
+<li>الفرص الأخرى المتاحة لك.
+لا تكشف عن هذا الرقم بشكل عابر. فهو في المقام الأول أداة اتخاذ قرار بالنسبة لك.</li>
 </ul>
-<h2>الخلاصة</h2>
-<p>التفاوض أمر متوقع ونادرًا ما يكلّفك العرض عندما تكون متحمسًا ومطّلعًا ومحددًا. اعرف أرقامك، ودع الطرف الآخر يرتكز على رقم متى أمكن، وقدّم طلبك بوضوح مرتكزًا على رقم مبرَّر، وتفاوض على الحزمة كاملةً — ثم احصل عليه كتابةً. محادثة قصيرة واحدة قد تؤتي ثمارها لسنوات.</p>
-<p><em>اعثر على العرض الذي يستحق التفاوض — <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا مجانيًا على JobsList.dev</a> وتقدّم مباشرةً إلى الشركات.</em></p>
-5:["locale","ar","d"]
-6:["slug","negotiating-your-tech-salary","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","negotiating-your-tech-salary","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"negotiating-your-tech-salary\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","negotiating-your-tech-salary","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف تتفاوض على راتبك في مجال التقنية (دون أن تخسر العرض)\",\"description\":\"للباحثين عن عمل: دليل عملي ومريح للتفاوض على راتبك وعرضك الوظيفي في مجال التقنية — ماذا تقول، ومتى، وما الذي تطلبه إلى جانب الراتب الأساسي.\",\"datePublished\":\"2026-02-26T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"كيف تتفاوض على راتبك في مجال التقنية (دون أن تخسر العرض)","date":"2026-02-26T00:00:00.000Z","author":"فريق JobsList.dev","readingTime":2,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف تتفاوض على راتبك في مجال التقنية (دون أن تخسر العرض) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"للباحثين عن عمل: دليل عملي ومريح للتفاوض على راتبك وعرضك الوظيفي في مجال التقنية — ماذا تقول، ومتى، وما الذي تطلبه إلى جانب الراتب الأساسي."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف تتفاوض على راتبك في مجال التقنية (دون أن تخسر العرض)"}],["$","meta","15",{"property":"og:description","content":"للباحثين عن عمل: دليل عملي ومريح للتفاوض على راتبك وعرضك الوظيفي في مجال التقنية — ماذا تقول، ومتى، وما الذي تطلبه إلى جانب الراتب الأساسي."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-02-26T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"كيف تتفاوض على راتبك في مجال التقنية (دون أن تخسر العرض)"}],["$","meta","25",{"name":"twitter:description","content":"للباحثين عن عمل: دليل عملي ومريح للتفاوض على راتبك وعرضك الوظيفي في مجال التقنية — ماذا تقول، ومتى، وما الذي تطلبه إلى جانب الراتب الأساسي."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h3>2. هدفك</h3>
+<p>هذه هي الحزمة التي تعتقد أنها تعكس الدور بشكل عادل وتجعلك تشعر بالراحة عند قبولها.
+يجب أن يكون هدفك مدعومًا بالأدلة, وليس مجرد طموح.</p>
+<h3>3. طلبك الافتتاحي</h3>
+<p>يجب أن يكون هذا المبلغ أعلى من هدفك ولكنه لا يزال معقولًا وقابلًا للدفاع عنه.
+تحتاج إلى مساحة تسمح للشركة بالتحرك دون أن ينخفض اتفاقك النهائي عن ما تريده فعليًا.
+على سبيل المثال:</p>
+<ul>
+<li>الراتب الأساسي الذي لا يمكنك التنازل عنه: 145,000 دولار؛</li>
+<li>الراتب الأساسي المستهدف: 160,000 دولار؛</li>
+<li>الطلب الافتتاحي: 168,000 دولار.
+يعتمد التباعد المناسب على النطاق المعلن, والشركة, والوظيفة, وقوتك التفاوضية. قد يجعلك الطلب الافتتاحي الذي يتجاوز النطاق المعتمد بكثير تبدو منفصلاً عن السوق.</li>
+</ul>
+<h2>قم بتقييم إجمالي التعويضات, وليس الراتب الأساسي فقط</h2>
+<p>قد يتضمن عرض العمل في مجال التكنولوجيا عدة مكونات:</p>
+<ul>
+<li>الراتب الأساسي؛</li>
+<li>المكافأة النقدية السنوية؛</li>
+<li>العمولة؛</li>
+<li>مكافأة التوقيع؛</li>
+<li>الأسهم؛</li>
+<li>اشتراكات التقاعد؛</li>
+<li>المزايا الصحية؛</li>
+<li>الإجازة المدفوعة الأجر؛</li>
+<li>دعم العمل عن بُعد؛</li>
+<li>ميزانية التعلم؛</li>
+<li>مساعدة الانتقال؛</li>
+<li>حماية تعويضات إنهاء الخدمة؛</li>
+<li>إجازة الأبوة/الأمومة المدفوعة الأجر؛</li>
+<li>بدل المعدات.
+عادةً ما يكون الراتب الأساسي الأعلى أكثر قيمة من مكافأة لمرة واحدة مكافئة له, لأن الزيادات المستقبلية في الراتب والمكافآت وعروض العمل قد تتأثر براتبك المتكرر. ومع ذلك, قد تظل مكافأة التوقيع مفيدة عندما لا تستطيع الشركة تغيير الراتب الأساسي.
+قم بإجراء مقارنة بسيطة بين المكافآت في السنة الأولى والمكافآت المتكررة.</li>
+</ul>
+<h3>مثال</h3>
+<p><strong>العرض أ</strong></p>
+<ul>
+<li>الراتب الأساسي: 155,000 دولار</li>
+<li>الهدف السنوي للمكافأة: 10%</li>
+<li>مكافأة التوقيع: 10,000 دولار</li>
+<li>القيمة التقديرية السنوية للأسهم: 20,000 دولار
+المكافأة التقريبية للسنة الأولى:
+<code>155,000 دولار + 15,500 دولار + 10,000 دولار + 20,000 دولار = 200,500 دولار</code>
+المكافأة السنوية المتكررة التقريبية قبل منح الأسهم المستقبلية:
+<code>155,000 دولار + 15,500 دولار + 20,000 دولار = 190,500 دولار</code>
+لا تعامل المكونات غير المؤكدة على أنها مضمونة. فقد لا يتم دفع المكافأة المستهدفة بالكامل, وقد تصبح أسهم الشركة الخاصة في النهاية بلا قيمة.</li>
+</ul>
+<h2>دع الشركة تكشف عن نطاق الأجور عند الإمكان</h2>
+<p>غالبًا ما يُسأل المرشحون عن توقعاتهم بشأن الراتب في مرحلة مبكرة من العملية.
+يمكنك الرد دون الالتزام مسبقًا:</p>
+<blockquote>
+<p>«أود أن أفهم المستوى والنطاق والحزمة الإجمالية قبل تحديد رقم معين. ما هو نطاق الأجر الذي تمت الموافقة عليه لهذا المنصب؟»
+خيار آخر:
+«أنا مرن حسب المسؤوليات والحزمة الإجمالية. هل يمكنك مشاركة النطاق المخصص في الميزانية حتى أتمكن من التأكد من توافق توقعاتنا؟»
+إذا كان صاحب العمل قد نشر نطاقًا بالفعل, فاسأل عن كيفية تأثير التصنيف الوظيفي على تحديد المرتبة ضمن هذا النطاق:
+«لقد رأيت النطاق الأساسي المنشور الذي يتراوح بين 145,000 و180,000 دولار. كيف تحدد الشركة المرتبة التي يقع فيها المرشح ضمن هذا النطاق؟»
+إذا كان عليك تقديم رقم, فاذكر نطاقًا مستندًا إلى بحث بدلاً من حد أدنى غير مدعوم:
+«بناءً على وظائف مماثلة في مناصب عليا في مجال المنصات ونطاق المهام الذي ناقشناه, فإنني أستهدف راتبًا أساسيًا في نطاق يتراوح بين 165,000 و180,000 دولار, اعتمادًا على الأسهم والمكافآت وبقية حزمة المزايا.»
+توخى الحذر عند ذكر نطاقات واسعة. فقد يركز أصحاب العمل على الحد الأدنى. لا تذكر حدًا أدنى لن تكون راضيًا بقبوله.</p>
+</blockquote>
+<h2>انتظر العرض المكتوب</h2>
+<p>عادةً ما تكون أقوى موقف تفاوضي لك هو بعد أن تقرر الشركة أنها تريد توظيفك, ولكن قبل أن تقبل العرض.
+اطلب الحصول على العرض الكامل كتابةً, بما في ذلك:</p>
+<ul>
+<li>المسمى الوظيفي؛</li>
+<li>المستوى الوظيفي؛</li>
+<li>الراتب الأساسي؛</li>
+<li>هيكل المكافآت؛</li>
+<li>تفاصيل الأسهم؛</li>
+<li>المزايا؛</li>
+<li>تاريخ البدء؛</li>
+<li>توقعات مكان العمل؛</li>
+<li>الشروط الطارئة؛</li>
+<li>تاريخ انتهاء الصلاحية.
+يُعد الملخص الشفهي مفيدًا, لكنك تحتاج إلى الحزمة الكاملة قبل تقييمها.
+لا تستقِل من وظيفتك الحالية بناءً على عرض شفهي فقط.</li>
+</ul>
+<h2>اطلب وقتًا للمراجعة</h2>
+<p>لست بحاجة إلى الرد فورًا.
+قد يكون الرد المهني كما يلي:</p>
+<blockquote>
+<p>«شكرًا لك. أنا متحمس لهذه الفرصة وأقدر العرض. أود الحصول على بعض الوقت لمراجعة العرض الكامل بعناية. هل يمكنني الرد عليكم بحلول يوم الخميس؟&quot;
+عادةً ما يُعتبر منح بضعة أيام عمل أمرًا معقولًا, على الرغم من أن الجداول الزمنية قد تختلف. إذا كانت الشركة تتطلب قرارًا أسرع, فاسأل عما إذا كان من الممكن تمديد الموعد النهائي.
+تجنب استخدام التأخير كتكتيك دون غرض. حدد المعلومات التي تحتاجها, وقم بتقييم العرض, وردّ على الفور.</p>
+</blockquote>
+<h2>قم ببناء حجة تجارية لدعم طلبك</h2>
+<p>تستند أقوى المفاوضات إلى الأدلة والأهمية.
+قد تشمل مبرراتك ما يلي:</p>
+<ul>
+<li>خبرة مرتبطة مباشرة باحتياجات الشركة؛</li>
+<li>مسؤوليات قيادية؛</li>
+<li>سجل حافل في تحقيق نتائج قابلة للقياس؛</li>
+<li>خبرة تقنية متخصصة؛</li>
+<li>نطاق الدور المقترح؛</li>
+<li>المكافآت السائدة في السوق لهذا المستوى الوظيفي؛</li>
+<li>العروض المنافسة؛</li>
+<li>المكافآت التي ستتنازل عنها؛</li>
+<li>توافق قوي بشكل غير عادي مع المتطلبات الصعبة.
+استخدم النتائج حيثما أمكن.
+بدلاً من:</li>
+</ul>
+<blockquote>
+<p>«أنا مهندس ذو خبرة كبيرة.»
+قل:
+«في منصبي الحالي, قمت بقيادة عملية ترحيل خدمة ذات حركة مرور عالية, مما أدى إلى خفض تكاليف البنية التحتية بنسبة 28% وتحسين موثوقية النشر. ونظرًا لأن هذا المنصب يتضمن مسؤولية مماثلة عن المنصة, كنت آمل أن نتمكن من رفع الراتب الأساسي ليقترب من 170,000 دولار.»
+عادةً ما يكون راتبك السابق حجة أضعف من القيمة السوقية للمنصب الجديد. فالشركة توظفك لما يمكنك تقديمه في المستقبل, ولا تكتفي بمكافأتك بناءً على ما دفعه صاحب عمل آخر.</p>
+</blockquote>
+<h2>قدم طلبًا واحدًا واضحًا ومحدد الأولويات</h2>
+<p>لا ترسل قائمة من عشرة مطالب غير مترابطة.
+حدد أهم تغيير أو تغييرين واعبر عنهما بوضوح.
+نص قوي:</p>
+<blockquote>
+<p>&quot; أنا متحمس للفريق وأود إنجاح هذا العمل. بعد مراجعة العرض ونطاق الوظيفة, كنت آمل في الحصول على راتب أساسي قدره 170,000 دولار. وهذا يعكس ملكية المنصة, ومسؤولية التواجد عند الطلب, وخبرتي في قيادة أنظمة مماثلة. هل هناك مرونة لتقريب الراتب الأساسي من هذا الرقم؟&quot;
+ثم توقف.
+لا داعي لملء الصمت. امنح مسؤول التوظيف أو مدير التعيين الوقت للرد.</p>
+</blockquote>
+<h2>استخدم لغة تعاونية</h2>
+<p>من العبارات المفيدة ما يلي:</p>
+<ul>
+<li>«هل هناك مرونة بشأن الراتب الأساسي؟»</li>
+<li>«هل يمكننا مناقشة مكافأة التوقيع؟»</li>
+<li>«ما هي الخيارات المتاحة لدينا لسد الفجوة؟»</li>
+<li>«هل سينظر الفريق في منح أسهم إضافية؟»</li>
+<li>«هل يمكننا توثيق مراجعة مبكرة للمكافآت؟»</li>
+<li>«ما مدى المرونة المتاحة ضمن المستوى المعتمد؟»</li>
+<li>«ما هو أسهل شيء يمكن للشركة تعديله؟»
+هذا يضع المفاوضات في إطار مشكلة يمكن للطرفين حلها.</li>
+</ul>
+<h2>تفاوض على أكثر من الراتب</h2>
+<p>عندما لا يمكن تغيير الراتب الأساسي, قد تظل الشروط الأخرى مرنة.</p>
+<h3>مكافأة التوقيع</h3>
+<p>يمكن أن تساعد مكافأة التوقيع في تعويض:</p>
+<ul>
+<li>المكافأة السنوية المفقودة؛</li>
+<li>الأسهم غير المكتسبة؛</li>
+<li>تكاليف الانتقال؛</li>
+<li>فجوة الراتب الأساسي؛</li>
+<li>تأخير تاريخ بدء العمل؛</li>
+<li>المزايا المفقودة خلال فترة الانتقال.
+يمكنك أن تقول:</li>
+</ul>
+<blockquote>
+<p>«إذا كان الراتب الأساسي ثابتًا, فهل تنظر الشركة في منح مكافأة توقيع بقيمة 15,000 دولار للمساعدة في سد الفجوة؟»
+تأكد مما إذا كان يجب سداد المكافأة في حالة مغادرتك خلال فترة معينة.</p>
+</blockquote>
+<h3>الأسهم</h3>
+<p>يمكن أن تكون الأسهم ذات قيمة كبيرة, لكنها تتطلب تقييمًا دقيقًا.
+بالنسبة للشركة العامة, اسأل عن:</p>
+<ul>
+<li>قيمة المنحة؛</li>
+<li>عدد الأسهم أو الوحدات؛</li>
+<li>جدول الاستحقاق؛</li>
+<li>تاريخ المنح؛</li>
+<li>المنح المجددة؛</li>
+<li>افتراضات سعر السهم.
+بالنسبة للشركة الخاصة, اسأل عن:</li>
+<li>عدد الخيارات أو الأسهم؛</li>
+<li>نسبة الملكية على أساس التخفيف الكامل؛</li>
+<li>سعر التنفيذ؛</li>
+<li>أحدث سعر للسهم الممتاز؛</li>
+<li>أحدث تقييم؛</li>
+<li>جدول الاستحقاق؛</li>
+<li>فترة ممارسة الحق بعد المغادرة؛</li>
+<li>التخفيف؛</li>
+<li>آفاق السيولة؛</li>
+<li>ما إذا كانت الشركة تقدم برامج العطاءات.
+لا تقم بتقييم حقوق الملكية في الشركات الخاصة بمجرد ضرب عدد الخيارات في أحدث سعر للسهم الممتاز. فالضرائب, وسعر التنفيذ, والتخفيف, وأفضليات التصفية, وغياب حدث سيولة يمكن أن تغير النتيجة بشكل جذري.
+تعامل مع حقوق الملكية على أنها جزء محتمل القيمة ولكنه غير مؤكد من المكافأة — وليست أموالاً نقدية مضمونة.</li>
+</ul>
+<h3>المكافأة</h3>
+<p>اسأل:</p>
+<ul>
+<li>هل المكافأة مضمونة أم تقديرية؟</li>
+<li>ما هي النسبة المئوية المستهدفة؟</li>
+<li>ما هو معدل الدفع التاريخي؟</li>
+<li>هل تعتمد على الأداء الشخصي أم أداء الفريق أم أداء الشركة؟</li>
+<li>هل يتم احتسابها بالتناسب للموظفين الجدد؟</li>
+<li>متى يتم دفعها؟</li>
+<li>هل يجب أن تكون لا تزال موظفًا في تاريخ الدفع؟</li>
+</ul>
+<h3>الإجازة المدفوعة الأجر</h3>
+<p>قد تتمكن من التفاوض بشأن:</p>
+<ul>
+<li>أيام إجازة إضافية؛</li>
+<li>احتساب الخبرة السابقة؛</li>
+<li>رحلة مخطط لها مسبقًا؛</li>
+<li>تاريخ أهلية مبكر.
+احصل على الاستثناءات كتابةً.</li>
+</ul>
+<h3>شروط العمل عن بُعد والعمل المختلط</h3>
+<p>تأكد من توضيح:</p>
+<ul>
+<li>أيام الحضور الإلزامي إلى المكتب؛</li>
+<li>ما إذا كانت السياسة تعاقدية أم تقديرية؛</li>
+<li>مكان العمل المعتمد؛</li>
+<li>القيود المفروضة على العمل من ولاية أو دولة أخرى؛</li>
+<li>توقعات السفر؛</li>
+<li>تعويض تكاليف المعدات أو مساحات العمل المشتركة؛</li>
+<li>ما إذا كانت المكافأة ستتغير في حالة انتقالك إلى مكان آخر.
+قد لا يستمر الوعد الشفهي بالمرونة في حالة تغيير الإدارة أو السياسة. اطلب توثيق الترتيبات المهمة.</li>
+</ul>
+<h3>المسمى الوظيفي والمستوى</h3>
+<p>يمكن أن يؤثر المسمى الوظيفي على:</p>
+<ul>
+<li>نطاق العمل الداخلي؛</li>
+<li>الترقية المستقبلية؛</li>
+<li>شرائح الأسهم؛</li>
+<li>أهداف المكافآت؛</li>
+<li>بحثك عن وظيفة جديدة.
+لا تسعَ وراء مسمى وظيفي لا يصاحبه سلطة أو تعويض. اسأل عن كيفية تعريف الشركة للمستوى وما هي التوقعات المرتبطة به.</li>
+</ul>
+<h3>تاريخ البدء</h3>
+<p>قد يساعدك تاريخ البدء المتأخر على:</p>
+<ul>
+<li>الحصول على مكافأة معلقة؛</li>
+<li>اكتساب حقوق ملكية إضافية في الأسهم؛</li>
+<li>إكمال مشروع؛</li>
+<li>الانتقال إلى مكان جديد؛</li>
+<li>أخذ إجازة بين الوظائف.</li>
+</ul>
+<h3>تقييم الأداء المبكر</h3>
+<p>إذا قالت الشركة إنها لا تستطيع تلبية هدفك لأنها تحتاج إلى رؤية أدائك أولاً, فاطلب تحديد موعد مكتوب لتقييم الأداء:</p>
+<blockquote>
+<p>«هل ستكون الشركة على استعداد لتحديد موعد لإجراء تقييم رسمي للأجر بعد ستة أشهر, بناءً على أهداف الأداء المتفق عليها؟»
+حاول تحديد:</p>
+</blockquote>
+<ul>
+<li>تاريخ التقييم؛</li>
+<li>من سيقوم به؛</li>
+<li>الأهداف القابلة للقياس؛</li>
+<li>التعديلات التي يمكن إجراؤها.
+الوعد الغامض بـ«إعادة النظر لاحقًا» يختلف عن الالتزام المكتوب بإجراء المراجعة.</li>
+</ul>
+<h3>تعويضات إنهاء الخدمة</h3>
+<p>بالنسبة للوظائف التنفيذية أو عالية المخاطر أو في الشركات الناشئة, قد تتمكن من مناقشة شروط تعويضات إنهاء الخدمة. وقد يكون هذا مهمًا بشكل خاص إذا كنت تترك منصبًا مستقرًا من أجل شركة ذات تمويل غير مؤكد.</p>
+<h2>فكر في نقاط قوتك بصدق</h2>
+<p>قد تنبع نقاط قوتك من:</p>
+<ul>
+<li>عرض عمل مكتوب آخر؛</li>
+<li>خبرة نادرة أو متخصصة؛</li>
+<li>وظيفة يصعب شغلها؛</li>
+<li>أداء قوي في المقابلة؛</li>
+<li>خبرة مباشرة في التعامل مع مشكلة الشركة؛</li>
+<li>إلحاحية التعيين؛</li>
+<li>الاستعداد للانسحاب؛</li>
+<li>ضغط شخصي منخفض يدفعك لقبول العرض بسرعة.
+النفوذ لا يتطلب العدوانية. إنه يعني أن لديك بدائل موثوقة أو توافقًا قويًّا بشكل غير عادي.
+لا تختلق عروضًا منافسة. الخداع قد يضر بالثقة وقد ينهار إذا طلبت الشركة جدولًا زمنيًّا لاتخاذ القرار.
+إذا كان لديك عرض منافس حقيقي, يمكنك أن تقول:</li>
+</ul>
+<blockquote>
+<p>«أود أن أكون صريحًا وأقول إنني أفكر في عرض آخر مع موعد نهائي لاتخاذ القرار يوم الجمعة. لا يزال JobsList.dev خيارًا جذابًا بشكل خاص بسبب الفريق ونطاق المنتج. هل هناك أي إمكانية لإعادة النظر في الراتب الأساسي قبل ذلك الموعد؟»
+لا تحتاج عادةً إلى الكشف عن اسم الشركة الأخرى.</p>
+</blockquote>
+<h2>قرر ما إذا كنت ستتفاوض عبر البريد الإلكتروني أو الهاتف</h2>
+<p>كلا الخيارين يمكن أن ينجح.</p>
+<h3>مزايا البريد الإلكتروني</h3>
+<ul>
+<li>يمكنك اختيار كلماتك بعناية.</li>
+<li>يتم توثيق الطلب.</li>
+<li>تتجنب الرد بشكل عاطفي.</li>
+<li>يمكن لمسؤول التوظيف إعادة توجيه الطلب داخليًّا.</li>
+</ul>
+<h3>مزايا الهاتف</h3>
+<ul>
+<li>من الأسهل إيصال نبرة الصوت.</li>
+<li>يمكن حل الأسئلة بسرعة.</li>
+<li>قد تبدو المحادثة أكثر تعاونًا.</li>
+<li>يمكنك معرفة ما هو مرن فعليًّا.
+من الأساليب المفيدة تحديد موعد لمكالمة هاتفية, ومناقشة الطلب, ثم تأكيد التغييرات المتفق عليها عبر البريد الإلكتروني.</li>
+</ul>
+<h2>نموذج لرسالة تفاوض عبر البريد الإلكتروني</h2>
+<pre><code class="language-النص">الموضوع: عرض JobsList.dev
+مرحبًا [الاسم],
+شكرًا لك مرة أخرى على العرض. أنا متحمس حقًّا لفرصة الانضمام إلى الفريق والمساهمة في [منتج معين, أو مهمة, أو تحدٍ].
+بعد مراجعة نطاق المهام وحزمة المكافآت, أود مناقشة الراتب الأساسي. استنادًا إلى مستوى المسؤولية المتوقع في هذا المنصب, وخبرتي في [الخبرة ذات الصلة], والمكافآت الممنوحة للوظائف المماثلة, كنت أستهدف راتبًا أساسيًا يقترب من 170,000 دولار.
+هل هناك مرونة لرفع الراتب الأساسي إلى هذا المستوى؟
+ما زلت متحمسًا جدًّا لهذا المنصب وأقدر اهتمامكم.
+مع أطيب التحيات,
+[اسمك]
+</code></pre>
+<h2>نموذج نص مكالمة هاتفية</h2>
+<blockquote>
+<p>«شكرًا لك مرة أخرى على العرض. أنا متحمس لهذا المنصب والفريق. لقد راجعت حزمة المكافآت بعناية, وأود مناقشة الراتب الأساسي. نظرًا لنطاق المسؤولية وخبرتي في أنظمة المنصات واسعة النطاق, كنت أستهدف 170,000 دولار. هل هناك مرونة لتقريب الراتب الأساسي من هذا الرقم؟»
+إذا رفض مسؤول التوظيف:
+&quot;أتفهم ذلك. هل الراتب الأساسي ثابت تمامًا, أم أن هناك مجالًا للتعديل في أجزاء أخرى من حزمة المكافآت, مثل مكافأة التوقيع, أو أسهم إضافية, أو مراجعة مبكرة للمكافآت؟&quot;</p>
+</blockquote>
+<h2>ماذا تفعل عندما يسألون: &quot;هل ستقبل إذا استجبنا لهذا الرقم؟&quot;</h2>
+<p>لا تقدم وعدًا إلا إذا كان صحيحًا.
+رد آمن:</p>
+<blockquote>
+<p>«هذا التعديل سيحل المشكلة الرئيسية التي أواجهها بشأن حزمة المكافآت. ما زلت أرغب في مراجعة العرض المكتوب المحدث, لكنني أتوقع أن يضعنا ذلك في موقف قوي لإتمام الصفقة.»
+إذا كنت تعلم أنك ستقبل:
+«نعم. إذا تم تعديل الراتب الأساسي إلى 170,000 دولار وبقيت بقية الشروط كما هي, فسأكون مستعدًا للقبول بعد مراجعة العرض المكتوب المحدث.»</p>
+</blockquote>
+<h2>ماذا لو قالت الشركة إن العرض نهائي؟</h2>
+<p>العرض النهائي ليس بالضرورة عرضًا سيئًا.
+قم بتقييمه بناءً على:</p>
+<ul>
+<li>الحد الأدنى الذي لا يمكنك التنازل عنه؛</li>
+<li>جودة الوظيفة؛</li>
+<li>إمكانات النمو؛</li>
+<li>الفريق والمدير؛</li>
+<li>استقرار الشركة؛</li>
+<li>التوازن بين العمل والحياة الشخصية؛</li>
+<li>فرص التعلم؛</li>
+<li>البدائل المتاحة لك؛</li>
+<li>إجمالي التعويضات.
+يمكنك القبول بلباقة:</li>
+</ul>
+<blockquote>
+<p>«شكرًا على متابعتك. أتفهم القيود, وأقدر الشفافية. يسعدني المضي قدمًا في العرض كما هو معروض.»
+أو الرفض بأسلوب مهني:
+«شكرًا على العرض وعلى الوقت الذي استثمره الفريق في هذه العملية. بعد دراسة متأنية, قررت عدم المضي قدمًا لأن حزمة التعويضات لا تتوافق مع ما أحتاجه للانتقال إلى هذا المنصب. أكنّ احترامًا كبيرًا للفريق وأقدّر هذه الفرصة.»
+لا تستمر في الضغط بعد أن يكون صاحب العمل قد وصل بوضوح إلى الحد الأقصى الذي يمكنه تقديمه, ما لم تكن هناك معلومات جديدة تغير مجرى المناقشة بشكل جوهري.</p>
+</blockquote>
+<h2>علامات التحذير أثناء التفاوض</h2>
+<p>انتبه إلى سلوك الشركة.
+تشمل المخاوف المحتملة ما يلي:</p>
+<ul>
+<li>الضغط من أجل القبول الفوري؛</li>
+<li>رفض تقديم العرض الكامل كتابةً؛</li>
+<li>تغييرات غير مبررة في الشروط التي تمت مناقشتها سابقًا؛</li>
+<li>العداء تجاه الأسئلة المعقولة؛</li>
+<li>معلومات غامضة أو غير متسقة بشأن الأسهم؛</li>
+<li>وعود لا يمكن توثيقها؛</li>
+<li>لقب وظيفي لا يتناسب مع المسؤوليات؛</li>
+<li>قواعد غير واضحة بشأن المكافآت؛</li>
+<li>مقاومة لتوضيح توقعات العمل عن بُعد؛</li>
+<li>طلبات الاستقالة قبل استكمال الشروط المعلقة.
+يمكن لعملية التفاوض أن تكشف عن كيفية تواصل الشركة وتعاملها مع الفوارق في السلطة.</li>
+</ul>
+<h2>الأخطاء التي يجب تجنبها</h2>
+<h3>الاعتذار عن التفاوض</h3>
+<p>أنت لا تفعل شيئًا خاطئًا.
+تجنب أن تبدأ بقول:</p>
+<blockquote>
+<p>«آسف على طرح هذا السؤال, وأعلم أن هذا ربما يكون غير معقول...»
+كن مهذبًا, لكن لا تقلل من شأن طلبك قبل تقديمه.</p>
+</blockquote>
+<h3>إصدار إنذار نهائي لا تعنيه</h3>
+<p>لا تهدد أبدًا بالانسحاب ما لم تكن مستعدًا حقًّا للقيام بذلك.</p>
+<h3>تقديم حجة عاطفية</h3>
+<p>قد يكون الإيجار أو الديون أو نفقات الأسرة أو نمط الحياة الذي ترغب فيه أمورًا مهمة جدًّا بالنسبة لك, لكنها لا تحدد القيمة السوقية للمنصب.
+ركز على نطاق العمل, والخبرة, وبيانات السوق, والقيمة التي يمكنك تقديمها.</p>
+<h3>التفاوض على كل التفاصيل</h3>
+<p>قد يؤدي كثرة الطلبات إلى إضعاف أولوياتك الأكثر أهمية. ركز على التغييرات الأكثر أهمية.</p>
+<h3>القبول شفهيًا قبل التفاوض</h3>
+<p>بمجرد أن تقول إنك تقبل, فإن إعادة فتح موضوع التعويضات قد يضر بالثقة. اطرح الأسئلة وتفاوض قبل القبول رسميًا.</p>
+<h3>استخدام بيانات سوقية مزيفة</h3>
+<p>استخدم أدلة موثوقة. لا تذكر أرقام رواتب مشبوهة لمجرد أنها تدعم الرقم الذي تفضله.</p>
+<h3>تجاهل الضرائب وشروط السداد</h3>
+<p>قد يكون لمكافآت التوقيع, وممارسات حقوق الملكية, ومساعدات الانتقال, والمزايا الأخرى آثار ضريبية أو متعلقة بالسداد. راجع الوثائق ذات الصلة واطلب المشورة المهنية عند الحاجة.</p>
+<h3>الاستقالة في وقت مبكر جدًا</h3>
+<p>انتظر حتى:</p>
+<ul>
+<li>تحصل على العرض النهائي المكتوب؛</li>
+<li>تقبله؛</li>
+<li>يتم حل جميع الشروط أو الحالات الطارئة المطلوبة بشكل كافٍ؛</li>
+<li>يتم تأكيد تاريخ البدء.</li>
+</ul>
+<h2>راجع العرض النهائي المكتوب بعناية</h2>
+<p>قبل القبول, تأكد من أن الوثيقة تعكس كل التغييرات المتفق عليها.
+تحقق من:</p>
+<ul>
+<li>الاسم القانوني لصاحب العمل؛</li>
+<li>المسمى الوظيفي والمستوى الوظيفي؛</li>
+<li>المدير أو التسلسل الإداري؛</li>
+<li>الراتب الأساسي؛</li>
+<li>هدف المكافأة؛</li>
+<li>مكافأة التوقيع؛</li>
+<li>منحة الأسهم؛</li>
+<li>جدول الاستحقاق؛</li>
+<li>تاريخ البدء؛</li>
+<li>مكان العمل؛</li>
+<li>ترتيبات العمل عن بُعد؛</li>
+<li>إجازة مدفوعة الأجر (PTO)؛</li>
+<li>أهلية الحصول على المزايا؛</li>
+<li>الشروط الطارئة؛</li>
+<li>بنود السداد؛</li>
+<li>التزامات المراجعة؛</li>
+<li>تاريخ انتهاء صلاحية العرض.
+إذا كان هناك شيء مفقود, فاطلب توضيحًا قبل التوقيع.</li>
+</ul>
+<h2>إطار عمل بسيط لاتخاذ القرار</h2>
+<p>قم بتقييم الفرصة عبر عدة فئات:</p>
+<table>
+<thead>
+<tr>
+<th>الفئة</th>
+<th>الأسئلة التي يجب طرحها</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>المكافآت</td>
+<td>هل حزمة المكافآت المتكررة تنافسية؟</td>
+</tr>
+<tr>
+<td>نطاق الدور</td>
+<td>هل سأقوم بعمل ذي مغزى؟</td>
+</tr>
+<tr>
+<td>المدير</td>
+<td>هل سيساعدني هذا الشخص على التطور؟</td>
+</tr>
+<tr>
+<td>الفريق</td>
+<td>هل التوقعات والتعاون إيجابيان؟</td>
+</tr>
+<tr>
+<td>المنتج</td>
+<td>هل أؤمن بما تبنيه الشركة؟</td>
+</tr>
+<tr>
+<td>الاستقرار</td>
+<td>هل المنظمة سليمة ماليًا وتشغيليًّا؟</td>
+</tr>
+<tr>
+<td>المرونة</td>
+<td>هل نموذج العمل يتناسب مع حياتي؟</td>
+</tr>
+<tr>
+<td>النمو</td>
+<td>هل سيؤدي هذا إلى تحسين مهاراتي وفرصي المستقبلية؟</td>
+</tr>
+<tr>
+<td>المخاطر</td>
+<td>ما الذي يمكن أن يحدث من مشاكل بشكل واقعي؟</td>
+</tr>
+<tr>
+<td>البدائل</td>
+<td>هل هذا أفضل من البقاء أو اختيار عرض آخر؟</td>
+</tr>
+<tr>
+<td>لا تدع فارقًا بسيطًا في الراتب يصرف انتباهك عن المخاوف الجادة بشأن القيادة, أو الاستقرار, أو عبء العمل, أو جودة الدور الوظيفي. وبالمثل, لا تقلل من شأن فجوة كبيرة ومتكررة في الأجر لمجرد أنك تحب الفريق.</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2>النقطة الأساسية</h2>
+<p>عادةً ما تكون المفاوضات القوية بشأن الراتب هادئة, ومحددة, وقائمة على الأدلة, وموجزة.
+وتتمثل الخطوات الأساسية في:</p>
+<ol>
+<li>فهم الدور والمستوى الوظيفي.</li>
+<li>إجراء بحث عن السوق.</li>
+<li>تحديد الحد الأدنى الذي لا يمكنك التنازل عنه, والهدف, والطلب الأولي.</li>
+<li>مراجعة حزمة العرض الكاملة المكتوبة.</li>
+<li>إظهار الحماس.</li>
+<li>طلب التعديل الأكثر أهمية بوضوح.</li>
+<li>التفاوض على المكونات الأخرى إذا كان الراتب الأساسي محدودًا.</li>
+<li>تأكيد كل تغيير متفق عليه كتابةً.</li>
+<li>القبول أو الرفض بأسلوب مهني.
+لا داعي لأن تصبح مفاوضًا صارمًا. ما عليك سوى معرفة قيمة الفرصة المتاحة, والتعبير عن طلبك بوضوح, والبقاء مستعدًا لتقييم الرد بأمانة.
+يمكن لمحادثة مهنية واحدة أن تحسّن ليس فقط دخلك في السنة الأولى, بل أيضًا الزيادات المستقبلية في الراتب, وحسابات المكافآت, ومساهمات التقاعد, والمعيار الأساسي المستخدم في خطوتك المهنية التالية.
+<em>ابحث عن فرصة تستحق التفاوض بشأنها. <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًّا مهنيًّا مجانيًّا على JobsList.dev</a> وتقدم بطلبك مباشرةً إلى الشركات التي تبحث عن موظفين.</em></li>
+</ol>
+<pre><code>
+</code></pre>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض)\",\"description\":\"دليل عملي وخالي من التوتر للتفاوض على عرض عمل في مجال التكنولوجيا — يتضمن ما يجب البحث عنه, وما يجب قوله, وكيفية تقييم الأسهم, وما يجب أن تطلبه بالإضافة إلى الراتب الأساسي.\",\"image\":[\"https://jobslist.dev/images/blog/en/negotiating-your-tech-salary.png\"],\"datePublished\":\"2026-02-26T00:00:00.000Z\",\"dateModified\":\"2026-02-26T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/negotiating-your-tech-salary/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/images/blog/en/negotiating-your-tech-salary.png","alt":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض) — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي وخالي من التوتر للتفاوض على عرض عمل في مجال التكنولوجيا — يتضمن ما يجب البحث عنه, وما يجب قوله, وكيفية تقييم الأسهم, وما يجب أن تطلبه بالإضافة إلى الراتب الأساسي."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-02-26T00:00:00.000Z","children":"25 فبراير 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[18," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","التفاوض",{"className":"badge-gray","children":"التفاوض"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span","الراتب",{"className":"badge-gray","children":"الراتب"}],["$","span","الوظائف التقنية",{"className":"badge-gray","children":"الوظائف التقنية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي وخالي من التوتر للتفاوض على عرض عمل في مجال التكنولوجيا — يتضمن ما يجب البحث عنه, وما يجب قوله, وكيفية تقييم الأسهم, وما يجب أن تطلبه بالإضافة إلى الراتب الأساسي."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض)"}],["$","meta","15",{"property":"og:description","content":"دليل عملي وخالي من التوتر للتفاوض على عرض عمل في مجال التكنولوجيا — يتضمن ما يجب البحث عنه, وما يجب قوله, وكيفية تقييم الأسهم, وما يجب أن تطلبه بالإضافة إلى الراتب الأساسي."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/negotiating-your-tech-salary/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/negotiating-your-tech-salary.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض) — JobsList.dev Reading Room"}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-02-26T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض)"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي وخالي من التوتر للتفاوض على عرض عمل في مجال التكنولوجيا — يتضمن ما يجب البحث عنه, وما يجب قوله, وكيفية تقييم الأسهم, وما يجب أن تطلبه بالإضافة إلى الراتب الأساسي."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/negotiating-your-tech-salary.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"كيف تتفاوض على راتبك في مجال التكنولوجيا (دون أن تفقد العرض) — JobsList.dev Reading Room"}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

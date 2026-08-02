@@ -1,411 +1,389 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3a45,<p>Hiring an engineering manager is one of the highest-leverage decisions a technology company can make.</p>
-<p>A great manager multiplies the effectiveness of an entire engineering team. They help developers grow, improve technical execution, remove organizational friction, strengthen hiring, and create an environment where talented people want to stay.</p>
-<p>A poor manager can have the opposite effect—high turnover, slower delivery, frustrated engineers, unclear priorities, and declining product quality.</p>
-<p>Unfortunately, many Engineering Manager job descriptions are vague. They ask candidates to &quot;lead high-performing teams&quot; without explaining what success actually looks like.</p>
-<p>Experienced engineering managers look for answers to questions that many job posts never address:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","engineering-manager-job-description-template","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-manager-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"engineering-manager-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-manager-job-description-template","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T51c2,<p>يُعد توظيف مدير هندسي أحد أهم القرارات التي يمكن لشركة تكنولوجية اتخاذها.
+فالمدير المتميز يضاعف فعالية فريق الهندسة بأكمله. فهو يساعد المطورين على النمو, ويحسن الأداء التقني, ويزيل الاحتكاكات التنظيمية, ويعزز عملية التوظيف, ويخلق بيئة يرغب الموهوبون في البقاء فيها.
+أما المدير الضعيف فيمكن أن يكون له تأثير معاكس — ارتفاع معدل ترك الوظائف, وتباطؤ في تسليم المشاريع, وإحباط المهندسين, وأولويات غير واضحة, وتدهور جودة المنتج.
+لسوء الحظ, فإن العديد من الوصف الوظيفي لمنصب مدير الهندسة غامضة. فهي تطلب من المرشحين «قيادة فرق عالية الأداء» دون توضيح ما يعنيه النجاح فعليًا.
+يبحث مديرو الهندسة ذوو الخبرة عن إجابات لأسئلة لا تتطرق إليها العديد من إعلانات الوظائف أبدًا:</p>
 <ul>
-<li>How many engineers will I manage?</li>
-<li>Will I still write code?</li>
-<li>How much authority will I actually have?</li>
-<li>Am I inheriting a healthy team or rebuilding one?</li>
-<li>Who owns technical direction?</li>
-<li>Who sets priorities?</li>
-<li>How is success measured?</li>
-<li>Will I be expected to hire?</li>
-<li>Is this primarily people management or delivery management?</li>
-</ul>
-<p>Specificity attracts experienced leaders.</p>
-<p>Ambiguity attracts applicants hoping to figure it out later.</p>
-<p>This guide includes a practical Engineering Manager job description template, along with interview guidance and screening tips that help companies identify exceptional technical leaders.</p>
-<hr>
-<h1>What Does an Engineering Manager Actually Do?</h1>
-<p>Engineering Managers exist to improve the performance of an engineering organization.</p>
-<p>They accomplish this through people rather than through individual code contributions.</p>
-<p>A successful Engineering Manager balances several responsibilities simultaneously:</p>
-<ul>
-<li>Hiring exceptional engineers</li>
-<li>Coaching and mentoring team members</li>
-<li>Removing organizational blockers</li>
-<li>Partnering with Product and Design</li>
-<li>Improving engineering processes</li>
-<li>Building healthy team culture</li>
-<li>Delivering software predictably</li>
-<li>Supporting career development</li>
-<li>Managing performance fairly</li>
-<li>Helping engineers do their best work</li>
-</ul>
-<p>The role becomes increasingly strategic as organizations grow.</p>
-<hr>
-<h1>Engineering Manager Job Description Template</h1>
-<h2>Engineering Manager</h2>
-<p><strong>Location:</strong> Remote / Hybrid / On-site</p>
-<p><strong>Employment Type:</strong> Full-Time</p>
-<p><strong>Compensation:</strong> [$X–$Y base + bonus + equity]</p>
-<p><strong>Reports To:</strong> Director of Engineering / VP Engineering / CTO</p>
-<hr>
-<h2>About the Role</h2>
-<p>At <strong>[Company]</strong>, we build software that helps <strong>[customers]</strong> accomplish <strong>[mission]</strong>.</p>
-<p>Our engineering organization consists of <strong>[number] engineers</strong> across <strong>[number] teams</strong>, working on products that serve <strong>[customers or users]</strong>.</p>
-<p>We&#39;re looking for an Engineering Manager to lead the <strong>[team name]</strong>, responsible for <strong>[product area or technical domain]</strong>.</p>
-<p>Today the team includes:</p>
-<ul>
-<li><input disabled="" type="checkbox"> Senior Engineers</li>
-<li><input disabled="" type="checkbox"> Mid-Level Engineers</li>
-<li><input disabled="" type="checkbox"> Junior Engineers</li>
-<li><input disabled="" type="checkbox"> Staff Engineers</li>
-<li><input disabled="" type="checkbox"> QA Engineers</li>
-<li><input disabled="" type="checkbox"> DevOps Engineers</li>
-</ul>
-<p>Please describe the current situation honestly.</p>
-<p>Examples include:</p>
-<ul>
-<li>The team is growing rapidly.</li>
-<li>We&#39;re building a brand-new product.</li>
-<li>We&#39;re modernizing an existing platform.</li>
-<li>The team recently expanded.</li>
-<li>We&#39;re replacing a departing manager.</li>
-<li>We&#39;re improving engineering practices across multiple teams.</li>
-</ul>
-<p>Experienced managers appreciate transparency.</p>
-<hr>
-<h2>What You&#39;ll Do</h2>
-<ul>
-<li>Lead, coach, and mentor a team of software engineers.</li>
-<li>Conduct regular one-on-one meetings and performance reviews.</li>
-<li>Support career growth through coaching, feedback, and development planning.</li>
-<li>Partner with Product Managers and Designers to prioritize engineering work.</li>
-<li>Improve planning, estimation, and delivery predictability.</li>
-<li>Help establish healthy engineering processes and technical standards.</li>
-<li>Remove blockers that slow the team down.</li>
-<li>Participate in hiring, interviewing, and onboarding engineers.</li>
-<li>Collaborate with senior technical leaders on architectural decisions.</li>
-<li>Foster psychological safety, collaboration, and continuous improvement.</li>
-<li>Communicate project status, risks, and trade-offs to stakeholders.</li>
-<li>Help engineers grow into senior technical leaders.</li>
+<li>كم عدد المهندسين الذين سأديرهم؟</li>
+<li>هل سأستمر في كتابة الأكواد البرمجية؟</li>
+<li>ما مقدار السلطة التي سأتمتع بها فعليًّا؟</li>
+<li>هل سأرث فريقًا متماسكًا أم سأعيد بناء فريق من الصفر؟</li>
+<li>من يتولى التوجيه التقني؟</li>
+<li>من يحدد الأولويات؟</li>
+<li>كيف يُقاس النجاح؟</li>
+<li>هل يُتوقع مني القيام بالتوظيف؟</li>
+<li>هل تتعلق الوظيفة في المقام الأول بإدارة الأفراد أم بإدارة إنجاز المشاريع؟
+التحديد يجذب القادة ذوي الخبرة.
+أما الغموض فيجذب المتقدمين الذين يأملون في اكتشاف ذلك لاحقًا.
+يتضمن هذا الدليل نموذجًا عمليًّا لوصف وظيفة مدير الهندسة, إلى جانب إرشادات للمقابلات ونصائح للفرز تساعد الشركات على تحديد القادة التقنيين المتميزين.</li>
 </ul>
 <hr>
-<h2>Coding Expectations</h2>
-<p>One of the most important sections in the job posting.</p>
-<p>State it explicitly.</p>
-<p>Examples:</p>
-<p><strong>Hands-on (20%)</strong></p>
+<h1>ما الذي يفعله مدير الهندسة فعليًّا؟</h1>
+<p>يوجد مديرو الهندسة لتحسين أداء المؤسسة الهندسية.
+ويحققون ذلك من خلال الأفراد وليس من خلال المساهمات الفردية في كتابة الأكواد.
+يقوم مدير الهندسة الناجح بموازنة عدة مسؤوليات في آن واحد:</p>
 <ul>
-<li>Code reviews</li>
-<li>Architecture discussions</li>
-<li>Small bug fixes</li>
-<li>Technical spikes</li>
-<li>Internal tooling</li>
+<li>توظيف مهندسين متميزين</li>
+<li>تدريب أعضاء الفريق وتوجيههم</li>
+<li>إزالة العوائق التنظيمية</li>
+<li>التعاون مع أقسام المنتج والتصميم</li>
+<li>تحسين العمليات الهندسية</li>
+<li>بناء ثقافة فريق صحية</li>
+<li>تسليم البرمجيات وفقًا للتوقعات</li>
+<li>دعم التطوير الوظيفي</li>
+<li>إدارة الأداء بإنصاف</li>
+<li>مساعدة المهندسين على تقديم أفضل ما لديهم
+يصبح هذا الدور استراتيجيًا بشكل متزايد مع نمو المؤسسات.</li>
 </ul>
 <hr>
-<p><strong>Player-Coach (50%)</strong></p>
+<h1>نموذج الوصف الوظيفي لمدير الهندسة</h1>
+<h2>مدير الهندسة</h2>
+<h2><strong>الموقع:</strong> عن بُعد / هجين / في الموقع
+<strong>نوع التوظيف:</strong> دوام كامل
+<strong>الأجر:</strong> [راتب أساسي يتراوح بين $X و$Y + مكافأة + أسهم]
+<strong>يرفع تقاريره إلى:</strong> مدير الهندسة / نائب الرئيس للهندسة / المدير التقني</h2>
+<h2>نبذة عن الدور</h2>
+<p>في <strong>[الشركة]</strong>, نقوم بتطوير برامج تساعد <strong>[العملاء]</strong> على تحقيق <strong>[المهمة]</strong>.
+يتألف قسم الهندسة لدينا من <strong>[عدد] مهندس</strong> موزعين على <strong>[عدد] فريق</strong>, يعملون على منتجات تخدم <strong>[العملاء أو المستخدمين]</strong>.
+نحن نبحث عن مدير هندسي لقيادة <strong>[اسم الفريق]</strong>, ليكون مسؤولاً عن <strong>[مجال المنتج أو المجال التقني]</strong>.
+يتألف الفريق حاليًا من:</p>
 <ul>
-<li>Active feature development</li>
-<li>Mentoring</li>
-<li>Delivery ownership</li>
+<li><input disabled="" type="checkbox"> مهندسين كبار</li>
+<li><input disabled="" type="checkbox"> مهندسين من المستوى المتوسط</li>
+<li><input disabled="" type="checkbox"> مهندسين مبتدئين</li>
+<li><input disabled="" type="checkbox"> مهندسين موظفين</li>
+<li><input disabled="" type="checkbox"> مهندسي ضمان الجودة</li>
+<li><input disabled="" type="checkbox"> مهندسي DevOps
+يرجى وصف الوضع الحالي بأمانة.
+ومن الأمثلة على ذلك:</li>
+<li>الفريق ينمو بسرعة.</li>
+<li>نحن نعمل على تطوير منتج جديد تمامًا.</li>
+<li>نحن نعمل على تحديث منصة قائمة.</li>
+<li>تم توسيع الفريق مؤخرًا.</li>
+<li>نحن نبحث عن بديل لمدير مغادر.</li>
+<li>نحن نعمل على تحسين الممارسات الهندسية عبر فرق متعددة.
+يقدّر المديرون ذوو الخبرة الشفافية.</li>
 </ul>
 <hr>
-<p><strong>Management-Focused (0–10%)</strong></p>
+<h2>ما ستقوم به</h2>
 <ul>
-<li>Leadership</li>
-<li>Strategy</li>
-<li>Hiring</li>
-<li>Organizational planning</li>
-</ul>
-<p>Candidates self-select heavily based on this expectation.</p>
-<hr>
-<h2>Required Qualifications</h2>
-<ul>
-<li>X+ years of professional software engineering experience.</li>
-<li>X+ years managing software engineers.</li>
-<li>Experience leading performance reviews and career development.</li>
-<li>Strong technical background with modern software architecture.</li>
-<li>Experience hiring and interviewing engineers.</li>
-<li>Excellent written and verbal communication skills.</li>
-<li>Ability to prioritize competing business needs.</li>
-<li>Experience collaborating with Product and Design leadership.</li>
-<li>Proven ability to build healthy engineering culture.</li>
-<li>Experience leading projects from planning through production.</li>
+<li>قيادة فريق من مهندسي البرمجيات وتدريبهم وتوجيههم.</li>
+<li>إجراء اجتماعات فردية منتظمة ومراجعات الأداء.</li>
+<li>دعم النمو الوظيفي من خلال التوجيه, والتغذية الراجعة, وتخطيط التطوير.</li>
+<li>التعاون مع مديري المنتجات والمصممين لتحديد أولويات الأعمال الهندسية.</li>
+<li>تحسين التخطيط, والتقدير, والقدرة على التنبؤ بالتسليم.</li>
+<li>المساعدة في إرساء عمليات هندسية سليمة ومعايير تقنية.</li>
+<li>إزالة العوائق التي تبطئ عمل الفريق.</li>
+<li>المشاركة في توظيف المهندسين وإجراء المقابلات معهم وتأهيلهم.</li>
+<li>التعاون مع كبار القادة التقنيين بشأن القرارات المتعلقة بالبنية.</li>
+<li>تعزيز الأمان النفسي والتعاون والتحسين المستمر.</li>
+<li>إطلاع أصحاب المصلحة على حالة المشروع والمخاطر والمفاضلات.</li>
+<li>مساعدة المهندسين على النمو ليصبحوا قادة تقنيين كبار.</li>
 </ul>
 <hr>
-<h2>Nice to Have</h2>
+<h2>توقعات البرمجة</h2>
+<p>أحد أهم الأقسام في إعلان الوظيفة.
+اذكرها بشكل صريح.
+أمثلة:
+<strong>العمل العملي (20%)</strong></p>
 <ul>
-<li>Experience managing remote teams.</li>
-<li>Startup experience.</li>
-<li>Enterprise software experience.</li>
-<li>Cloud infrastructure knowledge.</li>
-<li>Agile coaching experience.</li>
-<li>Scaling engineering organizations.</li>
-<li>Managing managers.</li>
-<li>Organizational change leadership.</li>
+<li>مراجعة الكود</li>
+<li>مناقشات حول البنية</li>
+<li>إصلاح الأخطاء البسيطة</li>
+<li>المهام التقنية المحددة</li>
+<li>الأدوات الداخلية</li>
 </ul>
 <hr>
-<h2>Team Structure</h2>
-<p>Provide concrete information.</p>
-<p>Examples:</p>
-<p>Engineering Organization:</p>
+<p><strong>اللاعب-المدرب (50%)</strong></p>
 <ul>
-<li>VP Engineering</li>
-<li>Directors</li>
-<li>Engineering Managers</li>
-<li>Staff Engineers</li>
-<li>Senior Engineers</li>
-<li>Software Engineers</li>
-<li>QA</li>
-<li>Platform</li>
-</ul>
-<p>Candidates want to understand how decisions are made.</p>
-<hr>
-<h2>Decision-Making Authority</h2>
-<p>Be honest about what this role owns.</p>
-<p>Examples:</p>
-<p>Responsible for:</p>
-<ul>
-<li>Hiring decisions</li>
-<li>Performance reviews</li>
-<li>Promotions</li>
-<li>Sprint planning</li>
-<li>Team processes</li>
-<li>Delivery execution</li>
-<li>Team staffing</li>
-</ul>
-<p>Shared ownership:</p>
-<ul>
-<li>Technical architecture</li>
-<li>Roadmaps</li>
-<li>Prioritization</li>
-<li>Hiring standards</li>
-</ul>
-<p>Owned elsewhere:</p>
-<ul>
-<li>Company budgets</li>
-<li>Executive strategy</li>
-<li>Compensation bands</li>
-<li>Organization-wide headcount</li>
-</ul>
-<p>Managers without meaningful authority often become frustrated.</p>
-<p>Clarify expectations early.</p>
-<hr>
-<h2>Success in the First 90 Days</h2>
-<p>Strong candidates want to know what success looks like.</p>
-<p>Example goals:</p>
-<p>First 30 days</p>
-<ul>
-<li>Build relationships</li>
-<li>Learn the product</li>
-<li>Understand the architecture</li>
-<li>Meet stakeholders</li>
-</ul>
-<p>Days 31–60</p>
-<ul>
-<li>Improve planning</li>
-<li>Remove bottlenecks</li>
-<li>Begin coaching</li>
-<li>Support hiring</li>
-</ul>
-<p>Days 61–90</p>
-<ul>
-<li>Increase delivery confidence</li>
-<li>Improve team health</li>
-<li>Establish regular feedback</li>
-<li>Ship meaningful improvements</li>
+<li>تطوير الميزات بشكل فعال</li>
+<li>التوجيه</li>
+<li>المسؤولية عن التسليم</li>
 </ul>
 <hr>
-<h2>Interview Process</h2>
-<h3>Stage 1</h3>
-<p>Recruiter or hiring manager conversation.</p>
-<p>Discuss expectations, team, and organizational context.</p>
-<hr>
-<h3>Stage 2</h3>
-<p>Engineering leadership interview.</p>
-<p>Topics include:</p>
+<p><strong>التركيز على الإدارة (0–10%)</strong></p>
 <ul>
-<li>Coaching</li>
-<li>Hiring</li>
-<li>Conflict resolution</li>
-<li>Performance management</li>
-<li>Career development</li>
-<li>Cross-functional collaboration</li>
+<li>القيادة</li>
+<li>الاستراتيجية</li>
+<li>التوظيف</li>
+<li>التخطيط التنظيمي
+يعتمد المرشحون بشكل كبير على هذه التوقعات في اختيارهم للوظيفة.</li>
 </ul>
 <hr>
-<h3>Stage 3</h3>
-<p>Technical discussion.</p>
-<p>Rather than solving algorithm puzzles, discuss:</p>
+<h2>المؤهلات المطلوبة</h2>
 <ul>
-<li>System design decisions</li>
-<li>Architecture trade-offs</li>
-<li>Technical leadership</li>
-<li>Delivery planning</li>
-<li>Engineering judgment</li>
-</ul>
-<p>Engineering Managers should maintain technical credibility even if they no longer code daily.</p>
-<hr>
-<h3>Stage 4</h3>
-<p>Meet the engineering team.</p>
-<p>Candidates should spend time with future direct reports.</p>
-<p>This often reveals mutual fit better than executive interviews.</p>
-<hr>
-<h3>Stage 5</h3>
-<p>Cross-functional interview.</p>
-<p>Meet:</p>
-<ul>
-<li>Product</li>
-<li>Design</li>
-<li>Security</li>
-<li>Infrastructure</li>
-<li>Executive leadership</li>
-</ul>
-<p>Healthy partnerships are essential.</p>
-<hr>
-<h2>Benefits</h2>
-<ul>
-<li>Competitive salary</li>
-<li>Equity</li>
-<li>Health benefits</li>
-<li>Remote flexibility</li>
-<li>Home office stipend</li>
-<li>Learning budget</li>
-<li>Conference attendance</li>
-<li>Paid parental leave</li>
-<li>Flexible PTO</li>
+<li>X+ سنوات من الخبرة المهنية في هندسة البرمجيات.</li>
+<li>X+ سنوات في إدارة مهندسي البرمجيات.</li>
+<li>خبرة في قيادة تقييمات الأداء والتطوير الوظيفي.</li>
+<li>خلفية تقنية قوية في هندسة البرمجيات الحديثة.</li>
+<li>خبرة في توظيف المهندسين وإجراء المقابلات معهم.</li>
+<li>مهارات تواصل كتابية وشفوية ممتازة.</li>
+<li>القدرة على تحديد أولويات احتياجات العمل المتنافسة.</li>
+<li>خبرة في التعاون مع قيادات أقسام المنتجات والتصميم.</li>
+<li>قدرة مثبتة على بناء ثقافة هندسية سليمة.</li>
+<li>خبرة في قيادة المشاريع بدءًا من التخطيط وحتى مرحلة الإنتاج.</li>
 </ul>
 <hr>
-<h1>Hiring Engineering Managers Successfully</h1>
-<h2>Publish the Three Numbers Candidates Care About</h2>
-<p>Nearly every experienced manager wants to know:</p>
+<h2>مؤهلات إضافية مرغوبة</h2>
 <ul>
-<li>How many direct reports?</li>
-<li>How much coding?</li>
-<li>How much hiring?</li>
-</ul>
-<p>Leaving these unanswered creates unnecessary uncertainty.</p>
-<hr>
-<h1>Be Honest About Team Health</h1>
-<p>Managers appreciate transparency.</p>
-<p>Examples:</p>
-<p>&quot;We&#39;re growing from one team to three.&quot;</p>
-<p>&quot;Our delivery process needs improvement.&quot;</p>
-<p>&quot;The team recently experienced significant growth.&quot;</p>
-<p>&quot;We&#39;re modernizing an older platform.&quot;</p>
-<p>&quot;This role will help rebuild engineering culture.&quot;</p>
-<p>Strong managers often enjoy difficult challenges.</p>
-<p>They dislike unpleasant surprises.</p>
-<hr>
-<h1>Look for Multipliers</h1>
-<p>The best Engineering Managers improve everyone around them.</p>
-<p>Ask yourself:</p>
-<p>Does this person make other engineers stronger?</p>
-<p>Do they create clarity?</p>
-<p>Can they coach effectively?</p>
-<p>Can they hire exceptional people?</p>
-<p>Do they improve delivery without creating burnout?</p>
-<p>The answers matter far more than whether they can still reverse a binary tree on a whiteboard.</p>
-<hr>
-<h1>Interview for Real Leadership Stories</h1>
-<p>Behavioral interviews are particularly valuable for management roles.</p>
-<p>Ask questions like:</p>
-<h3>Tell me about an engineer who struggled.</h3>
-<p>How did you identify the problem?</p>
-<p>How did you coach them?</p>
-<p>What changed?</p>
-<p>What did you learn?</p>
-<hr>
-<h3>Tell me about someone you promoted.</h3>
-<p>Why were they promoted?</p>
-<p>How did you help them grow?</p>
-<p>What opportunities did you create?</p>
-<hr>
-<h3>Describe your most difficult hiring decision.</h3>
-<p>Why was it difficult?</p>
-<p>What trade-offs did you make?</p>
-<p>Would you make the same decision today?</p>
-<hr>
-<h3>Tell me about a project that missed its deadline.</h3>
-<p>What happened?</p>
-<p>How did you communicate it?</p>
-<p>What process improvements came afterward?</p>
-<hr>
-<h3>Describe a disagreement with senior leadership.</h3>
-<p>How did you advocate for your team?</p>
-<p>What compromise was reached?</p>
-<hr>
-<h3>Tell me about a time you had to say &quot;no.&quot;</h3>
-<p>Engineering Managers protect their teams.</p>
-<p>Look for candidates who can negotiate priorities respectfully rather than simply accepting every request.</p>
-<hr>
-<h3>What engineering culture are you most proud of building?</h3>
-<p>This question often reveals:</p>
-<ul>
-<li>coaching philosophy</li>
-<li>leadership style</li>
-<li>hiring philosophy</li>
-<li>communication skills</li>
-<li>emotional intelligence</li>
+<li>خبرة في إدارة الفرق عن بُعد.</li>
+<li>خبرة في الشركات الناشئة.</li>
+<li>خبرة في برمجيات المؤسسات.</li>
+<li>معرفة بالبنية التحتية السحابية.</li>
+<li>خبرة في التدريب على منهجية «أجايل».</li>
+<li>توسيع نطاق المنظمات الهندسية.</li>
+<li>إدارة المديرين.</li>
+<li>قيادة التغيير المؤسسي.</li>
 </ul>
 <hr>
-<h1>Evaluate Leadership, Not Buzzwords</h1>
-<p>Avoid candidates who rely entirely on management terminology without concrete examples.</p>
-<p>Phrases like:</p>
+<h2>هيكل الفريق</h2>
+<p>قدم معلومات محددة.
+أمثلة:
+المنظمة الهندسية:</p>
 <ul>
-<li>Servant leadership</li>
-<li>Radical candor</li>
-<li>Ownership</li>
-<li>Empowerment</li>
-<li>Growth mindset</li>
-</ul>
-<p>are useful only when backed by real experiences.</p>
-<p>Ask for stories.</p>
-<p>Specific examples are far more valuable than polished vocabulary.</p>
-<hr>
-<h1>Common Hiring Mistakes</h1>
-<p>Avoid:</p>
-<ul>
-<li>Never explaining coding expectations.</li>
-<li>Hiding organizational challenges.</li>
-<li>Measuring managers only by delivery speed.</li>
-<li>Ignoring coaching ability.</li>
-<li>Treating management as senior engineering plus meetings.</li>
-<li>Failing to let the team meet candidates.</li>
-<li>Giving responsibility without authority.</li>
-<li>Overlooking emotional intelligence and communication.</li>
+<li>نائب الرئيس للهندسة</li>
+<li>المديرون</li>
+<li>مديرو الهندسة</li>
+<li>مهندسو الفريق</li>
+<li>كبار المهندسين</li>
+<li>مهندسو البرمجيات</li>
+<li>ضمان الجودة</li>
+<li>المنصة
+يرغب المرشحون في فهم كيفية اتخاذ القرارات.</li>
 </ul>
 <hr>
-<h1>Qualities of Exceptional Engineering Managers</h1>
-<p>The strongest managers consistently demonstrate:</p>
+<h2>سلطة اتخاذ القرار</h2>
+<p>كن صادقًا بشأن الصلاحيات التي يمتلكها هذا الدور.
+أمثلة:
+مسؤول عن:</p>
 <ul>
-<li>Technical credibility</li>
-<li>Excellent communication</li>
-<li>Coaching ability</li>
-<li>Hiring judgment</li>
-<li>Emotional intelligence</li>
-<li>Clear prioritization</li>
-<li>Organizational thinking</li>
-<li>Calm under pressure</li>
-<li>Strong decision-making</li>
-<li>Accountability</li>
-<li>Empathy</li>
-<li>Integrity</li>
+<li>قرارات التوظيف</li>
+<li>تقييمات الأداء</li>
+<li>الترقيات</li>
+<li>تخطيط السبرينت</li>
+<li>عمليات الفريق</li>
+<li>تنفيذ التسليم</li>
+<li>توزيع المهام على أعضاء الفريق
+المسؤولية المشتركة:</li>
+<li>البنية التقنية</li>
+<li>خرائط الطريق</li>
+<li>تحديد الأولويات</li>
+<li>معايير التوظيف
+المسؤولية التي تقع على عاتق جهات أخرى:</li>
+<li>ميزانيات الشركة</li>
+<li>الاستراتيجية التنفيذية</li>
+<li>نطاقات المكافآت</li>
+<li>عدد الموظفين على مستوى المؤسسة
+غالبًا ما يشعر المديرون الذين يفتقرون إلى سلطة حقيقية بالإحباط.
+وضح التوقعات مبكرًا.</li>
 </ul>
-<p>They create environments where engineers can do their best work.</p>
 <hr>
-<h1>The Takeaway</h1>
-<p>Hiring an Engineering Manager is ultimately about finding someone who makes an entire team more successful.</p>
-<p>Be transparent about the size and health of the team, clearly define coding expectations, explain what authority the role carries, and interview for concrete leadership experiences rather than management buzzwords.</p>
-<p>Exceptional engineering managers don&#39;t simply deliver projects—they develop people, strengthen engineering culture, improve execution, and help organizations build better software for years to come.</p>
+<h2>النجاح في أول 90 يومًا</h2>
+<p>يرغب المرشحون المتميزون في معرفة شكل النجاح.
+أمثلة على الأهداف:
+أول 30 يومًا</p>
+<ul>
+<li>بناء العلاقات</li>
+<li>التعرف على المنتج</li>
+<li>فهم البنية</li>
+<li>مقابلة أصحاب المصلحة
+الأيام 31–60</li>
+<li>تحسين التخطيط</li>
+<li>إزالة العقبات</li>
+<li>بدء التدريب</li>
+<li>دعم التوظيف
+الأيام 61–90</li>
+<li>زيادة الثقة في التسليم</li>
+<li>تحسين صحة الفريق</li>
+<li>إرساء آلية تغذية راجعة منتظمة</li>
+<li>تقديم تحسينات ذات مغزى</li>
+</ul>
 <hr>
-<p><em>Looking to hire an exceptional Engineering Manager? Create your company profile on <strong>JobsList.dev</strong>, publish transparent job listings, and connect directly with experienced engineering leaders who know how to build outstanding teams.</em></p>
+<h2>عملية المقابلة</h2>
+<h3>المرحلة 1</h3>
+<h2>محادثة مع مسؤول التوظيف أو مدير التوظيف.
+مناقشة التوقعات والفريق والسياق التنظيمي.</h2>
+<h3>المرحلة 2</h3>
+<p>مقابلة مع قيادة قسم الهندسة.
+تشمل الموضوعات:</p>
+<ul>
+<li>التوجيه</li>
+<li>التوظيف</li>
+<li>حل النزاعات</li>
+<li>إدارة الأداء</li>
+<li>التطوير الوظيفي</li>
+<li>التعاون بين الوظائف المختلفة</li>
+</ul>
+<hr>
+<h3>المرحلة 3</h3>
+<p>مناقشة فنية.
+بدلاً من حل ألغاز الخوارزميات, ناقش:</p>
+<ul>
+<li>قرارات تصميم النظام</li>
+<li>المفاضلات في البنية</li>
+<li>القيادة الفنية</li>
+<li>تخطيط التسليم</li>
+<li>التقدير الهندسي
+يجب على مديري الهندسة الحفاظ على مصداقيتهم الفنية حتى لو لم يعودوا يكتبون الأكواد يوميًا.</li>
+</ul>
+<hr>
+<h3>المرحلة 4</h3>
+<h2>لقاء فريق الهندسة.
+يجب أن يقضي المرشحون بعض الوقت مع المرؤوسين المباشرين المستقبليين.
+غالبًا ما يكشف ذلك عن مدى التوافق المتبادل بشكل أفضل من المقابلات التنفيذية.</h2>
+<h3>المرحلة 5</h3>
+<p>مقابلة متعددة الوظائف.
+التعرف على:</p>
+<ul>
+<li>فريق المنتج</li>
+<li>فريق التصميم</li>
+<li>فريق الأمن</li>
+<li>فريق البنية التحتية</li>
+<li>القيادة التنفيذية
+الشراكات الصحية أمر ضروري.</li>
+</ul>
+<hr>
+<h2>المزايا</h2>
+<ul>
+<li>راتب تنافسي</li>
+<li>أسهم</li>
+<li>مزايا صحية</li>
+<li>مرونة العمل عن بُعد</li>
+<li>بدل المكتب المنزلي</li>
+<li>ميزانية التعلم</li>
+<li>حضور المؤتمرات</li>
+<li>إجازة أبوة مدفوعة الأجر</li>
+<li>إجازة مدفوعة الأجر مرنة</li>
+</ul>
+<hr>
+<h1>التوظيف الناجح لمديري الهندسة</h1>
+<h2>نشر الأرقام الثلاثة التي تهم المرشحين</h2>
+<p>يرغب كل مدير متمرس تقريبًا في معرفة:</p>
+<ul>
+<li>كم عدد المرؤوسين المباشرين؟</li>
+<li>ما مقدار العمل في البرمجة؟</li>
+<li>ما مقدار التوظيف؟
+ترك هذه الأسئلة دون إجابة يخلق حالة من عدم اليقين غير الضرورية.</li>
+</ul>
+<hr>
+<h1>كن صادقًا بشأن صحة الفريق</h1>
+<h2>يقدّر المديرون الشفافية.
+أمثلة:
+&quot;نحن نتوسع من فريق واحد إلى ثلاثة فرق.&quot;
+&quot;عملية التسليم لدينا بحاجة إلى تحسين.&quot;
+&quot;شهد الفريق مؤخرًا نموًا كبيرًا.&quot;
+&quot;نحن نعمل على تحديث منصة قديمة.&quot;
+&quot;ستساعد هذه الوظيفة في إعادة بناء ثقافة الهندسة.&quot;
+غالبًا ما يستمتع المديرون الأقوياء بالتحديات الصعبة.
+وهم يكرهون المفاجآت غير السارة.</h2>
+<h1>ابحث عن &quot;المضاعفين&quot;</h1>
+<h2>أفضل مديري الهندسة هم من يطورون كل من حولهم.
+اسأل نفسك:
+هل هذا الشخص يجعل المهندسين الآخرين أقوى؟
+هل يخلق الوضوح؟
+هل يستطيع التدريب بفعالية؟
+هل يستطيع توظيف أشخاص استثنائيين؟
+هل يحسن التسليم دون التسبب في إرهاق الموظفين؟
+الإجابات على هذه الأسئلة أهم بكثير من قدرته على عكس شجرة ثنائية على السبورة البيضاء.</h2>
+<h1>اجري المقابلة للبحث عن قصص قيادة حقيقية</h1>
+<p>تعتبر المقابلات السلوكية ذات قيمة خاصة للوظائف الإدارية.
+اطرح أسئلة مثل:</p>
+<h3>أخبرني عن مهندس واجه صعوبة.</h3>
+<h2>كيف حددت المشكلة؟
+كيف قمت بتوجيهه؟
+ما الذي تغير؟
+ماذا تعلمت؟</h2>
+<h3>أخبرني عن شخص قمت بترقيته.</h3>
+<h2>لماذا تمت ترقيته؟
+كيف ساعدته على النمو؟
+ما الفرص التي أوجدتها له؟</h2>
+<h3>صِف أصعب قرار اتخذته في مجال التوظيف.</h3>
+<h2>لماذا كان صعبًا؟
+ما هي التنازلات التي قدمتها؟
+هل كنت ستتخذ نفس القرار اليوم؟</h2>
+<h3>أخبرني عن مشروع لم يلتزم بموعده النهائي.</h3>
+<h2>ماذا حدث؟
+كيف أبلغت عن ذلك؟
+ما هي التحسينات التي أُجريت على العملية بعد ذلك؟</h2>
+<h3>صف خلافًا مع القيادة العليا.</h3>
+<h2>كيف دافعت عن فريقك؟
+ما هو الحل التوفيقي الذي تم التوصل إليه؟</h2>
+<h3>أخبرني عن موقف اضطررت فيه إلى قول «لا».</h3>
+<h2>مديرو الهندسة يحمون فرقهم.
+ابحث عن المرشحين القادرين على التفاوض بشأن الأولويات باحترام بدلاً من مجرد قبول كل طلب.</h2>
+<h3>ما هي الثقافة الهندسية التي تفخر ببنائها أكثر من غيرها؟</h3>
+<p>غالبًا ما يكشف هذا السؤال عن:</p>
+<ul>
+<li>فلسفة التدريب</li>
+<li>أسلوب القيادة</li>
+<li>فلسفة التوظيف</li>
+<li>مهارات التواصل</li>
+<li>الذكاء العاطفي</li>
+</ul>
+<hr>
+<h1>قم بتقييم القيادة, لا المصطلحات الرنانة</h1>
+<p>تجنب المرشحين الذين يعتمدون كليًا على مصطلحات الإدارة دون أمثلة ملموسة.
+عبارات مثل:</p>
+<ul>
+<li>القيادة الخادمة</li>
+<li>الصراحة الجذرية</li>
+<li>الشعور بالمسؤولية</li>
+<li>التمكين</li>
+<li>عقلية النمو
+لا تكون مفيدة إلا عندما تكون مدعومة بتجارب حقيقية.
+اطلب سرد قصص.
+الأمثلة المحددة أكثر قيمة بكثير من المفردات المصقولة.</li>
+</ul>
+<hr>
+<h1>الأخطاء الشائعة في التوظيف</h1>
+<p>تجنب:</p>
+<ul>
+<li>عدم شرح توقعات البرمجة أبدًا.</li>
+<li>إخفاء التحديات التنظيمية.</li>
+<li>تقييم المديرين فقط على أساس سرعة الإنجاز.</li>
+<li>تجاهل القدرة على التوجيه.</li>
+<li>التعامل مع الإدارة على أنها مجرد منصب هندسي رفيع بالإضافة إلى الاجتماعات.</li>
+<li>عدم السماح للفريق بمقابلة المرشحين.</li>
+<li>منح المسؤولية دون سلطة.</li>
+<li>التغاضي عن الذكاء العاطفي والتواصل.</li>
+</ul>
+<hr>
+<h1>صفات مديري الهندسة المتميزين</h1>
+<p>يُظهر المديرون الأقوى باستمرار ما يلي:</p>
+<ul>
+<li>المصداقية الفنية</li>
+<li>التواصل الممتاز</li>
+<li>القدرة على التوجيه</li>
+<li>الحنكة في التوظيف</li>
+<li>الذكاء العاطفي</li>
+<li>تحديد الأولويات بوضوح</li>
+<li>التفكير التنظيمي</li>
+<li>الهدوء تحت الضغط</li>
+<li>قوة اتخاذ القرار</li>
+<li>المساءلة</li>
+<li>التعاطف</li>
+<li>النزاهة
+إنهم يخلقون بيئات يمكن للمهندسين فيها أداء عملهم على أفضل وجه.</li>
+</ul>
+<hr>
+<h1>النقطة الأساسية</h1>
+<h2>إن توظيف مدير هندسي يتعلق في النهاية بالعثور على شخص يجعل الفريق بأكمله أكثر نجاحًا.
+كن شفافًا بشأن حجم الفريق وحالته, وحدد توقعات البرمجة بوضوح, واشرح الصلاحيات التي ينطوي عليها المنصب, وركز في المقابلة على الخبرات القيادية الملموسة بدلاً من المصطلحات الإدارية الرنانة.
+مديرو الهندسة المتميزون لا يكتفون بتنفيذ المشاريع فحسب — بل يعملون على تطوير الأفراد, وتعزيز ثقافة الهندسة, وتحسين التنفيذ, ومساعدة المؤسسات على بناء برامج أفضل لسنوات قادمة.</h2>
+<p><em>هل تبحث عن توظيف مدير هندسة متميز؟ أنشئ ملف تعريف لشركتك على <strong>JobsList.dev</strong>, وانشر إعلانات وظائف شفافة, وتواصل مباشرة مع قادة الهندسة ذوي الخبرة الذين يعرفون كيفية بناء فرق متميزة.</em></p>
 <pre><code>
 </code></pre>
-5:["locale","ar","d"]
-6:["slug","engineering-manager-job-description-template","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-manager-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"engineering-manager-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","engineering-manager-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Engineering Manager Job Description Template (With Screening Tips)\",\"description\":\"A practical, copy-and-paste engineering manager job description template with hiring guidance, interview questions, leadership screening tips, and best practices for attracting exceptional engineering managers.\",\"datePublished\":\"2026-06-24T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Engineering Manager Job Description Template (With Screening Tips)","date":"2026-06-24T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":{"href":"/assessments/engineering-manager/","roleName":"Engineering Manager"}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Engineering Manager Job Description Template (With Screening Tips) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical, copy-and-paste engineering manager job description template with hiring guidance, interview questions, leadership screening tips, and best practices for attracting exceptional engineering managers."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Engineering Manager Job Description Template (With Screening Tips)"}],["$","meta","15",{"property":"og:description","content":"A practical, copy-and-paste engineering manager job description template with hiring guidance, interview questions, leadership screening tips, and best practices for attracting exceptional engineering managers."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-24T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Engineering Manager Job Description Template (With Screening Tips)"}],["$","meta","25",{"name":"twitter:description","content":"A practical, copy-and-paste engineering manager job description template with hiring guidance, interview questions, leadership screening tips, and best practices for attracting exceptional engineering managers."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم)\",\"description\":\"نموذج عملي للوصف الوظيفي لمدير الهندسة يمكن نسخه ولصقه مباشرةً, يتضمن إرشادات التوظيف, وأسئلة المقابلة, ونصائح لتقييم المهارات القيادية, وأفضل الممارسات لجذب مديري الهندسة المتميزين.\",\"image\":[\"https://jobslist.dev/images/blog/en/engineering-manager-job-description-template.png\"],\"datePublished\":\"2026-06-24T00:00:00.000Z\",\"dateModified\":\"2026-06-24T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/engineering-manager-job-description-template/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/images/blog/en/engineering-manager-job-description-template.png","alt":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم) — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"نموذج عملي للوصف الوظيفي لمدير الهندسة يمكن نسخه ولصقه مباشرةً, يتضمن إرشادات التوظيف, وأسئلة المقابلة, ونصائح لتقييم المهارات القيادية, وأفضل الممارسات لجذب مديري الهندسة المتميزين."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-24T00:00:00.000Z","children":"23 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[9," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","وصف الوظيفة",{"className":"badge-gray","children":"وصف الوظيفة"}],["$","span","قوالب",{"className":"badge-gray","children":"قوالب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","الإدارة الهندسية",{"className":"badge-gray","children":"الإدارة الهندسية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","aside",null,{"className":"card mt-12 p-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide text-surface-400","children":"blog.article.related"}],["$","h2",null,{"className":"mt-1 text-lg font-semibold text-surface-900 dark:text-white","children":"Engineering Manager blog.article.skillsAssessment"}],["$","p",null,{"className":"mt-2 text-sm text-surface-500 dark:text-surface-400","children":"blog.article.roleAssessmentDescription"}],["$","$La",null,{"href":"/assessments/engineering-manager/","className":"mt-4 inline-block text-sm font-medium text-brand-600 hover:text-brand-700","children":"blog.article.viewAssessment →"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"نموذج عملي للوصف الوظيفي لمدير الهندسة يمكن نسخه ولصقه مباشرةً, يتضمن إرشادات التوظيف, وأسئلة المقابلة, ونصائح لتقييم المهارات القيادية, وأفضل الممارسات لجذب مديري الهندسة المتميزين."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم)"}],["$","meta","15",{"property":"og:description","content":"نموذج عملي للوصف الوظيفي لمدير الهندسة يمكن نسخه ولصقه مباشرةً, يتضمن إرشادات التوظيف, وأسئلة المقابلة, ونصائح لتقييم المهارات القيادية, وأفضل الممارسات لجذب مديري الهندسة المتميزين."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/engineering-manager-job-description-template/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/engineering-manager-job-description-template.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم) — JobsList.dev Reading Room"}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-24T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم)"}],["$","meta","27",{"name":"twitter:description","content":"نموذج عملي للوصف الوظيفي لمدير الهندسة يمكن نسخه ولصقه مباشرةً, يتضمن إرشادات التوظيف, وأسئلة المقابلة, ونصائح لتقييم المهارات القيادية, وأفضل الممارسات لجذب مديري الهندسة المتميزين."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/engineering-manager-job-description-template.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"نموذج الوصف الوظيفي لمدير الهندسة (مع نصائح للتقييم) — JobsList.dev Reading Room"}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

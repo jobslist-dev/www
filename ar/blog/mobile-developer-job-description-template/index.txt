@@ -1,1135 +1,1111 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:Tc075,<p>Mobile development is not simply web development on a smaller screen.</p>
-<p>Mobile engineers work inside environments controlled by operating-system vendors, hardware constraints, app-store policies, device fragmentation, unreliable networks, background-execution limits, permission systems, battery budgets, and release processes that make instant production fixes difficult or impossible.</p>
-<p>A web team can often deploy a correction minutes after discovering a problem.</p>
-<p>A mobile team may need to:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","mobile-developer-job-description-template","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"mobile-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T128a7,<p>تطوير تطبيقات الهواتف المحمولة ليس مجرد تطوير ويب على شاشة أصغر.
+يعمل مهندسو تطبيقات الهواتف المحمولة في بيئات تخضع لسيطرة مزودي أنظمة التشغيل, وقيود الأجهزة, وسياسات متاجر التطبيقات, وتجزئة الأجهزة, والشبكات غير الموثوقة, وقيود التشغيل في الخلفية, وأنظمة الأذونات, ومحدودية عمر البطارية, وعمليات الإصدار التي تجعل إجراء إصلاحات فورية في الإنتاج أمرًا صعبًا أو مستحيلًا.
+غالبًا ما يمكن لفريق الويب نشر تصحيح في غضون دقائق بعد اكتشاف المشكلة.
+قد يحتاج فريق تطوير الأجهزة المحمولة إلى:</p>
 <ol>
-<li>diagnose the issue from crash reports or user telemetry;</li>
-<li>reproduce it across devices and operating-system versions;</li>
-<li>prepare and test a new build;</li>
-<li>submit it for store review;</li>
-<li>wait for approval;</li>
-<li>release it gradually;</li>
-<li>persuade users to install the update.</li>
+<li>تشخيص المشكلة من تقارير الأعطال أو بيانات القياس عن بُعد للمستخدمين؛</li>
+<li>إعادة إنتاج المشكلة عبر الأجهزة وإصدارات أنظمة التشغيل المختلفة؛</li>
+<li>إعداد نسخة جديدة واختبارها؛</li>
+<li>تقديمها لمراجعة متجر التطبيقات؛</li>
+<li>انتظار الموافقة؛</li>
+<li>إصدارها تدريجيًا؛</li>
+<li>إقناع المستخدمين بتثبيت التحديث.
+يؤدي هذا الاختلاف إلى تغيير الطريقة التي ينبغي بها تصميم برامج الأجهزة المحمولة واختبارها وإصدارها وتشغيلها.
+كما أنه يغير الطريقة التي ينبغي بها كتابة الوصف الوظيفي لوظائف تطبيقات الأجهزة المحمولة.
+يجب أن يوضح الإعلان الوظيفي القوي لمطور تطبيقات الأجهزة المحمولة بوضوح:</li>
 </ol>
-<p>That difference changes how mobile software should be designed, tested, released, and operated.</p>
-<p>It also changes how mobile job descriptions should be written.</p>
-<p>A strong mobile developer listing should clearly explain:</p>
 <ul>
-<li>which platform the engineer will own;</li>
-<li>whether the app is native or cross-platform;</li>
-<li>how much native module work is involved;</li>
-<li>which operating-system versions are supported;</li>
-<li>how often releases ship;</li>
-<li>how releases are reviewed and approved;</li>
-<li>how app quality is measured;</li>
-<li>whether offline behavior matters;</li>
-<li>whether the developer will own store submissions;</li>
-<li>how backend, product, design, and QA teams collaborate;</li>
-<li>what parts of the app are modern and what parts need improvement.</li>
+<li>المنصة التي سيتولى المهندس مسؤوليتها؛</li>
+<li>ما إذا كان التطبيق أصليًا أم متعدد المنصات؛</li>
+<li>حجم العمل المتعلق بالوحدات الأصلية؛</li>
+<li>إصدارات أنظمة التشغيل المدعومة؛</li>
+<li>وتيرة إصدار التحديثات؛</li>
+<li>كيفية مراجعة الإصدارات والموافقة عليها؛</li>
+<li>كيفية قياس جودة التطبيق؛</li>
+<li>ما إذا كان الأداء في وضع عدم الاتصال بالإنترنت مهمًا؛</li>
+<li>ما إذا كان المطور سيتولى مسؤولية تقديم التطبيقات إلى المتاجر؛</li>
+<li>كيفية تعاون فرق البنية الخلفية والمنتج والتصميم وضمان الجودة؛</li>
+<li>أي أجزاء من التطبيق حديثة وأي أجزاء تحتاج إلى تحسين.
+يتضمن هذا الدليل نموذجًا قابلًا لإعادة الاستخدام لوصف الوظيفة الخاصة بـ iOS الأصلي, وAndroid الأصلي, وReact Native, وFlutter, وغيرها من الأدوار المتعلقة بالهواتف المحمولة عبر المنصات, يليه نصائح عملية لفرز المرشحين وإجراء المقابلات معهم.</li>
 </ul>
-<p>This guide includes a reusable job-description template for native iOS, native Android, React Native, Flutter, and other cross-platform mobile roles, followed by practical advice for screening and interviewing candidates.</p>
-<h1>Start by choosing the correct job title</h1>
-<p>“Mobile Developer” may be appropriate when the role genuinely spans multiple platforms.</p>
-<p>When the work is platform-specific, use a platform-specific title.</p>
-<p>Examples include:</p>
+<h1>ابدأ باختيار المسمى الوظيفي الصحيح</h1>
+<p>قد يكون لقب «مطور تطبيقات الجوال» مناسبًا عندما يمتد الدور فعليًّا عبر منصات متعددة.
+عندما يكون العمل خاصًّا بمنصة معينة, استخدم لقبًا خاصًّا بتلك المنصة.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>iOS Developer</li>
-<li>Senior iOS Engineer</li>
-<li>Android Developer</li>
-<li>Senior Android Engineer</li>
-<li>React Native Developer</li>
-<li>Flutter Developer</li>
-<li>Cross-Platform Mobile Engineer</li>
-<li>Mobile Platform Engineer</li>
-<li>Mobile Application Developer</li>
+<li>مطور iOS</li>
+<li>مهندس iOS أول</li>
+<li>مطور Android</li>
+<li>مهندس Android أول</li>
+<li>مطور React Native</li>
+<li>مطور Flutter</li>
+<li>مهندس تطبيقات الجوال عبر المنصات</li>
+<li>مهندس منصات الجوال</li>
+<li>مطور تطبيقات الجوال
+تجنب الإعلان عن وظيفة عامة مثل «مطور تطبيقات الجوال» ثم رفض المرشحين لاحقًا لأنهم لا يتخصصون في المنصة التي لم تذكرها.
+تعد iOS الأصلية وAndroid الأصلية وReact Native وFlutter تخصصات متداخلة ولكنها متميزة.
+وهي تنطوي على اختلافات في:</li>
+<li>اللغات؛</li>
+<li>حزم أدوات التطوير (SDKs)؛</li>
+<li>أنظمة البناء؛</li>
+<li>نماذج دورة الحياة؛</li>
+<li>أدوات تصحيح الأخطاء؛</li>
+<li>أنظمة إمكانية الوصول؛</li>
+<li>عمليات التوزيع؛</li>
+<li>اعتبارات الأداء؛</li>
+<li>قواعد المنصات؛</li>
+<li>المفاضلات المعمارية.
+لا ينبغي توقع أن يستنتج مهندس Android المتميز أن مصطلح «الجوال» يعني سراً «خمس سنوات من الخبرة في SwiftUI».</li>
 </ul>
-<p>Avoid advertising a general “Mobile Developer” role and later rejecting candidates because they do not specialize in the platform you failed to name.</p>
-<p>Native iOS, native Android, React Native, and Flutter are overlapping but distinct disciplines.</p>
-<p>They involve different:</p>
+<h1>حدد نوع مهندس الجوال الذي تحتاجه</h1>
+<p>قبل نشر الإعلان عن الوظيفة, حدد المشكلة التي توظف شخصاً لحلها.
+تشمل الاحتياجات المحتملة ما يلي:</p>
 <ul>
-<li>languages;</li>
-<li>SDKs;</li>
-<li>build systems;</li>
-<li>lifecycle models;</li>
-<li>debugging tools;</li>
-<li>accessibility systems;</li>
-<li>distribution processes;</li>
-<li>performance concerns;</li>
-<li>platform conventions;</li>
-<li>architectural trade-offs.</li>
+<li>بناء تطبيق iOS أصلي جديد؛</li>
+<li>صيانة منتج Android قائم؛</li>
+<li>الترحيل من طرق عرض الويب الهجينة إلى الشاشات الأصلية؛</li>
+<li><ul>
+<li>اعتماد React Native أو Flutter؛</li>
 </ul>
-<p>A strong Android engineer should not be expected to infer that “mobile” secretly means “five years of SwiftUI.”</p>
-<h1>Define what kind of mobile engineer you need</h1>
-<p>Before publishing the role, decide which problem you are hiring someone to solve.</p>
-<p>Possible needs include:</p>
-<ul>
-<li>building a new native iOS application;</li>
-<li>maintaining an established Android product;</li>
-<li>migrating from hybrid web views to native screens;</li>
-<li>adopting React Native or Flutter;</li>
-<li>replacing a legacy cross-platform framework;</li>
-<li>improving crash-free sessions;</li>
-<li>reducing startup time;</li>
-<li>building reliable offline functionality;</li>
-<li>improving app accessibility;</li>
-<li>modernizing release automation;</li>
-<li>creating shared mobile architecture;</li>
-<li>owning store submissions and phased rollouts;</li>
-<li>integrating hardware, Bluetooth, camera, location, or payments;</li>
-<li>supporting tablets, foldables, wearables, television, or automotive environments.</li>
+</li>
+<li>استبدال إطار عمل قديم متعدد المنصات؛</li>
+<li>تحسين الجلسات الخالية من الأعطال؛</li>
+<li>تقليل وقت بدء التشغيل؛</li>
+<li>بناء وظائف موثوقة في وضع عدم الاتصال بالإنترنت؛</li>
+<li>تحسين إمكانية الوصول إلى التطبيق؛</li>
+<li>تحديث أتمتة عمليات الإصدار؛</li>
+<li>إنشاء بنية مشتركة للأجهزة المحمولة؛</li>
+<li>تولي مسؤولية عمليات التقديم إلى المتاجر والتدريج التدريجي؛</li>
+<li>دمج الأجهزة, أو البلوتوث, أو الكاميرا, أو الموقع, أو طرق الدفع؛</li>
+<li>دعم الأجهزة اللوحية, أو الأجهزة القابلة للطي, أو الأجهزة القابلة للارتداء, أو التلفزيون, أو بيئات السيارات.
+يجب أن يعكس المسمى الوظيفي والمتطلبات والمقابلة والمكافأة المشكلة الفعلية.</li>
 </ul>
-<p>The job title, requirements, interview, and compensation should reflect the actual problem.</p>
-<h1>Copy-and-paste mobile developer job description template</h1>
-<h2>[iOS / Android / React Native / Flutter] Developer at [Company]</h2>
-<p><strong>Location:</strong> [Remote within region / Hybrid in city / On-site]</p>
-<p><strong>Employment type:</strong> [Full-time / Contract / Contract-to-hire]</p>
-<p><strong>Level:</strong> [Junior / Mid-level / Senior / Staff]</p>
-<p><strong>Compensation:</strong> [Currency and range], plus [bonus, equity, or other compensation]</p>
-<p><strong>Reporting to:</strong> [Engineering Manager / Mobile Lead / Head of Engineering]</p>
-<h2>About [Company]</h2>
-<p>[Company] builds [product or service] for [primary customers or users].</p>
-<p>Our mobile application helps users [complete the important user outcome]. The app currently has approximately [downloads, monthly active users, paid subscribers, or another meaningful measure] and maintains a [store rating] rating across [App Store / Google Play].</p>
-<p>Our mobile team includes [number and relevant roles], and works closely with [product, design, backend, platform, security, QA, data, or support teams].</p>
-<h2>About the role</h2>
-<p>We are hiring a [job title] to own [specific mobile product area or technical responsibility].</p>
-<p>You will help us [describe the outcome: launch a new app, modernize architecture, improve reliability, build offline support, expand into a new market, reduce release risk, or improve a major user workflow].</p>
-<p>This is a [native iOS / native Android / React Native / Flutter / other cross-platform] role.</p>
-<h3>What the platform scope means here</h3>
-<p>[Choose and customize one of the following.]</p>
-<p><strong>Native iOS example</strong></p>
+<h1>نموذج وصف وظيفي لمطور تطبيقات الجوال للنسخ واللصق</h1>
+<h2>مطور [iOS / Android / React Native / Flutter] في [الشركة]</h2>
+<p><strong>الموقع:</strong> [عن بُعد داخل المنطقة / هجين في المدينة / في الموقع]
+<strong>نوع التوظيف:</strong> [بدوام كامل / عقد / عقد قابل للتحويل إلى وظيفة دائمة]
+<strong>المستوى:</strong> [مبتدئ / متوسط / خبير / موظف]
+<strong>الأجر:</strong> [العملة والنطاق], بالإضافة إلى [مكافأة, أو أسهم, أو مكافآت أخرى]
+<strong>يرفع تقاريره إلى:</strong> [مدير الهندسة / رئيس قسم تطبيقات الجوال / رئيس قسم الهندسة]</p>
+<h2>نبذة عن [الشركة]</h2>
+<p>تقوم [الشركة] بتطوير [المنتج أو الخدمة] لـ [العملاء أو المستخدمين الرئيسيين].
+يساعد تطبيقنا للهواتف المحمولة المستخدمين على [تحقيق النتيجة المهمة للمستخدم]. ويبلغ عدد [التنزيلات, أو المستخدمين النشطين شهريًا, أو المشتركين المدفوعين, أو أي مقياس ذي مغزى آخر] للتطبيق حاليًا حوالي [الرقم], ويحافظ على تصنيف [تصنيف المتجر] عبر [App Store / Google Play].
+يتألف فريق تطبيقات الهواتف المحمولة لدينا من [العدد والوظائف ذات الصلة], ويعمل عن كثب مع [فرق المنتج, أو التصميم, أو البنية الخلفية, أو المنصة, أو الأمن, أو ضمان الجودة, أو البيانات, أو الدعم].</p>
+<h2>نبذة عن الوظيفة</h2>
+<p>نحن نبحث عن [المسمى الوظيفي] لتولي مسؤولية [مجال منتج محمول محدد أو مسؤولية تقنية محددة].
+ستساعدنا في [وصف النتيجة: إطلاق تطبيق جديد, أو تحديث البنية, أو تحسين الموثوقية, أو إنشاء دعم في وضع عدم الاتصال بالإنترنت, أو التوسع في سوق جديد, أو تقليل مخاطر الإصدار, أو تحسين سير عمل رئيسي للمستخدمين].
+هذه وظيفة [تطبيق iOS أصلي / تطبيق Android أصلي / React Native / Flutter / منصة متعددة أخرى].</p>
+<h3>ماذا يعني نطاق المنصة هنا</h3>
+<p>[اختر وخصص أحد الخيارات التالية.]
+<strong>مثال على تطبيق iOS أصلي</strong></p>
 <blockquote>
-<p>The application is written primarily in Swift and SwiftUI, with several older UIKit modules that are being modernized. This role is focused entirely on iOS. Android is owned by a separate team.</p>
+<p>تمت كتابة التطبيق بشكل أساسي بلغة Swift وSwiftUI, مع وجود عدة وحدات UIKit قديمة يجري تحديثها حاليًا. تركز هذه الوظيفة بالكامل على نظام iOS. أما نظام Android فيتولى مسؤوليته فريق منفصل.
+<strong>مثال على تطبيق Android الأصلي</strong>
+تمت كتابة التطبيق بلغة Kotlin باستخدام Jetpack Compose, مع بعض طرق العرض القديمة القائمة على XML. يتولى شاغل هذا الدور مسؤولية تطوير تطبيق Android. أما تطبيق iOS فيتولى صيانته فريق منفصل.
+<strong>مثال على React Native</strong>
+يتم تنفيذ معظم ميزات المنتج باستخدام React Native وTypeScript. ويشمل حوالي 20% من العمل وحدات Swift أو Kotlin الأصلية, وتكوين البناء, وتصحيح أخطاء الأداء, وعمليات التكامل الخاصة بالمنصة.</p>
 </blockquote>
-<p><strong>Native Android example</strong></p>
+<ul>
+<li><em>مثال Flutter</em>*</li>
+</ul>
 <blockquote>
-<p>The application is written in Kotlin using Jetpack Compose, with some legacy XML-based views. This role owns Android development. The iOS application is maintained by a separate team.</p>
+<p>يستخدم التطبيق Flutter و Dart للوظائف المشتركة للمنتج. تُستخدم قنوات المنصة للإشعارات, والمدفوعات, وأذونات الجهاز, والعديد من عمليات تكامل الأجهزة. تُعد الخبرة في التطبيقات الأصلية مفيدة ولكنها ليست مطلوبة من اليوم الأول.</p>
 </blockquote>
-<p><strong>React Native example</strong></p>
+<h2>ما ستقوم به</h2>
+<p>ستقوم بما يلي:</p>
+<ul>
+<li>تصميم ميزات الأجهزة المحمولة وبناؤها واختبارها وإصدارها بدءًا من مرحلة اكتشاف المنتج وحتى طرحه في المتجر.</li>
+<li>تطوير تجارب مستخدم تتوافق مع معايير المنصة وتظل متاحة عبر جميع الأجهزة المدعومة.</li>
+<li>تولي مسؤولية [مجال ميزة معينة, أو وحدة تطبيق, أو إمكانية منصة].</li>
+<li>التعاون مع مديري المنتجات والمصممين لتحديد المتطلبات قبل بدء التنفيذ.</li>
+<li>العمل مع مهندسي الخلفية لتصميم واجهات برمجة تطبيقات (APIs) مناسبة لعملاء الأجهزة المحمولة الذين يعملون على شبكات غير موثوقة أو ذات زمن انتقال مرتفع.</li>
+<li>تنفيذ سلوكيات مرنة للتحميل, والتخزين المؤقت, وإعادة المحاولة, والمزامنة, ومعالجة الأخطاء.</li>
+<li>تحسين وقت بدء التشغيل, وسرعة الاستجابة, واستخدام الذاكرة, واستهلاك البطارية, وكفاءة الشبكة, واستقرار التطبيق.</li>
+<li>التحقيق في أعطال الإنتاج والأعطال الخاصة بالأجهزة باستخدام القياس عن بُعد, والسجلات, وتقارير الأعطال, وإعادة التوليد الخاضعة للرقابة.</li>
+<li>كتابة اختبارات الوحدة, والتكامل, وواجهة المستخدم, والاختبارات الشاملة المناسبة للمنصة.</li>
+<li>المشاركة في مراجعة الكود واتخاذ القرارات المتعلقة بهندسة تطبيقات الجوال.</li>
+<li>دعم أتمتة البناء والتوقيع والتزويد وتقديم التطبيقات إلى المتاجر والإصدارات المرحلية.</li>
+<li>مراقبة سلامة الإصدارات والاستجابة عند تدهور مؤشرات الأداء في بيئة الإنتاج.</li>
+<li>تحسين أدوات المطورين والوثائق وعملية إصدار تطبيقات الجوال.</li>
+<li>المساهمة في إتاحة الوصول إلى التطبيق باستخدام [VoiceOver, TalkBack, Dynamic Type, تغيير حجم الخط, التباين, الوصول عبر المفتاح التبديلي, التنقل عبر لوحة المفاتيح, أو الإمكانات ذات الصلة] .</li>
+<li>المساعدة في الحفاظ على التوافق عبر [نطاق أنظمة التشغيل المدعومة] و[فئات الأجهزة ذات الصلة].</li>
+<li>المشاركة في [نظام المناوبة, أو دعم الإصدارات, أو الاستجابة للحوادث], إن أمكن.</li>
+</ul>
+<h2>ما نبحث عنه</h2>
+<p>أن تكون لديك:</p>
+<ul>
+<li>خبرة في بناء وصيانة تطبيقات الجوال في بيئة الإنتاج.</li>
+<li>خبرة قوية في [Swift و SwiftUI / Kotlin و Jetpack Compose / React Native و TypeScript / Flutter و Dart].</li>
+<li>قمت بإصدار أو ساهمت بشكل ملموس في تطبيق واحد على الأقل تم توزيعه عبر [متجر تطبيقات Apple / Google Play / التوزيع المؤسسي].</li>
+<li>خبرة في صيانة التطبيق بعد الإصدار, بما في ذلك أخطاء الإنتاج, وملاحظات المستخدمين, وتغييرات نظام التشغيل.</li>
+<li>فهم راسخ لسلوك دورة حياة تطبيقات الأجهزة المحمولة.</li>
+<li>خبرة في العمل غير المتزامن, والتزامن, والتنفيذ في الخلفية, واستعادة الحالة.</li>
+<li>إلمام بطلبات الشبكة, والتخزين المحلي, والتخزين المؤقت, والسلوك في وضع عدم الاتصال.</li>
+<li>مهارات قوية في تصحيح الأخطاء باستخدام السجلات, وتقارير الأعطال, وأدوات تحليل الأداء, والتحليلات, واختبار الأجهزة.</li>
+<li>خبرة في دمج REST, أو GraphQL, أو WebSocket, أو واجهات برمجة تطبيقات (APIs) أخرى.</li>
+<li>فهم أساسيات أمن الأجهزة المحمولة, بما في ذلك التخزين الآمن, والمصادقة, والتعامل مع البيانات الحساسة, وأمن النقل.</li>
+<li>خبرة في كتابة الاختبارات الآلية.</li>
+<li>القدرة على شرح القرارات التقنية والمفاضلات بوضوح.</li>
+<li>عقلية منتج واهتمام بكيفية تأثير سلوك الأجهزة المحمولة على العملاء.</li>
+</ul>
+<h2>مهارات إضافية مرغوبة</h2>
+<p>الخبرات التالية مفيدة ولكنها غير إلزامية:</p>
+<ul>
+<li>[UIKit / SwiftUI / Jetpack Compose / Android Views / React Native New Architecture / قنوات منصة Flutter].</li>
+<li>أنماط هندسة التطبيقات مثل [MVVM, MVI, Redux, Clean Architecture, Coordinator, Composable Architecture, أو أي نموذج آخر ذي صلة].</li>
+<li>اختبار إمكانية الوصول باستخدام [VoiceOver / TalkBack].</li>
+<li>تحليل الأداء باستخدام [Instruments / Xcode Organizer / Android Studio Profiler / Perfetto / Firebase Performance].</li>
+<li>الإبلاغ عن الأعطال باستخدام [Sentry / Firebase Crashlytics / Bugsnag / أداة أخرى].</li>
+<li>التحليلات والتجارب باستخدام [الأدوات].</li>
+<li>الإشعارات الفورية والروابط العميقة.</li>
+<li>المزامنة في الخلفية والتصميم الذي يعطي الأولوية للعمل دون اتصال بالإنترنت.</li>
+<li>تكامل الكاميرا, والوسائط, والبلوتوث, والموقع الجغرافي, والصحة, والمدفوعات, أو مستشعرات الجهاز.</li>
+<li>اشتراكات المتجر والمشتريات داخل التطبيق.</li>
+<li>خبرة في مجال أمن الأجهزة المحمولة أو التعامل مع البيانات الخاضعة للتنظيم.</li>
+<li>خبرة في العمل مع منصات الأجهزة المحمولة الأخرى.</li>
+<li>خبرة في ترحيل تطبيق أصلي إلى تقنية متعددة المنصات أو العكس.</li>
+<li>التكامل المستمر/التسليم المستمر (CI/CD) للأجهزة المحمولة باستخدام [Fastlane / GitHub Actions / Bitrise / CircleCI / Codemagic / Xcode Cloud].</li>
+<li>خبرة في دعم الأجهزة اللوحية, أو الأجهزة القابلة للطي, أو الأجهزة القابلة للارتداء, أو فئات الأجهزة الأخرى.</li>
+<li>الإلمام بقطاعنا أو مجال منتجاتنا.</li>
+</ul>
+<h2>بيئتنا الخاصة بالهواتف المحمولة</h2>
+<p>قم بتخصيص هذا القسم بمعلومات محددة.
+<strong>المنصة:</strong> [iOS / Android / React Native / Flutter]
+<strong>اللغات:</strong> [Swift, Kotlin, TypeScript, Dart]
+<strong>إطار عمل واجهة المستخدم:</strong> [SwiftUI, UIKit, Jetpack Compose, Android Views, React Native, Flutter]
+<strong>البنية:</strong> [MVVM, MVI, Redux, Clean Architecture, البنية المونوليثية المعيارية, وحدات الميزات]
+<strong>الشبكات:</strong> [URLSession, Retrofit, Apollo, عميل GraphQL, SDK مخصص]
+<strong>التخزين الدائم:</strong> [Core Data, SwiftData, Room, SQLite, Realm, التخزين الآمن]</p>
+<ul>
+<li><em>إدارة التبعيات:</em>* [Swift Package Manager, CocoaPods, Gradle, npm, pnpm, pub]
+<strong>الاختبار:</strong> [XCTest, XCUITest, JUnit, Espresso, Maestro, Detox, Flutter test]
+<strong>التكامل المستمر/التسليم المستمر (CI/CD):</strong> [Xcode Cloud, GitHub Actions, Bitrise, Fastlane, Codemagic]
+<strong>الإبلاغ عن الأعطال:</strong> [Sentry, Crashlytics, Bugsnag]
+<strong>التحليلات:</strong> [Amplitude, Mixpanel, Firebase Analytics, تحليلات داخلية]
+<strong>الإصدار الأدنى المدعوم:</strong> [إصدار iOS / مستوى واجهة برمجة تطبيقات Android]
+<strong>وتيرة الإصدارات:</strong> [أسبوعي / كل أسبوعين / شهري / وتيرة أخرى]
+<strong>مقاييس الجودة الحالية:</strong> [معدل الجلسات الخالية من الأعطال, معدل ANR, وقت بدء التشغيل, تقييم المتجر]
+<strong>الواقع الحالي لقاعدة الكود:</strong> [جملة صادقة حول الديون التقنية, أو التحديث, أو تغطية الاختبارات, أو البنية.]
+مثال:</li>
+</ul>
 <blockquote>
-<p>Most product features are implemented in React Native and TypeScript. Approximately 20% of the work involves native Swift or Kotlin modules, build configuration, performance debugging, and platform-specific integrations.</p>
+<p>تستخدم مجالات المنتجات الجديدة SwiftUI والتزامن المنظم. لا تزال العديد من شاشات الدفع الأساسية تستخدم UIKit والشبكات القائمة على الاستدعاءات المرتدة؛ ويعد تحديث هذا المسار جزءًا من هذه الوظيفة.</p>
 </blockquote>
-<p><strong>Flutter example</strong></p>
-<blockquote>
-<p>The application uses Flutter and Dart for shared product functionality. Platform channels are used for notifications, payments, device permissions, and several hardware integrations. Native experience is helpful but not required on day one.</p>
-</blockquote>
-<h2>What you will do</h2>
-<p>You will:</p>
+<h2>ما لا تشمله هذه الوظيفة</h2>
+<p>استخدم هذا القسم لتجنب التوقعات غير الواقعية.
+أمثلة:</p>
 <ul>
-<li>Design, build, test, and ship mobile features from product discovery through store release.</li>
-<li>Develop user experiences that follow platform conventions and remain accessible across supported devices.</li>
-<li>Own [specific feature area, application module, or platform capability].</li>
-<li>Collaborate with product managers and designers to shape requirements before implementation begins.</li>
-<li>Work with backend engineers to design APIs suitable for mobile clients operating on unreliable or high-latency networks.</li>
-<li>Implement resilient loading, caching, retry, synchronization, and error-handling behavior.</li>
-<li>Improve startup time, responsiveness, memory usage, battery consumption, network efficiency, and application stability.</li>
-<li>Investigate production crashes and device-specific failures using telemetry, logs, crash reporting, and controlled reproduction.</li>
-<li>Write unit, integration, UI, and end-to-end tests appropriate to the platform.</li>
-<li>Participate in code review and mobile architecture decisions.</li>
-<li>Support build automation, signing, provisioning, store submissions, and phased releases.</li>
-<li>Monitor release health and respond when production metrics deteriorate.</li>
-<li>Improve developer tooling, documentation, and the mobile release process.</li>
-<li>Contribute to application accessibility using [VoiceOver, TalkBack, Dynamic Type, font scaling, contrast, switch access, keyboard navigation, or related capabilities].</li>
-<li>Help maintain compatibility across [supported operating-system range] and [relevant device classes].</li>
-<li>Participate in [on-call, release support, or incident response], if applicable.</li>
+<li>هذه الوظيفة ليست وظيفة مشتركة بين iOS وAndroid.</li>
+<li>لن تكون مسؤولاً بمفردك عن خدمات الخلفية.</li>
+<li>البنية التحتية للمنصة مملوكة لفريق منصة الأجهزة المحمولة لدينا.</li>
+<li>يتولى مصممو المنتجات مسؤولية التصميم التفاعلي والمرئي.</li>
+<li>تتضمن الموافقة على الإصدار عمليات ضمان الجودة والامتثال, ولا تقع المسؤولية عنها بالكامل على عاتق مهندس واحد.</li>
+<li>يمثل العمل على الوحدات الأصلية حوالي [النسبة المئوية] من هذه الوظيفة الشاملة لعدة منصات.</li>
+<li>لا تتضمن هذه الوظيفة مسؤولية التواجد تحت الطلب على مدار الساعة طوال أيام الأسبوع.</li>
+<li>لن يُتوقع منك دعم كل الأجهزة القديمة إلى أجل غير مسمى.
+إن تحديد ما لا تشمله الوظيفة يمكن أن يحسّن جودة المتقدمين بقدر ما يحسّنها وصف ما تشمله.</li>
 </ul>
-<h2>What we are looking for</h2>
-<p>You have:</p>
+<h2>كيف يبدو النجاح</h2>
+<h3>خلال أول 30 يومًا</h3>
+<p>ستقوم بما يلي:</p>
 <ul>
-<li>Experience building and maintaining production mobile applications.</li>
-<li>Strong experience with [Swift and SwiftUI / Kotlin and Jetpack Compose / React Native and TypeScript / Flutter and Dart].</li>
-<li>Shipped or meaningfully contributed to at least one application distributed through [Apple App Store / Google Play / enterprise distribution].</li>
-<li>Experience maintaining an app after release, including production bugs, user feedback, and operating-system changes.</li>
-<li>A solid understanding of mobile application lifecycle behavior.</li>
-<li>Experience with asynchronous work, concurrency, background execution, and state restoration.</li>
-<li>Familiarity with network requests, local persistence, caching, and offline behavior.</li>
-<li>Strong debugging skills using logs, crash reports, profilers, analytics, and device testing.</li>
-<li>Experience integrating REST, GraphQL, WebSocket, or other application APIs.</li>
-<li>Understanding of mobile security fundamentals, including secure storage, authentication, sensitive-data handling, and transport security.</li>
-<li>Experience writing automated tests.</li>
-<li>Ability to explain technical decisions and trade-offs clearly.</li>
-<li>A product mindset and interest in how mobile behavior affects customers.</li>
+<li>إكمال إعدادات تطوير تطبيقات الجوال والأمن؛</li>
+<li>فهم المنتج ومسارات المستخدم الرئيسية؛</li>
+<li>التعرف على بنية التطبيق؛</li>
+<li>طرح تحسين صغير في الإنتاج؛</li>
+<li>المشاركة في مراجعة الكود والتحضير للإصدار؛</li>
+<li>تحديد الثغرات في عملية التهيئة أو التوثيق.</li>
 </ul>
-<h2>Nice to have</h2>
-<p>The following experience is helpful but not required:</p>
+<h3>خلال أول 60 يومًا</h3>
+<p>ستقوم بما يلي:</p>
 <ul>
-<li>[UIKit / SwiftUI / Jetpack Compose / Android Views / React Native New Architecture / Flutter platform channels].</li>
-<li>App architecture patterns such as [MVVM, MVI, Redux, Clean Architecture, Coordinator, Composable Architecture, or another relevant model].</li>
-<li>Accessibility testing with [VoiceOver / TalkBack].</li>
-<li>Performance profiling with [Instruments / Xcode Organizer / Android Studio Profiler / Perfetto / Firebase Performance].</li>
-<li>Crash reporting with [Sentry / Firebase Crashlytics / Bugsnag / another tool].</li>
-<li>Analytics and experimentation with [tooling].</li>
-<li>Push notifications and deep links.</li>
-<li>Background synchronization and offline-first design.</li>
-<li>Camera, media, Bluetooth, location, health, payments, or device-sensor integrations.</li>
-<li>Store subscriptions and in-app purchases.</li>
-<li>Mobile security or regulated-data experience.</li>
-<li>Experience with the other mobile platform.</li>
-<li>Experience migrating a native app to cross-platform technology or the reverse.</li>
-<li>Mobile CI/CD with [Fastlane / GitHub Actions / Bitrise / CircleCI / Codemagic / Xcode Cloud].</li>
-<li>Experience supporting tablets, foldables, wearables, or other device classes.</li>
-<li>Familiarity with our industry or product domain.</li>
+<li>تولي مسؤولية ميزة محددة النطاق أو وحدة تطبيقية؛</li>
+<li>المساهمة في إصدار؛</li>
+<li>تحليل بيانات القياس عن بُعد الحقيقية للإنتاج؛</li>
+<li>التعاون مع شركاء التصميم والمنتج والخدمات الخلفية؛</li>
+<li>اقتراح تحسين واحد على الأقل قابل للقياس في الجودة أو تجربة المطور.</li>
 </ul>
-<h2>Our mobile environment</h2>
-<p>Customize this section with specific information.</p>
-<p><strong>Platform:</strong> [iOS / Android / React Native / Flutter]</p>
-<p><strong>Languages:</strong> [Swift, Kotlin, TypeScript, Dart]</p>
-<p><strong>UI framework:</strong> [SwiftUI, UIKit, Jetpack Compose, Android Views, React Native, Flutter]</p>
-<p><strong>Architecture:</strong> [MVVM, MVI, Redux, Clean Architecture, modular monolith, feature modules]</p>
-<p><strong>Networking:</strong> [URLSession, Retrofit, Apollo, GraphQL client, custom SDK]</p>
-<p><strong>Persistence:</strong> [Core Data, SwiftData, Room, SQLite, Realm, secure storage]</p>
-<p><strong>Dependency management:</strong> [Swift Package Manager, CocoaPods, Gradle, npm, pnpm, pub]</p>
-<p><strong>Testing:</strong> [XCTest, XCUITest, JUnit, Espresso, Maestro, Detox, Flutter test]</p>
-<p><strong>CI/CD:</strong> [Xcode Cloud, GitHub Actions, Bitrise, Fastlane, Codemagic]</p>
-<p><strong>Crash reporting:</strong> [Sentry, Crashlytics, Bugsnag]</p>
-<p><strong>Analytics:</strong> [Amplitude, Mixpanel, Firebase Analytics, internal analytics]</p>
-<p><strong>Minimum supported version:</strong> [iOS version / Android API level]</p>
-<p><strong>Release cadence:</strong> [Weekly / biweekly / monthly / another cadence]</p>
-<p><strong>Current quality metrics:</strong> [Crash-free session rate, ANR rate, startup time, store rating]</p>
-<p><strong>Current codebase reality:</strong> [An honest sentence about technical debt, modernization, test coverage, or architecture.]</p>
-<p>Example:</p>
-<blockquote>
-<p>New product areas use SwiftUI and structured concurrency. Several core checkout screens still use UIKit and callback-based networking; modernizing that flow is part of this role.</p>
-</blockquote>
-<h2>What this role does not include</h2>
-<p>Use this section to prevent unrealistic expectations.</p>
-<p>Examples:</p>
+<h3>خلال أول 90 يومًا</h3>
+<p>ستقوم بما يلي:</p>
 <ul>
-<li>This is not a combined iOS and Android role.</li>
-<li>You will not be solely responsible for backend services.</li>
-<li>Platform infrastructure is owned by our mobile-platform team.</li>
-<li>Product designers own interaction and visual design.</li>
-<li>Release approval involves QA and compliance rather than sitting entirely with one engineer.</li>
-<li>Native module work represents approximately [percentage] of this cross-platform role.</li>
-<li>This role does not include 24/7 on-call responsibility.</li>
-<li>You will not be expected to support every historical device indefinitely.</li>
+<li>تسليم ميزة ذات قيمة من البداية إلى النهاية؛</li>
+<li>العمل بشكل مستقل ضمن النطاق المتوقع؛</li>
+<li>فهم عملية الإصدار ودعم الإنتاج؛</li>
+<li>المساهمة في قرارات الهندسة والجودة؛</li>
+<li>تحديد الأهداف للستة أشهر القادمة.</li>
 </ul>
-<p>Defining what the role does not include can improve applicant quality as much as describing what it does.</p>
-<h2>What success looks like</h2>
-<h3>During the first 30 days</h3>
-<p>You will:</p>
-<ul>
-<li>complete mobile-development and security setup;</li>
-<li>understand the product and primary user journeys;</li>
-<li>become familiar with the application architecture;</li>
-<li>ship a small production improvement;</li>
-<li>participate in code review and release preparation;</li>
-<li>identify onboarding or documentation gaps.</li>
-</ul>
-<h3>During the first 60 days</h3>
-<p>You will:</p>
-<ul>
-<li>own a scoped feature or application module;</li>
-<li>contribute to a release;</li>
-<li>investigate real production telemetry;</li>
-<li>collaborate with design, product, and backend partners;</li>
-<li>propose at least one measurable quality or developer-experience improvement.</li>
-</ul>
-<h3>During the first 90 days</h3>
-<p>You will:</p>
-<ul>
-<li>deliver a meaningful feature end to end;</li>
-<li>operate independently within the expected scope;</li>
-<li>understand the release and production-support process;</li>
-<li>contribute to architecture and quality decisions;</li>
-<li>establish goals for the next six months.</li>
-</ul>
-<h2>Interview process</h2>
-<p>Our interview process is designed to evaluate work relevant to the role.</p>
+<h2>عملية المقابلة</h2>
+<p>تم تصميم عملية المقابلة لدينا لتقييم العمل ذي الصلة بالوظيفة.</p>
 <ol>
-<li><p><strong>Introductory conversation — [30 minutes]</strong></p>
-<p>Meet the hiring manager, discuss the role, compensation, platform scope, and practical requirements.</p>
-</li>
-<li><p><strong>Mobile project walkthrough — [60 minutes]</strong></p>
-<p>Walk us through an application or feature you helped ship. We will discuss architecture, your contribution, release decisions, production issues, and what you would change now.</p>
-</li>
-<li><p><strong>Practical technical assessment — [60–120 minutes]</strong></p>
-<p>Complete a collaborative debugging, implementation, architecture, or code-review exercise resembling the work performed in the role.</p>
-<p>[State whether this is live, take-home, and whether substantial take-home work is paid.]</p>
-</li>
-<li><p><strong>Team conversation — [45–60 minutes]</strong></p>
-<p>Meet future teammates and discuss collaboration, product thinking, feedback, and working practices.</p>
-</li>
-<li><p><strong>Decision</strong></p>
-<p>We aim to provide a decision or clear next step within [number] business days.</p>
-</li>
+<li><strong>محادثة تمهيدية — [30 دقيقة]</strong>
+  التعرف على مدير التوظيف, ومناقشة الوظيفة, والمكافآت, ونطاق المنصة, والمتطلبات العملية.</li>
+<li><strong>عرض تفصيلي لمشروع تطبيق جوال — [60 دقيقة]</strong>
+اشرح لنا بالتفصيل تطبيقًا أو ميزة ساهمت في إطلاقها. سنناقش البنية, ومساهمتك, وقرارات الإصدار, ومشكلات الإنتاج, وما الذي قد تغيره الآن.</li>
+<li><strong>تقييم تقني عملي — [60–120 دقيقة]</strong>
+أكمل تمرينًا تعاونيًّا في تصحيح الأخطاء, أو التنفيذ, أو البنية, أو مراجعة الكود يشبه العمل الذي يتم أداؤه في هذا الدور.</li>
 </ol>
-<h2>Benefits</h2>
-<p>Customize this section.</p>
-<p>Benefits may include:</p>
+<p>[حدد ما إذا كان هذا التقييم سيتم إجراؤه مباشرةً أم في المنزل, وما إذا كان العمل الكبير الذي يتم إجراؤه في المنزل مدفوع الأجر.]
+4. <strong>محادثة مع الفريق — [45–60 دقيقة]</strong>
+التقِ بزملائك المستقبليين في الفريق وناقش معهم التعاون, والتفكير في المنتج, والتغذية الراجعة, وممارسات العمل.
+5. <strong>القرار</strong>
+نسعى إلى إصدار قرار أو تحديد الخطوة التالية بوضوح في غضون [عدد] أيام عمل.</p>
+<h2>المزايا</h2>
+<p>قم بتخصيص هذا القسم.
+قد تشمل المزايا ما يلي:</p>
 <ul>
-<li>health insurance;</li>
-<li>retirement contributions;</li>
-<li>equity;</li>
-<li>annual bonus;</li>
-<li>paid leave;</li>
-<li>parental leave;</li>
-<li>remote-work support;</li>
-<li>equipment choice;</li>
-<li>phone and test-device budget;</li>
-<li>learning budget;</li>
-<li>conference support;</li>
-<li>accessibility accommodations;</li>
-<li>flexible working hours;</li>
-<li>wellness support.</li>
+<li>التأمين الصحي؛</li>
+<li>مساهمات التقاعد؛</li>
+<li>الأسهم؛</li>
+<li>المكافأة السنوية؛</li>
+<li>الإجازة المدفوعة الأجر؛</li>
+<li>إجازة الأبوة والأمومة؛</li>
+<li>دعم العمل عن بُعد؛</li>
+<li>اختيار المعدات؛</li>
+<li>ميزانية الهاتف وأجهزة الاختبار؛</li>
+<li>ميزانية التعلم؛</li>
+<li>دعم حضور المؤتمرات؛</li>
+<li>التسهيلات الخاصة بإمكانية الوصول؛</li>
+<li>ساعات العمل المرنة؛</li>
+<li>دعم الرفاهية.</li>
 </ul>
-<h2>How to apply</h2>
-<p>Apply through [application link].</p>
-<p>Please include:</p>
+<h2>كيفية التقديم</h2>
+<p>تقدم عبر [رابط التقديم].
+يرجى تضمين:</p>
 <ul>
-<li>your résumé;</li>
-<li>links to relevant public work, when available;</li>
-<li>an App Store or Google Play link to an application you contributed to, when permitted;</li>
-<li>a short explanation of the part you personally owned.</li>
+<li>سيرتك الذاتية؛</li>
+<li>روابط لأعمالك العامة ذات الصلة, إن وجدت؛</li>
+<li>رابط من متجر التطبيقات (App Store) أو Google Play لتطبيق ساهمت في تطويره, إذا كان ذلك مسموحًا؛</li>
+<li>شرح موجز للدور الذي قمت به شخصيًا.
+تقديم التطبيقات العامة اختياري. نحن نتفهم أن الكثير من الأعمال المهنية المتعلقة بالهواتف المحمولة تكون خاصة, أو تُوزَّع عبر قنوات المؤسسة, أو محمية بموجب التزامات السرية.
+[الشركة] هي جهة توظيف توفر تكافؤ الفرص. نرحب بالمتقدمين من خلفيات غير تقليدية ونوفر تسهيلات معقولة طوال عملية التوظيف.</li>
 </ul>
-<p>Public applications are optional. We understand that much professional mobile work is private, distributed through enterprise channels, or protected by confidentiality obligations.</p>
-<p>[Company] is an equal-opportunity employer. We welcome applicants from nontraditional backgrounds and provide reasonable accommodations throughout the hiring process.</p>
-<h1>How to customize the template for native iOS</h1>
-<p>A native iOS job description should usually mention:</p>
+<h1>كيفية تخصيص النموذج لوظائف iOS الأصلية</h1>
+<p>يجب أن يتضمن الوصف الوظيفي لوظائف iOS الأصلية عادةً ما يلي:</p>
 <ul>
-<li>Swift;</li>
-<li>SwiftUI, UIKit, or both;</li>
-<li>application lifecycle;</li>
-<li>structured concurrency;</li>
-<li>memory management;</li>
-<li>background execution;</li>
-<li>App Store submission;</li>
-<li>signing and provisioning;</li>
-<li>XCTest and XCUITest;</li>
-<li>VoiceOver and Dynamic Type;</li>
-<li>Instruments;</li>
-<li>supported iOS versions;</li>
-<li>device and tablet support;</li>
-<li>StoreKit where relevant.</li>
+<li>لغة Swift؛</li>
+<li>SwiftUI أو UIKit أو كليهما؛</li>
+<li>دورة حياة التطبيق؛</li>
+<li>التزامن المنظم؛</li>
+<li>إدارة الذاكرة؛</li>
+<li>التنفيذ في الخلفية؛</li>
+<li>تقديم التطبيق إلى متجر التطبيقات (App Store)؛</li>
+<li>التوقيع والتزويد؛</li>
+<li>XCTest و XCUITest؛</li>
+<li>VoiceOver و Dynamic Type؛</li>
+<li>Instruments؛</li>
+<li>إصدارات iOS المدعومة؛</li>
+<li>دعم الأجهزة والأجهزة اللوحية؛</li>
+<li>StoreKit عند الاقتضاء.
+لا تشترط كل إطار عمل من أطر عمل Apple استخدمته الشركة في أي وقت مضى.
+افصل بين التقنيات المستخدمة يوميًا والخبرة الاختيارية الخاصة بمجال معين.</li>
 </ul>
-<p>Do not require every Apple framework the company has ever used.</p>
-<p>Separate the technologies used every day from optional domain-specific experience.</p>
-<h2>Example iOS role summary</h2>
+<h2>مثال على ملخص وظيفة iOS</h2>
 <blockquote>
-<p>We are hiring a Senior iOS Engineer to own the checkout and subscription experience in our consumer application. The app is primarily Swift and SwiftUI, with several UIKit modules that are being replaced gradually. You will work closely with product, design, backend, and payments teams and will share ownership of App Store releases.</p>
+<p>نحن نبحث عن مهندس iOS أول ليتولى مسؤولية تجربة الدفع والاشتراك في تطبيقنا المخصص للمستهلكين. يعتمد التطبيق بشكل أساسي على Swift وSwiftUI, مع وجود عدة وحدات UIKit يجري استبدالها تدريجيًا. ستعمل عن كثب مع فرق المنتج والتصميم والخدمات الخلفية والمدفوعات, وستشارك في مسؤولية إصدارات App Store.</p>
 </blockquote>
-<h1>How to customize the template for native Android</h1>
-<p>A native Android job description should usually mention:</p>
+<h1>كيفية تخصيص القالب لتطبيقات Android الأصلية</h1>
+<p>يجب أن يتضمن الوصف الوظيفي لتطبيقات Android الأصلية عادةً ما يلي:</p>
 <ul>
-<li>Kotlin;</li>
-<li>Jetpack Compose, Android Views, or both;</li>
-<li>application and activity lifecycle;</li>
-<li>coroutines and flows;</li>
-<li>background work;</li>
-<li>process death and state restoration;</li>
-<li>Gradle;</li>
-<li>Play Store release management;</li>
-<li>testing;</li>
-<li>accessibility with TalkBack;</li>
-<li>Android Studio Profiler or Perfetto;</li>
-<li>supported API levels;</li>
-<li>device fragmentation;</li>
-<li>ANR and crash metrics.</li>
+<li>Kotlin؛</li>
+<li>Jetpack Compose أو Android Views أو كليهما؛</li>
+<li>دورة حياة التطبيق والأنشطة؛</li>
+<li>الكوروتينات والتدفقات؛</li>
+<li>العمل في الخلفية؛</li>
+<li>إنهاء العملية واستعادة الحالة؛</li>
+<li>Gradle؛</li>
+<li>إدارة إصدارات متجر Play Store؛</li>
+<li>الاختبار؛</li>
+<li>إمكانية الوصول باستخدام TalkBack؛</li>
+<li>Android Studio Profiler أو Perfetto؛</li>
+<li>مستويات واجهة برمجة التطبيقات (API) المدعومة؛</li>
+<li>تجزئة الأجهزة؛</li>
+<li>مقاييس ANR والتعطل.</li>
 </ul>
-<h2>Example Android role summary</h2>
+<h2>مثال على ملخص وظيفة أندرويد</h2>
 <blockquote>
-<p>We are hiring a Senior Android Engineer to modernize our account and booking experiences using Kotlin and Jetpack Compose. The application supports Android API [level] and above and serves users across a wide range of devices and network conditions. You will own features through staged Play Store release and production monitoring.</p>
+<p>نحن نبحث عن مهندس أندرويد أول لتحديث تجارب الحساب والحجز لدينا باستخدام Kotlin و Jetpack Compose. يدعم التطبيق مستوى واجهة برمجة تطبيقات أندرويد [level] وما فوقه, ويخدم المستخدمين عبر مجموعة واسعة من الأجهزة وظروف الشبكة. ستتولى مسؤولية الميزات من خلال الإصدارات المرحلية على متجر Play Store ومراقبة الإنتاج.</p>
 </blockquote>
-<h1>How to customize the template for React Native</h1>
-<p>A React Native listing should explain:</p>
+<h1>كيفية تخصيص النموذج لـ React Native</h1>
+<p>يجب أن توضح إعلانات الوظائف الخاصة بـ React Native ما يلي:</p>
 <ul>
-<li>TypeScript or JavaScript usage;</li>
-<li>React Native version;</li>
-<li>New Architecture adoption;</li>
-<li>Expo or bare workflow;</li>
-<li>native module expectations;</li>
-<li>amount of Swift and Kotlin work;</li>
-<li>navigation;</li>
-<li>state management;</li>
-<li>testing;</li>
-<li>build pipelines;</li>
-<li>over-the-air update policy;</li>
-<li>platform-specific customization;</li>
-<li>performance expectations;</li>
-<li>store release ownership.</li>
+<li>استخدام TypeScript أو JavaScript؛</li>
+<li>إصدار React Native؛</li>
+<li>اعتماد بنية جديدة؛</li>
+<li>استخدام Expo أو سير عمل عاري؛</li>
+<li>توقعات الوحدات الأصلية؛</li>
+<li>حجم العمل باستخدام Swift وKotlin؛</li>
+<li>التنقل؛</li>
+<li>إدارة الحالة؛</li>
+<li>الاختبار؛</li>
+<li>مسارات البناء؛</li>
+<li>سياسة التحديث عبر الهواء؛</li>
+<li>التخصيص الخاص بالمنصة؛</li>
+<li>توقعات الأداء؛</li>
+<li>مسؤولية الإصدار في المتجر.
+تجنب الإعلان عن React Native وكأن المعرفة بالمنصة الأصلية لا تهم أبدًا.
+لا تزال التطبيقات متعددة المنصات تتفاعل مع:</li>
+<li>أذونات نظام التشغيل؛</li>
+<li>خدمات الإشعارات الفورية؛</li>
+<li>دورة حياة التطبيق؛</li>
+<li>أجهزة الجهاز؛</li>
+<li>أنظمة البناء الأصلية؛</li>
+<li>التوزيع عبر المتاجر؛</li>
+<li>أدوات الأداء؛</li>
+<li>أنظمة إمكانية الوصول.</li>
 </ul>
-<p>Avoid advertising React Native as if native platform knowledge never matters.</p>
-<p>Cross-platform applications still interact with:</p>
-<ul>
-<li>operating-system permissions;</li>
-<li>push notification services;</li>
-<li>application lifecycle;</li>
-<li>device hardware;</li>
-<li>native build systems;</li>
-<li>store distribution;</li>
-<li>performance tooling;</li>
-<li>accessibility systems.</li>
-</ul>
-<h2>Example React Native role summary</h2>
+<h2>مثال على ملخص وظيفة React Native</h2>
 <blockquote>
-<p>We are hiring a React Native Developer to build shared product features across iOS and Android. Approximately 75% of the work is TypeScript and React Native, while 25% involves platform-specific behavior, build configuration, and native module integration. Experience in either Swift or Kotlin is helpful but not required immediately.</p>
+<p>نحن نبحث عن مطور React Native لتطوير ميزات منتج مشتركة عبر أنظمة iOS وAndroid. ما يقارب 75% من العمل يتم باستخدام TypeScript وReact Native, بينما يتضمن 25% السلوك الخاص بالمنصة, وتكوين البناء, وتكامل الوحدات الأصلية. الخبرة في لغة Swift أو Kotlin مفيدة ولكنها ليست مطلوبة على الفور.</p>
 </blockquote>
-<h1>How to customize the template for Flutter</h1>
-<p>A Flutter listing should explain:</p>
+<h1>كيفية تخصيص القالب لـ Flutter</h1>
+<p>يجب أن توضح إعلانات الوظائف الخاصة بـ Flutter ما يلي:</p>
 <ul>
-<li>Dart;</li>
-<li>Flutter version and supported platforms;</li>
-<li>state-management approach;</li>
-<li>platform channels;</li>
-<li>native integration expectations;</li>
-<li>build and release workflow;</li>
-<li>navigation;</li>
-<li>testing;</li>
-<li>analytics;</li>
-<li>performance;</li>
-<li>supported device classes;</li>
-<li>web or desktop scope, if applicable.</li>
+<li>لغة Dart؛</li>
+<li>إصدار Flutter والمنصات المدعومة؛</li>
+<li>نهج إدارة الحالة؛</li>
+<li>قنوات المنصات؛</li>
+<li>توقعات التكامل الأصلي؛</li>
+<li>سير عمل البناء والإصدار؛</li>
+<li>التنقل؛</li>
+<li>الاختبار؛</li>
+<li>التحليلات؛</li>
+<li>الأداء؛</li>
+<li>فئات الأجهزة المدعومة؛</li>
+<li>نطاق الويب أو سطح المكتب, إن أمكن.
+لا تذكر الويب أو سطح المكتب أو iOS أو Android لمجرد أن Flutter يمكنها استهدافها.
+حدد الأهداف التي تشكل فعليًّا جزءًا من الوظيفة.</li>
 </ul>
-<p>Do not include web, desktop, iOS, and Android merely because Flutter can target them.</p>
-<p>State which targets are actually part of the job.</p>
-<h2>Example Flutter role summary</h2>
+<h2>مثال على ملخص وظيفة Flutter</h2>
 <blockquote>
-<p>We are hiring a Flutter Developer to own our consumer applications for iOS and Android. Most product functionality is implemented in Dart. Platform channels are used for notifications, payments, and secure storage. Desktop and web are not part of this role.</p>
+<p>نحن نبحث عن مطور Flutter لتولي مسؤولية تطبيقاتنا الاستهلاكية على iOS وAndroid. يتم تنفيذ معظم وظائف المنتج بلغة Dart. تُستخدم قنوات المنصات للإشعارات والمدفوعات والتخزين الآمن. لا يشمل هذا الدور تطبيقات سطح المكتب أو الويب.</p>
 </blockquote>
-<h1>Explain why the platform was chosen</h1>
-<p>Candidates may want to understand why the company uses its current architecture.</p>
-<p>For a native app, explain whether the choice was driven by:</p>
+<h1>اشرح سبب اختيار المنصة</h1>
+<p>قد يرغب المرشحون في فهم سبب استخدام الشركة لبنيتها الحالية.
+بالنسبة للتطبيق الأصلي, اشرح ما إذا كان الاختيار مدفوعًا بـ:</p>
 <ul>
-<li>platform experience;</li>
-<li>hardware integration;</li>
-<li>performance;</li>
-<li>accessibility;</li>
-<li>user-interface requirements;</li>
-<li>existing team expertise.</li>
+<li>خبرة المنصة؛</li>
+<li>تكامل الأجهزة؛</li>
+<li>الأداء؛</li>
+<li>سهولة الوصول؛</li>
+<li>متطلبات واجهة المستخدم؛</li>
+<li>خبرة الفريق الحالية.
+بالنسبة للتطبيقات متعددة المنصات, اشرح ما إذا كان الاختيار مدفوعًا بـ:</li>
+<li>سلوك المنتج المشترك؛</li>
+<li>حجم الفريق؛</li>
+<li>تنسيق الإصدارات؛</li>
+<li>سرعة التطوير؛</li>
+<li>إعادة استخدام الكود؛</li>
+<li>الخبرة الحالية في مجال الويب.
+ليس على المرشحين أن يتفقوا مع كل قرار تم اتخاذه في الماضي.
+بل يحتاجون إلى سياق كافٍ لفهم ما سينضمون إليه.</li>
 </ul>
-<p>For a cross-platform app, explain whether the choice was driven by:</p>
-<ul>
-<li>shared product behavior;</li>
-<li>team size;</li>
-<li>release coordination;</li>
-<li>development speed;</li>
-<li>code reuse;</li>
-<li>existing web expertise.</li>
-</ul>
-<p>Candidates do not need to agree with every historical decision.</p>
-<p>They need enough context to understand what they are joining.</p>
-<h1>Publish the release cadence</h1>
-<p>Release cadence changes the nature of mobile work.</p>
-<p>A team shipping every week works differently from one shipping quarterly.</p>
-<p>A clear listing might say:</p>
+<h1>نشر وتيرة الإصدارات</h1>
+<p>تغير وتيرة الإصدارات طبيعة العمل في مجال تطبيقات الجوال.
+يعمل الفريق الذي يصدر تحديثات أسبوعيًا بشكل مختلف عن الفريق الذي يصدر تحديثات كل ثلاثة أشهر.
+قد تتضمن قائمة واضحة ما يلي:</p>
 <blockquote>
-<p>We ship iOS every two weeks using phased release. Hotfixes are prepared when crash-free sessions fall below our agreed threshold.</p>
+<p>نصدر تحديثات iOS كل أسبوعين باستخدام الإصدار المرحلي. يتم إعداد الإصلاحات العاجلة عندما تنخفض جلسات التشغيل الخالية من الأعطال عن الحد الأدنى المتفق عليه.
+أو:
+يعمل التطبيق في بيئة خاضعة للرقابة. يتم إصدار التحديثات مرة واحدة تقريبًا كل شهر بعد مراجعة ضمان الجودة والأمن والامتثال.
+لا يعتبر أي من النموذجين أفضل تلقائيًا.
+المهم هو وصف العملية الحقيقية.</p>
 </blockquote>
-<p>or:</p>
+<h1>توضيح من يتولى مسؤولية الإصدارات</h1>
+<p>يجب أن يعرف المرشحون العاملون في مجال الأجهزة المحمولة ما إذا كانوا سيقومون بما يلي:</p>
+<ul>
+<li>إعداد البنيات؛</li>
+<li>إدارة التوقيع؛</li>
+<li>إرسال بيانات التعريف إلى المتجر؛</li>
+<li>تنسيق لقطات الشاشة؛</li>
+<li>الرد على أسئلة مراجعة المتجر؛</li>
+<li>إدارة النشر التدريجي؛</li>
+<li>مراقبة سلامة الإصدار؛</li>
+<li>إعداد التصحيحات العاجلة؛</li>
+<li>تنسيق عمليات التراجع أو استجابات علامات الميزات.
+إذا كان مدير إصدارات مخصص أو مهندس منصة يتولى جزءًا من هذا, فاذكر ذلك.</li>
+</ul>
+<h1>نشر مقاييس الجودة كلما أمكن</h1>
+<p>غالبًا ما يقيّم مهندسو الأجهزة المحمولة الفريق بناءً على ما إذا كان يقيس الجودة أم لا.
+تشمل المؤشرات المفيدة ما يلي:</p>
+<ul>
+<li>معدل الجلسات الخالية من الأعطال؛</li>
+<li>معدل المستخدمين الخاليين من الأعطال؛</li>
+<li>معدل حالات عدم الاستجابة (ANR) في أندرويد؛</li>
+<li>وقت بدء التشغيل البارد؛</li>
+<li>وقت بدء التشغيل الدافئ؛</li>
+<li>تقييم المتجر؛</li>
+<li>تواتر الإصدارات؛</li>
+<li>تغطية الاختبار, مع السياق المناسب؛</li>
+<li>أهداف إمكانية الوصول؛</li>
+<li>النسبة المئوية للمستخدمين على الإصدارات المدعومة؛</li>
+<li>معدل فشل الشبكة؛</li>
+<li>أهداف البطارية أو الذاكرة.
+تجنب تقديم المقاييس كادعاءات تسويقية إذا لم يتم قياسها بشكل متسق.
+من الأفضل الإدلاء ببيان صادق:</li>
+</ul>
 <blockquote>
-<p>The app operates in a regulated environment. Releases ship approximately once per month after QA, security, and compliance review.</p>
+<p>يبلغ معدل الجلسات الخالية من الأعطال لدينا حاليًا 99.3٪, وهو أقل من هدفنا البالغ 99.8٪. ويُعد تحسين تشخيص الأعطال ومراقبة الإصدارات جزءًا مهمًا من هذه الوظيفة.
+وهذا يمنح المرشحين مشكلة حقيقية لحلها.</p>
 </blockquote>
-<p>Neither model is automatically better.</p>
-<p>The important thing is to describe the real process.</p>
-<h1>Explain who owns releases</h1>
-<p>Mobile candidates should know whether they will:</p>
+<h1>وصف الحد الأدنى من دعم أنظمة التشغيل</h1>
+<p>يؤدي دعم أنظمة التشغيل القديمة إلى عبء عمل هندسي كبير.
+وهو يؤثر على:</p>
 <ul>
-<li>prepare builds;</li>
-<li>manage signing;</li>
-<li>submit store metadata;</li>
-<li>coordinate screenshots;</li>
-<li>respond to store-review questions;</li>
-<li>manage phased rollout;</li>
-<li>monitor release health;</li>
-<li>prepare hotfixes;</li>
-<li>coordinate rollback or feature-flag responses.</li>
+<li>توفر واجهات برمجة التطبيقات (API)؛</li>
+<li>الاختبار؛</li>
+<li>كود التوافق؛</li>
+<li>خيارات المكتبات؛</li>
+<li>الأداء؛</li>
+<li>تغطية الأجهزة؛</li>
+<li>التحقق من صحة الإصدارات.
+اذكر:</li>
+<li>الحد الأدنى لإصدار iOS المدعوم؛</li>
+<li>الحد الأدنى لمستوى واجهة برمجة التطبيقات (API) في Android؛</li>
+<li>ما إذا كانت الأجهزة اللوحية مدعومة؛</li>
+<li>ما إذا كانت الأجهزة القابلة للطي مدعومة؛</li>
+<li>ما إذا كانت المنصات القابلة للارتداء أو منصات التلفزيون مشمولة؛</li>
+<li>مدى تكرار تغييرات سياسة الدعم.
+لا تتوقع ضمنيًا من المهندس دعم كل جهاز لا يزال متداولًا.</li>
 </ul>
-<p>If a dedicated release manager or platform engineer handles part of this, say so.</p>
-<h1>Publish quality metrics when possible</h1>
-<p>Mobile engineers often evaluate a team by whether it measures quality.</p>
-<p>Useful signals include:</p>
+<h1>اشرح استراتيجية اختبار الأجهزة</h1>
+<p>قد يرغب المرشحون في معرفة ما إذا كان الفريق يستخدم:</p>
 <ul>
-<li>crash-free session rate;</li>
-<li>crash-free user rate;</li>
-<li>Android ANR rate;</li>
-<li>cold-start time;</li>
-<li>warm-start time;</li>
-<li>store rating;</li>
-<li>release frequency;</li>
-<li>test coverage, with appropriate context;</li>
-<li>accessibility goals;</li>
-<li>percentage of users on supported versions;</li>
-<li>network-failure rate;</li>
-<li>battery or memory targets.</li>
+<li>مختبرات الأجهزة الحقيقية؛</li>
+<li>مزارع الأجهزة السحابية؛</li>
+<li>المحاكيات أو برامج المحاكاة؛</li>
+<li>مجموعات مستخدمي الإصدارات التجريبية؛</li>
+<li>TestFlight؛</li>
+<li>مسارات اختبار اللعب؛</li>
+<li>إصدارات داخلية؛</li>
+<li>اختبار لقطات الشاشة الآلي؛</li>
+<li>اختبار إمكانية الوصول؛</li>
+<li>اختبار الأداء.
+يمكن أن تشكل بيئة الاختبار الناضجة عامل جذب مهمًا.
+يجب وصف البيئة الضعيفة بأمانة عندما يكون تحسينها جزءًا من المهام الوظيفية.</li>
 </ul>
-<p>Avoid presenting metrics as marketing claims if they are not measured consistently.</p>
-<p>An honest statement is better:</p>
+<h1>اشرح كيفية عمل التصميم</h1>
+<p>يرتبط تطوير تطبيقات الجوال ارتباطًا وثيقًا بتصميم التفاعل.
+اذكر:</p>
+<ul>
+<li>ما إذا كان مصممو المنتجات مخصصين للفريق؛</li>
+<li>ما إذا كان هناك نظام تصميم مخصص للجوال؛</li>
+<li>ما إذا كانت قواعد المنصة تُحترم؛</li>
+<li>من المسؤول عن متطلبات إمكانية الوصول؛</li>
+<li>ما إذا كان المطورون يشاركون في مرحلة الاكتشاف؛</li>
+<li>كيف تتم عملية تسليم التصميم؛</li>
+<li>ما إذا كان بإمكان المهندسين الطعن في قرارات التفاعل غير العملية.
+لا تعلن عن وظيفة مطور تطبيقات الجوال بينما تتوقع سراً أن يقوم المهندس بتصميم المنتج والتصميم المرئي بدوام كامل.</li>
+</ul>
+<h1>اشرح التعاون مع الخلفية</h1>
+<p>غالبًا ما تكشف تطبيقات الأجهزة المحمولة نقاط ضعف في واجهة برمجة التطبيقات (API) التي يمكن لتطبيقات الويب إخفاءها.
+قد يحتاج مهندس الأجهزة المحمولة إلى التعامل مع:</p>
+<ul>
+<li>الاتصال المتقطع؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>الطلبات المكررة؛</li>
+<li>إصدارات التطبيق القديمة؛</li>
+<li>المزامنة الجزئية؛</li>
+<li>توافق المخطط؛</li>
+<li>التنفيذ في الخلفية؛</li>
+<li>الشبكات البطيئة؛</li>
+<li>النطاق الترددي المحدود؛</li>
+<li>الحالة المخزنة مؤقتًا؛</li>
+<li>حل التعارضات.
+حدد ما إذا كان بإمكان مهندسي تطبيقات الجوال التأثير على تصميم واجهة برمجة التطبيقات (API) أم أنهم سيكتفون باستخدام نقاط النهاية الجاهزة.
+قد ينجذب المرشحون المتميزون إلى الأدوار التي تتيح لهم تحسين الحدود بين العميل والخادم.</li>
+</ul>
+<h1>اشرح التوقعات المتعلقة بالعمل دون اتصال بالإنترنت</h1>
+<p>قد تعني عبارة «يعمل دون اتصال بالإنترنت» أمورًا عديدة.
+قد تعني:</p>
+<ul>
+<li>عرض البيانات المخزنة مؤقتًا؛</li>
+<li>صياغة المحتوى دون اتصال بالإنترنت؛</li>
+<li>إتمام المعاملات لاحقًا؛</li>
+<li>مزامنة التعديلات؛</li>
+<li>دعم حل التعارضات؛</li>
+<li>معالجة عمليات التحميل في الخلفية؛</li>
+<li>العمل بشكل كامل دون شبكة.
+وضح متطلبات المنتج.
+لا تدرج «الدعم في وضع عدم الاتصال» كنقطة ثانوية في القائمة بينما هو في الواقع مسؤولية معمارية رئيسية.</li>
+</ul>
+<h1>اشرح متطلبات المصادقة والبيانات الحساسة</h1>
+<p>قد تتعامل تطبيقات الأجهزة المحمولة مع:</p>
+<ul>
+<li>رموز الوصول؛</li>
+<li>رموز التحديث؛</li>
+<li>المصادقة البيومترية؛</li>
+<li>المعلومات المالية؛</li>
+<li>المعلومات الصحية؛</li>
+<li>الرسائل الخاصة؛</li>
+<li>بيانات المؤسسة؛</li>
+<li>وثائق الهوية؛</li>
+<li>الموقع؛</li>
+<li>الوصول إلى الكاميرا والميكروفون.
+حدد ما إذا كان الدور يتضمن:</li>
+<li>التخزين الآمن؛</li>
+<li>تثبيت الشهادات؛</li>
+<li>واجهات برمجة التطبيقات (API) البيومترية؛</li>
+<li>إدارة الجلسات؛</li>
+<li>إدارة الأجهزة المحمولة؛</li>
+<li>البيانات الخاضعة للتنظيم؛</li>
+<li>نمذجة التهديدات؛</li>
+<li>ضوابط الخصوصية.
+تجنب توقع أن يقوم مطور تطبيقات الجوال بدور وظيفة الأمن بأكملها, ولكن اجعل المسؤوليات الأمنية ذات الصلة واضحة.</li>
+</ul>
+<h1>ادعُ المرشحين لمشاركة الأعمال التي تم إصدارها</h1>
+<p>يمكن أن توفر التطبيقات الموزعة علنًا أدلة مفيدة.
+ادعُ المرشحين لمشاركة:</p>
+<ul>
+<li>روابط متجر التطبيقات (App Store)؛</li>
+<li>روابط Google Play؛</li>
+<li>الوصول إلى TestFlight أو الإصدار التجريبي (beta) عند الاقتضاء؛</li>
+<li>المستودعات العامة؛</li>
+<li>لقطات شاشة؛</li>
+<li>تقارير عن البنية؛</li>
+<li>مقالات تقنية.
+لا تجعل امتلاك تطبيق عام شرطًا عامًا.
+يعمل العديد من مهندسي تطبيقات الجوال الأكفاء على:</li>
+<li>تطبيقات المؤسسات؛</li>
+<li>تطبيقات العلامة البيضاء؛</li>
+<li>الأدوات الداخلية؛</li>
+<li>المنتجات المنشورة تحت حسابات الجهة الموظِفة؛</li>
+<li>المنتجات التي لم يتم إصدارها بعد؛</li>
+<li>الأنظمة السرية.
+اسمح للمرشحين بمناقشة أعمالهم الخاصة دون انتهاك الالتزامات.</li>
+</ul>
+<h1>قم بتثبيت تطبيق المرشح ومراجعته بعناية</h1>
+<p>عندما يقدم المرشح تطبيقًا, راجعه في سياقه بدلاً من افتراض أن كل تفصيل يعكس عمله.
+اسأل:</p>
+<ul>
+<li>ما هي الشاشات أو الأنظمة التي كنت مسؤولاً عنها؟</li>
+<li>كيف كان شكل التطبيق قبل مساهمتك؟</li>
+<li>ما هي القرارات التي اتخذتها؟</li>
+<li>ما هي القيود التي واجهها الفريق؟</li>
+<li>ما هي المشكلات المعروفة التي لا تزال قائمة؟</li>
+<li>ما هي قيود المنصة التي أثرت على التصميم؟</li>
+<li>كيف قمت بقياس النتيجة؟
+لا تنسب كل عيب بصري أو تقييم في المتجر إلى مساهم فردي واحد.</li>
+</ul>
+<h1>فحص السير الذاتية لمطوري تطبيقات الجوال</h1>
+<p>يجب أن تساعد السيرة الذاتية في تحديد الأسئلة, لا أن تكون بمثابة تقييم كامل.
+ابحث عن أدلة على:</p>
+<ul>
+<li>التطبيقات التي تم إطلاقها؛</li>
+<li>الصيانة بعد الإطلاق؛</li>
+<li>مسؤولية الإصدار؛</li>
+<li>بنية التطبيق؛</li>
+<li>فهم دورة الحياة؛</li>
+<li>الاستمرارية دون اتصال بالإنترنت أو محليًا؛</li>
+<li>تكامل واجهة برمجة التطبيقات (API)؛</li>
+<li>تشخيص الأعطال؛</li>
+<li>تحسينات الأداء؛</li>
+<li>إمكانية الوصول؛</li>
+<li>الاختبار؛</li>
+<li>خبرة التعامل مع تقييمات المتجر؛</li>
+<li>التعاون مع فرق المنتج والتصميم.</li>
+</ul>
+<h2>مؤشرات قوية في السيرة الذاتية</h2>
+<p>ومن الأمثلة على ذلك:</p>
+<ul>
+<li>خفض معدل الأعطال من 1.4% إلى 0.3% من خلال معالجة مشكلات التزامن وفشل استعادة الحالة.</li>
+<li>خفض متوسط وقت بدء التشغيل البارد بنسبة 28% من خلال تغييرات في تهيئة التبعيات وتحميل الموارد.</li>
+<li>قيادة عملية ترحيل 35 شاشة من UIKit إلى SwiftUI مع الحفاظ على التكافؤ في الميزات.</li>
+<li>بناء محرك مزامنة دون اتصال بالإنترنت يدعم الفرق الميدانية التي تعاني من اتصال متقطع.</li>
+<li>إدخال إصدارات متدرجة في متجر Play Store وتنبيهات التراجع التلقائية.</li>
+<li>تحسين التنقل باستخدام TalkBack عبر سير عمل إدارة الحساب.</li>
+<li>إنشاء وحدة React Native مشتركة تُستخدم عبر تطبيقات iOS وAndroid.</li>
+<li>خفضت حالات توقف Android (ANRs) عن طريق إعادة هيكلة الوصول إلى قاعدة البيانات والعمل في الخلفية.
+تُظهر هذه العبارات النتائج والمسؤولية.</li>
+</ul>
+<h2>الإشارات الضعيفة التي تتطلب متابعة</h2>
+<p>ومن الأمثلة على ذلك:</p>
+<ul>
+<li>عملت على تطبيقات الهاتف المحمول.</li>
+<li>كنت مسؤولاً عن تطوير Swift.</li>
+<li>استخدمت React Native.</li>
+<li>ساعدت في النشر على متجر التطبيقات (App Store).</li>
+<li>حسّنت الأداء.</li>
+<li>إنشاء واجهات المستخدم.
+قد تمثل هذه الأعمال إنجازات ذات مغزى, لكن السيرة الذاتية لا تشرحها بعد.
+اطلب معرفة نطاق العمل والأدلة والنتائج.</li>
+</ul>
+<h1>لا تبالغ في تقييم أعداد التنزيلات من المتاجر</h1>
+<p>قد يكون مطور ما قد عمل على تطبيق يضم ملايين المستخدمين دون أن يكون له دور في اتخاذ قرارات تقنية مهمة.
+وقد يكون مطور آخر قد أنشأ منتجًا أصغر من البداية إلى النهاية وطور قدرة أكبر على اتخاذ القرارات.
+قم بتقييم:</p>
+<ul>
+<li>المسؤولية الشخصية؛</li>
+<li>التعقيد؛</li>
+<li>القرارات؛</li>
+<li>الصيانة؛</li>
+<li>الموثوقية؛</li>
+<li>التأثير.
+حجم التطبيق هو سياق, وليس دليلاً على القدرة الفردية.</li>
+</ul>
+<h1>لا تشترط إتقان كل أداة في مجموعة أدواتك</h1>
+<p>يمكن لمهندس Swift المتميز تعلم مكتبة أخرى لحقن التبعية.
+ويمكن لمهندس Android المتميز تعلم إطار عمل آخر للتنقل.
+ويمكن لمهندس React Native التكيف مع أداة مختلفة لإدارة الحالة.
+أعطِ الأولوية لـ:</p>
+<ul>
+<li>أساسيات المنصة؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>البنية؛</li>
+<li>الاختبار؛</li>
+<li>تجربة الإصدار؛</li>
+<li>التقييم المتعلق بالمنتج.
+تعامل مع المكتبات المحددة على أنها قابلة للتعلم ما لم تكن ضرورية حقًّا منذ اليوم الأول.</li>
+</ul>
+<h1>أسئلة المقابلة الخاصة بالهواتف المحمولة التي توفر أدلة مفيدة</h1>
+<h2>شرح تفصيلي للمشروع</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>Our crash-free session rate is currently 99.3%, below our target of 99.8%. Improving crash diagnosis and release monitoring is an important part of this role.</p>
+<p>اشرح لي بالتفصيل ميزة في تطبيق الهاتف المحمول كنت مسؤولاً عنها, بدءًا من مناقشة المنتج وحتى إصداره في مرحلة الإنتاج.
+تشمل الأسئلة التكميلية المفيدة ما يلي:</p>
 </blockquote>
-<p>This gives candidates a real problem to solve.</p>
-<h1>Describe minimum operating-system support</h1>
-<p>Supporting older operating systems creates substantial engineering work.</p>
-<p>It affects:</p>
 <ul>
-<li>API availability;</li>
-<li>testing;</li>
-<li>compatibility code;</li>
-<li>library choices;</li>
-<li>performance;</li>
-<li>device coverage;</li>
-<li>release validation.</li>
+<li>ما الذي كنت مسؤولاً عنه شخصيًا؟</li>
+<li>ما هي القيود التي أثرت على التصميم؟</li>
+<li>ماذا حدث عندما انقطع الاتصال؟</li>
+<li>كيف حافظت على الحالة؟</li>
+<li>كيف قمت باختبارها؟</li>
+<li>كيف قمت بإصدارها؟</li>
+<li>ما هي مقاييس الإنتاج التي قمت بمراقبتها؟</li>
+<li>ما الذي سار بشكل خاطئ؟</li>
+<li>ما الذي ستغيره الآن؟</li>
 </ul>
-<p>State:</p>
-<ul>
-<li>minimum supported iOS version;</li>
-<li>minimum Android API level;</li>
-<li>whether tablets are supported;</li>
-<li>whether foldables are supported;</li>
-<li>whether wearable or television platforms are included;</li>
-<li>how often support policy changes.</li>
-</ul>
-<p>Do not quietly expect an engineer to support every device still in circulation.</p>
-<h1>Explain the device-testing strategy</h1>
-<p>Candidates may want to know whether the team uses:</p>
-<ul>
-<li>real-device labs;</li>
-<li>cloud device farms;</li>
-<li>simulators or emulators;</li>
-<li>beta-user groups;</li>
-<li>TestFlight;</li>
-<li>Play testing tracks;</li>
-<li>internal builds;</li>
-<li>automated screenshot testing;</li>
-<li>accessibility testing;</li>
-<li>performance testing.</li>
-</ul>
-<p>A mature testing environment can be a meaningful attraction.</p>
-<p>A weak environment should be described honestly when improving it is part of the role.</p>
-<h1>Explain how design works</h1>
-<p>Mobile development is deeply connected to interaction design.</p>
-<p>State:</p>
-<ul>
-<li>whether product designers are assigned to the team;</li>
-<li>whether a mobile design system exists;</li>
-<li>whether platform conventions are respected;</li>
-<li>who owns accessibility requirements;</li>
-<li>whether developers participate in discovery;</li>
-<li>how design handoff works;</li>
-<li>whether engineers can challenge impractical interaction decisions.</li>
-</ul>
-<p>Do not advertise a mobile developer role while quietly expecting the engineer to perform full-time product and visual design.</p>
-<h1>Explain backend collaboration</h1>
-<p>Mobile clients often expose API weaknesses that web clients can hide.</p>
-<p>A mobile engineer may need to handle:</p>
-<ul>
-<li>intermittent connectivity;</li>
-<li>retries;</li>
-<li>duplicate requests;</li>
-<li>outdated application versions;</li>
-<li>partial synchronization;</li>
-<li>schema compatibility;</li>
-<li>background execution;</li>
-<li>slow networks;</li>
-<li>limited bandwidth;</li>
-<li>cached state;</li>
-<li>conflict resolution.</li>
-</ul>
-<p>State whether mobile engineers can influence API design or simply consume finished endpoints.</p>
-<p>Strong candidates may be attracted to roles where they can improve the client-server boundary.</p>
-<h1>Explain offline expectations</h1>
-<p>“Works offline” can mean many things.</p>
-<p>It may mean:</p>
-<ul>
-<li>displaying cached data;</li>
-<li>drafting content without connectivity;</li>
-<li>completing transactions later;</li>
-<li>synchronizing edits;</li>
-<li>supporting conflict resolution;</li>
-<li>handling background uploads;</li>
-<li>operating fully without a network.</li>
-</ul>
-<p>Clarify what the product requires.</p>
-<p>Do not list “offline support” as one minor bullet when it is actually a major architectural responsibility.</p>
-<h1>Explain authentication and sensitive-data requirements</h1>
-<p>Mobile applications may handle:</p>
-<ul>
-<li>access tokens;</li>
-<li>refresh tokens;</li>
-<li>biometric authentication;</li>
-<li>financial information;</li>
-<li>health information;</li>
-<li>private messages;</li>
-<li>enterprise data;</li>
-<li>identity documents;</li>
-<li>location;</li>
-<li>camera and microphone access.</li>
-</ul>
-<p>State whether the role involves:</p>
-<ul>
-<li>secure storage;</li>
-<li>certificate pinning;</li>
-<li>biometric APIs;</li>
-<li>session management;</li>
-<li>mobile-device management;</li>
-<li>regulated data;</li>
-<li>threat modeling;</li>
-<li>privacy controls.</li>
-</ul>
-<p>Avoid expecting a mobile developer to serve as the entire security function, but make relevant security responsibilities visible.</p>
-<h1>Invite candidates to share shipped work</h1>
-<p>Publicly distributed apps can provide useful evidence.</p>
-<p>Invite candidates to share:</p>
-<ul>
-<li>App Store links;</li>
-<li>Google Play links;</li>
-<li>TestFlight or beta access where appropriate;</li>
-<li>public repositories;</li>
-<li>screenshots;</li>
-<li>architecture write-ups;</li>
-<li>technical articles.</li>
-</ul>
-<p>Do not make public app ownership a universal requirement.</p>
-<p>Many capable mobile engineers work on:</p>
-<ul>
-<li>enterprise apps;</li>
-<li>white-label applications;</li>
-<li>internal tools;</li>
-<li>products published under employer accounts;</li>
-<li>unreleased products;</li>
-<li>confidential systems.</li>
-</ul>
-<p>Allow candidates to discuss private work without violating obligations.</p>
-<h1>Install and review the candidate’s app thoughtfully</h1>
-<p>When a candidate provides an app, review it as context rather than assuming every detail reflects their work.</p>
-<p>Ask:</p>
-<ul>
-<li>Which screens or systems did you own?</li>
-<li>What did the app look like before your contribution?</li>
-<li>Which decisions were yours?</li>
-<li>What constraints did the team face?</li>
-<li>Which known problems remain?</li>
-<li>Which platform limitations affected the design?</li>
-<li>How did you measure the result?</li>
-</ul>
-<p>Do not attribute every visual flaw or store review to one individual contributor.</p>
-<h1>Screening mobile developer résumés</h1>
-<p>A résumé should help identify questions, not serve as a complete evaluation.</p>
-<p>Look for evidence of:</p>
-<ul>
-<li>shipped applications;</li>
-<li>maintenance after launch;</li>
-<li>release ownership;</li>
-<li>app architecture;</li>
-<li>lifecycle understanding;</li>
-<li>offline or local persistence;</li>
-<li>API integration;</li>
-<li>crash diagnosis;</li>
-<li>performance improvements;</li>
-<li>accessibility;</li>
-<li>testing;</li>
-<li>store-review experience;</li>
-<li>collaboration with product and design.</li>
-</ul>
-<h2>Strong résumé signals</h2>
-<p>Examples include:</p>
-<ul>
-<li>Reduced crash rate from 1.4% to 0.3% by addressing concurrency and state-restoration failures.</li>
-<li>Cut median cold-start time by 28% through dependency initialization and asset-loading changes.</li>
-<li>Led migration of 35 screens from UIKit to SwiftUI while maintaining feature parity.</li>
-<li>Built an offline synchronization engine supporting field teams with intermittent connectivity.</li>
-<li>Introduced staged Play Store releases and automated rollback alerts.</li>
-<li>Improved TalkBack navigation across the account-management workflow.</li>
-<li>Created a shared React Native module used across iOS and Android applications.</li>
-<li>Reduced Android ANRs by restructuring database access and background work.</li>
-</ul>
-<p>These statements show outcomes and ownership.</p>
-<h2>Weak signals that require follow-up</h2>
-<p>Examples include:</p>
-<ul>
-<li>Worked on mobile apps.</li>
-<li>Responsible for Swift development.</li>
-<li>Used React Native.</li>
-<li>Helped publish to the App Store.</li>
-<li>Improved performance.</li>
-<li>Built user interfaces.</li>
-</ul>
-<p>These may represent meaningful work, but the résumé does not yet explain it.</p>
-<p>Ask for scope, evidence, and results.</p>
-<h1>Do not overvalue store-download counts</h1>
-<p>A developer may have worked on an application with millions of users without owning significant technical decisions.</p>
-<p>Another may have built a smaller product end to end and developed deeper judgment.</p>
-<p>Evaluate:</p>
-<ul>
-<li>personal ownership;</li>
-<li>complexity;</li>
-<li>decisions;</li>
-<li>maintenance;</li>
-<li>reliability;</li>
-<li>impact.</li>
-</ul>
-<p>Application scale is context, not proof of individual capability.</p>
-<h1>Do not require every tool in your stack</h1>
-<p>A strong Swift engineer can learn a different dependency-injection library.</p>
-<p>A strong Android engineer can learn another navigation framework.</p>
-<p>A React Native engineer can adapt to a different state-management tool.</p>
-<p>Prioritize:</p>
-<ul>
-<li>platform fundamentals;</li>
-<li>debugging;</li>
-<li>architecture;</li>
-<li>testing;</li>
-<li>release experience;</li>
-<li>product judgment.</li>
-</ul>
-<p>Treat specific libraries as learnable unless they are genuinely essential on day one.</p>
-<h1>Mobile interview questions that produce useful evidence</h1>
-<h2>Project walkthrough</h2>
-<p>Ask:</p>
+<h2>الأعطال الخاصة بأجهزة معينة</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>Walk me through a mobile feature you owned from product discussion through production release.</p>
+<p>أخبرني عن خطأ ظهر فقط على أجهزة معينة أو إصدارات معينة من أنظمة التشغيل.
+انتبه لمعرفة ما إذا كان المرشح:</p>
 </blockquote>
-<p>Useful follow-ups include:</p>
 <ul>
-<li>What did you personally own?</li>
-<li>What constraints affected the design?</li>
-<li>What happened when connectivity failed?</li>
-<li>How did you persist state?</li>
-<li>How did you test it?</li>
-<li>How did you release it?</li>
-<li>What production metrics did you monitor?</li>
-<li>What went wrong?</li>
-<li>What would you change now?</li>
+<li>قد جمع أدلة؛</li>
+<li>قام بتصنيف الأجهزة المتأثرة؛</li>
+<li>استخدم أدوات تحليل الأعطال أو أدوات التحليل؛</li>
+<li>وضع فرضيات؛</li>
+<li>أعاد إنتاج المشكلة؛</li>
+<li>تحقق من صحة الإصلاح؛</li>
+<li>أضاف حماية ضد التراجع.</li>
 </ul>
-<h2>Device-specific failure</h2>
-<p>Ask:</p>
+<h2>السلوك في وضع عدم الاتصال بالإنترنت</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>Tell me about a bug that appeared only on certain devices or operating-system versions.</p>
+<p>كيف ستصمم ميزة يجب أن تستمر في العمل عندما تكون الاتصال غير موثوق به؟
+قد تتناول الإجابات القوية ما يلي:</p>
 </blockquote>
-<p>Listen for whether the candidate:</p>
 <ul>
-<li>gathered evidence;</li>
-<li>segmented affected devices;</li>
-<li>used crash or analytics tools;</li>
-<li>formed hypotheses;</li>
-<li>reproduced the issue;</li>
-<li>verified the fix;</li>
-<li>added regression protection.</li>
+<li>التخزين المحلي؛</li>
+<li>سياسة ذاكرة التخزين المؤقت؛</li>
+<li>المزامنة؛</li>
+<li>معالجة التعارضات؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>خاصية الإيدمبوتنس؛</li>
+<li>ملاحظات المستخدمين؛</li>
+<li>الإكمال الجزئي؛</li>
+<li>التنفيذ في الخلفية؛</li>
+<li>توافق الإصدارات.
+لا توجد بنية واحدة صحيحة.
+قم بتقييم ما إذا كان المرشح يحدد القيود الحقيقية.</li>
 </ul>
-<h2>Offline behavior</h2>
-<p>Ask:</p>
+<h2>فشل الإصدار</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>How would you design a feature that must continue working when connectivity is unreliable?</p>
+<p>اشرح لي تفاصيل إصدار تطبيق جوال لم يسر وفقًا للخطة الموضوعة.
+انتبه إلى:</p>
 </blockquote>
-<p>Strong answers may discuss:</p>
 <ul>
-<li>local storage;</li>
-<li>cache policy;</li>
-<li>synchronization;</li>
-<li>conflict handling;</li>
-<li>retries;</li>
-<li>idempotency;</li>
-<li>user feedback;</li>
-<li>partial completion;</li>
-<li>background execution;</li>
-<li>version compatibility.</li>
+<li>النشر على مراحل؛</li>
+<li>علامات الميزات؛</li>
+<li>المراقبة؛</li>
+<li>التواصل؛</li>
+<li>استراتيجية الإصلاحات العاجلة؛</li>
+<li>قيود مراجعة المتجر؛</li>
+<li>تحليل السبب الجذري؛</li>
+<li>تحسين العمليات.</li>
 </ul>
-<p>There is no single correct architecture.</p>
-<p>Evaluate whether the candidate identifies the real constraints.</p>
-<h2>Release failure</h2>
-<p>Ask:</p>
+<h2>أداء بدء التشغيل</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>Walk me through a mobile release that did not go as planned.</p>
+<p>كيف ستحقق في بطء بدء تشغيل التطبيق؟
+تشمل المجالات المحتملة ما يلي:</p>
 </blockquote>
-<p>Listen for:</p>
 <ul>
-<li>phased rollout;</li>
-<li>feature flags;</li>
-<li>monitoring;</li>
-<li>communication;</li>
-<li>hotfix strategy;</li>
-<li>store-review constraints;</li>
-<li>root-cause analysis;</li>
-<li>process improvement.</li>
+<li>عمل الخيط الرئيسي؛</li>
+<li>تهيئة التبعيات؛</li>
+<li>ترحيل قاعدة البيانات؛</li>
+<li>حجب الشبكة؛</li>
+<li>تحميل الموارد؛</li>
+<li>إنشاء العرض؛</li>
+<li>الأجهزة القياسية؛</li>
+<li>تجزئة الأجهزة؛</li>
+<li>التشغيل البارد مقابل التشغيل الدافئ.</li>
 </ul>
-<h2>Startup performance</h2>
-<p>Ask:</p>
+<h2>الذاكرة ودورة الحياة</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>How would you investigate a slow application startup?</p>
+<p>صِف مشكلة متعلقة بدورة الحياة أو الذاكرة كان من الصعب تشخيصها.
+قم بتقييم عمق المعرفة بالمنصة بدلاً من مصطلحات إطار العمل.</p>
 </blockquote>
-<p>Potential areas include:</p>
-<ul>
-<li>main-thread work;</li>
-<li>dependency initialization;</li>
-<li>database migration;</li>
-<li>network blocking;</li>
-<li>asset loading;</li>
-<li>view construction;</li>
-<li>instrumentation;</li>
-<li>device segmentation;</li>
-<li>cold versus warm start.</li>
-</ul>
-<h2>Memory and lifecycle</h2>
-<p>Ask:</p>
+<h2>إمكانية الوصول</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>Describe a lifecycle or memory issue that was difficult to diagnose.</p>
+<p>كيف تتحقق من أن ميزة ما على الهاتف المحمول يمكن الوصول إليها؟
+قد يناقش المرشحون المتميزون ما يلي:</p>
 </blockquote>
-<p>Evaluate platform depth rather than framework vocabulary.</p>
-<h2>Accessibility</h2>
-<p>Ask:</p>
+<ul>
+<li>VoiceOver أو TalkBack؛</li>
+<li>التسميات الدلالية؛</li>
+<li>ترتيب التركيز؛</li>
+<li>النص الديناميكي؛</li>
+<li>التباين؛</li>
+<li>حجم الهدف الذي يتم اللمس عليه؛</li>
+<li>الوصول عبر لوحة المفاتيح أو المفتاح؛</li>
+<li>الحركة المحدودة؛</li>
+<li>اختبار إمكانية الوصول.</li>
+</ul>
+<h2>مراجعة المتجر</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>How do you verify that a mobile feature is accessible?</p>
+<p>ماذا ستفعل إذا رفض المتجر إصدارًا قريبًا من موعد إطلاق مهم؟
+قم بتقييم:</p>
 </blockquote>
-<p>Strong candidates may discuss:</p>
 <ul>
-<li>VoiceOver or TalkBack;</li>
-<li>semantic labels;</li>
-<li>focus order;</li>
-<li>dynamic text;</li>
-<li>contrast;</li>
-<li>touch-target size;</li>
-<li>keyboard or switch access;</li>
-<li>reduced motion;</li>
-<li>accessibility testing.</li>
+<li>فهم قواعد المراجعة؛</li>
+<li>التواصل؛</li>
+<li>التخطيط للطوارئ؛</li>
+<li>علامات الميزات؛</li>
+<li>إعادة التقديم؛</li>
+<li>التصعيد؛</li>
+<li>التوقعات الواقعية.</li>
 </ul>
-<h2>Store review</h2>
-<p>Ask:</p>
+<h1>صيغ التقييم العملي للأجهزة المحمولة</h1>
+<h2>تمرين تصحيح الأخطاء</h2>
+<p>قدم تطبيقًا صغيرًا يحتوي على مشكلة واقعية, مثل:</p>
+<ul>
+<li>طلبات API مكررة؛</li>
+<li>فقدان الحالة بعد تدوير الشاشة أو توقف العملية؛</li>
+<li>إبطال صحة ذاكرة التخزين المؤقت بشكل غير صحيح؛</li>
+<li>مشكلة في أداء الخيط الرئيسي؛</li>
+<li>عيب في إمكانية الوصول؛</li>
+<li>تعطل مرتبط بدورة الحياة؛</li>
+<li>فشل في المزامنة دون اتصال بالإنترنت.
+قم بتقييم عملية التحقيق بدلاً من تقييم ما إذا كان المرشح يكتشف حيلة خفية أم لا.</li>
+</ul>
+<h2>تمرين مراجعة الكود</h2>
+<p>قدم للمرشح طلب سحب (pull request) يتضمن:</p>
+<ul>
+<li>كود غير متزامن؛</li>
+<li>إدارة الحالة؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>التخزين المحلي الدائم؛</li>
+<li>أذونات النظام الأساسي؛</li>
+<li>الاختبارات.
+اطلب منه مراجعة صحة الكود وقابليته للصيانة وإمكانية الوصول والأداء ومخاطر الإنتاج.</li>
+</ul>
+<h2>تمرين توسيع الميزات</h2>
+<p>اطلب من المرشح توسيع تطبيق صغير بما يلي:</p>
+<ul>
+<li>حالات التحميل والأخطاء؛</li>
+<li>التخزين المؤقت المحلي؛</li>
+<li>التحقق من صحة المدخلات؛</li>
+<li>تفاعل واحد يمكن الوصول إليه؛</li>
+<li>اختبار آلي أساسي.
+اجعل المهمة متناسبة.
+لا ينبغي أن يتطلب تقييم التوظيف بناء تطبيق جوال كامل خلال عطلة نهاية أسبوع غير مدفوعة الأجر.</li>
+</ul>
+<h2>مناقشة البنية</h2>
+<p>قدم سيناريو واقعيًا:</p>
 <blockquote>
-<p>What would you do if a store rejected a release close to an important launch?</p>
+<p>صمم سير عمل على الجوال يتيح للعاملين الميدانيين إنشاء السجلات وتحريرها أثناء عدم الاتصال بالإنترنت ومزامنتها لاحقًا.
+قم بتقييم:</p>
 </blockquote>
-<p>Evaluate:</p>
 <ul>
-<li>understanding of review rules;</li>
-<li>communication;</li>
-<li>contingency planning;</li>
-<li>feature flags;</li>
-<li>resubmission;</li>
-<li>escalation;</li>
-<li>realistic expectations.</li>
+<li>توضيح المتطلبات؛</li>
+<li>ملكية البيانات؛</li>
+<li>المزامنة؛</li>
+<li>حل التعارضات؛</li>
+<li>التعافي من الأعطال؛</li>
+<li>الأمان؛</li>
+<li>ملاحظات المستخدمين؛</li>
+<li>الاختبار؛</li>
+<li>قابلية المراقبة.</li>
 </ul>
-<h1>Practical mobile assessment formats</h1>
-<h2>Debugging exercise</h2>
-<p>Provide a small application with a realistic issue, such as:</p>
+<h1>السماح باستخدام موارد التطوير العادية</h1>
+<p>يستخدم مطورو تطبيقات الجوال الحقيقيون:</p>
 <ul>
-<li>duplicated API requests;</li>
-<li>state loss after rotation or process death;</li>
-<li>incorrect cache invalidation;</li>
-<li>a main-thread performance problem;</li>
-<li>an accessibility defect;</li>
-<li>a lifecycle-related crash;</li>
-<li>a failed offline sync.</li>
+<li>وثائق المنصة؛</li>
+<li>أدوات بيئة التطوير المتكاملة (IDE)؛</li>
+<li>أدوات تحليل الأداء؛</li>
+<li>مراجع واجهة برمجة التطبيقات (API)؛</li>
+<li>وثائق الحزم؛</li>
+<li>أدوات الذكاء الاصطناعي المعتمدة؛</li>
+<li>البحث.
+حدد ما هو مسموح به قبل بدء التقييم.
+لا تختبر سراً مدى الحفظ عن ظهر قلب عندما تكافئ الوظيفة الاستخدام الفعال للأدوات.</li>
 </ul>
-<p>Evaluate the investigation process rather than whether the candidate discovers a hidden trick.</p>
-<h2>Code-review exercise</h2>
-<p>Give the candidate a pull request involving:</p>
+<h1>وضع سياسة للمساعدة بالذكاء الاصطناعي</h1>
+<p>حدد ما إذا كان يُسمح للمرشحين باستخدام الذكاء الاصطناعي أثناء التقييم.
+تشمل الأساليب الممكنة ما يلي:</p>
 <ul>
-<li>asynchronous code;</li>
-<li>state management;</li>
-<li>error handling;</li>
-<li>local persistence;</li>
-<li>platform permissions;</li>
-<li>tests.</li>
+<li>عدم السماح بالمساعدة بالذكاء الاصطناعي؛</li>
+<li>السماح بالذكاء الاصطناعي في قواعد البرمجة والوثائق؛</li>
+<li>السماح بالذكاء الاصطناعي بشرط الإفصاح؛</li>
+<li>السماح بالذكاء الاصطناعي طوال التقييم, مع تركيز التقييم على المراجعة والاختبار والاستدلال.
+أياً كانت السياسة التي تختارها, فطبقها بشكل متسق.
+عندما يُسمح باستخدام الذكاء الاصطناعي, قم بتقييم ما إذا كان المرشح قادرًا على:</li>
+<li>التحقق من الكود الذي تم إنشاؤه؛</li>
+<li>اكتشاف الافتراضات الخاطئة المتعلقة بالمنصة؛</li>
+<li>اختبار السلوك؛</li>
+<li>حماية المعلومات الحساسة؛</li>
+<li>شرح التنفيذ النهائي.</li>
 </ul>
-<p>Ask them to review correctness, maintainability, accessibility, performance, and production risk.</p>
-<h2>Feature-extension exercise</h2>
-<p>Ask the candidate to extend a small application with:</p>
+<h1>إنشاء بطاقة تقييم منظمة</h1>
+<p>قد تقيّم بطاقة تقييم المقابلة الخاصة بالتطبيقات المحمولة ما يلي:</p>
+<h2>أساسيات المنصة</h2>
 <ul>
-<li>loading and error states;</li>
-<li>local caching;</li>
-<li>input validation;</li>
-<li>one accessible interaction;</li>
-<li>a basic automated test.</li>
+<li>فهم دورة الحياة, والتزامن, والذاكرة, والتنفيذ في الخلفية, وقيود المنصة.</li>
 </ul>
-<p>Keep the task proportionate.</p>
-<p>A hiring assessment should not require building a complete mobile application over an unpaid weekend.</p>
-<h2>Architecture discussion</h2>
-<p>Provide a realistic scenario:</p>
-<blockquote>
-<p>Design a mobile workflow that allows field workers to create and edit records while offline and synchronize them later.</p>
-</blockquote>
-<p>Evaluate:</p>
+<h2>جودة التنفيذ</h2>
 <ul>
-<li>requirements clarification;</li>
-<li>data ownership;</li>
-<li>synchronization;</li>
-<li>conflict resolution;</li>
-<li>failure recovery;</li>
-<li>security;</li>
-<li>user feedback;</li>
-<li>testing;</li>
-<li>observability.</li>
+<li>إنتاج كود واضح وقابل للصيانة والاختبار.</li>
 </ul>
-<h1>Allow normal development resources</h1>
-<p>Real mobile developers use:</p>
+<h2>سلوك المنتج</h2>
 <ul>
-<li>platform documentation;</li>
-<li>IDE tools;</li>
-<li>profilers;</li>
-<li>API references;</li>
-<li>package documentation;</li>
-<li>approved AI tools;</li>
-<li>search.</li>
+<li>يصمم حالات التحميل, والفشل, والفراغ, والانقطاع عن الشبكة, والاستعادة بعناية.</li>
 </ul>
-<p>Define what is permitted before the assessment.</p>
-<p>Do not secretly test memorization when the job rewards effective use of tools.</p>
-<h1>Establish an AI-assistance policy</h1>
-<p>State whether candidates may use AI during the assessment.</p>
-<p>Possible approaches include:</p>
+<h2>تصحيح الأخطاء</h2>
 <ul>
-<li>no AI assistance;</li>
-<li>AI allowed for syntax and documentation;</li>
-<li>AI allowed with disclosure;</li>
-<li>AI allowed throughout, with evaluation focused on review, testing, and reasoning.</li>
+<li>يستخدم الأدلة والأدوات والفرضيات المنظمة.</li>
 </ul>
-<p>Whichever policy you choose, apply it consistently.</p>
-<p>When AI use is allowed, assess whether the candidate can:</p>
+<h2>الأداء</h2>
 <ul>
-<li>verify generated code;</li>
-<li>detect incorrect platform assumptions;</li>
-<li>test behavior;</li>
-<li>protect sensitive information;</li>
-<li>explain the final implementation.</li>
+<li>يدرك المشكلات المتعلقة ببدء التشغيل, والعرض, والشبكة, والبطارية, والذاكرة.</li>
 </ul>
-<h1>Build a structured scorecard</h1>
-<p>A mobile interview scorecard may evaluate:</p>
-<h2>Platform fundamentals</h2>
+<h2>إمكانية الوصول</h2>
 <ul>
-<li>Understands lifecycle, concurrency, memory, background execution, and platform constraints.</li>
+<li>يفهم قدرات المنصة في مجال إمكانية الوصول واختبارها.</li>
 </ul>
-<h2>Implementation quality</h2>
+<h2>التقدير المتعلق بالإصدار</h2>
 <ul>
-<li>Produces clear, maintainable, testable code.</li>
+<li>يفهم مراجعة المتجر, وطرح الإصدار, والمراقبة, وقيود الإصلاحات العاجلة.</li>
 </ul>
-<h2>Product behavior</h2>
+<h2>التواصل</h2>
 <ul>
-<li>Designs loading, failure, empty, offline, and recovery states thoughtfully.</li>
+<li>يشرح الافتراضات والمفاضلات بوضوح.</li>
 </ul>
-<h2>Debugging</h2>
+<h2>التعاون</h2>
 <ul>
-<li>Uses evidence, tools, and structured hypotheses.</li>
+<li>يستجيب بشكل بناء للتعليقات ويعمل عبر حدود المنتج والتصميم والخدمات الخلفية.</li>
 </ul>
-<h2>Performance</h2>
+<h2>المسؤولية</h2>
 <ul>
-<li>Recognizes startup, rendering, network, battery, and memory concerns.</li>
+<li>يتابع العمل حتى مرحلة الإصدار وتشغيل الإنتاج.</li>
 </ul>
-<h2>Accessibility</h2>
+<h1>مواءمة التوقعات مع مستوى الخبرة</h1>
+<h2>مطور تطبيقات الجوال المبتدئ</h2>
+<p>تقييم:</p>
 <ul>
-<li>Understands platform accessibility capabilities and testing.</li>
+<li>أساسيات البرمجة؛</li>
+<li>دورة حياة المنصة الأساسية؛</li>
+<li>القدرة على تنفيذ الميزات المحددة النطاق؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>الاختبار؛</li>
+<li>التعلم؛</li>
+<li>الاستجابة للتعليقات.
+لا تتوقع قدرات مستقلة في مجال الهندسة أو قيادة عملية الإصدار.</li>
 </ul>
-<h2>Release judgment</h2>
+<h2>مطور تطبيقات الجوال من المستوى المتوسط</h2>
+<p>التقييم:</p>
 <ul>
-<li>Understands store review, rollout, monitoring, and hotfix limitations.</li>
+<li>تسليم الميزات بشكل مستقل؛</li>
+<li>هندسة التطبيق ضمن مجال محدد؛</li>
+<li>إدارة دورة الحياة والحالات؛</li>
+<li>الاختبار؛</li>
+<li>تصحيح الأخطاء في بيئة الإنتاج؛</li>
+<li>المشاركة في عملية الإصدار؛</li>
+<li>التعاون.</li>
 </ul>
-<h2>Communication</h2>
+<h2>مطور تطبيقات الجوال من المستوى العالي</h2>
+<p>التقييم:</p>
 <ul>
-<li>Explains assumptions and trade-offs clearly.</li>
+<li>المسؤولية الشاملة؛</li>
+<li>الهندسة المعمارية؛</li>
+<li>الأداء؛</li>
+<li>إمكانية الوصول؛</li>
+<li>تشغيل الإنتاج؛</li>
+<li>مخاطر الإصدار؛</li>
+<li>التوجيه؛</li>
+<li>التعاون في مجال واجهات برمجة التطبيقات (API) والمنتجات؛</li>
+<li>حل المشكلات الغامضة.</li>
 </ul>
-<h2>Collaboration</h2>
+<h2>مهندس تطبيقات الجوال الرئيسي أو من فئة الموظفين</h2>
+<p>التقييم:</p>
 <ul>
-<li>Responds constructively to feedback and works across product, design, and backend boundaries.</li>
+<li>الهندسة المعمارية عبر تطبيقات أو فرق متعددة؛</li>
+<li>استراتيجية المنصة؛</li>
+<li>أنظمة البناء والإصدار؛</li>
+<li>معايير الموثوقية؛</li>
+<li>الأدوات المشتركة؛</li>
+<li>استراتيجية الترحيل؛</li>
+<li>التأثير التنظيمي؛</li>
+<li>التوجيه التقني طويل الأمد.
+لا تكتفِ بإضافة المزيد من جولات البرمجة للوظائف ذات المستوى الأعلى.
+غيّر نطاق الأدلة.</li>
 </ul>
-<h2>Ownership</h2>
+<h1>الأخطاء الشائعة في وصف الوظيفة</h1>
+<h2>استخدام مصطلح «الجوال» عندما تكون الوظيفة مخصصة لمنصة معينة</h2>
+<p>هذا يجذب المرشحين غير المناسبين ويضيع وقت الجميع.</p>
+<h2>طلب معرفة iOS وAndroid وReact Native وFlutter</h2>
+<p>هذه تخصصات متعددة, وليست متطلبًا عاديًا واحدًا.</p>
+<h2>تجاهل مسؤولية الإصدار</h2>
+<p>لا يستطيع المرشحون معرفة ما إذا كانوا مسؤولين فقط عن كود الميزات أم عن دورة حياة التسليم بأكملها.</p>
+<h2>إخفاء الحد الأدنى لنظام التشغيل المدعوم</h2>
+<p>قد يشكل دعم الأنظمة القديمة جزءًا رئيسيًّا من العمل.</p>
+<h2>عدم ذكر أي شيء عن جودة التطبيق</h2>
+<p>يكشف معدل الأعطال, ومعدل ANR, ووقت بدء التشغيل, وتقييم المتجر ما إذا كانت الشركة تدير التطبيق بمسؤولية أم لا.</p>
+<h2>التعامل مع الجوال على أنه واجهة أمامية فقط</h2>
+<p>غالبًا ما يتولى مهندسو الجوال مسؤولية الاستمرارية, والمزامنة, ومرونة الشبكة, وتكامل الأجهزة, وعمليات الإصدار.</p>
+<h2>اشتراط تطبيق عام</h2>
+<p>لا يستطيع العديد من المهندسين المتميزين الكشف عن أعمالهم علنًا.</p>
+<h2>توقع خبرة في التصميم دون الإشارة إلى ذلك</h2>
+<p>العمل عن كثب مع المصممين يختلف عن استبدال المصمم.</p>
+<h2>وصف التطوير عبر المنصات بعبارة «اكتب مرة واحدة, شغّل في كل مكان»</h2>
+<p>لا يزال التطوير عبر المنصات يتطلب تقديرًا خاصًا بكل منصة.</p>
+<h2>إخفاء الكود القديم</h2>
+<p>لا يتوقع المطورون المتمرسون أن تكون كل قاعدة كود مثالية.
+لكنهم يتوقعون الصدق.</p>
+<h2>سرد كل مكتبة</h2>
+<p>التقدير على مستوى إطار العمل (Framework) أهم من الإلمام بكل تابع.</p>
+<h2>تجاهل إمكانية الوصول</h2>
+<p>تعد إمكانية الوصول جزءًا من جودة المنتج المحمول, وليست مهارة زخرفية اختيارية.</p>
+<h1>ما يجب حذفه من الإعلان</h1>
+<p>احذف أو أعد صياغة:</p>
 <ul>
-<li>Follows work through release and production operation.</li>
+<li>«نينجا الهواتف المحمولة», «نجم iOS», أو «خبير أندرويد».</li>
+<li>«يجب أن يكون على دراية بـ Swift و Kotlin و Objective-C و Java و React Native و Flutter و Xamarin».</li>
+<li>«يجب أن يكون قد نشر خمسة تطبيقات شخصية».</li>
+<li>«يجب أن يتألق تحت الضغط».</li>
+<li>«يجب أن يتولى مهام متعددة».</li>
+<li>«مسؤول عن كل ما يتعلق بالتصميم والتطوير والخدمات الخلفية والبنية التحتية وضمان الجودة والدعم في مجال الأجهزة المحمولة».</li>
+<li>«بيئة عمل سريعة الوتيرة في شركة ناشئة» دون توضيح ما الذي يتغير بسرعة.</li>
+<li>«العمل عن بُعد» عندما يكون على الشخص أن يقيم بالقرب من المكتب.</li>
+<li>«متعدد المنصات» دون تحديد إطار العمل.</li>
+<li>«أجر تنافسي» دون تحديد نطاقه.</li>
 </ul>
-<h1>Match expectations to seniority</h1>
-<h2>Junior mobile developer</h2>
-<p>Evaluate:</p>
+<h1>قائمة مراجعة لتوظيف مطوري تطبيقات الجوال</h1>
+<p>قبل نشر الإعلان عن الوظيفة, تأكد من:</p>
 <ul>
-<li>programming fundamentals;</li>
-<li>basic platform lifecycle;</li>
-<li>ability to implement scoped features;</li>
-<li>debugging;</li>
-<li>testing;</li>
-<li>learning;</li>
-<li>response to feedback.</li>
+<li>أن العنوان يحدد المنصة الفعلية؛</li>
+<li>أن المستوى الوظيفي دقيق؛</li>
+<li>أن الأجر قد تمت الموافقة عليه؛</li>
+<li>أن قواعد العمل عن بُعد والموقع واضحة؛</li>
+<li>أن نطاق العمل «الأصلي» مقابل «متعدد المنصات» واضح؛</li>
+<li>أن حجم العمل على الوحدات الأصلية محدد؛</li>
+<li>أن المسؤوليات واقعية؛</li>
+<li>أن تكون ملكية التصميم واضحة؛</li>
+<li>أن يتم شرح التعاون مع فريق الباك إند؛</li>
+<li>أن يتم شرح ملكية الإصدارات؛</li>
+<li>أن يتم سرد إصدارات أنظمة التشغيل المدعومة؛</li>
+<li>أن يتم سرد نطاق الأجهزة؛</li>
+<li>أن يتم نشر وتيرة الإصدارات؛</li>
+<li>أن يتم تضمين مقاييس الجودة حيثما أمكن؛</li>
+<li>أن يتم وصف حالة قاعدة الكود بصدق؛</li>
+<li>أن يتم الفصل بين المؤهلات المطلوبة والمفضلة؛</li>
+<li>أن تكون المقابلة مشابهة للعمل الفعلي؛</li>
+<li>أن تكون روابط التطبيقات العامة اختيارية؛</li>
+<li>أن تتوفر التسهيلات اللازمة؛</li>
+<li>قواعد التقييم باستخدام الذكاء الاصطناعي واضحة؛</li>
+<li>خصوصية المرشح محمية.</li>
 </ul>
-<p>Do not expect independent architecture or release leadership.</p>
-<h2>Mid-level mobile developer</h2>
-<p>Evaluate:</p>
+<h1>قائمة مراجعة فحص السير الذاتية الخاصة بالهواتف المحمولة</h1>
+<p>ابحث عن أدلة على:</p>
 <ul>
-<li>independent feature delivery;</li>
-<li>application architecture within a defined area;</li>
-<li>lifecycle and state handling;</li>
-<li>testing;</li>
-<li>production debugging;</li>
-<li>release participation;</li>
-<li>collaboration.</li>
+<li>التطبيقات التي تم طرحها؛</li>
+<li>الصيانة بعد الإصدار؛</li>
+<li>تصحيح الأخطاء في بيئة الإنتاج؛</li>
+<li>أساسيات المنصة؛</li>
+<li>إدارة الحالة؛</li>
+<li>السلوك في وضع عدم الاتصال بالإنترنت؛</li>
+<li>التخزين المحلي الدائم؛</li>
+<li>تكامل واجهة برمجة التطبيقات (API)؛</li>
+<li>الأداء؛</li>
+<li>إمكانية الوصول؛</li>
+<li>الاختبار الآلي؛</li>
+<li>إصدارات المتجر؛</li>
+<li>النتائج القابلة للقياس؛</li>
+<li>الملكية الشخصية الواضحة.
+لا ترفض شخصًا تلقائيًا لمجرد أنه يفتقر إلى:</li>
+<li>مكتبة الهندسة المعمارية الخاصة بك بالضبط؛</li>
+<li>تطبيق شخصي؛</li>
+<li>خبرة في مجال عملك؛</li>
+<li>خبرة مع كل جهاز مدعوم؛</li>
+<li>كلا المنصتين الأصليتين؛</li>
+<li>شهادة جامعية في علوم الحاسوب.</li>
 </ul>
-<h2>Senior mobile developer</h2>
-<p>Evaluate:</p>
+<h1>قائمة مراجعة للمحاور</h1>
+<p>قبل المقابلة:</p>
 <ul>
-<li>end-to-end ownership;</li>
-<li>architecture;</li>
-<li>performance;</li>
-<li>accessibility;</li>
-<li>production operation;</li>
-<li>release risk;</li>
-<li>mentoring;</li>
-<li>API and product collaboration;</li>
-<li>ambiguous problem solving.</li>
+<li>افهم بطاقة تقييم الدور؛</li>
+<li>اعرف المنصة التي يتم تقييمها؛</li>
+<li>حضّر أسئلة ذات صلة بالوظيفة؛</li>
+<li>راجع المسؤولية المعلنة للمرشح؛</li>
+<li>تجنب الاعتماد على عدد تنزيلات التطبيق أو شهرة جهة العمل؛</li>
+<li>افهم متطلبات التسهيلات الخاصة؛</li>
+<li>اعرف سياسة استخدام الذكاء الاصطناعي والأدوات.
+أثناء المقابلة:</li>
+<li>وضح التمرين؛</li>
+<li>اسمح بطرح أسئلة معقولة؛</li>
+<li>قم بتقييم الأدلة؛</li>
+<li>قدم تلميحات بشكل متسق؛</li>
+<li>ميز بين أساسيات المنصة وتفاصيل المكتبة الثانوية؛</li>
+<li>امنح المرشح وقتًا لطرح الأسئلة؛</li>
+<li>سجل السلوك الملحوظ.
+بعد المقابلة:</li>
+<li>قدم ملاحظات مستقلة؛</li>
+<li>استشهد بأدلة محددة؛</li>
+<li>قم بتقييم الكفاءات المحددة فقط؛</li>
+<li>تجنب استخدام مصطلحات غامضة مثل «الملاءمة»؛</li>
+<li>حدد ما إذا كان هناك مجال للقلق فيما يتعلق بالوظيفة؛</li>
+<li>قدم التقييم على الفور.</li>
 </ul>
-<h2>Staff or principal mobile engineer</h2>
-<p>Evaluate:</p>
-<ul>
-<li>architecture across multiple applications or teams;</li>
-<li>platform strategy;</li>
-<li>build and release systems;</li>
-<li>reliability standards;</li>
-<li>shared tooling;</li>
-<li>migration strategy;</li>
-<li>organizational influence;</li>
-<li>long-term technical direction.</li>
-</ul>
-<p>Do not simply add more coding rounds for higher-level roles.</p>
-<p>Change the scope of evidence.</p>
-<h1>Common job-description mistakes</h1>
-<h2>Using “mobile” when the role is platform-specific</h2>
-<p>This attracts the wrong candidates and wastes everyone’s time.</p>
-<h2>Requiring iOS, Android, React Native, and Flutter</h2>
-<p>That is multiple specialties, not one ordinary requirement.</p>
-<h2>Ignoring release ownership</h2>
-<p>Candidates cannot tell whether they are responsible only for feature code or for the entire delivery lifecycle.</p>
-<h2>Hiding the minimum supported operating system</h2>
-<p>Legacy support may be a major part of the work.</p>
-<h2>Saying nothing about app quality</h2>
-<p>Crash rate, ANR rate, startup time, and store rating reveal whether the company operates the app responsibly.</p>
-<h2>Treating mobile as frontend only</h2>
-<p>Mobile engineers often own persistence, synchronization, network resilience, device integration, and release operations.</p>
-<h2>Requiring a public app</h2>
-<p>Many excellent engineers cannot publicly identify their work.</p>
-<h2>Expecting design expertise without saying so</h2>
-<p>Working closely with designers is different from replacing a designer.</p>
-<h2>Describing cross-platform as “write once, run everywhere”</h2>
-<p>Cross-platform development still requires platform-specific judgment.</p>
-<h2>Hiding old code</h2>
-<p>Experienced developers do not expect every codebase to be perfect.</p>
-<p>They do expect honesty.</p>
-<h2>Listing every library</h2>
-<p>Framework-level judgment matters more than familiarity with each dependency.</p>
-<h2>Ignoring accessibility</h2>
-<p>Accessibility is part of mobile product quality, not an optional decorative skill.</p>
-<h1>What to remove from the listing</h1>
-<p>Delete or rewrite:</p>
-<ul>
-<li>“Mobile ninja,” “iOS rockstar,” or “Android guru.”</li>
-<li>“Must know Swift, Kotlin, Objective-C, Java, React Native, Flutter, and Xamarin.”</li>
-<li>“Must have published five personal apps.”</li>
-<li>“Must thrive under pressure.”</li>
-<li>“Must wear many hats.”</li>
-<li>“Responsible for all mobile design, development, backend, infrastructure, QA, and support.”</li>
-<li>“Fast-paced startup environment” without explaining what changes quickly.</li>
-<li>“Remote” when the person must live near an office.</li>
-<li>“Cross-platform” without naming the framework.</li>
-<li>“Competitive compensation” without publishing a range.</li>
-</ul>
-<h1>Mobile developer hiring checklist</h1>
-<p>Before publishing the role, confirm that:</p>
-<ul>
-<li>the title names the actual platform;</li>
-<li>the level is accurate;</li>
-<li>compensation is approved;</li>
-<li>remote and location rules are clear;</li>
-<li>native versus cross-platform scope is explicit;</li>
-<li>the amount of native-module work is stated;</li>
-<li>responsibilities are realistic;</li>
-<li>design ownership is clear;</li>
-<li>backend collaboration is explained;</li>
-<li>release ownership is explained;</li>
-<li>supported OS versions are listed;</li>
-<li>device scope is listed;</li>
-<li>release cadence is published;</li>
-<li>quality metrics are included where possible;</li>
-<li>codebase condition is described honestly;</li>
-<li>required and preferred qualifications are separated;</li>
-<li>the interview resembles the work;</li>
-<li>public app links are optional;</li>
-<li>accommodations are available;</li>
-<li>AI-assessment rules are clear;</li>
-<li>candidate privacy is protected.</li>
-</ul>
-<h1>Mobile résumé-screening checklist</h1>
-<p>Look for evidence of:</p>
-<ul>
-<li>shipped applications;</li>
-<li>post-release maintenance;</li>
-<li>production debugging;</li>
-<li>platform fundamentals;</li>
-<li>state management;</li>
-<li>offline behavior;</li>
-<li>local persistence;</li>
-<li>API integration;</li>
-<li>performance;</li>
-<li>accessibility;</li>
-<li>automated testing;</li>
-<li>store releases;</li>
-<li>measurable outcomes;</li>
-<li>clear personal ownership.</li>
-</ul>
-<p>Do not automatically reject someone because they lack:</p>
-<ul>
-<li>your exact architecture library;</li>
-<li>a personal app;</li>
-<li>experience in your industry;</li>
-<li>experience with every supported device;</li>
-<li>both native platforms;</li>
-<li>a computer-science degree.</li>
-</ul>
-<h1>Interviewer checklist</h1>
-<p>Before the interview:</p>
-<ul>
-<li>understand the role scorecard;</li>
-<li>know which platform is being evaluated;</li>
-<li>prepare job-relevant questions;</li>
-<li>review the candidate’s stated ownership;</li>
-<li>avoid relying on app-download counts or employer prestige;</li>
-<li>understand accommodation requirements;</li>
-<li>know the AI and tool-use policy.</li>
-</ul>
-<p>During the interview:</p>
-<ul>
-<li>clarify the exercise;</li>
-<li>allow reasonable questions;</li>
-<li>evaluate evidence;</li>
-<li>provide hints consistently;</li>
-<li>distinguish platform fundamentals from library trivia;</li>
-<li>give the candidate time to ask questions;</li>
-<li>record observable behavior.</li>
-</ul>
-<p>After the interview:</p>
-<ul>
-<li>submit independent feedback;</li>
-<li>cite specific evidence;</li>
-<li>score only assigned competencies;</li>
-<li>avoid vague “fit” language;</li>
-<li>identify whether a concern is required for the role;</li>
-<li>provide feedback promptly.</li>
-</ul>
-<h1>The takeaway</h1>
-<p>A strong mobile developer job description does more than list Swift, Kotlin, React Native, or Flutter.</p>
-<p>It explains the production environment the engineer will inherit.</p>
-<p>The most useful listings clearly state:</p>
+<h1>النقطة الأساسية</h1>
+<p>لا يقتصر الوصف الوظيفي القوي لمطور تطبيقات الجوال على ذكر لغات البرمجة مثل Swift أو Kotlin أو React Native أو Flutter فحسب.
+بل يشرح بيئة الإنتاج التي سيتولى المهندس مسؤوليتها.
+توضح الإعلانات الأكثر فائدة ما يلي بوضوح:</p>
 <ol>
-<li>Which platform the engineer will own.</li>
-<li>Whether the application is native or cross-platform.</li>
-<li>How much platform-specific work is required.</li>
-<li>Which operating-system versions and devices are supported.</li>
-<li>How often releases ship.</li>
-<li>Who owns builds, signing, store submissions, and rollout.</li>
-<li>How application quality is measured.</li>
-<li>Whether offline behavior, background work, or hardware integration matters.</li>
-<li>How mobile engineers collaborate with design and backend teams.</li>
-<li>Which parts of the codebase are modern and which need improvement.</li>
-<li>What the role explicitly does not include.</li>
-<li>How candidates will be evaluated through realistic mobile work.</li>
+<li>المنصة التي سيتولى المهندس مسؤوليتها.</li>
+<li>ما إذا كان التطبيق أصليًا أم متعدد المنصات.</li>
+<li>حجم العمل المطلوب الخاص بالمنصة.</li>
+<li>إصدارات أنظمة التشغيل والأجهزة المدعومة.</li>
+<li>وتيرة إصدار التحديثات.</li>
+<li>من يتولى مسؤولية عمليات البناء والتوقيع وتقديم التطبيقات إلى المتاجر وإطلاقها.</li>
+<li>كيفية قياس جودة التطبيق.</li>
+<li>ما إذا كان الأداء في وضع عدم الاتصال أو العمل في الخلفية أو تكامل الأجهزة أمورًا مهمة.</li>
+<li>كيف يتعاون مهندسو تطبيقات الجوال مع فرق التصميم والخدمات الخلفية.</li>
+<li>أي أجزاء من قاعدة الكود حديثة وأيها تحتاج إلى تحسين.</li>
+<li>ما لا يشمله الدور صراحةً.</li>
+<li>كيف سيتم تقييم المرشحين من خلال مهام عمل واقعية في مجال تطبيقات الجوال.
+الهدف ليس جعل التطبيق يبدو مثاليًّا.
+بل هو مساعدة المهندس المناسب على فهم العمل الفعلي وتقرير ما إذا كان متحمسًا لتولي مسؤوليته.
+يعرف مطورو تطبيقات الجوال أن برامج الإنتاج تعمل على أجهزة وشبكات وأنظمة تشغيل وقنوات إصدار لا تتحكم فيها الشركة بشكل كامل.
+الوصف الوظيفي الموثوق يعترف بهذه القيود.
+والمقابلة الموثوقة تقيّم كيفية تفكير المرشحين في ظل هذه القيود.
+والجهة الموظِفة الموثوقة تمنح مهندسي تطبيقات الجوال ما يكفي من حرية المبادرة والأدوات والدعم لبناء تطبيقات يمكن للمستخدمين الوثوق بها.
+<em>هل تبحث عن مطور iOS أو Android أو React Native, أو Flutter؟ <a href="/auth/register?role=COMPANY">أنشئ حسابًا للشركة على JobsList.dev</a>, وانشر إعلانًا شفافًا عن وظيفة في مجال تطبيقات الجوال, وتواصل مباشرةً مع المطورين الذين تتطابق خبرتهم في المنصة مع متطلبات العمل.</em></li>
 </ol>
-<p>The goal is not to make the application sound perfect.</p>
-<p>It is to help the right engineer understand the real work and decide whether they are excited to own it.</p>
-<p>Mobile developers know that production software operates on devices, networks, operating systems, and release channels the company does not fully control.</p>
-<p>A credible job description acknowledges those constraints.</p>
-<p>A credible interview evaluates how candidates reason within them.</p>
-<p>And a credible employer gives mobile engineers enough ownership, tooling, and support to build applications users can trust.</p>
-<p><em>Hiring an iOS, Android, React Native, or Flutter developer? <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish a transparent mobile role, and connect directly with developers whose platform experience matches the work.</em></p>
-5:["locale","ar","d"]
-6:["slug","mobile-developer-job-description-template","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"mobile-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","mobile-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)\",\"description\":\"A practical, copy-paste mobile developer job description template for iOS, Android, React Native, and Flutter roles, plus guidance for defining platform scope, release ownership, app quality, and candidate screening.\",\"datePublished\":\"2026-06-19T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)","date":"2026-06-19T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":30,"html":"$3"},"assessment":{"href":"/assessments/mobile-engineer/","roleName":"Mobile Engineer"}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical, copy-paste mobile developer job description template for iOS, Android, React Native, and Flutter roles, plus guidance for defining platform scope, release ownership, app quality, and candidate screening."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)"}],["$","meta","15",{"property":"og:description","content":"A practical, copy-paste mobile developer job description template for iOS, Android, React Native, and Flutter roles, plus guidance for defining platform scope, release ownership, app quality, and candidate screening."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-19T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Mobile Developer Job Description Template (iOS, Android, Cross-Platform)"}],["$","meta","25",{"name":"twitter:description","content":"A practical, copy-paste mobile developer job description template for iOS, Android, React Native, and Flutter roles, plus guidance for defining platform scope, release ownership, app quality, and candidate screening."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نموذج وصف وظيفي لمطور تطبيقات الجوال (iOS, Android, عبر المنصات)\",\"description\":\"نموذج عملي لوصف وظيفي لمطور تطبيقات الجوال يمكن نسخه ولصقه مباشرةً, مخصص لوظائف iOS وAndroid وReact Native وFlutter, بالإضافة إلى إرشادات لتحديد نطاق المنصة, ومسؤولية الإصدار, وجودة التطبيق, وفرز المرشحين.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-06-19T05:00:00.000Z\",\"dateModified\":\"2026-06-19T05:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/mobile-developer-job-description-template/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نموذج وصف وظيفي لمطور تطبيقات الجوال (iOS, Android, عبر المنصات)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"نموذج عملي لوصف وظيفي لمطور تطبيقات الجوال يمكن نسخه ولصقه مباشرةً, مخصص لوظائف iOS وAndroid وReact Native وFlutter, بالإضافة إلى إرشادات لتحديد نطاق المنصة, ومسؤولية الإصدار, وجودة التطبيق, وفرز المرشحين."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-19T05:00:00.000Z","children":"19 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[33," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","وصف الوظائف",{"className":"badge-gray","children":"وصف الوظائف"}],["$","span","قوالب",{"className":"badge-gray","children":"قوالب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","تطوير تطبيقات الهواتف المحمولة",{"className":"badge-gray","children":"تطوير تطبيقات الهواتف المحمولة"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","aside",null,{"className":"card mt-12 p-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide text-surface-400","children":"blog.article.related"}],["$","h2",null,{"className":"mt-1 text-lg font-semibold text-surface-900 dark:text-white","children":"Mobile Engineer blog.article.skillsAssessment"}],["$","p",null,{"className":"mt-2 text-sm text-surface-500 dark:text-surface-400","children":"blog.article.roleAssessmentDescription"}],["$","$La",null,{"href":"/assessments/mobile-engineer/","className":"mt-4 inline-block text-sm font-medium text-brand-600 hover:text-brand-700","children":"blog.article.viewAssessment →"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نموذج وصف وظيفي لمطور تطبيقات الجوال (iOS, Android, عبر المنصات) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"نموذج عملي لوصف وظيفي لمطور تطبيقات الجوال يمكن نسخه ولصقه مباشرةً, مخصص لوظائف iOS وAndroid وReact Native وFlutter, بالإضافة إلى إرشادات لتحديد نطاق المنصة, ومسؤولية الإصدار, وجودة التطبيق, وفرز المرشحين."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نموذج وصف وظيفي لمطور تطبيقات الجوال (iOS, Android, عبر المنصات)"}],["$","meta","15",{"property":"og:description","content":"نموذج عملي لوصف وظيفي لمطور تطبيقات الجوال يمكن نسخه ولصقه مباشرةً, مخصص لوظائف iOS وAndroid وReact Native وFlutter, بالإضافة إلى إرشادات لتحديد نطاق المنصة, ومسؤولية الإصدار, وجودة التطبيق, وفرز المرشحين."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/mobile-developer-job-description-template/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-19T05:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نموذج وصف وظيفي لمطور تطبيقات الجوال (iOS, Android, عبر المنصات)"}],["$","meta","27",{"name":"twitter:description","content":"نموذج عملي لوصف وظيفي لمطور تطبيقات الجوال يمكن نسخه ولصقه مباشرةً, مخصص لوظائف iOS وAndroid وReact Native وFlutter, بالإضافة إلى إرشادات لتحديد نطاق المنصة, ومسؤولية الإصدار, وجودة التطبيق, وفرز المرشحين."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

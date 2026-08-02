@@ -1,718 +1,700 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T8d6c,<p>Developers tend to have strong opinions about cover letters.</p>
-<p>Some hiring managers read every one. Others barely glance at them. Many large companies treat them as optional attachments, while a founder at a ten-person startup may read the letter before opening the résumé.</p>
-<p>That makes the real answer more nuanced than either “always write one” or “cover letters are dead.”</p>
-<p>A generic cover letter usually adds no value. It may even hurt your application if it sounds copied, vague, overly formal, or clearly written for another company.</p>
-<p>A short, specific cover letter can still be useful when it answers something your résumé cannot explain on its own.</p>
-<p>The best cover letters do not repeat your work history. They help a hiring manager understand:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","cover-letter-for-developer-jobs","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","cover-letter-for-developer-jobs","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"cover-letter-for-developer-jobs\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","cover-letter-for-developer-jobs","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Td37a,<p>يميل المطورون إلى اتخاذ مواقف قوية بشأن خطابات التقديم.
+يقرأ بعض مديري التوظيف كل خطاب. بينما يكتفي آخرون بإلقاء نظرة سريعة عليها. تعامل العديد من الشركات الكبيرة هذه الخطابات كمرفقات اختيارية, في حين قد يقرأ مؤسس شركة ناشئة مكونة من عشرة أشخاص الخطاب قبل فتح السيرة الذاتية.
+وهذا يجعل الإجابة الحقيقية أكثر تعقيدًا من مجرد «اكتبها دائمًا» أو «خطابات التقديم لم تعد مجدية».
+عادةً ما لا تضيف رسالة التغطية العامة أي قيمة. بل قد تضر بطلبك إذا بدت منسوخة, أو غامضة, أو مفرطة في الرسمية, أو مكتوبة بوضوح لشركة أخرى.
+يمكن أن تظل رسالة التغطية القصيرة والمحددة مفيدة عندما تجيب عن شيء لا تستطيع سيرتك الذاتية توضيحه بمفردها.
+أفضل رسائل التغطية لا تكرر تاريخك المهني. بل تساعد مدير التوظيف على فهم:</p>
 <ol>
-<li>Why you chose this company.</li>
-<li>Why your experience is relevant.</li>
-<li>Why your career story makes sense.</li>
-<li>What evidence they should examine next.</li>
+<li>لماذا اخترت هذه الشركة.</li>
+<li>لماذا خبرتك ذات صلة.</li>
+<li>لماذا مسارك المهني منطقي.</li>
+<li>ما هي الأدلة التي يجب عليهم فحصها بعد ذلك.
+بالنسبة لمعظم طلبات التوظيف للمطورين, لا تتجاوز الرسالة التمهيدية المثالية صفحة واحدة.
+وغالبًا ما تكون أقرب إلى <strong>150–250 كلمة مركزة</strong>.</li>
 </ol>
-<p>For most developer applications, the ideal cover letter is not a full page.</p>
-<p>It is often closer to <strong>150–250 focused words</strong>.</p>
-<h1>Do developers really need a cover letter?</h1>
-<p>Not for every application.</p>
-<p>A cover letter is most useful when it adds context, relevance, or evidence that the résumé alone does not provide.</p>
-<p>It is less useful when it merely restates your job titles, technologies, and responsibilities in paragraph form.</p>
-<p>A practical rule is:</p>
+<h1>هل يحتاج المطورون حقًا إلى رسالة تمهيدية؟</h1>
+<p>ليس لكل طلب توظيف.
+تكون الرسالة التمهيدية مفيدة للغاية عندما تضيف سياقًا أو صلة أو دليلًا لا توفره السيرة الذاتية وحدها.
+وتقل فائدته عندما يقتصر على إعادة ذكر المسميات الوظيفية والتقنيات والمسؤوليات في شكل فقرات.
+وهناك قاعدة عملية وهي:</p>
 <blockquote>
-<p>Write a cover letter when you have something useful and specific to say. Skip it when you would only be sending a template.</p>
+<p>اكتب خطاب تغطية عندما يكون لديك شيء مفيد ومحدد لتقوله. وتجاهله إذا كنت سترسل نموذجًا جاهزًا فقط.
+نادرًا ما يكون عدم وجود خطاب تغطية أمرًا فادحًا عندما تنص طلبات التوظيف على أنه اختياري.
+ومع ذلك, فإن خطاب التغطية الضعيف قد يثير الشكوك.</p>
 </blockquote>
-<p>The absence of a cover letter is rarely fatal when the application says it is optional.</p>
-<p>A weak cover letter, however, can create doubt.</p>
-<h1>What a cover letter can do that a résumé cannot</h1>
-<p>A résumé is optimized for scanning.</p>
-<p>It communicates:</p>
+<h1>ما يمكن لخطاب التغطية أن يفعله ولا تستطيع السيرة الذاتية فعله</h1>
+<p>السيرة الذاتية مُصممة خصيصًا للمسح الضوئي.
+وهي تنقل:</p>
 <ul>
-<li>job titles;</li>
-<li>dates;</li>
-<li>technologies;</li>
-<li>responsibilities;</li>
-<li>accomplishments;</li>
-<li>education;</li>
-<li>certifications;</li>
-<li>projects.</li>
+<li>المسميات الوظيفية؛</li>
+<li>التواريخ؛</li>
+<li>التقنيات؛</li>
+<li>المسؤوليات؛</li>
+<li>الإنجازات؛</li>
+<li>التعليم؛</li>
+<li>الشهادات؛</li>
+<li>المشاريع.
+يمكن لخطاب التقديم أن يشرح العلاقة بين تلك الحقائق.
+على سبيل المثال, يمكنه توضيح:</li>
+<li>لماذا ينتقل مطور البايند إلى هندسة المنصات؛</li>
+<li>لماذا يتقدم مدرس لوظيفة في مجال تكنولوجيا التعليم؛</li>
+<li>لماذا يتقدم مطور يتمتع بخبرة في لغة Java بشكل أساسي إلى فريق يعمل بلغة Kotlin؛</li>
+<li>ما الذي حدث خلال فترة التوقف عن العمل؛</li>
+<li>لماذا يهتم المرشح بمنتج معين؛</li>
+<li>كيف تعزز الخبرة في المجال المكتسبة من وظيفة سابقة من فرص قبول طلب التوظيف؛</li>
+<li>لماذا يعتبر الانتقال الذي يبدو جانبيًا خطوة متعمدة؛</li>
+<li>لماذا يخطط المرشح للانتقال إلى مكان آخر أو يستهدف العمل عن بُعد.
+فكر في السيرة الذاتية على أنها دليل, وفي خطاب التقديم على أنه تفسير.</li>
 </ul>
-<p>A cover letter can explain the relationship between those facts.</p>
-<p>For example, it can clarify:</p>
+<h1>متى يستحق الأمر كتابة خطاب التقديم</h1>
+<h2>عندما يطلب صاحب العمل ذلك</h2>
+<p>هذه هي الحالة الأبسط.
+عندما يطلب نموذج التقديم صراحةً خطاب تغطية, قم بتقديم واحد.
+قد يشير تجاهل هذه التعليمات إلى أنك:</p>
 <ul>
-<li>why a backend developer is moving into platform engineering;</li>
-<li>why a teacher is applying for an education-technology role;</li>
-<li>why a developer with mostly Java experience is applying to a Kotlin team;</li>
-<li>what happened during a career break;</li>
-<li>why a candidate is interested in one specific product;</li>
-<li>how domain experience from a previous career strengthens the application;</li>
-<li>why an apparently lateral move is intentional;</li>
-<li>why a candidate is relocating or targeting remote work.</li>
+<li>لم تقرأ الإعلان؛</li>
+<li>لم تهتم بما يكفي لإكمال طلب التوظيف؛</li>
+<li>تواجه صعوبة في اتباع المتطلبات المكتوبة.
+قد يكون ذلك أيضًا معيارًا متعمدًا لفرز المرشحين.
+لست بحاجة إلى كتابة مقال. لكنك بحاجة إلى الرد بعناية.</li>
 </ul>
-<p>Think of the résumé as evidence and the cover letter as interpretation.</p>
-<h1>When a cover letter is worth writing</h1>
-<h2>The employer asks for one</h2>
-<p>This is the simplest case.</p>
-<p>When the application explicitly requests a cover letter, provide one.</p>
-<p>Ignoring the instruction may suggest that you:</p>
+<h2>عندما تغير مسارك المهني</h2>
+<p>غالبًا ما يكون لدى من يغير مساره المهني سيرة ذاتية تبدو منطقية تمامًا بعد شرحها, لكنها تبدو غير عادية بدون هذا الشرح.
+على سبيل المثال:</p>
 <ul>
-<li>did not read the listing;</li>
-<li>did not care enough to complete the application;</li>
-<li>struggle to follow written requirements.</li>
+<li>من مدير لوجستيات إلى مطور خلفي؛</li>
+<li>من مصمم جرافيك إلى مهندس واجهة مستخدم؛</li>
+<li>من محاسب إلى محلل بيانات؛</li>
+<li>من أخصائي دعم فني إلى مهندس DevOps؛</li>
+<li>من مدرس إلى مطور برمجيات.
+يمنحك خطاب التقديم مساحة لربط مسارك المهني القديم بالجديد.
+بدلاً من إخفاء خبرتك السابقة, اشرح الميزة التي توفرها.
+مثال:</li>
 </ul>
-<p>It may also be a deliberate filter.</p>
-<p>You do not need to write an essay. You do need to respond thoughtfully.</p>
-<h2>You are changing careers</h2>
-<p>A career changer often has a résumé that makes perfect sense after explanation but looks unusual without it.</p>
-<p>For example:</p>
+<blockquote>
+<p>تمنحني خلفيتي في العمليات اللوجستية معرفة مباشرة باستثناءات المخزون, وتأخيرات الشحن, وسير العمل في المستودعات. انتقلت إلى مجال تطوير البرمجيات بعد أن قمت بإنشاء أدوات أتمتة داخلية لتلك العمليات, وأنا الآن أبحث عن وظيفة في مجال البرمجة الخلفية حيث تكون تلك المعرفة المتخصصة مفيدة بشكل مباشر.
+هذا أكثر إقناعًا من الاعتذار عن عدم امتلاك سيرة ذاتية هندسية تقليدية.</p>
+</blockquote>
+<h2>أنت تغير تخصصك</h2>
+<p>قد تُظهر سيرتك الذاتية مسارًا معينًا بينما تمثل الوظيفة مسارًا آخر.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>logistics manager to backend developer;</li>
-<li>graphic designer to frontend engineer;</li>
-<li>accountant to data analyst;</li>
-<li>technical support specialist to DevOps engineer;</li>
-<li>teacher to software developer.</li>
+<li>الانتقال من الواجهة الأمامية (frontend) إلى المطور المتكامل (full-stack)؛</li>
+<li>الانتقال من البرمجة الخلفية (backend) إلى هندسة المنصات؛</li>
+<li>الانتقال من أتمتة ضمان الجودة (QA) إلى تطوير البرمجيات؛</li>
+<li>الانتقال من مطور إلى مدير هندسي؛</li>
+<li>العودة إلى العمل الفردي بعد شغل منصب إداري؛</li>
+<li>انتقال مهندس تطبيقات الجوال من نظام أندرويد إلى العمل عبر المنصات المختلفة؛</li>
+<li>انتقال محلل البيانات إلى هندسة البيانات.
+استخدم الخطاب لإظهار أن هذا الانتقال متعمد ومدعوم بالأدلة.
+مثال:</li>
 </ul>
-<p>A cover letter gives you space to connect the old career to the new one.</p>
-<p>Instead of hiding your previous experience, explain the advantage it creates.</p>
-<p>Example:</p>
 <blockquote>
-<p>My background in logistics operations gives me firsthand knowledge of inventory exceptions, shipment delays, and warehouse workflows. I moved into software development after building internal automation tools for those processes, and I am now looking for a backend role where that domain knowledge is directly useful.</p>
+<p>على الرغم من أن ألقابي الوظيفية الأخيرة كانت في هندسة منتجات الخلفية, إلا أن معظم أعمالي ذات التأثير الأكبر تضمنت أتمتة النشر, وقابلية المراقبة, وأدوات المطورين. قمت مؤخرًا بقيادة طرح خطوط إنتاج CI قابلة لإعادة الاستخدام عبر اثني عشر خدمة, وهذا هو السبب في أنني أسعى الآن إلى منصب مخصص في هندسة المنصات.</p>
 </blockquote>
-<p>That is more compelling than apologizing for not having a traditional engineering résumé.</p>
-<h2>You are changing specialties</h2>
-<p>Your résumé may show one path while the role represents another.</p>
-<p>Examples include:</p>
+<h2>لديك فجوة في سيرتك الذاتية</h2>
+<p>معظم الفجوات لا تتطلب شرحًا طويلًا.
+يمكن لخطاب التقديم أن يتناول الأمر بإيجاز وهدوء.
+مثال:</p>
+<blockquote>
+<p>أخذت استراحة مهنية لمدة عشرة أشهر لرعاية أفراد العائلة, وأنا الآن مستعد للعودة إلى العمل الهندسي بدوام كامل. خلال تلك الفترة, حافظت على مهاراتي محدثة من خلال المساهمات في المشاريع مفتوحة المصدر ومشروع TypeScript يركز على اختبار إمكانية الوصول.
+هذا يكفي.
+لا داعي لتقديم تفاصيل طبية أو عائلية خاصة.</p>
+</blockquote>
+<h2>أنت تعود بعد تسريح من العمل</h2>
+<p>التسريح من العمل ليس حكماً على الأداء.
+اذكر الأمر بشكل واقعي ووجه الانتباه إلى عملك.
+مثال:</p>
+<blockquote>
+<p>تم إلغاء وظيفتي خلال عملية إعادة هيكلة شاملة للشركة في وقت سابق من هذا العام. ومنذ ذلك الحين, أساهم في مشروع مفتوح المصدر للتحقق من صحة البيانات, بينما أبحث عن وظيفة في مجال البايندج تركز على الموثوقية وصحة البيانات.
+لا تكرس عدة فقرات للدفاع عن الموقف.</p>
+</blockquote>
+<h2>لقد استخدمت منتج الشركة</h2>
+<p>هذا أحد أقوى الأسباب التي تدفعك للكتابة.
+تتيح لك معرفتك بالمنتج أن تبدأ بذكر أمر ملموس.
+مثال:</p>
+<blockquote>
+<p>لقد استخدمت منصة النشر الخاصة بكم خلال الثمانية عشر شهراً الماضية, وقد أزال سير العمل في بيئة المعاينة عقبة متكررة كانت تواجه فريق الواجهة الأمامية لدينا. وعندما رأيت أن هذا المنصب سيتناول تجربة المطورين وأدوات الإصدار, شعرت بالارتباط الفوري.
+يبدو هذا حقيقيًا لأنه محدد.</p>
+</blockquote>
+<h2>أنت تفهم المشكلة التقنية التي تواجهها الشركة</h2>
+<p>ربما تكون قد قرأت:</p>
 <ul>
-<li>frontend to full-stack;</li>
-<li>backend to platform engineering;</li>
-<li>QA automation to software development;</li>
-<li>developer to engineering manager;</li>
-<li>individual contributor returning from management;</li>
-<li>mobile engineer moving from Android to cross-platform work;</li>
-<li>data analyst moving into data engineering.</li>
+<li>مقالًا هندسيًا؛</li>
+<li>منشورًا عامًا عن البنية؛</li>
+<li>محاضرة تقنية؛</li>
+<li>تحديثًا للمنتج؛</li>
+<li>مستودعًا مفتوح المصدر؛</li>
+<li>الوصف الوظيفي نفسه.
+يمكنك ربط خبرتك بتلك المشكلة.
+مثال:</li>
 </ul>
-<p>Use the letter to show that the transition is intentional and supported by evidence.</p>
-<p>Example:</p>
 <blockquote>
-<p>Although my recent titles have been in backend product engineering, much of my most impactful work has involved deployment automation, observability, and developer tooling. I recently led the rollout of reusable CI pipelines across twelve services, which is why I am now pursuing a dedicated platform-engineering role.</p>
+<p>لقد لفت انتباهي منشورك الهندسي حول نقل معالجة الحسابات من الدُفعات الليلية إلى سير العمل القائم على الأحداث, لأنني قمت بقيادة عملية ترحيل مماثلة العام الماضي. كان الجزء الأصعب هو الحفاظ على التوافق أثناء تشغيل النظامين بالتوازي, وسأكون متحمسًا لتطبيق تلك الدروس هنا.</p>
 </blockquote>
-<h2>You have a résumé gap</h2>
-<p>Most gaps do not require a long explanation.</p>
-<p>A cover letter can address one briefly and calmly.</p>
-<p>Example:</p>
-<blockquote>
-<p>I took a ten-month career break for family caregiving and am now ready to return to full-time engineering. During that period, I kept my skills current through open-source contributions and a TypeScript project focused on accessibility testing.</p>
-</blockquote>
-<p>That is enough.</p>
-<p>You do not need to provide private medical or family details.</p>
-<h2>You are returning after a layoff</h2>
-<p>A layoff is not a performance verdict.</p>
-<p>State it factually and redirect attention to your work.</p>
-<p>Example:</p>
-<blockquote>
-<p>My role was eliminated during a company-wide restructuring earlier this year. Since then, I have been contributing to an open-source data-validation project while looking for a backend role focused on reliability and data correctness.</p>
-</blockquote>
-<p>Do not spend several paragraphs defending the situation.</p>
-<h2>You have used the company’s product</h2>
-<p>This is one of the strongest reasons to write.</p>
-<p>Product familiarity lets you open with something concrete.</p>
-<p>Example:</p>
-<blockquote>
-<p>I have used your deployment platform for the past eighteen months, and the preview-environment workflow removed a recurring bottleneck for our frontend team. When I saw that this role would work on developer experience and release tooling, the connection was immediate.</p>
-</blockquote>
-<p>That sounds real because it is specific.</p>
-<h2>You understand the company’s technical problem</h2>
-<p>You may have read:</p>
+<h2>أنت تتقدم بطلب وظيفة في شركة صغيرة أو شركة ناشئة</h2>
+<p>في الشركات الصغيرة, قد يقوم المؤسس أو مدير الهندسة أو المطور الرئيسي بمراجعة طلبات التوظيف شخصيًا.
+يمكن أن يكون للرسالة المدروسة أهمية كبيرة لأنها تُظهر:</p>
 <ul>
-<li>an engineering article;</li>
-<li>a public architecture post;</li>
-<li>a technical talk;</li>
-<li>a product update;</li>
-<li>an open-source repository;</li>
-<li>the job description itself.</li>
+<li>اهتمامًا حقيقيًّا؛</li>
+<li>فهمًا للمنتج؛</li>
+<li>روح المبادرة؛</li>
+<li>مهارات التواصل؛</li>
+<li>الاستعداد للعمل في بيئة غير محددة المعالم.
+غالبًا ما تهتم الفرق الصغيرة بدرجة أقل بالمؤهلات المثالية, وتركز أكثر على مدى فهمك لما تعمل على بنائه.</li>
 </ul>
-<p>You can connect your experience to that problem.</p>
-<p>Example:</p>
+<h2>إذا كنت تتقدم بطلب عبر توصية مباشرة</h2>
+<p>حتى عندما يكون لديك توصية, يمكن لملاحظة قصيرة أن تساعد المتلقي على فهم سبب منطقية هذه التوصية.
+قد تكون مجرد بضع جمل بدلاً من خطاب رسمي.
+مثال:</p>
 <blockquote>
-<p>Your engineering post about moving account processing from nightly batches toward event-driven workflows caught my attention because I led a similar migration last year. The hardest part was preserving compatibility while both systems ran in parallel, and I would be excited to apply those lessons here.</p>
+<p>اقترح جوردان أن أتواصل معكم لأن فريقكم يبحث عن موظفين لمنصة الفوترة. قضيت السنوات الثلاث الماضية في العمل على أنظمة الاشتراك وإعادة المحاولة والتسوية, بما في ذلك عملية ترحيل المعالج التي تمت دون أي توقف في الخدمة يواجهه العملاء. سأكون سعيدًا بمشاركة المزيد عن المشروع إذا بدت هذه الخبرة ذات صلة.</p>
 </blockquote>
-<h2>You are applying to a small company or startup</h2>
-<p>At smaller companies, a founder, engineering manager, or lead developer may personally review applications.</p>
-<p>A thoughtful letter can matter because it demonstrates:</p>
+<h2>سيرتك الذاتية تحتاج إلى تحديد الأولويات</h2>
+<p>قد تحتوي السيرة الذاتية على عدة مشاريع ذات صلة, لكن القارئ قد لا يعرف أيها الأكثر أهمية.
+يمكن للرسالة أن توجه الانتباه.
+مثال:</p>
+<blockquote>
+<p>المشروع الأكثر صلة بهذا الدور هو إعادة تصميم نظام التفويض الموصوف في إطار منصبي الحالي. قمت بقيادة عملية الانتقال من أذونات على مستوى الحساب إلى وصول على نطاق المؤسسة, بما في ذلك ترحيل المخطط, وطبقة التوافق, واختبارات التكامل.
+هذا يساعد المراجع على العثور على الدليل الأقوى بسرعة.</p>
+</blockquote>
+<h1>الحالات التي قد لا يكون فيها خطاب التقديم مفيدًا</h1>
+<h2>عندما يكون عدد الطلبات هائلاً وتتم معالجتها آليًّا</h2>
+<p>تقوم بعض الشركات الكبيرة بمعالجة آلاف الطلبات عبر أنظمة منظمة.
+عندما يكون خطاب التقديم اختياريًّا ولا يوجد سياق ذو مغزى يمكن إضافته, قد يكون من الأفضل تخصيص وقتك لما يلي:</p>
 <ul>
-<li>genuine interest;</li>
-<li>product understanding;</li>
-<li>initiative;</li>
-<li>communication;</li>
-<li>willingness to work in an ambiguous environment.</li>
+<li>تكييف السيرة الذاتية؛</li>
+<li>تحسين الملخص الافتتاحي؛</li>
+<li>مواءمة قسم المهارات؛</li>
+<li>تحديث محفظة أعمالك؛</li>
+<li>الحصول على توصية؛</li>
+<li>التقدم بطلبك في وقت مبكر.
+لا يزال بإمكانك تضمين ملاحظة قصيرة, لكن لا تقضي ساعة في كتابة صفحة من غير المرجح أن تُقرأ.</li>
 </ul>
-<p>Small teams often care less about perfect credentials and more about whether you understand what they are building.</p>
-<h2>You are applying through a direct introduction</h2>
-<p>Even when you have a referral, a short note can help the recipient understand why the introduction makes sense.</p>
-<p>It may be only a few sentences rather than a formal letter.</p>
-<p>Example:</p>
+<h2>عندما يكون مسؤول التوظيف يمثلك بالفعل</h2>
+<p>عندما يكون مسؤول التوظيف قد تحدث معك بالفعل ويقوم بتقديم سيرتك الذاتية مباشرةً, فقد يوفر هو السياق الذي عادةً ما توفره رسالة التقديم.
+يمكنك أن تسأل عما إذا كانت الملاحظة ستكون مفيدة.
+لا تقم بإنشاء مستندات إضافية لمجرد أنها تبدو تقليدية.</p>
+<h2>لديك توصية داخلية قوية</h2>
+<p>غالبًا ما تجيب التوصية على السؤال الأول الذي يحاول خطاب التقديم الإجابة عليه:</p>
 <blockquote>
-<p>Jordan suggested I reach out because your team is hiring for the billing platform. I have spent the past three years working on subscription, retry, and reconciliation systems, including a processor migration completed without customer-facing downtime. I would be glad to share more about the project if the experience looks relevant.</p>
+<p>لماذا يجب على شخص ما أن ينتبه لهذا المرشح؟
+لا يزال بإمكانك إرسال مقدمة موجزة, لكن قد لا تكون هناك حاجة لخطاب رسمي.</p>
 </blockquote>
-<h2>Your résumé needs prioritization</h2>
-<p>A résumé may contain several relevant projects, but the reader may not know which one matters most.</p>
-<p>The letter can direct attention.</p>
-<p>Example:</p>
-<blockquote>
-<p>The project most relevant to this role is the authorization redesign described under my current position. I led the move from account-level permissions to organization-scoped access, including the schema migration, compatibility layer, and integration tests.</p>
-</blockquote>
-<p>This helps the reviewer find the strongest evidence quickly.</p>
-<h1>When a cover letter probably will not help</h1>
-<h2>The application is extremely high-volume and automated</h2>
-<p>Some large companies process thousands of applications through structured systems.</p>
-<p>When the cover letter is optional and there is no meaningful context to add, your time may be better spent on:</p>
+<h2>الوظيفة مطابقة تمامًا</h2>
+<p>عندما يتوافق لقبك الوظيفي الحالي ومهاراتك ونطاق عملك وإنجازاتك بوضوح مع متطلبات الإعلان, قد لا يكون هناك سوى القليل من السياق الإضافي الذي يحتاج إلى توضيح.
+على سبيل المثال, قد يستفيد مهندس أندرويد ذو خبرة كبيرة يتقدم لوظيفة أندرويد رفيعة المستوى في نفس المجال أكثر من سيرة ذاتية قوية بدلاً من خطاب طويل.</p>
+<h2>ليس لديك ما تقوله بشكل محدد</h2>
+<p>لا ترسل خطابًا مبنيًا على عبارات مثل:</p>
 <ul>
-<li>tailoring the résumé;</li>
-<li>improving the opening summary;</li>
-<li>aligning your skills section;</li>
-<li>updating your portfolio;</li>
-<li>getting a referral;</li>
-<li>applying earlier.</li>
+<li>أكتب إليكم للتقدم للوظيفة.</li>
+<li>أنا شغوف بالتكنولوجيا.</li>
+<li>أنا شخص مجتهد وأعمل بروح الفريق.</li>
+<li>أعتقد أنني سأكون مرشحًا مناسبًا تمامًا.</li>
+<li>شركتكم المبتكرة تثير حماسي.</li>
+<li>أنا متحمس لمواجهة تحديات جديدة.
+يمكن لأي متقدم إرسال هذه العبارات إلى أي شركة.
+قد يكون ترك هذا الحقل اختياريًا فارغًا خيارًا أفضل.</li>
 </ul>
-<p>You can still include a short note, but do not spend an hour writing a page that is unlikely to be read.</p>
-<h2>A recruiter is already representing you</h2>
-<p>When a recruiter has already spoken with you and is submitting your résumé directly, they may provide the context a cover letter would normally supply.</p>
-<p>You can ask whether a note would be useful.</p>
-<p>Do not create extra documents merely because they feel traditional.</p>
-<h2>You have a strong internal referral</h2>
-<p>A referral often answers the first question a cover letter tries to answer:</p>
-<blockquote>
-<p>Why should someone pay attention to this candidate?</p>
-</blockquote>
-<p>You may still send a concise introduction, but a formal letter may be unnecessary.</p>
-<h2>The role is an exact match</h2>
-<p>When your current title, stack, scope, and accomplishments align clearly with the listing, there may be little additional context to explain.</p>
-<p>For example, a senior Android engineer applying for a senior Android role in the same domain may gain more from a stronger résumé than a long letter.</p>
-<h2>You have nothing specific to say</h2>
-<p>Do not send a letter built from phrases such as:</p>
+<h1>ما الذي يريده مديرو التوظيف من خطاب التغطية الخاص بالمطور</h1>
+<p>الخطاب المفيد هو الذي يجيب على عدد قليل من الأسئلة بسرعة.</p>
+<h1>لماذا هذه الشركة؟</h1>
+<p>ليس لماذا تحتاج إلى وظيفة.
+ليس لماذا يعد تطوير البرمجيات أمرًا مثيرًا.
+لماذا هذه المؤسسة بالتحديد؟
+تشمل الأسباب المحتملة ما يلي:</p>
 <ul>
-<li>I am writing to apply.</li>
-<li>I am passionate about technology.</li>
-<li>I am a hard-working team player.</li>
-<li>I believe I would be a strong fit.</li>
-<li>Your innovative company excites me.</li>
-<li>I am eager to take on new challenges.</li>
+<li>أنت تستخدم المنتج؛</li>
+<li>أنت تفهم احتياجات العملاء؛</li>
+<li>المجال يتوافق مع خبرتك؛</li>
+<li>التحدي التقني يتناسب مع خلفيتك المهنية؛</li>
+<li>مرحلة نمو الشركة تتناسب مع أسلوب عملك؛</li>
+<li>فلسفة الفريق الهندسية تروق لك؛</li>
+<li>تتوافق مسؤوليات المنصب مع أهدافك.
+ضعيف:</li>
 </ul>
-<p>These statements could be sent to any company by any applicant.</p>
-<p>A blank optional field may be better.</p>
-<h1>What hiring managers want from a developer cover letter</h1>
-<p>A useful letter answers a small number of questions quickly.</p>
-<h1>Why this company?</h1>
-<p>Not why you need a job.</p>
-<p>Not why software development is exciting.</p>
-<p>Why this organization?</p>
-<p>Possible reasons include:</p>
+<blockquote>
+<p>أنا متحمس للعمل في شركة تكنولوجية مبتكرة.
+أقوى:
+لفت انتباهي تركيزكم على تقليل عمليات المطابقة اليدوية لفرق الشؤون المالية الصغيرة, لأنني قضيت عامين في بناء سير عمل مشابه لفواتير الاشتراكات.</p>
+</blockquote>
+<h1>لماذا هذا المنصب؟</h1>
+<p>اشرح لماذا تتناسب المسؤوليات مع خبرتك أو اتجاهك المهني.
+ضعيف:</p>
+<blockquote>
+<p>أنا أبحث عن وظيفة هندسة برمجيات مليئة بالتحديات.
+أقوى:
+أبحث عن منصب في مجال البرمجة الخلفية (backend) تكون فيه سلامة البيانات ومسؤولية الإنتاج من المسؤوليات الأساسية, ولهذا السبب لفتت انتباهي أعمال المطابقة والترحيل الموصوفة في هذا المنصب.</p>
+</blockquote>
+<h1>ما الدليل الذي يثبت قدرتك على المساهمة؟</h1>
+<p>اختر مثالًا قويًّا واحدًا.
+تضمن:</p>
 <ul>
-<li>you use the product;</li>
-<li>you understand the customer;</li>
-<li>the domain matches your experience;</li>
-<li>the technical challenge matches your background;</li>
-<li>the company stage suits how you work;</li>
-<li>the team’s engineering philosophy appeals to you;</li>
-<li>the role’s ownership is aligned with your goals.</li>
+<li>المشكلة؛</li>
+<li>مساهمتك؛</li>
+<li>النتيجة؛</li>
+<li>الصلة بالموضوع.
+مثال:</li>
 </ul>
-<p>Weak:</p>
 <blockquote>
-<p>I am excited to work for an innovative technology company.</p>
+<p>في شركة Acme, قمت بإعادة تصميم سير عمل إعادة المحاولة الذي كان يتسبب في محاولات دفع مكررة. قمت بإدخال ضوابط الإيدمبوتنس, وقيود قاعدة البيانات, وتنبيهات التسوية, مما أدى إلى خفض الرسوم المكررة إلى الصفر خلال الربعين التاليين.
+نتيجة ملموسة واحدة أقوى إقناعًا من خمس صفات.</p>
 </blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Your focus on reducing manual reconciliation for small finance teams stood out because I spent two years building similar workflows for subscription billing.</p>
-</blockquote>
-<h1>Why this role?</h1>
-<p>Explain why the responsibilities fit your experience or direction.</p>
-<p>Weak:</p>
-<blockquote>
-<p>I am looking for a challenging software engineering position.</p>
-</blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>I am looking for a backend role where data integrity and production ownership are central responsibilities, which is why the reconciliation and migration work described in this position caught my attention.</p>
-</blockquote>
-<h1>What evidence shows you can contribute?</h1>
-<p>Choose one strong example.</p>
-<p>Include:</p>
+<h1>ما الذي لا يوضحه سيرتك الذاتية؟</h1>
+<p>استخدم جملة أو جملتين لتوضيح:</p>
 <ul>
-<li>the problem;</li>
-<li>your contribution;</li>
-<li>the result;</li>
-<li>the relevance.</li>
+<li>انتقال وظيفي؛</li>
+<li>فجوة في السيرة الذاتية؛</li>
+<li>لقب وظيفي غير معتاد؛</li>
+<li>تغيير في مجال العمل؛</li>
+<li>تغيير في مجموعة التقنيات المستخدمة؛</li>
+<li>مشكلة تتعلق بالموقع الجغرافي؛</li>
+<li>تغيير في المستوى الوظيفي.
+لا تحول الرسالة إلى مذكرة دفاع.</li>
 </ul>
-<p>Example:</p>
+<h1>ما الذي يجب على القارئ فعله بعد ذلك؟</h1>
+<p>اختتم الرسالة بدعوة بسيطة.
+أمثلة:</p>
+<ul>
+<li>يسعدني مناقشة عملية الترحيل بمزيد من التفصيل.</li>
+<li>تتضمن محفظتي نسخة عاملة من المشروع.</li>
+<li>تجدون أدناه روابط للمستودع وملاحظات البنية ذات الصلة.</li>
+<li>أرحب بفرصة التعرف أكثر على الفريق.
+لا تبالغ في إظهار الثقة أو تطالب برد.</li>
+</ul>
+<h1>الطول المثالي</h1>
+<p>بالنسبة لمعظم طلبات التوظيف للمطورين, استهدف <strong>150–250 كلمة</strong>.
+وهذا عادةً ما يعني:</p>
+<ul>
+<li>ثلاث أو أربع فقرات قصيرة؛</li>
+<li>شاشة واحدة على جهاز كمبيوتر محمول؛</li>
+<li>أقل من دقيقة للقراءة؛</li>
+<li>مساحة كافية لمثال واحد قوي.
+الرسالة التمهيدية لا تصبح أقوى لمجرد أنها أطول.
+تنطوي الرسائل الطويلة على عدة مخاطر:</li>
+<li>إخفاء الأدلة الأقوى؛</li>
+<li>افتراض القارئ أنك غير قادر على تحديد الأولويات؛</li>
+<li>ملء المساحة الزائدة بلغة عامة؛</li>
+<li>تجاهل التفاصيل المهمة أو تفويتها.
+قد يحتاج المرشح ذو الخبرة أو المتخصص أحيانًا إلى مساحة أكبر, لكن يجب ألا تتجاوز الصفحة الكاملة الحد الأقصى.</li>
+</ul>
+<h1>هيكل فعال</h1>
+<p>استخدم هذا الهيكل المكون من أربعة أجزاء.</p>
+<h2>الفقرة الأولى: لماذا هذه الشركة وهذا المنصب</h2>
+<p>ابدأ بشيء محدد.
+يمكنك ذكر:</p>
+<ul>
+<li>المنتج؛</li>
+<li>العميل؛</li>
+<li>تحدٍ تقني؛</li>
+<li>قرار هندسي عام؛</li>
+<li>صلة شخصية بالمجال.
+مثال:</li>
+</ul>
 <blockquote>
-<p>At Acme, I redesigned a retry workflow that had been creating duplicate payment attempts. I introduced idempotency controls, database constraints, and reconciliation alerts, reducing duplicate charges to zero during the following two quarters.</p>
+<p>لقد استخدمت Atlas خلال العام الماضي لإدارة الإصدارات عبر ثلاثة تطبيقات للعملاء, وقد وفر سير العمل في بيئة المعاينة على فريقنا ساعات من التنسيق اليدوي. وقد أثار اهتمامي بشكل خاص أن هذا المنصب يركز على موثوقية النشر وأدوات المطورين.</p>
 </blockquote>
-<p>One concrete result is more persuasive than five adjectives.</p>
-<h1>What does your résumé not explain?</h1>
-<p>Use one or two sentences to address:</p>
-<ul>
-<li>a transition;</li>
-<li>a gap;</li>
-<li>an unusual title;</li>
-<li>an industry change;</li>
-<li>a stack change;</li>
-<li>a location issue;</li>
-<li>a level change.</li>
-</ul>
-<p>Do not turn the letter into a defense brief.</p>
-<h1>What should the reader do next?</h1>
-<p>End with a simple invitation.</p>
-<p>Examples:</p>
-<ul>
-<li>I would be glad to discuss the migration in more detail.</li>
-<li>My portfolio includes a live version of the project.</li>
-<li>The relevant repository and architecture notes are linked below.</li>
-<li>I would welcome the opportunity to learn more about the team.</li>
-</ul>
-<p>Do not overstate confidence or demand a response.</p>
-<h1>The ideal length</h1>
-<p>For most developer applications, aim for <strong>150–250 words</strong>.</p>
-<p>That is usually:</p>
-<ul>
-<li>three or four short paragraphs;</li>
-<li>one screen on a laptop;</li>
-<li>less than a minute to read;</li>
-<li>enough room for one strong example.</li>
-</ul>
-<p>A cover letter is not stronger because it is longer.</p>
-<p>Long letters create several risks:</p>
-<ul>
-<li>the strongest evidence gets buried;</li>
-<li>the reader assumes you cannot prioritize;</li>
-<li>generic language fills the extra space;</li>
-<li>important details are skimmed or missed.</li>
-</ul>
-<p>A senior or specialized candidate may occasionally need more space, but a full page should remain the upper limit.</p>
-<h1>A structure that works</h1>
-<p>Use this four-part structure.</p>
-<h2>Paragraph one: Why this company and role</h2>
-<p>Open with something specific.</p>
-<p>You may mention:</p>
-<ul>
-<li>the product;</li>
-<li>the customer;</li>
-<li>a technical challenge;</li>
-<li>a public engineering decision;</li>
-<li>a personal connection to the domain.</li>
-</ul>
-<p>Example:</p>
+<h2>الفقرة الثانية: أقوى دليل لديك</h2>
+<p>اختر مشروعًا أو إنجازًا واحدًا ذا صلة.
+مثال:</p>
 <blockquote>
-<p>I have used Atlas for the past year to manage releases across three customer applications, and the preview-environment workflow has saved our team hours of manual coordination. I was especially interested to see that this role focuses on deployment reliability and developer tooling.</p>
+<p>في منصبي الحالي, قمت بقيادة عملية إعادة تصميم مسار التكامل المستمر (CI) عبر اثنتي عشرة خدمة. استبدلنا سير العمل المكرر بإجراءات قابلة لإعادة الاستخدام, وأدخلنا فحوصات نشر تدريجية, وخفضنا متوسط وقت التحضير للنشر من أربعين دقيقة إلى أقل من عشر دقائق.</p>
 </blockquote>
-<h2>Paragraph two: Your strongest evidence</h2>
-<p>Choose one relevant project or accomplishment.</p>
-<p>Example:</p>
+<h2>الفقرة الثالثة: السياق الذي لا توفره السيرة الذاتية</h2>
+<p>استخدم هذه الفقرة فقط عند الحاجة.
+مثال:</p>
 <blockquote>
-<p>In my current role, I led a redesign of our CI pipeline across twelve services. We replaced duplicated workflows with reusable actions, introduced progressive deployment checks, and reduced average deployment preparation time from forty minutes to under ten.</p>
+<p>لقبي الوظيفي الحالي هو «مهندس الخلفية», لكن العمل على المنصة أصبح المحور الرئيسي لدوري. مشروع التكامل المستمر (CI), وقوالب الخدمات, وأدوات القابلية للمراقبة التي أتولى مسؤوليتها حاليًا هي السبب في توجهي عمدًا نحو هندسة المنصات.
+احذف هذه الفقرة إذا لم يكن هناك ما يستدعي التوضيح.</p>
 </blockquote>
-<h2>Paragraph three: Context the résumé does not provide</h2>
-<p>Use this only when needed.</p>
-<p>Example:</p>
+<h2>الفقرة الرابعة: الختام</h2>
+<p>مثال:</p>
 <blockquote>
-<p>My recent title is Backend Engineer, but platform work has become the main focus of my role. The CI project, service templates, and observability tooling I now own are the reason I am intentionally moving toward platform engineering.</p>
+<p>يسعدني أن أشرح بالتفصيل عملية الانتقال والتنازلات التي قمنا بها. تتضمن سيرتي الذاتية ومحفظة أعمالي تفاصيل إضافية, وأقدر اهتمامكم.</p>
 </blockquote>
-<p>Delete this paragraph when there is nothing to explain.</p>
-<h2>Paragraph four: Close</h2>
-<p>Example:</p>
-<blockquote>
-<p>I would be glad to walk through the migration and the trade-offs we made. My résumé and portfolio include additional details, and I appreciate your consideration.</p>
-</blockquote>
-<h1>A complete short template</h1>
-<p>Dear [Hiring Manager’s Name],</p>
-<p>I was interested in the [Role Title] position because [specific product, technical challenge, customer problem, or company detail]. [One sentence showing why this matters to you.]</p>
-<p>In my current or most relevant role, I [describe one relevant responsibility or project]. I [explain your personal contribution], which resulted in [specific technical, user, team, or business outcome].</p>
-<p>[Optional context: My background is primarily in X, but I am moving toward Y because Z. Evidence of that transition includes A.]</p>
-<p>I would be glad to discuss [project or relevant experience] in more detail. You can also view [portfolio, repository, application, or writing] at [link].</p>
-<p>Best regards,
-[Your Name]</p>
-<h1>A stronger developer cover letter example</h1>
-<p>Dear Maya,</p>
-<p>I have used Northstar’s API monitoring platform on two backend teams, and its request replay workflow has been especially useful during incident reviews. I was interested to see that the Senior Backend Engineer role will work on reliability and data retention for that product.</p>
-<p>At Acme, I own several Go and PostgreSQL services supporting payment reconciliation. Last year, I led a migration from scheduled retry jobs to an event-driven workflow with idempotency controls and stronger tracing. The change eliminated a recurring class of duplicate-payment incidents and reduced manual reconciliation work for the finance team.</p>
-<p>Although my recent work has been in payments, the core problems—reliable event handling, safe retries, data retention, and production debugging—are closely aligned with the challenges described in your posting.</p>
-<p>I would be glad to walk through the migration and the trade-offs we made. Additional project details are available in my portfolio at [link].</p>
-<p>Best,
-Jordan Lee</p>
-<h1>Cover letter example for a junior developer</h1>
-<p>Dear Hiring Team,</p>
-<p>I was interested in the Junior Software Developer role because your posting describes structured mentorship, regular code review, and early production contributions. That is exactly the kind of environment I am looking for as I begin my professional development career.</p>
-<p>My strongest project is a deployed scheduling application built with React, TypeScript, Node.js, and PostgreSQL. I designed the organization-permissions model, added automated tests around authorization, and improved the onboarding flow after watching several users complete it for the first time.</p>
-<p>Before moving into development, I worked in customer support, where I learned to reproduce problems, communicate clearly, and document recurring issues. Those skills now shape how I debug and build user-facing software.</p>
-<p>The application and source code are available at [links]. I would appreciate the opportunity to discuss how I could contribute and grow with your team.</p>
-<p>Best regards,
-[Name]</p>
-<h1>Cover letter example for a career changer</h1>
-<p>Dear Hiring Manager,</p>
-<p>Your logistics platform stood out because I spent six years managing warehouse and delivery operations before moving into software development. I understand how quickly small inventory and scheduling errors become expensive operational problems.</p>
-<p>Over the past year, I have been building Python and PostgreSQL applications, including an inventory-exception tracker that records discrepancies, assigns follow-up work, and generates daily reconciliation reports. I built the project after seeing similar problems handled manually in my previous role.</p>
-<p>My background is nontraditional, but it gives me direct knowledge of the users and workflows your product supports. I am now looking for a junior backend role where I can combine that domain experience with my development skills.</p>
-<p>A live demo and repository are available at [links]. I would be glad to discuss the project and my transition in more detail.</p>
-<p>Best,
-[Name]</p>
-<h1>Cover letter example after a career break</h1>
-<p>Dear Hiring Team,</p>
-<p>I was interested in the Frontend Engineer role because of your focus on accessible financial tools and the close partnership between design and engineering described in the posting.</p>
-<p>Before taking a career break, I spent five years building React and TypeScript applications for SaaS products. My most relevant project was an account-management redesign that improved keyboard navigation, reduced duplicated interface code, and created a shared component system used by three product teams.</p>
-<p>I took the past year away from full-time work for family caregiving and am now ready to return. During that period, I contributed accessibility fixes to an open-source component library and rebuilt one of my projects with automated accessibility testing.</p>
-<p>I would welcome the chance to discuss the role and share examples of the work.</p>
-<p>Best regards,
-[Name]</p>
-<h1>Cover letter example for a stack change</h1>
-<p>Dear Sam,</p>
-<p>I was interested in the Kotlin backend role because the team is building transaction and reconciliation services, which closely match the systems I currently own.</p>
-<p>My recent production work has primarily used Java and Spring Boot. At Acme, I led the redesign of an invoicing service, including the schema migration, transaction boundaries, integration tests, and operational dashboards. The change reduced failed invoice jobs and made recovery significantly safer.</p>
-<p>Although I have not yet used Kotlin professionally, I have been building a small service with it and am comfortable with the underlying JVM, Spring, relational database, and service-design concepts required for the role.</p>
-<p>I would be happy to walk through the invoicing project or share the Kotlin repository.</p>
-<p>Best,
-[Name]</p>
-<h1>Cover letter example for an internal referral</h1>
-<p>Hi Taylor,</p>
-<p>Morgan Chen suggested I contact you about the Backend Engineer opening on the billing team.</p>
-<p>I currently own subscription and payment services at Acme, where I recently led a processor migration involving compatibility layers, staged rollout, reconciliation, and failure recovery. We completed the migration without customer-facing downtime.</p>
-<p>Morgan mentioned that your team is improving retry behavior and provider observability, which is closely related to the work I have been doing.</p>
-<p>My résumé is attached, and I would be glad to discuss the project if the experience looks relevant.</p>
-<p>Best,
-[Name]</p>
-<p>This does not need to look like a formal nineteenth-century business letter.</p>
-<p>It needs to make the connection clear.</p>
-<h1>How to tailor a cover letter efficiently</h1>
-<p>A strong letter should be tailored, but that does not mean starting from nothing every time.</p>
-<p>Keep a reusable foundation containing:</p>
+<h1>نموذج قصير كامل</h1>
+<p>عزيزي [اسم مدير التوظيف],
+لقد أبدت اهتمامي بوظيفة [المسمى الوظيفي] بسبب [منتج محدد, أو تحدٍ تقني, أو مشكلة عميل, أو تفاصيل عن الشركة]. [جملة واحدة توضح سبب أهمية هذا الأمر بالنسبة لك.]
+في وظيفتي الحالية أو الوظيفة الأكثر صلة, قمتُ بـ [وصف مسؤولية أو مشروع واحد ذي صلة]. قمتُ بـ [شرح مساهمتك الشخصية], مما أدى إلى [نتيجة تقنية محددة, أو متعلقة بالمستخدم, أو بالفريق, أو بالأعمال].
+[سياق اختياري: خلفيتي المهنية في مجال X بشكل أساسي, لكنني أتجه نحو Y بسبب Z. ومن الأدلة على هذا الانتقال A.]
+يسعدني مناقشة [المشروع أو الخبرة ذات الصلة] بمزيد من التفصيل. يمكنك أيضًا الاطلاع على [محفظة الأعمال, أو مستودع المشاريع, أو التطبيق, أو كتاباتي] على [الرابط].
+مع أطيب التحيات,
+[اسمك]</p>
+<h1>مثال على خطاب تغطية أقوى لمطور برمجيات</h1>
+<p>عزيزتي مايا,
+لقد استخدمت منصة مراقبة واجهة برمجة التطبيقات (API) الخاصة بشركة Northstar في فريقين للخلفية البرمجية, وكان سير عمل إعادة تشغيل الطلبات الخاص بها مفيدًا بشكل خاص أثناء مراجعة الحوادث. وقد أثار اهتمامي أن أرى أن دور «مهندس الخلفية البرمجية الأول» سيعمل على الموثوقية والاحتفاظ بالبيانات لهذا المنتج.
+في Acme, أتولى مسؤولية العديد من خدمات Go وPostgreSQL التي تدعم تسوية المدفوعات. في العام الماضي, قمت بقيادة عملية الانتقال من مهام إعادة المحاولة المجدولة إلى سير عمل مدفوع بالأحداث مع ضوابط الإيدمبوتنس وتتبع أقوى. أدى هذا التغيير إلى القضاء على فئة متكررة من حوادث الدفع المزدوج وتقليل العمل اليدوي المتعلق بالتسوية على فريق الشؤون المالية.
+على الرغم من أن عملي الأخير كان في مجال المدفوعات, إلا أن المشكلات الأساسية — مثل المعالجة الموثوقة للأحداث, وإعادة المحاولة الآمنة, والاحتفاظ بالبيانات, وتصحيح الأخطاء في بيئة الإنتاج — تتوافق بشكل وثيق مع التحديات الموضحة في إعلانكم.
+يسعدني أن أشرح لكم تفاصيل عملية الترحيل والتنازلات التي قمنا بها. تتوفر تفاصيل إضافية عن المشروع في محفظتي على [الرابط].
+مع أطيب التحيات,
+جوردان لي</p>
+<h1>مثال على خطاب تغطية لمطور مبتدئ</h1>
+<p>عزيزي فريق التوظيف,
+لقد أبدت اهتمامي بوظيفة «مطور برمجيات مبتدئ» لأن إعلانكم يصف برنامج توجيه منظم, ومراجعة منتظمة للكود, ومساهمات مبكرة في بيئة الإنتاج. هذه هي بالضبط البيئة التي أبحث عنها وأنا أبدأ مسيرتي المهنية في مجال التطوير.
+أبرز مشاريعي هو تطبيق جدولة تم نشره, تم بناؤه باستخدام React وTypeScript وNode.js وPostgreSQL. قمت بتصميم نموذج أذونات المؤسسة, وأضفت اختبارات آلية حول عملية التفويض, وحسّنت مسار التسجيل بعد مراقبة عدة مستخدمين وهم يكملونه للمرة الأولى.
+قبل الانتقال إلى مجال التطوير, عملت في دعم العملاء, حيث تعلمت كيفية إعادة إنتاج المشكلات, والتواصل بوضوح, وتوثيق المشكلات المتكررة. هذه المهارات تشكل الآن طريقة تعاملي مع تصحيح الأخطاء وبناء البرامج الموجهة للمستخدمين.
+التطبيق وشفرة المصدر متاحان على [الروابط]. وأكون ممتنًا لإتاحة الفرصة لي لمناقشة كيفية مساهمتي ونموي مع فريقكم.
+مع أطيب التحيات,
+[الاسم]</p>
+<h1>مثال على خطاب تغطية لشخص يغير مساره المهني</h1>
+<p>عزيزي مدير التوظيف,
+لقد لفتت منصتكم اللوجستية انتباهي لأنني قضيت ست سنوات في إدارة عمليات المستودعات والتسليم قبل الانتقال إلى مجال تطوير البرمجيات. وأدرك مدى السرعة التي تتحول بها الأخطاء الصغيرة في المخزون والجدولة إلى مشكلات تشغيلية مكلفة.
+خلال العام الماضي, قمت بتطوير تطبيقات باستخدام Python وPostgreSQL, بما في ذلك أداة تتبع الاستثناءات في المخزون التي تسجل التباينات, وتخصص مهام المتابعة, وتُصدر تقارير مطابقة يومية. قمت بتطوير هذا المشروع بعد أن رأيت مشاكل مماثلة تُعالج يدويًا في وظيفتي السابقة.
+خلفيتي المهنية غير تقليدية, لكنها تمنحني معرفة مباشرة بالمستخدمين وسير العمل الذي يدعمه منتجكم. أبحث حاليًا عن وظيفة مبتدئ في مجال البرمجة الخلفية حيث يمكنني الجمع بين خبرتي في هذا المجال ومهاراتي في التطوير.
+يتوفر عرض توضيحي مباشر ومستودع برمجي على [الروابط]. يسعدني مناقشة المشروع وانتقالي المهني بمزيد من التفصيل.
+مع أطيب التحيات,
+[الاسم]</p>
+<h1>مثال على خطاب التقديم بعد انقطاع عن العمل</h1>
+<p>عزيزي فريق التوظيف,
+لقد أبدت اهتمامي بوظيفة مهندس الواجهة الأمامية (Frontend Engineer) نظرًا لتركيزكم على الأدوات المالية الميسرة للشخص ذي الإعاقة, والشراكة الوثيقة بين التصميم والهندسة الموضحة في الإعلان.
+قبل أخذ استراحة مهنية, قضيت خمس سنوات في تطوير تطبيقات React وTypeScript لمنتجات SaaS. وكان أهم مشاريعي هو إعادة تصميم نظام إدارة الحسابات, حيث حسّنت التنقل باستخدام لوحة المفاتيح, وقللت من تكرار كود الواجهة, وأنشأت نظام مكونات مشتركًا تستخدمه ثلاثة فرق منتجات.
+لقد توقفت عن العمل بدوام كامل خلال العام الماضي لرعاية أفراد عائلتي, وأنا الآن مستعد للعودة. خلال تلك الفترة, ساهمت في إصلاحات تتعلق بإمكانية الوصول لمكتبة مكونات مفتوحة المصدر, وأعدت بناء أحد مشاريعي باستخدام اختبارات إمكانية الوصول الآلية.
+سأكون سعيدًا بالحصول على فرصة لمناقشة الوظيفة ومشاركة أمثلة على أعمالي.
+مع أطيب التحيات,
+[الاسم]</p>
+<h1>مثال على خطاب تغطية لتغيير مجموعة التقنيات المستخدمة</h1>
+<p>عزيزي سام,
+أبدت اهتمامي بوظيفة مطور الخلفية بلغة Kotlin لأن الفريق يعمل على بناء خدمات المعاملات والتسوية, والتي تتطابق بشكل وثيق مع الأنظمة التي أتولى مسؤوليتها حاليًا.
+استخدمت في أعمالي الإنتاجية الأخيرة بشكل أساسي لغتي Java وSpring Boot. في شركة Acme, قمت بقيادة عملية إعادة تصميم خدمة إصدار الفواتير, بما في ذلك ترحيل المخطط, وحدود المعاملات, واختبارات التكامل, ولوحات المعلومات التشغيلية. أدى هذا التغيير إلى تقليل مهام الفواتير الفاشلة وجعل عملية الاسترداد أكثر أمانًا بشكل ملحوظ.
+على الرغم من أنني لم أستخدم لغة Kotlin في العمل بعد, إلا أنني قمت بتطوير خدمة صغيرة باستخدامها وأنا على دراية جيدة بـ JVM وSpring وقواعد البيانات العلائقية ومفاهيم تصميم الخدمات الأساسية المطلوبة لهذا المنصب.
+يسعدني أن أشرح تفاصيل مشروع إصدار الفواتير أو أشارك مستودع Kotlin الخاص بي.
+مع أطيب التحيات,
+[الاسم]</p>
+<h1>مثال على خطاب تغطية لترشيح داخلي</h1>
+<p>مرحبًا تايلور,
+اقترح مورغان تشين أن أتصل بك بخصوص الوظيفة الشاغرة لمهندس الباكيند في فريق الفوترة.
+أنا مسؤول حاليًا عن خدمات الاشتراكات والدفع في Acme, حيث قمت مؤخرًا بقيادة عملية ترحيل المعالج التي تضمنت طبقات التوافق, والتطبيق التدريجي, والتسوية, واستعادة الخدمة بعد الأعطال. وقد أكملنا عملية الترحيل دون أي توقف في الخدمة يواجه العملاء.
+ذكر مورغان أن فريقك يعمل على تحسين سلوك إعادة المحاولة وقابلية مراقبة المزودين, وهو ما يرتبط ارتباطًا وثيقًا بالعمل الذي كنت أقوم به.
+مرفق طيه سيرتي الذاتية, وسأكون سعيدًا بمناقشة المشروع إذا بدت خبرتي ذات صلة.
+مع أطيب التحيات,
+[الاسم]
+لا داعي لأن تبدو هذه الرسالة كرسالة عمل رسمية من القرن التاسع عشر.
+بل يجب أن توضح الصلة بوضوح.</p>
+<h1>كيفية صياغة خطاب تغطية فعال</h1>
+<p>يجب أن يكون الخطاب القوي مخصصًا, لكن هذا لا يعني البدء من الصفر في كل مرة.
+احتفظ بأساس قابل لإعادة الاستخدام يتضمن:</p>
 <ul>
-<li>your professional identity;</li>
-<li>one or two strongest accomplishments;</li>
-<li>your transition explanation, if applicable;</li>
-<li>links to your work;</li>
-<li>a concise closing.</li>
+<li>هويتك المهنية؛</li>
+<li>إنجاز أو إنجازين من أبرز إنجازاتك؛</li>
+<li>تفسيرك للانتقال الوظيفي, إن أمكن؛</li>
+<li>روابط لأعمالك؛</li>
+<li>خاتمة موجزة.
+ثم قم بالتخصيص:</li>
 </ul>
-<p>Then customize:</p>
 <ol>
-<li>The opening.</li>
-<li>The selected accomplishment.</li>
-<li>The connection to the role.</li>
-<li>Any résumé context.</li>
-<li>The company and hiring-manager names.</li>
+<li>المقدمة.</li>
+<li>الإنجاز المختار.</li>
+<li>الصلة بالوظيفة.</li>
+<li>أي سياق متعلق بالسيرة الذاتية.</li>
+<li>أسماء الشركة ومدير التوظيف.
+يجب أن تتغير المقدمة والأدلة عند تغير الوظيفة.</li>
 </ol>
-<p>The opening and the evidence should change when the role changes.</p>
-<h1>A ten-minute tailoring process</h1>
-<h2>Minute 1–2: Read the job description again</h2>
-<p>Identify:</p>
+<h1>عملية تخصيص مدتها عشر دقائق</h1>
+<h2>الدقيقتان 1–2: اقرأ الوصف الوظيفي مرة أخرى</h2>
+<p>حدد:</p>
 <ul>
-<li>the main problem;</li>
-<li>repeated technologies;</li>
-<li>expected level;</li>
-<li>primary users;</li>
-<li>first-year responsibilities;</li>
-<li>company stage.</li>
+<li>المشكلة الرئيسية؛</li>
+<li>التقنيات المتكررة؛</li>
+<li>المستوى المتوقع؛</li>
+<li>المستخدمين الأساسيين؛</li>
+<li>مسؤوليات السنة الأولى؛</li>
+<li>مرحلة تطور الشركة.</li>
 </ul>
-<h2>Minute 3–4: Research the company</h2>
-<p>Look at:</p>
+<h2>الدقيقتان 3–4: ابحث عن الشركة</h2>
+<p>انظر إلى:</p>
 <ul>
-<li>product pages;</li>
-<li>engineering blog;</li>
-<li>open-source work;</li>
-<li>public product documentation;</li>
-<li>company mission;</li>
-<li>recent releases.</li>
+<li>صفحات المنتجات؛</li>
+<li>مدونة الهندسة؛</li>
+<li>الأعمال مفتوحة المصدر؛</li>
+<li>وثائق المنتجات العامة؛</li>
+<li>مهمة الشركة؛</li>
+<li>الإصدارات الحديثة.
+لست بحاجة إلى تاريخ كامل للشركة.
+ابحث عن نقطة تواصل حقيقية واحدة.</li>
 </ul>
-<p>You do not need a complete company history.</p>
-<p>Find one real point of connection.</p>
-<h2>Minute 5–6: Select one accomplishment</h2>
-<p>Choose the example that best matches the role.</p>
-<p>Do not choose your most impressive project if another is more relevant.</p>
-<h2>Minute 7–8: Write the opening and connection</h2>
-<p>Explain why the role makes sense.</p>
-<h2>Minute 9: Cut generic language</h2>
-<p>Delete anything that could appear in another applicant’s letter.</p>
-<h2>Minute 10: Proofread</h2>
-<p>Check:</p>
+<h2>الدقيقتان 5–6: اختر إنجازًا واحدًا</h2>
+<p>اختر المثال الذي يتناسب بشكل أفضل مع الوظيفة.
+لا تختر مشروعك الأكثر إثارة للإعجاب إذا كان هناك مشروع آخر أكثر صلة بالوظيفة.</p>
+<h2>الدقيقتان 7–8: اكتب المقدمة وربط الموضوع</h2>
+<p>اشرح لماذا هذه الوظيفة مناسبة لك.</p>
+<h2>الدقيقة 9: احذف العبارات العامة</h2>
+<p>احذف أي شيء قد يظهر في خطاب مرشح آخر.</p>
+<h2>الدقيقة 10: راجع النص</h2>
+<p>تحقق من:</p>
 <ul>
-<li>company name;</li>
-<li>job title;</li>
-<li>hiring-manager name;</li>
-<li>links;</li>
-<li>spelling;</li>
-<li>dates;</li>
-<li>copied text from another application.</li>
+<li>اسم الشركة؛</li>
+<li>المسمى الوظيفي؛</li>
+<li>اسم مدير التوظيف؛</li>
+<li>الروابط؛</li>
+<li>التهجئة؛</li>
+<li>التواريخ؛</li>
+<li>النص المنسوخ من طلب توظيف آخر.</li>
 </ul>
-<h1>How to use AI without sounding generated</h1>
-<p>AI tools can help improve a cover letter.</p>
-<p>They are less useful when asked to create the entire letter from a résumé and job description without meaningful input from you.</p>
-<p>The result often contains:</p>
+<h1>كيفية استخدام الذكاء الاصطناعي دون أن يبدو النص مُولَّدًا آليًّا</h1>
+<p>يمكن لأدوات الذكاء الاصطناعي أن تساعد في تحسين خطاب التغطية.
+تكون هذه الأدوات أقل فائدة عندما يُطلب منها إنشاء الخطاب بالكامل استنادًا إلى السيرة الذاتية ووصف الوظيفة دون مدخلات ذات مغزى منك.
+غالبًا ما تحتوي النتيجة على:</p>
 <ul>
-<li>exaggerated enthusiasm;</li>
-<li>generic praise;</li>
-<li>repeated résumé bullets;</li>
-<li>unnatural formality;</li>
-<li>unsupported claims;</li>
-<li>phrases used by thousands of applicants.</li>
+<li>حماس مبالغ فيه؛</li>
+<li>مديح عام؛</li>
+<li>نقاط مكررة من السيرة الذاتية؛</li>
+<li>أسلوب رسمي غير طبيعي؛</li>
+<li>ادعاءات غير مدعومة؛</li>
+<li>عبارات يستخدمها آلاف المتقدمين.
+طريقة العمل الأفضل هي:</li>
 </ul>
-<p>A better workflow is:</p>
 <ol>
-<li>Write the specific facts yourself.</li>
-<li>Include the company detail that interested you.</li>
-<li>Choose the accomplishment.</li>
-<li>Explain the connection.</li>
-<li>Use AI to shorten, clarify, or proofread.</li>
+<li>اكتب الحقائق المحددة بنفسك.</li>
+<li>أدرج التفاصيل الخاصة بالشركة التي جذبت اهتمامك.</li>
+<li>اختر الإنجاز.</li>
+<li>اشرح الصلة.</li>
+<li>استخدم الذكاء الاصطناعي للتقصير أو التوضيح أو التدقيق اللغوي.
+من بين التوجيهات المفيدة ما يلي:</li>
 </ol>
-<p>Useful prompts include:</p>
 <ul>
-<li>“Cut this to 180 words without removing the metrics.”</li>
-<li>“Make this sound more natural and less formal.”</li>
-<li>“Remove generic claims and preserve only evidence.”</li>
-<li>“Check for repetition with my résumé.”</li>
-<li>“Suggest three clearer opening sentences based on these facts.”</li>
+<li>«اختصر هذا النص إلى 180 كلمة دون حذف المقاييس.»</li>
+<li>«اجعل هذا النص يبدو أكثر طبيعية وأقل رسمية.»</li>
+<li>«أزل الادعاءات العامة واحتفظ بالأدلة فقط.»</li>
+<li>«تحقق من وجود تكرار مع سيرتي الذاتية.»</li>
+<li>«اقترح ثلاث جمل افتتاحية أوضح بناءً على هذه الحقائق.»
+لا تدع الأداة تختلق:</li>
+<li>تجربة مع المنتج؛</li>
+<li>المقاييس؛</li>
+<li>المسؤوليات؛</li>
+<li>العلاقات الشخصية؛</li>
+<li>الخبرة الفنية.
+تظل مسؤولاً عن كل ادعاء.</li>
 </ul>
-<p>Do not let the tool invent:</p>
+<h1>ما يجب تضمينه</h1>
+<p>قد تتضمن رسالة التغطية القوية للمطور ما يلي:</p>
 <ul>
-<li>product experience;</li>
-<li>metrics;</li>
-<li>responsibilities;</li>
-<li>personal connections;</li>
-<li>technical expertise.</li>
+<li>تفصيل واحد محدد عن الشركة؛</li>
+<li>إنجاز واحد ذو صلة؛</li>
+<li>مساهمتك الفردية؛</li>
+<li>نتيجة فنية أو تجارية؛</li>
+<li>شرح انتقالي موجز؛</li>
+<li>رابط واحد مفيد؛</li>
+<li>خاتمة مباشرة ومهنية.</li>
 </ul>
-<p>You remain responsible for every claim.</p>
-<h1>What to include</h1>
-<p>A strong developer cover letter may include:</p>
+<h1>ما يجب استبعاده</h1>
+<p>عادةً ما يجب حذف:</p>
 <ul>
-<li>one specific company detail;</li>
-<li>one relevant accomplishment;</li>
-<li>your individual contribution;</li>
-<li>a technical or business result;</li>
-<li>a concise transition explanation;</li>
-<li>one useful link;</li>
-<li>a direct, professional close.</li>
+<li>سجلك الوظيفي الكامل؛</li>
+<li>كل التقنيات التي تعرفها؛</li>
+<li>اهتمامك بالكمبيوتر منذ الطفولة؛</li>
+<li>الصفات الشخصية العامة؛</li>
+<li>توقعاتك بشأن الراتب ما لم يُطلب ذلك؛</li>
+<li>التعليقات السلبية عن أرباب العمل السابقين؛</li>
+<li>المعلومات الطبية الشخصية؛</li>
+<li>تفاصيل الظروف العائلية؛</li>
+<li>شرح مطول لأسباب حاجتك إلى العمل؛</li>
+<li>المديح المبالغ فيه للشركة؛</li>
+<li>الادعاءات غير المدعومة بشأن شغفك.</li>
 </ul>
-<h1>What to leave out</h1>
-<p>Usually remove:</p>
+<h1>الأخطاء الشائعة</h1>
+<h1>البدء بعبارات شكلية فارغة</h1>
+<p>تجنب:</p>
+<blockquote>
+<p>أكتب إليكم للتقدم لشغل منصب مهندس برمجيات في شركة Acme.
+المستلم يعرف بالفعل سبب وجود هذا المستند.
+استخدم مقدمة الرسالة لتوضيح الصلة بالموضوع.
+الأفضل:
+لقد استخدمت واجهة برمجة تطبيقات (API) التسوية الخاصة بشركة Acme خلال العام الماضي, وأعمال استعادة البيانات بعد الأعطال الموصوفة في هذا المنصب تتطابق بشكل وثيق مع الأنظمة التي أتعامل معها حاليًا.</p>
+</blockquote>
+<h1>تكرار محتوى السيرة الذاتية</h1>
+<p>لا ينبغي أن يحول خطاب التقديم كل نقطة في السيرة الذاتية إلى نص نثري.
+اختر مثالًا واحدًا وشرح لماذا هو مهم.</p>
+<h1>استخدام الصفات بدلاً من الأدلة</h1>
+<p>تجنب:</p>
 <ul>
-<li>your full work history;</li>
-<li>every technology you know;</li>
-<li>childhood interest in computers;</li>
-<li>generic personality adjectives;</li>
-<li>salary expectations unless requested;</li>
-<li>negative comments about employers;</li>
-<li>personal medical information;</li>
-<li>detailed family circumstances;</li>
-<li>a long explanation of why you need work;</li>
-<li>inflated praise for the company;</li>
-<li>unsupported claims about passion.</li>
+<li>شغوف؛</li>
+<li>مجتهد؛</li>
+<li>يهتم بالتفاصيل؛</li>
+<li>مبتكر؛</li>
+<li>يركز على النتائج؛</li>
+<li>يعمل بروح الفريق؛</li>
+<li>سريع التعلم.
+أظهر تلك السمات.
+بدلاً من:</li>
 </ul>
-<h1>Common mistakes</h1>
-<h1>Opening with an empty formality</h1>
-<p>Avoid:</p>
 <blockquote>
-<p>I am writing to apply for the Software Engineer position at Acme.</p>
+<p>أنا سريع التعلم.
+اكتب:
+انتقلت من لغة Python إلى لغة Go من أجل ترحيل الخدمة, وقمت بتسليم أول نقطة نهاية إنتاجية في غضون ستة أسابيع.</p>
 </blockquote>
-<p>The recipient already knows why the document exists.</p>
-<p>Use the opening for relevance.</p>
-<p>Better:</p>
-<blockquote>
-<p>I have used Acme’s reconciliation API for the past year, and the failure-recovery work described in this role closely matches the systems I currently own.</p>
-</blockquote>
-<h1>Repeating the résumé</h1>
-<p>A cover letter should not convert every résumé bullet into prose.</p>
-<p>Choose one example and explain why it matters.</p>
-<h1>Using adjectives instead of evidence</h1>
-<p>Avoid:</p>
+<h1>الإسهاب في الكتابة</h1>
+<p>قد يراجع مدير التوظيف عشرات الطلبات في جلسة واحدة.
+احترم هذا الواقع.
+احذف:</p>
 <ul>
-<li>passionate;</li>
-<li>hardworking;</li>
-<li>detail-oriented;</li>
-<li>innovative;</li>
-<li>results-driven;</li>
-<li>team player;</li>
-<li>fast learner.</li>
+<li>تفاصيل الخلفية؛</li>
+<li>المشاريع غير ذات الصلة؛</li>
+<li>السياق المتكرر؛</li>
+<li>الإطراء المطول على الشركة؛</li>
+<li>تفاصيل التنفيذ التقنية التي من الأفضل الاحتفاظ بها للمقابلة.</li>
 </ul>
-<p>Show those traits.</p>
-<p>Instead of:</p>
+<h1>التركيز على ما يمكن أن تقدمه الشركة لك</h1>
+<p>من المعقول ذكر فرص النمو أو التوجيه, خاصةً بالنسبة للوظائف المبتدئة.
+لكن يجب أن تشرح الرسالة أيضًا القيمة التي تضيفها أنت.
+ضعيف:</p>
 <blockquote>
-<p>I am a fast learner.</p>
+<p>ستكون هذه الوظيفة فرصة رائعة لي لتعلم React.
+أقوى:
+لقد قمت ببناء ونشر تطبيقين باستخدام TypeScript, وأبحث عن فريق يمكنني فيه المساهمة بتلك الخبرة مع تطوير مهاراتي في هندسة React بشكل أقوى من خلال مراجعة الكود والتوجيه.</p>
 </blockquote>
-<p>Write:</p>
-<blockquote>
-<p>I moved from Python to Go for a service migration and delivered the first production endpoint within six weeks.</p>
-</blockquote>
-<h1>Writing too much</h1>
-<p>A hiring manager may review dozens of applications in one session.</p>
-<p>Respect that reality.</p>
-<p>Cut:</p>
+<h1>المبالغة في الإشارة إلى معرفتك بالشركة</h1>
+<p>لا تكتب كما لو كنت قد أجريت بحثًا متعمقًا عن الشركة بينما لم تقرأ سوى صفحتها الرئيسية.
+كن محددًا وصادقًا.</p>
+<h1>مخاطبة الشركة الخطأ</h1>
+<p>هذا أحد الأخطاء الأكثر ضررًا والتي يمكن تجنبها.
+تحقق من كل اسم علم.</p>
+<h1>إرسال روابط معطلة</h1>
+<p>افتح:</p>
 <ul>
-<li>background details;</li>
-<li>unrelated projects;</li>
-<li>repeated context;</li>
-<li>long company praise;</li>
-<li>technical implementation details better saved for the interview.</li>
+<li>محفظة أعمالك؛</li>
+<li>حسابك على GitHub؛</li>
+<li>العرض التوضيحي؛</li>
+<li>عينة من كتاباتك؛</li>
+<li>وثائق المشروع.
+تأكد من أن الروابط تعمل دون الحاجة إلى حسابك الخاص.</li>
 </ul>
-<h1>Making it about what the company can do for you</h1>
-<p>It is reasonable to mention growth or mentorship, especially for junior roles.</p>
-<p>But the letter should also explain the value you bring.</p>
-<p>Weak:</p>
-<blockquote>
-<p>This role would be a great opportunity for me to learn React.</p>
-</blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>I have built and deployed two TypeScript applications and am looking for a team where I can contribute that experience while developing stronger React architecture skills through code review and mentorship.</p>
-</blockquote>
-<h1>Overstating familiarity</h1>
-<p>Do not write as though you have deeply researched a company when you have only read the homepage.</p>
-<p>Be specific and honest.</p>
-<h1>Addressing the wrong company</h1>
-<p>This is one of the most damaging and avoidable errors.</p>
-<p>Check every proper noun.</p>
-<h1>Sending broken links</h1>
-<p>Open your:</p>
+<h1>استخدام مصطلحات تقنية غير مفسرة</h1>
+<p>قد يكون القارئ الأول:</p>
 <ul>
-<li>portfolio;</li>
-<li>GitHub;</li>
-<li>demo;</li>
-<li>writing sample;</li>
-<li>project documentation.</li>
+<li>مسؤول التوظيف؛</li>
+<li>المؤسس؛</li>
+<li>مدير التوظيف؛</li>
+<li>مدير الهندسة.
+اكتب بوضوح كافٍ لكل منهم.</li>
 </ul>
-<p>Verify that links work without requiring your private account.</p>
-<h1>Using unexplained technical jargon</h1>
-<p>The first reader may be:</p>
+<h1>إظهار اليأس</h1>
+<p>تجنب:</p>
+<blockquote>
+<p>سأفعل أي شيء من أجل هذه الفرصة.
+الاهتمام المهني أقوى من اليأس.</p>
+</blockquote>
+<h1>تفسير الفجوة في السيرة الذاتية بطريقة دفاعية</h1>
+<p>عادةً ما تكفي جملة واحدة واقعية.</p>
+<h1>كتابة نفس الرسالة لكل وظيفة</h1>
+<p>لا بأس باستخدام هيكل قابل لإعادة الاستخدام.
+أما عبارات الاهتمام القابلة لإعادة الاستخدام فليست مقبولة.</p>
+<h1>هل يجب ذكر الراتب؟</h1>
+<p>فقط عندما:</p>
 <ul>
-<li>recruiter;</li>
-<li>founder;</li>
-<li>hiring manager;</li>
-<li>engineering manager.</li>
+<li>يطلب صاحب العمل توقعاتك؛</li>
+<li>يتطلب الطلب ذلك؛</li>
+<li>تحتاج إلى إثبات التوافق في وقت مبكر؛</li>
+<li>تكون مستجيبًا لاتصال مباشر.
+عادةً ما لا تكون رسالة التغطية هي المكان الأنسب للتفاوض التفصيلي.</li>
 </ul>
-<p>Write clearly enough for each of them.</p>
-<h1>Sounding desperate</h1>
-<p>Avoid:</p>
+<h1>هل يجب ذكر الانتقال؟</h1>
+<p>نعم, عندما قد يسبب الموقع حالة من عدم اليقين.
+مثال:</p>
 <blockquote>
-<p>I would do anything for this opportunity.</p>
+<p>أقيم حاليًا في دنفر وأخطط للانتقال إلى شيكاغو في سبتمبر. لا أحتاج إلى مساعدة في الانتقال.
+أو:
+أتقدم فقط للوظائف التي تعمل عن بُعد بشكل دائم ويمكنني الحفاظ على تداخل زمني لمدة خمس ساعات على الأقل مع التوقيت الشرقي.
+الوضوح يمنع الرفض غير الضروري.</p>
 </blockquote>
-<p>Professional interest is stronger than desperation.</p>
-<h1>Explaining a gap defensively</h1>
-<p>One factual sentence is usually sufficient.</p>
-<h1>Writing the same letter for every role</h1>
-<p>A reusable structure is fine.</p>
-<p>Reusable claims of interest are not.</p>
-<h1>Should you mention salary?</h1>
-<p>Only when:</p>
+<h1>هل يجب ذكر تصريح العمل؟</h1>
+<p>عندما لا يطلب الاستمارة ذلك وقد يكون الأمر ذا صلة, يمكن أن تساعد جملة قصيرة واقعية.
+مثال:</p>
+<blockquote>
+<p>أنا مخول للعمل في الولايات المتحدة دون رعاية حالية أو مستقبلية.
+لا تضف هذا عندما يكون غير ذي صلة.</p>
+</blockquote>
+<h1>هل يجب شرح سبب التسريح من العمل؟</h1>
+<p>بإيجاز فقط.
+مثال:</p>
+<blockquote>
+<p>تم إلغاء منصبي خلال عملية تقليص القوى العاملة على مستوى الشركة في مايو.
+ثم انتقل إلى أدلتك وأهدافك.</p>
+</blockquote>
+<h1>هل يجب على المطورين المبتدئين كتابة خطابات تغطية؟</h1>
+<p>غالبًا ما يستفيد المرشحون المبتدئون أكثر من المرشحين ذوي الخبرة لأن سيرتهم الذاتية تحتوي على أدلة مهنية أقل.
+يمكن لخطاب التغطية أن يسلط الضوء على:</p>
 <ul>
-<li>the employer requests expectations;</li>
-<li>the application requires it;</li>
-<li>you need to establish alignment early;</li>
-<li>you are responding to direct outreach.</li>
+<li>مشروع قوي؛</li>
+<li>مسار التعلم؛</li>
+<li>الخبرة المهنية السابقة؛</li>
+<li>العمل في مجال البرمجيات مفتوحة المصدر؛</li>
+<li>مهارات التواصل؛</li>
+<li>سبب اختيار الشركة؛</li>
+<li>دليل على روح المبادرة.
+لا تعتذر عن كونك مبتدئًا.
+أظهر ما قمت ببنائه وكيف تتعلم.</li>
 </ul>
-<p>A cover letter is usually not the best place for detailed negotiation.</p>
-<h1>Should you mention relocation?</h1>
-<p>Yes, when location could create uncertainty.</p>
-<p>Example:</p>
-<blockquote>
-<p>I am currently based in Denver and plan to relocate to Chicago in September. I do not require relocation assistance.</p>
-</blockquote>
-<p>Or:</p>
-<blockquote>
-<p>I am applying only to permanently remote roles and can maintain at least five hours of overlap with Eastern Time.</p>
-</blockquote>
-<p>Clarity prevents unnecessary rejection.</p>
-<h1>Should you mention work authorization?</h1>
-<p>When the application does not ask and it may be relevant, a short factual line can help.</p>
-<p>Example:</p>
-<blockquote>
-<p>I am authorized to work in the United States without current or future sponsorship.</p>
-</blockquote>
-<p>Do not add this when it is irrelevant.</p>
-<h1>Should you explain being laid off?</h1>
-<p>Only briefly.</p>
-<p>Example:</p>
-<blockquote>
-<p>My position was eliminated during a company-wide reduction in force in May.</p>
-</blockquote>
-<p>Then move on to your evidence and goals.</p>
-<h1>Should junior developers write cover letters?</h1>
-<p>Junior candidates often benefit more than experienced candidates because their résumé contains less professional evidence.</p>
-<p>A cover letter can highlight:</p>
+<h1>هل يجب على المطورين ذوي الخبرة كتابة خطابات تغطية؟</h1>
+<p>يمكن للمرشح ذي الخبرة استخدام الخطاب لتوضيح:</p>
 <ul>
-<li>a strong project;</li>
-<li>learning trajectory;</li>
-<li>previous-career experience;</li>
-<li>open-source work;</li>
-<li>communication;</li>
-<li>reason for choosing the company;</li>
-<li>evidence of initiative.</li>
+<li>نطاق العمل؛</li>
+<li>الاتجاه التقني المرغوب؛</li>
+<li>أسلوب القيادة؛</li>
+<li>التنقل بين الإدارة والمساهمة الفردية؛</li>
+<li>الاهتمام بهيكلية الشركة؛</li>
+<li>الخبرة في معالجة مشكلة في مجال معين.
+يجب أن تركز خطابات المطورين ذوي الخبرة بشكل أقل على الحماس وبشكل أكبر على التوافق.
+مثال:</li>
 </ul>
-<p>Do not apologize for being junior.</p>
-<p>Show what you have built and how you learn.</p>
-<h1>Should senior developers write cover letters?</h1>
-<p>A senior candidate may use a letter to clarify:</p>
-<ul>
-<li>scope;</li>
-<li>desired technical direction;</li>
-<li>leadership style;</li>
-<li>move between management and individual contribution;</li>
-<li>interest in the company’s architecture;</li>
-<li>experience with a specific domain problem.</li>
-</ul>
-<p>Senior letters should focus less on enthusiasm and more on alignment.</p>
-<p>Example:</p>
 <blockquote>
-<p>I am looking for a staff-level individual-contributor role centered on cross-team platform work rather than people management. The ownership described across deployment, service templates, and observability is closely aligned with the work I have led during the past three years.</p>
+<p>أبحث عن دور مساهم فردي على مستوى الموظفين يركز على العمل عبر الفرق على المنصة بدلاً من إدارة الأفراد. تتوافق المسؤولية الموصوفة في مجالات النشر وقوالب الخدمات وقابلية المراقبة بشكل وثيق مع العمل الذي قمت بقيادته خلال السنوات الثلاث الماضية.</p>
 </blockquote>
-<h1>Should you include a cover letter on JobsList.dev?</h1>
-<p>When a listing allows an application note, use it when you can add specific value.</p>
-<p>A concise message may be enough:</p>
+<h1>هل يجب عليك تضمين خطاب تغطية على JobsList.dev؟</h1>
+<p>عندما تسمح إحدى الوظائف بإضافة ملاحظة في طلب التوظيف, استخدمها عندما يمكنك إضافة قيمة محددة.
+قد تكفي رسالة موجزة:</p>
 <blockquote>
-<p>I was interested in this role because your team is modernizing a PostgreSQL billing platform, which closely matches the migration work I currently own. I recently led a staged schema and API migration involving 40 million records with no customer-visible downtime. I would be glad to share more details.</p>
+<p>لقد أثار هذا المنصب اهتمامي لأن فريقكم يعمل على تحديث منصة فوترة PostgreSQL, وهو ما يتطابق بشكل وثيق مع أعمال الترحيل التي أتولى مسؤوليتها حاليًا. لقد قمت مؤخرًا بقيادة عملية ترحيل مرحلية للمخطط وواجهة برمجة التطبيقات (API) شملت 40 مليون سجل دون أي توقف في الخدمة يلاحظه العملاء. وسأكون سعيدًا بمشاركة المزيد من التفاصيل.
+الهدف ليس الشكليات.
+بل هو مساعدة الشركة على رؤية مدى ملاءمتك للوظيفة.</p>
 </blockquote>
-<p>The goal is not formality.</p>
-<p>It is helping the company see the match.</p>
-<h1>A final editing checklist</h1>
-<p>Before submitting, ask:</p>
+<h1>قائمة مراجعة نهائية للتحرير</h1>
+<p>قبل الإرسال, اسأل نفسك:</p>
 <ul>
-<li>Is the company name correct?</li>
-<li>Is the role title correct?</li>
-<li>Does the first sentence contain something specific?</li>
-<li>Does the letter explain why this company?</li>
-<li>Does it include one concrete example?</li>
-<li>Is my individual contribution clear?</li>
-<li>Is there a result?</li>
-<li>Does it explain anything the résumé might confuse?</li>
-<li>Could this letter be sent to another company unchanged?</li>
-<li>Is it under 250 words?</li>
-<li>Are all links working?</li>
-<li>Does it sound like a person?</li>
-<li>Have I removed unsupported adjectives?</li>
-<li>Have I proofread it aloud?</li>
+<li>هل اسم الشركة صحيح؟</li>
+<li>هل عنوان الوظيفة صحيح؟</li>
+<li>هل تحتوي الجملة الأولى على شيء محدد؟</li>
+<li>هل يشرح الخطاب سبب اختيارك لهذه الشركة؟</li>
+<li>هل يتضمن مثالًا ملموسًا واحدًا؟</li>
+<li>هل مساهمتي الفردية واضحة؟</li>
+<li>هل هناك نتيجة محددة؟</li>
+<li>هل يشرح الخطاب أي أمر قد يسبب التباسًا في السيرة الذاتية؟</li>
+<li>هل يمكن إرسال هذه الرسالة إلى شركة أخرى دون تغيير؟</li>
+<li>هل عدد كلماتها أقل من 250 كلمة؟</li>
+<li>هل جميع الروابط تعمل؟</li>
+<li>هل تبدو وكأنها مكتوبة بواسطة شخص حقيقي؟</li>
+<li>هل حذفت الصفات غير المدعومة بأدلة؟</li>
+<li>هل قمت بمراجعتها بصوت عالٍ؟
+عندما تكون الإجابة على سؤال «هل يمكن إرسال هذه الرسالة إلى شركة أخرى؟» هي «نعم», قم بمراجعة الرسالة أو تخطيها.</li>
 </ul>
-<p>When the answer to the “could this go to another company?” question is yes, revise the letter or skip it.</p>
-<h1>The takeaway</h1>
-<p>Developers do not need a cover letter for every application.</p>
-<p>They need one when it provides information the résumé cannot communicate efficiently.</p>
-<p>A useful cover letter should:</p>
+<h1>النقطة الأساسية</h1>
+<p>لا يحتاج المطورون إلى خطاب تغطية لكل طلب توظيف.
+يحتاجون إليه عندما يقدم معلومات لا يستطيع السيرة الذاتية توضيحها بفعالية.
+يجب أن يتضمن خطاب التغطية المفيد ما يلي:</p>
 <ol>
-<li>Explain why this company and role are relevant.</li>
-<li>Present one strong piece of evidence.</li>
-<li>Clarify a transition, gap, or unusual background when necessary.</li>
-<li>Direct the reader toward your best work.</li>
-<li>Stay concise, specific, and human.</li>
+<li>شرح سبب أهمية هذه الشركة والوظيفة بالنسبة لك.</li>
+<li>تقديم دليل قوي واحد.</li>
+<li>توضيح أي انتقال مهني أو فجوة في السيرة الذاتية أو خلفية غير عادية عند الضرورة.</li>
+<li>توجيه القارئ نحو أفضل أعمالك.</li>
+<li>أن تكون موجزًا ومحددًا وإنسانيًّا.
+لا ترسل صفحة كاملة من الحماس العام.
+لا تعيد كتابة سيرتك الذاتية في شكل فقرات.
+لا تدع القالب يتحدث نيابة عنك.
+ابدأ بشيء لا يمكن أن يقوله سواك بصدق. اربطه بشيء تحتاجه الشركة حقًّا. ادعم ادعاءك بالأدلة, وتوقف بينما لا يزال القارئ يرغب في معرفة المزيد.
+لن تنقذ رسالة التغطية سيرة ذاتية ضعيفة أو تعوض عن المؤهلات الناقصة.
+ولكن عندما يبدو مطوران متمكنان متشابهين على الورق, فإن من يشرح الصلة بوضوح قد يحصل على فرصة المقابلة.
+<em>هل أنت مستعد لعرض طلبك أمام الشركات التي توظف مطورين؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا مجانيًّا على JobsList.dev</a>, وعرض أعمالك, وتقدم مباشرةً إلى الفرق التقنية.</em></li>
 </ol>
-<p>Do not send a full page of generic enthusiasm.</p>
-<p>Do not rewrite your résumé in paragraph form.</p>
-<p>Do not let a template speak for you.</p>
-<p>Lead with something only you could honestly say. Connect it to something the company genuinely needs. Support the claim with evidence, and stop while the reader still wants to know more.</p>
-<p>A cover letter will not rescue a weak résumé or compensate for missing qualifications.</p>
-<p>But when two capable developers look similar on paper, the one who clearly explains the connection may earn the interview.</p>
-<p><em>Ready to put your application in front of companies hiring developers? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a>, showcase your work, and apply directly to technical teams.</em></p>
-5:["locale","ar","d"]
-6:["slug","cover-letter-for-developer-jobs","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","cover-letter-for-developer-jobs","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"cover-letter-for-developer-jobs\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","cover-letter-for-developer-jobs","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Do Developers Need a Cover Letter? (And How to Write One That Works)\",\"description\":\"Learn when a cover letter can strengthen a developer application, when to skip it, how to explain career changes or résumé gaps, and how to write a concise letter that sounds specific, credible, and human.\",\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Do Developers Need a Cover Letter? (And How to Write One That Works)","date":"2026-07-17T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":25,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Do Developers Need a Cover Letter? (And How to Write One That Works) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn when a cover letter can strengthen a developer application, when to skip it, how to explain career changes or résumé gaps, and how to write a concise letter that sounds specific, credible, and human."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Do Developers Need a Cover Letter? (And How to Write One That Works)"}],["$","meta","15",{"property":"og:description","content":"Learn when a cover letter can strengthen a developer application, when to skip it, how to explain career changes or résumé gaps, and how to write a concise letter that sounds specific, credible, and human."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Do Developers Need a Cover Letter? (And How to Write One That Works)"}],["$","meta","25",{"name":"twitter:description","content":"Learn when a cover letter can strengthen a developer application, when to skip it, how to explain career changes or résumé gaps, and how to write a concise letter that sounds specific, credible, and human."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"هل يحتاج المطورون إلى خطاب تغطية؟ (وكيفية كتابة خطاب فعال)\",\"description\":\"تعرف على الحالات التي يمكن أن يعزز فيها خطاب التغطية طلب التوظيف الخاص بالمطور, ومتى يمكن الاستغناء عنه, وكيفية توضيح التغييرات في المسار المهني أو الفجوات في السيرة الذاتية, وكيفية كتابة خطاب موجز يبدو محددًا وموثوقًا وإنسانيًا.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-17T00:00:00.000Z\",\"dateModified\":\"2026-07-17T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/cover-letter-for-developer-jobs/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"هل يحتاج المطورون إلى خطاب تغطية؟ (وكيفية كتابة خطاب فعال)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"تعرف على الحالات التي يمكن أن يعزز فيها خطاب التغطية طلب التوظيف الخاص بالمطور, ومتى يمكن الاستغناء عنه, وكيفية توضيح التغييرات في المسار المهني أو الفجوات في السيرة الذاتية, وكيفية كتابة خطاب موجز يبدو محددًا وموثوقًا وإنسانيًا."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-17T00:00:00.000Z","children":"16 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[25," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","السيرة الذاتية",{"className":"badge-gray","children":"السيرة الذاتية"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span"," خطابات-التقديم",{"className":"badge-gray","children":" خطابات-التقديم"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","طلبات-التوظيف",{"className":"badge-gray","children":"طلبات-التوظيف"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"هل يحتاج المطورون إلى خطاب تغطية؟ (وكيفية كتابة خطاب فعال) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"تعرف على الحالات التي يمكن أن يعزز فيها خطاب التغطية طلب التوظيف الخاص بالمطور, ومتى يمكن الاستغناء عنه, وكيفية توضيح التغييرات في المسار المهني أو الفجوات في السيرة الذاتية, وكيفية كتابة خطاب موجز يبدو محددًا وموثوقًا وإنسانيًا."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"هل يحتاج المطورون إلى خطاب تغطية؟ (وكيفية كتابة خطاب فعال)"}],["$","meta","15",{"property":"og:description","content":"تعرف على الحالات التي يمكن أن يعزز فيها خطاب التغطية طلب التوظيف الخاص بالمطور, ومتى يمكن الاستغناء عنه, وكيفية توضيح التغييرات في المسار المهني أو الفجوات في السيرة الذاتية, وكيفية كتابة خطاب موجز يبدو محددًا وموثوقًا وإنسانيًا."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/cover-letter-for-developer-jobs/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-17T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"هل يحتاج المطورون إلى خطاب تغطية؟ (وكيفية كتابة خطاب فعال)"}],["$","meta","27",{"name":"twitter:description","content":"تعرف على الحالات التي يمكن أن يعزز فيها خطاب التغطية طلب التوظيف الخاص بالمطور, ومتى يمكن الاستغناء عنه, وكيفية توضيح التغييرات في المسار المهني أو الفجوات في السيرة الذاتية, وكيفية كتابة خطاب موجز يبدو محددًا وموثوقًا وإنسانيًا."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

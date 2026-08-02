@@ -1,1100 +1,1068 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T9a6d,<p>Your GitHub profile can be one of the strongest pieces of evidence in a developer job application.</p>
-<p>It can also be completely irrelevant.</p>
-<p>The difference is not how many repositories you have, how long your contribution streak is, or whether one of your projects has hundreds of stars.</p>
-<p>The difference is whether a hiring manager can quickly understand:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","github-profile-that-gets-you-hired","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","github-profile-that-gets-you-hired","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"github-profile-that-gets-you-hired\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","github-profile-that-gets-you-hired","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:Te8d9,<p>يمكن أن يكون ملفك الشخصي على GitHub أحد أقوى الأدلة في طلب التوظيف كمطور.
+كما يمكن أن يكون غير ذي صلة على الإطلاق.
+لا يكمن الفرق في عدد المستودعات التي تمتلكها, أو مدة استمرار مساهماتك, أو ما إذا كان أحد مشاريعك قد حصل على مئات النجوم.
+الفرق يكمن في ما إذا كان مدير التوظيف قادرًا على فهم ما يلي بسرعة:</p>
 <ul>
-<li>what you build;</li>
-<li>how you think;</li>
-<li>what level of work you can handle;</li>
-<li>whether you finish things;</li>
-<li>whether you can explain technical decisions;</li>
-<li>whether you can work inside a real codebase.</li>
+<li>ما الذي تقوم ببنائه؛</li>
+<li>كيف تفكر؛</li>
+<li>ما هو مستوى العمل الذي يمكنك التعامل معه؛</li>
+<li>ما إذا كنت تنجز المهام؛</li>
+<li>ما إذا كان بإمكانك شرح القرارات التقنية؛</li>
+<li>ما إذا كان بإمكانك العمل ضمن قاعدة كود حقيقية.
+لا يقوم معظم المراجعين بإجراء تدقيق عميق للكود.
+بل يكتفون بالاطلاع السريع.
+قد يقضون بضع دقائق فقط في تقرير ما إذا كان ملفك الشخصي يعزز طلب التوظيف الخاص بك, أو يضعفه, أو لا يضيف أي معلومات مفيدة على الإطلاق.
+وهذا يعني أنه لا ينبغي التعامل مع ملفك الشخصي على GitHub كغرفة تخزين لكل تجربة بدأتَها في أي وقت مضى.
+بل يجب التعامل معه كملف أعمال تقني مُنتقى بعناية.</li>
 </ul>
-<p>Most reviewers do not perform a deep code audit.</p>
-<p>They skim.</p>
-<p>They may spend only a few minutes deciding whether your profile strengthens your application, weakens it, or adds no useful information at all.</p>
-<p>That means your GitHub profile should not be treated as a storage room for every experiment you have ever started.</p>
-<p>It should be treated as a curated technical portfolio.</p>
-<h1>What GitHub can prove</h1>
-<p>A résumé tells employers what you claim to have done.</p>
-<p>GitHub can provide supporting evidence.</p>
-<p>A strong profile may demonstrate:</p>
+<h1>ما يمكن لـ GitHub إثباته</h1>
+<p>السيرة الذاتية تخبر أصحاب العمل بما تدعي أنك قمت به.
+أما GitHub فيمكنه تقديم أدلة داعمة.
+قد يُظهر الملف الشخصي القوي ما يلي:</p>
 <ul>
-<li>code organization;</li>
-<li>project completion;</li>
-<li>testing habits;</li>
-<li>documentation;</li>
-<li>technical depth;</li>
-<li>consistency;</li>
-<li>collaboration;</li>
-<li>open-source participation;</li>
-<li>product thinking;</li>
-<li>communication;</li>
-<li>ability to learn independently.</li>
+<li>تنظيم الكود؛</li>
+<li>إنجاز المشاريع؛</li>
+<li>عادات الاختبار؛</li>
+<li>التوثيق؛</li>
+<li>العمق التقني؛</li>
+<li>الاتساق؛</li>
+<li>التعاون؛</li>
+<li>المشاركة في المشاريع مفتوحة المصدر؛</li>
+<li>التفكير المنتجي؛</li>
+<li>التواصل؛</li>
+<li>القدرة على التعلم بشكل مستقل.
+كما يمكن أن يساعد المرشحين الذين يمتلكون سيرًا ذاتية غير تقليدية, ومنهم:</li>
+<li>المطورون المبتدئون؛</li>
+<li>المطورون الذين تعلموا بأنفسهم؛</li>
+<li>خريجي برامج التدريب المكثفة؛</li>
+<li>من يغيرون مسارهم المهني؛</li>
+<li>العاملون لحسابهم الخاص؛</li>
+<li>المطورين العائدين بعد انقطاع عن العمل؛</li>
+<li>المهندسين الذين تكون أعمالهم المهنية الأبرز خاصة.
+GitHub ليس مطلوبًا لكل وظيفة مطور.
+يوجد العديد من المهندسين المتميزين الذين لديهم القليل من الكود العام أو لا يوجد لديهم على الإطلاق لأن أعمالهم مملوكة لأرباب العمل أو العملاء.
+ولكن عندما تختار تضمين رابط GitHub في سيرتك الذاتية أو ملفك الشخصي أو طلب التوظيف, تأكد من أنه يساعدك.</li>
 </ul>
-<p>It can also help candidates who have less conventional résumés, including:</p>
-<ul>
-<li>junior developers;</li>
-<li>self-taught developers;</li>
-<li>bootcamp graduates;</li>
-<li>career changers;</li>
-<li>freelancers;</li>
-<li>developers returning after a career break;</li>
-<li>engineers whose strongest professional work is private.</li>
-</ul>
-<p>GitHub is not required for every developer role.</p>
-<p>Many excellent engineers have little or no public code because their work belongs to employers or clients.</p>
-<p>But when you choose to include a GitHub link on your résumé, profile, or application, make sure it helps.</p>
-<h1>What hiring managers usually look at first</h1>
-<p>A reviewer may follow a path like this:</p>
+<h1>ما الذي ينظر إليه مديرو التوظيف عادةً أولاً</h1>
+<p>قد يتبع المراجع مسارًا مثل هذا:</p>
 <ol>
-<li>Read your name, bio, location, and links.</li>
-<li>Scan your pinned repositories.</li>
-<li>Open the project that looks most relevant.</li>
-<li>Read the README.</li>
-<li>Look at the repository structure.</li>
-<li>Check whether tests exist.</li>
-<li>Scan recent commits.</li>
-<li>Follow a live demo or portfolio link.</li>
-<li>Look for pull requests, issues, or contributions.</li>
+<li>قراءة اسمك وسيرتك الذاتية وموقعك والروابط.</li>
+<li>إلقاء نظرة سريعة على مستودعاتك المثبتة.</li>
+<li>فتح المشروع الذي يبدو الأكثر صلة.</li>
+<li>قراءة ملف README.</li>
+<li>الاطلاع على بنية المستودع.</li>
+<li>التحقق من وجود اختبارات.</li>
+<li>إلقاء نظرة سريعة على عمليات الالتزام (commits) الحديثة.</li>
+<li>متابعة رابط العرض التوضيحي المباشر أو رابط محفظة الأعمال.</li>
+<li>البحث عن طلبات السحب (pull requests) أو المشكلات (issues) أو المساهمات.
+نادرًا ما يقرؤون مئات الأسطر من التعليمات البرمجية قبل أن يقرروا ما إذا كان الملف الشخصي مفيدًا أم لا.
+غالبًا ما يكون للسياق المكتوب المحيط بالكود تأثير أكبر من الكود نفسه.</li>
 </ol>
-<p>They are rarely reading hundreds of lines of implementation before deciding whether the profile is useful.</p>
-<p>The written context around the code often does more work than the code itself.</p>
-<h1>Start with the question your profile should answer</h1>
-<p>Before changing anything, decide what kind of role your GitHub should support.</p>
-<p>Examples:</p>
+<h1>ابدأ بالسؤال الذي يجب أن يجيب عليه ملفك الشخصي</h1>
+<p>قبل تغيير أي شيء, حدد نوع الدور الذي يجب أن يدعمه حسابك على GitHub.
+أمثلة:</p>
 <ul>
-<li>Junior frontend developer</li>
-<li>Backend engineer</li>
-<li>Mobile developer</li>
-<li>Data engineer</li>
-<li>DevOps or platform engineer</li>
-<li>Full-stack product engineer</li>
-<li>Open-source maintainer</li>
-<li>Security engineer</li>
-<li>Career changer entering software development</li>
+<li>مطور واجهة مستخدم مبتدئ</li>
+<li>مهندس الخلفية</li>
+<li>مطور تطبيقات الجوال</li>
+<li>مهندس البيانات</li>
+<li>مهندس DevOps أو مهندس المنصات</li>
+<li>مهندس منتجات متكامل</li>
+<li>مسؤول صيانة البرمجيات مفتوحة المصدر</li>
+<li>مهندس أمن</li>
+<li>شخص يغير مساره المهني ويدخل مجال تطوير البرمجيات
+الملف الشخصي الذي يحاول التعبير عن كل الهويات الممكنة عادةً ما لا يعبر عن أي منها بوضوح.
+اختر اتجاهًا رئيسيًّا.
+يجب أن تعزز مشاريعك المثبتة, وسيرتك الذاتية, وملف README, والروابط هذا الاتجاه.</li>
 </ul>
-<p>A profile that tries to communicate every possible identity usually communicates none clearly.</p>
-<p>Choose a primary direction.</p>
-<p>Your pinned projects, bio, README, and links should reinforce it.</p>
-<h1>Write a clear profile bio</h1>
-<p>Your bio has very little space, so use it for useful context.</p>
-<p>Weak:</p>
+<h1>اكتب سيرة ذاتية واضحة لملفك الشخصي</h1>
+<p>مساحة سيرتك الذاتية محدودة جدًّا, لذا استخدمها لتقديم سياق مفيد.
+مثال ضعيف:</p>
 <blockquote>
-<p>Developer who loves technology and solving problems.</p>
+<p>مطور يحب التكنولوجيا وحل المشكلات.
+مثال أقوى:
+مهندس الخلفية الذي يبني خدمات موثوقة باستخدام Go وPostgreSQL.
+مثال آخر:
+مطور واجهة المستخدم يركز على TypeScript وReact وإمكانية الوصول وأنظمة التصميم.
+بالنسبة لمن يغير مساره المهني:
+مدير لوجستيات سابق يعمل الآن على بناء تطبيقات باستخدام Python وPostgreSQL لسير العمل التشغيلي.
+قد تتضمن السيرة الذاتية المفيدة ما يلي:</p>
 </blockquote>
-<p>Stronger:</p>
-<blockquote>
-<p>Backend engineer building reliable Go and PostgreSQL services.</p>
-</blockquote>
-<p>Another example:</p>
-<blockquote>
-<p>Frontend developer focused on TypeScript, React, accessibility, and design systems.</p>
-</blockquote>
-<p>For a career changer:</p>
-<blockquote>
-<p>Former logistics manager now building Python and PostgreSQL applications for operational workflows.</p>
-</blockquote>
-<p>A useful bio may include:</p>
 <ul>
-<li>your role or target role;</li>
-<li>your main technical area;</li>
-<li>your strongest technologies;</li>
-<li>the kind of problems you solve;</li>
-<li>whether you are open to opportunities.</li>
+<li>دورك الحالي أو الدور الذي تستهدفه؛</li>
+<li>مجالك التقني الرئيسي؛</li>
+<li>التقنيات التي تتقنها بشكل أفضل؛</li>
+<li>نوع المشكلات التي تحلها؛</li>
+<li>ما إذا كنت منفتحًا على الفرص.
+لا تحول السيرة الذاتية إلى قائمة تضم عشرين أداة.</li>
 </ul>
-<p>Do not turn the bio into a list of twenty tools.</p>
-<h1>Complete the basic profile information</h1>
-<p>Small omissions make a profile feel abandoned.</p>
-<p>Review:</p>
+<h1>أكمل المعلومات الأساسية للملف الشخصي</h1>
+<p>تؤدي الإغفالات الصغيرة إلى إعطاء انطباع بأن الملف الشخصي مهمل.
+مراجعة:</p>
 <ul>
-<li>profile photo or recognizable avatar;</li>
-<li>professional display name;</li>
-<li>concise bio;</li>
-<li>location, when useful;</li>
-<li>personal website;</li>
-<li>JobsList.dev or professional profile;</li>
-<li>contact method;</li>
-<li>employer or independent status, if relevant.</li>
+<li>صورة الملف الشخصي أو صورة رمزية مميزة؛</li>
+<li>الاسم المعروض المهني؛</li>
+<li>سيرة ذاتية موجزة؛</li>
+<li>الموقع الجغرافي, عند الحاجة؛</li>
+<li>الموقع الإلكتروني الشخصي؛</li>
+<li>JobsList.dev أو الملف الشخصي المهني؛</li>
+<li>طريقة الاتصال؛</li>
+<li>وضعك كموظف أو مستقل, إن كان ذلك ذو صلة.
+لا داعي لأن يكون بريدك الإلكتروني عامًا إذا كنت تفضل استخدام نموذج الاتصال أو الملف الشخصي المهني.
+تأكد من أن كل رابط مرئي يعمل.</li>
 </ul>
-<p>Your email does not need to be public if you prefer using a contact form or professional profile.</p>
-<p>Make sure every visible link works.</p>
-<h1>Create a profile README</h1>
-<p>GitHub displays a special README at the top of your profile when you create a public repository with the same name as your username.</p>
-<p>This is valuable because it gives you control over the story before a reviewer reaches the repository list.</p>
-<p>A good profile README may include:</p>
+<h1>أنشئ ملف README لملفك الشخصي</h1>
+<p>يعرض GitHub ملف README خاصًا في أعلى ملفك الشخصي عندما تنشئ مستودعًا عامًا يحمل نفس اسم المستخدم الخاص بك.
+هذا أمر مهم لأنه يمنحك التحكم في القصة قبل أن يصل المراجع إلى قائمة المستودعات.
+قد يتضمن ملف README الجيد لملفك الشخصي ما يلي:</p>
 <ul>
-<li>one sentence explaining what you build;</li>
-<li>your current technical focus;</li>
-<li>the kind of role you are seeking;</li>
-<li>links to two or three strong projects;</li>
-<li>your portfolio;</li>
-<li>technical writing;</li>
-<li>a contact link.</li>
+<li>جملة واحدة تشرح ما تقوم بتطويره؛</li>
+<li>مجال تركيزك التقني الحالي؛</li>
+<li>نوع الدور الذي تبحث عنه؛</li>
+<li>روابط لمشروعين أو ثلاثة مشاريع قوية؛</li>
+<li>محفظة أعمالك؛</li>
+<li>كتاباتك التقنية؛</li>
+<li>رابط للاتصال.
+اجعله موجزًا.
+مثال:</li>
 </ul>
-<p>Keep it concise.</p>
-<p>Example:</p>
-<h2>Hi, I’m Alex</h2>
-<p>I’m a backend engineer focused on Go, PostgreSQL, APIs, and reliable distributed workflows.</p>
-<p>I currently build:</p>
+<h2>مرحبًا, أنا أليكس</h2>
+<p>أنا مهندس خلفي (backend) أركز على Go وPostgreSQL وواجهات برمجة التطبيقات (APIs) وسير العمل الموزع الموثوق.
+أقوم حاليًا بتطوير:</p>
 <ul>
-<li>transaction-processing services;</li>
-<li>developer tooling;</li>
-<li>open-source utilities for data validation.</li>
+<li>خدمات معالجة المعاملات؛</li>
+<li>أدوات المطورين؛</li>
+<li>أدوات مفتوحة المصدر للتحقق من صحة البيانات.
+أبرز الأعمال:</li>
+<li><a href="%D8%B1%D8%A7%D8%A8%D8%B7">TaskFlow API</a> — واجهة برمجة تطبيقات (API) لإدارة المهام متعددة المستأجرين مع ترخيص قائم على الأدوار.</li>
+<li><a href="%D8%B1%D8%A7%D8%A8%D8%B7">Event Processor</a> — مثال على مستهلك أحداث متكرر مع إعادة المحاولة ومعالجة الرسائل المفقودة.</li>
+<li><a href="%D8%B1%D8%A7%D8%A8%D8%B7">محفظة الأعمال</a> — تقارير عن المشاريع وملاحظات حول البنية.
+أنا مهتم حاليًا بوظائف هندسة البنية التحتية والمنصات عن بُعد.
+<a href="%D8%B1%D8%A7%D8%A8%D8%B7">اتصل بي</a>
+هذا يكفي.</li>
 </ul>
-<p>Featured work:</p>
+<h1>تجنب ملف README المفرط في ملف التعريف</h1>
+<p>يمكن أن يصبح ملف README في ملف التعريف مصدر تشتيت للانتباه عندما يتضمن:</p>
 <ul>
-<li><a href="link">TaskFlow API</a> — multi-tenant task-management API with role-based authorization.</li>
-<li><a href="link">Event Processor</a> — idempotent event-consumer example with retries and dead-letter handling.</li>
-<li><a href="link">Portfolio</a> — project write-ups and architecture notes.</li>
+<li>عشرات الشارات؛</li>
+<li>لافتات الكتابة المتحركة؛</li>
+<li>عدادات الزوار؛</li>
+<li>كل شعار تقني؛</li>
+<li>رسومات متتالية مُنشأة تلقائيًا؛</li>
+<li>كتل اقتباسات كبيرة؛</li>
+<li>تفاصيل شخصية غير ذات صلة؛</li>
+<li>عناصر واجهة مستخدم ديناميكية معطلة؛</li>
+<li>تأثيرات بصرية مفرطة.
+لا يُعد أي من هذه العناصر ضارًا بحد ذاته.
+تكمن المشكلة في أن الزخرفة تدفع الأدلة الفعلية إلى أسفل الصفحة.
+اجعل عملك سهل العثور عليه.</li>
 </ul>
-<p>I’m currently interested in remote backend and platform engineering roles.</p>
-<p><a href="link">Contact me</a></p>
-<p>That is enough.</p>
-<h1>Avoid an overloaded profile README</h1>
-<p>A profile README can become distracting when it includes:</p>
-<ul>
-<li>dozens of badges;</li>
-<li>animated typing banners;</li>
-<li>visitor counters;</li>
-<li>every technology logo;</li>
-<li>auto-generated streak graphics;</li>
-<li>large quote blocks;</li>
-<li>unrelated personal details;</li>
-<li>broken dynamic widgets;</li>
-<li>excessive visual effects.</li>
-</ul>
-<p>None of these is automatically harmful.</p>
-<p>The problem is when decoration pushes the actual evidence below the fold.</p>
-<p>Make your work easy to find.</p>
-<h1>Pin repositories deliberately</h1>
-<p>Pinned repositories are the most important curation tool on your profile.</p>
-<p>Do not let the default selection decide what a hiring manager sees.</p>
-<p>A useful pinned set might include:</p>
+<h1>قم بتثبيت المستودعات بشكل مدروس</h1>
+<p>تعد المستودعات المثبتة أهم أداة تنظيم في ملفك الشخصي.
+لا تدع الاختيار الافتراضي يقرر ما يراه مدير التوظيف.
+قد تتضمن مجموعة مرفقة مفيدة ما يلي:</p>
 <ol>
-<li>Your strongest completed project.</li>
-<li>A project with deeper engineering complexity.</li>
-<li>A contribution or collaborative project.</li>
-<li>A project showing relevant range.</li>
-<li>A tool, library, or package.</li>
-<li>A small project tied closely to your target role.</li>
+<li>أقوى مشروع أكملته.</li>
+<li>مشروع يتميز بتعقيد هندسي أعمق.</li>
+<li>مساهمة أو مشروع تعاوني.</li>
+<li>مشروع يظهر نطاقًا ذي صلة.</li>
+<li>أداة أو مكتبة أو حزمة.</li>
+<li>مشروع صغير مرتبط ارتباطًا وثيقًا بالوظيفة التي تستهدفها.
+لست بحاجة إلى ستة.
+ثلاثة أو أربعة مستودعات ممتازة يمكن أن تكون أقوى من ستة مستودعات متوسطة.</li>
 </ol>
-<p>You do not need six.</p>
-<p>Three or four excellent repositories can be stronger than six average ones.</p>
-<h1>Choose projects that support your target role</h1>
-<h2>For frontend roles</h2>
-<p>Pin projects that show:</p>
+<h1>اختر المشاريع التي تدعم الدور الذي تستهدفه</h1>
+<h2>بالنسبة لأدوار الواجهة الأمامية</h2>
+<p>ثبّت المشاريع التي تُظهر:</p>
 <ul>
-<li>responsive interfaces;</li>
-<li>accessibility;</li>
-<li>state management;</li>
-<li>performance;</li>
-<li>browser behavior;</li>
-<li>design-system work;</li>
-<li>testing;</li>
-<li>live deployment.</li>
+<li>واجهات سريعة الاستجابة؛</li>
+<li>إمكانية الوصول؛</li>
+<li>إدارة الحالة؛</li>
+<li>الأداء؛</li>
+<li>سلوك المتصفح؛</li>
+<li>العمل على نظام التصميم؛</li>
+<li>الاختبار؛</li>
+<li>النشر المباشر.</li>
 </ul>
-<h2>For backend roles</h2>
-<p>Pin projects that show:</p>
+<h2>بالنسبة لأدوار الخلفية</h2>
+<p>ثبّت المشاريع التي تُظهر:</p>
 <ul>
-<li>APIs;</li>
-<li>database design;</li>
-<li>authentication and authorization;</li>
-<li>background jobs;</li>
-<li>error handling;</li>
-<li>migrations;</li>
-<li>tests;</li>
-<li>observability;</li>
-<li>deployment.</li>
+<li>واجهات برمجة التطبيقات (APIs)؛</li>
+<li>تصميم قواعد البيانات؛</li>
+<li>المصادقة والتفويض؛</li>
+<li>المهام الخلفية؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>عمليات الترحيل؛</li>
+<li>الاختبارات؛</li>
+<li>قابلية المراقبة؛</li>
+<li>النشر.</li>
 </ul>
-<h2>For full-stack roles</h2>
-<p>Show one or two projects where you owned the entire request path:</p>
+<h2>بالنسبة للأدوار الشاملة (Full-Stack)</h2>
+<p>اعرض مشروعًا واحدًا أو اثنين كنت مسؤولًا فيهما عن مسار الطلب بالكامل:</p>
 <ul>
-<li>user interface;</li>
-<li>API;</li>
-<li>data model;</li>
-<li>authentication;</li>
-<li>deployment;</li>
-<li>testing.</li>
+<li>واجهة المستخدم؛</li>
+<li>واجهة برمجة التطبيقات (API)؛</li>
+<li>نموذج البيانات؛</li>
+<li>المصادقة؛</li>
+<li>النشر؛</li>
+<li>الاختبار.</li>
 </ul>
-<h2>For DevOps or platform roles</h2>
-<p>Pin:</p>
+<h2>بالنسبة لأدوار DevOps أو المنصات</h2>
+<p>قم بتثبيت:</p>
 <ul>
-<li>infrastructure-as-code modules;</li>
-<li>CI/CD examples;</li>
-<li>observability tooling;</li>
-<li>deployment automation;</li>
-<li>container or orchestration work;</li>
-<li>internal developer tooling.</li>
+<li>وحدات البنية التحتية كرمز (Infrastructure-as-Code)؛</li>
+<li>أمثلة على CI/CD؛</li>
+<li>أدوات القابلية للمراقبة؛</li>
+<li>أتمتة النشر؛</li>
+<li>أعمال الحاويات أو التنسيق؛</li>
+<li>أدوات المطورين الداخلية.
+تجنب نشر الأسرار أو بيانات اعتماد البنية التحتية الحقيقية أو التكوينات الحساسة.</li>
 </ul>
-<p>Avoid publishing secrets, real infrastructure credentials, or sensitive configuration.</p>
-<h2>For data roles</h2>
-<p>Show:</p>
+<h2>بالنسبة لأدوار البيانات</h2>
+<p>اعرض:</p>
 <ul>
-<li>data pipelines;</li>
-<li>analytical models;</li>
-<li>SQL work;</li>
-<li>validation;</li>
-<li>data-quality checks;</li>
-<li>orchestration;</li>
-<li>clear explanation of sources and outputs.</li>
+<li>مسارات البيانات؛</li>
+<li>النماذج التحليلية؛</li>
+<li>أعمال SQL؛</li>
+<li>التحقق من الصحة؛</li>
+<li>فحوصات جودة البيانات؛</li>
+<li>التنسيق؛</li>
+<li>شرح واضح للمصادر والمخرجات.</li>
 </ul>
-<h2>For mobile roles</h2>
-<p>Show:</p>
+<h2>بالنسبة للأدوار المتعلقة بالهواتف المحمولة</h2>
+<p>اعرض:</p>
 <ul>
-<li>application source;</li>
-<li>store or demo links;</li>
-<li>architecture;</li>
-<li>offline behavior;</li>
-<li>tests;</li>
-<li>release or build setup;</li>
-<li>screenshots.</li>
+<li>مصدر التطبيق؛</li>
+<li>روابط المتجر أو العرض التوضيحي؛</li>
+<li>البنية؛</li>
+<li>السلوك في وضع عدم الاتصال بالإنترنت؛</li>
+<li>الاختبارات؛</li>
+<li>إعداد الإصدار أو البناء؛</li>
+<li>لقطات الشاشة.</li>
 </ul>
-<h1>What makes a repository worth pinning</h1>
-<p>A repository does not need to be large.</p>
-<p>It should be legible.</p>
-<p>Strong pinned repositories usually have several of these qualities:</p>
+<h1>ما الذي يجعل مستودعًا يستحق التثبيت</h1>
+<p>لا يلزم أن يكون المستودع كبير الحجم.
+يجب أن يكون سهل القراءة.
+عادةً ما تتمتع المستودعات المثبتة القوية بعدة من هذه الصفات:</p>
 <ul>
-<li>clear purpose;</li>
-<li>useful README;</li>
-<li>coherent structure;</li>
-<li>meaningful commit history;</li>
-<li>tests;</li>
-<li>working setup instructions;</li>
-<li>live demo;</li>
-<li>screenshots;</li>
-<li>documented trade-offs;</li>
-<li>no exposed credentials;</li>
-<li>recent maintenance;</li>
-<li>license, when appropriate.</li>
+<li>غرض واضح؛</li>
+<li>ملف README مفيد؛</li>
+<li>بنية متماسكة؛</li>
+<li>سجل التزامات ذو مغزى؛</li>
+<li>اختبارات؛</li>
+<li>تعليمات إعداد فعالة؛</li>
+<li>عرض توضيحي مباشر؛</li>
+<li>لقطات شاشة؛</li>
+<li>المفاضلات الموثقة؛</li>
+<li>عدم وجود بيانات اعتماد مكشوفة؛</li>
+<li>صيانة حديثة؛</li>
+<li>الترخيص, عند الاقتضاء.
+غالبًا ما يُعد المشروع الصغير الكامل مؤشرًا أقوى للتوظيف مقارنةً بمشروع كبير غير مكتمل.</li>
 </ul>
-<p>A small, complete project often produces a stronger hiring signal than a large, unfinished one.</p>
-<h1>Unpin weak signals</h1>
-<p>Consider removing or unpinning:</p>
+<h1>إلغاء تثبيت الإشارات الضعيفة</h1>
+<p>فكر في إزالة أو إلغاء تثبيت:</p>
 <ul>
-<li>tutorial clones;</li>
-<li>course exercises;</li>
-<li>empty starter repositories;</li>
-<li>abandoned hackathon code with no explanation;</li>
-<li>forks with no contribution;</li>
-<li>repositories containing generated files only;</li>
-<li>duplicate projects;</li>
-<li>trivial experiments;</li>
-<li>projects that no longer run;</li>
-<li>anything containing secrets or sensitive information.</li>
+<li>نسخ البرامج التعليمية؛</li>
+<li>تمارين الدورات التدريبية؛</li>
+<li>مستودعات البداية الفارغة؛</li>
+<li>كود هاكاثون مهجور بدون تفسير؛</li>
+<li>الفروع التي لا تحتوي على أي مساهمة؛</li>
+<li>المستودعات التي تحتوي على ملفات مُولَّدة فقط؛</li>
+<li>المشاريع المكررة؛</li>
+<li>التجارب التافهة؛</li>
+<li>المشاريع التي لم تعد تعمل؛</li>
+<li>أي شيء يحتوي على أسرار أو معلومات حساسة.
+ليس من الضروري حذفها بالضرورة.
+يمكنك:</li>
+<li>جعلها خاصة؛</li>
+<li>أرشفتها؛</li>
+<li>تحسين ملف README الخاص بها؛</li>
+<li>نقلها إلى منظمة؛</li>
+<li>تركها غير مثبتة.
+الهدف هو التنظيم, وليس التظاهر بأنك لم تتعلم أبدًا.</li>
 </ul>
-<p>You do not necessarily need to delete them.</p>
-<p>You can:</p>
-<ul>
-<li>make them private;</li>
-<li>archive them;</li>
-<li>improve their README;</li>
-<li>move them into an organization;</li>
-<li>leave them unpinned.</li>
-</ul>
-<p>The goal is curation, not pretending you never learned.</p>
-<h1>The README is the most important file</h1>
-<p>A reviewer often decides whether to continue based on the README.</p>
-<p>A strong README should quickly explain:</p>
+<h1>ملف README هو الملف الأهم</h1>
+<p>غالبًا ما يقرر المراجع ما إذا كان سيواصل أم لا بناءً على ملف README.
+يجب أن يشرح ملف README الجيد بسرعة ما يلي:</p>
 <ol>
-<li>What the project does.</li>
-<li>Who it is for.</li>
-<li>Why you built it.</li>
-<li>How to see or run it.</li>
-<li>What is technically interesting.</li>
-<li>What trade-offs you made.</li>
-<li>What remains incomplete.</li>
+<li>ما الذي يفعله المشروع.</li>
+<li>لمن هو مخصص.</li>
+<li>لماذا قمت بإنشائه.</li>
+<li>كيفية مشاهدته أو تشغيله.</li>
+<li>ما هو المثير للاهتمام من الناحية التقنية.</li>
+<li>ما هي التنازلات التي قمت بها.</li>
+<li>ما الذي لا يزال غير مكتمل.
+يجب ألا يجبر ملف README المراجع على إجراء هندسة عكسية للمشروع قبل فهمه.</li>
 </ol>
-<p>The README should not force the reviewer to reverse-engineer the project before understanding it.</p>
-<h1>A strong README structure</h1>
-<h2>Project name and one-line summary</h2>
-<p>Example:</p>
+<h1>هيكل ملف README الجيد</h1>
+<h2>اسم المشروع وملخص في سطر واحد</h2>
+<p>مثال:</p>
 <h1>TaskFlow API</h1>
-<p>A multi-tenant task-management API for small teams, built with Go, PostgreSQL, and role-based authorization.</p>
-<h2>Live demo or screenshots</h2>
-<p>Provide:</p>
+<p>واجهة برمجة تطبيقات (API) لإدارة المهام متعددة المستأجرين للفرق الصغيرة, تم إنشاؤها باستخدام Go وPostgreSQL والتفويض القائم على الأدوار.</p>
+<h2>عرض توضيحي مباشر أو لقطات شاشة</h2>
+<p>قم بتوفير:</p>
 <ul>
-<li>live application;</li>
-<li>API documentation;</li>
-<li>screenshots;</li>
-<li>short GIF;</li>
-<li>demo account;</li>
-<li>video walkthrough.</li>
+<li>تطبيق مباشر؛</li>
+<li>وثائق واجهة برمجة التطبيقات (API)؛</li>
+<li>لقطات شاشة؛</li>
+<li>ملف GIF قصير؛</li>
+<li>حساب تجريبي؛</li>
+<li>فيديو توضيحي.
+لا تكشف عن بيانات اعتماد حقيقية.</li>
 </ul>
-<p>Do not expose real credentials.</p>
-<h2>The problem</h2>
-<p>Explain why the project exists.</p>
-<p>Example:</p>
+<h2>المشكلة</h2>
+<p>اشرح سبب وجود المشروع.
+مثال:</p>
 <blockquote>
-<p>I built this project to explore organization-scoped permissions, background reminders, and safe database migrations in a product with multiple teams sharing one account.</p>
+<p>قمت بإنشاء هذا المشروع لاستكشاف الأذونات على نطاق المؤسسة, والتذكيرات في الخلفية, وعمليات ترحيل قواعد البيانات الآمنة في منتج تشارك فيه فرق متعددة حسابًا واحدًا.</p>
 </blockquote>
-<h2>Core features</h2>
-<p>List only meaningful features.</p>
+<h2>الميزات الأساسية</h2>
+<p>اذكر الميزات المهمة فقط.</p>
 <ul>
-<li>Organization workspaces</li>
-<li>Role-based access</li>
-<li>Task assignments</li>
-<li>Due-date reminders</li>
-<li>Audit history</li>
-<li>Search and filtering</li>
-<li>API documentation</li>
+<li>مساحات عمل المؤسسة</li>
+<li>الوصول القائم على الأدوار</li>
+<li>تخصيص المهام</li>
+<li>تذكيرات بمواعيد الاستحقاق</li>
+<li>سجل التدقيق</li>
+<li>البحث والتصفية</li>
+<li>وثائق واجهة برمجة التطبيقات (API)</li>
 </ul>
-<h2>Technical decisions</h2>
-<p>This is where you demonstrate judgment.</p>
-<p>Explain:</p>
+<h2>القرارات التقنية</h2>
+<p>هنا تبرهن على حنكتك.
+اشرح:</p>
 <ul>
-<li>why you chose the database;</li>
-<li>why you used a modular monolith;</li>
-<li>how authorization works;</li>
-<li>why a queue was or was not necessary;</li>
-<li>how errors are represented;</li>
-<li>how the project is tested;</li>
-<li>what you optimized for.</li>
+<li>لماذا اخترت قاعدة البيانات هذه؛</li>
+<li>لماذا استخدمت بنية أحادية معيارية؛</li>
+<li>كيف تعمل عملية التفويض؛</li>
+<li>لماذا كانت قائمة الانتظار ضرورية أو غير ضرورية؛</li>
+<li>كيف يتم عرض الأخطاء؛</li>
+<li>كيف يتم اختبار المشروع؛</li>
+<li>ما الذي قمت بتحسينه.
+مثال:</li>
 </ul>
-<p>Example:</p>
 <blockquote>
-<p>I kept the application as a modular monolith because the project does not have independent scaling or ownership requirements that justify separate services. Domain packages enforce boundaries without adding deployment complexity.</p>
+<p>حافظت على تطبيق ككتلة أحادية معيارية لأن المشروع لا يتضمن متطلبات مستقلة للتوسع أو الملكية تبرر وجود خدمات منفصلة. تعمل حزم المجال على فرض الحدود دون إضافة تعقيد لعملية النشر.
+تُعبِّر هذه الجملة عن أكثر مما تعبر عنه قائمة تقنية طويلة.</p>
 </blockquote>
-<p>That sentence communicates more than a long technology list.</p>
-<h2>Architecture</h2>
-<p>Include a simple explanation or diagram when it helps.</p>
-<p>Do not add a diagram merely for decoration.</p>
-<h2>Setup</h2>
-<p>Provide exact steps.</p>
-<p>Make sure they work on a clean environment.</p>
-<h2>Testing</h2>
-<p>Explain:</p>
+<h2>البنية</h2>
+<p>أدرج شرحًا بسيطًا أو رسمًا تخطيطيًّا عندما يكون ذلك مفيدًا.
+لا تضف رسمًا تخطيطيًّا لمجرد الزينة.</p>
+<h2>الإعداد</h2>
+<p>قدم الخطوات الدقيقة.
+تأكد من أنها تعمل في بيئة نظيفة.</p>
+<h2>الاختبار</h2>
+<p>اشرح:</p>
 <ul>
-<li>how to run tests;</li>
-<li>what is covered;</li>
-<li>what is intentionally not covered;</li>
-<li>whether integration dependencies are required.</li>
+<li>كيفية تشغيل الاختبارات؛</li>
+<li>ما الذي يتم تغطيته؛</li>
+<li>ما الذي لم يتم تغطيته عن قصد؛</li>
+<li>ما إذا كانت التبعيات التكاملية مطلوبة أم لا.</li>
 </ul>
-<h2>Known limitations</h2>
-<p>This section is a strong maturity signal.</p>
-<p>Example:</p>
+<h2>القيود المعروفة</h2>
+<p>يُعد هذا القسم مؤشراً قوياً على النضج.
+مثال:</p>
 <ul>
-<li>Search uses basic PostgreSQL text matching rather than a dedicated search engine.</li>
-<li>Rate limiting is implemented per instance, not globally.</li>
-<li>Email delivery is mocked in the public demo.</li>
-<li>Audit retention is not configurable yet.</li>
+<li>يستخدم البحث مطابقة النصوص الأساسية في PostgreSQL بدلاً من محرك بحث مخصص.</li>
+<li>يتم تطبيق تحديد معدل الاستخدام لكل مثيل, وليس على المستوى العام.</li>
+<li>يتم محاكاة تسليم البريد الإلكتروني في العرض التوضيحي العام.</li>
+<li>لا يمكن تكوين الاحتفاظ بالسجلات التدقيقية حتى الآن.</li>
 </ul>
-<h2>What you would do next</h2>
-<p>Explain the next improvements in priority order.</p>
-<p>Avoid a huge wish list.</p>
-<h1>Explain decisions, not just tools</h1>
-<p>Weak:</p>
+<h2>ما ستفعله بعد ذلك</h2>
+<p>اشرح التحسينات التالية حسب ترتيب الأولوية.
+تجنب تقديم قائمة طويلة من الرغبات.</p>
+<h1>اشرح القرارات, لا تكتفِ بالأدوات</h1>
+<p>ضعيف:</p>
 <blockquote>
-<p>Built with React, Node.js, Express, PostgreSQL, Docker, and AWS.</p>
+<p>تم تطويره باستخدام React و Node.js و Express و PostgreSQL و Docker و AWS.
+أقوى:
+اخترت PostgreSQL لأن نموذج الأذونات وتخصيص المهام يستفيد من القيود العلائقية والمعاملات. تم استبعاد Redis عمدًا لأن حجم العمل الحالي لا يبرر وجود تبعية أخرى تعتمد على الحالة.
+تُظهر النسخة الثانية حكمة هندسية.</p>
 </blockquote>
-<p>Stronger:</p>
+<h1>استخدم لقطات الشاشة والعروض التوضيحية الحية بحذر</h1>
+<p>يقلل العرض التوضيحي الحي من الجهد المطلوب لتقييم مشروعك.
+بالنسبة لمشاريع الواجهة الأمامية والمشاريع الشاملة, يمكن أن يكون ذلك أحد أقوى المؤشرات.
+قبل ربط الرابط, تحقق مما يلي:</p>
+<ul>
+<li>أن التطبيق يتم تحميله؛</li>
+<li>أن HTTPS يعمل؛</li>
+<li>أن تخطيط الجوال يعمل؛</li>
+<li>أن بيانات اعتماد الاختبار صالحة؛</li>
+<li>معالجة الحالات الفارغة؛</li>
+<li>ملاءمة بيانات العرض التوضيحي؛</li>
+<li>عدم ظهور أي معلومات خاصة؛</li>
+<li>عدم ظهور أخطاء واضحة على الموقع؛</li>
+<li>أن النطاق لا يزال نشطًا.
+قد يضر العرض التوضيحي المباشر المعطل أكثر من عدم وجود عرض توضيحي على الإطلاق.
+بالنسبة لمشاريع الخلفية, ضع في اعتبارك ربط:</li>
+<li>وثائق OpenAPI؛</li>
+<li>مستكشف GraphQL؛</li>
+<li>شرح تفصيلي للبنية؛</li>
+<li>أمثلة على الطلبات؛</li>
+<li>نقطة نهاية حالة الاستضافة؛</li>
+<li>فيديو توضيحي قصير.</li>
+</ul>
+<h1>اجعل تعليمات الإعداد موثوقة</h1>
+<p>قد لا يقوم المراجعون بنسخ مشروعك, لكن وجود تعليمات إعداد فعالة لا يزال أمرًا مهمًا.
+قم بتضمين:</p>
+<ul>
+<li>المتطلبات الأساسية؛</li>
+<li>الأوامر الدقيقة؛</li>
+<li>متغيرات البيئة؛</li>
+<li>عمليات الترحيل؛</li>
+<li>البيانات الأولية؛</li>
+<li>أمر الاختبار؛</li>
+<li>أمر التطوير؛</li>
+<li>أمر إنشاء الإصدار الإنتاجي.
+قم بتوفير ملف <code>.env.example</code> خالٍ من الأسرار الحقيقية.
+لا تقم بإدراج:</li>
+<li>مفاتيح واجهة برمجة التطبيقات (API)؛</li>
+<li>رموز الوصول؛</li>
+<li>الشهادات الخاصة؛</li>
+<li>كلمات مرور قاعدة البيانات؛</li>
+<li>بيانات اعتماد السحابة؛</li>
+<li>بيانات العملاء الشخصية.
+إذا تم إدراج أي معلومات سرية في أي وقت مضى, فإن إزالة الملف من الفرع الحالي لا تكفي. قم بتغيير بيانات الاعتماد ومسح السجل عند الاقتضاء.</li>
+</ul>
+<h1>بنية المستودع هي مؤشر</h1>
+<p>قد يقوم المراجع بمسح شجرة ملفاتك قبل فتح ملف التنفيذ.
+وهو يبحث عما إذا كان المشروع يتيح التنقل بسهولة.
+الهيكل الجيد:</p>
+<ul>
+<li>يجمع الكود المترابط؛</li>
+<li>يستخدم أسماء واضحة؛</li>
+<li>يفصل بين شؤون التطبيق بشكل معقول؛</li>
+<li>يتجنب التداخل غير الضروري؛</li>
+<li>يجعل الاختبارات سهلة العثور عليها؛</li>
+<li>يحافظ على سهولة فهم التكوين.
+لا يوجد هيكل مجلدات مثالي عالمي.
+الاتساق أهم من مجرد نسخ بنية شائعة.</li>
+</ul>
+<h1>الاختبارات أهم من شارات التغطية</h1>
+<p>لا يتوقع معظم المراجعين تغطية اختبارية شاملة في مشروع شخصي.
+لكنهم يلاحظون وجود الاختبارات من عدمه.
+قد تغطي الاختبارات المفيدة ما يلي:</p>
+<ul>
+<li>القواعد الأساسية للأعمال؛</li>
+<li>الأذونات؛</li>
+<li>التحقق من الصحة؛</li>
+<li>تحويلات البيانات؛</li>
+<li>سلوك الفشل؛</li>
+<li>عقود واجهة برمجة التطبيقات (API)؛</li>
+<li>تفاعلات واجهة المستخدم المهمة.
+بضعة اختبارات ذات مغزى أفضل من عشرات اللقطات ذات القيمة المنخفضة.
+اشرح استراتيجيتك في ملف README.
+مثال:</li>
+</ul>
 <blockquote>
-<p>I chose PostgreSQL because the permission and task-assignment model benefits from relational constraints and transactions. Redis was intentionally omitted because the current workload does not justify another stateful dependency.</p>
+<p>تغطي الاختبارات الوحدوية قواعد المجال وقرارات الأذونات. تختبر اختبارات التكامل عمليات ترحيل PostgreSQL وسير عمل واجهة برمجة التطبيقات (API) الرئيسية. لقد حذفت الأتمتة الكاملة للمتصفح لأن الواجهة تأتي حاليًا في المرتبة الثانية بعد تصميم واجهة برمجة التطبيقات (API).</p>
 </blockquote>
-<p>The second version shows engineering judgment.</p>
-<h1>Use screenshots and live demos carefully</h1>
-<p>A live demo lowers the effort required to evaluate your project.</p>
-<p>For frontend and full-stack projects, it can be one of the strongest signals.</p>
-<p>Before linking it, verify:</p>
+<h1>رسائل الالتزام تحكي قصة</h1>
+<p>يمكن أن يُظهر سجل الالتزامات كيف تعمل.
+رسائل ضعيفة:</p>
 <ul>
-<li>the application loads;</li>
-<li>HTTPS works;</li>
-<li>mobile layout works;</li>
-<li>test credentials are valid;</li>
-<li>empty states are handled;</li>
-<li>the demo data is appropriate;</li>
-<li>no private information appears;</li>
-<li>the site does not display obvious errors;</li>
-<li>the domain is still active.</li>
+<li>إصلاح</li>
+<li>تحديث</li>
+<li>تغييرات</li>
+<li>أشياء</li>
+<li>نهائي</li>
+<li>نهائي-نهائي</li>
+<li>asdf
+رسائل أقوى:</li>
+<li>إضافة تفويض المهام على نطاق المؤسسة</li>
+<li>التحقق من صحة العضويات المكررة على مستوى قاعدة البيانات</li>
+<li>إدخال سياسة إعادة المحاولة لتسليم التذكيرات</li>
+<li>إضافة تغطية التكامل لحذف الحساب</li>
+<li>توثيق إجراءات التراجع عن الترحيل
+ليس من الضروري أن يكون كل التزام مثاليًا.
+الهدف هو جعل السجل مفهومًا.</li>
 </ul>
-<p>A broken live demo can hurt more than having no demo.</p>
-<p>For backend projects, consider linking:</p>
+<h1>حجم الالتزام مهم</h1>
+<p>قد يشير التزام ضخم واحد إلى أن المشروع تم تحميله بعد اكتماله بدلاً من تطويره بشكل طبيعي.
+هذا ليس سيئًا تلقائيًا, خاصةً بالنسبة للأعمال القديمة أو التي تم ترحيلها.
+لكن السجل المفيد يمكن أن يُظهر:</p>
 <ul>
-<li>OpenAPI documentation;</li>
-<li>GraphQL explorer;</li>
-<li>architecture walkthrough;</li>
-<li>sample requests;</li>
-<li>hosted health endpoint;</li>
-<li>short demonstration video.</li>
+<li>التخطيط؛</li>
+<li>التكرار؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>إعادة الهيكلة؛</li>
+<li>تطوير الميزات؛</li>
+<li>التوثيق؛</li>
+<li>الاختبار.
+تجنب إنشاء عمليات التزام لا معنى لها لمجرد إظهار النشاط.</li>
 </ul>
-<h1>Make setup instructions reliable</h1>
-<p>Reviewers may not clone your project, but working setup instructions still matter.</p>
-<p>Include:</p>
+<h1>لا تسعَ إلى تحقيق المربعات الخضراء</h1>
+<p>الرسم البياني للمساهمات ليس تقييمًا للأداء.
+يدرك مديرو التوظيف ما يلي:</p>
 <ul>
-<li>prerequisites;</li>
-<li>exact commands;</li>
-<li>environment variables;</li>
-<li>migrations;</li>
-<li>seed data;</li>
-<li>test command;</li>
-<li>development command;</li>
-<li>production build command.</li>
+<li>قد يكون العمل المهني خاصًا؛</li>
+<li>تستخدم الشركات منصات أخرى؛</li>
+<li>تؤثر الاحتياجات العائلية والصحية على النشاط؛</li>
+<li>قد لا يقوم المهندسون المتميزون بكتابة الكود علنًا؛</li>
+<li>لا ترتبط الجودة بعدد عمليات الالتزام اليومية.
+لا تخلق نشاطًا زائفًا.
+لا تقسم التغييرات التافهة إلى عمليات إرسال منفصلة للحفاظ على سلسلة متواصلة.
+لا تقارن مخططك بمسؤولي صيانة المشاريع مفتوحة المصدر المتفرغين.
+استخدم GitHub لعرض العمل, وليس الحضور.</li>
 </ul>
-<p>Provide an <code>.env.example</code> without real secrets.</p>
-<p>Do not commit:</p>
+<h1>النجوم والمتابعون ليسوا متطلبات للتوظيف</h1>
+<p>يمكن لمشروع لا يحتوي على نجوم أن يُظهر هندسة ممتازة.
+تعتمد الشعبية على:</p>
 <ul>
-<li>API keys;</li>
-<li>access tokens;</li>
-<li>private certificates;</li>
-<li>database passwords;</li>
-<li>cloud credentials;</li>
-<li>personal customer data.</li>
+<li>الترويج؛</li>
+<li>التوقيت؛</li>
+<li>المجتمع؛</li>
+<li>العلامة التجارية؛</li>
+<li>الجمهور الحالي؛</li>
+<li>اختيار المشكلة.
+يجب على مديري التوظيف تقييم مدى ملاءمة العمل وجودته, وليس الدليل الاجتماعي وحده.
+لا تعتذر عن انخفاض عدد النجوم.</li>
 </ul>
-<p>If secrets have ever been committed, removing the file from the current branch is not enough. Rotate the credentials and clean the history when appropriate.</p>
-<h1>Repository structure is a signal</h1>
-<p>A reviewer may scan your file tree before opening implementation.</p>
-<p>They are looking for whether the project feels navigable.</p>
-<p>A good structure:</p>
+<h1>المساهمات في المشاريع مفتوحة المصدر ذات قيمة خاصة</h1>
+<p>يمكن أن تُظهر المساهمة في مشروع لم تبدأه ما يلي:</p>
 <ul>
-<li>groups related code;</li>
-<li>uses clear names;</li>
-<li>separates application concerns reasonably;</li>
-<li>avoids unnecessary nesting;</li>
-<li>makes tests easy to find;</li>
-<li>keeps configuration understandable.</li>
+<li>قراءة كود غير مألوف؛</li>
+<li>اتباع قواعد المشروع؛</li>
+<li>التواصل مع القائمين على الصيانة؛</li>
+<li>الاستجابة للمراجعة؛</li>
+<li>كتابة تغييرات مركزة؛</li>
+<li>التعاون بشكل غير متزامن.
+لا يلزم أن تكون المساهمة مشهورة.
+قد يكون الإصلاح الجوهري في مشروع صغير أكثر إفادة من تغيير من سطر واحد في مستودع رئيسي.</li>
 </ul>
-<p>There is no universal perfect folder structure.</p>
-<p>Consistency matters more than copying one popular architecture.</p>
-<h1>Tests matter more than coverage badges</h1>
-<p>Most reviewers do not expect exhaustive test coverage on a personal project.</p>
-<p>They do notice whether testing exists.</p>
-<p>Useful tests may cover:</p>
+<h1>اعرض مساهماتك بوضوح</h1>
+<p>قد لا توضح أنشطتك على GitHub دورك بوضوح.
+أضف قسمًا إلى ملف README في ملفك الشخصي أو محفظتك:</p>
+<h2>مساهمات مختارة في المشاريع مفتوحة المصدر</h2>
 <ul>
-<li>core business rules;</li>
-<li>permissions;</li>
-<li>validation;</li>
-<li>data transformations;</li>
-<li>failure behavior;</li>
-<li>API contracts;</li>
-<li>important UI interactions.</li>
+<li>[المشروع وطلب السحب] — تم إصلاح معالجة الأحداث المكررة عن طريق إضافة التحقق من خاصية idempotency واختبارات الانحدار.</li>
+<li>[المشروع وطلب السحب] — تحسين التنقل باستخدام لوحة المفاتيح عبر المكونات النمطية.</li>
+<li>[المشروع وطلب السحب] — إضافة وثائق وأمثلة للتحقق من صحة التكوين.
+اشرح ما الذي تغير ولماذا كان ذلك مهمًا.</li>
 </ul>
-<p>A few meaningful tests are better than dozens of low-value snapshots.</p>
-<p>Explain your strategy in the README.</p>
-<p>Example:</p>
+<h1>استخدم المشكلات وطلبات السحب حتى في المشاريع الفردية</h1>
+<p>لست بحاجة إلى محاكاة إجراءات شركة كبيرة.
+لكن المشكلات وطلبات السحب يمكن أن تساعد في إظهار عادات التخطيط والمراجعة.
+يمكنك استخدامها من أجل:</p>
+<ul>
+<li>مقترحات الميزات؛</li>
+<li>تقارير الأخطاء؛</li>
+<li>مناقشات التصميم؛</li>
+<li>قوائم مراجعة الإصدارات؛</li>
+<li>أعمال المتابعة؛</li>
+<li>خطط إعادة الهيكلة.
+بالنسبة لمشروع فردي, فإن فتح طلب سحب لكل تغيير من سطر واحد أمر غير ضروري.
+استخدم سير العمل حيثما يضيف الوضوح.</li>
+</ul>
+<h1>أضف معلومات الإصدار عندما يكون ذلك مفيدًا</h1>
+<p>يمكن أن تجعل الإصدارات المشروع يبدو مُصانًا وقابلًا للاستخدام.
+فكر في إضافة:</p>
+<ul>
+<li>الإصدارات الدلالية؛</li>
+<li>ملاحظات الإصدار؛</li>
+<li>سجل التغييرات؛</li>
+<li>تعليمات الترحيل؛</li>
+<li>ملاحظات الإهمال؛</li>
+<li>الملفات الثنائية القابلة للتنزيل؛</li>
+<li>نشر الحزم.
+وهذا مفيد بشكل خاص لـ:</li>
+<li>المكتبات؛</li>
+<li>أدوات سطر الأوامر؛</li>
+<li>تطبيقات سطح المكتب؛</li>
+<li>أدوات المطورين؛</li>
+<li>واجهات برمجة التطبيقات (APIs)؛</li>
+<li>وحدات البنية التحتية.</li>
+</ul>
+<h1>قم بتضمين ترخيص عند الاقتضاء</h1>
+<p>المستودع العام الذي لا يحتوي على ترخيص يكون مرئيًا, لكنه قد لا يكون قابلاً لإعادة الاستخدام من الناحية القانونية.
+اختر ترخيصًا عن قصد عندما تريد أن يستخدم الآخرون المشروع أو يساهموا فيه.
+تشمل الخيارات الشائعة ما يلي:</p>
+<ul>
+<li>MIT؛</li>
+<li>Apache-2.0؛</li>
+<li>GPL؛</li>
+<li>AGPL؛</li>
+<li>متغيرات BSD.
+لا تختر ترخيصًا بشكل عشوائي.
+بالنسبة للكود المخصص لمحفظة الأعمال فقط, اشرح الاستخدام المقصود إذا لزم الأمر.</li>
+</ul>
+<h1>استخدم أوصاف المستودعات والمواضيع</h1>
+<p>تظهر أوصاف المستودعات قبل أن يفتح أي شخص المشروع.
+ضعيف:</p>
 <blockquote>
-<p>Unit tests cover domain rules and permission decisions. Integration tests exercise PostgreSQL migrations and the main API workflows. I omitted full browser automation because the interface is currently secondary to the API design.</p>
+<p>مشروع
+أقوى:
+واجهة برمجة تطبيقات (API) للمهام متعددة المستأجرين باستخدام Go وPostgreSQL والتفويض القائم على الأدوار والتذكيرات في الخلفية.
+أضف مواضيع ذات صلة, لكن تجنب حشوها بكلمات رئيسية غير ذات صلة.
+تساعد المواضيع المفيدة المراجعين وأدوات البحث على فهم المشروع.</p>
 </blockquote>
-<h1>Commit messages tell a story</h1>
-<p>Commit history can show how you work.</p>
-<p>Weak messages:</p>
-<ul>
-<li>fix</li>
-<li>update</li>
-<li>changes</li>
-<li>stuff</li>
-<li>final</li>
-<li>final-final</li>
-<li>asdf</li>
-</ul>
-<p>Stronger messages:</p>
-<ul>
-<li>Add organization-scoped task authorization</li>
-<li>Validate duplicate memberships at the database layer</li>
-<li>Introduce retry policy for reminder delivery</li>
-<li>Add integration coverage for account deletion</li>
-<li>Document migration rollback procedure</li>
-</ul>
-<p>Not every commit must be perfect.</p>
-<p>The goal is to make the history understandable.</p>
-<h1>Commit size matters</h1>
-<p>One enormous commit may suggest the project was uploaded after completion rather than developed normally.</p>
-<p>That is not automatically bad, especially for older or migrated work.</p>
-<p>But a useful history can show:</p>
-<ul>
-<li>planning;</li>
-<li>iteration;</li>
-<li>debugging;</li>
-<li>refactoring;</li>
-<li>feature development;</li>
-<li>documentation;</li>
-<li>testing.</li>
-</ul>
-<p>Avoid manufacturing meaningless commits merely to create activity.</p>
-<h1>Do not optimize for green squares</h1>
-<p>A contribution graph is not a performance review.</p>
-<p>Hiring managers understand that:</p>
-<ul>
-<li>professional work may be private;</li>
-<li>companies use other platforms;</li>
-<li>family and health needs affect activity;</li>
-<li>strong engineers may not code publicly;</li>
-<li>quality does not correlate with daily commits.</li>
-</ul>
-<p>Do not create fake activity.</p>
-<p>Do not split trivial changes into separate commits to maintain a streak.</p>
-<p>Do not compare your graph to full-time open-source maintainers.</p>
-<p>Use GitHub to show work, not attendance.</p>
-<h1>Stars and followers are not hiring requirements</h1>
-<p>A project with no stars can still demonstrate excellent engineering.</p>
-<p>Popularity depends on:</p>
-<ul>
-<li>promotion;</li>
-<li>timing;</li>
-<li>community;</li>
-<li>branding;</li>
-<li>existing audience;</li>
-<li>problem selection.</li>
-</ul>
-<p>Hiring managers should evaluate relevance and quality, not social proof alone.</p>
-<p>Do not apologize for low star counts.</p>
-<h1>Open-source contributions are especially valuable</h1>
-<p>Contributing to a project you did not start can demonstrate:</p>
-<ul>
-<li>reading unfamiliar code;</li>
-<li>following project conventions;</li>
-<li>communicating with maintainers;</li>
-<li>responding to review;</li>
-<li>writing focused changes;</li>
-<li>collaborating asynchronously.</li>
-</ul>
-<p>The contribution does not need to be famous.</p>
-<p>A substantial fix in a small project may be more informative than a one-line change in a major repository.</p>
-<h1>Present contributions clearly</h1>
-<p>Your GitHub activity may not make your role obvious.</p>
-<p>Add a section to your profile README or portfolio:</p>
-<h2>Selected open-source contributions</h2>
-<ul>
-<li>[Project and pull request] — fixed duplicate event processing by adding idempotency validation and regression tests.</li>
-<li>[Project and pull request] — improved keyboard navigation across modal components.</li>
-<li>[Project and pull request] — added documentation and examples for configuration validation.</li>
-</ul>
-<p>Explain what changed and why it mattered.</p>
-<h1>Use issues and pull requests even on solo projects</h1>
-<p>You do not need to simulate a large company process.</p>
-<p>But issues and pull requests can help show planning and review habits.</p>
-<p>You might use them for:</p>
-<ul>
-<li>feature proposals;</li>
-<li>bug reports;</li>
-<li>design discussions;</li>
-<li>release checklists;</li>
-<li>follow-up work;</li>
-<li>refactoring plans.</li>
-</ul>
-<p>For a solo project, opening a pull request for every one-line change is unnecessary.</p>
-<p>Use the workflow where it adds clarity.</p>
-<h1>Add release information when useful</h1>
-<p>Releases can make a project feel maintained and usable.</p>
-<p>Consider adding:</p>
-<ul>
-<li>semantic versions;</li>
-<li>release notes;</li>
-<li>changelog;</li>
-<li>migration instructions;</li>
-<li>deprecation notes;</li>
-<li>downloadable binaries;</li>
-<li>package publishing.</li>
-</ul>
-<p>This is especially valuable for:</p>
-<ul>
-<li>libraries;</li>
-<li>command-line tools;</li>
-<li>desktop applications;</li>
-<li>developer tools;</li>
-<li>APIs;</li>
-<li>infrastructure modules.</li>
-</ul>
-<h1>Include a license where appropriate</h1>
-<p>A public repository without a license is visible but may not be legally reusable.</p>
-<p>Choose a license intentionally when you want others to use or contribute to the project.</p>
-<p>Common options include:</p>
-<ul>
-<li>MIT;</li>
-<li>Apache-2.0;</li>
-<li>GPL;</li>
-<li>AGPL;</li>
-<li>BSD variants.</li>
-</ul>
-<p>Do not choose a license blindly.</p>
-<p>For portfolio-only code, explain the intended use if needed.</p>
-<h1>Use repository descriptions and topics</h1>
-<p>Repository descriptions are visible before anyone opens the project.</p>
-<p>Weak:</p>
+<h1>اجعل توزيع اللغات ذو مغزى</h1>
+<p>قد يكون شريط اللغات في GitHub مضللاً لأن الملفات المُولَّدة أو كود الموردين أو دفاتر الملاحظات أو المخرجات المُجمَّعة قد تهيمن عليه.
+استخدم <code>.gitattributes</code> وحافظ على نظافة المستودع حيثما كان ذلك مناسبًا لمنع المحتوى المُولَّد من تشويه صورة المشروع.
+لا تتلاعب بعرض اللغة لمجرد الظهور بمظهر أكثر مهارة.</p>
+<h1>أرشِف الأعمال المهجورة</h1>
+<p>تشير المستودعات المؤرشفة إلى أن المشروع لم يعد قيد الصيانة.
+وهذا أفضل من ترك مستودع معطل يبدو نشطًا.
+قبل الأرشفة, فكر في إضافة ملاحظة قصيرة:</p>
 <blockquote>
-<p>project</p>
+<p>كانت هذه تجربة مبكرة ولم تعد تخضع للصيانة. يتوفر التنفيذ الأحدث على [رابط].
+وهذا يحول المشروع المهجور إلى أثر تاريخي واضح.</p>
 </blockquote>
-<p>Stronger:</p>
+<h1>ماذا تفعل بمشاريع الدروس التعليمية</h1>
+<p>تعد الدروس التعليمية مفيدة للتعلم.
+وهي عناصر ضعيفة في محفظة الأعمال ما لم تقم بتوسيعها بشكل كبير.
+يمكن أن يصبح مشروع البرنامج التعليمي أكثر قيمة عندما:</p>
+<ul>
+<li>تعيد تصميم نموذج البيانات؛</li>
+<li>تضيف المصادقة؛</li>
+<li>تضيف الاختبارات؛</li>
+<li>تدمج إمكانية الوصول؛</li>
+<li>تنشره؛</li>
+<li>تضيف قابلية المراقبة؛</li>
+<li>تغير المجال؛</li>
+<li>توثق الاختلافات؛</li>
+<li>تحل مشكلة جديدة.
+كن صادقًا بشأن نقطة البداية.
+لا تقدم عملًا تعليميًا منسوخًا على أنه مشروع أصلي.</li>
+</ul>
+<h1>ماذا تفعل بمشاريع برامج التدريب المكثف</h1>
+<p>غالبًا ما تبدو مشاريع برامج التدريب المكثف متشابهة بين المرشحين.
+لجعل مشروعك مفيدًا:</p>
+<ul>
+<li>استمر في صيانته بعد التخرج؛</li>
+<li>أعد كتابة الأجزاء الضعيفة؛</li>
+<li>أضف اختبارات؛</li>
+<li>قم بنشره؛</li>
+<li>حسّن ملف README؛</li>
+<li>وثق مساهمتك الفردية؛</li>
+<li>اشرح هيكل الفريق؛</li>
+<li>أضف ميزات غير مطلوبة في الدورة التدريبية.
+إذا كان مشروعًا جماعيًّا, فاذكر بوضوح الجزء الذي توليت مسؤوليته.</li>
+</ul>
+<h1>إذا كان أفضل عمل لك خاصًا</h1>
+<p>لا يستطيع العديد من المطورين ذوي الخبرة مشاركة كود الإنتاج.
+وهذا لا يجعل حسابهم على GitHub ضعيفًا تلقائيًا.
+لا يزال بإمكانك تقديم أدلة.</p>
+<h2>اكتب دراسات حالة تقنية</h2>
+<p>صف مشكلة ما دون الكشف عن معلومات سرية.
+قد تشرح دراسة الحالة ما يلي:</p>
+<ul>
+<li>السياق؛</li>
+<li>القيود؛</li>
+<li>مسؤوليتك؛</li>
+<li>الخيارات التي تم النظر فيها؛</li>
+<li>القرار؛</li>
+<li>نهج التنفيذ؛</li>
+<li>النتيجة؛</li>
+<li>الدروس المستفادة.
+احذف:</li>
+<li>أسرار الشركة؛</li>
+<li>أسماء العملاء؛</li>
+<li>البنية السرية؛</li>
+<li>المقاييس الخاصة؛</li>
+<li>التفاصيل التي تكشف عن الهوية.</li>
+</ul>
+<h2>أنشئ نموذجًا عامًا أصغر حجمًا</h2>
+<p>أعد إنشاء النمط التقني العام.
+على سبيل المثال:</p>
+<ul>
+<li>معالجة webhook ذاتية التأثير؛</li>
+<li>التفويض القائم على الأدوار؛</li>
+<li>استراتيجية الترحيل؛</li>
+<li>سلوك إعادة المحاولة في قائمة الانتظار؛</li>
+<li>مسار النشر؛</li>
+<li>مكتبة التحقق من الصحة.
+لا تنسخ كود صاحب العمل.
+أنشئ تنفيذًا مستقلًا.</li>
+</ul>
+<h2>انشر أدوات مساعدة قابلة لإعادة الاستخدام</h2>
+<p>يمكن لمكتبة صغيرة مستخرجة من مشكلة عامة أن تُظهر عملاً ذا مغزى.
+تأكد من أن لديك الحق في نشرها.</p>
+<h2>إنشاء مشروع محفظة مدروس</h2>
+<p>قد يكفي مشروع عام واحد مُحسّن.
+استهدف معايير الجودة التي تستخدمها في عملك المهني.</p>
+<h1>اشرح عملك الخاص في طلبك</h1>
+<p>يكفي بيان قصير:</p>
 <blockquote>
-<p>Multi-tenant task API with Go, PostgreSQL, role-based authorization, and background reminders.</p>
+<p>معظم أعمالي الإنتاجية خاصة, لذا قمت بتضمين مشروع عام يوضح قرارات مماثلة تتعلق بواجهة برمجة التطبيقات (API) وقاعدة البيانات والاختبار والموثوقية. يمكنني مناقشة الأنظمة المهنية بالتفصيل مع احترام السرية.
+هذا يمنع إساءة تفسير مخطط المساهمات الفارغ.</p>
 </blockquote>
-<p>Add relevant topics, but avoid stuffing them with unrelated keywords.</p>
-<p>Useful topics help reviewers and search tools understand the project.</p>
-<h1>Make the language breakdown meaningful</h1>
-<p>GitHub’s language bar can be misleading because generated files, vendor code, notebooks, or compiled output may dominate it.</p>
-<p>Use <code>.gitattributes</code> and repository hygiene where appropriate to keep generated content from distorting the project.</p>
-<p>Do not manipulate the language display merely to appear more skilled.</p>
-<h1>Archive abandoned work</h1>
-<p>Archived repositories communicate that a project is no longer maintained.</p>
-<p>This is better than leaving a broken repository looking active.</p>
-<p>Before archiving, consider adding a short note:</p>
-<blockquote>
-<p>This was an early experiment and is no longer maintained. The newer implementation is available at [link].</p>
-</blockquote>
-<p>That turns an abandoned project into a clear historical artifact.</p>
-<h1>What to do with tutorial projects</h1>
-<p>Tutorials are useful for learning.</p>
-<p>They are weak portfolio pieces unless you significantly extend them.</p>
-<p>A tutorial project can become more valuable when you:</p>
+<h1>إذا لم يكن لديك أي أعمال عامة بعد</h1>
+<p>ابدأ بمشروع واحد.
+لا تحاول ملء ملفك الشخصي بين عشية وضحاها بعشرة مستودعات.
+اختر مشروعًا:</p>
 <ul>
-<li>redesign the data model;</li>
-<li>add authentication;</li>
-<li>add tests;</li>
-<li>introduce accessibility;</li>
-<li>deploy it;</li>
-<li>add observability;</li>
-<li>change the domain;</li>
-<li>document the differences;</li>
-<li>solve a new problem.</li>
+<li>يتوافق مع الدور الذي تستهدفه؛</li>
+<li>يحل مشكلة حقيقية؛</li>
+<li>يمكن إنجازه؛</li>
+<li>يتضمن تحديًا تقنيًا مثيرًا للاهتمام؛</li>
+<li>يمكن شرحه بوضوح.
+تطور واقعي:</li>
 </ul>
-<p>Be honest about the starting point.</p>
-<p>Do not present copied tutorial work as an original project.</p>
-<h1>What to do with bootcamp projects</h1>
-<p>Bootcamp projects often look similar across candidates.</p>
-<p>To make one useful:</p>
-<ul>
-<li>continue maintaining it after graduation;</li>
-<li>rewrite weak areas;</li>
-<li>add tests;</li>
-<li>deploy it;</li>
-<li>improve the README;</li>
-<li>document your individual contribution;</li>
-<li>explain team structure;</li>
-<li>add features not required by the course.</li>
-</ul>
-<p>If it was a group project, state clearly what you owned.</p>
-<h1>If your best work is private</h1>
-<p>Many experienced developers cannot share production code.</p>
-<p>That does not make their GitHub weak by default.</p>
-<p>You can still create evidence.</p>
-<h2>Write technical case studies</h2>
-<p>Describe a problem without exposing proprietary information.</p>
-<p>A case study may explain:</p>
-<ul>
-<li>context;</li>
-<li>constraints;</li>
-<li>your responsibility;</li>
-<li>options considered;</li>
-<li>decision;</li>
-<li>implementation approach;</li>
-<li>result;</li>
-<li>lessons learned.</li>
-</ul>
-<p>Remove:</p>
-<ul>
-<li>company secrets;</li>
-<li>customer names;</li>
-<li>confidential architecture;</li>
-<li>private metrics;</li>
-<li>identifying details.</li>
-</ul>
-<h2>Build a smaller public analogue</h2>
-<p>Recreate the generic technical pattern.</p>
-<p>For example:</p>
-<ul>
-<li>idempotent webhook processing;</li>
-<li>role-based authorization;</li>
-<li>migration strategy;</li>
-<li>queue retry behavior;</li>
-<li>deployment pipeline;</li>
-<li>validation library.</li>
-</ul>
-<p>Do not copy employer code.</p>
-<p>Build an independent implementation.</p>
-<h2>Publish reusable utilities</h2>
-<p>A small library extracted from a general problem can show meaningful work.</p>
-<p>Make sure you have the right to publish it.</p>
-<h2>Create a deliberate portfolio project</h2>
-<p>One polished public project may be enough.</p>
-<p>Aim for the quality standards you use professionally.</p>
-<h1>Explain private work in your application</h1>
-<p>A short statement is enough:</p>
-<blockquote>
-<p>Most of my production work is private, so I have included a public project demonstrating similar API, database, testing, and reliability decisions. I can discuss the professional systems in detail while respecting confidentiality.</p>
-</blockquote>
-<p>This prevents an empty contribution graph from being misread.</p>
-<h1>If you have no public work yet</h1>
-<p>Start with one project.</p>
-<p>Do not attempt to fill your profile overnight with ten repositories.</p>
-<p>Choose a project that:</p>
-<ul>
-<li>aligns with your target role;</li>
-<li>solves a real problem;</li>
-<li>can be finished;</li>
-<li>includes one interesting technical challenge;</li>
-<li>can be explained clearly.</li>
-</ul>
-<p>A realistic progression:</p>
 <ol>
-<li>Define the user and problem.</li>
-<li>Write a short project brief.</li>
-<li>Build the smallest usable version.</li>
-<li>Deploy it.</li>
-<li>Ask a few people to use it.</li>
-<li>Fix what breaks.</li>
-<li>Add tests around important behavior.</li>
-<li>Document decisions.</li>
-<li>Write a case study.</li>
-<li>Pin it.</li>
+<li>حدد المستخدم والمشكلة.</li>
+<li>اكتب موجزًا قصيرًا للمشروع.</li>
+<li>قم ببناء أصغر إصدار قابل للاستخدام.</li>
+<li>قم بنشره.</li>
+<li>اطلب من عدد قليل من الأشخاص استخدامه.</li>
+<li>أصلح الأخطاء.</li>
+<li>أضف اختبارات حول السلوكيات المهمة.</li>
+<li>قم بتوثيق القرارات.</li>
+<li>اكتب دراسة حالة.</li>
+<li>قم بتثبيتها.</li>
 </ol>
-<h1>GitHub profile advice for junior developers</h1>
-<p>A junior profile should emphasize:</p>
+<h1>نصائح حول ملف تعريف GitHub للمطورين المبتدئين</h1>
+<p>يجب أن يركز الملف الشخصي للمبتدئين على:</p>
 <ul>
-<li>learning through finished projects;</li>
-<li>clarity;</li>
-<li>steady improvement;</li>
-<li>ability to explain decisions;</li>
-<li>feedback response;</li>
-<li>fundamentals.</li>
+<li>التعلم من خلال المشاريع المنجزة؛</li>
+<li>الوضوح؛</li>
+<li>التحسين المستمر؛</li>
+<li>القدرة على شرح القرارات؛</li>
+<li>الاستجابة للتعليقات؛</li>
+<li>الأساسيات.
+لا داعي لتقليد هياكل المطورين ذوي الخبرة.
+تجنب إضافة الخدمات الصغيرة وقوائم انتظار الرسائل وKubernetes وقواعد البيانات المتعددة لمجرد إظهار أنك متقدم.
+التطبيق البسيط الذي تم بناؤه بعناية هو مؤشر أقوى.</li>
 </ul>
-<p>You do not need to imitate senior architecture.</p>
-<p>Avoid adding microservices, message queues, Kubernetes, and multiple databases merely to look advanced.</p>
-<p>A simple application built carefully is a stronger signal.</p>
-<h1>GitHub profile advice for career changers</h1>
-<p>Use your previous field as project context.</p>
-<p>Examples:</p>
+<h1>نصائح حول ملف GitHub الشخصي لمن يغيرون مسارهم المهني</h1>
+<p>استخدم مجال عملك السابق كسياق للمشروع.
+أمثلة:</p>
 <ul>
-<li>former teacher: classroom planning or assessment software;</li>
-<li>accountant: reconciliation or invoicing tool;</li>
-<li>logistics professional: shipment or inventory workflow;</li>
-<li>healthcare worker: scheduling or compliance tracker;</li>
-<li>designer: component system or accessibility tool;</li>
-<li>support specialist: issue triage or diagnostic dashboard.</li>
+<li>مدرس سابق: برمجيات تخطيط الفصول الدراسية أو التقييم؛</li>
+<li>محاسب: أداة التسوية أو إصدار الفواتير؛</li>
+<li>متخصص في اللوجستيات: سير عمل الشحن أو المخزون؛</li>
+<li>عامل في مجال الرعاية الصحية: جدولة المواعيد أو أداة تتبع الامتثال؛</li>
+<li>مصمم: نظام مكونات أو أداة إمكانية الوصول؛</li>
+<li>أخصائي الدعم: تصنيف المشكلات أو لوحة معلومات التشخيص.
+هذا يخلق سردًا مهنيًّا لا يُنسى.</li>
 </ul>
-<p>This creates a memorable professional narrative.</p>
-<h1>GitHub profile advice for senior engineers</h1>
-<p>Senior candidates should show judgment more than volume.</p>
-<p>Useful signals include:</p>
+<h1>نصائح حول ملف GitHub الشخصي للمهندسين ذوي الخبرة</h1>
+<p>يجب على المرشحين ذوي الخبرة إظهار الحنكة أكثر من الكم.
+تشمل المؤشرات المفيدة ما يلي:</p>
 <ul>
-<li>architecture notes;</li>
-<li>design trade-offs;</li>
-<li>migration strategy;</li>
-<li>operational thinking;</li>
-<li>testing strategy;</li>
-<li>API stability;</li>
-<li>maintenance;</li>
-<li>issue discussion;</li>
-<li>mentoring through documentation;</li>
-<li>meaningful open-source review.</li>
+<li>ملاحظات حول البنية؛</li>
+<li>المفاضلات التصميمية؛</li>
+<li>استراتيجية الترحيل؛</li>
+<li>التفكير التشغيلي؛</li>
+<li>استراتيجية الاختبار؛</li>
+<li>استقرار واجهة برمجة التطبيقات (API)؛</li>
+<li>الصيانة؛</li>
+<li>مناقشة المشكلات؛</li>
+<li>التوجيه من خلال التوثيق؛</li>
+<li>مراجعة مفيدة لمشاريع مفتوحة المصدر.
+يمكن لمكتبة أنظمة صغيرة ولكن مدروسة أن تعكس خبرة أكبر من تطبيق تجريبي كبير.</li>
 </ul>
-<p>A tiny but thoughtful systems library can communicate more seniority than a large demo application.</p>
-<h1>GitHub profile advice for managers</h1>
-<p>Engineering managers are not expected to maintain the same public coding output as full-time individual contributors.</p>
-<p>A manager’s public technical signal may include:</p>
+<h1>نصائح حول ملف GitHub الشخصي للمديرين</h1>
+<p>لا يُتوقع من مديري الهندسة الحفاظ على نفس حجم إنتاج البرمجة العلني مثل المساهمين الأفراد المتفرغين.
+قد تشمل المؤشرات التقنية العلنية للمدير ما يلي:</p>
 <ul>
-<li>writing;</li>
-<li>talks;</li>
-<li>management frameworks;</li>
-<li>engineering playbooks;</li>
-<li>open-source governance;</li>
-<li>architecture commentary;</li>
-<li>hiring resources;</li>
-<li>technical strategy examples;</li>
-<li>occasional tools or prototypes.</li>
+<li>الكتابة؛</li>
+<li>المحاضرات؛</li>
+<li>أطر العمل الإدارية؛</li>
+<li>أدلة الهندسة؛</li>
+<li>حوكمة البرمجيات مفتوحة المصدر؛</li>
+<li>التعليقات على البنية؛</li>
+<li>موارد التوظيف؛</li>
+<li>أمثلة على الاستراتيجيات التقنية؛</li>
+<li>أدوات أو نماذج أولية من حين لآخر.
+لا تجبر نفسك على ابتكار أنشطة برمجة مصطنعة لتبدو مواكبًا للمستجدات.
+أظهر كيف تفكر وتقود.</li>
 </ul>
-<p>Do not force yourself to create artificial coding activity to look current.</p>
-<p>Show how you think and lead.</p>
-<h1>Make your repositories accessible to nonexperts</h1>
-<p>The first reviewer may not be an engineer.</p>
-<p>Use plain language in the README.</p>
-<p>Explain:</p>
+<h1>اجعل مستودعاتك متاحة لغير المتخصصين</h1>
+<p>قد لا يكون المراجع الأول مهندسًا.
+استخدم لغة بسيطة في ملف README.
+اشرح:</p>
 <ul>
-<li>what the project does;</li>
-<li>why it matters;</li>
-<li>what you contributed;</li>
-<li>what outcome it produced.</li>
+<li>ما الذي يفعله المشروع؛</li>
+<li>لماذا هو مهم؛</li>
+<li>ما الذي ساهمت به؛</li>
+<li>ما هي النتائج التي حققها.
+ثم قدم تفاصيل تقنية أعمق للمهندسين.
+ملف README الجيد يخدم كلا الجمهورين.</li>
 </ul>
-<p>Then provide deeper technical detail for engineers.</p>
-<p>A good README serves both audiences.</p>
-<h1>Connect GitHub to your résumé</h1>
-<p>Your résumé should not merely list:</p>
+<h1>اربط GitHub بسيرتك الذاتية</h1>
+<p>لا ينبغي أن تقتصر سيرتك الذاتية على ذكر:</p>
 <blockquote>
-<p>GitHub: github.com/username</p>
+<p>GitHub: github.com/username
+وجه المراجعين نحو الأعمال ذات الصلة.
+مثال:
+<strong>TaskFlow API</strong> — Go, PostgreSQL, Docker
+صممت واجهة برمجة تطبيقات (API) للمهام متعددة المستأجرين مع ترخيص قائم على الأدوار, واختبارات التكامل, وتذكيرات في الخلفية.
+وثائق حية: [رابط] · المصدر: [رابط]
+هذا يقلل من احتمال تجاهل أفضل مستودع لديك.</p>
 </blockquote>
-<p>Point reviewers toward the relevant work.</p>
-<p>Example:</p>
-<p><strong>TaskFlow API</strong> — Go, PostgreSQL, Docker
-Designed a multi-tenant task API with role-based authorization, integration tests, and background reminders.
-Live docs: [link] · Source: [link]</p>
-<p>This reduces the chance that your best repository is missed.</p>
-<h1>Connect GitHub to your JobsList.dev profile</h1>
-<p>Your JobsList.dev profile can provide context that GitHub does not.</p>
-<p>Use it to highlight:</p>
+<h1>اربط GitHub بملفك الشخصي على JobsList.dev</h1>
+<p>يمكن لملفك الشخصي على JobsList.dev أن يوفر سياقًا لا يوفره GitHub.
+استخدمه لتسليط الضوء على:</p>
 <ul>
-<li>target roles;</li>
-<li>preferred technologies;</li>
-<li>availability;</li>
-<li>remote preference;</li>
-<li>experience level;</li>
-<li>portfolio projects;</li>
-<li>measurable impact;</li>
-<li>career story.</li>
+<li>الوظائف المستهدفة؛</li>
+<li>التقنيات المفضلة؛</li>
+<li>التوافر؛</li>
+<li>تفضيل العمل عن بُعد؛</li>
+<li>مستوى الخبرة؛</li>
+<li>مشاريع محفظتك؛</li>
+<li>التأثير القابل للقياس؛</li>
+<li>مسيرتك المهنية.
+يوفر GitHub الأدلة.
+أما ملفك الشخصي المهني فيشرح كيف ترتبط تلك الأدلة بالوظيفة التي تريدها.</li>
 </ul>
-<p>GitHub provides evidence.</p>
-<p>Your professional profile explains how that evidence relates to the job you want.</p>
-<h1>Add projects to your résumé selectively</h1>
-<p>Do not list every repository.</p>
-<p>Choose the projects that best match the role.</p>
-<p>A project entry should include:</p>
+<h1>أضف المشاريع إلى سيرتك الذاتية بشكل انتقائي</h1>
+<p>لا تدرج كل مستودع.
+اختر المشاريع التي تتناسب بشكل أفضل مع الدور المطلوب.
+يجب أن يتضمن وصف المشروع ما يلي:</p>
 <ul>
-<li>project name;</li>
-<li>concise purpose;</li>
-<li>relevant technologies;</li>
-<li>your technical decisions;</li>
-<li>outcome or usage;</li>
-<li>source and demo links.</li>
+<li>اسم المشروع؛</li>
+<li>الغرض الموجز؛</li>
+<li>التقنيات ذات الصلة؛</li>
+<li>قراراتك التقنية؛</li>
+<li>النتيجة أو الاستخدام؛</li>
+<li>روابط المصدر والعرض التوضيحي.
+ضعيف:</li>
 </ul>
-<p>Weak:</p>
 <blockquote>
-<p>Built a full-stack application using React and Node.</p>
+<p>قمت بإنشاء تطبيق متكامل باستخدام React و Node.
+أقوى:
+قمت بإنشاء ونشر تطبيق جدولة متعدد المستأجرين باستخدام React و TypeScript و Node.js و PostgreSQL. صممت أذونات على نطاق المؤسسة, وأضفت اختبارات تكامل للتفويض, وقللت من صعوبات بدء الاستخدام بعد اختبار سير العمل مع ثمانية مستخدمين.</p>
 </blockquote>
-<p>Stronger:</p>
+<h1>استخدم مقاييس المشروع بأمانة</h1>
+<p>تشمل المقاييس المحتملة:</p>
+<ul>
+<li>عدد المستخدمين؛</li>
+<li>عدد التنزيلات؛</li>
+<li>النجوم؛</li>
+<li>عمليات تثبيت الحزم؛</li>
+<li>الأداء؛</li>
+<li>وقت تشغيل الاختبار؛</li>
+<li>تكرار النشر؛</li>
+<li>وقت الاستجابة؛</li>
+<li>حجم البيانات؛</li>
+<li>حل المشكلات؛</li>
+<li>درجة سهولة الوصول؛</li>
+<li>خفض التكلفة؛</li>
+<li>وقت البناء.
+لا تختلق الأرقام.
+الأرقام الحقيقية الصغيرة لا تزال مفيدة.</li>
+</ul>
 <blockquote>
-<p>Built and deployed a multi-tenant scheduling application using React, TypeScript, Node.js, and PostgreSQL. Designed organization-scoped permissions, added integration tests for authorization, and reduced onboarding friction after testing the workflow with eight users.</p>
+<p>يُستخدم من قبل ثلاث مؤسسات محلية
+أكثر مصداقية من:
+تم بناء منصة مؤسسية قابلة للتوسع
+دون أي دليل.</p>
 </blockquote>
-<h1>Use project metrics honestly</h1>
-<p>Potential metrics include:</p>
+<h1>الممارسات الأمنية السليمة هي مؤشر للتوظيف</h1>
+<p>راجع مستودعاتك العامة بحثًا عن:</p>
 <ul>
-<li>users;</li>
-<li>downloads;</li>
-<li>stars;</li>
-<li>package installs;</li>
-<li>performance;</li>
-<li>test runtime;</li>
-<li>deployment frequency;</li>
-<li>response time;</li>
-<li>data volume;</li>
-<li>issue resolution;</li>
-<li>accessibility score;</li>
-<li>cost reduction;</li>
-<li>build time.</li>
+<li>الأسرار؛</li>
+<li>ملفات <code>.env</code>؛</li>
+<li>عناوين URL الخاصة؛</li>
+<li>بيانات العملاء؛</li>
+<li>الرموز المميزة؛</li>
+<li>بيانات الاعتماد؛</li>
+<li>المعلومات الشخصية؛</li>
+<li>التبعيات المعرضة للخطر؛</li>
+<li>التكوين الافتراضي غير الآمن.
+يمكن أن يؤدي تسرب بيانات الاعتماد العامة إلى الإضرار بالثقة بشكل خطير.
+استخدم:</li>
+<li>فحص الأسرار؛</li>
+<li>تنبيهات التبعيات؛</li>
+<li>ملفات <code>.gitignore</code>؛</li>
+<li>أمثلة البيئات؛</li>
+<li>الاختبارات الآلية؛</li>
+<li>وثائق الأمان عند الاقتضاء.</li>
 </ul>
-<p>Do not invent numbers.</p>
-<p>Small real numbers are still useful.</p>
-<blockquote>
-<p>Used by three local organizations</p>
-</blockquote>
-<p>is more credible than:</p>
-<blockquote>
-<p>Built a scalable enterprise platform</p>
-</blockquote>
-<p>with no evidence.</p>
-<h1>Security hygiene is a hiring signal</h1>
-<p>Review your public repositories for:</p>
+<h1>تعد إمكانية الوصول مؤشراً للتوظيف</h1>
+<p>بالنسبة لمشاريع الواجهة الأمامية, تحقق من:</p>
 <ul>
-<li>secrets;</li>
-<li><code>.env</code> files;</li>
-<li>private URLs;</li>
-<li>customer data;</li>
-<li>tokens;</li>
-<li>credentials;</li>
-<li>personal information;</li>
-<li>vulnerable dependencies;</li>
-<li>unsafe default configuration.</li>
+<li>HTML الدلالي؛</li>
+<li>إمكانية الوصول عبر لوحة المفاتيح؛</li>
+<li>حالات التركيز؛</li>
+<li>التسميات؛</li>
+<li>التباين؛</li>
+<li>دعم الحركة المحدودة؛</li>
+<li>سلوك قارئ الشاشة.
+اذكر قرارات إمكانية الوصول في ملف README.
+هذا يميز عملك على الفور عن العديد من مشاريع المحافظ.</li>
 </ul>
-<p>A public credential leak can seriously damage trust.</p>
-<p>Use:</p>
+<h1>الجاهزية التشغيلية هي مؤشر للتوظيف</h1>
+<p>بالنسبة لأعمال الواجهة الخلفية والمنصات والمشاريع الشاملة (full-stack), ضع في اعتبارك تضمين:</p>
 <ul>
-<li>secret scanning;</li>
-<li>dependency alerts;</li>
-<li><code>.gitignore</code>;</li>
-<li>environment examples;</li>
-<li>automated tests;</li>
-<li>security documentation when relevant.</li>
+<li>فحوصات الحالة؛</li>
+<li>التسجيل المنظم؛</li>
+<li>معالجة الأخطاء؛</li>
+<li>نقاط رصد؛</li>
+<li>إجراءات الترحيل؛</li>
+<li>افتراضات النسخ الاحتياطي؛</li>
+<li>سلوك إعادة المحاولة؛</li>
+<li>الإيدمبوتنتية؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>وثائق النشر.
+لا تبني منصة إنتاجية بناءً على عرض توضيحي صغير.
+أظهر أنك تفهم ما الذي سيكون مهمًا إذا اعتمد عليه مستخدمون حقيقيون.</li>
 </ul>
-<h1>Accessibility is a hiring signal</h1>
-<p>For frontend projects, check:</p>
+<h1>الكود الذي تم إنشاؤه بواسطة الذكاء الاصطناعي وملفك الشخصي على GitHub</h1>
+<p>استخدام أدوات الذكاء الاصطناعي لا يضعف المشروع تلقائيًا.
+أما تقديم كود لا يمكنك شرحه, فهذا يضعفه.
+قبل النشر, تأكد من قدرتك على:</p>
 <ul>
-<li>semantic HTML;</li>
-<li>keyboard access;</li>
-<li>focus states;</li>
-<li>labels;</li>
-<li>contrast;</li>
-<li>reduced-motion support;</li>
-<li>screen-reader behavior.</li>
+<li>شرح كل قرار تصميمي رئيسي؛</li>
+<li>تحديد القيود؛</li>
+<li>تعديل المتطلبات؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>وصف ما كتبته بنفسك؛</li>
+<li>التحقق من الكود الذي تم إنشاؤه؛</li>
+<li>اختبار السلوكيات الحساسة من الناحية الأمنية.
+لا تملأ ملفك الشخصي بعشرات المستودعات السطحية التي تم إنشاؤها بواسطة الذكاء الاصطناعي.
+مشروع واحد تفهمه بعمق هو أكثر فائدة بكثير.</li>
 </ul>
-<p>Mention accessibility decisions in the README.</p>
-<p>This distinguishes your work from many portfolio projects immediately.</p>
-<h1>Operational readiness is a hiring signal</h1>
-<p>For backend, platform, and full-stack work, consider including:</p>
+<h1>الأخطاء الشائعة في ملف GitHub الشخصي</h1>
 <ul>
-<li>health checks;</li>
-<li>structured logging;</li>
-<li>error handling;</li>
-<li>monitoring hooks;</li>
-<li>migration procedures;</li>
-<li>backup assumptions;</li>
-<li>retry behavior;</li>
-<li>idempotency;</li>
-<li>rate limiting;</li>
-<li>deployment documentation.</li>
+<li>تثبيت مشاريع تعليمية.</li>
+<li>عدم وجود أوصاف للمستودعات.</li>
+<li>روابط نشطة معطلة.</li>
+<li>ملفات README فارغة.</li>
+<li>تعليمات إعداد فاشلة.</li>
+<li>أسرار تم التزامها.</li>
+<li>عدم وجود تفسير لمساهمتك في المشاريع الجماعية.</li>
+<li>العشرات من المستودعات غير المكتملة.</li>
+<li>ملف README مكتظ في الملف الشخصي.</li>
+<li>ادعاءات مضللة بشأن الأصالة.</li>
+<li>عدم وجود اختبارات في أي مكان.</li>
+<li>ملفات ضخمة تم إنشاؤها آليًا.</li>
+<li>عدم وجود ترخيص يشجع على إعادة الاستخدام.</li>
+<li>غموض في الغرض من المشروع.</li>
+<li>التركيز على تحقيق سلسلة من المساهمات المتتالية.</li>
+<li>سرد التقنيات دون توضيح الأسباب وراء الاختيار.</li>
 </ul>
-<p>Do not build a production platform around a tiny demo.</p>
-<p>Show that you understand what would matter if real users depended on it.</p>
-<h1>AI-generated code and your GitHub profile</h1>
-<p>Using AI tools does not automatically weaken a project.</p>
-<p>Submitting code you cannot explain does.</p>
-<p>Before publishing, make sure you can:</p>
+<h1>عملية تنظيف عملية لـ GitHub مدتها ساعتان</h1>
+<h2>أول 15 دقيقة: أساسيات الملف الشخصي</h2>
 <ul>
-<li>explain every major design decision;</li>
-<li>identify limitations;</li>
-<li>modify requirements;</li>
-<li>debug failures;</li>
-<li>describe what you wrote yourself;</li>
-<li>verify generated code;</li>
-<li>test security-sensitive behavior.</li>
+<li>تحديث السيرة الذاتية.</li>
+<li>التحقق من روابط الاتصال.</li>
+<li>إضافة ملف README للملف الشخصي أو تبسيطه.</li>
+<li>إزالة الروابط المعطلة.</li>
 </ul>
-<p>Do not fill your profile with dozens of shallow AI-generated repositories.</p>
-<p>One project you understand deeply is far more useful.</p>
-<h1>Common GitHub profile mistakes</h1>
+<h2>الـ 20 دقيقة التالية: اختيار المشاريع المثبتة</h2>
 <ul>
-<li>Pinning tutorial projects.</li>
-<li>Having no repository descriptions.</li>
-<li>Broken live links.</li>
-<li>Empty READMEs.</li>
-<li>Setup instructions that fail.</li>
-<li>Committed secrets.</li>
-<li>No explanation of your contribution to group projects.</li>
-<li>Dozens of unfinished repositories.</li>
-<li>Overloaded profile README.</li>
-<li>Misleading claims of originality.</li>
-<li>No tests anywhere.</li>
-<li>Huge generated files.</li>
-<li>No license where reuse is encouraged.</li>
-<li>Unclear project purpose.</li>
-<li>Optimizing for contribution streaks.</li>
-<li>Listing technologies without explaining decisions.</li>
+<li>اختيار ما بين ثلاثة إلى ستة مستودعات.</li>
+<li>إلغاء تثبيت الأعمال الضعيفة أو غير ذات الصلة.</li>
+<li>أرشِف المشاريع المهجورة عند الاقتضاء.</li>
+<li>أضف أوصافًا وموضوعات واضحة.</li>
 </ul>
-<h1>A practical two-hour GitHub cleanup</h1>
-<h2>First 15 minutes: profile basics</h2>
+<h2>الـ45 دقيقة التالية: تحسين ملف README الأفضل</h2>
+<p>أضف:</p>
 <ul>
-<li>Update your bio.</li>
-<li>Verify contact links.</li>
-<li>Add or simplify the profile README.</li>
-<li>Remove broken links.</li>
+<li>ملخص من سطر واحد؛</li>
+<li>رابط نشط أو لقطة شاشة؛</li>
+<li>المشكلة؛</li>
+<li>الميزات؛</li>
+<li>القرارات التقنية؛</li>
+<li>الإعداد؛</li>
+<li>الاختبارات؛</li>
+<li>القيود؛</li>
+<li>الخطوات التالية.</li>
 </ul>
-<h2>Next 20 minutes: choose pinned projects</h2>
+<h2>الـ20 دقيقة التالية: تنظيم المستودع</h2>
+<p>تحقق من:</p>
 <ul>
-<li>Select three to six repositories.</li>
-<li>Unpin weak or irrelevant work.</li>
-<li>Archive abandoned projects where appropriate.</li>
-<li>Add clear descriptions and topics.</li>
+<li><code>.gitignore</code>؛</li>
+<li>الأسرار؛</li>
+<li>مثال البيئة؛</li>
+<li>التبعيات؛</li>
+<li>الترخيص؛</li>
+<li>الملفات التي تم إنشاؤها؛</li>
+<li>الفرع الافتراضي؛</li>
+<li>المشكلات المفتوحة.</li>
 </ul>
-<h2>Next 45 minutes: improve the best README</h2>
-<p>Add:</p>
+<h2>الـ20 دقيقة الأخيرة: ربط ذلك ببحثك عن وظيفة</h2>
 <ul>
-<li>one-line summary;</li>
-<li>live link or screenshot;</li>
-<li>problem;</li>
-<li>features;</li>
-<li>technical decisions;</li>
-<li>setup;</li>
-<li>tests;</li>
-<li>limitations;</li>
-<li>next steps.</li>
+<li>أضف روابط المشاريع إلى سيرتك الذاتية.</li>
+<li>أضفها إلى JobsList.dev.</li>
+<li>قم بتحديث محفظتك.</li>
+<li>قم بإعداد عرض توضيحي مدته دقيقتان.</li>
+<li>تحقق من كل شيء في نافذة متصفح خاصة.</li>
 </ul>
-<h2>Next 20 minutes: repository hygiene</h2>
-<p>Check:</p>
+<h1>كيف تراجع ملفك الشخصي كمدير توظيف</h1>
+<p>افتح ملفك الشخصي في متصفح خاص وامنح نفسك دقيقتين.
+اسأل نفسك:</p>
 <ul>
-<li><code>.gitignore</code>;</li>
-<li>secrets;</li>
-<li>environment example;</li>
-<li>dependencies;</li>
-<li>license;</li>
-<li>generated files;</li>
-<li>default branch;</li>
-<li>open issues.</li>
+<li>هل يمكنني معرفة نوع المطور الذي يمثله هذا الشخص؟</li>
+<li>هل الدور المستهدف واضح؟</li>
+<li>هل المشاريع الأقوى واضحة؟</li>
+<li>هل كل مستودع مثبت يفسر نفسه؟</li>
+<li>هل هناك شيء يمكنني تشغيله أو عرضه؟</li>
+<li>هل تبدو المشاريع مكتملة؟</li>
+<li>هل القرارات والمفاضلات موثقة؟</li>
+<li>هل توجد دلائل على إجراء الاختبارات؟</li>
+<li>هل الروابط تعمل؟</li>
+<li>هل يوجد أي شيء يشتت الانتباه أو يسبب الارتباك؟</li>
+<li>هل سأعرف ما الذي يجب أن أسأله في المقابلة؟
+عندما تكون الإجابة على العديد من هذه الأسئلة بـ«لا», قم بتصحيح العرض التقديمي قبل البدء في إنشاء مشروع آخر.</li>
 </ul>
-<h2>Final 20 minutes: connect it to your job search</h2>
+<h1>قائمة مراجعة ملف GitHub الشخصي</h1>
+<h2>الملف الشخصي</h2>
 <ul>
-<li>Add project links to your résumé.</li>
-<li>Add them to JobsList.dev.</li>
-<li>Update your portfolio.</li>
-<li>Prepare a two-minute walkthrough.</li>
-<li>Verify everything in a private browser window.</li>
+<li>اسم وسيرة ذاتية واضحان</li>
+<li>صورة احترافية أو صورة رمزية</li>
+<li>رابط لمحفظة الأعمال الجارية</li>
+<li>وسيلة الاتصال</li>
+<li>ملف README موجز للملف الشخصي</li>
+<li>الوضوح في تحديد الدور المستهدف أو مجال التركيز</li>
 </ul>
-<h1>How to review your profile like a hiring manager</h1>
-<p>Open your profile in a private browser and give yourself two minutes.</p>
-<p>Ask:</p>
+<h2>المستودعات المثبتة</h2>
 <ul>
-<li>Can I tell what kind of developer this person is?</li>
-<li>Is the target role clear?</li>
-<li>Are the strongest projects obvious?</li>
-<li>Does each pinned repository explain itself?</li>
-<li>Is there something I can run or view?</li>
-<li>Do the projects appear finished?</li>
-<li>Are decisions and trade-offs documented?</li>
-<li>Are there signs of testing?</li>
-<li>Are links working?</li>
-<li>Is anything distracting or confusing?</li>
-<li>Would I know what to ask in an interview?</li>
+<li>من ثلاثة إلى ستة اختيارات مدروسة</li>
+<li>ذات صلة بالأدوار المستهدفة</li>
+<li>مشروع واحد على الأقل مكتمل</li>
+<li>مشروع واحد على الأقل يتسم بالعمق التقني</li>
+<li>أعمال تعاونية إن توفرت</li>
+<li>عدم وجود نسخ مقلدة واضحة من الدروس التعليمية</li>
 </ul>
-<p>When the answer to several of these is no, fix the presentation before building another project.</p>
-<h1>GitHub profile checklist</h1>
-<h2>Profile</h2>
+<h2>جودة المستودع</h2>
 <ul>
-<li>Clear name and bio</li>
-<li>Professional photo or avatar</li>
-<li>Working portfolio link</li>
-<li>Contact method</li>
-<li>Concise profile README</li>
-<li>Target role or focus visible</li>
+<li>وصف واضح</li>
+<li>ملف README مفيد</li>
+<li>عرض توضيحي مباشر أو لقطة شاشة</li>
+<li>تعليمات إعداد موثوقة</li>
+<li>اختبارات</li>
+<li>هيكل منطقي</li>
+<li>سجل التزامات نظيف</li>
+<li>لا توجد أسرار</li>
+<li>قيود معروفة</li>
+<li>ترخيص عند الاقتضاء</li>
 </ul>
-<h2>Pinned repositories</h2>
+<h2>الارتباط بالبحث عن وظيفة</h2>
 <ul>
-<li>Three to six deliberate choices</li>
-<li>Relevant to target roles</li>
-<li>At least one completed project</li>
-<li>At least one project with technical depth</li>
-<li>Collaborative work when available</li>
-<li>No obvious tutorial clones</li>
+<li>مستودعات ذات صلة مرتبطة بالسيرة الذاتية</li>
+<li>مشاريع مضافة إلى JobsList.dev</li>
+<li>إعداد شرح تفصيلي للمشروع</li>
+<li>شرح الأعمال الخاصة عند الضرورة</li>
+<li>التحقق من الادعاءات والمقاييس</li>
 </ul>
-<h2>Repository quality</h2>
-<ul>
-<li>Clear description</li>
-<li>Useful README</li>
-<li>Live demo or screenshot</li>
-<li>Reliable setup instructions</li>
-<li>Tests</li>
-<li>Sensible structure</li>
-<li>Clean commit history</li>
-<li>No secrets</li>
-<li>Known limitations</li>
-<li>License when appropriate</li>
-</ul>
-<h2>Job-search connection</h2>
-<ul>
-<li>Relevant repositories linked from résumé</li>
-<li>Projects added to JobsList.dev</li>
-<li>Project walkthrough prepared</li>
-<li>Private work explained when necessary</li>
-<li>Claims and metrics verified</li>
-</ul>
-<h1>The takeaway</h1>
-<p>Your GitHub profile is not a productivity scoreboard.</p>
-<p>It is a collection of evidence.</p>
-<p>The strongest profile does not have the most repositories, the longest streak, or the largest badge collection. It makes a small amount of strong work easy to understand.</p>
-<p>Choose your target role.</p>
-<p>Pin the projects that support it.</p>
-<p>Write READMEs that explain the problem, decisions, trade-offs, and limitations.</p>
-<p>Keep the repositories clean and safe.</p>
-<p>Show tests where they matter.</p>
-<p>Make live work easy to view.</p>
-<p>Explain private experience honestly.</p>
-<p>Then connect the strongest evidence directly to your résumé and professional profile.</p>
-<p>Most hiring managers will not study your GitHub for an hour.</p>
-<p>Your job is to make the first two minutes useful.</p>
-<p><em>Ready to turn your work into a stronger hiring signal? <a href="/auth/register?role=EMPLOYEE">Create a free profile on JobsList.dev</a>, link your best projects, and help companies understand what you can build.</em></p>
-5:["locale","ar","d"]
-6:["slug","github-profile-that-gets-you-hired","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","github-profile-that-gets-you-hired","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"github-profile-that-gets-you-hired\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","github-profile-that-gets-you-hired","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Make Your GitHub Profile Work as a Hiring Signal\",\"description\":\"Learn what hiring managers actually notice when they open a developer’s GitHub profile, how to choose projects, improve READMEs, present private work, and turn your profile into credible evidence for job applications.\",\"datePublished\":\"2026-07-18T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Make Your GitHub Profile Work as a Hiring Signal","date":"2026-07-18T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":25,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Make Your GitHub Profile Work as a Hiring Signal | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"Learn what hiring managers actually notice when they open a developer’s GitHub profile, how to choose projects, improve READMEs, present private work, and turn your profile into credible evidence for job applications."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Make Your GitHub Profile Work as a Hiring Signal"}],["$","meta","15",{"property":"og:description","content":"Learn what hiring managers actually notice when they open a developer’s GitHub profile, how to choose projects, improve READMEs, present private work, and turn your profile into credible evidence for job applications."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-18T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Make Your GitHub Profile Work as a Hiring Signal"}],["$","meta","25",{"name":"twitter:description","content":"Learn what hiring managers actually notice when they open a developer’s GitHub profile, how to choose projects, improve READMEs, present private work, and turn your profile into credible evidence for job applications."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>النقطة الأساسية</h1>
+<p>ملفك الشخصي على GitHub ليس لوحة نتائج للإنتاجية.
+إنه مجموعة من الأدلة.
+الملف الشخصي الأقوى ليس هو الذي يحتوي على أكبر عدد من المستودعات, أو أطول سلسلة نشاط, أو أكبر مجموعة من الشارات. بل هو الذي يجعل كمية صغيرة من الأعمال القوية سهلة الفهم.
+اختر الدور الذي تستهدفه.
+ثبّت المشاريع التي تدعمه.
+اكتب ملفات README تشرح المشكلة, والقرارات, والمفاضلات, والقيود.
+حافظ على نظافة وأمان المستودعات.
+اعرض الاختبارات في الأماكن المهمة.
+اجعل العمل المباشر سهل العرض.
+اشرح خبرتك الخاصة بأمانة.
+ثم اربط أقوى الأدلة مباشرةً بسيرتك الذاتية وملفك الشخصي المهني.
+لن يقضي معظم مديري التوظيف ساعة كاملة في دراسة حسابك على GitHub.
+مهمتك هي جعل أول دقيقتين مفيدتين.
+<em>هل أنت مستعد لتحويل عملك إلى مؤشر توظيف أقوى؟ <a href="/auth/register?role=EMPLOYEE">أنشئ ملفًا شخصيًا مجانيًّا على JobsList.dev</a>, واربط أفضل مشاريعك, وساعد الشركات على فهم ما يمكنك إنشاؤه.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف تجعل ملفك الشخصي على GitHub بمثابة مؤشر توظيف\",\"description\":\"تعرف على ما يلاحظه مديرو التوظيف فعليًّا عند فتح ملف GitHub الخاص بالمطور, وكيفية اختيار المشاريع, وتحسين ملفات README, وعرض الأعمال الخاصة, وتحويل ملفك الشخصي إلى دليل موثوق به عند التقدم للوظائف.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-18T00:00:00.000Z\",\"dateModified\":\"2026-07-18T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/github-profile-that-gets-you-hired/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيف تجعل ملفك الشخصي على GitHub بمثابة مؤشر توظيف"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"تعرف على ما يلاحظه مديرو التوظيف فعليًّا عند فتح ملف GitHub الخاص بالمطور, وكيفية اختيار المشاريع, وتحسين ملفات README, وعرض الأعمال الخاصة, وتحويل ملفك الشخصي إلى دليل موثوق به عند التقدم للوظائف."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-18T00:00:00.000Z","children":"17 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[27," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","المسيرة المهنية",{"className":"badge-gray","children":"المسيرة المهنية"}],["$","span","GitHub",{"className":"badge-gray","children":"GitHub"}],["$","span","محفظة الأعمال",{"className":"badge-gray","children":"محفظة الأعمال"}],["$","span","السيرة الذاتية",{"className":"badge-gray","children":"السيرة الذاتية"}],["$","span","المصدر المفتوح",{"className":"badge-gray","children":"المصدر المفتوح"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف تجعل ملفك الشخصي على GitHub بمثابة مؤشر توظيف | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"تعرف على ما يلاحظه مديرو التوظيف فعليًّا عند فتح ملف GitHub الخاص بالمطور, وكيفية اختيار المشاريع, وتحسين ملفات README, وعرض الأعمال الخاصة, وتحويل ملفك الشخصي إلى دليل موثوق به عند التقدم للوظائف."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف تجعل ملفك الشخصي على GitHub بمثابة مؤشر توظيف"}],["$","meta","15",{"property":"og:description","content":"تعرف على ما يلاحظه مديرو التوظيف فعليًّا عند فتح ملف GitHub الخاص بالمطور, وكيفية اختيار المشاريع, وتحسين ملفات README, وعرض الأعمال الخاصة, وتحويل ملفك الشخصي إلى دليل موثوق به عند التقدم للوظائف."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/github-profile-that-gets-you-hired/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-18T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيف تجعل ملفك الشخصي على GitHub بمثابة مؤشر توظيف"}],["$","meta","27",{"name":"twitter:description","content":"تعرف على ما يلاحظه مديرو التوظيف فعليًّا عند فتح ملف GitHub الخاص بالمطور, وكيفية اختيار المشاريع, وتحسين ملفات README, وعرض الأعمال الخاصة, وتحويل ملفك الشخصي إلى دليل موثوق به عند التقدم للوظائف."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

@@ -1,17 +1,17 @@
-2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-9d43d7f9e0525069.js"],""]
-3:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-9d43d7f9e0525069.js"],"Image"]
+2:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-25f559d39fb75d8f.js"],""]
+3:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","308","static/chunks/app/blog/%5Bslug%5D/page-25f559d39fb75d8f.js"],"Image"]
 5:I[5613,[],""]
 7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-4:Td93d,<p>“Tell me about yourself” is usually the first substantial question in a developer interview.</p>
+8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:Tda0b,<p>“Tell me about yourself” is usually the first substantial question in a developer interview.</p>
 <p>It is also one of the most predictable.</p>
 <p>Yet many candidates struggle with it because the question is so broad. Some begin with where they grew up, recite every job on their résumé in chronological order, list every technology they have used, or speak for several minutes without explaining why they are interested in the role.</p>
 <p>Others give an answer so short that the interviewer learns almost nothing:</p>
 <blockquote>
-<p>“I’m a software developer with five years of experience, mostly using JavaScript.”</p>
+<p>“I&#39;m a software developer with five years of experience, mostly using JavaScript.”</p>
 </blockquote>
 <p>Neither approach helps you control the conversation.</p>
 <p>A strong answer should give the interviewer a clear professional introduction, highlight evidence relevant to the role, and explain why the opportunity makes sense as your next step.</p>
@@ -91,7 +91,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Keep this section to one or two sentences.</p>
 <h2>Example</h2>
 <blockquote>
-<p>I’m a senior backend engineer focused on Go, PostgreSQL, and transaction-heavy systems. At Northstar, I currently own the reconciliation and settlement services used by our payments platform.</p>
+<p>I&#39;m a senior backend engineer focused on Go, PostgreSQL, and transaction-heavy systems. At Northstar, I currently own the reconciliation and settlement services used by our payments platform.</p>
 </blockquote>
 <p>This immediately establishes:</p>
 <ul>
@@ -102,12 +102,12 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 </ul>
 <h2>Junior example</h2>
 <blockquote>
-<p>I’m an early-career full-stack developer building TypeScript applications with React, Node.js, and PostgreSQL. My strongest work so far is a deployed scheduling platform with account permissions, automated tests, and several real users.</p>
+<p>I&#39;m an early-career full-stack developer building TypeScript applications with React, Node.js, and PostgreSQL. My strongest work so far is a deployed scheduling platform with account permissions, automated tests, and several real users.</p>
 </blockquote>
 <p>The junior candidate leads with evidence rather than apologizing for limited employment history.</p>
 <h2>Career-changer example</h2>
 <blockquote>
-<p>I’m a junior software developer focused on Python and backend automation. Before moving into development, I worked in logistics operations, where I began automating reporting and inventory workflows and discovered that software engineering was the work I wanted to pursue full time.</p>
+<p>I&#39;m a junior software developer focused on Python and backend automation. Before moving into development, I worked in logistics operations, where I began automating reporting and inventory workflows and discovered that software engineering was the work I wanted to pursue full time.</p>
 </blockquote>
 <p>This establishes the transition as deliberate and connected to previous experience.</p>
 <h1>Part two: Relevant past</h1>
@@ -181,158 +181,158 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>A useful closing should mention something specific from:</p>
 <ul>
 <li>the job description;</li>
-<li>the company’s product;</li>
+<li>the company&#39;s product;</li>
 <li>the engineering challenges;</li>
 <li>the team structure;</li>
-<li>the role’s scope;</li>
+<li>the role&#39;s scope;</li>
 <li>an engineering article;</li>
 <li>the interview conversation so far.</li>
 </ul>
 <h2>Example</h2>
 <blockquote>
-<p>I’m now looking for a role where reliability and data correctness are central product concerns rather than supporting responsibilities. Your work on financial infrastructure, especially the ownership this role has over settlement systems, is why the opportunity stood out to me.</p>
+<p>I&#39;m now looking for a role where reliability and data correctness are central product concerns rather than supporting responsibilities. Your work on financial infrastructure, especially the ownership this role has over settlement systems, is why the opportunity stood out to me.</p>
 </blockquote>
 <p>This makes the move feel intentional.</p>
 <h2>Weak closing</h2>
 <blockquote>
-<p>I’m looking for new challenges and opportunities to grow.</p>
+<p>I&#39;m looking for new challenges and opportunities to grow.</p>
 </blockquote>
 <p>This could apply to any job.</p>
 <h2>Stronger closing</h2>
 <blockquote>
-<p>I’m looking for a senior individual-contributor role where I can own backend services from design through production and mentor other engineers. The combination of payments infrastructure and hands-on technical leadership in this position is closely aligned with what I want to do next.</p>
+<p>I&#39;m looking for a senior individual-contributor role where I can own backend services from design through production and mentor other engineers. The combination of payments infrastructure and hands-on technical leadership in this position is closely aligned with what I want to do next.</p>
 </blockquote>
 <h1>A complete answer formula</h1>
 <p>Use this template as a starting point:</p>
 <blockquote>
-<p>I’m a [level and role] focused on [technical specialty or problem area]. In my current role at [company or project], I [describe primary scope or ownership].</p>
+<p>I&#39;m a [level and role] focused on [technical specialty or problem area]. In my current role at [company or project], I [describe primary scope or ownership].</p>
 <p>Before that, I [briefly describe one or two relevant experiences that explain your path]. That work helped me develop strength in [capability relevant to the role].</p>
-<p>One project I’m especially proud of is [project or problem]. I [describe your contribution], which resulted in [technical, user, team, or business result].</p>
-<p>I’m now looking for [kind of role, scope, or environment], and this opportunity stood out because [specific connection to the company or job].</p>
+<p>One project I&#39;m especially proud of is [project or problem]. I [describe your contribution], which resulted in [technical, user, team, or business result].</p>
+<p>I&#39;m now looking for [kind of role, scope, or environment], and this opportunity stood out because [specific connection to the company or job].</p>
 </blockquote>
 <p>Do not fill every blank with several sentences.</p>
 <p>The structure should remain concise.</p>
 <h1>Sample answer for a mid-level backend developer</h1>
 <blockquote>
-<p>I’m a backend engineer with about four years of experience building TypeScript and PostgreSQL services for SaaS products. In my current role, I own several APIs related to account provisioning, permissions, and subscription management.</p>
+<p>I&#39;m a backend engineer with about four years of experience building TypeScript and PostgreSQL services for SaaS products. In my current role, I own several APIs related to account provisioning, permissions, and subscription management.</p>
 <p>I started as a full-stack developer at a smaller company, which gave me experience following features from the interface through the API and database. Over time, I found that I was most interested in backend architecture, data integrity, and production reliability.</p>
-<p>A recent project I’m proud of was redesigning our organization-membership model. The original structure could not support users belonging to multiple accounts, so I led the schema migration, added backward-compatible APIs, and introduced authorization tests. That allowed us to launch enterprise account switching without disrupting existing customers.</p>
-<p>I’m looking for a role where I can take on larger backend systems and deepen my ownership of architecture and reliability. Your work on multi-tenant infrastructure and the opportunity to own services end to end are what attracted me to this position.</p>
+<p>A recent project I&#39;m proud of was redesigning our organization-membership model. The original structure could not support users belonging to multiple accounts, so I led the schema migration, added backward-compatible APIs, and introduced authorization tests. That allowed us to launch enterprise account switching without disrupting existing customers.</p>
+<p>I&#39;m looking for a role where I can take on larger backend systems and deepen my ownership of architecture and reliability. Your work on multi-tenant infrastructure and the opportunity to own services end to end are what attracted me to this position.</p>
 </blockquote>
 <h1>Sample answer for a frontend developer</h1>
 <blockquote>
-<p>I’m a frontend product engineer focused on React, TypeScript, accessibility, and design systems. At my current company, I build customer-facing account and analytics workflows and work closely with two product designers and our API team.</p>
+<p>I&#39;m a frontend product engineer focused on React, TypeScript, accessibility, and design systems. At my current company, I build customer-facing account and analytics workflows and work closely with two product designers and our API team.</p>
 <p>Earlier in my career, I worked across the full stack, but I became most interested in the part of engineering where browser behavior, design, and product decisions meet. That led me to specialize in frontend architecture and accessible interaction design.</p>
 <p>Most recently, I led the migration of our dashboard into a shared component system. We reduced duplicated UI code, improved keyboard navigation, and shortened the time needed to build new account-management screens.</p>
-<p>I’m interested in this role because the frontend team appears to have genuine product and design ownership rather than only implementing finished mockups. That is the kind of collaboration and responsibility I want in my next position.</p>
+<p>I&#39;m interested in this role because the frontend team appears to have genuine product and design ownership rather than only implementing finished mockups. That is the kind of collaboration and responsibility I want in my next position.</p>
 </blockquote>
 <h1>Sample answer for a full-stack developer</h1>
 <blockquote>
-<p>I’m a full-stack developer working primarily with React, Node.js, TypeScript, and PostgreSQL. In my current role, I own customer-facing features end to end, from product clarification and interface development through API design, database changes, testing, and release.</p>
+<p>I&#39;m a full-stack developer working primarily with React, Node.js, TypeScript, and PostgreSQL. In my current role, I own customer-facing features end to end, from product clarification and interface development through API design, database changes, testing, and release.</p>
 <p>I began in frontend development, but working at a small product company pushed me to become comfortable across the entire request path. That experience helped me develop strong judgment about where logic should live and how decisions on one side of the stack affect the other.</p>
-<p>One project I’m especially proud of was rebuilding our customer invitation workflow. I redesigned the membership model, created the API and permissions layer, built the interface, and added integration tests around the most important authorization rules.</p>
-<p>I’m now looking for a product-engineering role where end-to-end ownership is intentional rather than a result of understaffing. Your description of the team’s collaboration with product and design is what made this opportunity interesting to me.</p>
+<p>One project I&#39;m especially proud of was rebuilding our customer invitation workflow. I redesigned the membership model, created the API and permissions layer, built the interface, and added integration tests around the most important authorization rules.</p>
+<p>I&#39;m now looking for a product-engineering role where end-to-end ownership is intentional rather than a result of understaffing. Your description of the team&#39;s collaboration with product and design is what made this opportunity interesting to me.</p>
 </blockquote>
 <h1>Sample answer for a junior developer</h1>
 <blockquote>
-<p>I’m an early-career developer focused on TypeScript, React, Node.js, and PostgreSQL. Over the past year, I’ve been building and deploying a multi-user scheduling application with authentication, organization permissions, automated tests, and a public demo.</p>
+<p>I&#39;m an early-career developer focused on TypeScript, React, Node.js, and PostgreSQL. Over the past year, I&#39;ve been building and deploying a multi-user scheduling application with authentication, organization permissions, automated tests, and a public demo.</p>
 <p>I began learning development through structured courses, but the biggest progress came from building the application beyond the tutorial stage. I had to redesign the database when users needed access to multiple organizations, fix deployment issues, and improve the error states after watching people use it.</p>
 <p>Before moving into software development, I worked in customer support, where I learned to reproduce problems, communicate clearly with users, and document recurring issues. Those skills have transferred naturally into debugging and product work.</p>
-<p>I’m looking for my first full-time development role on a team with regular code review and mentorship. The way your posting describes structured onboarding and early production contributions is exactly the environment I’m hoping to join.</p>
+<p>I&#39;m looking for my first full-time development role on a team with regular code review and mentorship. The way your posting describes structured onboarding and early production contributions is exactly the environment I&#39;m hoping to join.</p>
 </blockquote>
 <h1>Sample answer for a computer-science graduate</h1>
 <blockquote>
 <p>I recently completed my computer-science degree, where I focused on software engineering and distributed systems. My strongest project was a collaborative task platform built with React, Java, and PostgreSQL, and I owned the API design, permissions model, and deployment.</p>
-<p>During my final year, I also completed an internship where I worked on internal tools and contributed production changes through the team’s normal pull-request and testing process. That experience taught me how different professional development is from completing an individual assignment.</p>
-<p>I’m looking for an entry-level backend or full-stack role where I can continue building production systems with guidance from experienced engineers. This role stood out because it combines API work, relational data, and a structured growth path for junior developers.</p>
+<p>During my final year, I also completed an internship where I worked on internal tools and contributed production changes through the team&#39;s normal pull-request and testing process. That experience taught me how different professional development is from completing an individual assignment.</p>
+<p>I&#39;m looking for an entry-level backend or full-stack role where I can continue building production systems with guidance from experienced engineers. This role stood out because it combines API work, relational data, and a structured growth path for junior developers.</p>
 </blockquote>
 <h1>Sample answer for a self-taught developer</h1>
 <blockquote>
-<p>I’m a self-taught developer working primarily with Python, TypeScript, and PostgreSQL. I started by automating repetitive tasks in my operations job and gradually moved into building complete web applications.</p>
-<p>My main project is an inventory and purchasing tool used by a small local business. I built the API, database model, permissions, reporting workflow, and deployment, and I’ve continued improving it based on real user feedback.</p>
+<p>I&#39;m a self-taught developer working primarily with Python, TypeScript, and PostgreSQL. I started by automating repetitive tasks in my operations job and gradually moved into building complete web applications.</p>
+<p>My main project is an inventory and purchasing tool used by a small local business. I built the API, database model, permissions, reporting workflow, and deployment, and I&#39;ve continued improving it based on real user feedback.</p>
 <p>That project taught me more than completing isolated tutorials because I had to handle changing requirements, incorrect data, deployment failures, and users who did not behave the way I expected.</p>
-<p>I’m now looking for my first professional engineering role where I can contribute that practical problem-solving experience while learning from a larger development team. Your focus on internal workflow software is particularly relevant to the work I have already been doing.</p>
+<p>I&#39;m now looking for my first professional engineering role where I can contribute that practical problem-solving experience while learning from a larger development team. Your focus on internal workflow software is particularly relevant to the work I have already been doing.</p>
 </blockquote>
 <h1>Sample answer for a career changer</h1>
 <blockquote>
-<p>I’m a junior backend developer focused on Python, SQL, and workflow automation. Before transitioning into engineering, I spent six years in logistics operations, where I managed inventory and exception-handling processes.</p>
+<p>I&#39;m a junior backend developer focused on Python, SQL, and workflow automation. Before transitioning into engineering, I spent six years in logistics operations, where I managed inventory and exception-handling processes.</p>
 <p>I first moved toward development by automating weekly reports and reconciliation tasks that had been performed manually. That work led me to study software engineering more seriously and build several deployed applications, including an inventory exception tracker using FastAPI and PostgreSQL.</p>
 <p>My operations background gives me a strong understanding of how software affects real workflows, especially when data is incomplete or something goes wrong.</p>
-<p>I’m looking for a backend or internal-tools role where that domain experience is useful. Your product serves logistics teams, so the combination of engineering work and operational context makes this role especially compelling.</p>
+<p>I&#39;m looking for a backend or internal-tools role where that domain experience is useful. Your product serves logistics teams, so the combination of engineering work and operational context makes this role especially compelling.</p>
 </blockquote>
 <h1>Sample answer for a mobile developer</h1>
 <blockquote>
-<p>I’m an Android engineer focused on Kotlin, Jetpack Compose, offline workflows, and application reliability. At my current company, I own the mobile experience used by field technicians who often work with unreliable connectivity.</p>
+<p>I&#39;m an Android engineer focused on Kotlin, Jetpack Compose, offline workflows, and application reliability. At my current company, I own the mobile experience used by field technicians who often work with unreliable connectivity.</p>
 <p>Earlier in my career, I worked on both web and mobile products, but I became interested in the platform-specific challenges of lifecycle management, local persistence, background synchronization, and release operations.</p>
-<p>A project I’m particularly proud of was rebuilding our offline job-completion workflow. I introduced a local queue, idempotent synchronization, and clearer recovery states, which significantly reduced duplicate submissions and support incidents.</p>
-<p>I’m looking for a mobile role where offline behavior and production quality are first-class concerns. The field-service use case described in your posting is closely aligned with the problems I have been solving.</p>
+<p>A project I&#39;m particularly proud of was rebuilding our offline job-completion workflow. I introduced a local queue, idempotent synchronization, and clearer recovery states, which significantly reduced duplicate submissions and support incidents.</p>
+<p>I&#39;m looking for a mobile role where offline behavior and production quality are first-class concerns. The field-service use case described in your posting is closely aligned with the problems I have been solving.</p>
 </blockquote>
 <h1>Sample answer for a data engineer</h1>
 <blockquote>
-<p>I’m a data engineer specializing in Python, SQL, Airflow, and warehouse modeling. In my current role, I own ingestion and transformation pipelines used by our analytics and finance teams.</p>
+<p>I&#39;m a data engineer specializing in Python, SQL, Airflow, and warehouse modeling. In my current role, I own ingestion and transformation pipelines used by our analytics and finance teams.</p>
 <p>I started in analytics, where I saw how difficult it was to answer basic questions when definitions, lineage, and data quality were inconsistent. That pushed me toward engineering the systems behind the reports rather than only consuming them.</p>
 <p>Most recently, I rebuilt our subscription-revenue pipeline, introduced source validation and freshness alerts, and created a documented semantic model used across finance and product analytics. That reduced recurring reconciliation work and made reporting failures visible before stakeholders found them.</p>
-<p>I’m now looking for a role with broader ownership of data reliability and platform design. Your focus on trusted datasets and close collaboration with analysts is what attracted me to this opportunity.</p>
+<p>I&#39;m now looking for a role with broader ownership of data reliability and platform design. Your focus on trusted datasets and close collaboration with analysts is what attracted me to this opportunity.</p>
 </blockquote>
 <h1>Sample answer for a DevOps or platform engineer</h1>
 <blockquote>
-<p>I’m a platform engineer focused on Kubernetes, CI/CD, observability, and developer experience. My current team supports roughly eighty engineers across several product groups.</p>
+<p>I&#39;m a platform engineer focused on Kubernetes, CI/CD, observability, and developer experience. My current team supports roughly eighty engineers across several product groups.</p>
 <p>I began as a backend developer, which helps me understand infrastructure from the perspective of the teams using it. Over time, I moved toward deployment systems and internal tooling because I enjoyed removing repeated friction across an entire engineering organization.</p>
 <p>One of my recent projects was redesigning our deployment workflow around reusable GitHub Actions and safer progressive releases. That reduced average deployment preparation time and made rollback behavior consistent across services.</p>
-<p>I’m looking for a platform role where internal developer experience is treated as a product. The ownership this position has over build, deployment, and service templates is closely aligned with that goal.</p>
+<p>I&#39;m looking for a platform role where internal developer experience is treated as a product. The ownership this position has over build, deployment, and service templates is closely aligned with that goal.</p>
 </blockquote>
 <h1>Sample answer for a security engineer</h1>
 <blockquote>
-<p>I’m an application security engineer with a background in backend development. I currently work with product teams on threat modeling, secure design review, vulnerability remediation, and developer security tooling.</p>
+<p>I&#39;m an application security engineer with a background in backend development. I currently work with product teams on threat modeling, secure design review, vulnerability remediation, and developer security tooling.</p>
 <p>I began as a Java engineer, which gave me direct experience with the delivery pressures and architectural trade-offs development teams face. I moved into security because I wanted to improve systems earlier in the lifecycle rather than finding the same classes of issues after release.</p>
 <p>Recently, I led the rollout of automated dependency and secret scanning across our repositories and worked with engineering teams to reduce false positives and create clear remediation ownership.</p>
-<p>I’m looking for a product-security role where I can remain close to engineering and help teams build safer systems without turning security into a final approval gate. That is what interested me about your approach.</p>
+<p>I&#39;m looking for a product-security role where I can remain close to engineering and help teams build safer systems without turning security into a final approval gate. That is what interested me about your approach.</p>
 </blockquote>
 <h1>Sample answer for a senior engineer</h1>
 <p>Senior candidates should spend less time listing tasks and more time describing scope, judgment, influence, and ownership.</p>
 <blockquote>
-<p>I’m a senior backend engineer focused on financial systems, service reliability, and data correctness. At my current company, I provide technical leadership for the payments domain and work across two teams responsible for billing, settlement, and reconciliation.</p>
+<p>I&#39;m a senior backend engineer focused on financial systems, service reliability, and data correctness. At my current company, I provide technical leadership for the payments domain and work across two teams responsible for billing, settlement, and reconciliation.</p>
 <p>Earlier in my career, I worked at a smaller startup where I owned complete product systems, which gave me a strong operational mindset. Over the past several years, my scope has expanded from implementing services to leading migrations, setting technical direction, mentoring engineers, and coordinating work across product and platform teams.</p>
 <p>A recent example was our migration between payment processors. I led the architecture and rollout strategy, including compatibility, reconciliation, observability, and failure recovery. We completed the migration without downtime or customer-visible payment loss.</p>
-<p>I’m looking for a senior individual-contributor role with meaningful architectural ownership and direct connection to product outcomes. The scope of this role across payments and platform reliability is a strong match for that direction.</p>
+<p>I&#39;m looking for a senior individual-contributor role with meaningful architectural ownership and direct connection to product outcomes. The scope of this role across payments and platform reliability is a strong match for that direction.</p>
 </blockquote>
 <h1>Sample answer for a staff engineer</h1>
 <blockquote>
-<p>I’m a staff engineer focused on platform architecture and technical work that crosses team boundaries. At my current company, I help set direction for a data platform used by six product teams, while remaining hands-on with design, prototypes, and critical implementation work.</p>
+<p>I&#39;m a staff engineer focused on platform architecture and technical work that crosses team boundaries. At my current company, I help set direction for a data platform used by six product teams, while remaining hands-on with design, prototypes, and critical implementation work.</p>
 <p>My background is in backend and distributed systems. Over time, I moved into broader technical leadership because many of the most important problems were not contained within one service or team.</p>
 <p>During the past two years, I led the decomposition of a shared monolith that had become a delivery bottleneck. The work involved defining ownership boundaries, creating migration patterns, aligning several engineering managers and senior engineers, and helping teams move incrementally without interrupting product delivery.</p>
-<p>I’m looking for a staff role where the technical scope is broad but still connected to customer and product outcomes. The cross-team platform work described here is exactly the type of problem I want to continue solving.</p>
+<p>I&#39;m looking for a staff role where the technical scope is broad but still connected to customer and product outcomes. The cross-team platform work described here is exactly the type of problem I want to continue solving.</p>
 </blockquote>
 <h1>Sample answer for an engineering manager</h1>
 <blockquote>
-<p>I’m an engineering manager with a backend engineering background. I currently lead a team of eight engineers responsible for account infrastructure and developer-facing APIs.</p>
+<p>I&#39;m an engineering manager with a backend engineering background. I currently lead a team of eight engineers responsible for account infrastructure and developer-facing APIs.</p>
 <p>I moved into management after several years as a senior engineer because I found that my highest-leverage work was helping teams make clearer decisions, developing engineers, and improving how complex projects were delivered.</p>
-<p>Over the past year, I rebuilt the team’s planning and feedback practices, hired three engineers, supported two promotions, and partnered with product to reduce unplanned work that had been repeatedly disrupting the roadmap.</p>
-<p>I’m looking for a management role where I can continue developing people while remaining technically close enough to contribute to architecture and delivery decisions. The size of this team and the platform scope described in the role are a strong fit for how I like to work.</p>
+<p>Over the past year, I rebuilt the team&#39;s planning and feedback practices, hired three engineers, supported two promotions, and partnered with product to reduce unplanned work that had been repeatedly disrupting the roadmap.</p>
+<p>I&#39;m looking for a management role where I can continue developing people while remaining technically close enough to contribute to architecture and delivery decisions. The size of this team and the platform scope described in the role are a strong fit for how I like to work.</p>
 </blockquote>
 <h1>Sample answer after a layoff</h1>
 <p>A layoff does not need to dominate the answer.</p>
 <p>State it factually and move forward.</p>
 <blockquote>
-<p>I’m a backend engineer specializing in Python, PostgreSQL, and data-intensive applications. Until recently, I worked at Acme, where I owned several services supporting customer reporting and data exports.</p>
-<p>My role was eliminated during a broader company restructuring earlier this year. Since then, I’ve been contributing to an open-source data-validation project and strengthening my experience with event-driven systems.</p>
-<p>At Acme, one project I’m especially proud of was redesigning our export pipeline, which reduced failed jobs and made large customer exports significantly more reliable.</p>
-<p>I’m now looking for a backend role where data correctness and production ownership are central. The reporting-platform work in this position is closely aligned with my background.</p>
+<p>I&#39;m a backend engineer specializing in Python, PostgreSQL, and data-intensive applications. Until recently, I worked at Acme, where I owned several services supporting customer reporting and data exports.</p>
+<p>My role was eliminated during a broader company restructuring earlier this year. Since then, I&#39;ve been contributing to an open-source data-validation project and strengthening my experience with event-driven systems.</p>
+<p>At Acme, one project I&#39;m especially proud of was redesigning our export pipeline, which reduced failed jobs and made large customer exports significantly more reliable.</p>
+<p>I&#39;m now looking for a backend role where data correctness and production ownership are central. The reporting-platform work in this position is closely aligned with my background.</p>
 </blockquote>
 <p>There is no need to defend yourself or describe the entire layoff.</p>
 <h1>Sample answer after a career break</h1>
 <blockquote>
-<p>I’m a frontend engineer focused on React, TypeScript, accessibility, and component systems. Before taking a career break, I spent five years building customer-facing SaaS applications and most recently led frontend work on an account-management redesign.</p>
+<p>I&#39;m a frontend engineer focused on React, TypeScript, accessibility, and component systems. Before taking a career break, I spent five years building customer-facing SaaS applications and most recently led frontend work on an account-management redesign.</p>
 <p>I took the past year away from full-time work for family caregiving. During that period, I kept my skills current through a small open-source contribution and rebuilt one of my projects using modern React and automated accessibility testing.</p>
-<p>I’m now ready to return full time and am looking for a product-focused frontend role. Your team’s emphasis on accessibility and close designer-engineer collaboration is particularly relevant to my experience.</p>
+<p>I&#39;m now ready to return full time and am looking for a product-focused frontend role. Your team&#39;s emphasis on accessibility and close designer-engineer collaboration is particularly relevant to my experience.</p>
 </blockquote>
 <p>Keep the explanation concise.</p>
 <p>You do not need to disclose private medical or family details.</p>
 <h1>Sample answer for someone changing specialties</h1>
 <blockquote>
-<p>I’m a software engineer moving from backend product development into platform engineering. For the past four years, I’ve built Node.js and PostgreSQL services, but much of my most valuable work has involved deployment automation, observability, and improving the development workflow for other engineers.</p>
+<p>I&#39;m a software engineer moving from backend product development into platform engineering. For the past four years, I&#39;ve built Node.js and PostgreSQL services, but much of my most valuable work has involved deployment automation, observability, and improving the development workflow for other engineers.</p>
 <p>I recently led the creation of reusable CI pipelines and local-development tooling used across twelve services. That project reduced repeated setup work and made releases more consistent, and it confirmed that developer infrastructure is where I want to specialize.</p>
-<p>I’m now looking for a dedicated platform role where I can apply my product-engineering background to internal developer experience. That transition is why this position stood out.</p>
+<p>I&#39;m now looking for a dedicated platform role where I can apply my product-engineering background to internal developer experience. That transition is why this position stood out.</p>
 </blockquote>
 <p>Do not pretend the transition has already happened completely.</p>
 <p>Show evidence that makes it credible.</p>
@@ -350,7 +350,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Keep technical detail understandable.</p>
 <h2>Example</h2>
 <blockquote>
-<p>I’m a senior backend engineer with six years of experience building payments and subscription systems using Go and PostgreSQL. I currently own our reconciliation services and have led several reliability and migration projects. I’m looking for a senior individual-contributor role with broader system ownership, and this position stood out because of its focus on financial infrastructure and remote collaboration.</p>
+<p>I&#39;m a senior backend engineer with six years of experience building payments and subscription systems using Go and PostgreSQL. I currently own our reconciliation services and have led several reliability and migration projects. I&#39;m looking for a senior individual-contributor role with broader system ownership, and this position stood out because of its focus on financial infrastructure and remote collaboration.</p>
 </blockquote>
 <h1>Hiring-manager interview</h1>
 <p>Focus on:</p>
@@ -432,7 +432,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>the repeated technologies;</li>
 <li>the business problem;</li>
 <li>the level of ownership;</li>
-<li>the company’s stated priorities.</li>
+<li>the company&#39;s stated priorities.</li>
 </ul>
 <p>Then ask:</p>
 <ul>
@@ -467,7 +467,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Use one or two details that explain genuine alignment.</p>
 <p>Weak:</p>
 <blockquote>
-<p>I’ve always admired your innovative company.</p>
+<p>I&#39;ve always admired your innovative company.</p>
 </blockquote>
 <p>Stronger:</p>
 <blockquote>
@@ -478,11 +478,11 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Include technologies when they help establish relevance.</p>
 <p>Weak:</p>
 <blockquote>
-<p>I’ve used JavaScript, TypeScript, React, Vue, Angular, Node.js, Python, Java, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Azure, Git, Jira, and Figma.</p>
+<p>I&#39;ve used JavaScript, TypeScript, React, Vue, Angular, Node.js, Python, Java, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Azure, Git, Jira, and Figma.</p>
 </blockquote>
 <p>Stronger:</p>
 <blockquote>
-<p>I’m a backend engineer working primarily with Go and PostgreSQL, usually on payment workflows where correctness and observability matter.</p>
+<p>I&#39;m a backend engineer working primarily with Go and PostgreSQL, usually on payment workflows where correctness and observability matter.</p>
 </blockquote>
 <p>The interviewer can ask about the rest later.</p>
 <h1>Mention numbers when they clarify scope</h1>
@@ -504,7 +504,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 </blockquote>
 <p>Avoid overwhelming the answer with metrics.</p>
 <p>One or two strong numbers are enough.</p>
-<h1>Distinguish your work from the team’s work</h1>
+<h1>Distinguish your work from the team&#39;s work</h1>
 <p>Use accurate language.</p>
 <p>Examples:</p>
 <ul>
@@ -543,11 +543,11 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Unless you are a recent graduate and education is central to the role, begin with your current professional identity.</p>
 <p>Weak:</p>
 <blockquote>
-<p>I’ve always loved computers. When I was ten, my parents bought me…</p>
+<p>I&#39;ve always loved computers. When I was ten, my parents bought me…</p>
 </blockquote>
 <p>Stronger:</p>
 <blockquote>
-<p>I’m a backend engineer focused on Python and data-intensive applications.</p>
+<p>I&#39;m a backend engineer focused on Python and data-intensive applications.</p>
 </blockquote>
 <h1>Reciting the résumé chronologically</h1>
 <p>The interviewer can read dates and titles.</p>
@@ -579,27 +579,27 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <h1>Apologizing for your background</h1>
 <p>Avoid:</p>
 <blockquote>
-<p>I know I don’t have much experience.</p>
+<p>I know I don&#39;t have much experience.</p>
 </blockquote>
 <p>Prefer:</p>
 <blockquote>
-<p>I’m an early-career developer with a deployed TypeScript application and experience building authentication, permissions, tests, and database migrations.</p>
+<p>I&#39;m an early-career developer with a deployed TypeScript application and experience building authentication, permissions, tests, and database migrations.</p>
 </blockquote>
 <p>Lead with evidence.</p>
 <h1>Speaking negatively about an employer</h1>
 <p>Avoid:</p>
 <blockquote>
-<p>I’m leaving because management is terrible and the codebase is a disaster.</p>
+<p>I&#39;m leaving because management is terrible and the codebase is a disaster.</p>
 </blockquote>
 <p>Prefer:</p>
 <blockquote>
-<p>I’m looking for a role with clearer technical ownership and more opportunity to work on platform reliability.</p>
+<p>I&#39;m looking for a role with clearer technical ownership and more opportunity to work on platform reliability.</p>
 </blockquote>
 <p>Move toward something rather than opening with criticism.</p>
 <h1>Using generic enthusiasm</h1>
 <p>Avoid:</p>
 <blockquote>
-<p>I’m passionate about technology and excited for a new challenge.</p>
+<p>I&#39;m passionate about technology and excited for a new challenge.</p>
 </blockquote>
 <p>Explain what specifically interests you.</p>
 <h1>Failing to connect to the role</h1>
@@ -624,10 +624,10 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <h1>Giving no evidence</h1>
 <p>Statements such as:</p>
 <ul>
-<li>I’m a great communicator.</li>
-<li>I’m a problem solver.</li>
-<li>I’m highly collaborative.</li>
-<li>I’m a fast learner.</li>
+<li>I&#39;m a great communicator.</li>
+<li>I&#39;m a problem solver.</li>
+<li>I&#39;m highly collaborative.</li>
+<li>I&#39;m a fast learner.</li>
 </ul>
 <p>are weak without examples.</p>
 <p>Demonstrate those traits through the work you describe.</p>
@@ -636,24 +636,24 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Use forward-looking language.</p>
 <h2>Seeking more ownership</h2>
 <blockquote>
-<p>I’m looking for a role where I can own systems from design through production rather than contributing only to one implementation stage.</p>
+<p>I&#39;m looking for a role where I can own systems from design through production rather than contributing only to one implementation stage.</p>
 </blockquote>
 <h2>Seeking growth</h2>
 <blockquote>
-<p>I’m ready to take on broader technical scope and mentor other engineers while remaining an individual contributor.</p>
+<p>I&#39;m ready to take on broader technical scope and mentor other engineers while remaining an individual contributor.</p>
 </blockquote>
 <h2>Changing specialty</h2>
 <blockquote>
-<p>The platform work I’ve taken on has become the part of my role I find most valuable, so I’m looking to make that my primary focus.</p>
+<p>The platform work I&#39;ve taken on has become the part of my role I find most valuable, so I&#39;m looking to make that my primary focus.</p>
 </blockquote>
 <h2>Leaving after a reorganization</h2>
 <blockquote>
-<p>The organization recently changed direction and my team’s scope narrowed, so I’m looking for a role more closely aligned with backend product ownership.</p>
+<p>The organization recently changed direction and my team&#39;s scope narrowed, so I&#39;m looking for a role more closely aligned with backend product ownership.</p>
 </blockquote>
 <h2>Seeking a healthier work model</h2>
 <p>You do not need to describe every negative detail.</p>
 <blockquote>
-<p>I’m looking for an environment with clearer priorities, sustainable on-call expectations, and stronger engineering planning.</p>
+<p>I&#39;m looking for an environment with clearer priorities, sustainable on-call expectations, and stronger engineering planning.</p>
 </blockquote>
 <h1>How to discuss a short tenure</h1>
 <p>Be concise and factual.</p>
@@ -670,25 +670,25 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 </ul>
 <p>Example:</p>
 <blockquote>
-<p>I joined expecting to focus on platform engineering, but the organization changed direction shortly afterward and the role became primarily customer implementation. I’m now targeting positions that match the infrastructure and developer-experience work I was originally hired to do.</p>
+<p>I joined expecting to focus on platform engineering, but the organization changed direction shortly afterward and the role became primarily customer implementation. I&#39;m now targeting positions that match the infrastructure and developer-experience work I was originally hired to do.</p>
 </blockquote>
 <p>Avoid blaming individuals.</p>
 <h1>How to discuss multiple short roles</h1>
 <p>Look for an honest common thread.</p>
 <p>Example:</p>
 <blockquote>
-<p>My last two roles were both fixed-term migration projects. One involved moving a payment platform between providers, and the other focused on decomposing a legacy service. I’m now looking for a long-term product team where I can stay with the systems after the migration and own their continued development.</p>
+<p>My last two roles were both fixed-term migration projects. One involved moving a payment platform between providers, and the other focused on decomposing a legacy service. I&#39;m now looking for a long-term product team where I can stay with the systems after the migration and own their continued development.</p>
 </blockquote>
 <h1>How to discuss being overqualified</h1>
 <p>Focus on why the scope is genuinely appealing.</p>
 <blockquote>
-<p>I’ve held broader leadership responsibilities before, but I’m intentionally looking for a hands-on senior engineering role. I want to spend more of my time building and operating systems rather than managing people, and this position appears to offer that balance.</p>
+<p>I&#39;ve held broader leadership responsibilities before, but I&#39;m intentionally looking for a hands-on senior engineering role. I want to spend more of my time building and operating systems rather than managing people, and this position appears to offer that balance.</p>
 </blockquote>
 <h1>How to discuss being underqualified</h1>
 <p>Do not describe yourself as underqualified.</p>
 <p>Acknowledge the gap and connect transferable evidence.</p>
 <blockquote>
-<p>I have not yet operated a system at your traffic level, but I have owned reliability and database work for a smaller transaction platform, including incident response, performance analysis, and zero-downtime migrations. That foundation is why I’m interested in growing into this scale.</p>
+<p>I have not yet operated a system at your traffic level, but I have owned reliability and database work for a smaller transaction platform, including incident response, performance analysis, and zero-downtime migrations. That foundation is why I&#39;m interested in growing into this scale.</p>
 </blockquote>
 <h1>Preparing your answer</h1>
 <h1>Step one: identify your target identity</h1>
@@ -788,7 +788,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Use conversational language.</p>
 <p>Prefer:</p>
 <blockquote>
-<p>The project I’m most proud of recently was…</p>
+<p>The project I&#39;m most proud of recently was…</p>
 </blockquote>
 <p>over:</p>
 <blockquote>
@@ -800,7 +800,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>“Before that…”</li>
 <li>“What moved me toward this area was…”</li>
 <li>“A recent example is…”</li>
-<li>“What I’m looking for next is…”</li>
+<li>“What I&#39;m looking for next is…”</li>
 </ul>
 <p>These make the answer easier to follow.</p>
 <h1>Pause after important points</h1>
@@ -812,7 +812,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Specific interest is more convincing.</p>
 <p>Weak:</p>
 <blockquote>
-<p>I’m incredibly excited about this amazing opportunity.</p>
+<p>I&#39;m incredibly excited about this amazing opportunity.</p>
 </blockquote>
 <p>Stronger:</p>
 <blockquote>
@@ -846,7 +846,7 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>Useful when broader scope and leadership need more explanation.</p>
 <h1>Thirty-second example</h1>
 <blockquote>
-<p>I’m a senior backend engineer specializing in Go, PostgreSQL, and payments reliability. I currently own reconciliation services at Northstar and recently led a processor migration completed without downtime. I’m looking for a hands-on senior role with broader architecture ownership, which is what interested me about this position.</p>
+<p>I&#39;m a senior backend engineer specializing in Go, PostgreSQL, and payments reliability. I currently own reconciliation services at Northstar and recently led a processor migration completed without downtime. I&#39;m looking for a hands-on senior role with broader architecture ownership, which is what interested me about this position.</p>
 </blockquote>
 <h1>Ninety-second example</h1>
 <p>Add:</p>
@@ -942,31 +942,31 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 </blockquote>
 <h1>Final answer template for juniors</h1>
 <blockquote>
-<p>I’m an early-career [role] focused on [technologies or problem area]. My strongest project is [project], where I built [relevant features or systems].</p>
+<p>I&#39;m an early-career [role] focused on [technologies or problem area]. My strongest project is [project], where I built [relevant features or systems].</p>
 <p>Before moving into development, I [education, previous career, or learning path]. That experience helped me develop [transferable capability].</p>
-<p>One challenge I’m proud of solving was [problem]. I [action], which resulted in [outcome or lesson].</p>
-<p>I’m looking for my first full-time role where I can [growth and contribution goal], and this opportunity stood out because [specific support, product, technology, or mission].</p>
+<p>One challenge I&#39;m proud of solving was [problem]. I [action], which resulted in [outcome or lesson].</p>
+<p>I&#39;m looking for my first full-time role where I can [growth and contribution goal], and this opportunity stood out because [specific support, product, technology, or mission].</p>
 </blockquote>
 <h1>Final answer template for mid-level developers</h1>
 <blockquote>
-<p>I’m a [role] with [approximate experience] focused on [specialty]. At [company], I currently own [scope].</p>
+<p>I&#39;m a [role] with [approximate experience] focused on [specialty]. At [company], I currently own [scope].</p>
 <p>Before that, I [relevant path], which gave me experience with [transferable strength].</p>
 <p>Recently, I [project and action], resulting in [outcome].</p>
-<p>I’m looking for [next scope], and this role is particularly relevant because [specific connection].</p>
+<p>I&#39;m looking for [next scope], and this role is particularly relevant because [specific connection].</p>
 </blockquote>
 <h1>Final answer template for senior developers</h1>
 <blockquote>
-<p>I’m a senior [role] focused on [technical domain]. In my current position, I own [systems, team influence, or scope].</p>
+<p>I&#39;m a senior [role] focused on [technical domain]. In my current position, I own [systems, team influence, or scope].</p>
 <p>My background includes [relevant path], and over time my work has expanded from [earlier scope] into [current leadership or ownership].</p>
 <p>A recent example is [complex initiative], where I [technical and leadership contribution] and achieved [result].</p>
-<p>I’m looking for a role where I can [desired ownership or influence], and this position stood out because [specific technical and organizational fit].</p>
+<p>I&#39;m looking for a role where I can [desired ownership or influence], and this position stood out because [specific technical and organizational fit].</p>
 </blockquote>
 <h1>Final answer template for career changers</h1>
 <blockquote>
-<p>I’m an early-career [developer role] focused on [technologies]. Before engineering, I worked in [previous field], where I developed experience with [transferable skills].</p>
+<p>I&#39;m an early-career [developer role] focused on [technologies]. Before engineering, I worked in [previous field], where I developed experience with [transferable skills].</p>
 <p>My transition began when I [credible bridge into software]. Since then, I have built [project or evidence].</p>
-<p>A challenge I’m proud of solving was [problem], where I [action and result].</p>
-<p>I’m looking for [first role or next step], and this opportunity is especially relevant because [domain or skill connection].</p>
+<p>A challenge I&#39;m proud of solving was [problem], where I [action and result].</p>
+<p>I&#39;m looking for [first role or next step], and this opportunity is especially relevant because [domain or skill connection].</p>
 </blockquote>
 <h1>Final answer checklist</h1>
 <p>Before the interview, confirm that your answer:</p>
@@ -1024,6 +1024,6 @@ b:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <p>When done well, your answer does more than introduce you. It directs the interview toward the projects, decisions, and strengths you most want the hiring team to remember.</p>
 <p><em>Ready to find interviews worth preparing for? <a href="/auth/register?role=EMPLOYEE">Create a free developer profile on JobsList.dev</a>, present your experience clearly, and apply directly to companies hiring technical talent.</em></p>
 6:["slug","tell-me-about-yourself-interview-answer","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":["blog",{"children":[["slug","tell-me-about-yourself-interview-answer","d"],{"children":["__PAGE__?{\"slug\":\"tell-me-about-yourself-interview-answer\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","tell-me-about-yourself-interview-answer","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Answer \\\"Tell Me About Yourself\\\" in a Developer Interview\",\"description\":\"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break.\",\"image\":[\"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png\"],\"datePublished\":\"2026-07-07T00:00:00.000Z\",\"dateModified\":\"2026-07-07T00:00:00.000Z\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/blog/tell-me-about-yourself-interview-answer/\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":"← All articles"}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$L3",null,{"src":"/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png","alt":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":"sticky top-16 z-30 -mx-4 mt-8 border-y border-surface-200 bg-white/95 px-4 py-3 shadow-sm backdrop-blur-md sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 dark:border-surface-700 dark:bg-surface-950/95 dark:supports-[backdrop-filter]:bg-surface-950/85","children":["$","h1",null,{"className":"text-xl font-bold leading-tight tracking-tight text-surface-900 sm:text-2xl dark:text-white","children":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-07T00:00:00.000Z","children":"July 7, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[37," min read"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","job-seekers",{"className":"badge-gray","children":"job-seekers"}],["$","span","interviewing",{"className":"badge-gray","children":"interviewing"}],["$","span","career",{"className":"badge-gray","children":"career"}],["$","span","developers",{"className":"badge-gray","children":"developers"}],["$","span","technical-interviews",{"className":"badge-gray","children":"technical-interviews"}],["$","span","communication",{"className":"badge-gray","children":"communication"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$4"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":"← More articles"}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$L3",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
-c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Answer \"Tell Me About Yourself\" in a Developer Interview | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","9",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","10",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","11",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","12",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","13",{"property":"og:title","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}],["$","meta","14",{"property":"og:description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","15",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2026-07-07T00:00:00.000Z"}],["$","meta","21",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","22",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","23",{"name":"twitter:title","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}],["$","meta","24",{"name":"twitter:description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","25",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","meta","28",{"name":"twitter:image:alt","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room"}],["$","link","29",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","30",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","31",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","32",{"name":"next-size-adjust"}]]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":["blog",{"children":[["slug","tell-me-about-yourself-interview-answer","d"],{"children":["__PAGE__?{\"slug\":\"tell-me-about-yourself-interview-answer\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","tell-me-about-yourself-interview-answer","d"],{"children":["__PAGE__",{},["$L1",["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Answer \\\"Tell Me About Yourself\\\" in a Developer Interview\",\"description\":\"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break.\",\"image\":[\"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png\"],\"datePublished\":\"2026-07-07T00:00:00.000Z\",\"dateModified\":\"2026-07-07T00:00:00.000Z\",\"inLanguage\":\"en\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/blog/tell-me-about-yourself-interview-answer/\"}}"}}],["$","$L2",null,{"href":"/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","All articles"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$L3",null,{"src":"/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png","alt":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"The JobsList.dev Team"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-07T00:00:00.000Z","children":"July 6, 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[37," ","min read"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","job-seekers",{"className":"badge-gray","children":"job-seekers"}],["$","span","interviewing",{"className":"badge-gray","children":"interviewing"}],["$","span","career",{"className":"badge-gray","children":"career"}],["$","span","developers",{"className":"badge-gray","children":"developers"}],["$","span","technical-interviews",{"className":"badge-gray","children":"technical-interviews"}],["$","span","communication",{"className":"badge-gray","children":"communication"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$4"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$L2",null,{"href":"/blog/","className":"btn-secondary btn-sm","children":["← ","More articles"]}],["$","$L2",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"Post a job"}]]}]]}],null]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$L3",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$L2",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$L2",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lb",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Lc"]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Answer \"Tell Me About Yourself\" in a Developer Interview | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","link","11",{"rel":"canonical","href":"https://jobslist.dev/blog/tell-me-about-yourself-interview-answer/"}],["$","meta","12",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","13",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","14",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","15",{"property":"og:title","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}],["$","meta","16",{"property":"og:description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","17",{"property":"og:url","content":"https://jobslist.dev/blog/tell-me-about-yourself-interview-answer/"}],["$","meta","18",{"property":"og:locale","content":"en"}],["$","meta","19",{"property":"og:image","content":"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png"}],["$","meta","20",{"property":"og:image:width","content":"1200"}],["$","meta","21",{"property":"og:image:height","content":"630"}],["$","meta","22",{"property":"og:image:alt","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room"}],["$","meta","23",{"property":"og:type","content":"article"}],["$","meta","24",{"property":"article:published_time","content":"2026-07-07T00:00:00.000Z"}],["$","meta","25",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","26",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","27",{"name":"twitter:title","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview"}],["$","meta","28",{"name":"twitter:description","content":"A practical framework for answering the opening question in a developer interview, with tailored examples for junior developers, senior engineers, career changers, managers, and candidates returning after a career break."}],["$","meta","29",{"name":"twitter:image","content":"https://jobslist.dev/images/blog/en/how-to-answer-tell-me-about-yourself-in-a-developer-interview.png"}],["$","meta","30",{"name":"twitter:image:width","content":"1200"}],["$","meta","31",{"name":"twitter:image:height","content":"630"}],["$","meta","32",{"name":"twitter:image:alt","content":"How to Answer \"Tell Me About Yourself\" in a Developer Interview — JobsList.dev Reading Room"}],["$","link","33",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","34",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","35",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","36",{"name":"next-size-adjust"}]]
 1:null

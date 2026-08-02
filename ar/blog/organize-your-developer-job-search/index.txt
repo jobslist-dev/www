@@ -1,62 +1,64 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3e04,<p>Finding your next software engineering job isn&#39;t just about writing a great resume or passing technical interviews. It&#39;s about managing a process that often lasts weeks or months while maintaining your confidence, improving your skills, and making smart decisions.</p>
-<p>Many developers begin with enormous enthusiasm, applying to dozens of positions every day. Two weeks later they&#39;re exhausted, discouraged, and convinced they&#39;re not good enough.</p>
-<p>The problem usually isn&#39;t their ability.</p>
-<p>It&#39;s that they&#39;re treating a marathon like a sprint.</p>
-<p>The most successful job seekers build a repeatable system instead of relying on motivation. They improve a little every week, stay organized, and make thoughtful decisions instead of emotional ones.</p>
-<p>Here&#39;s how.</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","organize-your-developer-job-search","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"organize-your-developer-job-search\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T5e97,<p>لا يقتصر العثور على وظيفتك التالية في مجال هندسة البرمجيات على كتابة سيرة ذاتية رائعة أو اجتياز المقابلات الفنية فحسب. بل يتعلق الأمر بإدارة عملية غالبًا ما تستمر لأسابيع أو أشهر مع الحفاظ على ثقتك بنفسك, وتحسين مهاراتك, واتخاذ قرارات ذكية.</p>
+<p>يبدأ العديد من المطورين بحماس هائل, ويتقدمون لعشرات الوظائف كل يوم. وبعد أسبوعين, يصابون بالإرهاق والإحباط, ويقتنعون بأنهم ليسوا جيدين بما يكفي.</p>
+<p>المشكلة عادةً لا تكمن في قدراتهم.</p>
+<p>بل تكمن في أنهم يتعاملون مع الماراثون كأنه سباق سرعة.</p>
+<p>أكثر الباحثين عن عمل نجاحًا هم من يبنون نظامًا قابلًا للتكرار بدلاً من الاعتماد على الحماس. فهم يتحسنون قليلاً كل أسبوع, ويحافظون على تنظيمهم, ويتخذون قرارات مدروسة بدلاً من القرارات العاطفية.</p>
+<p>إليك كيفية القيام بذلك.</p>
 <hr>
-<h1>Think Like a Project Manager</h1>
-<p>Treat your job search exactly like you would manage an engineering project.</p>
-<p>You wouldn&#39;t build production software without:</p>
+<h1>فكر كمدير مشاريع</h1>
+<p>تعامل مع عملية البحث عن وظيفة تمامًا كما لو كنت تدير مشروعًا هندسيًّا.</p>
+<p>لن تقوم بتطوير برنامج إنتاجي دون:</p>
 <ul>
-<li>clear goals</li>
-<li>measurable milestones</li>
-<li>documentation</li>
-<li>regular reviews</li>
-<li>continuous improvement</li>
+<li>أهداف واضحة</li>
+<li>مراحل قابلة للقياس</li>
+<li>توثيق</li>
+<li>مراجعات دورية</li>
+<li>تحسين مستمر</li>
 </ul>
-<p>Your career deserves the same discipline.</p>
-<p>Instead of asking:</p>
+<p>مسيرتك المهنية تستحق نفس القدر من الانضباط.</p>
+<p>بدلاً من أن تسأل:</p>
 <blockquote>
-<p>&quot;How do I get a job?&quot;</p>
+<p>&quot;كيف أحصل على وظيفة؟&quot;</p>
 </blockquote>
-<p>Ask:</p>
+<p>اسأل:</p>
 <blockquote>
-<p>&quot;How do I build a hiring pipeline that consistently produces interviews?&quot;</p>
+<p>&quot;كيف أبني مسار توظيف ينتج مقابلات عمل باستمرار؟&quot;</p>
 </blockquote>
-<p>That small mental shift changes everything.</p>
+<p>هذا التغيير البسيط في طريقة التفكير يغير كل شيء.</p>
 <hr>
-<h1>Define Your Target Before You Apply Anywhere</h1>
-<p>One of the biggest mistakes developers make is applying for every opening they see.</p>
-<p>Generic applications produce generic results.</p>
-<p>Instead, define your target.</p>
-<h2>Decide your ideal roles</h2>
-<p>Examples:</p>
+<h1>حدد هدفك قبل التقدم لأي وظيفة</h1>
+<p>أحد أكبر الأخطاء التي يرتكبها المطورون هو التقدم لكل وظيفة شاغرة يرونها.</p>
+<p>الطلبات العامة تؤدي إلى نتائج عامة.</p>
+<p>بدلاً من ذلك, حدد هدفك.</p>
+<h2>حدد الأدوار المثالية بالنسبة لك</h2>
+<p>أمثلة:</p>
 <ul>
-<li>Frontend Developer</li>
-<li>Backend Engineer</li>
-<li>Full Stack Engineer</li>
-<li>DevOps Engineer</li>
-<li>Site Reliability Engineer</li>
-<li>Mobile Developer</li>
-<li>Machine Learning Engineer</li>
-<li>Data Engineer</li>
-<li>QA Automation Engineer</li>
-<li>Security Engineer</li>
+<li>مطور واجهة المستخدم</li>
+<li>مهندس الخلفية</li>
+<li>مهندس متكامل</li>
+<li>مهندس DevOps</li>
+<li>مهندس موثوقية الموقع</li>
+<li>مطور تطبيقات الجوال</li>
+<li>مهندس التعلم الآلي</li>
+<li>مهندس البيانات</li>
+<li>مهندس أتمتة ضمان الجودة</li>
+<li>مهندس الأمن</li>
 </ul>
-<p>Trying to pursue six different careers simultaneously usually results in weak resumes that don&#39;t match any of them.</p>
+<p>محاولة السعي وراء ستة مسارات مهنية مختلفة في آن واحد تؤدي عادةً إلى سير ذاتية ضعيفة لا تتناسب مع أي منها.</p>
 <hr>
-<h2>Define your preferred technologies</h2>
-<p>For example:</p>
+<h2>حدد التقنيات المفضلة لديك</h2>
+<p>على سبيل المثال:</p>
 <ul>
 <li>TypeScript</li>
 <li>React</li>
@@ -72,462 +74,460 @@ d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/
 <li>Docker</li>
 <li>Kubernetes</li>
 </ul>
-<p>These become the keywords that appear consistently across your:</p>
+<p>تصبح هذه الكلمات المفتاحية التي تظهر بشكل متسق في:</p>
 <ul>
-<li>resume</li>
-<li>portfolio</li>
+<li>سيرتك الذاتية</li>
+<li>محفظة أعمالك</li>
 <li>GitHub</li>
-<li>JobsList.dev profile</li>
-<li>LinkedIn profile</li>
+<li>ملفك الشخصي على JobsList.dev</li>
+<li>ملفك الشخصي على LinkedIn</li>
 </ul>
-<p>Consistency helps recruiters immediately understand your strengths.</p>
+<p>يساعد الاتساق مسؤولي التوظيف على فهم نقاط قوتك على الفور.</p>
 <hr>
-<h2>Know Your Requirements</h2>
-<p>Write them down.</p>
-<h3>Non-negotiables</h3>
-<p>Examples:</p>
+<h2>تعرف على متطلباتك</h2>
+<p>دوّنها.</p>
+<h3>المتطلبات غير القابلة للتفاوض</h3>
+<p>أمثلة:</p>
 <ul>
-<li>Remote only</li>
-<li>Visa sponsorship</li>
-<li>Minimum salary</li>
-<li>Health insurance</li>
-<li>Specific country</li>
-<li>Certain working hours</li>
+<li>العمل عن بُعد فقط</li>
+<li>رعاية الحصول على التأشيرة</li>
+<li>الحد الأدنى للراتب</li>
+<li>التأمين الصحي</li>
+<li>بلد معين</li>
+<li>ساعات عمل محددة</li>
 </ul>
-<h3>Preferences</h3>
-<p>Examples:</p>
+<h3>التفضيلات</h3>
+<p>أمثلة:</p>
 <ul>
-<li>Startup</li>
-<li>Enterprise</li>
-<li>Open source</li>
-<li>AI company</li>
-<li>FinTech</li>
-<li>Healthcare</li>
-<li>Climate Tech</li>
+<li>شركة ناشئة</li>
+<li>مؤسسة كبرى</li>
+<li>البرمجيات مفتوحة المصدر</li>
+<li>شركة متخصصة في الذكاء الاصطناعي</li>
+<li>التكنولوجيا المالية</li>
+<li>الرعاية الصحية</li>
+<li>تكنولوجيا المناخ</li>
 </ul>
-<p>Knowing the difference prevents emotional decision-making later.</p>
+<p>معرفة الفرق بينهما تمنع اتخاذ قرارات عاطفية لاحقًا.</p>
 <hr>
-<h1>Make Your Resume a Living Document</h1>
-<p>Don&#39;t think of your resume as something you finish once.</p>
-<p>It should improve throughout your search.</p>
-<p>Every interview teaches you something.</p>
-<p>Update it regularly.</p>
-<p>Review:</p>
+<h1>اجعل سيرتك الذاتية وثيقة متجددة</h1>
+<p>لا تعتبر سيرتك الذاتية شيئًا تنتهي منه مرة واحدة.</p>
+<p>يجب أن تتحسن سيرتك الذاتية طوال فترة بحثك عن وظيفة.</p>
+<p>كل مقابلة تعلمك شيئًا جديدًا.</p>
+<p>قم بتحديثها بانتظام.</p>
+<p>راجع:</p>
 <ul>
-<li>headline</li>
-<li>summary</li>
-<li>technical skills</li>
-<li>accomplishments</li>
-<li>projects</li>
-<li>keywords</li>
-<li>formatting</li>
+<li>العنوان</li>
+<li>الملخص</li>
+<li>المهارات التقنية</li>
+<li>الإنجازات</li>
+<li>المشاريع</li>
+<li>الكلمات المفتاحية</li>
+<li>التنسيق</li>
 </ul>
-<p>Small improvements compound over time.</p>
+<p>التحسينات الصغيرة تتراكم بمرور الوقت.</p>
 <hr>
-<h1>Tailor Every Resume</h1>
-<p>The highest response rates almost always come from resumes that match the position.</p>
-<p>That doesn&#39;t mean lying.</p>
-<p>It means emphasizing the experience that&#39;s most relevant.</p>
-<p>Examples:</p>
-<p>Backend role?</p>
-<p>Move backend projects higher.</p>
-<p>Frontend role?</p>
-<p>Highlight UI work.</p>
-<p>DevOps role?</p>
-<p>Emphasize automation, infrastructure, monitoring, deployments, CI/CD, and cloud experience.</p>
-<p>Think relevance, not reinvention.</p>
+<h1>صمم كل سيرة ذاتية خصيصًا</h1>
+<p>تأتي أعلى معدلات الاستجابة دائمًا تقريبًا من السير الذاتية التي تتناسب مع الوظيفة.</p>
+<p>هذا لا يعني الكذب.</p>
+<p>بل يعني التركيز على الخبرة الأكثر صلة بالوظيفة.</p>
+<p>أمثلة:</p>
+<p>وظيفة في مجال البرمجة الخلفية (Backend)؟</p>
+<p>ضع مشاريع البرمجة الخلفية في مقدمة السيرة الذاتية.</p>
+<p>وظيفة في مجال البرمجة الأمامية (Frontend)؟</p>
+<p>سلط الضوء على أعمال واجهة المستخدم (UI).</p>
+<p>وظيفة في مجال DevOps؟</p>
+<p>ركز على الأتمتة, والبنية التحتية, والمراقبة, وعمليات النشر, وCI/CD, والخبرة في مجال الحوسبة السحابية.</p>
+<p>فكر في الصلة بالوظيفة, لا في إعادة الابتكار.</p>
 <hr>
-<h1>Optimize for Applicant Tracking Systems (ATS)</h1>
-<p>Many resumes are filtered before a recruiter ever sees them.</p>
-<p>Improve your chances by:</p>
+<h1>تحسين السيرة الذاتية لتتوافق مع أنظمة تتبع المتقدمين (ATS)</h1>
+<p>يتم تصفية العديد من السير الذاتية قبل أن يطلع عليها مسؤول التوظيف.</p>
+<p>حسّن فرصك من خلال:</p>
 <ul>
-<li>Using standard section headings</li>
-<li>Including technologies exactly as they&#39;re written in the job description</li>
-<li>Avoiding graphics and complicated layouts</li>
-<li>Using common job titles</li>
-<li>Keeping formatting clean</li>
-<li>Exporting to PDF unless another format is requested</li>
+<li>استخدام عناوين أقسام قياسية</li>
+<li>ذكر التقنيات بالضبط كما هي مكتوبة في وصف الوظيفة</li>
+<li>تجنب الرسومات والتصميمات المعقدة</li>
+<li>استخدام المسميات الوظيفية الشائعة</li>
+<li>الحفاظ على تنسيق واضح</li>
+<li>التصدير إلى PDF ما لم يُطلب تنسيق آخر</li>
 </ul>
-<p>If the posting says <strong>PostgreSQL</strong>, don&#39;t write only <strong>SQL databases</strong>.</p>
-<p>Specific keywords matter.</p>
+<p>إذا ذكر الإعلان <strong>PostgreSQL</strong>, فلا تكتفِ بكتابة <strong>قواعد بيانات SQL</strong>.</p>
+<p>الكلمات المفتاحية المحددة مهمة.</p>
 <hr>
-<h1>Apply Smarter, Not Harder</h1>
-<p>Mass applications feel productive.</p>
-<p>They&#39;re usually not.</p>
-<p>A better weekly goal might be:</p>
+<h1>تقدم بطلباتك بذكاء, لا بجهد أكبر</h1>
+<p>قد تبدو الطلبات الجماعية منتجة.</p>
+<p>لكنها عادةً ما تكون غير ذلك.</p>
+<p>قد يكون الهدف الأسبوعي الأفضل هو:</p>
 <ul>
-<li>5–15 highly targeted applications</li>
-<li>2–5 networking conversations</li>
-<li>one GitHub improvement</li>
-<li>one portfolio improvement</li>
-<li>interview practice</li>
-<li>one new technical article or project update</li>
+<li>5–15 طلب توظيف موجهة بدقة</li>
+<li>2–5 محادثات للتواصل</li>
+<li>تحسين واحد على GitHub</li>
+<li>تحسين واحد لمحفظة أعمالك</li>
+<li>تدريب على المقابلات</li>
+<li>مقال تقني جديد واحد أو تحديث لمشروع</li>
 </ul>
-<p>That creates a balanced pipeline.</p>
+<p>وهذا يخلق مسارًا متوازنًا.</p>
 <hr>
-<h1>Prioritize Fresh Listings</h1>
-<p>The earlier you apply, the better.</p>
-<p>Aim for jobs posted within:</p>
+<h1>أعطِ الأولوية للإعلانات الحديثة</h1>
+<p>كلما تقدمت بطلبك مبكرًا, كان ذلك أفضل.</p>
+<p>استهدف الوظائف التي تم نشرها خلال:</p>
 <ul>
-<li>24 hours</li>
-<li>48 hours</li>
-<li>7 days</li>
+<li>24 ساعة</li>
+<li>48 ساعة</li>
+<li>7 أيام</li>
 </ul>
-<p>Older listings may already have hundreds of applicants or finalists.</p>
-<p>Setting job alerts saves enormous time.</p>
+<p>قد يكون لدى الإعلانات الأقدم بالفعل مئات المتقدمين أو المرشحين النهائيين.</p>
+<p>يؤدي إعداد تنبيهات الوظائف إلى توفير وقت هائل.</p>
 <hr>
-<h1>Diversify Your Search</h1>
-<p>Don&#39;t depend on one website.</p>
-<p>Combine multiple sources:</p>
+<h1>نوّع بحثك</h1>
+<p>لا تعتمد على موقع إلكتروني واحد.</p>
+<p>اجمع بين مصادر متعددة:</p>
 <ul>
 <li>JobsList.dev</li>
-<li>Company career pages</li>
-<li>Open-source company websites</li>
-<li>Startup directories</li>
-<li>Engineering communities</li>
-<li>Local meetups</li>
-<li>Conferences</li>
-<li>Alumni networks</li>
-<li>Former coworkers</li>
-<li>Recruiters you trust</li>
-<li>Employee referrals</li>
+<li>صفحات التوظيف الخاصة بالشركات</li>
+<li>مواقع الشركات مفتوحة المصدر</li>
+<li>أدلة الشركات الناشئة</li>
+<li>مجتمعات المهندسين</li>
+<li>اللقاءات المحلية</li>
+<li>المؤتمرات</li>
+<li>شبكات الخريجين</li>
+<li>زملاء العمل السابقين</li>
+<li>مسؤولي التوظيف الذين تثق بهم</li>
+<li>توصيات الموظفين</li>
 </ul>
-<p>Each channel reaches different opportunities.</p>
+<p>توفر كل قناة فرصًا مختلفة.</p>
 <hr>
-<h1>Build an Application Tracker</h1>
-<p>A spreadsheet works perfectly.</p>
-<p>Useful columns include:</p>
+<h1>إنشاء سجل لتتبع طلبات التوظيف</h1>
+<p>يمكن استخدام جدول بيانات بشكل مثالي.</p>
+<p>تشمل الأعمدة المفيدة ما يلي:</p>
 <table>
 <thead>
 <tr>
-<th>Column</th>
-<th>Purpose</th>
+<th>العمود</th>
+<th>الغرض</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Company</td>
-<td>Organization</td>
+<td>الشركة</td>
+<td>المؤسسة</td>
 </tr>
 <tr>
-<td>Position</td>
-<td>Job title</td>
+<td>الوظيفة</td>
+<td>المسمى الوظيفي</td>
 </tr>
 <tr>
-<td>Date Applied</td>
-<td>Track timing</td>
+<td>تاريخ التقديم</td>
+<td>تتبع التوقيت</td>
 </tr>
 <tr>
-<td>Source</td>
-<td>JobsList.dev, referral, recruiter, etc.</td>
+<td>المصدر</td>
+<td>JobsList.dev, توصية, مسؤول توظيف, إلخ.</td>
 </tr>
 <tr>
-<td>Resume Version</td>
-<td>Which version you used</td>
+<td>نسخة السيرة الذاتية</td>
+<td>النسخة التي استخدمتها</td>
 </tr>
 <tr>
-<td>Contact Name</td>
-<td>Recruiter or hiring manager</td>
+<td>اسم جهة الاتصال</td>
+<td>مسؤول التوظيف أو مدير التوظيف</td>
 </tr>
 <tr>
-<td>Current Stage</td>
-<td>Applied, Interview, Offer</td>
+<td>المرحلة الحالية</td>
+<td>التقدم للوظيفة, المقابلة, العرض</td>
 </tr>
 <tr>
-<td>Last Contact</td>
-<td>Follow-up timing</td>
+<td>آخر اتصال</td>
+<td>توقيت المتابعة</td>
 </tr>
 <tr>
-<td>Follow-Up Date</td>
-<td>Prevent forgotten applications</td>
+<td>تاريخ المتابعة</td>
+<td>تجنب نسيان طلبات التوظيف</td>
 </tr>
 <tr>
-<td>Salary Range</td>
-<td>Compensation comparison</td>
+<td>نطاق الراتب</td>
+<td>مقارنة الأجور</td>
 </tr>
 <tr>
-<td>Notes</td>
-<td>Interview feedback</td>
+<td>ملاحظات</td>
+<td>ملاحظات المقابلة</td>
 </tr>
 </tbody></table>
-<p>Your tracker becomes one of your most valuable tools.</p>
+<p>سيصبح سجل المتابعة الخاص بك أحد أكثر أدواتك قيمة.</p>
 <hr>
-<h1>Understand Your Funnel</h1>
-<p>Recruiting is a pipeline.</p>
-<p>Each stage tells a different story.</p>
-<h2>No responses</h2>
-<p>Usually indicates:</p>
+<h1>فهم مسار التوظيف الخاص بك</h1>
+<p>التوظيف عبارة عن مسار متسلسل.</p>
+<p>كل مرحلة تحكي قصة مختلفة.</p>
+<h2>عدم وجود ردود</h2>
+<p>عادةً ما يشير إلى:</p>
 <ul>
-<li>weak targeting</li>
-<li>poor resume</li>
-<li>ATS issues</li>
-<li>wrong keywords</li>
-</ul>
-<hr>
-<h2>Recruiter screens but no interviews</h2>
-<p>Often suggests:</p>
-<ul>
-<li>unclear communication</li>
-<li>resume overselling</li>
-<li>weak examples</li>
-<li>lack of preparation</li>
+<li>استهداف ضعيف</li>
+<li>سيرة ذاتية ضعيفة</li>
+<li>مشكلات في نظام تتبع المتقدمين (ATS)</li>
+<li>كلمات مفتاحية خاطئة</li>
 </ul>
 <hr>
-<h2>Technical interviews but no offers</h2>
-<p>Usually means improving:</p>
+<h2>المسؤول عن التوظيف يقوم بالفرز ولكن لا توجد مقابلات</h2>
+<p>غالبًا ما يشير إلى:</p>
 <ul>
-<li>coding interviews</li>
-<li>system design</li>
-<li>debugging</li>
-<li>communication</li>
-<li>behavioral interviews</li>
+<li>تواصل غير واضح</li>
+<li>مبالغة في عرض السيرة الذاتية</li>
+<li>أمثلة ضعيفة</li>
+<li>نقص في الاستعداد</li>
 </ul>
 <hr>
-<h2>Final interviews but no offer</h2>
-<p>Often comes down to:</p>
+<h2>مقابلات فنية ولكن لا عروض عمل</h2>
+<p>عادةً ما يعني ذلك الحاجة إلى تحسين:</p>
 <ul>
-<li>enthusiasm</li>
-<li>cultural fit</li>
-<li>communication</li>
-<li>competing candidates</li>
-<li>negotiation</li>
+<li>مقابلات البرمجة</li>
+<li>تصميم الأنظمة</li>
+<li>تصحيح الأخطاء</li>
+<li>التواصل</li>
+<li>المقابلات السلوكية</li>
 </ul>
-<p>Knowing where you&#39;re losing opportunities tells you exactly what to improve.</p>
 <hr>
-<h1>Schedule Your Week</h1>
-<p>Searching all day is surprisingly ineffective.</p>
-<p>Instead, create a routine.</p>
-<p>Example:</p>
-<p><strong>Monday</strong></p>
+<h2>مقابلات نهائية ولكن لا عرض عمل</h2>
+<p>غالبًا ما يعود السبب إلى:</p>
 <ul>
-<li>Find new roles</li>
-<li>Apply</li>
+<li>الحماس</li>
+<li>التوافق الثقافي</li>
+<li>التواصل</li>
+<li>المرشحين المنافسين</li>
+<li>التفاوض</li>
 </ul>
-<p><strong>Tuesday</strong></p>
-<ul>
-<li>Portfolio improvements</li>
-<li>GitHub updates</li>
-</ul>
-<p><strong>Wednesday</strong></p>
-<ul>
-<li>Interview preparation</li>
-<li>System design</li>
-</ul>
-<p><strong>Thursday</strong></p>
-<ul>
-<li>Networking</li>
-<li>Follow-ups</li>
-</ul>
-<p><strong>Friday</strong></p>
-<ul>
-<li>New applications</li>
-<li>Resume improvements</li>
-</ul>
-<p>Weekends:</p>
-<p>Rest.</p>
-<p>Burnout destroys consistency.</p>
+<p>معرفة أين تفقد الفرص تخبرك بالضبط بما تحتاج إلى تحسينه.</p>
 <hr>
-<h1>Keep Building</h1>
-<p>Don&#39;t let your skills freeze while searching.</p>
-<p>Continue building.</p>
-<p>Ideas include:</p>
+<h1>تنظيم جدول أسبوعك</h1>
+<p>البحث طوال اليوم أمر غير فعال بشكل مدهش.</p>
+<p>بدلاً من ذلك, ضع روتينًا.</p>
+<p>مثال:</p>
+<p><strong>الاثنين</strong></p>
 <ul>
-<li>open-source contributions</li>
-<li>bug fixes</li>
-<li>portfolio projects</li>
-<li>blog posts</li>
-<li>developer tools</li>
-<li>APIs</li>
-<li>browser extensions</li>
-<li>mobile apps</li>
-<li>automation scripts</li>
+<li>البحث عن وظائف جديدة</li>
+<li>التقدم للوظائف</li>
 </ul>
-<p>These provide fresh experience for interviews.</p>
-<p>Hiring managers love candidates who are actively learning.</p>
-<hr>
-<h1>Make Your GitHub Tell a Story</h1>
-<p>Recruiters don&#39;t measure commit counts.</p>
-<p>They look for evidence that you solve problems.</p>
-<p>Improve:</p>
+<p><strong>الثلاثاء</strong></p>
 <ul>
-<li>Profile README</li>
-<li>Pinned repositories</li>
-<li>Project documentation</li>
-<li>Screenshots</li>
-<li>Live demos</li>
-<li>Meaningful commit messages</li>
-<li>Good issue tracking</li>
-<li>Tests</li>
-<li>CI pipelines</li>
+<li>تحسين محفظة الأعمال</li>
+<li>تحديثات GitHub</li>
 </ul>
-<p>Your GitHub should explain your engineering thinking.</p>
-<hr>
-<h1>Practice Interviewing Continuously</h1>
-<p>Don&#39;t wait until an interview is scheduled.</p>
-<p>Practice every week.</p>
-<p>Include:</p>
+<p><strong>الأربعاء</strong></p>
 <ul>
-<li>behavioral questions</li>
-<li>coding problems</li>
-<li>debugging</li>
-<li>explaining architecture</li>
-<li>talking through projects</li>
-<li>whiteboarding</li>
-<li>system design</li>
+<li>التحضير للمقابلات</li>
+<li>تصميم الأنظمة</li>
 </ul>
-<p>Speaking out loud dramatically improves confidence.</p>
-<hr>
-<h1>Build a Personal Brand</h1>
-<p>Hiring increasingly starts before the application.</p>
-<p>Share what you&#39;re learning.</p>
-<p>Ideas include:</p>
+<p><strong>الخميس</strong></p>
 <ul>
-<li>technical blog posts</li>
-<li>LinkedIn articles</li>
-<li>GitHub discussions</li>
-<li>conference talks</li>
-<li>local meetups</li>
-<li>YouTube videos</li>
-<li>podcasts</li>
-<li>open-source contributions</li>
+<li>بناء شبكة علاقات</li>
+<li>المتابعة</li>
 </ul>
-<p>You don&#39;t need thousands of followers.</p>
-<p>You need evidence that you&#39;re engaged in your craft.</p>
-<hr>
-<h1>Network Without Feeling Fake</h1>
-<p>Networking isn&#39;t asking strangers for jobs.</p>
-<p>It&#39;s building genuine professional relationships.</p>
-<p>Good networking includes:</p>
+<p><strong>الجمعة</strong></p>
 <ul>
-<li>helping others</li>
-<li>answering questions</li>
-<li>contributing to communities</li>
-<li>attending meetups</li>
-<li>reconnecting with former coworkers</li>
-<li>asking thoughtful questions</li>
-<li>staying in touch</li>
+<li>تقديم طلبات توظيف جديدة</li>
+<li>تحسين السيرة الذاتية</li>
 </ul>
-<p>People remember people who contribute.</p>
+<p>عطلات نهاية الأسبوع:</p>
+<p>الراحة.</p>
+<p>الإرهاق يدمر الاستمرارية.</p>
 <hr>
-<h1>Follow Up Professionally</h1>
-<p>Following up isn&#39;t annoying.</p>
-<p>It&#39;s professional.</p>
-<p>A good follow-up might simply say:</p>
+<h1>استمر في التطوير</h1>
+<p>لا تدع مهاراتك تتجمد أثناء البحث عن وظيفة.</p>
+<p>استمر في التطوير.</p>
+<p>من بين الأفكار:</p>
+<ul>
+<li>المساهمات في المشاريع مفتوحة المصدر</li>
+<li>إصلاح الأخطاء البرمجية</li>
+<li>مشاريع محفظة الأعمال</li>
+<li>منشورات المدونة</li>
+<li>أدوات المطورين</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
+<li>ملحقات المتصفح</li>
+<li>تطبيقات الهاتف المحمول</li>
+<li>نصوص الأتمتة</li>
+</ul>
+<p>توفر هذه الأنشطة خبرة جديدة للمقابلات.</p>
+<p>يحب مديرو التوظيف المرشحين الذين يتعلمون بنشاط.</p>
+<hr>
+<h1>اجعل حسابك على GitHub يروي قصة</h1>
+<p>لا يقيس مسؤولو التوظيف عدد عمليات الالتزام (commit).</p>
+<p>بل يبحثون عن أدلة تثبت قدرتك على حل المشكلات.</p>
+<p>حسّن ما يلي:</p>
+<ul>
+<li>ملف README في ملفك الشخصي</li>
+<li>المستودعات المثبتة</li>
+<li>وثائق المشاريع</li>
+<li>لقطات الشاشة</li>
+<li>العروض التوضيحية الحية</li>
+<li>رسائل الالتزام ذات المغزى</li>
+<li>تتبع المشكلات بشكل جيد</li>
+<li>الاختبارات</li>
+<li>مسارات التكامل المستمر (CI)</li>
+</ul>
+<p>يجب أن يشرح حسابك على GitHub طريقة تفكيرك الهندسي.</p>
+<hr>
+<h1>تدرب على إجراء المقابلات باستمرار</h1>
+<p>لا تنتظر حتى يتم تحديد موعد للمقابلة.</p>
+<p>تدرب كل أسبوع.</p>
+<p>تضمن ما يلي:</p>
+<ul>
+<li>الأسئلة السلوكية</li>
+<li>مسائل البرمجة</li>
+<li>تصحيح الأخطاء</li>
+<li>شرح البنية</li>
+<li>مناقشة المشاريع</li>
+<li>الكتابة على السبورة البيضاء</li>
+<li>تصميم الأنظمة</li>
+</ul>
+<p>التحدث بصوت عالٍ يحسّن الثقة بالنفس بشكل كبير.</p>
+<hr>
+<h1>بناء علامة تجارية شخصية</h1>
+<p>أصبح التوظيف يبدأ بشكل متزايد قبل تقديم الطلب.</p>
+<p>شارك ما تتعلمه.</p>
+<p>من بين الأفكار:</p>
+<ul>
+<li>منشورات المدونة التقنية</li>
+<li>مقالات LinkedIn</li>
+<li>مناقشات GitHub</li>
+<li>محاضرات المؤتمرات</li>
+<li>اللقاءات المحلية</li>
+<li>مقاطع فيديو YouTube</li>
+<li>البودكاست</li>
+<li>المساهمات في المشاريع مفتوحة المصدر</li>
+</ul>
+<p>لست بحاجة إلى آلاف المتابعين.</p>
+<p>ما تحتاجه هو دليل على انخراطك في مجال تخصصك.</p>
+<hr>
+<h1>بناء شبكة علاقات دون أن تبدو مصطنعًا</h1>
+<p>بناء شبكة العلاقات لا يعني طلب وظائف من الغرباء.</p>
+<p>بل يعني بناء علاقات مهنية حقيقية.</p>
+<p>تشمل شبكة العلاقات الجيدة ما يلي:</p>
+<ul>
+<li>مساعدة الآخرين</li>
+<li>الإجابة على الأسئلة</li>
+<li>المساهمة في المجتمعات</li>
+<li>حضور اللقاءات</li>
+<li>إعادة التواصل مع زملاء العمل السابقين</li>
+<li>طرح أسئلة مدروسة</li>
+<li>البقاء على اتصال</li>
+</ul>
+<p>الناس يتذكرون من يساهمون.</p>
+<hr>
+<h1>المتابعة المهنية</h1>
+<p>المتابعة ليست مزعجة.</p>
+<p>بل هي أمر مهني.</p>
+<p>قد تكون المتابعة الجيدة ببساطة كما يلي:</p>
 <blockquote>
-<p>&quot;Hi Sarah, I wanted to follow up regarding my application for the Backend Engineer position. I&#39;m still very interested in the opportunity and would be happy to provide any additional information. Thank you for your time.&quot;</p>
+<p>&quot;مرحبًا سارة, أردت المتابعة بخصوص طلبي لشغل منصب مهندس الباك إند. ما زلت مهتمًا جدًّا بهذه الفرصة وسأكون سعيدًا بتقديم أي معلومات إضافية. شكرًا على وقتك.&quot;</p>
 </blockquote>
-<p>One follow-up after a week is appropriate.</p>
-<p>Repeated daily messages are not.</p>
+<p>المتابعة مرة واحدة بعد أسبوع أمر مناسب.</p>
+<p>أما الرسائل اليومية المتكررة فليست كذلك.</p>
 <hr>
-<h1>Learn From Every Interview</h1>
-<p>After each interview, write down:</p>
+<h1>تعلم من كل مقابلة</h1>
+<p>بعد كل مقابلة, قم بتدوين:</p>
 <ul>
-<li>questions asked</li>
-<li>answers that worked</li>
-<li>answers that didn&#39;t</li>
-<li>technologies discussed</li>
-<li>things to study</li>
-<li>feedback received</li>
+<li>الأسئلة التي طُرحت</li>
+<li>الإجابات التي كانت ناجحة</li>
+<li>الإجابات التي لم تكن ناجحة</li>
+<li>التقنيات التي تمت مناقشتها</li>
+<li>الأمور التي يجب دراستها</li>
+<li>الملاحظات التي تلقيتها</li>
 </ul>
-<p>Small improvements after every interview create enormous gains over months.</p>
+<p>التحسينات الصغيرة بعد كل مقابلة تؤدي إلى مكاسب هائلة على مدار الأشهر.</p>
 <hr>
-<h1>Handle Rejection Constructively</h1>
-<p>Rejection is part of hiring.</p>
-<p>Even exceptional engineers are rejected regularly.</p>
-<p>Sometimes:</p>
+<h1>تعامل مع الرفض بطريقة بناءة</h1>
+<p>الرفض جزء لا يتجزأ من عملية التوظيف.</p>
+<p>حتى المهندسون المتميزون يتعرضون للرفض بشكل متكرر.</p>
+<p>في بعض الأحيان:</p>
 <ul>
-<li>budgets disappear</li>
-<li>hiring freezes happen</li>
-<li>internal candidates are chosen</li>
-<li>someone accepts first</li>
-<li>priorities change</li>
+<li>تنفد الميزانيات</li>
+<li>يتم تجميد التوظيف</li>
+<li>يتم اختيار المرشحين الداخليين</li>
+<li>يقبل شخص آخر الوظيفة قبلك</li>
+<li>تتغير الأولويات</li>
 </ul>
-<p>None of those reflect your ability.</p>
-<p>When possible, ask politely for feedback.</p>
-<p>Not every company provides it, but when they do, it&#39;s often incredibly valuable.</p>
+<p>لا يعكس أي من هذه الأسباب قدراتك.</p>
+<p>وحيثما أمكن, اطلب التعليقات بأدب.</p>
+<p>لا تقدم كل الشركات هذه التعليقات, ولكن عندما تفعل, غالبًا ما تكون ذات قيمة كبيرة.</p>
 <hr>
-<h1>Protect Your Mental Health</h1>
-<p>Job searching can feel deeply personal.</p>
-<p>It isn&#39;t.</p>
-<p>A few habits make an enormous difference.</p>
+<h1>احرص على صحتك النفسية</h1>
+<p>قد يبدو البحث عن وظيفة أمرًا شخصيًّا للغاية.</p>
+<p>لكنه ليس كذلك.</p>
+<p>هناك بعض العادات التي تُحدث فرقًا هائلاً.</p>
 <ul>
-<li>Exercise regularly.</li>
-<li>Sleep enough.</li>
-<li>Keep hobbies.</li>
-<li>Spend time with family and friends.</li>
-<li>Celebrate small wins.</li>
-<li>Limit doom-scrolling.</li>
-<li>Avoid comparing yourself to strangers online.</li>
-<li>Take breaks from job boards.</li>
-<li>Continue learning because you enjoy it—not only because you&#39;re searching.</li>
+<li>مارس الرياضة بانتظام.</li>
+<li>احصل على قسط كافٍ من النوم.</li>
+<li>حافظ على هواياتك.</li>
+<li>اقضِ وقتًا مع العائلة والأصدقاء.</li>
+<li>احتفل بالإنجازات الصغيرة.</li>
+<li>قلل من تصفح الأخبار السلبية.</li>
+<li>تجنب مقارنة نفسك بأشخاص غرباء على الإنترنت.</li>
+<li>خذ استراحات من مواقع التوظيف.</li>
+<li>استمر في التعلم لأنك تستمتع به — وليس فقط لأنك تبحث عن وظيفة.</li>
 </ul>
-<p>Remember:</p>
-<p>Your identity is larger than your employment status.</p>
+<p>تذكر:</p>
+<p>هويتك أكبر من وضعك الوظيفي.</p>
 <hr>
-<h1>Recognize Burnout Early</h1>
-<p>Warning signs include:</p>
+<h1>اكتشف علامات الإرهاق مبكرًا</h1>
+<p>تشمل العلامات التحذيرية ما يلي:</p>
 <ul>
-<li>constantly refreshing job boards</li>
-<li>losing motivation to apply</li>
-<li>anxiety every morning</li>
-<li>avoiding interview preparation</li>
-<li>feeling worthless after rejection</li>
-<li>working late every night</li>
-<li>abandoning hobbies</li>
+<li>تحديث مواقع الوظائف باستمرار</li>
+<li>فقدان الحافز للتقدم للوظائف</li>
+<li>الشعور بالقلق كل صباح</li>
+<li>تجنب التحضير للمقابلات</li>
+<li>الشعور بعدم القيمة بعد الرفض</li>
+<li>العمل حتى وقت متأخر كل ليلة</li>
+<li>التخلي عن الهوايات</li>
 </ul>
-<p>If these appear, slow down.</p>
-<p>A sustainable pace almost always outperforms frantic effort.</p>
+<p>إذا ظهرت هذه العلامات, فخفف من وتيرة عملك.</p>
+<p>فالوتيرة المستدامة تتفوق دائمًا تقريبًا على الجهد المحموم.</p>
 <hr>
-<h1>Know When to Pivot</h1>
-<p>If you&#39;ve applied for months with little progress:</p>
+<h1>اعرف متى يجب تغيير مسارك</h1>
+<p>إذا كنت قد تقدمت بطلبات توظيف لعدة أشهر دون إحراز تقدم يذكر:</p>
 <ul>
-<li>Get your resume reviewed.</li>
-<li>Practice interviewing with peers.</li>
-<li>Expand geographically.</li>
-<li>Consider adjacent roles.</li>
-<li>Improve one major project.</li>
-<li>Learn one in-demand technology.</li>
-<li>Seek referrals.</li>
-<li>Consider contract or freelance work.</li>
+<li>اطلب مراجعة سيرتك الذاتية.</li>
+<li>تدرب على إجراء المقابلات مع زملائك.</li>
+<li>وسّع نطاق بحثك الجغرافي.</li>
+<li>فكر في وظائف ذات صلة.</li>
+<li>حسّن مشروعًا رئيسيًّا واحدًا.</li>
+<li>تعلم تقنية واحدة مطلوبة في سوق العمل.</li>
+<li>اطلب توصيات.</li>
+<li>فكر في العمل بعقود مؤقتة أو العمل الحر.</li>
 </ul>
-<p>Change one variable at a time so you know what helped.</p>
+<p>قم بتغيير متغير واحد في كل مرة حتى تعرف ما الذي ساعدك.</p>
 <hr>
-<h1>Celebrate Progress, Not Just Offers</h1>
-<p>Success isn&#39;t only receiving an offer.</p>
-<p>Celebrate:</p>
+<h1>احتفل بالتقدم المحرز, وليس فقط بالعروض</h1>
+<p>النجاح لا يقتصر على تلقي عرض عمل فقط.</p>
+<p>احتفل بما يلي:</p>
 <ul>
-<li>improving your resume</li>
-<li>publishing a project</li>
-<li>finishing a certification</li>
-<li>receiving your first interview</li>
-<li>passing a technical screen</li>
-<li>getting positive feedback</li>
-<li>making a new professional connection</li>
+<li>تحسين سيرتك الذاتية</li>
+<li>نشر مشروع</li>
+<li>الحصول على شهادة</li>
+<li>الحصول على أول مقابلة عمل</li>
+<li>اجتياز اختبار فني</li>
+<li>تلقي تعليقات إيجابية</li>
+<li>تكوين علاقة مهنية جديدة</li>
 </ul>
-<p>Momentum matters.</p>
+<p>الزخم مهم.</p>
 <hr>
-<h1>Common Mistakes to Avoid</h1>
+<h1>الأخطاء الشائعة التي يجب تجنبها</h1>
 <ul>
-<li>Applying to hundreds of jobs with the same resume.</li>
-<li>Waiting for one company before applying elsewhere.</li>
-<li>Ignoring networking.</li>
-<li>Never updating your portfolio.</li>
-<li>Taking every rejection personally.</li>
-<li>Searching 12 hours a day.</li>
-<li>Stopping technical learning.</li>
-<li>Failing to follow up.</li>
-<li>Accepting the first offer without evaluating it.</li>
-<li>Giving up after only a few weeks.</li>
+<li>التقدم لمئات الوظائف بنفس السيرة الذاتية.</li>
+<li>انتظار رد شركة واحدة قبل التقدم إلى مكان آخر.</li>
+<li>تجاهل بناء شبكة العلاقات.</li>
+<li>عدم تحديث محفظة أعمالك أبدًا.</li>
+<li>أخذ كل رفض على محمل شخصي.</li>
+<li>البحث لمدة 12 ساعة يوميًا.</li>
+<li>التوقف عن التعلم التقني.</li>
+<li>عدم المتابعة.</li>
+<li>قبول أول عرض دون تقييمه.</li>
+<li>الاستسلام بعد بضعة أسابيع فقط.</li>
 </ul>
 <hr>
-<h1>The Takeaway</h1>
-<p>A successful developer job search isn&#39;t built on luck or sheer volume—it&#39;s built on consistency.</p>
-<p>Define your target, tailor your applications, maintain a polished resume and GitHub profile, prepare continuously for interviews, track your progress, and improve one part of your hiring funnel every week. Treat the process like a long-term engineering project rather than a desperate sprint.</p>
-<p>Most importantly, protect your health while you&#39;re searching. Companies hire developers who can solve problems over the long term, and your job search should reflect the same mindset. A calm, organized, sustainable process will almost always outperform bursts of frantic activity followed by burnout.</p>
-<p>The next opportunity often arrives for the candidates who simply kept improving while everyone else stopped.</p>
+<h1>النقطة الأساسية</h1>
+<p>لا يعتمد البحث الناجح عن وظيفة كمطور على الحظ أو الكمية وحدها — بل يعتمد على الاستمرارية.</p>
+<p>حدد هدفك, وخصص طلبات التوظيف الخاصة بك, وحافظ على سيرة ذاتية وملف GitHub متقنين, واستعد باستمرار للمقابلات, وتابع تقدمك, وحسّن جزءًا واحدًا من مسار التوظيف الخاص بك كل أسبوع. تعامل مع هذه العملية كأنها مشروع هندسي طويل الأمد, لا كسباق محموم.</p>
+<p>والأهم من ذلك, احرص على صحتك أثناء البحث. فالشركات توظف مطورين قادرين على حل المشكلات على المدى الطويل, وينبغي أن يعكس بحثك عن الوظيفة نفس العقلية. فالمسار الهادئ والمنظم والمستدام سيتفوق دائمًا تقريبًا على نوبات النشاط المحموم التي يتبعها الإرهاق.</p>
+<p>غالبًا ما تأتي الفرصة التالية للمرشحين الذين استمروا في التحسين ببساطة بينما توقف الجميع.</p>
 <hr>
-<p><em>Ready to start your next chapter? Create a free developer profile on <strong>JobsList.dev</strong>, showcase your experience, connect directly with companies, set personalized job alerts, and let opportunities find you while you keep building your career.</em></p>
-5:["locale","ar","d"]
-6:["slug","organize-your-developer-job-search","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"organize-your-developer-job-search\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","organize-your-developer-job-search","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Run a Developer Job Search Without Burning Out\",\"description\":\"A practical guide for software developers to organize a successful job search, improve their resume, build momentum, prepare for interviews, and protect their mental health throughout the hiring process.\",\"datePublished\":\"2026-07-19T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Run a Developer Job Search Without Burning Out","date":"2026-07-19T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Run a Developer Job Search Without Burning Out | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide for software developers to organize a successful job search, improve their resume, build momentum, prepare for interviews, and protect their mental health throughout the hiring process."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Run a Developer Job Search Without Burning Out"}],["$","meta","15",{"property":"og:description","content":"A practical guide for software developers to organize a successful job search, improve their resume, build momentum, prepare for interviews, and protect their mental health throughout the hiring process."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-19T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Run a Developer Job Search Without Burning Out"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide for software developers to organize a successful job search, improve their resume, build momentum, prepare for interviews, and protect their mental health throughout the hiring process."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p><em>هل أنت مستعد لبدء فصلك التالي؟ أنشئ ملفًا شخصيًا مجانيًّا للمطورين على <strong>JobsList.dev</strong>, وعرض خبرتك, وتواصل مباشرةً مع الشركات, وقم بتعيين تنبيهات وظيفية مخصصة, ودع الفرص تجدك بينما تواصل بناء مسيرتك المهنية.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيفية البحث عن وظيفة كمطور برمجيات دون التعرض للإرهاق\",\"description\":\"دليل عملي لمطوري البرمجيات لتنظيم عملية بحث ناجحة عن وظيفة, وتحسين سيرتهم الذاتية, واكتساب الزخم, والاستعداد للمقابلات, والحفاظ على صحتهم النفسية طوال عملية التوظيف.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-19T00:00:00.000Z\",\"dateModified\":\"2026-07-19T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/organize-your-developer-job-search/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيفية البحث عن وظيفة كمطور برمجيات دون التعرض للإرهاق"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي لمطوري البرمجيات لتنظيم عملية بحث ناجحة عن وظيفة, وتحسين سيرتهم الذاتية, واكتساب الزخم, والاستعداد للمقابلات, والحفاظ على صحتهم النفسية طوال عملية التوظيف."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-19T00:00:00.000Z","children":"18 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[11," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","الحياة المهنية",{"className":"badge-gray","children":"الحياة المهنية"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","السيرة الذاتية",{"className":"badge-gray","children":"السيرة الذاتية"}],["$","span","المقابلات",{"className":"badge-gray","children":"المقابلات"}],["$","span","الإنتاجية",{"className":"badge-gray","children":"الإنتاجية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيفية البحث عن وظيفة كمطور برمجيات دون التعرض للإرهاق | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي لمطوري البرمجيات لتنظيم عملية بحث ناجحة عن وظيفة, وتحسين سيرتهم الذاتية, واكتساب الزخم, والاستعداد للمقابلات, والحفاظ على صحتهم النفسية طوال عملية التوظيف."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيفية البحث عن وظيفة كمطور برمجيات دون التعرض للإرهاق"}],["$","meta","15",{"property":"og:description","content":"دليل عملي لمطوري البرمجيات لتنظيم عملية بحث ناجحة عن وظيفة, وتحسين سيرتهم الذاتية, واكتساب الزخم, والاستعداد للمقابلات, والحفاظ على صحتهم النفسية طوال عملية التوظيف."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/organize-your-developer-job-search/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-19T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيفية البحث عن وظيفة كمطور برمجيات دون التعرض للإرهاق"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي لمطوري البرمجيات لتنظيم عملية بحث ناجحة عن وظيفة, وتحسين سيرتهم الذاتية, واكتساب الزخم, والاستعداد للمقابلات, والحفاظ على صحتهم النفسية طوال عملية التوظيف."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

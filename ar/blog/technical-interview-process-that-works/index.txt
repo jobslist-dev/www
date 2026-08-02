@@ -1,1905 +1,1777 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T10dc8,<hr>
-<p>The purpose of a technical interview is not to discover who performs best under artificial pressure.</p>
-<p>It is not to reward the candidate who has memorized the largest collection of algorithm patterns, remembers the most obscure language details, or speaks with the greatest confidence.</p>
-<p>The purpose is much simpler:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","technical-interview-process-that-works","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","technical-interview-process-that-works","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"technical-interview-process-that-works\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","technical-interview-process-that-works","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T19741,<p>الغرض من المقابلة الفنية ليس اكتشاف من يؤدي أفضل أداء تحت ضغط مصطنع.</p>
+<p>كما أنه ليس مكافأة المرشح الذي حفظ أكبر مجموعة من أنماط الخوارزميات, أو يتذكر أكثر تفاصيل اللغة غموضًا, أو يتحدث بأكبر قدر من الثقة.</p>
+<p>الغرض أبسط بكثير:</p>
 <blockquote>
-<p>Predict whether this person can perform the work, collaborate effectively, exercise sound judgment, and grow within the role.</p>
+<p>توقع ما إذا كان هذا الشخص قادرًا على أداء العمل, والتعاون بفعالية, وممارسة الحكم السليم, والتطور في هذا الدور.</p>
 </blockquote>
-<p>Many technical interview processes fail at that goal.</p>
-<p>They test candidates on problems unrelated to the position, allow interviewers to improvise inconsistent questions, rely on vague impressions, and stretch the process across so many rounds that strong candidates withdraw before a decision is made.</p>
-<p>The result is costly:</p>
+<p>تفشل العديد من عمليات المقابلات الفنية في تحقيق هذا الهدف.</p>
+<p>فهي تختبر المرشحين في مشكلات لا علاقة لها بالمنصب, وتسمح للمقابلين بطرح أسئلة غير متسقة, وتعتمد على انطباعات غامضة, وتمدد العملية عبر جولات عديدة لدرجة أن المرشحين الأقوياء ينسحبون قبل اتخاذ القرار.</p>
+<p>والنتيجة مكلفة:</p>
 <ul>
-<li>capable developers are rejected for weak reasons;</li>
-<li>candidates skilled at interviewing are mistaken for strong employees;</li>
-<li>interviewers disagree because they evaluated different qualities;</li>
-<li>bias enters through undefined concepts such as “fit”;</li>
-<li>candidates receive a poor impression of the company;</li>
-<li>open roles remain unfilled;</li>
-<li>existing engineers lose time to repetitive interviews;</li>
-<li>hiring decisions become harder rather than clearer.</li>
+<li>يتم رفض المطورين الأكفاء لأسباب واهية؛</li>
+<li>يُخطئون في اعتبار المرشحين البارعين في إجراء المقابلات موظفين أكفاء؛</li>
+<li>يختلف القائمون على المقابلات في آرائهم لأنهم يقيّمون صفات مختلفة؛</li>
+<li>يتسلل التحيز من خلال مفاهيم غير محددة مثل «التوافق»؛</li>
+<li>يتشكل لدى المرشحين انطباع سيئ عن الشركة؛</li>
+<li>تظل الوظائف الشاغرة دون شغل؛</li>
+<li>يضيع وقت المهندسين الحاليين في مقابلات متكررة؛</li>
+<li>تصبح قرارات التوظيف أكثر صعوبة بدلاً من أن تصبح أكثر وضوحًا.</li>
 </ul>
-<p>A better process does not require lowering the technical bar.</p>
-<p>It requires defining the bar more accurately and collecting evidence that relates to the actual work.</p>
-<h2>Begin with the decision the interview must support</h2>
-<p>Before designing interview stages, clarify what the company needs to decide.</p>
-<p>A useful technical interview process should answer questions such as:</p>
+<p>لا تتطلب العملية الأفضل خفض مستوى المعايير الفنية.</p>
+<p>بل تتطلب تحديد المعايير بدقة أكبر وجمع الأدلة المتعلقة بالعمل الفعلي.</p>
+<h2>ابدأ بالقرار الذي يجب أن تدعمه المقابلة</h2>
+<p>قبل تصميم مراحل المقابلة, حدد بوضوح ما تحتاج الشركة إلى اتخاذه من قرار.</p>
+<p>يجب أن تجيب عملية المقابلة الفنية المفيدة على أسئلة مثل:</p>
 <ul>
-<li>Can the candidate perform the core technical work?</li>
-<li>Can they break down an unfamiliar problem?</li>
-<li>Can they write or review maintainable code?</li>
-<li>Can they test and debug software?</li>
-<li>Can they reason about trade-offs?</li>
-<li>Can they communicate assumptions and uncertainty?</li>
-<li>Can they work effectively with teammates?</li>
-<li>Can they operate at the expected level of independence?</li>
-<li>Can they learn unfamiliar tools or systems?</li>
-<li>Can they contribute safely in a production environment?</li>
-<li>Can they create the outcomes required by the role?</li>
+<li>هل يستطيع المرشح أداء العمل الفني الأساسي؟</li>
+<li>هل يستطيع تحليل مشكلة غير مألوفة؟</li>
+<li>هل يستطيع كتابة أو مراجعة كود قابل للصيانة؟</li>
+<li>هل يستطيع اختبار البرامج وتصحيح أخطائها؟</li>
+<li>هل يستطيع التفكير في المفاضلات؟</li>
+<li>هل يمكنه التعبير عن الافتراضات وحالات عدم اليقين؟</li>
+<li>هل يمكنه العمل بفعالية مع زملائه في الفريق؟</li>
+<li>هل يمكنه العمل بمستوى الاستقلالية المتوقع؟</li>
+<li>هل يمكنه تعلم أدوات أو أنظمة غير مألوفة؟</li>
+<li>هل يمكنه المساهمة بأمان في بيئة الإنتاج؟</li>
+<li>هل يمكنه تحقيق النتائج المطلوبة للمنصب؟</li>
 </ul>
-<p>These questions are more useful than:</p>
+<p>هذه الأسئلة أكثر فائدة من:</p>
 <ul>
-<li>Did the candidate solve the puzzle quickly?</li>
-<li>Did they use the interviewer’s preferred algorithm?</li>
-<li>Did they appear confident?</li>
-<li>Would the interviewer enjoy having lunch with them?</li>
-<li>Did they know the exact framework already?</li>
-<li>Did they attend a prestigious school?</li>
-<li>Did their answer feel senior?</li>
+<li>يتم رفض المطورين الأكفاء لأسباب واهية؛</li>
+<li>يُخطئ المقابلون في اعتبار المرشحين البارعين في إجراء المقابلات موظفين أكفاء؛</li>
+<li>يختلف المقابلون في آرائهم لأنهم يقيّمون صفات مختلفة؛</li>
+<li>يتسلل التحيز من خلال مفاهيم غير محددة مثل «التوافق»؛</li>
+<li>يتشكل لدى المرشحين انطباع سيئ عن الشركة؛</li>
+<li>تظل الوظائف الشاغرة دون شغل؛</li>
+<li>يضيع وقت المهندسين الحاليين في مقابلات متكررة؛</li>
+<li>تصبح قرارات التوظيف أكثر صعوبة بدلاً من أن تصبح أكثر وضوحًا.</li>
 </ul>
-<p>The first set focuses on evidence.</p>
-<p>The second relies heavily on proxies and personal impressions.</p>
-<h2>Define success in the role before evaluating candidates</h2>
-<p>A technical interview cannot predict performance when the role itself is unclear.</p>
-<p>Before publishing the position, define:</p>
+<p>لا تتطلب العملية الأفضل خفض مستوى المعايير الفنية.</p>
+<p>بل تتطلب تحديد المعايير بدقة أكبر وجمع الأدلة المتعلقة بالعمل الفعلي.</p>
+<h2>ابدأ بالقرار الذي يجب أن تدعمه المقابلة</h2>
+<p>قبل تصميم مراحل المقابلة, حدد بوضوح ما تحتاج الشركة إلى اتخاذه من قرار.</p>
+<p>يجب أن تجيب عملية المقابلة الفنية المفيدة على أسئلة مثل:</p>
 <ul>
-<li>the mission of the role;</li>
-<li>the expected level;</li>
-<li>the major responsibilities;</li>
-<li>the systems involved;</li>
-<li>the outcomes expected during the first year;</li>
-<li>the decisions the person will own;</li>
-<li>the degree of autonomy required;</li>
-<li>the people and teams they will collaborate with;</li>
-<li>the technical risks they will manage;</li>
-<li>the skills required immediately;</li>
-<li>the skills that can be learned after joining.</li>
+<li>هل يستطيع المرشح أداء العمل الفني الأساسي؟</li>
+<li>هل يستطيع تحليل مشكلة غير مألوفة؟</li>
+<li>هل يستطيع كتابة أو مراجعة كود قابل للصيانة؟</li>
+<li>هل يستطيع اختبار البرامج وتصحيح أخطائها؟</li>
+<li>هل يستطيع التفكير في المفاضلات؟</li>
+<li>هل يستطيع التعبير عن الافتراضات وحالات عدم اليقين؟</li>
+<li>هل يستطيع العمل بفعالية مع زملائه في الفريق؟</li>
+<li>هل يستطيع العمل بمستوى الاستقلالية المتوقع؟</li>
+<li>هل يمكنه تعلم أدوات أو أنظمة غير مألوفة؟</li>
+<li>هل يمكنه المساهمة بأمان في بيئة الإنتاج؟</li>
+<li>هل يمكنه تحقيق النتائج المطلوبة للمنصب؟</li>
 </ul>
-<p>Without this preparation, every interviewer may evaluate a different version of the job.</p>
-<p>One interviewer may focus on algorithmic speed. Another may emphasize system design. Another may evaluate personality. A fourth may reject candidates who lack experience with one preferred tool.</p>
-<p>The resulting feedback cannot be compared meaningfully because the interviewers were not answering the same question.</p>
-<h2>Create a role scorecard</h2>
-<p>A role scorecard converts a broad job description into observable outcomes and competencies.</p>
-<p>For example:</p>
-<h3>Role mission</h3>
-<p>Build and operate reliable backend services supporting customer identity, authorization, and account access.</p>
-<h3>Expected first-year outcomes</h3>
+<p>هذه الأسئلة أكثر فائدة من:</p>
 <ul>
-<li>Take ownership of at least one production service.</li>
-<li>Reduce recurring authentication-related incidents.</li>
-<li>Improve test coverage and observability.</li>
-<li>Contribute to authorization architecture.</li>
-<li>Lead or support one meaningful service migration.</li>
-<li>Document operational procedures.</li>
-<li>Mentor less-experienced engineers.</li>
+<li>هل حل المرشح اللغز بسرعة؟</li>
+<li>هل استخدم الخوارزمية المفضلة لدى القائم بالمقابلة؟</li>
+<li>هل بدا واثقًا من نفسه؟</li>
+<li>هل سيستمتع القائم بالمقابلة بتناول الغداء برفقته؟</li>
+<li>هل كان على دراية مسبقة بالإطار الفني المحدد؟</li>
+<li>هل تخرج من جامعة مرموقة؟</li>
+<li>هل بدت إجابته على مستوى موظف ذي خبرة؟</li>
 </ul>
-<h3>Technical competencies</h3>
+<p>تركز المجموعة الأولى على الأدلة.</p>
+<p>أما المجموعة الثانية فتعتمد بشكل كبير على المؤشرات غير المباشرة والانطباعات الشخصية.</p>
+<h2>حدد معايير النجاح في الوظيفة قبل تقييم المرشحين</h2>
+<p>لا يمكن للمقابلة الفنية أن تتنبأ بالأداء عندما تكون الوظيفة نفسها غير واضحة.</p>
+<p>قبل الإعلان عن الوظيفة, حدد ما يلي:</p>
 <ul>
-<li>Backend development</li>
-<li>API design</li>
-<li>Data modeling</li>
-<li>Testing</li>
-<li>Debugging</li>
-<li>Security</li>
-<li>Reliability</li>
-<li>System design</li>
+<li>مهمة الوظيفة؛</li>
+<li>المستوى المتوقع؛</li>
+<li>المسؤوليات الرئيسية؛</li>
+<li>الأنظمة المعنية؛</li>
+<li>النتائج المتوقعة خلال السنة الأولى؛</li>
+<li>القرارات التي سيتولى الشخص مسؤوليتها؛</li>
+<li>درجة الاستقلالية المطلوبة؛</li>
+<li>الأشخاص والفرق التي سيتعاون معها؛</li>
+<li>المخاطر التقنية التي سيتولى إدارتها؛</li>
+<li>المهارات المطلوبة فورًا؛</li>
+<li>المهارات التي يمكن اكتسابها بعد الانضمام.</li>
 </ul>
-<h3>Working competencies</h3>
+<p>بدون هذا الإعداد, قد يقيّم كل مُحاور نسخة مختلفة من الوظيفة.</p>
+<p>قد يركز أحد القائمين على المقابلة على سرعة الخوارزميات. وقد يركز آخر على تصميم الأنظمة. وقد يقيّم ثالث الشخصية. وقد يرفض رابع المرشحين الذين يفتقرون إلى الخبرة في استخدام أداة معينة مفضلة.</p>
+<p>ولا يمكن مقارنة التعليقات الناتجة بشكل هادف لأن القائمين على المقابلة لم يكونوا يجيبون على السؤال نفسه.</p>
+<h2>إنشاء بطاقة تقييم الوظيفة</h2>
+<p>تحول بطاقة أداء الوظيفة الوصف الوظيفي العام إلى نتائج وكفاءات قابلة للملاحظة.</p>
+<p>على سبيل المثال:</p>
+<h3>مهمة الوظيفة</h3>
+<p>بناء وتشغيل خدمات خلفية موثوقة تدعم هوية العملاء والتفويض والوصول إلى الحسابات.</p>
+<h3>النتائج المتوقعة في السنة الأولى</h3>
 <ul>
-<li>Communication</li>
-<li>Collaboration</li>
-<li>Ownership</li>
-<li>Learning</li>
-<li>Judgment</li>
-<li>Prioritization</li>
-<li>Response to feedback</li>
+<li>تولي مسؤولية خدمة إنتاجية واحدة على الأقل.</li>
+<li>تقليل الحوادث المتكررة المتعلقة بالمصادقة.</li>
+<li>تحسين تغطية الاختبارات وقابلية المراقبة.</li>
+<li>المساهمة في بنية التفويض.</li>
+<li>قيادة أو دعم عملية ترحيل خدمة واحدة ذات أهمية.</li>
+<li>توثيق الإجراءات التشغيلية.</li>
+<li>توجيه المهندسين الأقل خبرة.</li>
 </ul>
-<p>Every interview stage should collect evidence for one or more items on this scorecard.</p>
-<p>If a question does not help evaluate a defined competency, reconsider whether it belongs in the process.</p>
-<h2>Separate essential skills from learnable tools</h2>
-<p>Many interview loops overvalue exact stack experience.</p>
-<p>A company using Go, PostgreSQL, Kubernetes, and AWS may assume every candidate must already have production experience with all four.</p>
-<p>That may unnecessarily exclude strong developers with transferable experience.</p>
-<p>Separate requirements into three groups.</p>
-<h3>Essential before joining</h3>
-<p>Skills the candidate genuinely needs to perform the role safely.</p>
-<p>Examples:</p>
+<h3>الكفاءات الفنية</h3>
 <ul>
-<li>ability to write production-quality backend code;</li>
-<li>understanding of HTTP and API design;</li>
-<li>relational data-modeling fundamentals;</li>
-<li>testing and debugging ability;</li>
-<li>basic security awareness;</li>
-<li>ability to explain technical decisions.</li>
+<li>تطوير الخدمات الخلفية</li>
+<li>تصميم واجهات برمجة التطبيقات (API)</li>
+<li>نمذجة البيانات</li>
+<li>الاختبار</li>
+<li>تصحيح الأخطاء</li>
+<li>الأمن</li>
+<li>الموثوقية</li>
+<li>تصميم الأنظمة</li>
 </ul>
-<h3>Learnable after joining</h3>
-<p>Skills a capable engineer can acquire with reasonable support.</p>
-<p>Examples:</p>
+<h3>الكفاءات العملية</h3>
 <ul>
-<li>your exact cloud provider;</li>
-<li>a particular queueing product;</li>
-<li>internal deployment tooling;</li>
-<li>your observability vendor;</li>
-<li>company-specific architecture conventions;</li>
-<li>internal business terminology.</li>
+<li>التواصل</li>
+<li>التعاون</li>
+<li>تحمل المسؤولية</li>
+<li>التعلم</li>
+<li>التقدير</li>
+<li>تحديد الأولويات</li>
+<li>الاستجابة للتعليقات</li>
 </ul>
-<h3>Helpful but optional</h3>
-<p>Experience that may provide an advantage but should not automatically determine the outcome.</p>
-<p>Examples:</p>
+<p>يجب أن تجمع كل مرحلة من مراحل المقابلة أدلة على بند واحد أو أكثر من بنود بطاقة التقييم هذه.</p>
+<p>إذا كان السؤال لا يساعد في تقييم كفاءة محددة, فكر مجددًا فيما إذا كان مكانه في هذه العملية.</p>
+<h2>فصل المهارات الأساسية عن الأدوات القابلة للتعلم</h2>
+<p>تبالغ العديد من دورات المقابلات في تقدير أهمية الخبرة المحددة في مجموعة التقنيات المستخدمة.</p>
+<p>قد تفترض شركة تستخدم Go وPostgreSQL وKubernetes وAWS أن كل مرشح يجب أن يكون لديه بالفعل خبرة عملية في استخدام هذه التقنيات الأربعة جميعها.</p>
+<p>قد يؤدي ذلك إلى استبعاد مطورين أكفاء يتمتعون بخبرة قابلة للتطبيق في مجالات أخرى دون داعٍ.</p>
+<p>قسّم المتطلبات إلى ثلاث مجموعات.</p>
+<h3>المتطلبات الأساسية قبل الانضمام</h3>
+<p>المهارات التي يحتاجها المرشح فعليًّا لأداء المهام بأمان.</p>
+<p>أمثلة:</p>
 <ul>
-<li>experience in the same industry;</li>
-<li>familiarity with a secondary language;</li>
-<li>prior startup experience;</li>
-<li>open-source maintenance;</li>
-<li>public speaking.</li>
+<li>القدرة على كتابة كود للخلفية (backend) بجودة إنتاجية؛</li>
+<li>فهم بروتوكول HTTP وتصميم واجهات برمجة التطبيقات (API)؛</li>
+<li>أساسيات نمذجة البيانات العلائقية؛</li>
+<li>القدرة على الاختبار وتصحيح الأخطاء؛</li>
+<li>الوعي الأساسي بالأمن؛</li>
+<li>القدرة على شرح القرارات التقنية.</li>
 </ul>
-<p>The interview should test transferable engineering ability rather than rewarding only candidates whose previous company used the same tools.</p>
-<h2>Match the evaluation to the work</h2>
-<p>The strongest assessments resemble the job.</p>
-<p>If the role involves reviewing pull requests, include code review.</p>
-<p>If the role involves debugging production services, include debugging.</p>
-<p>If the role involves designing APIs, ask the candidate to design an API.</p>
-<p>If the role involves building accessible interfaces, evaluate accessibility.</p>
-<p>If the role involves infrastructure automation, test infrastructure reasoning.</p>
-<p>A candidate for a backend product role should not be judged primarily through obscure graph algorithms unless those algorithms are genuinely important to the work.</p>
-<p>A candidate for a frontend role should not spend the entire interview implementing a balanced tree while accessibility, browser behavior, state management, and component design remain unevaluated.</p>
-<p>The closer the assessment is to the job, the easier it is to interpret the result.</p>
-<h2>Use work samples rather than abstract proxies</h2>
-<p>A work sample gives the candidate an opportunity to perform a smaller version of the actual job.</p>
-<p>Useful formats include:</p>
+<h3>يمكن اكتسابها بعد الانضمام</h3>
+<p>المهارات التي يمكن لمهندس كفء اكتسابها مع توفر الدعم المناسب.</p>
+<p>أمثلة:</p>
 <ul>
-<li>a live coding exercise;</li>
-<li>a debugging exercise;</li>
-<li>a code-review exercise;</li>
-<li>a pair-programming session;</li>
-<li>an API-design task;</li>
-<li>a data-modeling discussion;</li>
-<li>a system-design exercise;</li>
-<li>a project walkthrough;</li>
-<li>a short take-home assignment;</li>
-<li>an incident-analysis exercise.</li>
+<li>مزود الخدمات السحابية الخاص بشركتك؛</li>
+<li>منتج معين لإدارة قوائم الانتظار؛</li>
+<li>أدوات النشر الداخلية؛</li>
+<li>مزود خدمات الرصد الخاص بشركتك؛</li>
+<li>قواعد الهندسة المعمارية الخاصة بالشركة؛</li>
+<li>المصطلحات التجارية الداخلية.</li>
 </ul>
-<p>The correct format depends on what the role requires.</p>
-<p>No single assessment is ideal for every engineering position.</p>
-<h2>Live coding exercises</h2>
-<p>Live coding can reveal:</p>
+<h3>مفيدة لكنها اختيارية</h3>
+<p>الخبرات التي قد توفر ميزة إضافية, لكن لا ينبغي أن تحدد النتيجة تلقائيًا.</p>
+<p>أمثلة:</p>
 <ul>
-<li>problem decomposition;</li>
-<li>communication;</li>
-<li>coding fundamentals;</li>
-<li>testing habits;</li>
-<li>response to feedback;</li>
-<li>ability to work through uncertainty.</li>
+<li>الخبرة في نفس المجال؛</li>
+<li>الإلمام بلغة ثانية؛</li>
+<li>خبرة سابقة في الشركات الناشئة؛</li>
+<li>صيانة المشاريع مفتوحة المصدر؛</li>
+<li>الخطابة.</li>
 </ul>
-<p>However, live coding can also produce artificial pressure.</p>
-<p>To make it more predictive:</p>
+<p>يجب أن تختبر المقابلة القدرات الهندسية القابلة للتطبيق في مجالات أخرى, بدلاً من مكافأة المرشحين الذين استخدمت شركاتهم السابقة نفس الأدوات فقط.</p>
+<h2>مواءمة التقييم مع طبيعة العمل</h2>
+<p>أقوى التقييمات هي تلك التي تشبه طبيعة الوظيفة.</p>
+<p>إذا كان الدور يتضمن مراجعة طلبات السحب (pull requests), فقم بتضمين مراجعة الكود.</p>
+<p>إذا كان الدور يتضمن تصحيح أخطاء خدمات الإنتاج, فقم بتضمين اختبار تصحيح الأخطاء.</p>
+<p>إذا كان الدور يتضمن تصميم واجهات برمجة التطبيقات (APIs), فاطلب من المرشح تصميم واجهة برمجة تطبيقات.</p>
+<p>إذا كان الدور يتضمن بناء واجهات سهلة الوصول, فقم بتقييم سهولة الوصول.</p>
+<p>إذا كان الدور يتضمن أتمتة البنية التحتية, فاختبر القدرة على التفكير في البنية التحتية.</p>
+<p>لا ينبغي تقييم المرشح لوظيفة متعلقة بالجانب الخلفي للمنتج (backend) بشكل أساسي من خلال خوارزميات الرسوم البيانية الغامضة, ما لم تكن تلك الخوارزميات ذات أهمية حقيقية للعمل.</p>
+<p>لا ينبغي أن يقضي المرشح لوظيفة متعلقة بالجانب الأمامي (frontend) المقابلة بأكملها في تنفيذ شجرة متوازنة, بينما تظل قضايا مثل إمكانية الوصول وسلوك المتصفح وإدارة الحالة وتصميم المكونات دون تقييم.</p>
+<p>كلما كان التقييم أقرب إلى طبيعة الوظيفة, زادت سهولة تفسير النتيجة.</p>
+<h2>استخدم عينات العمل بدلاً من الاختبارات النظرية</h2>
+<p>تمنح عينة العمل المرشح فرصة لأداء نسخة مصغرة من المهمة الفعلية.</p>
+<p>تشمل الأشكال المفيدة ما يلي:</p>
 <ul>
-<li>use a realistic problem;</li>
-<li>allow normal documentation;</li>
-<li>explain the evaluation criteria;</li>
-<li>let candidates ask questions;</li>
-<li>avoid trick requirements;</li>
-<li>provide a familiar editor where possible;</li>
-<li>treat the session as collaboration;</li>
-<li>allow reasonable accommodations;</li>
-<li>evaluate the process, not only completion.</li>
+<li>تمرين برمجة مباشر؛</li>
+<li>تمرين تصحيح الأخطاء؛</li>
+<li>تمرين مراجعة الكود؛</li>
+<li>جلسة برمجة ثنائية؛</li>
+<li>مهمة تصميم واجهة برمجة التطبيقات (API)؛</li>
+<li>مناقشة حول نمذجة البيانات؛</li>
+<li>تمرين تصميم النظام؛</li>
+<li>عرض تفصيلي للمشروع؛</li>
+<li>واجب منزلي قصير؛</li>
+<li>تمرين تحليل الحوادث.</li>
 </ul>
-<p>Do not expect candidates to behave exactly as they would during ordinary work while being watched by several strangers.</p>
-<p>Account for the unusual environment when interpreting performance.</p>
-<h2>Pair-programming exercises</h2>
-<p>Pair programming can be especially valuable for roles that require close collaboration.</p>
-<p>A good pairing session allows the interviewer and candidate to:</p>
+<p>يعتمد الشكل الصحيح على متطلبات الدور الوظيفي.</p>
+<p>لا يوجد تقييم واحد مثالي لجميع الوظائف الهندسية.</p>
+<h2>تمارين البرمجة الحية</h2>
+<p>يمكن أن تكشف البرمجة الحية ما يلي:</p>
 <ul>
-<li>clarify the problem together;</li>
-<li>discuss possible approaches;</li>
-<li>write or modify code;</li>
-<li>test the result;</li>
-<li>review trade-offs;</li>
-<li>respond to new requirements.</li>
+<li>تحليل المشكلة؛</li>
+<li>مهارات التواصل؛</li>
+<li>أساسيات البرمجة؛</li>
+<li>عادات الاختبار؛</li>
+<li>الاستجابة للتعليقات؛</li>
+<li>القدرة على العمل في ظل عدم اليقين.</li>
 </ul>
-<p>The interviewer should act like a teammate, not an adversary.</p>
-<p>Useful behaviors to observe include:</p>
+<p>ومع ذلك, قد يولد البرمجة الحية ضغطًا مصطنعًا.</p>
+<p>لجعلها أكثر دقة في التنبؤ:</p>
 <ul>
-<li>whether the candidate asks clarifying questions;</li>
-<li>how they explain their reasoning;</li>
-<li>whether they respond constructively to suggestions;</li>
-<li>whether they notice errors;</li>
-<li>how they decide what to test;</li>
-<li>whether they can revise their approach.</li>
+<li>استخدام مشكلة واقعية؛</li>
+<li>السماح بالتوثيق العادي؛</li>
+<li>شرح معايير التقييم؛</li>
+<li>السماح للمرشحين بطرح الأسئلة؛</li>
+<li>تجنب المتطلبات الخادعة؛</li>
+<li>توفير محرر مألوف حيثما أمكن؛</li>
+<li>التعامل مع الجلسة على أنها تعاون؛</li>
+<li>السماح بتسهيلات معقولة؛</li>
+<li>تقييم العملية, وليس مجرد إتمام المهمة.</li>
 </ul>
-<p>Do not intentionally withhold essential information simply to see whether the candidate fails.</p>
-<h2>Debugging exercises</h2>
-<p>Debugging is one of the most common activities in software engineering, yet many interview processes barely test it.</p>
-<p>A useful debugging exercise can evaluate whether the candidate:</p>
+<p>لا تتوقع من المرشحين أن يتصرفوا تمامًا كما يفعلون أثناء العمل العادي بينما يراقبهم عدد من الغرباء.</p>
+<p>ضع في اعتبارك البيئة غير المعتادة عند تقييم الأداء.</p>
+<h2>تمارين البرمجة الثنائية</h2>
+<p>يمكن أن تكون البرمجة الثنائية ذات قيمة خاصة للوظائف التي تتطلب تعاونًا وثيقًا.</p>
+<p>تتيح جلسة البرمجة الثنائية الجيدة للمحاور والمرشح ما يلي:</p>
+<ul>
+<li>توضيح المشكلة معًا؛</li>
+<li>مناقشة الأساليب الممكنة؛</li>
+<li>كتابة أو تعديل الكود؛</li>
+<li>اختبار النتيجة؛</li>
+<li>مراجعة المفاضلات؛</li>
+<li>الاستجابة للمتطلبات الجديدة.</li>
+</ul>
+<p>يجب أن يتصرف القائم بالمقابلة كزميل في الفريق, وليس كخصم.</p>
+<p>تشمل السلوكيات المفيدة التي يجب ملاحظتها ما يلي:</p>
+<ul>
+<li>ما إذا كان المرشح يطرح أسئلة توضيحية؛</li>
+<li>كيف يشرح منطقه؛</li>
+<li>ما إذا كان يستجيب بشكل بناء للاقتراحات؛</li>
+<li>ما إذا كان يلاحظ الأخطاء؛</li>
+<li>كيف يقرر ما يجب اختباره؛</li>
+<li>ما إذا كان قادرًا على مراجعة نهجه.</li>
+</ul>
+<p>لا تحجب المعلومات الأساسية عن قصد لمجرد معرفة ما إذا كان المرشح سيفشل أم لا.</p>
+<h2>تمارين تصحيح الأخطاء</h2>
+<p>يعد تصحيح الأخطاء أحد أكثر الأنشطة شيوعًا في هندسة البرمجيات, ومع ذلك فإن العديد من عمليات المقابلات لا تختبره إلا نادرًا.</p>
+<p>يمكن لتمرين تصحيح الأخطاء المفيد تقييم ما إذا كان المرشح:</p>
 <ol>
-<li>Clarifies the expected behavior.</li>
-<li>Reproduces the problem.</li>
-<li>Reads logs and errors carefully.</li>
-<li>Forms a hypothesis.</li>
-<li>Gathers evidence.</li>
-<li>Changes one variable at a time.</li>
-<li>Verifies the solution.</li>
-<li>Adds regression protection.</li>
-<li>Considers production impact.</li>
-<li>Communicates uncertainty.</li>
+<li>يوضح السلوك المتوقع.</li>
+<li>يعيد إنتاج المشكلة.</li>
+<li>يقرأ السجلات والأخطاء بعناية.</li>
+<li>يضع فرضية.</li>
+<li>يجمع الأدلة.</li>
+<li>يغير متغيرًا واحدًا في كل مرة.</li>
+<li>يتحقق من الحل.</li>
+<li>يضيف حماية ضد التراجع.</li>
+<li>يأخذ تأثير ذلك على بيئة الإنتاج في الاعتبار.</li>
+<li>يعبّر عن عدم اليقين.</li>
 </ol>
-<p>The objective should not be to hide an absurdly obscure bug.</p>
-<p>Use a realistic failure that rewards a disciplined investigation.</p>
-<h2>Code-review exercises</h2>
-<p>Professional developers often spend significant time reading and reviewing code.</p>
-<p>A code-review exercise can reveal:</p>
+<p>لا ينبغي أن يكون الهدف هو إخفاء خطأ برمجي غامض بشكل غير معقول.</p>
+<p>استخدم عطلًا واقعيًّا يكافئ التحقيق المنضبط.</p>
+<h2>تمارين مراجعة الكود</h2>
+<p>غالبًا ما يقضي المطورون المحترفون وقتًا طويلاً في قراءة الكود ومراجعته.</p>
+<p>يمكن أن تكشف تمارين مراجعة الكود عن:</p>
 <ul>
-<li>correctness;</li>
-<li>maintainability;</li>
-<li>testing judgment;</li>
-<li>security awareness;</li>
-<li>communication;</li>
-<li>prioritization;</li>
-<li>ability to distinguish critical issues from preferences.</li>
+<li>صحة الكود؛</li>
+<li>قابلية الصيانة؛</li>
+<li>التقدير الصحيح للاختبارات؛</li>
+<li>الوعي بالأمن؛</li>
+<li>التواصل؛</li>
+<li>تحديد الأولويات؛</li>
+<li>القدرة على التمييز بين المشكلات الحرجة والتفضيلات.</li>
 </ul>
-<p>Give the candidate a small pull request and ask them to review it.</p>
-<p>Observe whether they identify:</p>
+<p>قدم للمرشح طلب سحب صغير واطلب منه مراجعته.</p>
+<p>راقب ما إذا كان يحدد:</p>
 <ul>
-<li>functional errors;</li>
-<li>missing tests;</li>
-<li>unclear naming;</li>
-<li>security risks;</li>
-<li>performance concerns;</li>
-<li>unnecessary complexity;</li>
-<li>maintainability issues.</li>
+<li>الأخطاء الوظيفية؛</li>
+<li>الاختبارات المفقودة؛</li>
+<li>التسميات غير الواضحة؛</li>
+<li>المخاطر الأمنية؛</li>
+<li>مخاوف الأداء؛</li>
+<li>التعقيد غير الضروري؛</li>
+<li>مشكلات قابلية الصيانة.</li>
 </ul>
-<p>Also evaluate how they communicate feedback.</p>
-<p>A strong reviewer can explain why a change matters without turning every personal preference into a blocking issue.</p>
-<h2>API-design exercises</h2>
-<p>An API-design exercise may evaluate:</p>
+<p>قم أيضًا بتقييم كيفية توصيله للتعليقات.</p>
+<p>يمكن للمراجع المتميز أن يشرح أهمية التغيير دون تحويل كل تفضيل شخصي إلى مشكلة تعوق العمل.</p>
+<h2>تمارين تصميم واجهة برمجة التطبيقات (API)</h2>
+<p>قد تقيّم تمارين تصميم واجهة برمجة التطبيقات (API) ما يلي:</p>
 <ul>
-<li>requirements clarification;</li>
-<li>resource modeling;</li>
-<li>request and response design;</li>
-<li>validation;</li>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>idempotency;</li>
-<li>errors;</li>
-<li>versioning;</li>
-<li>pagination;</li>
-<li>observability.</li>
+<li>توضيح المتطلبات؛</li>
+<li>نمذجة الموارد؛</li>
+<li>تصميم الطلبات والاستجابات؛</li>
+<li>التحقق من الصحة؛</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>التماثلية؛</li>
+<li>الأخطاء؛</li>
+<li>تحديد الإصدارات؛</li>
+<li>ترقيم الصفحات؛</li>
+<li>قابلية المراقبة.</li>
 </ul>
-<p>A useful prompt might ask the candidate to design part of a job-application or payment workflow.</p>
-<p>Do not score the candidate against one hidden endpoint structure.</p>
-<p>Evaluate whether the design is coherent, justified, secure, and appropriate for the stated requirements.</p>
-<h2>Data-modeling exercises</h2>
-<p>For roles involving databases, ask candidates to model a realistic domain.</p>
-<p>Evaluate:</p>
+<p>قد يكون من المفيد أن يُطلب من المرشح تصميم جزء من سير عمل يتعلق بطلب التوظيف أو الدفع.</p>
+<p>لا تقم بتقييم المرشح بناءً على بنية نقطة نهاية واحدة مخفية.</p>
+<p>قم بتقييم ما إذا كان التصميم متماسكًا ومبررًا وآمنًا ومناسبًا للمتطلبات المحددة.</p>
+<h2>تمارين نمذجة البيانات</h2>
+<p>بالنسبة للوظائف التي تتضمن قواعد البيانات, اطلب من المرشحين نمذجة مجال واقعي.</p>
+<p>قم بتقييم:</p>
 <ul>
-<li>entity boundaries;</li>
-<li>relationships;</li>
-<li>constraints;</li>
-<li>indexes;</li>
-<li>normalization;</li>
-<li>consistency;</li>
-<li>migration concerns;</li>
-<li>query patterns;</li>
-<li>retention;</li>
-<li>privacy;</li>
-<li>scaling assumptions.</li>
+<li>حدود الكيانات؛</li>
+<li>العلاقات؛</li>
+<li>القيود؛</li>
+<li>الفهارس؛</li>
+<li>التطبيع؛</li>
+<li>الاتساق؛</li>
+<li>مخاوف الترحيل؛</li>
+<li>أنماط الاستعلام؛</li>
+<li>الاحتفاظ بالبيانات؛</li>
+<li>الخصوصية؛</li>
+<li>افتراضات التوسع.</li>
 </ul>
-<p>Do not reward complexity for its own sake.</p>
-<p>A simple relational model may be the strongest solution when the requirements do not justify a distributed data platform.</p>
-<h2>System-design interviews</h2>
-<p>System design should evaluate judgment, not diagram performance.</p>
-<p>A strong candidate will usually begin by clarifying:</p>
+<p>لا تكافئ التعقيد لمجرد التعقيد.</p>
+<p>قد يكون النموذج العلائقي البسيط هو الحل الأقوى عندما لا تبرر المتطلبات استخدام منصة بيانات موزعة.</p>
+<h2>مقابلات تصميم النظام</h2>
+<p>يجب أن يقيّم تصميم النظام القدرة على اتخاذ القرار, وليس أداء الرسم التخطيطي.</p>
+<p>عادةً ما يبدأ المرشح القوي بتوضيح:</p>
 <ul>
-<li>users;</li>
-<li>use cases;</li>
-<li>scale;</li>
-<li>latency;</li>
-<li>availability;</li>
-<li>consistency;</li>
-<li>security;</li>
-<li>privacy;</li>
-<li>cost;</li>
-<li>operational constraints.</li>
+<li>المستخدمين؛</li>
+<li>حالات الاستخدام؛</li>
+<li>الحجم؛</li>
+<li>زمن الاستجابة؛</li>
+<li>التوافر؛</li>
+<li>الاتساق؛</li>
+<li>الأمان؛</li>
+<li>الخصوصية؛</li>
+<li>التكلفة؛</li>
+<li>القيود التشغيلية.</li>
 </ul>
-<p>They may then discuss:</p>
+<p>ثم قد يناقشون:</p>
 <ul>
-<li>interfaces;</li>
-<li>data models;</li>
-<li>major components;</li>
-<li>request flows;</li>
-<li>failure modes;</li>
-<li>caching;</li>
-<li>queues;</li>
-<li>observability;</li>
-<li>deployment;</li>
-<li>evolution.</li>
+<li>الواجهات؛</li>
+<li>نماذج البيانات؛</li>
+<li>المكونات الرئيسية؛</li>
+<li>تدفقات الطلبات؛</li>
+<li>أنماط الفشل؛</li>
+<li>التخزين المؤقت؛</li>
+<li>قوائم الانتظار؛</li>
+<li>قابلية المراقبة؛</li>
+<li>النشر؛</li>
+<li>التطور.</li>
 </ul>
-<p>Good system design does not mean naming the most technologies.</p>
-<p>It means choosing an appropriate level of complexity and explaining the consequences.</p>
-<p>Useful follow-up questions include:</p>
+<p>لا يعني التصميم الجيد للنظام ذكر أكبر عدد ممكن من التقنيات.</p>
+<p>بل يعني اختيار مستوى مناسب من التعقيد وشرح العواقب.</p>
+<p>تشمل الأسئلة التكميلية المفيدة ما يلي:</p>
 <ul>
-<li>What happens when this dependency fails?</li>
-<li>How would retries affect the operation?</li>
-<li>Which data must remain consistent?</li>
-<li>What becomes the first bottleneck?</li>
-<li>How would you deploy this safely?</li>
-<li>What would you monitor?</li>
-<li>Which security boundary matters most?</li>
-<li>At what scale would the architecture need to change?</li>
-<li>Which parts would you postpone until they are needed?</li>
+<li>ماذا يحدث عندما تفشل هذه التبعية؟</li>
+<li>كيف ستؤثر محاولات الإعادة على العملية؟</li>
+<li>ما هي البيانات التي يجب أن تظل متسقة؟</li>
+<li>ما الذي سيصبح أول عنق زجاجة؟</li>
+<li>كيف ستقوم بنشر هذا النظام بأمان؟</li>
+<li>ما الذي ستقوم بمراقبته؟</li>
+<li>ما هو الحد الأمني الأكثر أهمية؟</li>
+<li>عند أي نطاق ستحتاج البنية إلى التغيير؟</li>
+<li>ما هي الأجزاء التي ستؤجلها حتى تصبح هناك حاجة إليها؟</li>
 </ul>
-<h2>Project walkthroughs</h2>
-<p>A detailed discussion of prior work can provide strong evidence without requiring the candidate to produce new unpaid work.</p>
-<p>Ask the candidate to select a meaningful project and explain:</p>
+<h2>استعراضات المشاريع</h2>
+<p>يمكن أن توفر المناقشة التفصيلية للأعمال السابقة أدلة قوية دون الحاجة إلى مطالبة المرشح بإنتاج عمل جديد غير مدفوع الأجر.</p>
+<p>اطلب من المرشح اختيار مشروع ذي مغزى وشرح ما يلي:</p>
 <ul>
-<li>the problem;</li>
-<li>the users;</li>
-<li>their role;</li>
-<li>the team;</li>
-<li>the constraints;</li>
-<li>the architecture;</li>
-<li>important decisions;</li>
-<li>alternatives considered;</li>
-<li>failures;</li>
-<li>testing;</li>
-<li>deployment;</li>
-<li>monitoring;</li>
-<li>results;</li>
-<li>lessons.</li>
+<li>المشكلة؛</li>
+<li>المستخدمون؛</li>
+<li>دوره؛</li>
+<li>الفريق؛</li>
+<li>القيود؛</li>
+<li>البنية؛</li>
+<li>القرارات المهمة؛</li>
+<li>البدائل التي تم النظر فيها؛</li>
+<li>الإخفاقات؛</li>
+<li>الاختبار؛</li>
+<li>النشر؛</li>
+<li>المراقبة؛</li>
+<li>النتائج؛</li>
+<li>الدروس المستفادة.</li>
 </ul>
-<p>Useful follow-up questions include:</p>
+<p>من الأسئلة المفيدة للمتابعة ما يلي:</p>
 <ul>
-<li>What did you personally own?</li>
-<li>Which decision was most difficult?</li>
-<li>What did another teammate own?</li>
-<li>What went wrong?</li>
-<li>How did you measure success?</li>
-<li>Which assumption proved incorrect?</li>
-<li>What would you change now?</li>
-<li>How did the system behave in production?</li>
-<li>How did the work affect customers or the business?</li>
+<li>ما هي المسؤوليات التي توليتَها شخصيًا؟</li>
+<li>ما هو القرار الأصعب الذي اتخذته؟</li>
+<li>ما هي المسؤوليات التي تولاها زميل آخر في الفريق؟</li>
+<li>ما الذي سار بشكل خاطئ؟</li>
+<li>كيف قمتَ بقياس النجاح؟</li>
+<li>ما هو الافتراض الذي ثبت خطأه؟</li>
+<li>ما الذي كنتَ لتغيره الآن؟</li>
+<li>كيف كان أداء النظام في مرحلة الإنتاج؟</li>
+<li>كيف أثر العمل على العملاء أو على الشركة؟</li>
 </ul>
-<p>A credible candidate should be able to move beyond the compressed résumé bullet and explain the real work.</p>
-<h2>Take-home assignments</h2>
-<p>Take-home exercises can reveal:</p>
+<p>يجب أن يكون المرشح الجدير بالثقة قادرًا على تجاوز النقاط الموجزة في السيرة الذاتية وشرح العمل الفعلي.</p>
+<h2>المهام المنزلية</h2>
+<p>يمكن أن تكشف التمارين المنزلية عن:</p>
 <ul>
-<li>code organization;</li>
-<li>independent decision-making;</li>
-<li>testing;</li>
-<li>documentation;</li>
-<li>maintainability;</li>
-<li>written communication.</li>
+<li>تنظيم الكود؛</li>
+<li>اتخاذ القرارات بشكل مستقل؛</li>
+<li>الاختبار؛</li>
+<li>التوثيق؛</li>
+<li>قابلية الصيانة؛</li>
+<li>التواصل الكتابي.</li>
 </ul>
-<p>They also create significant risks:</p>
+<p>كما أنها تنطوي على مخاطر كبيرة:</p>
 <ul>
-<li>excessive unpaid labor;</li>
-<li>unequal access to free time;</li>
-<li>unclear authorship;</li>
-<li>candidate withdrawal;</li>
-<li>over-polished submissions;</li>
-<li>delays in the hiring process.</li>
+<li>العمل غير المدفوع المفرط؛</li>
+<li>عدم المساواة في التمتع بوقت الفراغ؛</li>
+<li>عدم وضوح ملكية العمل؛</li>
+<li>انسحاب المرشح؛</li>
+<li>الأعمال المقدمة المفرطة في الصقل؛</li>
+<li>التأخير في عملية التوظيف.</li>
 </ul>
-<p>Use take-home work carefully.</p>
-<p>A reasonable assignment should be:</p>
+<p>استخدموا «الواجبات المنزلية» بحذر.</p>
+<p>يجب أن تتسم المهمة المعقولة بما يلي:</p>
 <ul>
-<li>clearly time-boxed;</li>
-<li>related to the role;</li>
-<li>small enough to complete without sacrificing a weekend;</li>
-<li>evaluated through a rubric;</li>
-<li>accompanied by clear instructions;</li>
-<li>followed by a discussion;</li>
-<li>compensated when substantial work is required.</li>
+<li>تحديد مدة زمنية واضحة؛</li>
+<li>ارتباطها بالوظيفة؛</li>
+<li>أن تكون صغيرة بما يكفي لإنجازها دون التضحية بعطلة نهاية الأسبوع؛</li>
+<li>تقييمها من خلال معايير محددة؛</li>
+<li>أن تكون مصحوبة بتعليمات واضحة؛</li>
+<li>أن يتبعها نقاش؛</li>
+<li>أن يتم تعويض المرشح عند الحاجة إلى عمل مكثف.</li>
 </ul>
-<p>Tell candidates that unfinished work can still be discussed.</p>
-<p>Do not quietly reward the person who spent 15 hours on a stated two-hour assignment.</p>
-<h2>Consider paid assessments</h2>
-<p>When an assignment requires several hours of meaningful work, compensation demonstrates respect and expands access.</p>
-<p>Paid assessments can reduce the disadvantage faced by candidates who:</p>
+<p>أخبر المرشحين أنه لا يزال من الممكن مناقشة الأعمال غير المكتملة.</p>
+<p>لا تكافئ بصمت الشخص الذي أمضى 15 ساعة في مهمة محددة مدتها ساعتان.</p>
+<h2>النظر في التقييمات المدفوعة الأجر</h2>
+<p>عندما تتطلب المهمة عدة ساعات من العمل الجاد, فإن المكافأة تعبر عن الاحترام وتوسع نطاق المشاركة.</p>
+<p>يمكن للتقييمات المدفوعة الأجر أن تقلل من الحرمان الذي يواجهه المرشحون الذين:</p>
 <ul>
-<li>have current jobs;</li>
-<li>provide care for others;</li>
-<li>work multiple jobs;</li>
-<li>have limited free time;</li>
-<li>cannot afford extended unpaid exercises.</li>
+<li>لديهم وظائف حالية؛</li>
+<li>يقدمون الرعاية للآخرين؛</li>
+<li>يعملون في وظائف متعددة؛</li>
+<li>لديهم وقت فراغ محدود؛</li>
+<li>لا يستطيعون تحمل تكاليف تمارين مطولة غير مدفوعة الأجر.</li>
 </ul>
-<p>Payment does not solve every issue, but it establishes that the company values the candidate’s labor.</p>
-<h2>Allow alternatives where practical</h2>
-<p>One assessment format may not work equally well for every candidate.</p>
-<p>Where possible, provide options such as:</p>
+<p>الدفع لا يحل كل المشاكل, لكنه يؤكد أن الشركة تقدر جهد المرشح.</p>
+<h2>السماح بالبدائل حيثما كان ذلك عمليًا</h2>
+<p>قد لا يكون نمط تقييم واحد مناسبًا لجميع المرشحين بنفس الدرجة.</p>
+<p>وحيثما أمكن, وفر خيارات مثل:</p>
 <ul>
-<li>live pairing;</li>
-<li>short take-home work;</li>
-<li>code review;</li>
-<li>project walkthrough;</li>
-<li>modified assessment with accommodations.</li>
+<li>العمل الثنائي المباشر؛</li>
+<li>مهام قصيرة تُنفذ في المنزل؛</li>
+<li>مراجعة الكود؛</li>
+<li>شرح تفصيلي للمشروع؛</li>
+<li>تقييم معدل مع توفير التسهيلات اللازمة.</li>
 </ul>
-<p>The objective is to collect comparable evidence, not to require everyone to demonstrate ability in one rigid format.</p>
-<h2>Decide what each stage evaluates</h2>
-<p>Do not ask every interviewer to evaluate the entire candidate.</p>
-<p>Assign specific competencies to each stage.</p>
-<p>For example:</p>
-<table>
-<thead>
-<tr>
-<th>Interview stage</th>
-<th>Primary evidence</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Initial conversation</td>
-<td>Motivation, logistics, role alignment</td>
-</tr>
-<tr>
-<td>Coding exercise</td>
-<td>Coding, testing, problem decomposition</td>
-</tr>
-<tr>
-<td>Code review</td>
-<td>Maintainability, judgment, communication</td>
-</tr>
-<tr>
-<td>System design</td>
-<td>Architecture, trade-offs, reliability</td>
-</tr>
-<tr>
-<td>Project walkthrough</td>
-<td>Ownership, technical depth, impact</td>
-</tr>
-<tr>
-<td>Behavioral interview</td>
-<td>Collaboration, learning, leadership</td>
-</tr>
-<tr>
-<td>Hiring-manager conversation</td>
-<td>Scope, expectations, candidate questions</td>
-</tr>
-</tbody></table>
-<p>This reduces repetition and makes feedback easier to interpret.</p>
-<h2>Keep the interview loop proportional</h2>
-<p>The process should match the role’s complexity and risk.</p>
-<p>A junior engineer does not need seven interviews with executives.</p>
-<p>A staff engineer may require broader evaluation than a mid-level developer.</p>
-<p>A practical loop for many product-engineering roles might include:</p>
+<p>الهدف هو جمع أدلة قابلة للمقارنة, وليس مطالبة الجميع بإثبات قدراتهم في نمط واحد جامد.</p>
+<h2>تحديد ما يتم تقييمه في كل مرحلة</h2>
+<p>لا تطلب من كل مُجري مقابلة تقييم المرشح بأكمله.</p>
+<p>حدد كفاءات محددة لكل مرحلة.</p>
+<p>على سبيل المثال:</p>
+<p>| مرحلة المقابلة             | الدليل الأساسي                         |
+| --------------------------- | ------------------ ---------------------- |
+| المحادثة الأولية        | الدافع, الجوانب اللوجستية, التوافق مع الدور    |
+| تمرين البرمجة             | البرمجة, الاختبار, تحليل المشكلة   |
+| مراجعة الكود                 | قابلية الصيانة, التقدير, التواصل |
+| تصميم النظام               | البنية, المفاضلات, الموثوقية    |
+| عرض تفصيلي للمشروع         | الشعور بالمسؤولية, العمق التقني, التأثير       |
+| المقابلة السلوكية        | التعاون, التعلم, القيادة      |
+| المحادثة مع مدير التوظيف | النطاق, التوقعات, أسئلة المرشح |</p>
+<p>يقلل هذا من التكرار ويجعل تفسير الملاحظات أسهل.</p>
+<h2>حافظ على تناسب دورة المقابلات</h2>
+<p>يجب أن تتناسب العملية مع مدى تعقيد الدور والمخاطر المرتبطة به.</p>
+<p>لا يحتاج المهندس المبتدئ إلى سبع مقابلات مع المديرين التنفيذيين.</p>
+<p>قد يحتاج مهندس متمرس إلى تقييم أوسع نطاقًا مقارنةً بمطور من المستوى المتوسط.</p>
+<p>قد تتضمن الدورة العملية للعديد من وظائف هندسة المنتجات ما يلي:</p>
 <ol>
-<li>Initial alignment conversation</li>
-<li>One job-relevant technical assessment</li>
-<li>Consolidated technical and behavioral interviews</li>
-<li>Candidate questions</li>
-<li>Prompt decision</li>
+<li>محادثة أولية للتوافق</li>
+<li>تقييم تقني واحد ذو صلة بالوظيفة</li>
+<li>مقابلات تقنية وسلوكية مدمجة</li>
+<li>أسئلة المرشح</li>
+<li>قرار سريع</li>
 </ol>
-<p>The total process should collect enough evidence without exhausting candidates or interviewers.</p>
-<h2>A sample process for a product engineer</h2>
-<h3>Stage 1: Initial alignment</h3>
-<p>Approximately 30 minutes.</p>
-<p>Evaluate:</p>
+<p>يجب أن تجمع العملية الإجمالية أدلة كافية دون إرهاق المرشحين أو القائمين على المقابلات.</p>
+<h2>نموذج لإجراءات تقييم مهندس منتجات</h2>
+<h3>المرحلة 1: التوافق الأولي</h3>
+<p>حوالي 30 دقيقة.</p>
+<p>تقييم:</p>
 <ul>
-<li>relevant experience;</li>
-<li>target role;</li>
-<li>compensation alignment;</li>
-<li>location and availability;</li>
-<li>basic communication;</li>
-<li>candidate questions.</li>
+<li>الخبرة ذات الصلة؛</li>
+<li>الدور المستهدف؛</li>
+<li>التوافق في الأجر؛</li>
+<li>الموقع والتوافر؛</li>
+<li>مهارات التواصل الأساسية؛</li>
+<li>أسئلة المرشح.</li>
 </ul>
-<h3>Stage 2: Practical technical exercise</h3>
-<p>Approximately 60–90 minutes.</p>
-<p>Evaluate:</p>
+<h3>المرحلة 2: تمرين تقني عملي</h3>
+<p>حوالي 60–90 دقيقة.</p>
+<p>تقييم:</p>
 <ul>
-<li>problem decomposition;</li>
-<li>coding;</li>
-<li>testing;</li>
-<li>debugging;</li>
-<li>communication;</li>
-<li>job-relevant judgment.</li>
+<li>تحليل المشكلة؛</li>
+<li>البرمجة؛</li>
+<li>الاختبار؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>التواصل؛</li>
+<li>القدرة على اتخاذ القرارات ذات الصلة بالوظيفة.</li>
 </ul>
-<h3>Stage 3: Project depth and collaboration</h3>
-<p>Approximately 60 minutes.</p>
-<p>Evaluate:</p>
+<h3>المرحلة 3: عمق المشروع والتعاون</h3>
+<p>حوالي 60 دقيقة.</p>
+<p>التقييم:</p>
 <ul>
-<li>prior ownership;</li>
-<li>technical decisions;</li>
-<li>collaboration;</li>
-<li>lessons;</li>
-<li>measurable impact.</li>
+<li>تحمل المسؤولية المسبقة؛</li>
+<li>القرارات الفنية؛</li>
+<li>التعاون؛</li>
+<li>الدروس المستفادة؛</li>
+<li>التأثير القابل للقياس.</li>
 </ul>
-<h3>Stage 4: Hiring-manager conversation</h3>
-<p>Approximately 45 minutes.</p>
-<p>Discuss:</p>
+<h3>المرحلة 4: محادثة مع مدير التوظيف</h3>
+<p>حوالي 45 دقيقة.</p>
+<p>مناقشة:</p>
 <ul>
-<li>expectations;</li>
-<li>team context;</li>
-<li>role scope;</li>
-<li>growth;</li>
-<li>candidate questions.</li>
+<li>التوقعات؛</li>
+<li>سياق الفريق؛</li>
+<li>نطاق الدور؛</li>
+<li>النمو؛</li>
+<li>أسئلة المرشح.</li>
 </ul>
-<h3>Stage 5: Same-day debrief</h3>
-<p>Make a decision using submitted evidence.</p>
-<p>This process may be completed within one or two weeks, depending on candidate availability.</p>
-<h2>A sample process for a senior engineer</h2>
-<p>A senior role may require evidence across a wider scope.</p>
-<p>Possible stages include:</p>
+<h3>المرحلة 5: تقييم النتائج في نفس اليوم</h3>
+<p>اتخاذ قرار باستخدام الأدلة المقدمة.</p>
+<p>يمكن إتمام هذه العملية في غضون أسبوع أو أسبوعين, اعتمادًا على توفر المرشح.</p>
+<h2>نموذج لعملية تقييم مهندس أول</h2>
+<p>قد يتطلب المنصب رفيع المستوى أدلة تغطي نطاقًا أوسع.</p>
+<p>تشمل المراحل المحتملة ما يلي:</p>
 <ol>
-<li>Hiring-manager conversation</li>
-<li>Technical project walkthrough</li>
-<li>System-design interview</li>
-<li>Practical coding, debugging, or code-review exercise</li>
-<li>Collaboration and leadership interview</li>
-<li>Candidate conversation with future teammates</li>
-<li>Structured debrief</li>
+<li>محادثة مع مدير التوظيف</li>
+<li>عرض تفصيلي للمشروع التقني</li>
+<li>مقابلة حول تصميم الأنظمة</li>
+<li>تمرين عملي على البرمجة أو تصحيح الأخطاء أو مراجعة الكود</li>
+<li>مقابلة حول التعاون والقيادة</li>
+<li>محادثة المرشح مع زملاء الفريق المستقبليين</li>
+<li>تقييم منظم</li>
 </ol>
-<p>These interviews can be grouped into one coordinated block rather than spread across several weeks.</p>
-<h2>A sample process for a staff or principal engineer</h2>
-<p>Staff-level evaluation should focus less on isolated coding speed and more on:</p>
+<p>يمكن تجميع هذه المقابلات في مجموعة واحدة منسقة بدلاً من توزيعها على عدة أسابيع.</p>
+<h2>نموذج لعملية تقييم مهندس عادي أو رئيسي</h2>
+<p>ينبغي أن يركز تقييم الموظفين بشكل أقل على سرعة البرمجة بمفردها, وأن يركز بشكل أكبر على:</p>
 <ul>
-<li>organizational influence;</li>
-<li>architecture across systems;</li>
-<li>long-term technical strategy;</li>
-<li>decision-making under ambiguity;</li>
-<li>risk management;</li>
-<li>cross-team alignment;</li>
-<li>enabling other engineers;</li>
-<li>business and technical trade-offs.</li>
+<li>التأثير التنظيمي؛</li>
+<li>البنية عبر الأنظمة؛</li>
+<li>الاستراتيجية التقنية طويلة الأجل؛</li>
+<li>اتخاذ القرار في ظل الغموض؛</li>
+<li>إدارة المخاطر؛</li>
+<li>التنسيق بين الفرق؛</li>
+<li>تمكين المهندسين الآخرين؛</li>
+<li>المفاضلات بين الجوانب التجارية والتقنية.</li>
 </ul>
-<p>A suitable process may include:</p>
+<p>قد تتضمن العملية المناسبة ما يلي:</p>
 <ul>
-<li>deep project and impact discussion;</li>
-<li>cross-system design;</li>
-<li>technical strategy exercise;</li>
-<li>influence and leadership interview;</li>
-<li>partnership discussion with product or business leadership;</li>
-<li>candidate questions with senior engineering leaders.</li>
+<li>مناقشة متعمقة حول المشروع وتأثيره؛</li>
+<li>التصميم الشامل للأنظمة؛</li>
+<li>تمرين على الاستراتيجية التقنية؛</li>
+<li>مقابلة حول التأثير والقيادة؛</li>
+<li>مناقشة الشراكة مع قيادة المنتج أو الأعمال؛</li>
+<li>أسئلة المرشح مع كبار قادة الهندسة.</li>
 </ul>
-<p>Do not simply add more rounds to the senior-engineer process.</p>
-<p>Change the evidence to match the scope.</p>
-<h2>Build structured rubrics</h2>
-<p>A rubric defines what different levels of performance look like.</p>
-<p>Without one, interviewers often score candidates according to personal expectations.</p>
-<p>For example, a coding rubric might include:</p>
-<h3>Below expectations</h3>
+<p>لا تكتفِ بإضافة المزيد من الجولات إلى عملية تقييم المهندسين الكبار.</p>
+<p>غيّر المعايير لتتناسب مع النطاق.</p>
+<h2>وضع معايير تقييم منظمة</h2>
+<p>تحدد معايير التقييم شكل مستويات الأداء المختلفة.</p>
+<p>بدونها, غالبًا ما يقوم القائمون على المقابلات بتقييم المرشحين وفقًا لتوقعاتهم الشخصية.</p>
+<p>على سبيل المثال, قد تتضمن معايير تقييم البرمجة ما يلي:</p>
+<h3>أقل من التوقعات</h3>
 <ul>
-<li>does not clarify core requirements;</li>
-<li>produces code that does not work;</li>
-<li>cannot explain the approach;</li>
-<li>ignores important edge cases;</li>
-<li>cannot respond to feedback;</li>
-<li>does not verify the result.</li>
+<li>لا يوضح المتطلبات الأساسية؛</li>
+<li>ينتج كودًا لا يعمل؛</li>
+<li>لا يستطيع شرح النهج المتبع؛</li>
+<li>يتجاهل الحالات الاستثنائية المهمة؛</li>
+<li>لا يستطيع الاستجابة للتعليقات؛</li>
+<li>لا يتحقق من النتيجة.</li>
 </ul>
-<h3>Meets expectations</h3>
+<h3>يفي بالتوقعات</h3>
 <ul>
-<li>clarifies the main requirements;</li>
-<li>produces a workable solution;</li>
-<li>explains the approach;</li>
-<li>tests important behavior;</li>
-<li>handles common errors;</li>
-<li>responds constructively to suggestions;</li>
-<li>identifies reasonable trade-offs.</li>
+<li>يوضح المتطلبات الرئيسية؛</li>
+<li>ينتج حلاً قابلاً للتطبيق؛</li>
+<li>يشرح المنهجية المتبعة؛</li>
+<li>يختبر السلوكيات المهمة؛</li>
+<li>يتعامل مع الأخطاء الشائعة؛</li>
+<li>يستجيب بشكل بناء للاقتراحات؛</li>
+<li>يحدد التنازلات المعقولة.</li>
 </ul>
-<h3>Exceeds expectations</h3>
+<h3>يتجاوز التوقعات</h3>
 <ul>
-<li>identifies hidden requirements;</li>
-<li>chooses an appropriately simple design;</li>
-<li>writes clear and maintainable code;</li>
-<li>tests meaningful boundaries;</li>
-<li>discusses production concerns;</li>
-<li>communicates uncertainty precisely;</li>
-<li>improves the solution after feedback;</li>
-<li>distinguishes immediate needs from future enhancements.</li>
+<li>يحدد المتطلبات الخفية؛</li>
+<li>يختار تصميمًا بسيطًا بشكل مناسب؛</li>
+<li>يكتب كودًا واضحًا وسهل الصيانة؛</li>
+<li>يختبر الحدود ذات المغزى؛</li>
+<li>يناقش المخاوف المتعلقة بمرحلة الإنتاج؛</li>
+<li>يعبر عن أوجه عدم اليقين بدقة؛</li>
+<li>يحسّن الحل بعد تلقي الملاحظات؛</li>
+<li>يميز بين الاحتياجات الفورية والتحسينات المستقبلية.</li>
 </ul>
-<p>The rubric should reflect the expected level.</p>
-<p>A junior candidate and a senior candidate may complete the same exercise but be evaluated for different scope and judgment.</p>
-<h2>Define observable evidence</h2>
-<p>Avoid competencies that cannot be evaluated consistently.</p>
-<p>Weak:</p>
+<p>يجب أن تعكس معايير التقييم المستوى المتوقع.</p>
+<p>قد يقوم مرشح مبتدئ ومرشح ذو خبرة بإكمال نفس التمرين, لكن يتم تقييمهما بناءً على نطاق مختلف وقدرة مختلفة على اتخاذ القرار.</p>
+<h2>تحديد الأدلة القابلة للملاحظة</h2>
+<p>تجنب الكفاءات التي لا يمكن تقييمها بشكل متسق.</p>
+<p>ضعيفة:</p>
 <ul>
-<li>Smart</li>
-<li>Confident</li>
-<li>Good fit</li>
-<li>Passionate</li>
-<li>Senior presence</li>
-<li>Strong personality</li>
+<li>ذكي</li>
+<li>واثق</li>
+<li>مناسب للمنصب</li>
+<li>شغوف</li>
+<li>يتمتع بحضور قوي</li>
+<li>شخصية قوية</li>
 </ul>
-<p>Stronger:</p>
+<p>أقوى:</p>
 <ul>
-<li>Clarifies ambiguous requirements.</li>
-<li>Explains technical decisions.</li>
-<li>Identifies production failure modes.</li>
-<li>Responds constructively to feedback.</li>
-<li>Distinguishes personal contribution from team work.</li>
-<li>Connects technical choices to user or business outcomes.</li>
-<li>Identifies when additional evidence is needed.</li>
-<li>Changes direction when assumptions are disproven.</li>
+<li>يوضح المتطلبات الغامضة.</li>
+<li>يشرح القرارات التقنية.</li>
+<li>يحدد أنماط فشل الإنتاج.</li>
+<li>يستجيب بشكل بناء للتعليقات.</li>
+<li>يميز بين المساهمة الشخصية والعمل الجماعي.</li>
+<li>يربط الخيارات التقنية بنتائج المستخدم أو الأعمال.</li>
+<li>يحدد متى تكون هناك حاجة إلى أدلة إضافية.</li>
+<li>يغير اتجاهه عندما يتم دحض الافتراضات.</li>
 </ul>
-<p>Observable behaviors are easier to compare and defend.</p>
-<h2>Ask consistent core questions</h2>
-<p>Candidates do not need identical conversations, but they should receive comparable opportunities to demonstrate the required competencies.</p>
-<p>For example, every senior backend candidate might be asked to:</p>
+<p>السلوكيات القابلة للملاحظة أسهل في المقارنة والدفاع عنها.</p>
+<h2>اطرح أسئلة أساسية متسقة</h2>
+<p>لا يحتاج المرشحون إلى محادثات متطابقة, ولكن يجب أن يحصلوا على فرص قابلة للمقارنة لإثبات الكفاءات المطلوبة.</p>
+<p>على سبيل المثال, قد يُطلب من كل مرشح رفيع المستوى في مجال الباك إند ما يلي:</p>
 <ul>
-<li>walk through a production service they owned;</li>
-<li>explain a difficult incident;</li>
-<li>design a service under the same core constraints;</li>
-<li>review a similar code sample;</li>
-<li>discuss a technical disagreement.</li>
+<li>شرح تفاصيل خدمة إنتاجية يمتلكونها؛</li>
+<li>شرح حادثة صعبة؛</li>
+<li>تصميم خدمة في ظل نفس القيود الأساسية؛</li>
+<li>مراجعة نموذج كود مشابه؛</li>
+<li>مناقشة خلاف تقني.</li>
 </ul>
-<p>Interviewers may ask follow-ups based on each answer.</p>
-<p>The shared core creates comparability without making the conversation robotic.</p>
-<h2>Train interviewers</h2>
-<p>A strong interview process depends on prepared interviewers.</p>
-<p>Training should cover:</p>
+<p>قد يطرح القائمون على المقابلة أسئلة تكميلية بناءً على كل إجابة.</p>
+<p>يضمن «الجزء الأساسي المشترك» إمكانية المقارنة دون أن تجعل المحادثة تبدو آلية.</p>
+<h2>تدريب القائمين على المقابلة</h2>
+<p>تعتمد عملية المقابلة الفعالة على استعداد القائمين عليها.</p>
+<p>يجب أن يشمل التدريب ما يلي:</p>
 <ul>
-<li>the role scorecard;</li>
-<li>assigned competencies;</li>
-<li>approved questions;</li>
-<li>scoring rubrics;</li>
-<li>evidence-based note-taking;</li>
-<li>handling candidate questions;</li>
-<li>providing hints consistently;</li>
-<li>recognizing bias;</li>
-<li>accessibility accommodations;</li>
-<li>inappropriate or unlawful questions;</li>
-<li>feedback deadlines;</li>
-<li>debrief expectations.</li>
+<li>بطاقة تقييم الدور؛</li>
+<li>الكفاءات المحددة؛</li>
+<li>الأسئلة المعتمدة؛</li>
+<li>معايير التقييم؛</li>
+<li>تدوين الملاحظات بناءً على الأدلة؛</li>
+<li>التعامل مع أسئلة المرشحين؛</li>
+<li>تقديم التلميحات بشكل متسق؛</li>
+<li>التعرف على التحيز؛</li>
+<li>التسهيلات الخاصة بإمكانية الوصول؛</li>
+<li>الأسئلة غير اللائقة أو غير القانونية؛</li>
+<li>المواعيد النهائية لتقديم الملاحظات؛</li>
+<li>توقعات ما بعد المقابلة.</li>
 </ul>
-<p>Do not assume that being a strong engineer automatically makes someone a strong interviewer.</p>
-<p>Interviewing is a skill.</p>
-<h2>Run mock interviews</h2>
-<p>Before using a new exercise, test it internally.</p>
-<p>Ask several engineers to complete or observe it.</p>
-<p>Review:</p>
+<p>لا تفترض أن كون الشخص مهندسًا متميزًا يجعله تلقائيًّا مُجري مقابلات متميزًا.</p>
+<p>إجراء المقابلات مهارة بحد ذاتها.</p>
+<h2>إجراء مقابلات تجريبية</h2>
+<p>قبل استخدام تمرين جديد, اختبره داخليًّا.</p>
+<p>اطلب من عدة مهندسين إكماله أو مراقبة تنفيذه.</p>
+<p>راجع ما يلي:</p>
 <ul>
-<li>how long it takes;</li>
-<li>whether instructions are clear;</li>
-<li>whether the intended competencies appear;</li>
-<li>whether multiple solutions are possible;</li>
-<li>whether hidden assumptions exist;</li>
-<li>whether the environment works;</li>
-<li>whether the rubric matches the task.</li>
+<li>المدة التي يستغرقها؛</li>
+<li>ما إذا كانت التعليمات واضحة؛</li>
+<li>ما إذا كانت الكفاءات المقصودة ظاهرة؛</li>
+<li>ما إذا كانت هناك حلول متعددة ممكنة؛</li>
+<li>ما إذا كانت هناك افتراضات خفية؛</li>
+<li>ما إذا كانت البيئة مناسبة؛</li>
+<li>ما إذا كانت معايير التقييم تتوافق مع المهمة.</li>
 </ul>
-<p>A prompt that seems obvious to its author may be confusing to candidates.</p>
-<p>Pilot the assessment before using it in hiring decisions.</p>
-<h2>Calibrate interviewer scoring</h2>
-<p>Have interviewers review sample responses and discuss how they would score them.</p>
-<p>Calibration helps align expectations around:</p>
+<p>قد تكون التوجيهات التي تبدو واضحة لمؤلفها مربكة للمرشحين.</p>
+<p>قم بتجربة التقييم قبل استخدامه في قرارات التوظيف.</p>
+<h2>معايرة تقييم القائمين على المقابلة</h2>
+<p>اطلب من القائمين على المقابلات مراجعة نماذج الإجابات ومناقشة كيفية تقييمهم لها.</p>
+<p>تساعد عملية المعايرة على مواءمة التوقعات حول:</p>
 <ul>
-<li>correctness;</li>
-<li>technical depth;</li>
-<li>level;</li>
-<li>communication;</li>
-<li>use of hints;</li>
-<li>partial completion;</li>
-<li>production awareness;</li>
-<li>collaboration.</li>
+<li>الصحة؛</li>
+<li>العمق التقني؛</li>
+<li>المستوى؛</li>
+<li>التواصل؛</li>
+<li>استخدام التلميحات؛</li>
+<li>الإنجاز الجزئي؛</li>
+<li>الوعي بعمليات الإنتاج؛</li>
+<li>التعاون.</li>
 </ul>
-<p>Without calibration, one interviewer may treat a small syntax mistake as a major failure while another ignores missing tests or security concerns.</p>
-<h2>Collect evidence-based notes</h2>
-<p>Interview feedback should describe what the candidate did.</p>
-<p>Weak notes include:</p>
+<p>بدون المعايرة, قد يعتبر أحد القائمين على المقابلة خطأً بسيطًا في الصياغة فشلًا كبيرًا, بينما يتجاهل آخر اختبارات مفقودة أو مخاوف أمنية.</p>
+<h2>جمع الملاحظات المستندة إلى الأدلة</h2>
+<p>يجب أن تصف ملاحظات المقابلة ما فعله المرشح.</p>
+<p>تشمل الملاحظات الضعيفة ما يلي:</p>
 <ul>
-<li>very smart;</li>
-<li>not senior enough;</li>
-<li>great culture fit;</li>
-<li>seemed nervous;</li>
-<li>lacked confidence;</li>
-<li>good energy;</li>
-<li>something felt off.</li>
+<li>ذكي جدًا؛</li>
+<li>ليس من ذوي الخبرة الكافية؛</li>
+<li>ملائم جدًا لثقافة الشركة؛</li>
+<li>بدا متوترًا؛</li>
+<li>يفتقر إلى الثقة؛</li>
+<li>طاقة إيجابية؛</li>
+<li>كان هناك شيء غير ملائم.</li>
 </ul>
-<p>Stronger notes include:</p>
+<p>تشمل الملاحظات الأقوى ما يلي:</p>
 <ul>
-<li>clarified throughput and consistency requirements before choosing storage;</li>
-<li>identified retry and duplicate-delivery risks;</li>
-<li>wrote tests for empty and invalid input;</li>
-<li>could not explain personal ownership of the migration;</li>
-<li>revised the design after a new latency constraint;</li>
-<li>discussed security but did not address authorization boundaries;</li>
-<li>responded constructively when the interviewer challenged the approach.</li>
+<li>أوضح متطلبات السعة والاتساق قبل اختيار التخزين؛</li>
+<li>حدد مخاطر إعادة المحاولة والتسليم المكرر؛</li>
+<li>كتب اختبارات للمدخلات الفارغة وغير الصالحة؛</li>
+<li>لم يستطع شرح مسؤوليته الشخصية عن عملية الترحيل؛</li>
+<li>قام بمراجعة التصميم بعد ظهور قيد جديد يتعلق بزمن الاستجابة؛</li>
+<li>ناقش الأمان لكنه لم يتطرق إلى حدود التفويض؛</li>
+<li>رد بشكل بناء عندما طعن المحاور في النهج المتبع.</li>
 </ul>
-<p>Specific notes make debriefs faster and more reliable.</p>
-<h2>Submit feedback independently</h2>
-<p>Each interviewer should submit notes and a score before seeing other feedback.</p>
-<p>This reduces the risk that:</p>
+<p>تجعل الملاحظات المحددة جلسات التقييم أسرع وأكثر موثوقية.</p>
+<h2>إرسال التعليقات بشكل مستقل</h2>
+<p>يجب على كل محاور إرسال ملاحظاته ودرجته قبل الاطلاع على تعليقات الآخرين.</p>
+<p>وهذا يقلل من مخاطر:</p>
 <ul>
-<li>the first speaker controls the discussion;</li>
-<li>a senior employee’s opinion changes everyone else’s score;</li>
-<li>interviewers rewrite their interpretation after the fact;</li>
-<li>group consensus replaces independent evidence.</li>
+<li>المتحدث الأول هو من يتحكم في مجرى النقاش؛</li>
+<li>رأي أحد الموظفين ذوي الرتب العليا يؤثر على تقييمات جميع المشاركين الآخرين؛</li>
+<li>يقوم القائمون على المقابلة بإعادة صياغة تفسيرهم بعد انتهاء المقابلة؛</li>
+<li>يحل إجماع المجموعة محل الأدلة المستقلة.</li>
 </ul>
-<p>A useful process is:</p>
+<p>فيما يلي عملية مفيدة:</p>
 <ol>
-<li>Conduct the interview.</li>
-<li>Record evidence.</li>
-<li>Score the assigned competencies.</li>
-<li>Submit feedback.</li>
-<li>Lock or preserve the original feedback.</li>
-<li>Hold the debrief.</li>
-<li>Resolve meaningful differences.</li>
+<li>إجراء المقابلة.</li>
+<li>تسجيل الأدلة.</li>
+<li>تقييم الكفاءات المحددة.</li>
+<li>تقديم الملاحظات.</li>
+<li>حفظ الملاحظات الأصلية أو تأمينها.</li>
+<li>عقد جلسة الاستخلاص.</li>
+<li>حل الاختلافات الجوهرية.</li>
 </ol>
-<h2>Debrief against the scorecard</h2>
-<p>The debrief should not begin with:</p>
+<h2>جلسة الاستخلاص في ضوء بطاقة التقييم</h2>
+<p>يجب ألا تبدأ جلسة الاستخلاص بـ:</p>
 <blockquote>
-<p>“So, did everyone like the candidate?”</p>
+<p>«إذن, هل أعجب المرشح الجميع؟»</p>
 </blockquote>
-<p>A better structure is:</p>
+<p>الهيكل الأفضل هو:</p>
 <ol>
-<li>Restate the role and expected level.</li>
-<li>Review each required competency.</li>
-<li>Present evidence.</li>
-<li>Identify contradictions or gaps.</li>
-<li>Challenge vague concerns.</li>
-<li>Determine whether the candidate meets the role.</li>
-<li>Assign the appropriate level.</li>
-<li>Make the decision.</li>
-<li>Document remaining risks.</li>
+<li>إعادة توضيح الدور والمستوى المتوقع.</li>
+<li>مراجعة كل كفاءة مطلوبة.</li>
+<li>عرض الأدلة.</li>
+<li>تحديد التناقضات أو الثغرات.</li>
+<li>مناقشة المخاوف الغامضة.</li>
+<li>تحديد ما إذا كان المرشح يفي بمتطلبات الدور.</li>
+<li>تحديد المستوى المناسب.</li>
+<li>اتخاذ القرار.</li>
+<li>توثيق المخاطر المتبقية.</li>
 </ol>
-<p>The discussion should focus on the role, not on whether the candidate resembles existing team members.</p>
-<h2>Challenge vague objections</h2>
-<p>When someone says:</p>
+<p>يجب أن تركز المناقشة على الدور, وليس على ما إذا كان المرشح يشبه أعضاء الفريق الحاليين.</p>
+<h2>الطعن في الاعتراضات الغامضة</h2>
+<p>عندما يقول أحدهم:</p>
 <ul>
-<li>not a fit;</li>
-<li>did not feel senior;</li>
-<li>lacked confidence;</li>
-<li>would not work well with the team;</li>
-<li>did not seem passionate;</li>
+<li>غير مناسب؛</li>
+<li>لم يبدُ أنه من ذوي الخبرة؛</li>
+<li>يفتقر إلى الثقة بالنفس؛</li>
+<li>لن يعمل بشكل جيد مع الفريق؛</li>
+<li>لم يبدُ متحمساً؛</li>
 </ul>
-<p>ask:</p>
+<p>اسأل:</p>
 <ul>
-<li>Which competency does this affect?</li>
-<li>What did the candidate say or do?</li>
-<li>What evidence supports the concern?</li>
-<li>Was the same standard applied to other candidates?</li>
-<li>Is this behavior relevant to performance?</li>
-<li>Could the interview environment explain it?</li>
-<li>Is additional evidence actually necessary?</li>
+<li>ما هي الكفاءة التي يؤثر عليها هذا؟</li>
+<li>ماذا قال المرشح أو فعل؟</li>
+<li>ما الدليل الذي يدعم هذا القلق؟</li>
+<li>هل طُبق نفس المعيار على المرشحين الآخرين؟</li>
+<li>هل هذا السلوك ذو صلة بالأداء؟</li>
+<li>هل يمكن أن تفسره بيئة المقابلة؟</li>
+<li>هل هناك حاجة فعلاً إلى أدلة إضافية؟</li>
 </ul>
-<p>A concern should not influence the decision merely because it was expressed confidently.</p>
-<h2>Avoid consensus as the only decision rule</h2>
-<p>Requiring every interviewer to agree can cause delay and give disproportionate power to vague objections.</p>
-<p>The hiring manager or another designated owner should make the final decision after considering the structured evidence.</p>
-<p>This does not mean ignoring interviewers.</p>
-<p>It means the process has a clear accountable decision-maker.</p>
-<h2>Define what constitutes a serious concern</h2>
-<p>A blocking concern should relate directly to a required competency.</p>
-<p>For example:</p>
+<p>لا ينبغي أن يؤثر أي اعتراض على القرار لمجرد أنه تم التعبير عنه بثقة.</p>
+<h2>تجنب اعتبار الإجماع القاعدة الوحيدة لاتخاذ القرار</h2>
+<p>قد يؤدي اشتراط موافقة جميع أعضاء لجنة المقابلة إلى حدوث تأخير وإعطاء سلطة غير متناسبة للاعتراضات الغامضة.</p>
+<p>يجب أن يتخذ مدير التوظيف أو أي مسؤول آخر معيّن القرار النهائي بعد النظر في الأدلة المنظمة.</p>
+<p>وهذا لا يعني تجاهل أعضاء لجنة المقابلة.</p>
+<p>بل يعني أن العملية لديها صانع قرار واضح وخاضع للمساءلة.</p>
+<h2>تحديد ما يشكل مخاوف جدية</h2>
+<p>يجب أن تكون المخاوف التي تعيق اتخاذ القرار مرتبطة مباشرةً بإحدى الكفاءات المطلوبة.</p>
+<p>على سبيل المثال:</p>
 <blockquote>
-<p>The role requires independent ownership of production services, but across several examples the candidate could not explain how they diagnosed or resolved production incidents.</p>
+<p>يتطلب الدور تولي المسؤولية المستقلة عن خدمات الإنتاج, ولكن في عدة أمثلة لم يتمكن المرشح من شرح كيفية تشخيصه لحوادث الإنتاج أو حلها.</p>
 </blockquote>
-<p>That is more useful than:</p>
+<p>وهذا أكثر فائدة من:</p>
 <blockquote>
-<p>I did not connect with them.</p>
+<p>لم أتمكن من التواصل معهم.</p>
 </blockquote>
-<p>The hiring manager should distinguish evidence-based risk from personal preference.</p>
-<h2>Evaluate problem decomposition</h2>
-<p>Strong engineers can turn unclear problems into workable steps.</p>
-<p>Observe whether the candidate:</p>
+<p>يجب على مدير التوظيف التمييز بين المخاطر القائمة على الأدلة والتفضيلات الشخصية.</p>
+<h2>تقييم تحليل المشكلة</h2>
+<p>يمكن للمهندسين الأكفاء تحويل المشكلات غير الواضحة إلى خطوات قابلة للتنفيذ.</p>
+<p>لاحظ ما إذا كان المرشح:</p>
 <ul>
-<li>restates the problem;</li>
-<li>asks useful questions;</li>
-<li>identifies missing information;</li>
-<li>distinguishes requirements from assumptions;</li>
-<li>chooses a reasonable starting point;</li>
-<li>separates core work from optional improvements;</li>
-<li>adapts when constraints change.</li>
+<li>يعيد صياغة المشكلة؛</li>
+<li>يطرح أسئلة مفيدة؛</li>
+<li>يحدد المعلومات الناقصة؛</li>
+<li>يميز بين المتطلبات والافتراضات؛</li>
+<li>يختار نقطة انطلاق معقولة؛</li>
+<li>يفصل بين العمل الأساسي والتحسينات الاختيارية؛</li>
+<li>يتكيف عند تغير القيود.</li>
 </ul>
-<p>A candidate who begins coding immediately without understanding the problem may produce a correct-looking solution to the wrong requirement.</p>
-<h2>Evaluate technical judgment</h2>
-<p>Technical judgment includes deciding:</p>
+<p>قد ينتج المرشح الذي يبدأ البرمجة فورًا دون فهم المشكلة حلاً يبدو صحيحًا لمتطلبات خاطئة.</p>
+<h2>تقييم الحكم الفني</h2>
+<p>يشمل التقدير الفني اتخاذ قرارات بشأن:</p>
 <ul>
-<li>how much complexity is justified;</li>
-<li>which trade-offs matter;</li>
-<li>what should be built now;</li>
-<li>what can wait;</li>
-<li>where risk is acceptable;</li>
-<li>which failure modes require protection;</li>
-<li>when a managed service is appropriate;</li>
-<li>when custom architecture is justified.</li>
+<li>مدى التعقيد المبرر؛</li>
+<li>المقايضات المهمة؛</li>
+<li>ما يجب بناؤه الآن؛</li>
+<li>ما يمكن تأجيله؛</li>
+<li>المجالات التي يُعتبر فيها المخاطرة مقبولة؛</li>
+<li>أنماط الفشل التي تتطلب الحماية؛</li>
+<li>متى تكون الخدمة المُدارة مناسبة؛</li>
+<li>متى يكون استخدام بنية مخصصة مبرراً.</li>
 </ul>
-<p>Ask candidates to explain why they chose an approach.</p>
-<p>Do not reward a solution merely because it contains more technologies.</p>
-<h2>Evaluate testing behavior</h2>
-<p>Look for whether the candidate considers:</p>
+<p>اطلب من المرشحين شرح أسباب اختيارهم لنهج معين.</p>
+<p>لا تكافئ حلاً ما لمجرد أنه يتضمن تقنيات أكثر.</p>
+<h2>تقييم سلوك الاختبار</h2>
+<p>ابحث عما إذا كان المرشح يأخذ في الاعتبار:</p>
 <ul>
-<li>happy-path behavior;</li>
-<li>invalid input;</li>
-<li>empty input;</li>
-<li>boundary conditions;</li>
-<li>duplicate requests;</li>
-<li>permissions;</li>
-<li>retries;</li>
-<li>timeouts;</li>
-<li>concurrency;</li>
-<li>partial failure;</li>
-<li>large data;</li>
-<li>state transitions.</li>
+<li>سلوك المسار السليم؛</li>
+<li>المدخلات غير الصالحة؛</li>
+<li>المدخلات الفارغة؛</li>
+<li>الشروط الحدية؛</li>
+<li>الطلبات المكررة؛</li>
+<li>الأذونات؛</li>
+<li>المحاولات المتكررة؛</li>
+<li>مهلة الانتظار؛</li>
+<li>التزامن؛</li>
+<li>الفشل الجزئي؛</li>
+<li>البيانات الضخمة؛</li>
+<li>انتقالات الحالة.</li>
 </ul>
-<p>The candidate may not have time to implement every test.</p>
-<p>They should still be able to identify what requires verification.</p>
-<h2>Evaluate debugging discipline</h2>
-<p>Strong debugging is evidence-driven.</p>
-<p>Observe whether the candidate:</p>
+<p>قد لا يتوفر للمرشح الوقت الكافي لتنفيذ كل اختبار.</p>
+<p>ومع ذلك, يجب أن يكون قادرًا على تحديد ما يتطلب التحقق.</p>
+<h2>تقييم منهجية تصحيح الأخطاء</h2>
+<p>تصحيح الأخطاء الفعال يعتمد على الأدلة.</p>
+<p>لاحظ ما إذا كان المرشح:</p>
 <ul>
-<li>reproduces the issue;</li>
-<li>reads available evidence;</li>
-<li>narrows the failure;</li>
-<li>forms a hypothesis;</li>
-<li>avoids random changes;</li>
-<li>verifies assumptions;</li>
-<li>revises the hypothesis;</li>
-<li>confirms the fix;</li>
-<li>considers regression prevention.</li>
+<li>يعيد إنتاج المشكلة؛</li>
+<li>يقرأ الأدلة المتاحة؛</li>
+<li>يحدد نطاق الفشل؛</li>
+<li>يضع فرضية؛</li>
+<li>يتجنب التغييرات العشوائية؛</li>
+<li>يتحقق من الافتراضات؛</li>
+<li>يراجع الفرضية؛</li>
+<li>يؤكد الإصلاح؛</li>
+<li>يأخذ في الاعتبار منع حدوث تراجع.</li>
 </ul>
-<p>A candidate who guesses correctly once may be less reliable than one who follows a disciplined investigation.</p>
-<h2>Evaluate maintainability</h2>
-<p>Maintainability includes:</p>
+<p>قد يكون المرشح الذي يخمن الإجابة الصحيحة مرة واحدة أقل موثوقية من المرشح الذي يتبع نهجًا منهجيًّا في التحقيق.</p>
+<h2>تقييم قابلية الصيانة</h2>
+<p>تشمل قابلية الصيانة ما يلي:</p>
 <ul>
-<li>understandable naming;</li>
-<li>clear organization;</li>
-<li>appropriate abstraction;</li>
-<li>coherent control flow;</li>
-<li>useful tests;</li>
-<li>sensible error handling;</li>
-<li>documentation where necessary;</li>
-<li>avoidance of premature complexity.</li>
+<li>تسمية مفهومة؛</li>
+<li>تنظيم واضح؛</li>
+<li>تجريد مناسب؛</li>
+<li>تدفق تحكم متسق؛</li>
+<li>اختبارات مفيدة؛</li>
+<li>معالجة أخطاء منطقية؛</li>
+<li>توثيق عند الضرورة؛</li>
+<li>تجنب التعقيد المبكر.</li>
 </ul>
-<p>Do not treat personal style preferences as universal rules.</p>
-<p>Ask whether another engineer could understand, test, change, and operate the solution.</p>
-<h2>Evaluate security awareness</h2>
-<p>Security expectations should match the role, but most developers should recognize common risks.</p>
-<p>Depending on the exercise, look for awareness of:</p>
+<p>لا تعامل تفضيلاتك الشخصية في الأسلوب على أنها قواعد عامة.</p>
+<p>اسأل نفسك ما إذا كان بإمكان مهندس آخر فهم الحل واختباره وتغييره وتشغيله.</p>
+<h2>تقييم الوعي الأمني</h2>
+<p>يجب أن تتوافق التوقعات الأمنية مع الدور, لكن ينبغي على معظم المطورين إدراك المخاطر الشائعة.</p>
+<p>اعتمادًا على التمرين, ابحث عن الوعي بما يلي:</p>
 <ul>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>input validation;</li>
-<li>injection;</li>
-<li>secret handling;</li>
-<li>tenant isolation;</li>
-<li>secure file handling;</li>
-<li>audit logging;</li>
-<li>encryption;</li>
-<li>privacy;</li>
-<li>rate limiting;</li>
-<li>abuse prevention;</li>
-<li>least privilege.</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>التحقق من صحة المدخلات؛</li>
+<li>الحقن؛</li>
+<li>التعامل مع الأسرار؛</li>
+<li>عزل المستأجرين؛</li>
+<li>التعامل الآمن مع الملفات؛</li>
+<li>تسجيل التدقيق؛</li>
+<li>التشفير؛</li>
+<li>الخصوصية؛</li>
+<li>تحديد معدل الاستخدام؛</li>
+<li>منع إساءة الاستخدام؛</li>
+<li>مبدأ «أقل امتياز ممكن».</li>
 </ul>
-<p>Do not expect every candidate to perform a full threat model during a short exercise.</p>
-<p>Do expect them to notice risks relevant to the problem.</p>
-<h2>Evaluate production readiness</h2>
-<p>Professional engineering continues after code is written.</p>
-<p>Look for whether the candidate considers:</p>
+<p>لا تتوقع من كل مرشح إجراء نموذج تهديد كامل خلال تمرين قصير.</p>
+<p>توقع منهم أن يلاحظوا المخاطر ذات الصلة بالمشكلة.</p>
+<h2>تقييم الجاهزية للإنتاج</h2>
+<p>تستمر الهندسة الاحترافية بعد كتابة الكود.</p>
+<p>ابحث عما إذا كان المرشح يأخذ في الاعتبار:</p>
 <ul>
-<li>logging;</li>
-<li>metrics;</li>
-<li>alerts;</li>
-<li>tracing;</li>
-<li>deployments;</li>
-<li>rollback;</li>
-<li>migrations;</li>
-<li>compatibility;</li>
-<li>capacity;</li>
-<li>cost;</li>
-<li>incident response;</li>
-<li>feature flags;</li>
-<li>failure recovery.</li>
+<li>التسجيل؛</li>
+<li>المقاييس؛</li>
+<li>التنبيهات؛</li>
+<li>التتبع؛</li>
+<li>عمليات النشر؛</li>
+<li>التراجع؛</li>
+<li>عمليات الترحيل؛</li>
+<li>التوافق؛</li>
+<li>السعة؛</li>
+<li>التكلفة؛</li>
+<li>الاستجابة للحوادث؛</li>
+<li>علامات الميزات؛</li>
+<li>التعافي من الأعطال.</li>
 </ul>
-<p>For production-oriented roles, a solution that works only in a local environment is incomplete.</p>
-<h2>Evaluate communication</h2>
-<p>Technical communication includes the ability to:</p>
+<p>بالنسبة للوظائف الموجهة للإنتاج, فإن الحل الذي يعمل فقط في بيئة محلية يعتبر غير مكتمل.</p>
+<h2>تقييم مهارات التواصل</h2>
+<p>يتضمن التواصل الفني القدرة على:</p>
 <ul>
-<li>explain assumptions;</li>
-<li>ask clear questions;</li>
-<li>structure an answer;</li>
-<li>communicate uncertainty;</li>
-<li>describe trade-offs;</li>
-<li>distinguish facts from guesses;</li>
-<li>adjust detail for the audience;</li>
-<li>summarize a decision;</li>
-<li>listen and respond.</li>
+<li>شرح الافتراضات؛</li>
+<li>طرح أسئلة واضحة؛</li>
+<li>تنظيم الإجابة؛</li>
+<li>التعبير عن عدم اليقين؛</li>
+<li>وصف المفاضلات؛</li>
+<li>التمييز بين الحقائق والتخمينات؛</li>
+<li>تكييف التفاصيل وفقًا للجمهور؛</li>
+<li>تلخيص القرار؛</li>
+<li>الاستماع والرد.</li>
 </ul>
-<p>Do not confuse one communication style with competence.</p>
-<p>A deliberate candidate who pauses before answering may be as effective as someone who speaks quickly.</p>
-<h2>Avoid accent and fluency bias</h2>
-<p>Candidates may communicate effectively while having:</p>
+<p>لا تخلط بين أسلوب التواصل والكفاءة.</p>
+<p>قد يكون المرشح المتأنّي الذي يتوقف قليلاً قبل الإجابة فعالاً بقدر من يتحدث بسرعة.</p>
+<h2>تجنب التحيز المتعلق باللهجة والطلاقة</h2>
+<p>قد يتواصل المرشحون بفعالية رغم وجود:</p>
 <ul>
-<li>an accent;</li>
-<li>a different dialect;</li>
-<li>non-native phrasing;</li>
-<li>pauses;</li>
-<li>assistive technology;</li>
-<li>a less familiar conversational style.</li>
+<li>لهجة؛</li>
+<li>لهجة محلية مختلفة؛</li>
+<li>صياغة غير مألوفة؛</li>
+<li>فترات توقف؛</li>
+<li>تقنيات مساعدة؛</li>
+<li>أسلوب محادثة أقل شيوعًا.</li>
 </ul>
-<p>Evaluate whether the communication is understandable, relevant, and useful.</p>
-<p>Do not reward social familiarity.</p>
-<h2>Evaluate collaboration</h2>
-<p>Software development is collaborative.</p>
-<p>Look for whether the candidate:</p>
+<p>قم بتقييم ما إذا كان التواصل مفهومًا وملائمًا ومفيدًا.</p>
+<p>لا تكافئ الألفة الاجتماعية.</p>
+<h2>تقييم التعاون</h2>
+<p>تطوير البرمجيات هو عمل تعاوني.</p>
+<p>ابحث عما إذا كان المرشح:</p>
 <ul>
-<li>receives feedback constructively;</li>
-<li>asks for clarification;</li>
-<li>recognizes another person’s stronger idea;</li>
-<li>explains disagreement respectfully;</li>
-<li>gives credit accurately;</li>
-<li>identifies when to seek help;</li>
-<li>supports shared ownership;</li>
-<li>communicates blockers.</li>
+<li>يتقبل الملاحظات بشكل بناء؛</li>
+<li>يطلب التوضيح؛</li>
+<li>يدرك الأفكار الأقوى التي يطرحها الآخرون؛</li>
+<li>يشرح اختلافه في الرأي باحترام؛</li>
+<li>ينسب الفضل إلى الآخرين بدقة؛</li>
+<li>يحدد متى يحتاج إلى طلب المساعدة؛</li>
+<li>يدعم الملكية المشتركة؛</li>
+<li>يبلغ عن العوائق.</li>
 </ul>
-<p>A technically strong developer who cannot collaborate may reduce the effectiveness of the entire team.</p>
-<h2>Evaluate learning ability</h2>
-<p>Exact tools change.</p>
-<p>Evaluate whether the candidate can learn.</p>
-<p>Ask about a time they:</p>
+<p>قد يقلل المطور القوي تقنيًا الذي لا يستطيع التعاون من فعالية الفريق بأكمله.</p>
+<h2>تقييم القدرة على التعلم</h2>
+<p>الأدوات المحددة تتغير.</p>
+<p>قم بتقييم ما إذا كان المرشح قادرًا على التعلم.</p>
+<p>اسأل عن موقف قام فيه المرشح بما يلي:</p>
 <ul>
-<li>entered an unfamiliar codebase;</li>
-<li>learned a new language;</li>
-<li>changed technical domains;</li>
-<li>investigated an unknown system;</li>
-<li>adopted a new tool;</li>
-<li>corrected an incorrect assumption.</li>
+<li>التعامل مع قاعدة كود غير مألوفة؛</li>
+<li>تعلم لغة برمجة جديدة؛</li>
+<li>تغيير المجال التقني؛</li>
+<li>استكشاف نظام غير معروف؛</li>
+<li>اعتماد أداة جديدة؛</li>
+<li>تصحيح افتراض خاطئ.</li>
 </ul>
-<p>A strong answer explains:</p>
+<p>الإجابة القوية توضح ما يلي:</p>
 <ul>
-<li>why learning was required;</li>
-<li>how they approached it;</li>
-<li>how they validated understanding;</li>
-<li>how they applied the knowledge;</li>
-<li>what result followed.</li>
+<li>سبب الحاجة إلى التعلم؛</li>
+<li>الطريقة التي اتبعوها في التعلم؛</li>
+<li>الطريقة التي تحققوا بها من فهمهم؛</li>
+<li>الطريقة التي طبقوا بها المعرفة؛</li>
+<li>النتيجة التي تلت ذلك.</li>
 </ul>
-<h2>Evaluate ownership</h2>
-<p>Ownership does not mean working alone.</p>
-<p>It means taking responsibility for progress and outcomes.</p>
-<p>Look for whether the candidate:</p>
+<h2>تقييم روح المبادرة</h2>
+<p>روح المبادرة لا تعني العمل بمفردك.</p>
+<p>بل تعني تحمل المسؤولية عن التقدم المحرز والنتائج.</p>
+<p>ابحث عما إذا كان المرشح:</p>
 <ul>
-<li>identifies risk;</li>
-<li>communicates blockers;</li>
-<li>proposes next steps;</li>
-<li>follows work through deployment;</li>
-<li>monitors results;</li>
-<li>responds when problems occur;</li>
-<li>documents decisions;</li>
-<li>improves the process afterward.</li>
+<li>يحدد المخاطر؛</li>
+<li>يبلغ عن العوائق؛</li>
+<li>يقترح الخطوات التالية؛</li>
+<li>يتابع العمل حتى مرحلة النشر؛</li>
+<li>يراقب النتائج؛</li>
+<li>يستجيب عند حدوث المشكلات؛</li>
+<li>يوثق القرارات؛</li>
+<li>يحسّن العملية لاحقًا.</li>
 </ul>
-<p>Ask:</p>
+<p>اسأل:</p>
 <ul>
-<li>What happened after launch?</li>
-<li>How did you know the change worked?</li>
-<li>What did you do when it failed?</li>
-<li>What did you personally own?</li>
-<li>What would you change now?</li>
+<li>ماذا حدث بعد الإطلاق؟</li>
+<li>كيف عرفت أن التغيير نجح؟</li>
+<li>ماذا فعلت عندما فشل؟</li>
+<li>ما الذي توليت مسؤوليته شخصيًا؟</li>
+<li>ما الذي ستغيره الآن؟</li>
 </ul>
-<h2>Evaluate impact</h2>
-<p>Ask candidates to connect technical work to outcomes.</p>
-<p>Possible evidence includes:</p>
+<h2>تقييم الأثر</h2>
+<p>اطلب من المرشحين ربط العمل التقني بالنتائج.</p>
+<p>تشمل الأدلة المحتملة ما يلي:</p>
 <ul>
-<li>lower latency;</li>
-<li>fewer incidents;</li>
-<li>reduced cost;</li>
-<li>improved conversion;</li>
-<li>faster delivery;</li>
-<li>better accessibility;</li>
-<li>fewer support requests;</li>
-<li>successful migrations;</li>
-<li>stronger security;</li>
-<li>improved developer productivity;</li>
-<li>adoption by multiple teams.</li>
+<li>انخفاض زمن الاستجابة؛</li>
+<li>انخفاض عدد الحوادث؛</li>
+<li>خفض التكلفة؛</li>
+<li>تحسين معدل التحويل؛</li>
+<li>تسليم أسرع؛</li>
+<li>سهولة وصول أفضل؛</li>
+<li>انخفاض عدد طلبات الدعم؛</li>
+<li>عمليات ترحيل ناجحة؛</li>
+<li>أمان أقوى؛</li>
+<li>تحسين إنتاجية المطورين؛</li>
+<li>اعتماد النظام من قبل فرق متعددة.</li>
 </ul>
-<p>Not every candidate will have access to precise business metrics.</p>
-<p>Accept specific qualitative outcomes when appropriate.</p>
-<p>For example:</p>
+<p>لن يكون لدى كل مرشح إمكانية الوصول إلى مقاييس أعمال دقيقة.</p>
+<p>اقبل النتائج النوعية المحددة عند الاقتضاء.</p>
+<p>على سبيل المثال:</p>
 <ul>
-<li>adopted by five teams;</li>
-<li>removed a recurring incident class;</li>
-<li>enabled a launch;</li>
-<li>reduced manual intervention;</li>
-<li>shortened onboarding;</li>
-<li>improved audit readiness.</li>
+<li>اعتماده من قبل خمسة فرق؛</li>
+<li>إزالة فئة من الحوادث المتكررة؛</li>
+<li>تمكين إطلاق المنتج؛</li>
+<li>تقليل التدخل اليدوي؛</li>
+<li>تقصير مدة التأهيل؛</li>
+<li>تحسين الاستعداد للتدقيق.</li>
 </ul>
-<h2>Use behavioral interviews for real working evidence</h2>
-<p>Technical ability alone does not predict whether someone will succeed on a team.</p>
-<p>Use structured behavioral questions to evaluate:</p>
+<h2>استخدم المقابلات السلوكية للحصول على أدلة حقيقية عن الأداء في العمل</h2>
+<p>لا تكفي المهارة الفنية وحدها للتنبؤ بما إذا كان الشخص سيحقق النجاح ضمن فريق أم لا.</p>
+<p>استخدم أسئلة سلوكية منظمة لتقييم:</p>
 <ul>
-<li>collaboration;</li>
-<li>conflict;</li>
-<li>ownership;</li>
-<li>failure;</li>
-<li>learning;</li>
-<li>leadership;</li>
-<li>ambiguity;</li>
-<li>feedback;</li>
-<li>prioritization.</li>
+<li>التعاون؛</li>
+<li>التعامل مع النزاعات؛</li>
+<li>تحمل المسؤولية؛</li>
+<li>التعامل مع الفشل؛</li>
+<li>التعلم؛</li>
+<li>القيادة؛</li>
+<li>التعامل مع الغموض؛</li>
+<li>تلقي الملاحظات؛</li>
+<li>تحديد الأولويات.</li>
 </ul>
-<p>Useful questions include:</p>
+<p>من الأسئلة المفيدة ما يلي:</p>
 <ul>
-<li>Tell me about a technical disagreement.</li>
-<li>Describe a production issue you owned.</li>
-<li>Tell me about a decision that did not work.</li>
-<li>Describe a project with unclear requirements.</li>
-<li>Tell me about feedback that changed your behavior.</li>
-<li>Describe a time you influenced without authority.</li>
-<li>Tell me about a time you had to learn something quickly.</li>
-<li>Describe a trade-off you made under time pressure.</li>
+<li>أخبرني عن خلاف فني واجهته.</li>
+<li>صِف مشكلة في الإنتاج كنت مسؤولاً عنها.</li>
+<li>أخبرني عن قرار لم ينجح.</li>
+<li>صِف مشروعًا كانت متطلباته غير واضحة.</li>
+<li>أخبرني عن ملاحظات غيرت سلوكك.</li>
+<li>صِف موقفًا أثرت فيه على الآخرين دون أن تكون لديك سلطة.</li>
+<li>أخبرني عن موقف اضطررت فيه إلى تعلم شيء ما بسرعة.</li>
+<li>صِف تنازلاً قمت به تحت ضغط الوقت.</li>
 </ul>
-<p>Use follow-up questions to clarify:</p>
+<p>استخدم أسئلة متابعة لتوضيح:</p>
 <ul>
-<li>the situation;</li>
-<li>the candidate’s responsibility;</li>
-<li>their actions;</li>
-<li>the result;</li>
-<li>what they learned.</li>
+<li>الموقف؛</li>
+<li>مسؤولية المرشح؛</li>
+<li>أفعاله؛</li>
+<li>النتيجة؛</li>
+<li>ما تعلمه.</li>
 </ul>
-<h2>Avoid “culture fit” as a vague category</h2>
-<p>“Culture fit” often becomes a substitute for personal comfort.</p>
-<p>Interviewers may unconsciously favor candidates who:</p>
+<h2>تجنب استخدام «التوافق الثقافي» كفئة غامضة</h2>
+<p>غالبًا ما يصبح «التوافق الثقافي» بديلاً عن الراحة الشخصية.</p>
+<p>قد يفضل القائمون على المقابلة, دون وعي, المرشحين الذين:</p>
 <ul>
-<li>share their background;</li>
-<li>speak similarly;</li>
-<li>have familiar hobbies;</li>
-<li>attended similar schools;</li>
-<li>approach social interaction in the same way;</li>
-<li>seem like someone they would befriend.</li>
+<li>يشتركون معهم في الخلفية؛</li>
+<li>يتحدثون بنفس الأسلوب؛</li>
+<li>لديهم هوايات مألوفة؛</li>
+<li>درسوا في مدارس مشابهة؛</li>
+<li>يتعاملون مع التفاعل الاجتماعي بنفس الطريقة؛</li>
+<li>يبدون كأشخاص قد يصادقونهم.</li>
 </ul>
-<p>Replace vague fit with defined working behaviors.</p>
-<p>Evaluate whether the candidate can:</p>
+<p>استبدل مفهوم «التوافق» الغامض بسلوكيات عمل محددة.</p>
+<p>قم بتقييم ما إذا كان المرشح قادرًا على:</p>
 <ul>
-<li>communicate respectfully;</li>
-<li>collaborate;</li>
-<li>receive feedback;</li>
-<li>act with integrity;</li>
-<li>take responsibility;</li>
-<li>support team standards;</li>
-<li>contribute a useful perspective.</li>
+<li>التواصل باحترام؛</li>
+<li>التعاون؛</li>
+<li>تلقي الملاحظات؛</li>
+<li>التصرف بنزاهة؛</li>
+<li>تحمل المسؤولية؛</li>
+<li>دعم معايير الفريق؛</li>
+<li>المساهمة بوجهة نظر مفيدة.</li>
 </ul>
-<p>The goal is not to hire copies of the existing team.</p>
-<h2>Recognize common interview biases</h2>
-<h3>Pedigree bias</h3>
-<p>Overvaluing famous employers or schools.</p>
-<h3>Similarity bias</h3>
-<p>Preferring candidates who resemble the interviewer.</p>
-<h3>Confidence bias</h3>
-<p>Mistaking fast, polished answers for deeper ability.</p>
-<h3>Halo effect</h3>
-<p>Allowing one strong accomplishment to improve unrelated evaluations.</p>
-<h3>Horn effect</h3>
-<p>Allowing one mistake to damage the entire evaluation.</p>
-<h3>Confirmation bias</h3>
-<p>Seeking evidence that supports the initial impression.</p>
-<h3>Recency bias</h3>
-<p>Overweighting the final answer or interview.</p>
-<h3>Technology bias</h3>
-<p>Rejecting a candidate for lacking one exact tool despite strong transferable knowledge.</p>
-<h3>Interview-performance bias</h3>
-<p>Confusing ability to interview with ability to perform the work.</p>
-<p>Structure does not eliminate bias, but it makes bias easier to detect and challenge.</p>
-<h2>Do not overvalue speed</h2>
-<p>Speed may matter in some roles, but most engineering work rewards correctness, maintainability, and judgment.</p>
-<p>A candidate who works more slowly may be:</p>
+<p>الهدف ليس توظيف نسخ مطابقة لأعضاء الفريق الحاليين.</p>
+<h2>التعرف على التحيزات الشائعة في المقابلات</h2>
+<h3>تحيز النسب</h3>
+<p>المبالغة في تقدير أرباب العمل أو المؤسسات التعليمية الشهيرة.</p>
+<h3>تحيز التشابه</h3>
+<p>تفضيل المرشحين الذين يشبهون القائم بالمقابلة.</p>
+<h3>تحيز الثقة</h3>
+<p>الخلط بين الإجابات السريعة والمنمقة والقدرات الأعمق.</p>
+<h3>تأثير الهالة</h3>
+<p>السماح لإنجاز واحد قوي بتحسين التقييمات غير ذات الصلة.</p>
+<h3>تأثير القرن</h3>
+<p>السماح لخطأ واحد بإفساد التقييم بأكمله.</p>
+<h3>التحيز التأكيدي</h3>
+<p>البحث عن أدلة تدعم الانطباع الأولي.</p>
+<h3>التحيز الحداثي</h3>
+<p>إعطاء وزن زائد للإجابة النهائية أو المقابلة الأخيرة.</p>
+<h3>التحيز التكنولوجي</h3>
+<p>رفض مرشح لعدم إتقانه أداة معينة بالرغم من امتلاكه معرفة قوية قابلة للتطبيق في مجالات أخرى.</p>
+<h3>تحيز أداء المقابلة</h3>
+<p>الخلط بين القدرة على إجراء المقابلة والقدرة على أداء العمل.</p>
+<p>لا تقضي البنية التنظيمية على التحيز, لكنها تجعل من السهل اكتشافه والتصدي له.</p>
+<h2>لا تبالغ في تقدير السرعة</h2>
+<p>قد تكون السرعة مهمة في بعض الأدوار, لكن معظم الأعمال الهندسية تكافئ الدقة وقابلية الصيانة وحسن التقدير.</p>
+<p>قد يكون المرشح الذي يعمل ببطء أكثر:</p>
 <ul>
-<li>validating assumptions;</li>
-<li>considering edge cases;</li>
-<li>managing interview anxiety;</li>
-<li>using an unfamiliar environment;</li>
-<li>prioritizing correctness.</li>
+<li>يتحقق من صحة الافتراضات؛</li>
+<li>يراعي الحالات الاستثنائية؛</li>
+<li>يتعامل مع التوتر الناتج عن المقابلة؛</li>
+<li>يتأقلم مع بيئة غير مألوفة؛</li>
+<li>يعطي الأولوية للدقة.</li>
 </ul>
-<p>Evaluate the full process rather than using completion time as the primary signal.</p>
-<h2>Avoid technical trivia</h2>
-<p>Questions about obscure syntax or rarely used framework details often measure memorization.</p>
-<p>In real work, developers can consult:</p>
+<p>قم بتقييم العملية بأكملها بدلاً من استخدام وقت الإنجاز كمؤشر رئيسي.</p>
+<h2>تجنب الأسئلة التقنية التافهة</h2>
+<p>غالبًا ما تقيس الأسئلة المتعلقة بقواعد بناء الجمل الغامضة أو تفاصيل الأطر النادرة الاستخدام مدى الحفظ.</p>
+<p>في العمل الفعلي, يمكن للمطورين الرجوع إلى:</p>
 <ul>
-<li>documentation;</li>
-<li>source code;</li>
-<li>tests;</li>
-<li>teammates;</li>
-<li>search tools;</li>
-<li>approved AI tools.</li>
+<li>الوثائق؛</li>
+<li>كود المصدر؛</li>
+<li>الاختبارات؛</li>
+<li>زملاء الفريق؛</li>
+<li>أدوات البحث؛</li>
+<li>أدوات الذكاء الاصطناعي المعتمدة.</li>
 </ul>
-<p>The more important skill is often knowing:</p>
+<p>وغالبًا ما تكون المهارة الأكثر أهمية هي معرفة:</p>
 <ul>
-<li>what to investigate;</li>
-<li>which source to trust;</li>
-<li>how to test the answer;</li>
-<li>how to apply it safely.</li>
+<li>ما الذي يجب التحقيق فيه؛</li>
+<li>أي مصدر يمكن الوثوق به؛</li>
+<li>كيفية اختبار الإجابة؛</li>
+<li>كيفية تطبيقها بأمان.</li>
 </ul>
-<p>Use memory-based questions only when immediate recall is genuinely necessary for the role.</p>
-<h2>Use algorithm interviews selectively</h2>
-<p>Data structures and algorithms are relevant to many engineering roles.</p>
-<p>That does not mean every role requires puzzle-heavy evaluation.</p>
-<p>Use algorithmic problems when the work genuinely involves:</p>
+<p>لا تستخدم الأسئلة التي تعتمد على الذاكرة إلا عندما يكون التذكر الفوري ضروريًا حقًّا للوظيفة.</p>
+<h2>استخدم أسئلة الخوارزميات بشكل انتقائي</h2>
+<p>تعد هياكل البيانات والخوارزميات ذات صلة بالعديد من الوظائف الهندسية.</p>
+<p>وهذا لا يعني أن كل وظيفة تتطلب تقييمًا يعتمد بشكل كبير على الألغاز.</p>
+<p>استخدم المسائل الخوارزمية عندما يتضمن العمل فعليًّا ما يلي:</p>
 <ul>
-<li>performance-sensitive computation;</li>
-<li>complex data processing;</li>
-<li>search;</li>
-<li>compilers;</li>
-<li>graphics;</li>
-<li>optimization;</li>
-<li>specialized infrastructure.</li>
+<li>الحسابات التي تعتمد على الأداء؛</li>
+<li>معالجة البيانات المعقدة؛</li>
+<li>البحث؛</li>
+<li>المُجمِّعات البرمجية؛</li>
+<li>الرسومات؛</li>
+<li>التحسين؛</li>
+<li>البنية التحتية المتخصصة.</li>
 </ul>
-<p>For typical product-development roles, combine fundamental problem-solving with more representative tasks such as API design, debugging, testing, or code review.</p>
-<h2>Avoid adversarial interviewing</h2>
-<p>An interview should not be designed to intimidate the candidate.</p>
-<p>Avoid:</p>
+<p>بالنسبة للوظائف النموذجية في مجال تطوير المنتجات, اجمع بين حل المشكلات الأساسية والمهام الأكثر تمثيلاً مثل تصميم واجهة برمجة التطبيقات (API), وتصحيح الأخطاء, والاختبار, أو مراجعة الكود.</p>
+<h2>تجنب المقابلات العدائية</h2>
+<p>لا ينبغي تصميم المقابلة بهدف ترهيب المرشح.</p>
+<p>تجنب:</p>
 <ul>
-<li>trick questions;</li>
-<li>deliberate ambiguity with no clarification;</li>
-<li>hostile interruption;</li>
-<li>mocking mistakes;</li>
-<li>rapid-fire trivia;</li>
-<li>withholding basic information;</li>
-<li>changing rules without warning;</li>
-<li>treating hints as failure.</li>
+<li>الأسئلة الخادعة؛</li>
+<li>الغموض المتعمد دون توضيح؛</li>
+<li>المقاطعة العدائية؛</li>
+<li>السخرية من الأخطاء؛</li>
+<li>الأسئلة التافهة المتتالية بسرعة؛</li>
+<li>حجب المعلومات الأساسية؛</li>
+<li>تغيير القواعد دون سابق إنذار؛</li>
+<li>اعتبار التلميحات بمثابة فشل.</li>
 </ul>
-<p>A stressful environment may reveal who is most comfortable with stress interviews rather than who will perform best in the job.</p>
-<h2>Explain the process in advance</h2>
-<p>Candidates should know:</p>
+<p>قد تكشف البيئة المليئة بالضغوط عن من يشعر براحة أكبر في المقابلات المجهدة, بدلاً من من سيقدم أفضل أداء في الوظيفة.</p>
+<h2>اشرح العملية مسبقًا</h2>
+<p>يجب أن يعرف المرشحون:</p>
 <ul>
-<li>the number of stages;</li>
-<li>the expected timeline;</li>
-<li>the format;</li>
-<li>the duration;</li>
-<li>the technologies involved;</li>
-<li>whether external resources are allowed;</li>
-<li>whether AI tools are allowed;</li>
-<li>whether the session is recorded;</li>
-<li>how accommodations can be requested;</li>
-<li>what each stage evaluates.</li>
+<li>عدد المراحل؛</li>
+<li>الجدول الزمني المتوقع؛</li>
+<li>الشكل؛</li>
+<li>المدة؛</li>
+<li>التقنيات المستخدمة؛</li>
+<li>ما إذا كان يُسمح باستخدام موارد خارجية؛</li>
+<li>ما إذا كان يُسمح باستخدام أدوات الذكاء الاصطناعي؛</li>
+<li>ما إذا كانت الجلسة تُسجل؛</li>
+<li>كيفية طلب التسهيلات الخاصة؛</li>
+<li>ما الذي يتم تقييمه في كل مرحلة.</li>
 </ul>
-<p>Transparency helps candidates prepare for the relevant work and reduces unnecessary anxiety.</p>
-<h2>Establish an AI-tool policy</h2>
-<p>As AI-assisted development becomes common, companies should decide how tools may be used during assessments.</p>
-<p>Possible policies include:</p>
+<p>تساعد الشفافية المرشحين على الاستعداد للعمل ذي الصلة وتقلل من القلق غير الضروري.</p>
+<h2>وضع سياسة خاصة بأدوات الذكاء الاصطناعي</h2>
+<p>مع انتشار التطوير المدعوم بالذكاء الاصطناعي, يجب على الشركات تحديد كيفية استخدام هذه الأدوات أثناء عمليات التقييم.</p>
+<p>تشمل السياسات المحتملة ما يلي:</p>
 <ul>
-<li>no AI assistance;</li>
-<li>AI permitted for documentation and syntax;</li>
-<li>AI permitted with disclosure;</li>
-<li>AI permitted throughout, with evaluation focused on verification and judgment;</li>
-<li>role-specific rules.</li>
+<li>عدم استخدام الذكاء الاصطناعي؛</li>
+<li>السماح باستخدام الذكاء الاصطناعي في التوثيق وقواعد الصياغة؛</li>
+<li>السماح باستخدام الذكاء الاصطناعي بشرط الإفصاح؛</li>
+<li>السماح باستخدام الذكاء الاصطناعي طوال العملية, مع تركيز التقييم على التحقق والتقييم؛</li>
+<li>قواعد خاصة بكل دور.</li>
 </ul>
-<p>Whatever policy you choose:</p>
+<p>أياً كانت السياسة التي تختارها:</p>
 <ul>
-<li>state it clearly;</li>
-<li>apply it consistently;</li>
-<li>explain why;</li>
-<li>evaluate whether the policy reflects real work;</li>
-<li>avoid creating hidden traps.</li>
+<li>اذكرها بوضوح؛</li>
+<li>طبقها بشكل متسق؛</li>
+<li>اشرح الأسباب؛</li>
+<li>قم بتقييم ما إذا كانت السياسة تعكس العمل الفعلي؛</li>
+<li>تجنب إنشاء مصائد خفية.</li>
 </ul>
-<p>If developers use approved AI tools in the job, an interview may gain useful signal by evaluating whether candidates can:</p>
+<p>إذا استخدم المطورون أدوات الذكاء الاصطناعي المعتمدة في المهمة, فقد توفر المقابلة مؤشرات مفيدة من خلال تقييم ما إذا كان المرشحون قادرين على:</p>
 <ul>
-<li>formulate a request;</li>
-<li>review generated code;</li>
-<li>identify errors;</li>
-<li>test the result;</li>
-<li>protect sensitive information;</li>
-<li>explain the final decision.</li>
+<li>صياغة طلب؛</li>
+<li>مراجعة الكود الذي تم إنشاؤه؛</li>
+<li>تحديد الأخطاء؛</li>
+<li>اختبار النتيجة؛</li>
+<li>حماية المعلومات الحساسة؛</li>
+<li>شرح القرار النهائي.</li>
 </ul>
-<p>The candidate must still understand and defend the work.</p>
-<h2>Protect candidate privacy</h2>
-<p>Explain how assessment data is handled.</p>
-<p>Candidates should know:</p>
+<p>يجب أن يظل المرشح قادرًا على فهم العمل والدفاع عنه.</p>
+<h2>حماية خصوصية المرشح</h2>
+<p>اشرح كيفية التعامل مع بيانات التقييم.</p>
+<p>يجب أن يعرف المرشحون:</p>
 <ul>
-<li>whether sessions are recorded;</li>
-<li>who can view recordings;</li>
-<li>where code is stored;</li>
-<li>how long submissions are retained;</li>
-<li>whether submissions are reused;</li>
-<li>whether automated analysis is involved;</li>
-<li>how deletion requests are handled.</li>
+<li>ما إذا كانت الجلسات تُسجَّل؛</li>
+<li>من يمكنه مشاهدة التسجيلات؛</li>
+<li>أين يتم تخزين الشفرات البرمجية؛</li>
+<li>مدة الاحتفاظ بالملفات المرسلة؛</li>
+<li>ما إذا كانت الملفات المرسلة تُعاد استخدامها؛</li>
+<li>ما إذا كان يتم إجراء تحليل آلي؛</li>
+<li>كيفية التعامل مع طلبات الحذف.</li>
 </ul>
-<p>Collect only the information necessary for hiring.</p>
-<p>Avoid invasive monitoring that does not meaningfully improve evaluation.</p>
-<h2>Avoid surveillance-heavy assessments</h2>
-<p>Be cautious with tools requiring:</p>
+<p>اكتفِ بجمع المعلومات الضرورية لعملية التوظيف فقط.</p>
+<p>تجنب المراقبة المتطفلة التي لا تحسّن التقييم بشكل ملموس.</p>
+<h2>تجنب التقييمات التي تعتمد بشكل مكثف على المراقبة</h2>
+<p>توخ الحذر عند استخدام الأدوات التي تتطلب:</p>
 <ul>
-<li>continuous webcam monitoring;</li>
-<li>facial analysis;</li>
-<li>emotion recognition;</li>
-<li>biometric collection;</li>
-<li>intrusive browser tracking;</li>
-<li>unnecessary screen recording.</li>
+<li>المراقبة المستمرة عبر كاميرا الويب؛</li>
+<li>تحليل الوجه؛</li>
+<li>التعرف على المشاعر؛</li>
+<li>جمع البيانات البيومترية؛</li>
+<li>التتبع المتطفل للمتصفح؛</li>
+<li>التسجيل غير الضروري للشاشة.</li>
 </ul>
-<p>These tools may create privacy, accessibility, legal, and fairness concerns.</p>
-<p>Measure the work using the least intrusive process that provides sufficient evidence.</p>
-<h2>Provide accommodations</h2>
-<p>Candidates may need accommodations related to:</p>
+<p>قد تثير هذه الأدوات مخاوف تتعلق بالخصوصية, وإمكانية الوصول, والجوانب القانونية, والإنصاف.</p>
+<p>قم بتقييم العمل باستخدام أقل العمليات تدخلاً والتي توفر أدلة كافية.</p>
+<h2>توفير التسهيلات</h2>
+<p>قد يحتاج المرشحون إلى تسهيلات تتعلق بما يلي:</p>
 <ul>
-<li>disability;</li>
-<li>neurodivergence;</li>
-<li>hearing;</li>
-<li>vision;</li>
-<li>mobility;</li>
-<li>anxiety;</li>
-<li>chronic illness;</li>
-<li>caregiving;</li>
-<li>religious observance;</li>
-<li>time zone;</li>
-<li>assistive technology.</li>
+<li>الإعاقة؛</li>
+<li>الاختلاف العصبي؛</li>
+<li>السمع؛</li>
+<li>البصر؛</li>
+<li>القدرة على الحركة؛</li>
+<li>القلق؛</li>
+<li>الأمراض المزمنة؛</li>
+<li>تقديم الرعاية؛</li>
+<li>ممارسة الشعائر الدينية؛</li>
+<li>المنطقة الزمنية؛</li>
+<li>التكنولوجيا المساعدة.</li>
 </ul>
-<p>Possible accommodations include:</p>
+<p>تشمل التسهيلات المحتملة ما يلي:</p>
 <ul>
-<li>additional time;</li>
-<li>breaks;</li>
-<li>written instructions;</li>
-<li>captioning;</li>
-<li>accessible documents;</li>
-<li>alternative coding environments;</li>
-<li>different assessment formats;</li>
-<li>flexible scheduling.</li>
+<li>وقت إضافي؛</li>
+<li>فترات راحة؛</li>
+<li>تعليمات مكتوبة؛</li>
+<li>الترجمة النصية؛</li>
+<li>المستندات الميسرة؛</li>
+<li>بيئات البرمجة البديلة؛</li>
+<li>صيغ التقييم المختلفة؛</li>
+<li>الجدولة المرنة.</li>
 </ul>
-<p>Make requests easy, visible, and private.</p>
-<p>Do not require candidates to explain personal medical details to each interviewer.</p>
-<h2>Respect candidate time</h2>
-<p>Candidate time is part of the hiring cost.</p>
-<p>A process requiring:</p>
+<p>اجعل تقديم الطلبات سهلاً وواضحًا وسريًّا.</p>
+<p>لا تطلب من المرشحين شرح التفاصيل الطبية الشخصية لكل مُجري مقابلة.</p>
+<h2>احترام وقت المرشح</h2>
+<p>يُعد وقت المرشح جزءًا من تكلفة التوظيف.</p>
+<p>العملية التي تتطلب:</p>
 <ul>
-<li>several screens;</li>
-<li>a weekend take-home;</li>
-<li>six interviews;</li>
-<li>repeated background conversations;</li>
-<li>long gaps;</li>
-<li>an executive approval round;</li>
+<li>عدة جولات من التقييم؛</li>
+<li>مهمة منزلية خلال عطلة نهاية الأسبوع؛</li>
+<li>ست مقابلات؛</li>
+<li>محادثات متكررة حول الخلفية الشخصية؛</li>
+<li>فترات انتظار طويلة؛</li>
+<li>جولة موافقة من الإدارة العليا؛</li>
 </ul>
-<p>may drive away the strongest candidates.</p>
-<p>For every stage, ask:</p>
+<p>قد تؤدي إلى إبعاد أقوى المرشحين.</p>
+<p>في كل مرحلة, اسأل نفسك:</p>
 <ul>
-<li>What evidence does this add?</li>
-<li>Is that evidence necessary?</li>
-<li>Is another stage already collecting it?</li>
-<li>Could it be collected more efficiently?</li>
-<li>Is the burden proportional to the role?</li>
+<li>ما الدليل الذي تضيفه هذه المرحلة؟</li>
+<li>هل هذا الدليل ضروري؟</li>
+<li>هل هناك مرحلة أخرى تجمع هذا الدليل بالفعل؟</li>
+<li>هل يمكن جمعها بطريقة أكثر كفاءة؟</li>
+<li>هل العبء متناسب مع الوظيفة؟</li>
 </ul>
-<p>A rigorous process can still be concise.</p>
-<h2>Reduce repeated questions</h2>
-<p>Candidates often answer “Tell me about yourself” and describe the same project several times.</p>
-<p>This wastes time and signals poor coordination.</p>
-<p>Share interview responsibilities through an interview packet.</p>
-<p>Each interviewer should know:</p>
+<p>يمكن أن تكون العملية الصارمة موجزة في الوقت نفسه.</p>
+<h2>تقليل الأسئلة المتكررة</h2>
+<p>غالبًا ما يجيب المرشحون على سؤال «أخبرني عن نفسك» ويصفون نفس المشروع عدة مرات.</p>
+<p>وهذا يهدر الوقت ويشير إلى سوء التنسيق.</p>
+<p>قم بتقاسم مسؤوليات المقابلة من خلال حزمة المقابلة.</p>
+<p>يجب أن يعرف كل مُجري مقابلة ما يلي:</p>
 <ul>
-<li>what earlier stages covered;</li>
-<li>which competency they own;</li>
-<li>which questions to ask;</li>
-<li>which evidence remains missing.</li>
+<li>ما الذي تمت تغطيته في المراحل السابقة؛</li>
+<li>الكفاءة التي يتولى مسؤوليتها؛</li>
+<li>الأسئلة التي يجب طرحها؛</li>
+<li>الأدلة التي لا تزال مفقودة.</li>
 </ul>
-<h2>Reserve interview capacity</h2>
-<p>Hiring becomes slow when interviews must be fitted around ordinary meetings one stage at a time.</p>
-<p>Reserve recurring calendar blocks for:</p>
+<h2>حجز وقت للمقابلات</h2>
+<p>يصبح التوظيف بطيئًا عندما يتعين تنظيم المقابلات حول الاجتماعات العادية مرحلة تلو الأخرى.</p>
+<p>احجز فترات زمنية متكررة في التقويم من أجل:</p>
 <ul>
-<li>technical assessments;</li>
-<li>manager conversations;</li>
-<li>interview panels;</li>
-<li>debriefs.</li>
+<li>التقييمات الفنية؛</li>
+<li>المحادثات مع المديرين؛</li>
+<li>لجان المقابلات؛</li>
+<li>جلسات الاستخلاص.</li>
 </ul>
-<p>This improves scheduling and reduces the vacancy period.</p>
-<h2>Group interviews thoughtfully</h2>
-<p>Several focused interviews can be completed in one coordinated session with breaks.</p>
-<p>For example:</p>
+<p>يؤدي ذلك إلى تحسين الجدولة وتقليل فترة شغور الوظيفة.</p>
+<h2>تنظيم المقابلات الجماعية بعناية</h2>
+<p>يمكن إتمام عدة مقابلات مركزة في جلسة واحدة منسقة تتخللها فترات راحة.</p>
+<p>على سبيل المثال:</p>
 <ul>
-<li>technical exercise;</li>
-<li>break;</li>
-<li>project walkthrough;</li>
-<li>lunch or longer break;</li>
-<li>system design;</li>
-<li>collaboration conversation;</li>
-<li>candidate questions.</li>
+<li>تمرين تقني؛</li>
+<li>استراحة؛</li>
+<li>عرض تفصيلي للمشروع؛</li>
+<li>غداء أو استراحة أطول؛</li>
+<li>تصميم النظام؛</li>
+<li>محادثة حول التعاون؛</li>
+<li>أسئلة المرشح.</li>
 </ul>
-<p>Avoid exhausting all-day marathons.</p>
-<p>Compression should reduce scheduling delay, not increase candidate fatigue.</p>
-<h2>Require prompt feedback</h2>
-<p>Interview feedback should be submitted while details are fresh.</p>
-<p>A reasonable standard may be:</p>
+<p>تجنب المقابلات الماراثونية المرهقة التي تستمر طوال اليوم.</p>
+<p>يجب أن يقلل تقليص المدة من التأخير في الجدولة, لا أن يزيد من إرهاق المرشح.</p>
+<h2>اشترط تقديم التقييم الفوري</h2>
+<p>يجب تقديم تقييم المقابلة بينما التفاصيل لا تزال حاضرة في الذاكرة.</p>
+<p>قد يكون المعيار المعقول كما يلي:</p>
 <ul>
-<li>notes completed within two hours;</li>
-<li>score submitted before viewing others’ feedback;</li>
-<li>all feedback submitted by the end of the day;</li>
-<li>debrief held within one business day.</li>
+<li>إكمال الملاحظات في غضون ساعتين؛</li>
+<li>تقديم التقييم قبل الاطلاع على تقييمات الآخرين؛</li>
+<li>تقديم جميع التقييمات بحلول نهاية اليوم؛</li>
+<li>عقد اجتماع تقييم في غضون يوم عمل واحد.</li>
 </ul>
-<p>Delayed feedback reduces accuracy and increases the chance of losing the candidate.</p>
-<h2>Make decisions quickly</h2>
-<p>A candidate should not wait a week while interviewers debate vague concerns.</p>
-<p>After the final interview:</p>
+<p>تؤدي الملاحظات المتأخرة إلى انخفاض الدقة وزيادة احتمال فقدان المرشح.</p>
+<h2>اتخاذ القرارات بسرعة</h2>
+<p>لا ينبغي أن ينتظر المرشح أسبوعًا كاملًا بينما يناقش القائمون على المقابلة مخاوف غامضة.</p>
+<p>بعد المقابلة النهائية:</p>
 <ol>
-<li>Gather independent feedback.</li>
-<li>Hold the structured debrief.</li>
-<li>Identify whether evidence supports the role.</li>
-<li>Resolve level.</li>
-<li>Make the decision.</li>
-<li>Communicate the next step.</li>
+<li>جمع الملاحظات المستقلة.</li>
+<li>عقد جلسة تقييم منظمة.</li>
+<li>تحديد ما إذا كانت الأدلة تدعم تأهيل المرشح للمنصب.</li>
+<li>تحديد المستوى الوظيفي.</li>
+<li>اتخاذ القرار.</li>
+<li>أبلغ المرشح بالخطوة التالية.</li>
 </ol>
-<p>Speed should come from preparation, not pressure.</p>
-<h2>Do not use exploding offers</h2>
-<p>A fast process should not become a coercive process.</p>
-<p>Avoid requiring candidates to accept immediately.</p>
-<p>Provide:</p>
+<p>يجب أن تنبع السرعة من الاستعداد, لا من الضغط.</p>
+<h2>لا تستخدم العروض ذات المدة المحدودة</h2>
+<p>يجب ألا تتحول العملية السريعة إلى عملية قسرية.</p>
+<p>تجنب مطالبة المرشحين بالقبول الفوري.</p>
+<p>قم بتوفير:</p>
 <ul>
-<li>written details;</li>
-<li>time to review;</li>
-<li>access to benefits information;</li>
-<li>opportunities for questions;</li>
-<li>a clear decision deadline;</li>
-<li>reasonable flexibility.</li>
+<li>تفاصيل مكتوبة؛</li>
+<li>وقتًا للمراجعة؛</li>
+<li>إمكانية الاطلاع على معلومات المزايا؛</li>
+<li>فرصًا لطرح الأسئلة؛</li>
+<li>موعدًا نهائيًا واضحًا لاتخاذ القرار؛</li>
+<li>مرونة معقولة.</li>
 </ul>
-<p>Candidates should be able to make an informed decision.</p>
-<h2>Communicate throughout the process</h2>
-<p>Tell candidates:</p>
+<p>يجب أن يتمكن المرشحون من اتخاذ قرار مستنير.</p>
+<h2>تواصل طوال العملية</h2>
+<p>أخبر المرشحين بما يلي:</p>
 <ul>
-<li>what happens next;</li>
-<li>when they should expect an update;</li>
-<li>who to contact;</li>
-<li>whether a delay has occurred;</li>
-<li>whether additional evidence is needed.</li>
+<li>ما الذي سيحدث بعد ذلك؛</li>
+<li>متى يتوقعون تلقي تحديث؛</li>
+<li>من يجب عليهم الاتصال به؛</li>
+<li>ما إذا كان قد حدث تأخير؛</li>
+<li>ما إذا كانت هناك حاجة إلى أدلة إضافية.</li>
 </ul>
-<p>Do not leave candidates guessing.</p>
-<p>Even a brief update protects trust.</p>
-<h2>Close the loop respectfully</h2>
-<p>Rejected candidates should receive a clear response rather than silence.</p>
-<p>Where appropriate and allowed, useful feedback may include:</p>
+<p>لا تترك المرشحين في حالة ترقب.</p>
+<p>حتى التحديث الموجز يحافظ على الثقة.</p>
+<h2>اختتم العملية باحترام</h2>
+<p>يجب أن يتلقى المرشحون المرفوضون ردًا واضحًا بدلاً من الصمت.</p>
+<p>وحيثما كان ذلك مناسبًا ومسموحًا به, قد تتضمن الملاحظات المفيدة ما يلي:</p>
 <ul>
-<li>the level at which evidence was insufficient;</li>
-<li>the specific competency needing more support;</li>
-<li>whether the role required different experience;</li>
-<li>encouragement to apply for a more suitable role.</li>
+<li>المجال الذي لم تكن فيه الأدلة كافية؛</li>
+<li>الكفاءة المحددة التي تحتاج إلى مزيد من الدعم؛</li>
+<li>ما إذا كان المنصب يتطلب خبرة مختلفة؛</li>
+<li>تشجيع المرشح على التقدم لشغل منصب أكثر ملاءمة.</li>
 </ul>
-<p>Avoid feedback that creates unnecessary legal or privacy risks, but do not use that concern as an excuse for ghosting.</p>
-<p>A respectful rejection can preserve the relationship.</p>
-<h2>Measure the interview process</h2>
-<p>Track whether the process is working.</p>
-<p>Useful metrics include:</p>
+<p>تجنب تقديم ملاحظات تنطوي على مخاطر قانونية أو متعلقة بالخصوصية غير ضرورية, ولكن لا تستخدم هذا القلق كذريعة للتجاهل.</p>
+<p>الرفض المحترم يمكن أن يحافظ على العلاقة.</p>
+<h2>قياس عملية المقابلة</h2>
+<p>تتبع ما إذا كانت العملية تسير على ما يرام.</p>
+<p>تشمل المقاييس المفيدة ما يلي:</p>
 <ul>
-<li>time-to-hire;</li>
-<li>time in each stage;</li>
-<li>candidate withdrawal;</li>
-<li>offer acceptance;</li>
-<li>interview-to-offer ratio;</li>
-<li>interviewer feedback delay;</li>
-<li>candidate satisfaction;</li>
-<li>assessment completion;</li>
-<li>pass-through rate;</li>
-<li>first-year retention;</li>
-<li>manager satisfaction;</li>
-<li>performance against role outcomes.</li>
+<li>الوقت المستغرق للتعيين؛</li>
+<li>الوقت المستغرق في كل مرحلة؛</li>
+<li>انسحاب المرشحين؛</li>
+<li>قبول العرض؛</li>
+<li>نسبة المقابلات إلى العروض؛</li>
+<li>تأخير ملاحظات القائم بالمقابلة؛</li>
+<li>رضا المرشحين؛</li>
+<li>إتمام التقييم؛</li>
+<li>معدل النجاح؛</li>
+<li>معدل الاحتفاظ بالموظفين في السنة الأولى؛</li>
+<li>رضا المديرين؛</li>
+<li>الأداء مقارنة بنتائج الوظيفة.</li>
 </ul>
-<p>Do not optimize one metric in isolation.</p>
-<p>A very short process is not successful if it produces poor hires.</p>
-<p>A highly selective process is not successful if it rejects most qualified candidates for irrelevant reasons.</p>
-<h2>Track candidate withdrawals</h2>
-<p>Record known reasons for withdrawal, such as:</p>
+<p>لا تقم بتحسين مؤشر واحد بمعزل عن البقية.</p>
+<p>لا تعتبر العملية القصيرة جدًّا ناجحة إذا أسفرت عن تعيينات غير ملائمة.</p>
+<p>ولا تعتبر العملية شديدة الانتقائية ناجحة إذا رفضت معظم المرشحين المؤهلين لأسباب غير ذات صلة.</p>
+<h2>تتبع حالات انسحاب المرشحين</h2>
+<p>سجل الأسباب المعروفة للانسحاب, مثل:</p>
 <ul>
-<li>process too slow;</li>
-<li>assignment too large;</li>
-<li>accepted another offer;</li>
-<li>compensation mismatch;</li>
-<li>scheduling difficulty;</li>
-<li>poor interview experience;</li>
-<li>unclear role;</li>
-<li>location requirements;</li>
-<li>personal reasons.</li>
+<li>بطء العملية؛</li>
+<li>حجم المهام كبير جدًّا؛</li>
+<li>قبول عرض آخر؛</li>
+<li>عدم توافق الأجر؛</li>
+<li>صعوبة في تحديد المواعيد؛</li>
+<li>تجربة مقابلة سيئة؛</li>
+<li>عدم وضوح الوظيفة؛</li>
+<li>متطلبات الموقع؛</li>
+<li>أسباب شخصية.</li>
 </ul>
-<p>Recurring patterns reveal where the process is losing candidates.</p>
-<h2>Review stage conversion</h2>
-<p>For each stage, examine:</p>
+<p>تكشف الأنماط المتكررة عن المراحل التي تفقد فيها العملية المرشحين.</p>
+<h2>مراجعة معدل التحويل بين المراحل</h2>
+<p>بالنسبة لكل مرحلة, قم بفحص:</p>
 <ul>
-<li>number entering;</li>
-<li>number advancing;</li>
-<li>average score;</li>
-<li>candidate withdrawals;</li>
-<li>time spent;</li>
-<li>interviewer variance.</li>
+<li>عدد المتقدمين؛</li>
+<li>عدد المتأهلين للمرحلة التالية؛</li>
+<li>متوسط الدرجات؛</li>
+<li>حالات انسحاب المرشحين؛</li>
+<li>الوقت المستغرق؛</li>
+<li>التباين بين القائمين على المقابلة.</li>
 </ul>
-<p>A stage rejecting nearly everyone may indicate:</p>
+<p>قد تشير المرحلة التي يتم فيها رفض جميع المرشحين تقريبًا إلى:</p>
 <ul>
-<li>weak sourcing;</li>
-<li>poor screening;</li>
-<li>unclear instructions;</li>
-<li>an unrealistic assessment;</li>
-<li>a mismatch between the role and evaluation;</li>
-<li>inconsistent scoring.</li>
+<li>ضعف عملية البحث عن المرشحين؛</li>
+<li>ضعف عملية الفرز؛</li>
+<li>تعليمات غير واضحة؛</li>
+<li>تقييم غير واقعي؛</li>
+<li>عدم توافق بين الوظيفة والتقييم؛</li>
+<li>عدم اتساق التقييم.</li>
 </ul>
-<p>A stage passing nearly everyone may add little value.</p>
-<h2>Compare interview signals with job performance</h2>
-<p>Over time, review whether the interview predicted successful work.</p>
-<p>Ask:</p>
+<p>قد لا تضيف المرحلة التي يجتازها الجميع تقريبًا أي قيمة تذكر.</p>
+<h2>مقارنة مؤشرات المقابلة بأداء الوظيفة</h2>
+<p>بمرور الوقت, راجع ما إذا كانت المقابلة قد تنبأت بالنجاح في العمل.</p>
+<p>اسأل:</p>
 <ul>
-<li>Which stages produced useful signals?</li>
-<li>Which scores correlated with later performance?</li>
-<li>Which concerns proved accurate?</li>
-<li>Which concerns were irrelevant?</li>
-<li>Which strong employees nearly failed the process?</li>
-<li>Which questions produced little useful information?</li>
-<li>Did the role match what was assessed?</li>
-<li>Did onboarding affect the outcome?</li>
+<li>ما هي المراحل التي أسفرت عن مؤشرات مفيدة؟</li>
+<li>ما هي الدرجات التي ارتبطت بالأداء اللاحق؟</li>
+<li>ما هي المخاوف التي ثبتت صحتها؟</li>
+<li>ما هي المخاوف التي كانت غير ذات صلة؟</li>
+<li>من هم الموظفون المتميزون الذين كادوا أن يفشلوا في العملية؟</li>
+<li>ما هي الأسئلة التي لم تسفر إلا عن القليل من المعلومات المفيدة؟</li>
+<li>هل كان الدور متوافقًا مع ما تم تقييمه؟</li>
+<li>هل أثرت عملية الإلحاق بالعمل على النتيجة؟</li>
 </ul>
-<p>Use this review carefully.</p>
-<p>Post-hire performance is influenced by:</p>
+<p>استخدم هذه المراجعة بحذر.</p>
+<p>يتأثر الأداء بعد التعيين بما يلي:</p>
 <ul>
-<li>management;</li>
-<li>role clarity;</li>
-<li>onboarding;</li>
-<li>team support;</li>
-<li>organizational change;</li>
-<li>project assignment;</li>
-<li>compensation;</li>
-<li>workplace conditions.</li>
+<li>الإدارة؛</li>
+<li>وضوح الدور؛</li>
+<li>عملية الإلحاق بالعمل؛</li>
+<li>دعم الفريق؛</li>
+<li>التغيير التنظيمي؛</li>
+<li>توزيع المهام في المشاريع؛</li>
+<li>المكافآت؛</li>
+<li>ظروف مكان العمل.</li>
 </ul>
-<p>Do not assume every unsuccessful outcome proves a hiring mistake.</p>
-<h2>Conduct hiring retrospectives</h2>
-<p>After filling a role, review:</p>
+<p>لا تفترض أن كل نتيجة غير ناجحة تدل على خطأ في التوظيف.</p>
+<h2>إجراء مراجعات رجعية لعملية التوظيف</h2>
+<p>بعد شغل الوظيفة, قم بمراجعة:</p>
 <ul>
-<li>where candidates waited;</li>
-<li>which stage provided the strongest evidence;</li>
-<li>which stages repeated work;</li>
-<li>whether the scorecard matched the actual role;</li>
-<li>why candidates withdrew;</li>
-<li>whether interviewers were calibrated;</li>
-<li>whether compensation was competitive;</li>
-<li>whether the offer moved quickly;</li>
-<li>what should change for the next role.</li>
+<li>أين انتظر المرشحون؛</li>
+<li>أي مرحلة قدمت أدلة أقوى؛</li>
+<li>أي المراحل تضمنت تكرارًا للعمل؛</li>
+<li>ما إذا كانت بطاقة التقييم تتوافق مع الوظيفة الفعلية؛</li>
+<li>لماذا انسحب المرشحون؛</li>
+<li>ما إذا كان المقابلون قد خضعوا لمعايرة؛</li>
+<li>ما إذا كانت المكافآت تنافسية؛</li>
+<li>ما إذا كان العرض قد تم تقديمه بسرعة؛</li>
+<li>ما الذي يجب تغييره بالنسبة للوظيفة التالية.</li>
 </ul>
-<p>Assign owners to improvements.</p>
-<p>A process should evolve rather than becoming permanent by habit.</p>
-<h2>Validate assessments before trusting them</h2>
-<p>An interview exercise should not be considered predictive merely because it feels technical.</p>
-<p>Review:</p>
+<p>تعيين مسؤولين عن التحسينات.</p>
+<p>يجب أن تتطور العملية بدلاً من أن تصبح ثابتة بسبب العادة.</p>
+<h2>التحقق من صحة التقييمات قبل الوثوق بها</h2>
+<p>لا ينبغي اعتبار تمرين المقابلة تنبؤياً لمجرد أنه يبدو تقنياً.</p>
+<p>مراجعة:</p>
 <ul>
-<li>whether high performers on the job would perform well;</li>
-<li>whether the task resembles real work;</li>
-<li>whether irrelevant factors influence scores;</li>
-<li>whether candidates understand the instructions;</li>
-<li>whether interviewers score consistently;</li>
-<li>whether results differ by interview format;</li>
-<li>whether the exercise creates accessibility barriers.</li>
+<li>ما إذا كان الموظفون ذوو الأداء العالي في الوظيفة سيقدمون أداءً جيداً؛</li>
+<li>ما إذا كانت المهمة تشبه العمل الفعلي؛</li>
+<li>ما إذا كانت هناك عوامل غير ذات صلة تؤثر على الدرجات؛</li>
+<li>ما إذا كان المرشحون يفهمون التعليمات؛</li>
+<li>ما إذا كان المقابلون يمنحون الدرجات بشكل متسق؛</li>
+<li>ما إذا كانت النتائج تختلف حسب شكل المقابلة؛</li>
+<li>ما إذا كان التمرين يخلق عوائق في الوصول.</li>
 </ul>
-<p>The company should be willing to revise or remove an assessment that does not produce useful evidence.</p>
-<h2>Match the interview to seniority</h2>
-<h3>Early-career engineers</h3>
-<p>Evaluate:</p>
+<p>يجب أن تكون الشركة مستعدة لمراجعة أو إلغاء أي تقييم لا ينتج أدلة مفيدة.</p>
+<h2>مواءمة المقابلة مع مستوى الخبرة</h2>
+<h3>المهندسون في بداية مسيرتهم المهنية</h3>
+<p>تقييم:</p>
 <ul>
-<li>fundamentals;</li>
-<li>learning;</li>
-<li>debugging;</li>
-<li>scoped implementation;</li>
-<li>testing;</li>
-<li>communication;</li>
-<li>response to feedback.</li>
+<li>الأساسيات؛</li>
+<li>التعلم؛</li>
+<li>تصحيح الأخطاء؛</li>
+<li>التنفيذ ضمن النطاق المحدد؛</li>
+<li>الاختبار؛</li>
+<li>التواصل؛</li>
+<li>الاستجابة للتعليقات.</li>
 </ul>
-<p>Do not require broad architecture ownership.</p>
-<h3>Mid-level engineers</h3>
-<p>Evaluate:</p>
+<p>لا تشترط إلمامًا واسعًا بالبنية العامة.</p>
+<h3>المهندسون من المستوى المتوسط</h3>
+<p>قم بتقييم:</p>
 <ul>
-<li>independent delivery;</li>
-<li>maintainability;</li>
-<li>production awareness;</li>
-<li>testing;</li>
-<li>collaboration;</li>
-<li>reliable ownership.</li>
+<li>التنفيذ المستقل؛</li>
+<li>قابلية الصيانة؛</li>
+<li>الوعي ببيئة الإنتاج؛</li>
+<li>الاختبار؛</li>
+<li>التعاون؛</li>
+<li>الملكية الموثوقة.</li>
 </ul>
-<h3>Senior engineers</h3>
-<p>Evaluate:</p>
+<h3>المهندسون الكبار</h3>
+<p>قم بتقييم:</p>
+<h3>هندسة الأمن</h3>
+<p>التقييم:</p>
 <ul>
-<li>architecture;</li>
-<li>ambiguity;</li>
-<li>trade-offs;</li>
-<li>reliability;</li>
-<li>mentoring;</li>
-<li>cross-team collaboration;</li>
-<li>risk management;</li>
-<li>business impact.</li>
+<li>نمذجة التهديدات؛</li>
+<li>التصميم الآمن؛</li>
+<li>التحقيق؛</li>
+<li>المصادقة؛</li>
+<li>التفويض؛</li>
+<li>معالجة الثغرات الأمنية؛</li>
+<li>التواصل بشأن المخاطر؛</li>
+<li>الأمن التشغيلي.</li>
 </ul>
-<h3>Staff and principal engineers</h3>
-<p>Evaluate:</p>
+<p>يجب أن يعكس التقييم العمل الذي سيقوم به المرشح فعليًّا.</p>
+<h2>ورقة عمل قابلة لإعادة الاستخدام لتصميم المقابلة</h2>
+<h3>الدور</h3>
 <ul>
-<li>organizational influence;</li>
-<li>long-term technical strategy;</li>
-<li>systems across teams;</li>
-<li>decision frameworks;</li>
-<li>risk reduction;</li>
-<li>leadership without authority;</li>
-<li>enabling others.</li>
+<li>المسمى الوظيفي:</li>
+<li>المستوى:</li>
+<li>الفريق:</li>
+<li>مدير التوظيف:</li>
+<li>الموقع:</li>
+<li>نوع التوظيف:</li>
 </ul>
-<h3>Engineering managers</h3>
-<p>Evaluate:</p>
+<h3>المهمة</h3>
+<p>ما هو الغرض الأساسي من هذا الدور؟</p>
+<h3>النتائج المتوقعة</h3>
 <ul>
-<li>people leadership;</li>
-<li>hiring;</li>
-<li>coaching;</li>
-<li>delivery;</li>
-<li>conflict;</li>
-<li>technical judgment;</li>
-<li>team health;</li>
-<li>stakeholder alignment.</li>
+<li>النتيجة 1:</li>
+<li>النتيجة 2:</li>
+<li>النتيجة 3:</li>
+<li>النتيجة 4:</li>
 </ul>
-<p>Do not use one generic technical loop for every level.</p>
-<h2>Match the interview to the discipline</h2>
-<h3>Frontend engineering</h3>
-<p>Evaluate:</p>
+<h3>الكفاءات المطلوبة</h3>
 <ul>
-<li>JavaScript or TypeScript;</li>
-<li>browser behavior;</li>
-<li>component design;</li>
-<li>state management;</li>
-<li>accessibility;</li>
-<li>performance;</li>
-<li>testing;</li>
-<li>interaction quality.</li>
+<li>الكفاءة الفنية 1:</li>
+<li>الكفاءة الفنية 2:</li>
+<li>الكفاءة الفنية 3:</li>
+<li>الكفاءة العملية 1:</li>
+<li>الكفاءة العملية 2:</li>
+<li>الكفاءة العملية 3:</li>
 </ul>
-<h3>Backend engineering</h3>
-<p>Evaluate:</p>
+<h3>المهارات القابلة للتعلم</h3>
 <ul>
-<li>APIs;</li>
-<li>data modeling;</li>
-<li>concurrency;</li>
-<li>reliability;</li>
-<li>security;</li>
-<li>queues;</li>
-<li>testing;</li>
-<li>observability.</li>
+<li>المهارة 1:</li>
+<li>المهارة 2:</li>
+<li>المهارة 3:</li>
 </ul>
-<h3>Platform and infrastructure engineering</h3>
-<p>Evaluate:</p>
+<h3>مراحل المقابلة</h3>
+<p>| المرحلة                  |      المدة | الكفاءات                     | المسؤول                       |
+| ---------------------- | ------------: | ------------------------------- - | --------------------------- |
+| التوافق الأولي      |    30 دقيقة | ملاءمة الدور, الأمور اللوجستية              | مسؤول التوظيف أو مدير التوظيف |
+| التقييم العملي   | 60–90 دقيقة | البرمجة, الاختبار, حل المشكلات | مهندس                    |
+| العمق التقني        |    60 دقيقة | الهندسة المعمارية, روح المسؤولية          | مهندس أول             |
+| المقابلة السلوكية   |    45 دقيقة | التعاون, التعلم          | مدير                     |
+| محادثة المرشح |    30 دقيقة | الأسئلة, التوقعات          | زميل الفريق المستقبلي             |</p>
+<h3>عملية اتخاذ القرار</h3>
 <ul>
-<li>automation;</li>
-<li>deployment;</li>
-<li>networking;</li>
-<li>observability;</li>
-<li>incident response;</li>
-<li>infrastructure design;</li>
-<li>security;</li>
-<li>operational trade-offs.</li>
+<li>الموعد النهائي لتقديم الملاحظات:</li>
+<li>وقت استعراض النتائج:</li>
+<li>المسؤول عن اتخاذ القرار:</li>
+<li>المسؤول عن تحديد المستوى الوظيفي:</li>
+<li>المسؤول عن الموافقة على العرض:</li>
 </ul>
-<h3>Mobile engineering</h3>
-<p>Evaluate:</p>
+<h2>نموذج لمعايير تقييم المقابلة الفنية</h2>
+<h3>توضيح المشكلة</h3>
 <ul>
-<li>platform fundamentals;</li>
-<li>lifecycle;</li>
-<li>offline behavior;</li>
-<li>device constraints;</li>
-<li>performance;</li>
-<li>accessibility;</li>
-<li>testing;</li>
-<li>release management.</li>
+<li>لا يوضح المتطلبات الأساسية.</li>
+<li>يوضح المتطلبات الأساسية.</li>
+<li>يحدد القيود الخفية ويحدد أولوياتها.</li>
 </ul>
-<h3>Data engineering</h3>
-<p>Evaluate:</p>
+<h3>تحليل المشكلة</h3>
 <ul>
-<li>SQL;</li>
-<li>data modeling;</li>
-<li>pipelines;</li>
-<li>orchestration;</li>
-<li>reliability;</li>
-<li>lineage;</li>
-<li>quality;</li>
-<li>governance;</li>
-<li>scale.</li>
+<li>يتعامل مع العمل دون هيكل منظم.</li>
+<li>يقسم المشكلة إلى أجزاء قابلة للتنفيذ.</li>
+<li>يضع خطة واضحة ويقوم بتعديلها مع تغير الأدلة.</li>
 </ul>
-<h3>Security engineering</h3>
-<p>Evaluate:</p>
+<h3>الصحة الفنية</h3>
 <ul>
-<li>threat modeling;</li>
-<li>secure design;</li>
-<li>investigation;</li>
-<li>authentication;</li>
-<li>authorization;</li>
-<li>vulnerability handling;</li>
-<li>risk communication;</li>
-<li>operational security.</li>
+<li>يحتوي الحل على أخطاء كبيرة لم يتم حلها.</li>
+<li>يعالج الحل المتطلب الأساسي.</li>
+<li>الحل صحيح وقوي ونطاقه مناسب.</li>
 </ul>
-<p>The assessment should resemble the work the candidate will actually perform.</p>
-<h2>A reusable interview-design worksheet</h2>
-<h3>Role</h3>
+<h3>الاختبار</h3>
 <ul>
-<li>Title:</li>
-<li>Level:</li>
-<li>Team:</li>
-<li>Hiring manager:</li>
-<li>Location:</li>
-<li>Employment type:</li>
+<li>لا يتحقق من النتيجة.</li>
+<li>يختبر السلوكيات المهمة والحالات الحدية الشائعة.</li>
+<li>يحدد الحدود ذات المغزى, وأنماط الفشل, والحماية من الانحدار.</li>
 </ul>
-<h3>Mission</h3>
-<p>What is the central purpose of the role?</p>
-<h3>Expected outcomes</h3>
+<h3>قابلية الصيانة</h3>
 <ul>
-<li>Outcome 1:</li>
-<li>Outcome 2:</li>
-<li>Outcome 3:</li>
-<li>Outcome 4:</li>
+<li>يصعب فهم الكود أو التصميم.</li>
+<li>البنية وتسمية العناصر واضحة بشكل عام.</li>
+<li>الحل بسيط ومتسق وسهل التطوير.</li>
 </ul>
-<h3>Required competencies</h3>
+<h3>التواصل</h3>
 <ul>
-<li>Technical competency 1:</li>
-<li>Technical competency 2:</li>
-<li>Technical competency 3:</li>
-<li>Working competency 1:</li>
-<li>Working competency 2:</li>
-<li>Working competency 3:</li>
+<li>يظل المنطق غير واضح.</li>
+<li>يشرح الافتراضات والقرارات.</li>
+<li>يوضح المفاضلات, وأوجه عدم اليقين, والبدائل بدقة.</li>
 </ul>
-<h3>Learnable skills</h3>
+<h3>التعاون</h3>
 <ul>
-<li>Skill 1:</li>
-<li>Skill 2:</li>
-<li>Skill 3:</li>
+<li>يقاوم التعليقات أو يتجاهل المساهمات.</li>
+<li>يستجيب بشكل بناء.</li>
+<li>يدمج التعليقات مع الحفاظ على استقلالية الحكم.</li>
 </ul>
-<h3>Interview stages</h3>
-<table>
-<thead>
-<tr>
-<th>Stage</th>
-<th align="right">Duration</th>
-<th>Competencies</th>
-<th>Owner</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Initial alignment</td>
-<td align="right">30 minutes</td>
-<td>Role fit, logistics</td>
-<td>Recruiter or hiring manager</td>
-</tr>
-<tr>
-<td>Practical assessment</td>
-<td align="right">60–90 minutes</td>
-<td>Coding, testing, problem-solving</td>
-<td>Engineer</td>
-</tr>
-<tr>
-<td>Technical depth</td>
-<td align="right">60 minutes</td>
-<td>Architecture, ownership</td>
-<td>Senior engineer</td>
-</tr>
-<tr>
-<td>Behavioral interview</td>
-<td align="right">45 minutes</td>
-<td>Collaboration, learning</td>
-<td>Manager</td>
-</tr>
-<tr>
-<td>Candidate conversation</td>
-<td align="right">30 minutes</td>
-<td>Questions, expectations</td>
-<td>Future teammate</td>
-</tr>
-</tbody></table>
-<h3>Decision process</h3>
+<h3>الوعي بالإنتاج</h3>
 <ul>
-<li>Feedback deadline:</li>
-<li>Debrief time:</li>
-<li>Decision owner:</li>
-<li>Leveling owner:</li>
-<li>Offer approval owner:</li>
+<li>لا يأخذ في الاعتبار التشغيل بعد التنفيذ.</li>
+<li>يعالج المخاوف التشغيلية الشائعة.</li>
+<li>يناقش المراقبة, والنشر, واستعادة الخدمة بعد الفشل, والأمن, والتكلفة.</li>
 </ul>
-<h2>A technical-interview rubric template</h2>
-<h3>Problem clarification</h3>
+<h2>أسئلة لتقييم المشروع</h2>
 <ul>
-<li>Does not clarify essential requirements.</li>
-<li>Clarifies the primary requirements.</li>
-<li>Identifies hidden constraints and prioritizes them.</li>
+<li>ما هي المشكلة التي كنت تحلها؟</li>
+<li>من استخدم النظام؟</li>
+<li>ما هي المسؤوليات التي توليتَها شخصيًا؟</li>
+<li>ما هي القيود التي شكلت العمل؟</li>
+<li>ما هي البدائل التي أخذتها في الاعتبار؟</li>
+<li>لماذا اخترت النهج النهائي؟</li>
+<li>كيف قمت باختباره؟</li>
+<li>كيف قمت بنشره؟</li>
+<li>ماذا حدث عندما فشل النظام؟</li>
+<li>كيف تمت مراقبته؟</li>
+<li>ما النتيجة التي حققها؟</li>
+<li>ما الذي كنت ستغيره اليوم؟</li>
 </ul>
-<h3>Problem decomposition</h3>
+<h2>أسئلة لتقييم التقدير الفني</h2>
 <ul>
-<li>Approaches the work without structure.</li>
-<li>Breaks the problem into workable parts.</li>
-<li>Creates a clear plan and adapts it as evidence changes.</li>
+<li>ما هي الافتراضات التي تبني عليها؟</li>
+<li>ما هو أبسط تصميم قابل للتطبيق؟</li>
+<li>ما هو المطلب الأكثر أهمية؟</li>
+<li>ما هي المفاضلة الأكثر أهمية؟</li>
+<li>ماذا يحدث في حالة فشل أحد العناصر التابعة؟</li>
+<li>أين قد تصبح البيانات غير متسقة؟</li>
+<li>كيف ستؤثر محاولات الإعادة على النظام؟</li>
+<li>ما الذي يجب مراقبته؟</li>
+<li>كيف ستقوم بإصدار هذا بشكل آمن؟</li>
+<li>متى ستقوم بإعادة تصميمه؟</li>
 </ul>
-<h3>Technical correctness</h3>
+<h2>أسئلة لتقييم التعاون</h2>
 <ul>
-<li>Solution contains major unresolved errors.</li>
-<li>Solution addresses the central requirement.</li>
-<li>Solution is correct, robust, and appropriately scoped.</li>
+<li>أخبرني عن خلاف تقني.</li>
+<li>صف موقفًا غيرت فيه رأيك.</li>
+<li>كيف تتعامل مع التعليقات النقدية الحاسمة أثناء مراجعة الكود؟</li>
+<li>أخبرني عن موقف قام فيه مهندس آخر بتحسين الحل الذي توصلت إليه.</li>
+<li>صف قرارًا شاركت فيه عدة فرق.</li>
+<li>أخبرني عن فشل في التواصل.</li>
+<li>كيف ساعدت زميلًا في الفريق على أن يصبح أكثر فعالية؟</li>
 </ul>
-<h3>Testing</h3>
+<h2>أسئلة لتقييم النمو</h2>
 <ul>
-<li>Does not verify the result.</li>
-<li>Tests important behavior and common edges.</li>
-<li>Identifies meaningful boundaries, failure modes, and regression protection.</li>
+<li>أخبرني عن تقنية اضطررت إلى تعلمها بسرعة.</li>
+<li>صف خطأً غيّر طريقة عملك.</li>
+<li>أخبرني عن قاعدة كود غير مألوفة تعاملت معها.</li>
+<li>ما المهارة التي تعمل على تطويرها حاليًا؟</li>
+<li>صف موقفًا فشلت فيه محاولتك الأولى.</li>
+<li>ما الذي كنت ستفعله بشكل مختلف في مشروع حديث؟</li>
 </ul>
-<h3>Maintainability</h3>
+<h2>الأخطاء الشائعة في المقابلات الفنية</h2>
+<h3>اختبار المرشح بدلاً من تقييمه للوظيفة</h3>
+<p>يصبح المرشحون أكثر براعة في حل الألغاز دون أن يصبحوا أكثر كفاءة في أداء الدور.</p>
+<h3>معايير نجاح غير محددة</h3>
+<p>يطبق القائمون على المقابلة معايير شخصية مختلفة.</p>
+<h3>جولات مقابلة كثيرة جدًا</h3>
+<p>تطيل العملية الوقت دون إضافة أدلة جديدة.</p>
+<h3>واجبات منزلية مفرطة</h3>
+<p>يكون المرشحون الذين لديهم وقت فراغ أقل في وضع غير مواتٍ.</p>
+<h3>تلميحات غير متسقة</h3>
+<p>يتلقى بعض المرشحين الدعم بينما لا يحصل عليه آخرون.</p>
+<h3>تعليقات غامضة</h3>
+<p>لا يمكن لمصطلحات مثل «ذكي» أو «غير مناسب» أن تدعم اتخاذ قرار عادل.</p>
+<h3>مناقشة جماعية قبل التقييم</h3>
+<p>يؤثر القائمون على المقابلة على بعضهم البعض قبل تسجيل أحكامهم المستقلة.</p>
+<h3>المبالغة في تقدير الثقة بالنفس</h3>
+<p>سرعة الكلام والعرض التقديمي المصقول لا تعنيان العمق التقني.</p>
+<h3>اشتراط خبرة محددة في مجموعة التقنيات</h3>
+<p>يتم تجاهل القدرات الهندسية القابلة للتطبيق في مجالات أخرى.</p>
+<h3>تجاهل سهولة الوصول</h3>
+<p>تقيس العملية عائقًا غير ضروري بدلاً من الأداء الوظيفي.</p>
+<h3>ضعف التواصل مع المرشحين</h3>
+<p>ينسحب المرشحون الأكفاء أو يرفضون العمل في الشركة.</p>
+<h3>عدم التحقق من صحة العملية</h3>
+<p>تستمر تقاليد المقابلات حتى عندما لا تتنبأ بالنجاح في العمل.</p>
+<h2>خطة عملية لإعادة التصميم في 30 يومًا</h2>
+<h3>الأسبوع 1: تحديد الدور</h3>
 <ul>
-<li>Code or design is difficult to understand.</li>
-<li>Structure and naming are generally clear.</li>
-<li>Solution is simple, coherent, and easy to evolve.</li>
+<li>إنشاء بطاقة تقييم الدور.</li>
+<li>تحديد النتائج المتوقعة في السنة الأولى.</li>
+<li>الفصل بين المهارات الأساسية والمهارات القابلة للتعلم.</li>
+<li>تحديد المستوى المتوقع.</li>
+<li>إزالة الكفاءات الغامضة.</li>
 </ul>
-<h3>Communication</h3>
+<h3>الأسبوع 2: إعادة تصميم الأدلة</h3>
 <ul>
-<li>Reasoning remains unclear.</li>
-<li>Explains assumptions and decisions.</li>
-<li>Communicates trade-offs, uncertainty, and alternatives precisely.</li>
+<li>ربط كل كفاءة بمرحلة من مراحل المقابلة.</li>
+<li>استبدال الألغاز غير ذات الصلة بتمارين تشبه المهام الوظيفية.</li>
+<li>إنشاء عرض تفصيلي منظم للمشروع.</li>
+<li>تقليل الأسئلة المتكررة.</li>
+<li>تحديد العبء الإجمالي المناسب على المرشح.</li>
 </ul>
-<h3>Collaboration</h3>
+<h3>الأسبوع 3: بناء النظام</h3>
 <ul>
-<li>Resists feedback or ignores input.</li>
-<li>Responds constructively.</li>
-<li>Integrates feedback while preserving independent judgment.</li>
+<li>كتابة معايير التقييم.</li>
+<li>إعداد أدلة للمقابلين.</li>
+<li>إجراء تجارب تجريبية للتمارين داخليًّا.</li>
+<li>تحديد التسهيلات اللازمة.</li>
+<li>وضع قواعد لاستخدام أدوات الذكاء الاصطناعي.</li>
+<li>تحديد المواعيد النهائية لتقديم الملاحظات.</li>
+<li>تعيين المسؤول عن اتخاذ القرار.</li>
 </ul>
-<h3>Production awareness</h3>
+<h3>الأسبوع 4: التدريب والتجربة التجريبية</h3>
 <ul>
-<li>Does not consider operation after implementation.</li>
-<li>Addresses common operational concerns.</li>
-<li>Discusses monitoring, rollout, failure recovery, security, and cost.</li>
+<li>إجراء مقابلات تجريبية.</li>
+<li>معايرة نظام التقييم.</li>
+<li>اختبار الجدولة الزمنية.</li>
+<li>تطبيق العملية على عدد صغير من المرشحين.</li>
+<li>جمع ملاحظات المرشحين والمحاورين.</li>
+<li>مراجعة المراحل غير الواضحة.</li>
 </ul>
-<h2>Questions for evaluating a project</h2>
+<h2>قائمة مراجعة نهائية للمقابلة الفنية</h2>
+<p>قبل الإعلان عن الوظيفة, تأكد من:</p>
 <ul>
-<li>What problem were you solving?</li>
-<li>Who used the system?</li>
-<li>What did you personally own?</li>
-<li>What constraints shaped the work?</li>
-<li>Which alternatives did you consider?</li>
-<li>Why did you choose the final approach?</li>
-<li>How did you test it?</li>
-<li>How did you deploy it?</li>
-<li>What happened when it failed?</li>
-<li>How was it monitored?</li>
-<li>What result did it create?</li>
-<li>What would you change today?</li>
+<li>أن مهمة الوظيفة واضحة؛</li>
+<li>أن النتائج المتوقعة موثقة؛</li>
+<li>أن المهارات المطلوبة منفصلة عن الأدوات التي يمكن تعلمها؛</li>
+<li>تتناسب المقابلة مع التخصص والمستوى؛</li>
+<li>تقيّم كل مرحلة الكفاءات المحددة؛</li>
+<li>يشبه التمرين التقني العمل الفعلي؛</li>
+<li>تكون المهمة متناسبة؛</li>
+<li>تكون معايير التقييم كاملة؛</li>
+<li>يكون القائمون على المقابلة مدربين؛</li>
+<li>تتوفر التسهيلات اللازمة؛</li>
+<li>تكون سياسة الذكاء الاصطناعي واضحة؛</li>
+<li>تكون ممارسات الخصوصية والتسجيل موثقة؛</li>
+<li>يتم اعتماد التعويضات؛</li>
+<li>يتم تحديد صاحب القرار.</li>
 </ul>
-<h2>Questions for evaluating technical judgment</h2>
+<p>أثناء العملية, تأكد من:</p>
 <ul>
-<li>Which assumptions are you making?</li>
-<li>What is the simplest workable design?</li>
-<li>Which requirement matters most?</li>
-<li>Which trade-off is most significant?</li>
-<li>What happens if a dependency fails?</li>
-<li>Where could data become inconsistent?</li>
-<li>How would retries affect the system?</li>
-<li>What should be monitored?</li>
-<li>How would you release this safely?</li>
-<li>When would you redesign it?</li>
+<li>أن المرشحين على دراية بما يمكن توقعه؛</li>
+<li>أن يطرح القائمون على المقابلات أسئلة قابلة للمقارنة؛</li>
+<li>أن يتم التعامل مع التلميحات بشكل متسق؛</li>
+<li>أن يتم تسجيل الأدلة؛</li>
+<li>أن يتم تقديم الدرجات بشكل مستقل؛</li>
+<li>أن يتم التصدي للمخاوف الغامضة؛</li>
+<li>أن يتم تقديم الملاحظات على الفور؛</li>
+<li>أن يتلقى المرشحون تحديثات؛</li>
+<li>أن يتوفر للمرشح الوقت لطرح أسئلة ذات مغزى؛</li>
+<li>عدم إضافة مراحل غير ضرورية.</li>
 </ul>
-<h2>Questions for evaluating collaboration</h2>
+<p>بعد التوظيف, تأكد من:</p>
 <ul>
-<li>Tell me about a technical disagreement.</li>
-<li>Describe a time you changed your mind.</li>
-<li>How do you handle critical code-review feedback?</li>
-<li>Tell me about a time another engineer improved your solution.</li>
-<li>Describe a decision involving several teams.</li>
-<li>Tell me about a communication failure.</li>
-<li>How have you helped a teammate become more effective?</li>
+<li>مراجعة توقيت المراحل؛</li>
+<li>تحليل حالات انسحاب المرشحين؛</li>
+<li>التحقق من التباين بين القائمين على المقابلات؛</li>
+<li>جمع ملاحظات المرشحين؛</li>
+<li>مقارنة العملية بالنتائج اللاحقة؛</li>
+<li>إعادة تصميم المراحل الضعيفة أو إزالتها؛</li>
+<li>توثيق التحسينات.</li>
 </ul>
-<h2>Questions for evaluating growth</h2>
-<ul>
-<li>Tell me about a technology you had to learn quickly.</li>
-<li>Describe a mistake that changed how you work.</li>
-<li>Tell me about an unfamiliar codebase you entered.</li>
-<li>Which skill are you currently developing?</li>
-<li>Describe a time your first approach failed.</li>
-<li>What would you do differently on a recent project?</li>
-</ul>
-<h2>Common technical-interview mistakes</h2>
-<h3>Testing the interview rather than the job</h3>
-<p>Candidates become better at puzzles without becoming better at the role.</p>
-<h3>Undefined success criteria</h3>
-<p>Interviewers apply different personal standards.</p>
-<h3>Too many rounds</h3>
-<p>The process adds time without adding new evidence.</p>
-<h3>Excessive take-home work</h3>
-<p>Candidates with less free time are disadvantaged.</p>
-<h3>Inconsistent hints</h3>
-<p>Some candidates receive support while others do not.</p>
-<h3>Vague feedback</h3>
-<p>Terms such as “smart” or “not a fit” cannot support a fair decision.</p>
-<h3>Group discussion before scoring</h3>
-<p>Interviewers influence one another before recording independent judgment.</p>
-<h3>Overvaluing confidence</h3>
-<p>Fast speaking and polished presentation are not technical depth.</p>
-<h3>Requiring exact stack experience</h3>
-<p>Transferable engineering ability is ignored.</p>
-<h3>Ignoring accessibility</h3>
-<p>The process measures an unnecessary barrier instead of job performance.</p>
-<h3>Poor candidate communication</h3>
-<p>Strong candidates withdraw or reject the company.</p>
-<h3>Failing to validate the process</h3>
-<p>Interview traditions continue even when they do not predict successful work.</p>
-<h2>A practical 30-day redesign plan</h2>
-<h3>Week 1: define the role</h3>
-<ul>
-<li>Create the role scorecard.</li>
-<li>Identify first-year outcomes.</li>
-<li>Separate essential and learnable skills.</li>
-<li>Define the expected level.</li>
-<li>Remove vague competencies.</li>
-</ul>
-<h3>Week 2: redesign the evidence</h3>
-<ul>
-<li>Map each competency to an interview stage.</li>
-<li>Replace irrelevant puzzles with job-like exercises.</li>
-<li>Create a structured project walkthrough.</li>
-<li>Reduce repeated questions.</li>
-<li>Set an appropriate total candidate burden.</li>
-</ul>
-<h3>Week 3: build the system</h3>
-<ul>
-<li>Write rubrics.</li>
-<li>Create interviewer guides.</li>
-<li>Pilot exercises internally.</li>
-<li>Define accommodations.</li>
-<li>Establish AI-tool rules.</li>
-<li>Set feedback deadlines.</li>
-<li>Assign the decision owner.</li>
-</ul>
-<h3>Week 4: train and pilot</h3>
-<ul>
-<li>Run mock interviews.</li>
-<li>Calibrate scoring.</li>
-<li>Test scheduling.</li>
-<li>Use the process with a small number of candidates.</li>
-<li>Collect candidate and interviewer feedback.</li>
-<li>Revise unclear stages.</li>
-</ul>
-<h2>A final technical-interview checklist</h2>
-<p>Before opening the role, confirm that:</p>
-<ul>
-<li>the role mission is clear;</li>
-<li>expected outcomes are documented;</li>
-<li>required skills are separated from learnable tools;</li>
-<li>the interview matches the discipline and level;</li>
-<li>each stage evaluates defined competencies;</li>
-<li>the technical exercise resembles real work;</li>
-<li>the assignment is proportionate;</li>
-<li>rubrics are complete;</li>
-<li>interviewers are trained;</li>
-<li>accommodations are available;</li>
-<li>the AI policy is clear;</li>
-<li>privacy and recording practices are documented;</li>
-<li>compensation is approved;</li>
-<li>the decision owner is identified.</li>
-</ul>
-<p>During the process, confirm that:</p>
-<ul>
-<li>candidates know what to expect;</li>
-<li>interviewers ask comparable questions;</li>
-<li>hints are handled consistently;</li>
-<li>evidence is recorded;</li>
-<li>scores are submitted independently;</li>
-<li>vague concerns are challenged;</li>
-<li>feedback is submitted promptly;</li>
-<li>candidates receive updates;</li>
-<li>the candidate has time to ask meaningful questions;</li>
-<li>unnecessary stages are not added.</li>
-</ul>
-<p>After hiring, confirm that:</p>
-<ul>
-<li>stage timing is reviewed;</li>
-<li>candidate withdrawals are analyzed;</li>
-<li>interviewer variance is checked;</li>
-<li>candidate feedback is collected;</li>
-<li>the process is compared with later outcomes;</li>
-<li>weak stages are redesigned or removed;</li>
-<li>improvements are documented.</li>
-</ul>
-<h2>The takeaway</h2>
-<p>A technical interview should not be a ritual inherited from another company.</p>
-<p>It should be a deliberately designed evidence system.</p>
-<p>The strongest interview processes:</p>
+<h2>النقطة الأساسية</h2>
+<p>لا ينبغي أن تكون المقابلة الفنية مجرد طقس موروث من شركة أخرى.</p>
+<p>بل يجب أن تكون نظامًا لتقييم الأدلة مصممًا بعناية.</p>
+<p>أقوى إجراءات المقابلات هي:</p>
 <ol>
-<li>Define the role before interviewing.</li>
-<li>Identify the outcomes and competencies that matter.</li>
-<li>Test work resembling the actual job.</li>
-<li>Use the smallest assessment that produces sufficient evidence.</li>
-<li>Match questions to the role’s discipline and level.</li>
-<li>Evaluate problem-solving, testing, debugging, and judgment.</li>
-<li>Assess communication, collaboration, learning, and ownership.</li>
-<li>Use structured rubrics.</li>
-<li>Collect independent, evidence-based feedback.</li>
-<li>Challenge vague impressions and hidden criteria.</li>
-<li>Respect candidate time, privacy, and accessibility.</li>
-<li>Communicate clearly and decide promptly.</li>
-<li>Measure whether the process predicts successful performance.</li>
-<li>Improve the interview loop after every hiring cycle.</li>
+<li>تحديد الوظيفة قبل إجراء المقابلة.</li>
+<li>تحديد النتائج والكفاءات ذات الأهمية.</li>
+<li>اختبار مهام تشبه العمل الفعلي.</li>
+<li>استخدام أصغر تقييم ينتج أدلة كافية.</li>
+<li>مواءمة الأسئلة مع تخصص الدور ومستواه.</li>
+<li>تقييم مهارات حل المشكلات, والاختبار, وتصحيح الأخطاء, والحكم.</li>
+<li>تقييم مهارات التواصل, والتعاون, والتعلم, والشعور بالمسؤولية.</li>
+<li>استخدام معايير تقييم منظمة.</li>
+<li>جمع ملاحظات مستقلة قائمة على الأدلة.</li>
+<li>تحدي الانطباعات الغامضة والمعايير الخفية.</li>
+<li>احترام وقت المرشح وخصوصيته وإمكانية الوصول إليه.</li>
+<li>التواصل بوضوح واتخاذ القرار على الفور.</li>
+<li>قياس مدى قدرة العملية على التنبؤ بالأداء الناجح.</li>
+<li>تحسين دورة المقابلة بعد كل دورة توظيف.</li>
 </ol>
-<p>The goal is not to make technical interviews easier.</p>
-<p>The goal is to make them more relevant.</p>
-<p>A difficult interview that measures the wrong ability is not rigorous. It is merely difficult.</p>
-<p>A strong interview gives candidates a fair opportunity to demonstrate how they think, build, test, communicate, and improve. It gives interviewers comparable evidence. It gives the hiring manager a defensible decision. And it gives the company a better chance of hiring engineers who will perform well after the interview is over.</p>
-<p><em>Build a more focused technical hiring process and connect directly with qualified developers. <a href="/auth/register?role=COMPANY">Create a company account on JobsList.dev</a>, publish a transparent engineering role, and evaluate candidates through practical, job-relevant evidence.</em></p>
-5:["locale","ar","d"]
-6:["slug","technical-interview-process-that-works","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","technical-interview-process-that-works","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"technical-interview-process-that-works\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","technical-interview-process-that-works","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Designing a Technical Interview Process That Actually Predicts Performance\",\"description\":\"A practical guide to building a fair, efficient, and job-relevant technical interview process that evaluates real engineering ability, reduces bias, respects candidates, and improves hiring decisions.\",\"datePublished\":\"2026-05-21T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Designing a Technical Interview Process That Actually Predicts Performance","date":"2026-05-21T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":42,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Designing a Technical Interview Process That Actually Predicts Performance | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical guide to building a fair, efficient, and job-relevant technical interview process that evaluates real engineering ability, reduces bias, respects candidates, and improves hiring decisions."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Designing a Technical Interview Process That Actually Predicts Performance"}],["$","meta","15",{"property":"og:description","content":"A practical guide to building a fair, efficient, and job-relevant technical interview process that evaluates real engineering ability, reduces bias, respects candidates, and improves hiring decisions."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-05-21T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Designing a Technical Interview Process That Actually Predicts Performance"}],["$","meta","25",{"name":"twitter:description","content":"A practical guide to building a fair, efficient, and job-relevant technical interview process that evaluates real engineering ability, reduces bias, respects candidates, and improves hiring decisions."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<p>الهدف ليس تسهيل المقابلات الفنية.</p>
+<p>الهدف هو جعلها أكثر صلة بالموضوع.</p>
+<p>المقابلة الصعبة التي تقيس القدرة الخاطئة ليست صارمة. إنها مجرد مقابلة صعبة.</p>
+<p>المقابلة القوية تمنح المرشحين فرصة عادلة لإظهار كيفية تفكيرهم, وبناءهم, واختبارهم, وتواصلهم, وتحسينهم. كما توفر للمقابلين أدلة قابلة للمقارنة. وتمنح مدير التوظيف قرارًا يمكن الدفاع عنه. وتمنح الشركة فرصة أفضل لتوظيف مهندسين سيحققون أداءً جيدًا بعد انتهاء المقابلة.</p>
+<p><em>قم بإنشاء عملية توظيف تقنية أكثر تركيزًا وتواصل مباشرةً مع المطورين المؤهلين. <a href="/auth/register?role=COMPANY">أنشئ حسابًا للشركة على JobsList.dev</a>, وانشر إعلانًا شفافًا عن وظيفة هندسية, وقم بتقييم المرشحين من خلال أدلة عملية ذات صلة بالوظيفة.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"تصميم عملية مقابلة فنية تتنبأ فعليًّا بالأداء\",\"description\":\"دليل عملي لإنشاء عملية مقابلة فنية عادلة وفعالة وذات صلة بالوظيفة, تقيّم القدرات الهندسية الحقيقية, وتقلل من التحيز, وتحترم المرشحين, وتحسّن قرارات التوظيف.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-05-21T00:00:00.000Z\",\"dateModified\":\"2026-05-21T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/technical-interview-process-that-works/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"تصميم عملية مقابلة فنية تتنبأ فعليًّا بالأداء"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل عملي لإنشاء عملية مقابلة فنية عادلة وفعالة وذات صلة بالوظيفة, تقيّم القدرات الهندسية الحقيقية, وتقلل من التحيز, وتحترم المرشحين, وتحسّن قرارات التوظيف."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-05-21T00:00:00.000Z","children":"20 مايو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[45," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","المقابلات",{"className":"badge-gray","children":"المقابلات"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","الهندسة",{"className":"badge-gray","children":"الهندسة"}],["$","span","المقابلات الفنية",{"className":"badge-gray","children":"المقابلات الفنية"}],["$","span","توظيف المطورين",{"className":"badge-gray","children":"توظيف المطورين"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"تصميم عملية مقابلة فنية تتنبأ فعليًّا بالأداء | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل عملي لإنشاء عملية مقابلة فنية عادلة وفعالة وذات صلة بالوظيفة, تقيّم القدرات الهندسية الحقيقية, وتقلل من التحيز, وتحترم المرشحين, وتحسّن قرارات التوظيف."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"تصميم عملية مقابلة فنية تتنبأ فعليًّا بالأداء"}],["$","meta","15",{"property":"og:description","content":"دليل عملي لإنشاء عملية مقابلة فنية عادلة وفعالة وذات صلة بالوظيفة, تقيّم القدرات الهندسية الحقيقية, وتقلل من التحيز, وتحترم المرشحين, وتحسّن قرارات التوظيف."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/technical-interview-process-that-works/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-05-21T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"تصميم عملية مقابلة فنية تتنبأ فعليًّا بالأداء"}],["$","meta","27",{"name":"twitter:description","content":"دليل عملي لإنشاء عملية مقابلة فنية عادلة وفعالة وذات صلة بالوظيفة, تقيّم القدرات الهندسية الحقيقية, وتقلل من التحيز, وتحترم المرشحين, وتحسّن قرارات التوظيف."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

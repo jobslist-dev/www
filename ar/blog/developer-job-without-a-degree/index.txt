@@ -1,384 +1,378 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T3870,<p>A computer science degree is one path into software engineering—not the only one.</p>
-<p>Thousands of developers working at startups, Fortune 500 companies, agencies, and even major technology companies never earned a traditional computer science degree. Some are self-taught. Others came from coding bootcamps, IT, design, finance, manufacturing, education, or completely unrelated careers.</p>
-<p>The companies that hire them aren&#39;t ignoring education—they&#39;re simply weighing something else more heavily:</p>
-<p><strong>Evidence that you can build software and work well with other engineers.</strong></p>
-<p>If you&#39;re competing without a degree, your goal isn&#39;t to convince employers that degrees don&#39;t matter.</p>
-<p>Your goal is to provide <strong>better evidence</strong>.</p>
-<hr>
-<h1>The hiring reality</h1>
-<p>Hiring managers rarely reject someone simply because they lack a degree.</p>
-<p>Instead, they reject applicants because they can&#39;t answer one question confidently:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","developer-job-without-a-degree","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-job-without-a-degree","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"developer-job-without-a-degree\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-job-without-a-degree","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T54c1,<h2>تعد شهادة علوم الكمبيوتر أحد المسارات المؤدية إلى هندسة البرمجيات — وليست المسار الوحيد.
+هناك الآلاف من المطورين الذين يعملون في الشركات الناشئة, وشركات قائمة «فورتشن 500», والوكالات, وحتى شركات التكنولوجيا الكبرى, ولم يحصلوا قط على شهادة تقليدية في علوم الكمبيوتر. بعضهم تعلموا بأنفسهم. والبعض الآخر جاءوا من دورات تدريبية مكثفة في البرمجة, أو من مجالات تكنولوجيا المعلومات, أو التصميم, أو التمويل, أو التصنيع, أو التعليم, أو من مجالات مهنية لا علاقة لها بالمجال على الإطلاق.
+الشركات التي توظفهم لا تتجاهل التعليم — بل إنها ببساطة تولي أهمية أكبر لعامل آخر:
+<strong>الدليل على قدرتك على تطوير البرمجيات والعمل بشكل جيد مع المهندسين الآخرين.</strong>
+إذا كنت تتنافس بدون شهادة جامعية, فإن هدفك ليس إقناع أرباب العمل بأن الشهادات لا تهم.
+بل هدفك هو تقديم <strong>دليل أفضل</strong>.</h2>
+<h1>واقع التوظيف</h1>
+<p>نادرًا ما يرفض مديرو التوظيف شخصًا لمجرد أنه يفتقر إلى شهادة جامعية.
+بل يرفضون المتقدمين لأنهم لا يستطيعون الإجابة على سؤال واحد بثقة:</p>
 <blockquote>
-<p><strong>&quot;How do I know this person can do the job?&quot;</strong></p>
+<p><strong>&quot;كيف أعرف أن هذا الشخص قادر على أداء المهمة؟&quot;</strong>
+الشهادة الجامعية تجيب على هذا السؤال بشكل غير مباشر.
+أما محفظة الأعمال, والأعمال المنتجة, والمساهمات في المشاريع مفتوحة المصدر, والكتابة التقنية, والمشاريع المستقلة, والأداء القوي في المقابلة, فهي تجيب عليه بشكل مباشر.
+هدفك هو إزالة الشك.</p>
 </blockquote>
-<p>A degree answers that question indirectly.</p>
-<p>A portfolio, production work, open-source contributions, technical writing, freelance projects, and strong interview performance answer it directly.</p>
-<p>Your objective is to remove uncertainty.</p>
 <hr>
-<h1>Where a computer science degree still matters</h1>
-<p>Understanding where degrees genuinely matter prevents wasting time worrying about places where they don&#39;t.</p>
-<p>Degrees remain important for:</p>
+<h1>المجالات التي لا تزال فيها شهادة علوم الكمبيوتر مهمة</h1>
+<p>إن فهم المجالات التي تهم فيها الشهادات الجامعية حقًّا يمنع إضاعة الوقت في القلق بشأن المجالات التي لا تهم فيها.
+تظل الشهادات الجامعية مهمة في:</p>
 <ul>
-<li>Immigration and visa sponsorship</li>
-<li>University graduate programs</li>
-<li>Government positions with formal requirements</li>
-<li>Some defense contractors</li>
-<li>Academic research</li>
-<li>Compiler engineering</li>
-<li>Operating systems research</li>
-<li>Advanced machine learning research</li>
-<li>Computational science</li>
-<li>Cryptography research</li>
+<li>الهجرة ورعاية التأشيرات</li>
+<li>برامج الدراسات العليا الجامعية</li>
+<li>الوظائف الحكومية ذات المتطلبات الرسمية</li>
+<li>بعض مقاولي الدفاع</li>
+<li>البحث الأكاديمي</li>
+<li>هندسة المُجمِّعات البرمجية</li>
+<li>أبحاث أنظمة التشغيل</li>
+<li>أبحاث التعلم الآلي المتقدمة</li>
+<li>العلوم الحاسوبية</li>
+<li>أبحاث التشفير
+غالبًا ما تتطلب هذه الوظائف مؤهلات رسمية بسبب اللوائح التنظيمية أو الطبيعة النظرية للغاية للعمل.
+ومع ذلك, بالنسبة لمعظم وظائف هندسة البرمجيات, يهتم أرباب العمل بالخبرة أكثر بكثير من التعليم.</li>
 </ul>
-<p>These jobs often require formal credentials because of regulations or the highly theoretical nature of the work.</p>
-<p>For most software engineering jobs, however, employers care far more about experience than education.</p>
 <hr>
-<h1>Where degrees matter far less</h1>
-<p>Many companies hire based almost entirely on demonstrated ability.</p>
-<p>Examples include:</p>
+<h1>المجالات التي تقل فيها أهمية الشهادات الجامعية</h1>
+<p>تقوم العديد من الشركات بالتوظيف بناءً على القدرة المثبتة بشكل شبه كامل.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>SaaS startups</li>
-<li>Web development agencies</li>
-<li>Product companies</li>
-<li>E-commerce businesses</li>
-<li>Healthcare software</li>
-<li>FinTech</li>
-<li>Internal enterprise development teams</li>
+<li>الشركات الناشئة في مجال SaaS</li>
+<li>وكالات تطوير الويب</li>
+<li>شركات المنتجات</li>
+<li>شركات التجارة الإلكترونية</li>
+<li>برمجيات الرعاية الصحية</li>
+<li>التكنولوجيا المالية</li>
+<li>فرق التطوير الداخلية في المؤسسات</li>
 <li>DevOps</li>
-<li>Platform engineering</li>
-<li>Mobile application development</li>
-<li>Frontend engineering</li>
-<li>Backend engineering</li>
-<li>Full-stack development</li>
-</ul>
-<p>Once you&#39;ve accumulated one or two years of professional experience, recruiters almost always evaluate your work history before your education.</p>
-<p>Your first job is where the education question matters most.</p>
-<p>After that, your résumé becomes your degree.</p>
-<hr>
-<h1>Build proof instead of credentials</h1>
-<p>The strongest self-taught developers don&#39;t compete on education.</p>
-<p>They compete on evidence.</p>
-<p>The strongest evidence includes:</p>
-<h2>1. Production software</h2>
-<p>A deployed application is dramatically more convincing than screenshots.</p>
-<p>Good examples include:</p>
-<ul>
-<li>SaaS products</li>
-<li>Personal finance tools</li>
-<li>CRM systems</li>
-<li>Task managers</li>
-<li>Inventory software</li>
-<li>APIs</li>
-<li>Browser extensions</li>
-<li>Mobile apps</li>
-<li>Internal business tools</li>
-</ul>
-<p>It doesn&#39;t matter whether it has ten users or ten thousand.</p>
-<p>Shipping matters.</p>
-<p>Maintaining matters.</p>
-<p>Fixing bugs matters.</p>
-<p>Receiving feedback matters.</p>
-<p>Those are real engineering skills.</p>
-<hr>
-<h2>2. GitHub activity</h2>
-<p>Recruiters don&#39;t expect thousands of commits.</p>
-<p>They expect signs of consistent learning.</p>
-<p>A healthy GitHub profile includes:</p>
-<ul>
-<li>Regular commits</li>
-<li>Multiple repositories</li>
-<li>Meaningful README files</li>
-<li>Issues</li>
-<li>Pull requests</li>
-<li>Documentation</li>
-<li>Tests</li>
-<li>Clear commit messages</li>
-</ul>
-<p>Avoid dozens of unfinished tutorial projects.</p>
-<p>Five polished repositories are worth much more than fifty abandoned ones.</p>
-<hr>
-<h2>3. Open-source contributions</h2>
-<p>Open source demonstrates something unique:</p>
-<p>You can work inside someone else&#39;s codebase.</p>
-<p>That means you can:</p>
-<ul>
-<li>Read unfamiliar code</li>
-<li>Follow contribution guidelines</li>
-<li>Discuss solutions professionally</li>
-<li>Accept code review</li>
-<li>Iterate on feedback</li>
-</ul>
-<p>These are the same skills used every day on engineering teams.</p>
-<p>Small bug fixes are perfectly respectable.</p>
-<p>Documentation improvements count too.</p>
-<hr>
-<h2>4. Freelance work</h2>
-<p>Many employers value paid freelance work exactly the same as employment.</p>
-<p>Examples include:</p>
-<ul>
-<li>Local businesses</li>
-<li>Churches</li>
-<li>Nonprofits</li>
-<li>Friends&#39; companies</li>
-<li>Contractors</li>
-<li>Consultants</li>
-</ul>
-<p>If someone trusted you enough to pay for software, that&#39;s valuable experience.</p>
-<p>Include:</p>
-<ul>
-<li>What you built</li>
-<li>Business outcome</li>
-<li>Technologies used</li>
-<li>Timeline</li>
-<li>Challenges solved</li>
+<li>هندسة المنصات</li>
+<li>تطوير تطبيقات الهاتف المحمول</li>
+<li>هندسة الواجهة الأمامية</li>
+<li>هندسة الخلفية</li>
+<li>التطوير الشامل
+بمجرد أن تكتسب سنة أو سنتين من الخبرة المهنية, يقوم مسؤولو التوظيف في الغالب بتقييم تاريخك المهني قبل النظر إلى مؤهلاتك الأكاديمية.
+وظيفتك الأولى هي المكان الذي تكتسب فيه مسألة التعليم أهمية قصوى.
+بعد ذلك, يصبح سيرتك الذاتية هي شهادتك.</li>
 </ul>
 <hr>
-<h2>5. Technical writing</h2>
-<p>Writing teaches employers how you think.</p>
-<p>Consider publishing articles about:</p>
+<h1>اعتمد على إنجازاتك بدلاً من الشهادات</h1>
+<p>أقوى المطورين الذين تعلموا بأنفسهم لا يتنافسون على أساس التعليم.
+بل يتنافسون على أساس الإنجازات.
+تشمل أقوى الأدلة ما يلي:</p>
+<h2>1. البرمجيات المنتجة</h2>
+<p>يُعد التطبيق الذي تم نشره أكثر إقناعًا بكثير من لقطات الشاشة.
+ومن الأمثلة الجيدة على ذلك:</p>
 <ul>
-<li>Problems you solved</li>
-<li>Lessons learned</li>
-<li>Performance improvements</li>
-<li>Architecture decisions</li>
-<li>Deployment guides</li>
-<li>Debugging stories</li>
-<li>API design</li>
-<li>React, Vue, Angular, Rust, Go, Java, .NET, Python, or whatever stack you use</li>
+<li>منتجات SaaS</li>
+<li>أدوات إدارة الشؤون المالية الشخصية</li>
+<li>أنظمة CRM</li>
+<li>برامج إدارة المهام</li>
+<li>برامج إدارة المخزون</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
+<li>ملحقات المتصفح</li>
+<li>تطبيقات الهاتف المحمول</li>
+<li>أدوات العمل الداخلية
+لا يهم ما إذا كان عدد المستخدمين عشرة أم عشرة آلاف.
+ما يهم هو إطلاق المنتج.
+ما يهم هو صيانته.
+ما يهم هو إصلاح الأخطاء.
+وتلقي التعليقات أمر مهم.
+هذه هي المهارات الهندسية الحقيقية.</li>
 </ul>
-<p>You don&#39;t need thousands of readers.</p>
-<p>Hiring managers often become your audience.</p>
 <hr>
-<h1>Learn the computer science fundamentals</h1>
-<p>Many self-taught developers eventually encounter the same weakness.</p>
-<p>They&#39;re excellent at frameworks but struggle explaining the fundamentals.</p>
-<p>Spend time studying:</p>
-<h2>Data structures</h2>
-<p>Understand:</p>
+<h2>2. نشاط GitHub</h2>
+<p>لا يتوقع مسؤولو التوظيف آلاف عمليات الالتزام.
+بل يتوقعون علامات تدل على التعلم المستمر.
+يتضمن ملف GitHub الجيد ما يلي:</p>
 <ul>
-<li>Arrays</li>
-<li>Linked lists</li>
-<li>Queues</li>
-<li>Stacks</li>
-<li>Trees</li>
-<li>Hash maps</li>
-<li>Graphs</li>
+<li>عمليات التزام منتظمة</li>
+<li>مستودعات متعددة</li>
+<li>ملفات README ذات مغزى</li>
+<li>المشكلات</li>
+<li>طلبات السحب (Pull requests)</li>
+<li>الوثائق</li>
+<li>الاختبارات</li>
+<li>رسائل التزام واضحة
+تجنب العشرات من مشاريع الدروس التعليمية غير المكتملة.
+خمس مستودعات مصقولة تساوي أكثر بكثير من خمسين مستودعًا مهجورًا.</li>
 </ul>
-<p>Know when to use each one.</p>
 <hr>
-<h2>Algorithms</h2>
-<p>Understand:</p>
+<h2>3. المساهمات في البرمجيات مفتوحة المصدر</h2>
+<p>تُظهر البرمجيات مفتوحة المصدر شيئًا فريدًا:
+يمكنك العمل داخل قاعدة كود شخص آخر.
+وهذا يعني أنه يمكنك:</p>
 <ul>
-<li>Searching</li>
-<li>Sorting</li>
-<li>Recursion</li>
-<li>Dynamic programming (basic familiarity)</li>
-<li>Graph traversal</li>
-<li>Big-O complexity</li>
+<li>قراءة كود غير مألوف</li>
+<li>اتباع إرشادات المساهمة</li>
+<li>مناقشة الحلول بشكل احترافي</li>
+<li>قبول مراجعة الكود</li>
+<li>التكرار بناءً على التعليقات
+هذه هي نفس المهارات المستخدمة يوميًا في فرق الهندسة.
+إصلاحات الأخطاء الصغيرة جديرة بالاحترام تمامًا.
+تحسينات التوثيق مهمة أيضًا.</li>
 </ul>
-<p>You don&#39;t need competitive programming skills.</p>
-<p>You do need to understand trade-offs.</p>
 <hr>
-<h2>Databases</h2>
-<p>Go beyond SQL syntax.</p>
-<p>Understand:</p>
+<h2>4. العمل الحر</h2>
+<p>يُقدّر العديد من أصحاب العمل العمل الحر المدفوع تمامًا مثل العمل التوظيفي.
+ومن الأمثلة على ذلك:</p>
 <ul>
-<li>Indexes</li>
-<li>Transactions</li>
-<li>Locking</li>
-<li>Isolation levels</li>
-<li>Normalization</li>
-<li>Query planning</li>
-<li>Execution plans</li>
+<li>الشركات المحلية</li>
+<li>الكنائس</li>
+<li>المنظمات غير الربحية</li>
+<li>شركات الأصدقاء</li>
+<li>المقاولون</li>
+<li>المستشارون
+إذا وثق بك شخص ما بما يكفي لدفع ثمن برنامج, فهذه تجربة قيّمة.
+أدرج:</li>
+<li>ما قمت ببنائه</li>
+<li>النتائج التجارية</li>
+<li>التقنيات المستخدمة</li>
+<li>الجدول الزمني</li>
+<li>التحديات التي تم حلها</li>
 </ul>
-<p>Backend interviews frequently explore these topics.</p>
 <hr>
-<h2>Networking</h2>
-<p>Know:</p>
+<h2>5. الكتابة التقنية</h2>
+<p>الكتابة تُظهر لأصحاب العمل طريقة تفكيرك.
+فكر في نشر مقالات حول:</p>
 <ul>
-<li>DNS</li>
+<li>المشكلات التي قمت بحلها</li>
+<li>الدروس المستفادة</li>
+<li>تحسينات الأداء</li>
+<li>قرارات الهندسة</li>
+<li>أدلة النشر</li>
+<li>قصص تصحيح الأخطاء</li>
+<li>تصميم واجهات برمجة التطبيقات (API)</li>
+<li>React, Vue, Angular, Rust, Go, Java, .NET, Python, أو أي مجموعة تقنيات تستخدمها
+لست بحاجة إلى آلاف القراء.
+غالبًا ما يصبح مديرو التوظيف هم جمهورك.</li>
+</ul>
+<hr>
+<h1>تعلم أساسيات علوم الحاسوب</h1>
+<p>يواجه العديد من المطورين الذين تعلموا بأنفسهم في نهاية المطاف نفس نقطة الضعف.
+فهم بارعون في استخدام الأطر البرمجية, لكنهم يواجهون صعوبة في شرح الأساسيات.
+اقضِ بعض الوقت في دراسة:</p>
+<h2>هياكل البيانات</h2>
+<p>افهم:</p>
+<ul>
+<li>المصفوفات</li>
+<li>القوائم المرتبطة</li>
+<li>قوائم الانتظار</li>
+<li>المكدسات</li>
+<li>الأشجار</li>
+<li>خرائط التجزئة</li>
+<li>الرسوم البيانية
+اعرف متى تستخدم كل منها.</li>
+</ul>
+<hr>
+<h2>الخوارزميات</h2>
+<p>افهم:</p>
+<ul>
+<li>البحث</li>
+<li>الفرز</li>
+<li>التكرار</li>
+<li>البرمجة الديناميكية (معرفة أساسية)</li>
+<li>اجتياز الرسوم البيانية</li>
+<li>تعقيد Big-O
+لست بحاجة إلى مهارات البرمجة التنافسية.
+لكنك بحاجة إلى فهم المفاضلات.</li>
+</ul>
+<hr>
+<h2>قواعد البيانات</h2>
+<p>تجاوز صيغة SQL.
+افهم:</p>
+<ul>
+<li>الفهارس</li>
+<li>المعاملات</li>
+<li>القفل</li>
+<li>مستويات العزل</li>
+<li>التطبيع</li>
+<li>تخطيط الاستعلامات</li>
+<li>خطط التنفيذ
+غالبًا ما تتناول المقابلات الخاصة بالخلفية هذه الموضوعات.</li>
+</ul>
+<hr>
+<h2>الشبكات</h2>
+<p>اعرف:</p>
+<ul>
+<li>نظام أسماء النطاقات (DNS)</li>
 <li>HTTP</li>
 <li>HTTPS</li>
-<li>Cookies</li>
-<li>Sessions</li>
-<li>JWTs</li>
+<li>ملفات تعريف الارتباط (Cookies)</li>
+<li>الجلسات</li>
+<li>توقيعات JWT</li>
 <li>REST</li>
 <li>GraphQL</li>
-<li>TCP/IP basics</li>
-<li>Load balancers</li>
-<li>Reverse proxies</li>
-<li>CDNs</li>
+<li>أساسيات TCP/IP</li>
+<li>موازنات الحمل</li>
+<li>الوكلاء العكسيون</li>
+<li>شبكات توزيع المحتوى (CDNs)
+تظهر هذه المفاهيم باستمرار في عملية تطوير البرمجيات الفعلية.</li>
 </ul>
-<p>These concepts appear constantly in real software development.</p>
 <hr>
-<h2>Operating systems</h2>
-<p>Understand:</p>
+<h2>أنظمة التشغيل</h2>
+<p>افهم:</p>
 <ul>
-<li>Processes</li>
-<li>Threads</li>
-<li>Memory</li>
-<li>Virtual memory</li>
-<li>Scheduling</li>
-<li>File systems</li>
-<li>Permissions</li>
+<li>العمليات</li>
+<li>الخيوط (Threads)</li>
+<li>الذاكرة</li>
+<li>الذاكرة الافتراضية</li>
+<li>الجدولة</li>
+<li>أنظمة الملفات</li>
+<li>الأذونات
+مرة أخرى, الفهم العملي أهم من الحفظ.</li>
 </ul>
-<p>Again, practical understanding matters more than memorization.</p>
 <hr>
-<h1>Build a resume that emphasizes evidence</h1>
-<p>Without a degree, your résumé should immediately showcase what you&#39;ve built.</p>
-<p>A strong order looks like this:</p>
+<h1>قم بإعداد سيرة ذاتية تركز على الأدلة</h1>
+<p>في حالة عدم حصولك على شهادة جامعية, يجب أن تُظهر سيرتك الذاتية على الفور ما قمت بإنجازه.
+الترتيب الفعال يبدو كالتالي:</p>
 <ol>
-<li>Contact information</li>
-<li>Professional summary</li>
-<li>Technical skills</li>
-<li>Projects</li>
-<li>Professional experience</li>
-<li>Open-source contributions</li>
-<li>Certifications</li>
-<li>Education</li>
+<li>معلومات الاتصال</li>
+<li>ملخص مهني</li>
+<li>المهارات التقنية</li>
+<li>المشاريع</li>
+<li>الخبرة المهنية</li>
+<li>المساهمات في البرمجيات مفتوحة المصدر</li>
+<li>الشهادات</li>
+<li>التعليم
+لاحظ أن التعليم يأتي في النهاية.
+وهذا مقصود.
+ابدأ بنقاط قوتك.</li>
 </ol>
-<p>Notice education comes last.</p>
-<p>That&#39;s intentional.</p>
-<p>Lead with your strengths.</p>
-<h2>Write accomplishment-focused project descriptions</h2>
-<p>Instead of:</p>
+<h2>اكتب أوصافًا للمشاريع تركز على الإنجازات</h2>
+<p>بدلاً من:</p>
 <blockquote>
-<p>Built a React application.</p>
+<p>قمت بإنشاء تطبيق React.
+اكتب:
+قمت بإنشاء ونشر تطبيق لإدارة المخزون باستخدام React و TypeScript تستخدمه ثلاث شركات محلية. خفضت عملية تتبع المخزون اليدوية بنسبة 70٪ تقريبًا, وقمت بتنفيذ ميزات المصادقة ولوحات معلومات التقارير والإشعارات التلقائية عبر البريد الإلكتروني.
+أصحاب العمل يوظفون النتائج.
+وليس التقنيات.</p>
 </blockquote>
-<p>Write:</p>
+<hr>
+<h1>لا تعتذر عن خلفيتك</h1>
+<p>يضعف العديد من المطورين الذين تعلموا بأنفسهم أنفسهم دون قصد.
+تجنب عبارات مثل:</p>
+<ul>
+<li>&quot;لقد التحقت ببرنامج تدريبي مكثف فقط.&quot;</li>
+<li>«لم أحصل أبدًا على شهادة في علوم الحاسوب.»</li>
+<li>«أنا مجرد متعلم ذاتي.»</li>
+<li>«أعلم أنني لم أتلقَ تعليمًا رسميًا.»
+استبدلها بالثقة.
+بدلاً من ذلك:</li>
+</ul>
 <blockquote>
-<p>Built and deployed a React + TypeScript inventory management application used by three local businesses. Reduced manual inventory tracking by approximately 70% and implemented authentication, reporting dashboards, and automated email notifications.</p>
+<p>«سلكت مسارًا غير تقليدي في هندسة البرمجيات. ومنذ ذلك الحين, قمت بتطوير العديد من التطبيقات الإنتاجية, وساهمت في مشاريع مفتوحة المصدر, وقضيت العامين الماضيين في دراسة الأساسيات بشكل مدروس مع إطلاق برمجيات حقيقية في الوقت نفسه.»
+هذه قصة تدل على روح المبادرة.</p>
 </blockquote>
-<p>Employers hire outcomes.</p>
-<p>Not technologies.</p>
 <hr>
-<h1>Don&#39;t apologize for your background</h1>
-<p>Many self-taught developers unintentionally weaken themselves.</p>
-<p>Avoid phrases like:</p>
+<h1>تواصل مع المطورين في الأماكن التي يجتمعون فيها فعليًّا</h1>
+<p>تأتي العديد من الوظائف الأولى من خلال العلاقات.
+من الأماكن التي تستحق المشاركة فيها:</p>
 <ul>
-<li>&quot;I only went to a bootcamp.&quot;</li>
-<li>&quot;I never got a CS degree.&quot;</li>
-<li>&quot;I&#39;m just self-taught.&quot;</li>
-<li>&quot;I know I&#39;m not formally educated.&quot;</li>
+<li>اللقاءات المحلية</li>
+<li>مسابقات البرمجة (هاكاثونات)</li>
+<li>مجتمعات البرمجيات مفتوحة المصدر</li>
+<li>خوادم Discord</li>
+<li>مناقشات GitHub</li>
+<li>مجتمعات Slack الفنية</li>
+<li>مؤتمرات المطورين</li>
+<li>مجموعات المستخدمين</li>
+<li>مجتمعات البرمجة عبر الإنترنت
+التواصل ليس مجرد طلب وظائف من الغرباء.
+بل هو أن تصبح شخصًا يُعرف بأنه مفيد.
+أجب عن الأسئلة.
+راجع طلبات السحب.
+شارك ما تتعلمه.
+الانتظام يبني السمعة.</li>
 </ul>
-<p>Replace them with confidence.</p>
-<p>Instead:</p>
+<hr>
+<h1>كيفية الإجابة على أسئلة المقابلة حول عدم حصولك على شهادة جامعية</h1>
+<p>إذا سألك القائم بالمقابلة بشكل مباشر, فلا تتخذ موقفًا دفاعيًا.
+اجعل إجابتك موجزة.
+على سبيل المثال:</p>
 <blockquote>
-<p>&quot;I took a non-traditional path into software engineering. Since then I&#39;ve built several production applications, contributed to open source, and spent the last two years deliberately studying the fundamentals while shipping real software.&quot;</p>
+<p>&quot;لقد سلكت مسارًا غير تقليدي في مجال تطوير البرمجيات. بدلاً من الحصول على شهادة في علوم الكمبيوتر, ركزت على تطوير برمجيات إنتاجية, والمساهمة في المشاريع مفتوحة المصدر, ودراسة أساسيات علوم الكمبيوتر بشكل مستقل. وقد منحتني هذه المزيج خبرة عملية في حل مشكلات هندسية حقيقية, وأنا أواصل التعلم دائمًا.&quot;
+ثم انتقل إلى موضوع آخر.
+يجب أن تتحول المحادثة سريعًا إلى الحديث عن عملك — وليس عن تعليمك.</p>
 </blockquote>
-<p>That&#39;s a story of initiative.</p>
 <hr>
-<h1>Network where developers actually gather</h1>
-<p>Many first jobs come through relationships.</p>
-<p>Places worth participating include:</p>
+<h1>تهتم الشركات أكثر بكيفية تعلمك</h1>
+<p>التكنولوجيا تتغير باستمرار.
+تأتي الأطر وتذهب.
+تتطور اللغات البرمجية.
+يتم استبدال الأدوات.
+من أقوى الإشارات التي يمكنك إرسالها إلى أصحاب العمل هي إظهار أنك تستمتع بالتعلم.
+اذكر:</p>
 <ul>
-<li>Local meetups</li>
-<li>Hackathons</li>
-<li>Open-source communities</li>
-<li>Discord servers</li>
-<li>GitHub discussions</li>
-<li>Technical Slack communities</li>
-<li>Developer conferences</li>
-<li>User groups</li>
-<li>Online coding communities</li>
-</ul>
-<p>Networking isn&#39;t asking strangers for jobs.</p>
-<p>It&#39;s becoming someone people recognize as helpful.</p>
-<p>Answer questions.</p>
-<p>Review pull requests.</p>
-<p>Share what you&#39;re learning.</p>
-<p>Consistency builds reputation.</p>
-<hr>
-<h1>How to answer interview questions about not having a degree</h1>
-<p>If the interviewer asks directly, don&#39;t become defensive.</p>
-<p>Keep your answer brief.</p>
-<p>For example:</p>
-<blockquote>
-<p>&quot;I took a non-traditional path into software development. Instead of a computer science degree, I focused on building production software, contributing to open source, and studying the computer science fundamentals independently. That combination has given me practical experience solving real engineering problems, and I&#39;m always continuing to learn.&quot;</p>
-</blockquote>
-<p>Then move on.</p>
-<p>The conversation should quickly become about your work—not your education.</p>
-<hr>
-<h1>Companies care more about how you learn</h1>
-<p>Technology changes constantly.</p>
-<p>Frameworks come and go.</p>
-<p>Languages evolve.</p>
-<p>Tools are replaced.</p>
-<p>One of the strongest signals you can give employers is showing that you enjoy learning.</p>
-<p>Mention:</p>
-<ul>
-<li>Books you&#39;ve read</li>
-<li>Courses you&#39;ve completed</li>
-<li>Side projects</li>
-<li>Conference talks</li>
-<li>Blog posts</li>
-<li>Certifications</li>
-<li>Technologies you&#39;re exploring</li>
-</ul>
-<p>Curiosity compounds over an entire career.</p>
-<hr>
-<h1>Common mistakes self-taught developers make</h1>
-<p>Avoid these traps:</p>
-<ul>
-<li>Waiting until you&#39;re &quot;ready&quot; before applying.</li>
-<li>Building ten incomplete projects instead of one polished application.</li>
-<li>Filling a résumé with tutorial projects.</li>
-<li>Memorizing interview answers instead of understanding concepts.</li>
-<li>Applying only to famous technology companies.</li>
-<li>Ignoring smaller businesses where you&#39;ll gain real experience.</li>
-<li>Leaving GitHub inactive for months.</li>
-<li>Omitting links to your portfolio.</li>
-<li>Focusing only on frameworks while neglecting fundamentals.</li>
-<li>Comparing your journey to someone else&#39;s.</li>
-</ul>
-<p>Progress beats perfection.</p>
-<hr>
-<h1>A checklist before applying</h1>
-<p>Before submitting applications, make sure you have:</p>
-<ul>
-<li>A polished one-page résumé</li>
-<li>A complete developer profile</li>
-<li>GitHub repositories with clean READMEs</li>
-<li>At least one deployed application</li>
-<li>A personal portfolio website (optional but valuable)</li>
-<li>LinkedIn and JobsList.dev profiles updated</li>
-<li>Strong project descriptions</li>
-<li>Interview stories prepared using the STAR method</li>
-<li>References who can speak about your work</li>
-<li>A tailored résumé for each application</li>
-</ul>
-<p>These improvements often have a larger impact than earning another certificate.</p>
-<hr>
-<h1>The takeaway</h1>
-<p>A computer science degree can open some doors, but it is not the only key to a successful software engineering career.</p>
-<p>Employers ultimately hire developers who can solve problems, communicate effectively, learn quickly, and ship reliable software.</p>
-<p>Build projects people can use. Learn the computer science fundamentals. Contribute to open source. Write about what you build. Keep your résumé focused on measurable accomplishments instead of credentials.</p>
-<p>Your portfolio, your GitHub history, your interview performance, and your ability to demonstrate real engineering judgment will eventually matter far more than how you entered the industry.</p>
-<p>The first opportunity is usually the hardest to earn—but once you&#39;ve built a track record, your work becomes the qualification employers care about most.</p>
-<hr>
-<h2>Additional resources</h2>
-<p>If you&#39;re beginning your software engineering career, these guides can help:</p>
-<ul>
-<li><strong>How to Land Your First Developer Job (Without Years of Experience)</strong></li>
-<li><strong>How Developers Should Set Up a Profile That Recruiters Actually Find</strong></li>
-<li><strong>How to Answer &quot;Tell Me About Yourself&quot; in a Developer Interview</strong></li>
-<li><strong>How to Approach a Take-Home Coding Assignment</strong></li>
-<li><strong>How to Evaluate a Company Before You Accept the Offer</strong></li>
-<li><strong>How to Handle Multiple Job Offers (and Choose Well)</strong></li>
+<li>الكتب التي قرأتها</li>
+<li>الدورات التدريبية التي أكملتها</li>
+<li>المشاريع الجانبية</li>
+<li>المحاضرات في المؤتمرات</li>
+<li>منشورات المدونة</li>
+<li>الشهادات</li>
+<li>التقنيات التي تستكشفها
+يتراكم الفضول على مدار مسيرتك المهنية بأكملها.</li>
 </ul>
 <hr>
-<p><em>Ready to be hired for what you can build—not where you studied? Create a free developer profile on <strong>JobsList.dev</strong>, showcase your projects, and connect directly with companies hiring software engineers based on real skills and demonstrated experience.</em></p>
-5:["locale","ar","d"]
-6:["slug","developer-job-without-a-degree","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-job-without-a-degree","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"developer-job-without-a-degree\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","developer-job-without-a-degree","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How to Get a Developer Job Without a Computer Science Degree\",\"description\":\"A complete guide for self-taught developers, bootcamp graduates, and career changers on getting hired without a computer science degree. Learn how to build a portfolio, write a stronger resume, prepare for interviews, and compete successfully with degree holders.\",\"datePublished\":\"2026-07-14T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"How to Get a Developer Job Without a Computer Science Degree","date":"2026-07-14T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":9,"html":"$3"},"assessment":null}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"How to Get a Developer Job Without a Computer Science Degree | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A complete guide for self-taught developers, bootcamp graduates, and career changers on getting hired without a computer science degree. Learn how to build a portfolio, write a stronger resume, prepare for interviews, and compete successfully with degree holders."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"How to Get a Developer Job Without a Computer Science Degree"}],["$","meta","15",{"property":"og:description","content":"A complete guide for self-taught developers, bootcamp graduates, and career changers on getting hired without a computer science degree. Learn how to build a portfolio, write a stronger resume, prepare for interviews, and compete successfully with degree holders."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-07-14T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"How to Get a Developer Job Without a Computer Science Degree"}],["$","meta","25",{"name":"twitter:description","content":"A complete guide for self-taught developers, bootcamp graduates, and career changers on getting hired without a computer science degree. Learn how to build a portfolio, write a stronger resume, prepare for interviews, and compete successfully with degree holders."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>الأخطاء الشائعة التي يرتكبها المطورون الذين تعلموا بأنفسهم</h1>
+<p>تجنب هذه الفخاخ:</p>
+<ul>
+<li>الانتظار حتى تصبح «جاهزًا» قبل التقدم للوظيفة.</li>
+<li>إنشاء عشرة مشاريع غير مكتملة بدلاً من تطبيق واحد متقن.</li>
+<li>ملء السيرة الذاتية بمشاريع تعليمية.</li>
+<li>حفظ إجابات المقابلات عن ظهر قلب بدلاً من فهم المفاهيم.</li>
+<li>التقدم فقط إلى شركات التكنولوجيا الشهيرة.</li>
+<li>تجاهل الشركات الصغيرة حيث ستكتسب خبرة حقيقية.</li>
+<li>ترك حساب GitHub غير نشط لعدة أشهر.</li>
+<li>إغفال إضافة روابط إلى محفظة أعمالك.</li>
+<li>التركيز على أطر العمل فقط مع إهمال الأساسيات.</li>
+<li>مقارنة مسيرتك بمسيرة شخص آخر.
+التقدم أفضل من الكمال.</li>
+</ul>
+<hr>
+<h1>قائمة مراجعة قبل التقدم للوظيفة</h1>
+<p>قبل إرسال طلبات التوظيف, تأكد من أن لديك:</p>
+<ul>
+<li>سيرة ذاتية متقنة من صفحة واحدة</li>
+<li>ملف تعريف مطور كامل</li>
+<li>مستودعات GitHub تحتوي على ملفات README واضحة</li>
+<li>تطبيق واحد على الأقل تم نشره</li>
+<li>موقع إلكتروني شخصي لعرض أعمالك (اختياري ولكنه مفيد)</li>
+<li>ملفات تعريف محدثة على LinkedIn و JobsList.dev</li>
+<li>أوصاف قوية للمشاريع</li>
+<li>قصص مقابلات معدة باستخدام طريقة STAR</li>
+<li>مراجع يمكنهم التحدث عن عملك</li>
+<li>سيرة ذاتية مخصصة لكل طلب توظيف
+غالبًا ما يكون لهذه التحسينات تأثير أكبر من الحصول على شهادة أخرى.</li>
+</ul>
+<hr>
+<h1>النقطة الأساسية</h1>
+<h2>يمكن أن تفتح شهادة في علوم الحاسوب بعض الأبواب, لكنها ليست المفتاح الوحيد لمهنة ناجحة في هندسة البرمجيات.
+في النهاية, يوظف أصحاب العمل المطورين القادرين على حل المشكلات, والتواصل بفعالية, والتعلم بسرعة, وتسليم برمجيات موثوقة.
+قم ببناء مشاريع يمكن للناس استخدامها. تعلم أساسيات علوم الحاسوب. ساهم في مشاريع البرمجيات مفتوحة المصدر. اكتب عن ما تقوم ببنائه. ركز سيرتك الذاتية على الإنجازات القابلة للقياس بدلاً من الشهادات.
+فمحفظة أعمالك, وسجل نشاطك على GitHub, وأدائك في المقابلات, وقدرتك على إظهار حكمة هندسية حقيقية, ستكون في النهاية أكثر أهمية بكثير من الطريقة التي دخلت بها هذا المجال.
+عادةً ما تكون الفرصة الأولى هي الأصعب في الحصول عليها — ولكن بمجرد أن تبني سجلاً حافلاً بالإنجازات, يصبح عملك هو المؤهل الذي يهتم به أصحاب العمل أكثر من أي شيء آخر.</h2>
+<h2>موارد إضافية</h2>
+<p>إذا كنت تبدأ مسيرتك المهنية في هندسة البرمجيات, فقد تساعدك هذه الأدلة:</p>
+<ul>
+<li><strong>كيف تحصل على أول وظيفة كمطور (دون سنوات من الخبرة)</strong></li>
+<li><strong>كيف ينبغي للمطورين إنشاء ملف تعريفي يجده مسؤولو التوظيف فعليًّا</strong></li>
+<li><strong>كيف تجيب على سؤال «أخبرني عن نفسك» في مقابلة عمل للمطورين</strong></li>
+<li><strong>كيف تتعامل مع مهمة البرمجة المنزلية</strong></li>
+<li><strong>كيفية تقييم الشركة قبل قبول العرض</strong></li>
+<li><strong>كيفية التعامل مع عروض العمل المتعددة (والاختيار الصائب)</strong></li>
+</ul>
+<hr>
+<p><em>هل أنت مستعد لأن يتم توظيفك بناءً على ما يمكنك إنشاؤه — وليس على المكان الذي درست فيه؟ أنشئ ملفًا شخصيًّا مجانيًّا للمطور على <strong>JobsList.dev</strong>, وعرض مشاريعك, وتواصل مباشرةً مع الشركات التي توظف مهندسي البرمجيات بناءً على المهارات الحقيقية والخبرة المثبتة.</em></p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"كيف تحصل على وظيفة مطور برمجيات دون شهادة في علوم الحاسوب\",\"description\":\"دليل شامل للمطورين الذين تعلموا بأنفسهم, وخريجي برامج التدريب المكثف, ومن يرغبون في تغيير مسارهم المهني, حول كيفية الحصول على وظيفة دون شهادة في علوم الحاسوب. تعلم كيفية إنشاء محفظة أعمال, وكتابة سيرة ذاتية أقوى, والاستعداد للمقابلات, والتنافس بنجاح مع حاملي الشهادات.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-07-14T00:00:00.000Z\",\"dateModified\":\"2026-07-14T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/developer-job-without-a-degree/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"كيف تحصل على وظيفة مطور برمجيات دون شهادة في علوم الحاسوب"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"دليل شامل للمطورين الذين تعلموا بأنفسهم, وخريجي برامج التدريب المكثف, ومن يرغبون في تغيير مسارهم المهني, حول كيفية الحصول على وظيفة دون شهادة في علوم الحاسوب. تعلم كيفية إنشاء محفظة أعمال, وكتابة سيرة ذاتية أقوى, والاستعداد للمقابلات, والتنافس بنجاح مع حاملي الشهادات."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-07-14T00:00:00.000Z","children":"13 يوليو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[10," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","الباحثون عن عمل",{"className":"badge-gray","children":"الباحثون عن عمل"}],["$","span","المطورون",{"className":"badge-gray","children":"المطورون"}],["$","span","الحياة المهنية",{"className":"badge-gray","children":"الحياة المهنية"}],["$","span","التعلم الذاتي",{"className":"badge-gray","children":"التعلم الذاتي"}],["$","span","الدورات التدريبية المكثفة",{"className":"badge-gray","children":"الدورات التدريبية المكثفة"}],["$","span","السير الذاتية",{"className":"badge-gray","children":"السير الذاتية"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],null,["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"كيف تحصل على وظيفة مطور برمجيات دون شهادة في علوم الحاسوب | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"دليل شامل للمطورين الذين تعلموا بأنفسهم, وخريجي برامج التدريب المكثف, ومن يرغبون في تغيير مسارهم المهني, حول كيفية الحصول على وظيفة دون شهادة في علوم الحاسوب. تعلم كيفية إنشاء محفظة أعمال, وكتابة سيرة ذاتية أقوى, والاستعداد للمقابلات, والتنافس بنجاح مع حاملي الشهادات."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"كيف تحصل على وظيفة مطور برمجيات دون شهادة في علوم الحاسوب"}],["$","meta","15",{"property":"og:description","content":"دليل شامل للمطورين الذين تعلموا بأنفسهم, وخريجي برامج التدريب المكثف, ومن يرغبون في تغيير مسارهم المهني, حول كيفية الحصول على وظيفة دون شهادة في علوم الحاسوب. تعلم كيفية إنشاء محفظة أعمال, وكتابة سيرة ذاتية أقوى, والاستعداد للمقابلات, والتنافس بنجاح مع حاملي الشهادات."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/developer-job-without-a-degree/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-07-14T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"كيف تحصل على وظيفة مطور برمجيات دون شهادة في علوم الحاسوب"}],["$","meta","27",{"name":"twitter:description","content":"دليل شامل للمطورين الذين تعلموا بأنفسهم, وخريجي برامج التدريب المكثف, ومن يرغبون في تغيير مسارهم المهني, حول كيفية الحصول على وظيفة دون شهادة في علوم الحاسوب. تعلم كيفية إنشاء محفظة أعمال, وكتابة سيرة ذاتية أقوى, والاستعداد للمقابلات, والتنافس بنجاح مع حاملي الشهادات."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null

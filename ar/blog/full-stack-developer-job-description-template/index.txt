@@ -1,367 +1,346 @@
-2:I[73600,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-e2d261e0a4250300.js"],"LocalizedArticleView"]
-4:I[5613,[],""]
-7:I[31778,[],""]
-8:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Analytics"]
-9:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"Providers"]
-a:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-938ba30bcc394744.js"],""]
-b:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],""]
-c:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","9160","static/chunks/app/not-found-6b77272393cc7060.js"],"Image"]
-d:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","5277","static/chunks/5277-9a48a71b52a27915.js","963","static/chunks/963-5de881c494f62071.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-e854246528bd17ba.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-40dda6bc941f2a1a.js"],"ConsentManager"]
-3:T326c,<p>Hiring a great full-stack developer isn&#39;t just about finding someone who knows React and Node.js. It&#39;s about finding an engineer who understands how every layer of your product fits together—from the browser all the way to the database—and who can make thoughtful trade-offs across that entire system.</p>
-<p>Unfortunately, <strong>&quot;full-stack developer&quot; has become one of the most overloaded job titles in technology.</strong></p>
-<p>At one company it means:</p>
+3:I[5613,[],""]
+6:I[31778,[],""]
+7:I[9579,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Analytics"]
+8:I[84133,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"Providers"]
+9:I[86580,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","7601","static/chunks/app/error-28165561f4e13b0a.js"],""]
+a:I[25250,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],""]
+b:I[81749,["5250","static/chunks/5250-99357aaff6a9edbe.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6081","static/chunks/app/%5Blocale%5D/blog/%5Bslug%5D/page-6f5441dd14bd0c45.js"],"Image"]
+c:I[1732,["5250","static/chunks/5250-99357aaff6a9edbe.js","963","static/chunks/963-5de881c494f62071.js","5277","static/chunks/5277-31d5f0c3e43e0d4d.js","1749","static/chunks/1749-8a54f20f40c0677e.js","6809","static/chunks/6809-a145d12267b60b69.js","5144","static/chunks/5144-68f07b5e59a15c8b.js","9261","static/chunks/9261-87a5d64ee5484f9e.js","3185","static/chunks/app/layout-5829aa442748d008.js"],"ConsentManager"]
+4:["locale","ar","d"]
+5:["slug","full-stack-developer-job-description-template","d"]
+0:["wZmKeakmhTJGRb8vrpAhf",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","full-stack-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"full-stack-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","full-stack-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L7",null,{}],["$","$L8",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$9","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$La",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lb",null,{"src":"/logo.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":"rounded-full"}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$La",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$La",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Lc",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/047034200e37d0e0.css","precedence":"next","crossOrigin":""}]],"$Ld"]]]]
+e:T4817,<p>لا يقتصر توظيف مطور متكامل متميز على مجرد العثور على شخص يعرف React و Node.js. بل يتعلق الأمر بالعثور على مهندس يفهم كيفية ترابط كل طبقة من طبقات منتجك — بدءًا من المتصفح وصولًا إلى قاعدة البيانات — وقادر على إجراء مقايضات مدروسة عبر النظام بأكمله.
+لسوء الحظ, <strong>أصبح لقب «مطور متكامل» أحد أكثر الألقاب الوظيفية التي أُفرط في استخدامها في مجال التكنولوجيا.</strong>
+في إحدى الشركات, يعني هذا:</p>
 <blockquote>
-<p>&quot;Build customer-facing features using React and occasionally work on our Node.js APIs.&quot;</p>
+<p>&quot;بناء ميزات موجهة للعملاء باستخدام React والعمل أحيانًا على واجهات برمجة التطبيقات (APIs) الخاصة بنا التي تعمل بـ Node.js.&quot;
+وفي شركة أخرى, يعني:
+&quot;تصميم واجهة المستخدم, وبناء البنية الخلفية, وإدارة Kubernetes, وإدارة قاعدة بيانات PostgreSQL, وتهيئة AWS, وصيانة مسارات CI/CD, ومراقبة بيئة الإنتاج, وإصلاح مشكلات الشبكات, وتصميم الشعارات, والرد على تذاكر الدعم, والقيام بكل ذلك بطريقة ما مقابل راتب واحد.&quot;
+يدرك المطورون ذوو الخبرة النسخة الثانية على الفور — وعادةً ما يغلقون علامة التبويب.
+غالبًا ما يتلخص الفرق بين جذب المهندسين المتميزين وإثنائهم عن التقدم في <strong>الوضوح, والصدق, والتوقعات الواقعية.</strong>
+يتضمن هذا الدليل نموذجًا مجربًا لوصف الوظيفة, ونصائح عملية للتوظيف, وتقنيات فرز تساعد الشركات على توظيف مطوري فول ستاك الذين ينجحون فعليًّا.</p>
 </blockquote>
-<p>At another it means:</p>
-<blockquote>
-<p>&quot;Design the UI, build the backend, manage Kubernetes, administer PostgreSQL, configure AWS, maintain CI/CD pipelines, monitor production, fix networking issues, design logos, answer support tickets, and somehow do it all for one salary.&quot;</p>
-</blockquote>
-<p>Experienced developers recognize the second version immediately—and usually close the tab.</p>
-<p>The difference between attracting exceptional engineers and discouraging them often comes down to <strong>clarity, honesty, and realistic expectations.</strong></p>
-<p>This guide includes a proven job description template, practical hiring advice, and screening techniques that help companies hire full-stack developers who actually succeed.</p>
 <hr>
-<h1>Why job descriptions matter more than you think</h1>
-<p>The quality of your job description determines:</p>
+<h1>لماذا تعتبر الوصف الوظيفي أكثر أهمية مما تعتقد</h1>
+<p>تحدد جودة الوصف الوظيفي الخاص بك:</p>
 <ul>
-<li>Who applies</li>
-<li>Who decides not to apply</li>
-<li>How much screening your team must perform</li>
-<li>How accurately candidates understand the role</li>
-<li>Whether developers trust your company before they ever speak to someone</li>
-</ul>
-<p>A vague job description attracts random applicants.</p>
-<p>A precise one attracts people who already know they&#39;re a good fit.</p>
-<p>That alone can reduce hundreds of résumé reviews.</p>
-<hr>
-<h1>Copy-and-Paste Full-Stack Developer Job Description</h1>
-<h2>Full-Stack Developer</h2>
-<p><strong>Location</strong></p>
-<p>Remote (US) / Hybrid / On-site</p>
-<p><strong>Employment Type</strong></p>
-<p>Full-Time</p>
-<p><strong>Compensation</strong></p>
-<p>$130,000–$170,000 + Bonus + Equity</p>
-<p><strong>Experience</strong></p>
-<p>Mid-Level or Senior</p>
-<hr>
-<h2>About Us</h2>
-<p>[Company] builds software that helps [customers] solve [problem].</p>
-<p>We&#39;re a collaborative engineering team that values ownership, thoughtful architecture, continuous learning, and shipping meaningful improvements frequently.</p>
-<p>Rather than separating frontend and backend into isolated teams, our engineers regularly work across the application stack.</p>
-<hr>
-<h2>About the Role</h2>
-<p>We&#39;re hiring a Full-Stack Developer to own product features from concept to production.</p>
-<p>You&#39;ll collaborate with product managers, designers, QA engineers, and other developers to build customer-facing functionality, backend services, APIs, and data models.</p>
-<p>You&#39;ll have ownership over complete product experiences—not isolated tickets.</p>
-<h3>What &quot;Full-Stack&quot; Means Here</h3>
-<p>Be explicit.</p>
-<p>Example:</p>
-<blockquote>
-<p>Approximately 60% React frontend, 40% Node.js backend. Infrastructure is handled by our Platform Engineering team. Designers own UX and visual design. You&#39;ll collaborate closely with both but won&#39;t be expected to replace them.</p>
-</blockquote>
-<p>That single paragraph answers more candidate questions than any list of technologies ever could.</p>
-<hr>
-<h1>Responsibilities</h1>
-<p>You&#39;ll:</p>
-<ul>
-<li>Design and implement complete product features</li>
-<li>Build intuitive user interfaces</li>
-<li>Develop scalable REST or GraphQL APIs</li>
-<li>Design and evolve database schemas</li>
-<li>Write automated tests</li>
-<li>Participate in architecture discussions</li>
-<li>Review pull requests</li>
-<li>Investigate production issues</li>
-<li>Improve application performance</li>
-<li>Collaborate directly with designers and product managers</li>
-<li>Help mentor junior engineers</li>
-<li>Continuously improve engineering practices</li>
+<li>من يتقدم للوظيفة</li>
+<li>من يقرر عدم التقدم</li>
+<li>حجم عملية الفرز التي يجب على فريقك إجراؤها</li>
+<li>مدى دقة فهم المرشحين للوظيفة</li>
+<li>ما إذا كان المطورون يثقون بشركتك قبل أن يتحدثوا مع أي شخص
+الوصف الوظيفي الغامض يجذب متقدمين عشوائيين.
+أما الوصف الدقيق فيجذب الأشخاص الذين يعرفون مسبقًا أنهم مناسبون للوظيفة.
+وهذا وحده كفيل بتقليل مراجعة مئات السير الذاتية.</li>
 </ul>
 <hr>
-<h1>Required Qualifications</h1>
-<p>We&#39;re looking for someone who has:</p>
+<h1>وصف وظيفي لمطور برمجيات متكامل (Full-Stack) جاهز للنسخ واللصق</h1>
+<h2>مطور برمجيات متكامل (Full-Stack)</h2>
+<h2><strong>الموقع</strong>
+عن بُعد (الولايات المتحدة) / هجين / في الموقع
+<strong>نوع التوظيف</strong>
+بدوام كامل
+<strong>الأجر</strong>
+130,000–170,000 دولار + مكافأة + أسهم في الشركة
+<strong>الخبرة</strong>
+مستوى متوسط أو رفيع</h2>
+<h2>نبذة عنا</h2>
+<h2>تقوم [الشركة] بتطوير برمجيات تساعد [العملاء] على حل [المشكلة].
+نحن فريق هندسي تعاوني يقدّر روح المبادرة, والهندسة المدروسة, والتعلم المستمر, وتقديم تحسينات ذات مغزى بشكل متكرر.
+بدلاً من فصل الواجهة الأمامية (frontend) والواجهة الخلفية (backend) إلى فرق منفصلة, يعمل مهندسونا بانتظام عبر مكدس التطبيق بأكمله.</h2>
+<h2>عن الوظيفة</h2>
+<p>نحن نبحث عن مطور فول ستاك ليتولى مسؤولية ميزات المنتج من مرحلة التصور وحتى الإنتاج.
+ستتعاون مع مديري المنتجات والمصممين ومهندسي ضمان الجودة والمطورين الآخرين لإنشاء وظائف موجهة للعملاء, وخدمات الواجهة الخلفية, وواجهات برمجة التطبيقات (APIs), ونماذج البيانات.
+ستتولى المسؤولية الكاملة عن تجارب المنتج بأكملها — وليس مجرد تذاكر دعم منفصلة.</p>
+<h3>ماذا يعني مصطلح «Full-Stack» هنا</h3>
+<p>كن واضحًا.
+مثال:</p>
+<blockquote>
+<p>حوالي 60% واجهة مستخدم باستخدام React, و40% خلفية باستخدام Node.js. يتولى فريق هندسة المنصة لدينا إدارة البنية التحتية. يتولى المصممون مسؤولية تجربة المستخدم (UX) والتصميم المرئي. ستتعاون عن كثب مع كلا الفريقين, لكن لن يُتوقع منك أن تحل محلهما.
+هذه الفقرة الواحدة تجيب على أسئلة المرشحين أكثر مما يمكن لأي قائمة تقنيات أن تفعل.</p>
+</blockquote>
+<hr>
+<h1>المسؤوليات</h1>
+<p>ستقوم بما يلي:</p>
 <ul>
-<li>Experience shipping production web applications</li>
-<li>Strong JavaScript or TypeScript skills</li>
-<li>Experience with React, Vue, Angular, or similar frameworks</li>
-<li>Experience building backend services using Node.js, Go, Python, Java, C#, Rust, PHP, Ruby, or similar</li>
-<li>Experience designing relational databases</li>
-<li>Understanding of REST APIs</li>
-<li>Git proficiency</li>
-<li>Strong debugging skills</li>
-<li>Excellent written communication</li>
-<li>Ability to work across ambiguous product problems</li>
+<li>تصميم وتنفيذ ميزات المنتج بالكامل</li>
+<li>بناء واجهات مستخدم بديهية</li>
+<li>تطوير واجهات برمجة تطبيقات (API) قابلة للتوسع باستخدام REST أو GraphQL</li>
+<li>تصميم وتطوير مخططات قواعد البيانات</li>
+<li>كتابة الاختبارات الآلية</li>
+<li>المشاركة في مناقشات الهندسة</li>
+<li>مراجعة طلبات السحب (pull requests)</li>
+<li>التحقيق في مشكلات الإنتاج</li>
+<li>تحسين أداء التطبيق</li>
+<li>التعاون المباشر مع المصممين ومديري المنتجات</li>
+<li>المساعدة في توجيه المهندسين المبتدئين</li>
+<li>التحسين المستمر للممارسات الهندسية</li>
 </ul>
 <hr>
-<h1>Nice-to-Have Qualifications</h1>
-<p>Not required, but beneficial:</p>
+<h1>المؤهلات المطلوبة</h1>
+<p>نحن نبحث عن شخص يتمتع بما يلي:</p>
+<ul>
+<li>خبرة في إطلاق تطبيقات الويب في بيئة الإنتاج</li>
+<li>مهارات قوية في JavaScript أو TypeScript</li>
+<li>خبرة في استخدام React أو Vue أو Angular أو أطر عمل مماثلة</li>
+<li>خبرة في بناء خدمات الخلفية باستخدام Node.js أو Go أو Python أو Java أو C# أو Rust أو PHP أو Ruby أو ما شابه</li>
+<li>خبرة في تصميم قواعد البيانات العلائقية</li>
+<li>فهم واجهات برمجة التطبيقات (APIs) REST</li>
+<li>إتقان استخدام Git</li>
+<li>مهارات قوية في تصحيح الأخطاء</li>
+<li>مهارات ممتازة في التواصل الكتابي</li>
+<li>القدرة على التعامل مع مشكلات المنتجات الغامضة</li>
+</ul>
+<hr>
+<h1>المؤهلات الإضافية</h1>
+<p>ليست مطلوبة, لكنها مفيدة:</p>
 <ul>
 <li>Docker</li>
 <li>Kubernetes</li>
-<li>AWS, Azure, or Google Cloud</li>
-<li>CI/CD pipelines</li>
+<li>AWS أو Azure أو Google Cloud</li>
+<li>مسارات CI/CD</li>
 <li>GraphQL</li>
 <li>Redis</li>
 <li>Elasticsearch</li>
-<li>PostgreSQL optimization</li>
-<li>Observability tooling</li>
-<li>Microservices</li>
-<li>Authentication systems</li>
-<li>Background in SaaS products</li>
+<li>تحسين PostgreSQL</li>
+<li>أدوات الرصد والمراقبة</li>
+<li>الخدمات الصغيرة</li>
+<li>أنظمة المصادقة</li>
+<li>خبرة في منتجات SaaS</li>
 </ul>
 <hr>
-<h1>Our Technology Stack</h1>
-<p>Frontend</p>
+<h1>حزمة التقنيات التي نستخدمها</h1>
+<p>الواجهة الأمامية</p>
 <ul>
 <li>React</li>
 <li>TypeScript</li>
-<li>Tailwind CSS</li>
-</ul>
-<p>Backend</p>
-<ul>
+<li>Tailwind CSS
+الواجهة الخلفية</li>
 <li>Node.js</li>
-<li>TypeScript</li>
-</ul>
-<p>Database</p>
-<ul>
-<li>PostgreSQL</li>
-</ul>
-<p>Infrastructure</p>
-<ul>
+<li>TypeScript
+قاعدة البيانات</li>
+<li>PostgreSQL
+البنية التحتية</li>
 <li>Docker</li>
 <li>GitHub Actions</li>
-<li>AWS</li>
-</ul>
-<p>Monitoring</p>
-<ul>
+<li>AWS
+المراقبة</li>
 <li>OpenTelemetry</li>
 <li>Grafana</li>
 </ul>
 <hr>
-<h1>Benefits</h1>
+<h1>المزايا</h1>
 <ul>
-<li>Competitive salary</li>
-<li>Equity</li>
-<li>Flexible working hours</li>
-<li>Remote-first culture</li>
-<li>Learning budget</li>
-<li>Conference reimbursement</li>
-<li>Modern equipment</li>
-<li>Comprehensive health benefits</li>
-<li>Generous PTO</li>
-<li>Paid parental leave</li>
+<li>راتب تنافسي</li>
+<li>أسهم</li>
+<li>ساعات عمل مرنة</li>
+<li>ثقافة تعتمد على العمل عن بُعد في المقام الأول</li>
+<li>ميزانية للتعلم</li>
+<li>تعويض تكاليف حضور المؤتمرات</li>
+<li>معدات حديثة</li>
+<li>مزايا صحية شاملة</li>
+<li>إجازة مدفوعة الأجر سخية</li>
+<li>إجازة أبوة/أمومة مدفوعة الأجر</li>
 </ul>
 <hr>
-<h1>Interview Process</h1>
-<h3>Stage 1</h3>
-<p>30-minute introduction</p>
-<p>Meet the hiring manager and learn about the company.</p>
-<hr>
-<h3>Stage 2</h3>
-<p>Technical discussion</p>
-<p>Walk through a real feature you&#39;ve built and explain your design decisions.</p>
-<hr>
-<h3>Stage 3</h3>
-<p>Practical engineering exercise</p>
-<p>Choose one:</p>
+<h1>عملية المقابلة</h1>
+<h3>المرحلة 1</h3>
+<h2>مقدمة مدتها 30 دقيقة
+التعرف على مدير التوظيف والتعرف على الشركة.</h2>
+<h3>المرحلة 2</h3>
+<h2>مناقشة تقنية
+استعرض ميزة حقيقية قمت بتطويرها وشرح قراراتك التصميمية.</h2>
+<h3>المرحلة 3</h3>
+<p>تمرين هندسي عملي
+اختر أحد الخيارات التالية:</p>
 <ul>
-<li>Pair programming session</li>
-<li>Paid take-home assignment</li>
+<li>جلسة برمجة ثنائية</li>
+<li>مهمة منزلية مدفوعة الأجر
+نركز على العمل الهندسي الواقعي — وليس ألغاز الخوارزميات الملتوية.</li>
 </ul>
-<p>We focus on realistic engineering work—not trick algorithm puzzles.</p>
 <hr>
-<h3>Stage 4</h3>
-<p>Team conversation</p>
-<p>Meet future teammates.</p>
-<p>Discuss collaboration, communication, and product thinking.</p>
-<hr>
-<h3>Stage 5</h3>
-<p>Offer</p>
-<p>We&#39;ll make a decision quickly and communicate clearly throughout the process.</p>
-<hr>
-<h1>Screening Tips for Hiring Managers</h1>
-<p>The résumé gets someone into the interview.</p>
-<p>The interview should determine whether they can solve your actual problems.</p>
-<p>Here are some of the highest-signal questions you can ask.</p>
-<hr>
-<h2>1. Ask them to explain a feature end to end</h2>
-<p>Instead of:</p>
+<h3>المرحلة 4</h3>
+<h2>محادثة مع الفريق
+التعرف على زملاء الفريق المستقبليين.
+مناقشة التعاون والتواصل والتفكير في المنتج.</h2>
+<h3>المرحلة 5</h3>
+<h2>العرض
+سنتخذ قرارًا سريعًا وسنتواصل بوضوح طوال العملية.</h2>
+<h1>نصائح للفرز موجهة لمديري التوظيف</h1>
+<h2>السيرة الذاتية هي ما تؤهل المرشح للمقابلة.
+أما المقابلة فيجب أن تحدد ما إذا كان بإمكانه حل مشاكلك الفعلية.
+إليك بعض الأسئلة الأكثر دلالة التي يمكنك طرحها.</h2>
+<h2>1. اطلب منهم شرح ميزة ما من البداية إلى النهاية</h2>
+<p>بدلاً من:</p>
 <blockquote>
-<p>&quot;Tell me about React.&quot;</p>
+<p>&quot;أخبرني عن React.&quot;
+اسأل:
+&quot;اشرح لي إحدى الميزات التي قمت بتطويرها — بدءًا من نقر المستخدم على الزر وصولًا إلى قاعدة البيانات.&quot;
+المرشحون المتميزون يتطرقون بشكل طبيعي إلى:</p>
 </blockquote>
-<p>Ask:</p>
+<ul>
+<li>واجهة المستخدم</li>
+<li>واجهات برمجة التطبيقات (APIs)</li>
+<li>التحقق من صحة البيانات</li>
+<li>المصادقة</li>
+<li>تصميم قاعدة البيانات</li>
+<li>معالجة الأخطاء</li>
+<li>الأداء</li>
+<li>النشر</li>
+</ul>
+<hr>
+<h2>2. ابحث عن روح المبادرة</h2>
+<p>اسأل:</p>
 <blockquote>
-<p>&quot;Walk me through a feature you built—from the user clicking the button all the way to the database.&quot;</p>
+<p>&quot;ما الجزء من تلك الميزة الذي كان من صنعك بالكامل؟&quot;
+تجنب المرشحين الذين يصفون فقط ما فعله «الفريق».
+المهندسون الأكفاء يشرحون بثقة:</p>
 </blockquote>
-<p>Excellent candidates naturally discuss:</p>
 <ul>
-<li>UI</li>
-<li>APIs</li>
-<li>Validation</li>
-<li>Authentication</li>
-<li>Database design</li>
-<li>Error handling</li>
-<li>Performance</li>
-<li>Deployment</li>
+<li>القرارات التي اتخذوها</li>
+<li>الأخطاء التي أصلحوها</li>
+<li>المفاضلات التي أخذوها في الاعتبار</li>
 </ul>
 <hr>
-<h2>2. Look for ownership</h2>
-<p>Ask:</p>
+<h2>3. اسأل عن المفاضلات</h2>
+<p>الهندسة الحقيقية هي الاختيار بين خيارات غير مثالية.
+أمثلة:</p>
+<ul>
+<li>لماذا REST بدلاً من GraphQL؟</li>
+<li>لماذا PostgreSQL بدلاً من MongoDB؟</li>
+<li>لماذا العرض على الخادم بدلاً من العرض على العميل؟</li>
+<li>لماذا تقسيم الخدمة — أو إبقائها متكاملة؟
+أنت تقيّم الحس الهندسي, وليس الحقائق المحفوظة عن ظهر قلب.</li>
+</ul>
+<hr>
+<h2>4. استكشف القدرة على تصحيح الأخطاء</h2>
+<p>كل مهندس يصبح في النهاية محققًا.
+اسأل:</p>
 <blockquote>
-<p>&quot;What part of that feature was entirely yours?&quot;</p>
+<p>أخبرني عن أصعب خطأ في الإنتاج قمت بإصلاحه على الإطلاق.
+انتبه إلى:</p>
 </blockquote>
-<p>Avoid candidates who describe only what &quot;the team&quot; did.</p>
-<p>Strong engineers comfortably explain:</p>
 <ul>
-<li>decisions they made</li>
-<li>mistakes they fixed</li>
-<li>trade-offs they considered</li>
+<li>التحقيق المنهجي</li>
+<li>التسجيل</li>
+<li>اختبار الفرضيات</li>
+<li>تحليل السبب الجذري</li>
+<li>التواصل أثناء الحوادث</li>
+<li>الدروس المستفادة بعد ذلك</li>
 </ul>
 <hr>
-<h2>3. Ask about trade-offs</h2>
-<p>Real engineering is choosing between imperfect options.</p>
-<p>Examples:</p>
+<h2>5. تقييم التعاون</h2>
+<p>تطوير البرمجيات هو نشاط جماعي.
+اسأل:</p>
 <ul>
-<li>Why REST instead of GraphQL?</li>
-<li>Why PostgreSQL instead of MongoDB?</li>
-<li>Why server rendering instead of client rendering?</li>
-<li>Why split the service—or keep it together?</li>
+<li>أخبرني عن خلاف مع مهندس آخر.</li>
+<li>كيف تراجع طلبات السحب (pull requests)؟</li>
+<li>كيف تتعامل مع الملاحظات؟</li>
+<li>هل سبق لك أن غيرت رأيك أثناء مناقشة التصميم؟
+المطورون الأقوياء يتعاونون دون أن يكونوا سلبيين.</li>
 </ul>
-<p>You&#39;re evaluating engineering judgment, not memorized facts.</p>
 <hr>
-<h2>4. Explore debugging ability</h2>
-<p>Every engineer eventually becomes a detective.</p>
-<p>Ask:</p>
+<h2>6. تقييم التفكير في المنتج</h2>
+<p>المهندسون العظماء لا يكتفون بكتابة الكود فحسب.
+بل يفهمون سبب كتابتهم له.
+اسأل:</p>
 <blockquote>
-<p>Tell me about the hardest production bug you&#39;ve ever fixed.</p>
+<p>ما هي مشكلة العميل التي حلتها هذه الميزة؟
+المرشحون الجيدون يتحدثون عن المستخدمين.
+أما المرشحون المتميزون فيتحدثون عن النتائج التجارية.</p>
 </blockquote>
-<p>Listen for:</p>
+<hr>
+<h2>7. مراجعة جودة الكود</h2>
+<p>بدلاً من طرح أسئلة تافهة غامضة:
+اعرض طلب سحب.
+اسأل:</p>
 <ul>
-<li>systematic investigation</li>
-<li>logging</li>
-<li>hypothesis testing</li>
-<li>root-cause analysis</li>
-<li>communication during incidents</li>
-<li>lessons learned afterward</li>
+<li>ما الذي ستقوم بتحسينه؟</li>
+<li>ما الذي يثير قلقك؟</li>
+<li>هل ستوافق على هذا؟
+تكشف تمارين مراجعة الكود عن مستوى النضج في مجالات التواصل والهندسة المعمارية والهندسة في آن واحد.</li>
 </ul>
 <hr>
-<h2>5. Evaluate collaboration</h2>
-<p>Software development is a team activity.</p>
-<p>Ask:</p>
+<h1>الأخطاء الشائعة التي ترتكبها الشركات</h1>
+<h2>اعتبار المطور المتكامل (Full-Stack) &quot;كل شيء&quot;</h2>
+<p>من غير الواقعي أن يكون مهندس واحد:</p>
 <ul>
-<li>Tell me about a disagreement with another engineer.</li>
-<li>How do you review pull requests?</li>
-<li>How do you handle feedback?</li>
-<li>Have you ever changed your mind during a design discussion?</li>
-</ul>
-<p>Strong developers are collaborative without being passive.</p>
-<hr>
-<h2>6. Assess product thinking</h2>
-<p>Great engineers don&#39;t simply write code.</p>
-<p>They understand why they&#39;re writing it.</p>
-<p>Ask:</p>
-<blockquote>
-<p>What customer problem did this feature solve?</p>
-</blockquote>
-<p>Good candidates talk about users.</p>
-<p>Outstanding candidates talk about business outcomes.</p>
-<hr>
-<h2>7. Review code quality</h2>
-<p>Instead of asking obscure trivia:</p>
-<p>Show a pull request.</p>
-<p>Ask:</p>
-<ul>
-<li>What would you improve?</li>
-<li>What concerns you?</li>
-<li>Would you approve this?</li>
-</ul>
-<p>Code review exercises reveal communication, architecture, and engineering maturity simultaneously.</p>
-<hr>
-<h1>Common Mistakes Companies Make</h1>
-<h2>Treating Full-Stack as &quot;Everything&quot;</h2>
-<p>One engineer cannot realistically be:</p>
-<ul>
-<li>Frontend developer</li>
-<li>Backend developer</li>
-<li>DBA</li>
-<li>Cloud architect</li>
-<li>Security engineer</li>
-<li>DevOps engineer</li>
-<li>Mobile developer</li>
-<li>UX designer</li>
-<li>Product manager</li>
-</ul>
-<p>Define reasonable expectations.</p>
-<hr>
-<h2>Overloading the Requirements</h2>
-<p>Avoid listings with 40 technologies.</p>
-<p>Most excellent engineers don&#39;t expect to know every tool you use.</p>
-<p>Separate:</p>
-<p><strong>Required</strong></p>
-<p>from</p>
-<p><strong>Preferred</strong></p>
-<p>Candidates appreciate honesty.</p>
-<hr>
-<h2>Hiding Compensation</h2>
-<p>Salary transparency:</p>
-<ul>
-<li>saves interview time</li>
-<li>improves candidate trust</li>
-<li>attracts better-qualified applicants</li>
-<li>reduces failed negotiations</li>
+<li>مطور واجهة المستخدم</li>
+<li>مطور الخلفية</li>
+<li>مسؤول قواعد البيانات</li>
+<li>مهندس سحابة</li>
+<li>مهندس أمن</li>
+<li>مهندس ديف أوبز</li>
+<li>مطور تطبيقات الجوال</li>
+<li>مصمم تجربة المستخدم (UX)</li>
+<li>مدير منتج
+حدد توقعات معقولة.</li>
 </ul>
 <hr>
-<h2>Confusing Seniority</h2>
-<p>Don&#39;t label every role &quot;Senior.&quot;</p>
-<p>Instead describe:</p>
+<h2>الإفراط في المتطلبات</h2>
+<h2>تجنب الإعلانات التي تتضمن 40 تقنية.
+معظم المهندسين المتميزين لا يتوقعون معرفة كل أداة تستخدمها.
+افصل بين:
+<strong>المطلوب</strong>
+و
+<strong>المفضل</strong>
+المرشحون يقدرون الصدق.</h2>
+<h2>إخفاء الأجر</h2>
+<p>شفافية الراتب:</p>
 <ul>
-<li>expected ownership</li>
-<li>decision-making authority</li>
-<li>mentoring responsibilities</li>
-<li>project complexity</li>
+<li>توفر وقت المقابلة</li>
+<li>تعزز ثقة المرشح</li>
+<li>تجذب المتقدمين الأكثر تأهيلاً</li>
+<li>تقلل من فشل المفاوضات</li>
 </ul>
-<p>Candidates care more about expectations than titles.</p>
 <hr>
-<h2>Using Buzzwords Instead of Information</h2>
-<p>Avoid:</p>
+<h2>إرباك مفهوم الأقدمية</h2>
+<p>لا تصف كل دور بـ«كبير».
+بدلاً من ذلك, صِف:</p>
 <ul>
-<li>Rockstar</li>
-<li>Ninja</li>
-<li>Wizard</li>
-<li>Unicorn</li>
-<li>Wear many hats</li>
-<li>Fast-paced environment</li>
-<li>Self-starter</li>
-<li>Dynamic culture</li>
+<li>المسؤولية المتوقعة</li>
+<li>سلطة اتخاذ القرار</li>
+<li>مسؤوليات التوجيه</li>
+<li>تعقيد المشروع
+يهتم المرشحون بالتوقعات أكثر من الألقاب.</li>
 </ul>
-<p>Instead describe actual work.</p>
-<p>Developers respond to substance.</p>
 <hr>
-<h1>What Great Full-Stack Engineers Actually Do</h1>
-<p>The best full-stack developers are not experts in every technology.</p>
-<p>Instead, they excel at connecting systems.</p>
-<p>They understand:</p>
+<h2>استخدام المصطلحات الرنانة بدلاً من المعلومات</h2>
+<p>تجنب:</p>
 <ul>
-<li>how frontend decisions affect backend performance</li>
-<li>how database schemas influence APIs</li>
-<li>how infrastructure impacts reliability</li>
-<li>how user experience affects engineering priorities</li>
-<li>how product decisions shape architecture</li>
+<li>نجم</li>
+<li>نينجا</li>
+<li>ساحر</li>
+<li>وحيد القرن</li>
+<li>القيام بأدوار متعددة</li>
+<li>بيئة سريعة الوتيرة</li>
+<li>مبادر</li>
+<li>ثقافة ديناميكية
+بدلاً من ذلك, صِف العمل الفعلي.
+المطورون يستجيبون للمضمون.</li>
 </ul>
-<p>Their greatest strength isn&#39;t breadth alone—it&#39;s the ability to make thoughtful decisions across boundaries.</p>
 <hr>
-<h1>Final Thoughts</h1>
-<p>Hiring a full-stack developer starts with defining what <strong>full-stack means inside your company</strong>.</p>
-<p>Be transparent about the technology stack, the balance between frontend and backend work, the responsibilities the role owns, and the responsibilities it doesn&#39;t.</p>
-<p>Then design an interview process that evaluates practical engineering ability, communication, collaboration, and end-to-end product thinking—not memorized trivia or artificial puzzles.</p>
-<p>Companies that communicate clearly attract stronger applicants, spend less time screening, and make better hiring decisions.</p>
-<p>Candidates appreciate honest expectations, and those expectations lead to longer tenure, higher satisfaction, and better engineering outcomes.</p>
+<h1>ما يفعله مهندسو «فول ستاك» المتميزون فعليًّا</h1>
+<p>أفضل مطوري «فول ستاك» ليسوا خبراء في كل تقنية.
+بل يتفوقون في ربط الأنظمة ببعضها.
+وهم يفهمون:</p>
+<ul>
+<li>كيف تؤثر قرارات الواجهة الأمامية على أداء الخلفية</li>
+<li>كيف تؤثر مخططات قواعد البيانات على واجهات برمجة التطبيقات (APIs)</li>
+<li>كيف تؤثر البنية التحتية على الموثوقية</li>
+<li>كيف تؤثر تجربة المستخدم على أولويات الهندسة</li>
+<li>كيف تشكل قرارات المنتج بنية النظام
+قوتهم الأكبر لا تكمن في اتساع نطاق معرفتهم فحسب — بل في القدرة على اتخاذ قرارات مدروسة تتجاوز الحدود.</li>
+</ul>
 <hr>
-<h2>Ready to hire your next full-stack developer?</h2>
-<p>Create a company profile on <strong>JobsList.dev</strong> and reach developers directly through transparent job listings, realistic hiring workflows, and a marketplace built specifically for technical talent.</p>
-5:["locale","ar","d"]
-6:["slug","full-stack-developer-job-description-template","d"]
-0:["yOVw5M7qb89h5yGvwWrfj",[[["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","full-stack-developer-job-description-template","d"],{"children":["__PAGE__?{\"locale\":\"ar\",\"slug\":\"full-stack-developer-job-description-template\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","ar","d"],{"children":["blog",{"children":[["slug","full-stack-developer-job-description-template","d"],{"children":["__PAGE__",{},["$L1",[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Full-Stack Developer Job Description Template (With Screening Tips)\",\"description\":\"A practical, copy-paste full-stack developer job description template, plus expert guidance on defining the role, screening candidates, and hiring developers who can truly own features end to end.\",\"datePublished\":\"2026-06-18T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"The JobsList.dev Team\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\"}}"}}],["$","$L2",null,{"post":{"title":"Full-Stack Developer Job Description Template (With Screening Tips)","date":"2026-06-18T00:00:00.000Z","author":"The JobsList.dev Team","readingTime":7,"html":"$3"},"assessment":{"href":"/assessments/full-stack-engineer/","roleName":"Full-Stack Engineer"}}]],null]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children","$6","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children","blog","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","$5","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]]},[null,["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: blob: https:; font-src 'self' data: https:; connect-src 'self' https:; frame-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://jobslist.dev/#organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\",\"logo\":\"https://jobslist.dev/android-chrome-512x512.png\"},{\"@type\":\"WebSite\",\"@id\":\"https://jobslist.dev/#website\",\"url\":\"https://jobslist.dev\",\"name\":\"JobsList.dev\",\"publisher\":{\"@id\":\"https://jobslist.dev/#organization\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://jobslist.dev/jobs/?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}]}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(window.top!==window.self&&window.location.pathname.indexOf('/embed')!==0){window.top.location=window.self.location.href;}}catch(e){try{window.top.location=window.self.location.href;}catch(_){}}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('jl_theme')||'system';var d=t==='dark'||(t==='system'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',d);}catch(e){}})();"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var bp=\"\";var dirs={\"zh-CN\":\"ltr\",\"es\":\"ltr\",\"hi\":\"ltr\",\"fr\":\"ltr\",\"ar\":\"rtl\",\"bn\":\"ltr\",\"pt-BR\":\"ltr\",\"ru\":\"ltr\",\"ur\":\"rtl\",\"id\":\"ltr\",\"de\":\"ltr\",\"ja\":\"ltr\",\"tr\":\"ltr\",\"ko\":\"ltr\",\"it\":\"ltr\",\"vi\":\"ltr\",\"pl\":\"ltr\",\"uk\":\"ltr\",\"nl\":\"ltr\",\"el\":\"ltr\"};var p=location.pathname;if(bp&&p.indexOf(bp)===0){p=p.slice(bp.length);}var seg=p.split('/')[1]||'';var el=document.documentElement;if(Object.prototype.hasOwnProperty.call(dirs,seg)){el.lang=seg;el.dir=(dirs[seg]==='rtl')?'rtl':'ltr';}else{el.lang='en';el.dir='ltr';}}catch(e){}})();"}}]]}],["$","body",null,{"className":"__className_f367f3","children":[["$","$L8",null,{}],["$","$L9",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$a","errorStyles":[],"errorScripts":[],"template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"min-h-[80vh] flex items-center justify-center px-4 py-16","children":["$","div",null,{"className":"w-full max-w-md text-center","children":[["$","$Lb",null,{"href":"/","className":"inline-flex items-center gap-2 mb-8","children":[["$","$Lc",null,{"src":"/android-chrome-512x512.png","alt":"JobsList.dev","width":32,"height":32,"priority":true,"className":""}],["$","span",null,{"className":"font-bold text-xl text-surface-900","children":"JobsList.dev"}]]}],["$","p",null,{"className":"text-7xl font-bold tracking-tight text-brand-500","children":"404"}],["$","h1",null,{"className":"heading-2 mt-4","children":"Page not found"}],["$","p",null,{"className":"text-surface-500 mt-3","children":"The page you're looking for doesn't exist or may have been moved."}],["$","div",null,{"className":"mt-8 flex flex-col sm:flex-row items-center justify-center gap-3","children":[["$","$Lb",null,{"href":"/","className":"btn-primary","children":"Back to home"}],["$","$Lb",null,{"href":"/jobs","className":"btn-secondary","children":"Browse jobs"}]]}]]}]}],"notFoundStyles":[],"styles":null}]}],["$","$Ld",null,{}]]}]]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5c6b851e1306b81e.css","precedence":"next","crossOrigin":""}]],"$Le"]]]]
-e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"Full-Stack Developer Job Description Template (With Screening Tips) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"A practical, copy-paste full-stack developer job description template, plus expert guidance on defining the role, screening candidates, and hiring developers who can truly own features end to end."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"Full-Stack Developer Job Description Template (With Screening Tips)"}],["$","meta","15",{"property":"og:description","content":"A practical, copy-paste full-stack developer job description template, plus expert guidance on defining the role, screening candidates, and hiring developers who can truly own features end to end."}],["$","meta","16",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","20",{"property":"og:type","content":"article"}],["$","meta","21",{"property":"article:published_time","content":"2026-06-18T00:00:00.000Z"}],["$","meta","22",{"property":"article:author","content":"The JobsList.dev Team"}],["$","meta","23",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","24",{"name":"twitter:title","content":"Full-Stack Developer Job Description Template (With Screening Tips)"}],["$","meta","25",{"name":"twitter:description","content":"A practical, copy-paste full-stack developer job description template, plus expert guidance on defining the role, screening candidates, and hiring developers who can truly own features end to end."}],["$","meta","26",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","27",{"name":"twitter:image:width","content":"1200"}],["$","meta","28",{"name":"twitter:image:height","content":"630"}],["$","meta","29",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","30",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","31",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","32",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","33",{"name":"next-size-adjust"}]]
+<h1>خاتمة</h1>
+<h2>يبدأ توظيف مطور متكامل بتحديد ما <strong>يعنيه مصطلح «متكامل» داخل شركتك</strong>.
+كن شفافًا بشأن مجموعة التقنيات, والتوازن بين أعمال الواجهة الأمامية والخلفية, والمسؤوليات التي يتحملها الدور, وتلك التي لا يتحملها.
+ثم صمم عملية مقابلة تقيّم القدرة الهندسية العملية, والتواصل, والتعاون, والتفكير الشامل في المنتج — وليس المعلومات التافهة المحفوظة عن ظهر قلب أو الألغاز المصطنعة.
+تجذب الشركات التي تتواصل بوضوح مرشحين أقوى, وتقضي وقتًا أقل في عملية الفرز, وتتخذ قرارات توظيف أفضل.
+يقدّر المرشحون التوقعات الصادقة, وتؤدي هذه التوقعات إلى مدة خدمة أطول, ورضا أعلى, ونتائج هندسية أفضل.</h2>
+<h2>هل أنت مستعد لتوظيف مطورك الشامل التالي؟</h2>
+<p>أنشئ ملفًا تعريفيًّا لشركتك على <strong>JobsList.dev</strong> وتواصل مع المطورين مباشرةً من خلال إعلانات الوظائف الشفافة, وسير عمل التوظيف الواقعي, وسوق مصمم خصيصًا للمواهب التقنية.</p>
+2:["$","article",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"نموذج وصف وظيفي لمطور برمجيات متكامل (مع نصائح حول عملية الفرز)\",\"description\":\"نموذج عملي لوصف وظيفي لمطور برمجيات متكامل, يمكن نسخه ولصقه مباشرةً, بالإضافة إلى إرشادات من الخبراء حول تحديد مهام الدور, وفرز المرشحين, وتوظيف مطورين قادرين فعليًّا على تولي مسؤولية الميزات من البداية إلى النهاية.\",\"image\":[\"https://jobslist.dev/og-image.png\"],\"datePublished\":\"2026-06-18T00:00:00.000Z\",\"dateModified\":\"2026-06-18T00:00:00.000Z\",\"inLanguage\":\"ar\",\"author\":{\"@type\":\"Organization\",\"name\":\"فريق JobsList.dev\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"JobsList.dev\",\"url\":\"https://jobslist.dev\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://jobslist.dev/ar/blog/full-stack-developer-job-description-template/\"}}"}}],["$","$La",null,{"href":"/ar/blog/","className":"text-sm text-brand-600 hover:text-brand-700","children":["← ","← جميع المقالات"]}],["$","div",null,{"className":"relative mt-6 aspect-[1200/630] overflow-hidden rounded-2xl border border-surface-200 bg-surface-50 shadow-sm dark:border-surface-700 dark:bg-surface-900","children":["$","$Lb",null,{"src":"/og-image.png","alt":"JobsList.dev — where exceptional builders find exceptional work.","fill":true,"priority":true,"sizes":"(max-width: 768px) 100vw, 768px","className":"object-cover"}]}],["$","div",null,{"className":" sticky top-16 z-40  -mx-4 mt-8 px-4 py-3  border-b shadow-sm backdrop-blur-xl  bg-white/95 border-slate-200/80  dark:bg-slate-950/95 dark:border-slate-800/80  supports-[backdrop-filter]:bg-white/80 dark:supports-[backdrop-filter]:bg-slate-950/80  sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8 ","children":["$","h1",null,{"className":" text-xl font-bold tracking-tight  text-slate-900 dark:text-slate-50  truncate ","children":"نموذج وصف وظيفي لمطور برمجيات متكامل (مع نصائح حول عملية الفرز)"}]}],["$","header",null,{"className":"mb-8 mt-6","children":[["$","p",null,{"className":"text-lg leading-8 text-surface-600 dark:text-surface-300","children":"نموذج عملي لوصف وظيفي لمطور برمجيات متكامل, يمكن نسخه ولصقه مباشرةً, بالإضافة إلى إرشادات من الخبراء حول تحديد مهام الدور, وفرز المرشحين, وتوظيف مطورين قادرين فعليًّا على تولي مسؤولية الميزات من البداية إلى النهاية."}],["$","div",null,{"className":"mt-5 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-surface-400","children":[["$","span",null,{"children":"فريق JobsList.dev"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","time",null,{"dateTime":"2026-06-18T00:00:00.000Z","children":"17 يونيو 2026"}],["$","span",null,{"aria-hidden":"true","children":"·"}],["$","span",null,{"children":[8," ","blog.article.minuteRead"]}]]}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","وصف الوظيفة",{"className":"badge-gray","children":"وصف الوظيفة"}],["$","span","قوالب",{"className":"badge-gray","children":"قوالب"}],["$","span","التوظيف",{"className":"badge-gray","children":"التوظيف"}],["$","span","مطور متكامل",{"className":"badge-gray","children":"مطور متكامل"}]]}]]}],["$","div",null,{"className":"article","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","aside",null,{"className":"card mt-12 p-6","children":[["$","p",null,{"className":"text-xs uppercase tracking-wide text-surface-400","children":"blog.article.related"}],["$","h2",null,{"className":"mt-1 text-lg font-semibold text-surface-900 dark:text-white","children":"Full-Stack Engineer blog.article.skillsAssessment"}],["$","p",null,{"className":"mt-2 text-sm text-surface-500 dark:text-surface-400","children":"blog.article.roleAssessmentDescription"}],["$","$La",null,{"href":"/assessments/full-stack-engineer/","className":"mt-4 inline-block text-sm font-medium text-brand-600 hover:text-brand-700","children":"blog.article.viewAssessment →"}]]}],["$","div",null,{"className":"mt-12 flex flex-wrap items-center justify-between gap-4 border-t border-surface-200 pt-8 dark:border-surface-700","children":[["$","$La",null,{"href":"/ar/blog/","className":"btn-secondary btn-sm","children":["← ","← مزيد من المقالات"]}],["$","$La",null,{"href":"/auth/register?role=COMPANY","className":"btn-primary btn-sm","children":"انشر وظيفة"}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#4F6BFF"}],["$","meta","2",{"name":"color-scheme","content":"light dark"}],["$","meta","3",{"charSet":"utf-8"}],["$","title","4",{"children":"نموذج وصف وظيفي لمطور برمجيات متكامل (مع نصائح حول عملية الفرز) | JobsList.dev | JobsList.dev"}],["$","meta","5",{"name":"description","content":"نموذج عملي لوصف وظيفي لمطور برمجيات متكامل, يمكن نسخه ولصقه مباشرةً, بالإضافة إلى إرشادات من الخبراء حول تحديد مهام الدور, وفرز المرشحين, وتوظيف مطورين قادرين فعليًّا على تولي مسؤولية الميزات من البداية إلى النهاية."}],["$","meta","6",{"name":"application-name","content":"JobsList.dev"}],["$","link","7",{"rel":"manifest","href":"/manifest.json"}],["$","meta","8",{"name":"robots","content":"noindex, follow"}],["$","meta","9",{"name":"msapplication-TileColor","content":"#4F6BFF"}],["$","meta","10",{"name":"msapplication-TileImage","content":"/mstile-150x150.png"}],["$","meta","11",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","12",{"name":"apple-mobile-web-app-title","content":"JobsList.dev"}],["$","meta","13",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","14",{"property":"og:title","content":"نموذج وصف وظيفي لمطور برمجيات متكامل (مع نصائح حول عملية الفرز)"}],["$","meta","15",{"property":"og:description","content":"نموذج عملي لوصف وظيفي لمطور برمجيات متكامل, يمكن نسخه ولصقه مباشرةً, بالإضافة إلى إرشادات من الخبراء حول تحديد مهام الدور, وفرز المرشحين, وتوظيف مطورين قادرين فعليًّا على تولي مسؤولية الميزات من البداية إلى النهاية."}],["$","meta","16",{"property":"og:url","content":"https://jobslist.dev/ar/blog/full-stack-developer-job-description-template/"}],["$","meta","17",{"property":"og:locale","content":"ar"}],["$","meta","18",{"property":"og:image","content":"https://jobslist.dev/og-image.png"}],["$","meta","19",{"property":"og:image:width","content":"1200"}],["$","meta","20",{"property":"og:image:height","content":"630"}],["$","meta","21",{"property":"og:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","meta","22",{"property":"og:type","content":"article"}],["$","meta","23",{"property":"article:published_time","content":"2026-06-18T00:00:00.000Z"}],["$","meta","24",{"property":"article:author","content":"فريق JobsList.dev"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"نموذج وصف وظيفي لمطور برمجيات متكامل (مع نصائح حول عملية الفرز)"}],["$","meta","27",{"name":"twitter:description","content":"نموذج عملي لوصف وظيفي لمطور برمجيات متكامل, يمكن نسخه ولصقه مباشرةً, بالإضافة إلى إرشادات من الخبراء حول تحديد مهام الدور, وفرز المرشحين, وتوظيف مطورين قادرين فعليًّا على تولي مسؤولية الميزات من البداية إلى النهاية."}],["$","meta","28",{"name":"twitter:image","content":"https://jobslist.dev/twitter-image.png"}],["$","meta","29",{"name":"twitter:image:width","content":"1200"}],["$","meta","30",{"name":"twitter:image:height","content":"630"}],["$","meta","31",{"name":"twitter:image:alt","content":"JobsList.dev — where exceptional builders find exceptional work."}],["$","link","32",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","33",{"rel":"icon","href":"/icon.png?7fb344a72565aa54","type":"image/png","sizes":"512x512"}],["$","link","34",{"rel":"apple-touch-icon","href":"/apple-icon.png?2a164f131c03e85b","type":"image/png","sizes":"180x180"}],["$","meta","35",{"name":"next-size-adjust"}]]
 1:null
